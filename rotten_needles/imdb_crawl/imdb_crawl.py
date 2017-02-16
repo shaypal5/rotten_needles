@@ -1,11 +1,12 @@
 """Crawls and extracts choice metrics from IMDB movie profiles."""
 
+import sys
 import re
 import os
 from datetime import datetime
 from urllib import request
 import urllib
-import decimal
+import traceback
 
 from bs4 import BeautifulSoup as bs
 import click
@@ -213,6 +214,55 @@ def _get_rating_props(movie_code):
     return rating_props
 
 
+# ==== crawling the business page ====
+
+BUSINESS_URL = 'http://www.imdb.com/title/{code}/business?ref_=tt_dt_bus'
+WEEKEND_CONTENT_REGEX = r"<h5>Weekend Gross</h5>([\s\S]+?)<h5>"
+US_OPEN_WEEKEND_REGEX = r"\$[\s\S]*?\(USA\)[\s\S]*?\(([0-9,]*) Screens\)"
+
+def _get_business_props(movie_code):
+    cur_business_url = BUSINESS_URL.format(code=movie_code)
+    busi_page = bs(request.urlopen(cur_business_url), "html.parser")
+    busi_str = str(busi_page)
+    weekend_contents = re.findall(WEEKEND_CONTENT_REGEX, busi_str)[0]
+    num_screens_list = [
+        int(match.replace(',', ''))
+        for match in re.findall(US_OPEN_WEEKEND_REGEX, weekend_contents)]
+    busi_props = {}
+    busi_props['max_screens'] = max(num_screens_list)
+    busi_props['avg_screens'] = sum(num_screens_list) / len(num_screens_list)
+    busi_props['num_weekends'] = len(num_screens_list)
+    return busi_props
+
+
+# ==== crawling the release page ====
+
+RELEASE_URL = 'http://www.imdb.com/title/{code}/releaseinfo'
+USA_ROW_REGEX = r"<tr[\s\S]*?USA[\s\S]*?(\d\d?)\s+([a-zA-Z]+)"\
+                r"[\s\S]*?(\d\d\d\d)[\s\S]*?<td></td>[\s\S]*?</tr>"
+
+def _get_release_props(movie_code):
+    cur_release_url = RELEASE_URL.format(code=movie_code)
+    release_page = bs(urllib.request.urlopen(cur_release_url), "html.parser")
+    release_table = release_page.find_all("table", {"id": "release_dates"})[0]
+    us_rows = []
+    for row in release_table.find_all("tr")[1:]:
+        row_str = str(row)
+        if 'USA' in row_str:
+            us_rows.append(row_str)
+    release_props = {}
+    release_props['release_day'] = None
+    release_props['release_month'] = None
+    release_props['release_year'] = None
+    for row in us_rows:
+        if re.match(USA_ROW_REGEX, row):
+            release = re.findall(USA_ROW_REGEX, row)[0]
+            release_props['release_day'] = int(release[0])
+            release_props['release_month'] = release[1]
+            release_props['release_year'] = int(release[2])
+    return release_props
+
+
 # ==== crawling a movie profile ====
 
 TITLE_QUERY = (
@@ -257,6 +307,8 @@ def crawl_movie_profile(movie_name):
     props['duration'] = _get_duration(prof_page)
     props.update(_get_box_office_props(prof_page))
     props.update(_get_rating_props(movie_code))
+    props.update(_get_business_props(movie_code))
+    props.update(_get_release_props(movie_code))
     return props
 
 
@@ -269,6 +321,11 @@ REPO_DIR_PATH = os.path.dirname(PACKAGE_DIR_PATH)
 DATA_DIR_PATH = os.path.join(REPO_DIR_PATH, 'data')
 PROFILES_DIR_PATH = os.path.join(DATA_DIR_PATH, 'movie_profiles')
 
+class _result:
+    SUCCESS = 'succeeded'
+    FAILURE = 'failed'
+    EXIST = 'already exist'
+    ALL_TYPES = [SUCCESS, FAILURE, EXIST]
 
 def save_movie_profile(movie_name, verbose, parent_pbar=None):
     """Extracts a movie profile from IMDB and saves it to disk."""
@@ -276,6 +333,9 @@ def save_movie_profile(movie_name, verbose, parent_pbar=None):
         if verbose:
             if parent_pbar is not None:
                 parent_pbar.set_description(msg)
+                parent_pbar.refresh()
+                sys.stdout.flush()
+                tqdm()
             else:
                 print(msg)
 
@@ -284,18 +344,23 @@ def save_movie_profile(movie_name, verbose, parent_pbar=None):
     file_name = movie_name.replace(' ', '_').lower() + '.json'
     file_path = os.path.join(PROFILES_DIR_PATH, file_name)
     if os.path.isfile(file_path):
-        _print('Movie already processed.')
-        return
+        _print('{} already processed'.format(movie_name))
+        return _result.EXIST
 
-    _print("Extracting a profile for {} from IMDB...".format(movie_name))
-    props = crawl_movie_profile(movie_name)
-    _print("Profile extracted succesfully")
-
-    _print("Saving profile for {} to disk...".format(movie_name))
-    with open(file_path, 'w+') as json_file:
-        # json.dump(props, json_file, cls=_RottenJsonEncoder, indent=2)
-        dump(props, json_file, indent=2)
-    _print("Done saving a profile for {}.".format(movie_name))
+    # _print("Extracting a profile for {} from IMDB...".format(movie_name))
+    try:
+        props = crawl_movie_profile(movie_name)
+        # _print("Profile extracted succesfully")
+        # _print("Saving profile for {} to disk...".format(movie_name))
+        with open(file_path, 'w+') as json_file:
+            # json.dump(props, json_file, cls=_RottenJsonEncoder, indent=2)
+            dump(props, json_file, indent=2)
+        _print("Done saving a profile for {}.".format(movie_name))
+        return _result.SUCCESS
+    except Exception:
+        _print("Extracting a profile for {} failed".format(movie_name))
+        # traceback.print_exc()
+        return _result.FAILURE
 
 
 @click.command()
@@ -307,18 +372,34 @@ def save_cli(movie_name, verbose):
     save_movie_profile(movie_name, verbose)
 
 
+def _file_length(file_path):
+    length = 0
+    with open(file_path, 'r') as movies_file:
+        for line in movies_file:
+            length += 1
+    return length
+
+
 @click.command()
 @click.argument("file_path", type=str, nargs=1)
 @click.option("-v", "--verbose", is_flag=True,
               help="Print information to screen.")
 def crawl_by_file(file_path, verbose=False):
     """Crawls IMDB and builds movie profiles for a movies in the given file."""
+    results = {res_type : 0 for res_type in _result.ALL_TYPES}
+    num_lines = _file_length(file_path)
     with open(file_path, 'r') as movies_file:
         if verbose:
-            print("Crawling over all movies in {}...".format(file_path))
-        movie_pbar = tqdm(movies_file)
+            print("Crawling over all {} movies in {}...".format(
+                num_lines, file_path))
+        movie_pbar = tqdm(movies_file, miniters=1, maxinterval=0.0001,
+                          mininterval=0.00000000001, total=num_lines)
         for line in movie_pbar:
-            save_movie_profile(line.strip(), verbose, movie_pbar)
+            res = save_movie_profile(line.strip(), verbose, movie_pbar)
+            results[res] += 1
+    print("{} movies crawled.")
+    for res_type in _result.ALL_TYPES:
+        print('{} {}.'.format(results[res_type], res_type))
 
 
 # === uniting movie profiles to csv ===
