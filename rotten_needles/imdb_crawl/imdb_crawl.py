@@ -5,13 +5,33 @@ import os
 from datetime import datetime
 from urllib import request
 import urllib
-import json
 import decimal
-import time
 
 from bs4 import BeautifulSoup as bs
 import click
 from tqdm import tqdm
+import pandas as pd
+
+from .jsondate import load, dump
+
+
+# === utility methods ===
+
+def clear_empty_profiles():
+    """Clears all empty profiles in the profile directory."""
+    print("Clearing empty movie profiles...")
+    if not os.path.exists(PROFILES_DIR_PATH):
+        print("No profiles to clear!")
+    for profile_file in os.listdir(PROFILES_DIR_PATH):
+        file_path = os.path.join(PROFILES_DIR_PATH, profile_file)
+        with open(file_path, 'r') as json_file:
+            if sum(1 for line in json_file) < 1:
+                print('Deleting {}'.format(profile_file))
+                # os.remove(file_path)
+
+
+def _parse_string(string):
+    return string.lower().strip().replace(' ', '_')
 
 
 # ==== extracting movie properties ====
@@ -29,7 +49,7 @@ def _get_rating_count(prof_page):
 def _get_geners(prof_page):
     genres = []
     for span in prof_page.find_all("span", {"itemprop": "genre"}):
-        genres.append(span.contents[0])
+        genres.append(_parse_string(span.contents[0]))
     return genres
 
 
@@ -184,8 +204,8 @@ def _get_rating_props(movie_code):
     avg_rating_per_demo = {}
     for row in demog_content:
         try:
-            votes_per_demo[row[0].strip()] = int(row[1])
-            avg_rating_per_demo[row[0].strip()] = float(row[2])
+            votes_per_demo[_parse_string(row[0])] = int(row[1])
+            avg_rating_per_demo[_parse_string(row[0])] = float(row[2])
         except IndexError:
             pass
     rating_props['votes_per_demo'] = votes_per_demo
@@ -240,23 +260,14 @@ def crawl_movie_profile(movie_name):
     return props
 
 
-# ==== crawling a movie profile ====
-
-class _RottenJsonEncoder(json.JSONEncoder):
-    def default(self, obj): # pylint: disable=E0202
-        if hasattr(obj, 'isoformat'):
-            return obj.isoformat()
-        elif isinstance(obj, decimal.Decimal):
-            return float(obj)
-        else:
-            return json.JSONEncoder.default(self, obj)
-
+# ==== interface ====
 
 HOMEDIR = os.path.expanduser("~")
-PACKAGE_DIR_PATH = os.path.dirname(os.path.realpath(__file__))
-REPO_DIR_PATH = os.path.dirname(os.path.realpath(PACKAGE_DIR_PATH))
+IMDB_SUBPACKAGE_PATH = os.path.dirname(os.path.realpath(__file__))
+PACKAGE_DIR_PATH = os.path.dirname(IMDB_SUBPACKAGE_PATH)
+REPO_DIR_PATH = os.path.dirname(PACKAGE_DIR_PATH)
 DATA_DIR_PATH = os.path.join(REPO_DIR_PATH, 'data')
-PROFILES_DIR_PATH = os.path.join(REPO_DIR_PATH, 'movie_profiles')
+PROFILES_DIR_PATH = os.path.join(DATA_DIR_PATH, 'movie_profiles')
 
 
 def save_movie_profile(movie_name, verbose, parent_pbar=None):
@@ -281,8 +292,9 @@ def save_movie_profile(movie_name, verbose, parent_pbar=None):
     _print("Profile extracted succesfully")
 
     _print("Saving profile for {} to disk...".format(movie_name))
-    with open(file_path, 'w+') as yaml_file:
-        json.dump(props, yaml_file, cls=_RottenJsonEncoder, indent=2)
+    with open(file_path, 'w+') as json_file:
+        # json.dump(props, json_file, cls=_RottenJsonEncoder, indent=2)
+        dump(props, json_file, indent=2)
     _print("Done saving a profile for {}.".format(movie_name))
 
 
@@ -307,3 +319,72 @@ def crawl_by_file(file_path, verbose=False):
         movie_pbar = tqdm(movies_file)
         for line in movie_pbar:
             save_movie_profile(line.strip(), verbose, movie_pbar)
+
+
+# === uniting movie profiles to csv ===
+
+DEMOGRAPHICS = [
+    'aged_under_18',
+    'males_under_18',
+    'males_aged_45+',
+    'females',
+    'males_aged_18-29',
+    'imdb_staff',
+    'imdb_users',
+    'males',
+    'aged_30-44',
+    'females_aged_45+',
+    'aged_18-29',
+    'females_aged_18-29',
+    'aged_45+',
+    'males_aged_30-44',
+    'top_1000_voters',
+    'females_under_18',
+    'females_aged_30-44',
+    'us_users',
+    'non-us_users'
+]
+
+def _decompose_dict_column(df, colname, allowed_cols):
+    newdf = df[colname].apply(pd.Series)
+    newdf = newdf.drop([
+        col for col in newdf.columns if col not in allowed_cols], axis=1)
+    newdf.columns = [colname+'.'+col for col in newdf.columns]
+    return pd.concat([df.drop([colname], axis=1), newdf], axis=1)
+
+
+def _dummy_list_column(df, colname):
+    value_set = set([
+        value for value_list in df[colname].dropna() for value in value_list])
+    def _value_list_to_dict(value_list):
+        try:
+            return {
+                value : 1 if value in value_list else 0
+                for value in value_set}
+        except TypeError:
+            return {value : 0 for value in value_set}
+    df[colname] = df[colname].apply(_value_list_to_dict)
+    return _decompose_dict_column(df, colname, list(value_set))
+
+
+def unite_profiles():
+    """Unite all movie profiles in the profile directory."""
+    print("Uniting movie profiles unti one csv file...")
+    if not os.path.exists(PROFILES_DIR_PATH):
+        print("No profiles to unite!")
+    profiles = []
+    for profile_file in os.listdir(PROFILES_DIR_PATH):
+        print('Reading {}'.format(profile_file))
+        file_path = os.path.join(PROFILES_DIR_PATH, profile_file)
+        file_name, ext = os.path.splitext(file_path)
+        if ext == '.json':
+            with open(file_path, 'r') as json_file:
+                profiles.append(load(json_file))
+    df = pd.DataFrame(profiles)
+    df = _decompose_dict_column(df, 'avg_rating_per_demo', DEMOGRAPHICS)
+    df = _decompose_dict_column(df, 'votes_per_demo', DEMOGRAPHICS)
+    df = _decompose_dict_column(
+        df, 'rating_freq', [str(i) for i in range(1, 11)])
+    df = _dummy_list_column(df, 'genres')
+    unison_fpath = os.path.join(DATA_DIR_PATH, 'movie_profiles.csv')
+    df.to_csv(unison_fpath)

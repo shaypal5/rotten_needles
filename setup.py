@@ -34,6 +34,8 @@ setup(
         [console_scripts]
         rotten-saveprof=rotten_needles.imdb_crawl.imdb_crawl:save_cli
         rotten-byfile=rotten_needles.imdb_crawl.imdb_crawl:crawl_by_file
+        rotten-unite=rotten_needles.imdb_crawl.imdb_crawl:unite_profiles
+        rotten-clear=rotten_needles.imdb_crawl.imdb_crawl:clear_empty_profiles
     ''',
     install_requires=[
         'beautifulsoup4', 'click'
