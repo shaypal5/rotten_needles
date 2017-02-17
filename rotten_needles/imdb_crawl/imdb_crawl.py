@@ -14,6 +14,7 @@ from tqdm import tqdm
 import pandas as pd
 
 from .jsondate import load, dump
+from ..shared import *
 
 
 # === utility methods ===
@@ -314,13 +315,6 @@ def crawl_movie_profile(movie_name):
 
 # ==== interface ====
 
-HOMEDIR = os.path.expanduser("~")
-IMDB_SUBPACKAGE_PATH = os.path.dirname(os.path.realpath(__file__))
-PACKAGE_DIR_PATH = os.path.dirname(IMDB_SUBPACKAGE_PATH)
-REPO_DIR_PATH = os.path.dirname(PACKAGE_DIR_PATH)
-DATA_DIR_PATH = os.path.join(REPO_DIR_PATH, 'data')
-PROFILES_DIR_PATH = os.path.join(DATA_DIR_PATH, 'movie_profiles')
-
 class _result:
     SUCCESS = 'succeeded'
     FAILURE = 'failed'
@@ -357,10 +351,12 @@ def save_movie_profile(movie_name, verbose, parent_pbar=None):
             dump(props, json_file, indent=2)
         _print("Done saving a profile for {}.".format(movie_name))
         return _result.SUCCESS
-    except Exception:
-        _print("Extracting a profile for {} failed".format(movie_name))
+    except Exception as exc:
+        # _print("Extracting a profile for {} failed".format(movie_name))
         # traceback.print_exc()
-        return _result.FAILURE
+        # return _result.FAILURE
+        print("Extracting a profile for {} failed with:".format(movie_name))
+        raise exc
 
 
 @click.command()
