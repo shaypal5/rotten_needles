@@ -15,6 +15,10 @@ import pandas as pd
 
 from .jsondate import load, dump
 from ..shared import *
+from ..shared import (
+    _result,
+
+)
 
 
 # === utility methods ===
@@ -315,12 +319,6 @@ def crawl_movie_profile(movie_name):
 
 # ==== interface ====
 
-class _result:
-    SUCCESS = 'succeeded'
-    FAILURE = 'failed'
-    EXIST = 'already exist'
-    ALL_TYPES = [SUCCESS, FAILURE, EXIST]
-
 def save_movie_profile(movie_name, verbose, parent_pbar=None):
     """Extracts a movie profile from IMDB and saves it to disk."""
     def _print(msg):
@@ -352,11 +350,11 @@ def save_movie_profile(movie_name, verbose, parent_pbar=None):
         _print("Done saving a profile for {}.".format(movie_name))
         return _result.SUCCESS
     except Exception as exc:
-        # _print("Extracting a profile for {} failed".format(movie_name))
+        _print("Extracting a profile for {} failed".format(movie_name))
         # traceback.print_exc()
-        # return _result.FAILURE
-        print("Extracting a profile for {} failed with:".format(movie_name))
-        raise exc
+        return _result.FAILURE
+        # print("Extracting a profile for {} failed with:".format(movie_name))
+        # raise exc
 
 
 @click.command()
@@ -368,12 +366,7 @@ def save_cli(movie_name, verbose):
     save_movie_profile(movie_name, verbose)
 
 
-def _file_length(file_path):
-    length = 0
-    with open(file_path, 'r') as movies_file:
-        for line in movies_file:
-            length += 1
-    return length
+
 
 
 @click.command()

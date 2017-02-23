@@ -37,6 +37,8 @@ setup(
         rotten-unite=rotten_needles.imdb_crawl.imdb_crawl:unite_profiles
         rotten-clear=rotten_needles.imdb_crawl.imdb_crawl:clear_empty_profiles
         rotten-titles=rotten_needles.crawl_wikipedia:generate_title_files
+        rotten-meta-movie=rotten_needles.metacritic_crawler:save_cli
+        rotten-meta-byfile=rotten_needles.metacritic_crawler:by_file_cli
     ''',
     install_requires=[
         'beautifulsoup4', 'click'
