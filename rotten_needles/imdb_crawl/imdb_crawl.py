@@ -13,11 +13,12 @@ import click
 from tqdm import tqdm
 import pandas as pd
 
-from .jsondate import load, dump
-from ..shared import *
-from ..shared import (
+import morejson as json
+from rotten_needles.shared import (
+    PROFILES_DIR_PATH,
+    _file_length,
     _result,
-
+    _parse_name_for_file_name
 )
 
 
@@ -333,7 +334,7 @@ def save_movie_profile(movie_name, verbose, parent_pbar=None):
 
     if not os.path.exists(PROFILES_DIR_PATH):
         os.makedirs(PROFILES_DIR_PATH)
-    file_name = movie_name.replace(' ', '_').lower() + '.json'
+    file_name = _parse_name_for_file_name(movie_name) + '.json'
     file_path = os.path.join(PROFILES_DIR_PATH, file_name)
     if os.path.isfile(file_path):
         _print('{} already processed'.format(movie_name))
@@ -346,7 +347,7 @@ def save_movie_profile(movie_name, verbose, parent_pbar=None):
         # _print("Saving profile for {} to disk...".format(movie_name))
         with open(file_path, 'w+') as json_file:
             # json.dump(props, json_file, cls=_RottenJsonEncoder, indent=2)
-            dump(props, json_file, indent=2)
+            json.dump(props, json_file, indent=2)
         _print("Done saving a profile for {}.".format(movie_name))
         return _result.SUCCESS
     except Exception as exc:
@@ -449,7 +450,7 @@ def unite_profiles():
         file_name, ext = os.path.splitext(file_path)
         if ext == '.json':
             with open(file_path, 'r') as json_file:
-                profiles.append(load(json_file))
+                profiles.append(json.load(json_file))
     df = pd.DataFrame(profiles)
     df = _decompose_dict_column(df, 'avg_rating_per_demo', DEMOGRAPHICS)
     df = _decompose_dict_column(df, 'votes_per_demo', DEMOGRAPHICS)

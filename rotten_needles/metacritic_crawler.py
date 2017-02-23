@@ -199,7 +199,7 @@ def save_metacrictic_movie_profile(movie_name, verbose, parent_pbar=None):
                 print(msg)
     if not os.path.exists(METACRITIC_DIR_PATH):
         os.makedirs(METACRITIC_DIR_PATH)
-    file_name = _parse_name_for_file_name(movie_name)
+    file_name = _parse_name_for_file_name(movie_name) + ".json"
     file_path = os.path.join(METACRITIC_DIR_PATH, file_name)
     if os.path.isfile(file_path):
         _print('{} already processed'.format(movie_name))
