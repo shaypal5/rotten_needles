@@ -1,11 +1,11 @@
 {
-  "avg_user_score": 7.1,
-  "metascore": 58,
-  "mixed_rating_frequency": 29,
-  "movie_name": "The Voices",
-  "negative_rating_frequency": 4,
-  "positive_rating_frequency": 54,
-  "pro_critic_reviews": [
+  "mc_avg_user_score": 7.1,
+  "mc_metascore": 58,
+  "mc_mixed_rating_frequency": 29,
+  "mc_movie_name": "The Voices",
+  "mc_negative_rating_frequency": 4,
+  "mc_positive_rating_frequency": 54,
+  "mc_pro_critic_reviews": [
     {
       "critic": "Eric D. Snider",
       "publication": "Film.com",
@@ -295,7 +295,21 @@
       "summary": "For most of the film's running time, one mistakes the main character's callousness for the filmmakers'."
     }
   ],
-  "user_reviews": [
+  "mc_user_reviews": [
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 6,
+        "year": 2015
+      },
+      "score": 5,
+      "text": "Ryan Reynolds gives a bravura performance as unhinged Jerry, anchoring an film that's fun and funny (but desperately slight and forgettable) in equal measures.",
+      "total_reactions": 3,
+      "user": "EdgarReviews"
+    },
     {
       "neg_reactions": 1,
       "pos_reactions": 1,
@@ -323,20 +337,6 @@
       "text": "Ok....Reynolds brings back his Just Friends Character and now hes got a awesome cat....and he kills a girl and I hope the movie tries to make it seem like the pillz made him do all of it....antidepressants are just like methadone and suboxone and its completely insane...oh man....this is the feel good movie of the world....i love seeing pretty women get killed....its just like god taking away the gift of prettiness when they didn't deserve it...women=shallow overpopulaters",
       "total_reactions": 2,
       "user": "CameraBounceGod"
-    },
-    {
-      "neg_reactions": 1,
-      "pos_reactions": 1,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 27,
-        "month": 6,
-        "year": 2015
-      },
-      "score": 5,
-      "text": "Ryan Reynolds gives a bravura performance as unhinged Jerry, anchoring an film that's fun and funny (but desperately slight and forgettable) in equal measures.",
-      "total_reactions": 2,
-      "user": "EdgarReviews"
     },
     {
       "neg_reactions": 2,

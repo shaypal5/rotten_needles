@@ -1,346 +1,980 @@
 {
-  "avg_user_score": 1.9,
-  "metascore": 22,
-  "mixed_rating_frequency": 3,
-  "movie_name": "God's Not Dead 2",
-  "negative_rating_frequency": 109,
-  "positive_rating_frequency": 23,
-  "pro_critic_reviews": [
+  "mc_avg_user_score": 3.4,
+  "mc_metascore": 16,
+  "mc_mixed_rating_frequency": 19,
+  "mc_movie_name": "God's Not Dead",
+  "mc_negative_rating_frequency": 224,
+  "mc_positive_rating_frequency": 106,
+  "mc_pro_critic_reviews": [
     {
-      "critic": "Bill Zwecker",
-      "publication": "Chicago Sun-Times",
+      "critic": "Stephen Farber",
+      "publication": "The Hollywood Reporter",
       "review_date": {
         "__type__": "datetime.date",
-        "day": 31,
+        "day": 23,
         "month": 3,
-        "year": 2016
+        "year": 2014
       },
-      "score": 63,
-      "summary": "While the actors do a yeoman\u2019s job in presenting their characters with aplomb (especially Jesse Metcalfe, as Wesley\u2019s lawyer), the entire film simply comes off as a two-hour, jazzed-up movie version of a sermon."
+      "score": 40,
+      "summary": "The film has entertaining moments, but these are clearly secondary to its proselytizing intentions."
     },
     {
-      "critic": "Dave White",
-      "publication": "TheWrap",
+      "critic": "Roger Moore",
+      "publication": "McClatchy-Tribune News Service",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 38,
+      "summary": "The pace is stumbling, the characters are broad, the makeup and the performances uneven, though Sorbo dives into his tactless, unethical indoctrinator role with Satanic glee."
+    },
+    {
+      "critic": "Mike McCahill",
+      "publication": "The Guardian",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 20,
+      "summary": "Ban this sick filth."
+    },
+    {
+      "critic": "Scott Foundas",
+      "publication": "Variety",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 20,
+      "summary": "Even grading on a generous curve, this strident melodrama about the insidious efforts of America\u2019s university system to silence true believers on campus is about as subtle as a stack of Bibles falling on your head."
+    },
+    {
+      "critic": "Todd VanDerWerff",
+      "publication": "The A.V. Club",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 24,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 16,
+      "summary": "Even by the rather lax standards of the Christian film industry, God\u2019s Not Dead is a disaster."
+    },
+    {
+      "critic": "Marjorie Baumgarten",
+      "publication": "Austin Chronicle",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 0,
+      "summary": "Any just God would likely recoil from the ham-fisted and spurious defense put forth in this film."
+    }
+  ],
+  "mc_user_reviews": [
+    {
+      "neg_reactions": 7,
+      "pos_reactions": 21,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "Well I just got back from seeing God's not Dead and I got to say it's a piece of **** But if it was merely just a piece of **** I wouldn't even be complaining but it goes above and beyond your traditional piece of ****.",
+      "total_reactions": 28,
+      "user": "SuperScrub"
+    },
+    {
+      "neg_reactions": 11,
+      "pos_reactions": 27,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "I cannot describe how wrong and shameful this movie is, not to mention how easily the producers of this movie fill their own pockets at the expense of true believing Christians. Although I'm an atheist, I'm offended for Christians, Atheists, Buddhists, Muslims, and many other groups that are slandered/ misrepresented in this film",
+      "total_reactions": 38,
+      "user": "fityspence"
+    },
+    {
+      "neg_reactions": 15,
+      "pos_reactions": 28,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "To put it simply, this movie might as well be made by the Nazis, portraying them as the victims of WW2 from the Jews. Seriously tho, this is sickening propaganda. It literally switches the role of Christians with anyone else and tries to make it seem as if they are somehow a super minority that is bullied by everyone else. Worst off is that the film tries to give a few cases where such a thing has happened to Christians, but apparently they thought everyone watching this would be far too stupid to fact check, because for anyone who does, you'll find that none of the cases listed actually has anything to do with what happened to the main character in the film. In fact, most of the example cases they gave actually revolve around Christians trying to gain privileges over other groups within schools. It doesn't matter what religion you follow, if any... This movie will make you want to puke at how disgusting this film tries to change reality.",
+      "total_reactions": 43,
+      "user": "MaxHazard"
+    },
+    {
+      "neg_reactions": 19,
+      "pos_reactions": 33,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 24,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "typical religious propaganda, of course the movie chooses to portray the atheist as the bad guy since this is a religious movie. The Acting is horrible, I mean what kind of sane minded college professor would attack his student like that? This movie is offensive to the atheist and secular community as long as other non Christian religious communities.",
+      "total_reactions": 52,
+      "user": "eddie332"
+    },
+    {
+      "neg_reactions": 11,
+      "pos_reactions": 18,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 24,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "Aside from the ham-fisted arguments presented, this movie portrays atheists and angry d*cks who are just denying the existence of god because of an emotional reason.",
+      "total_reactions": 29,
+      "user": "MegaSolipsist"
+    },
+    {
+      "neg_reactions": 78,
+      "pos_reactions": 22,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 26,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "I came from Europe and I went to see this movie, which I thought is another American irrelevant movie, but I realize that this movie has to be seen by each one of us.",
+      "total_reactions": 100,
+      "user": "UnOm"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 5,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 8,
+        "year": 2015
+      },
+      "score": 0,
+      "text": "This was the worst movie I have ever seen.  To start with it fails to prove that God exists through science.  I believe God does exist and that science can prove it.   But this movie failed to do so.  Then the clear message of the movie is good vs evil which is Christians vs everyone else- Atheists and Muslims to be specific.  Not a good way to get people to believe.  The acting is also horrible.  Really I cannot believe anyone took this movie seriously at all.",
+      "total_reactions": 5,
+      "user": "jewelgirl"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 2,
       "review_date": {
         "__type__": "datetime.date",
         "day": 1,
         "month": 4,
         "year": 2016
       },
-      "score": 40,
-      "summary": "Its pulls back from the original film\u2019s cruelty and comeuppances for non-believers, yet its non-Christian characters are still parodies of human evil: greedy, bitter, violent, and out to prove that \u201cGod is dead.\u201d"
+      "score": 0,
+      "text": "Painful. Every shot of this movie is unoriginal and generic and  the main character is a gullible buffoon.",
+      "total_reactions": 2,
+      "user": "FelixKovac"
     },
     {
-      "critic": "Roger Moore",
-      "publication": "Movie Nation",
+      "neg_reactions": 0,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 26,
+        "month": 4,
+        "year": 2015
+      },
+      "score": 0,
+      "text": "Horrible misrepresentations of other religions and beliefs. This is shameful.It portrays atheists and muslim people as hateful, angry, stupid people with absolutely no understanding of the universe. It made me sick that anyone would invest time in creating such a hateful film.",
+      "total_reactions": 2,
+      "user": "IU666"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 9,
+        "month": 4,
+        "year": 2016
+      },
+      "score": 0,
+      "text": "Listen, I'm not a Christian, but I am religious, and in sort of a Christian way. I don't know what it is about these movies, but they almost always get it wrong! I can call up my church and get a better SHORT film than that of these high budget propaganda films (and yes, that's what they are). God's Not Dead is interesting, if only because of the shameful aspect that enough people saw this movie to warrant a sequel.",
+      "total_reactions": 1,
+      "user": "lazatoy"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 8,
+        "month": 5,
+        "year": 2015
+      },
+      "score": 1,
+      "text": "Yet another self-righteous piece of crap from people who suffer from severe persecution complex. It's preaching to the choir; this is what the religious right watches before writing their articles on Conservative Tribune or whatever. It has WAY too many plots and sub-plots, to the point of me saying \"what the hell is going on?\". It lacks any likeable characters, with the possible exception of the evil, oh so despicable, atheist professor. Kevin Sorbo does a half-decent job of portraying the evil atheist (and it's clear he has a lot of fun with the role), but even his character is too ridiculous to suspend belief. And there's a Muslim girl who is persecuted by her dad, because of course there is. I can see this film becoming a cult classic due to how awful it is, sharing that dubious honor with the likes of Reefer Madness and Troll 2.",
+      "total_reactions": 1,
+      "user": "tmlorfing"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 8,
+        "month": 10,
+        "year": 2014
+      },
+      "score": 5,
+      "text": "This is a movie that failed so badly that it becomes good; a bit like \"The Room\".",
+      "total_reactions": 1,
+      "user": "TimTeamTebow"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 10,
+        "year": 2014
+      },
+      "score": 3,
+      "text": "With how the film spread the word of God is remarkable. However, the plot and the character development was poorly made in such a way that you would expect to have more meaningful ending but ended with a nonsense death and oh so happy concert.",
+      "total_reactions": 1,
+      "user": "xenonpages"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 1,
       "review_date": {
         "__type__": "datetime.date",
         "day": 5,
         "month": 4,
         "year": 2016
       },
-      "score": 38,
-      "summary": "In a righteous world, the better-acted, upbeat and faith-affirming \u201cMiracles from Heaven\u201d would eat this angry tirade for lunch."
-    },
-    {
-      "critic": "Sheila O'Malley",
-      "publication": "RogerEbert.com",
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 1,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 38,
-      "summary": "There are serious movies about the Christian faith, about the persecution of the faithful, and about the intolerance that goes both ways. God's Not Dead 2 is not one of them."
-    },
-    {
-      "critic": "Dominick Suzanne-Mayer",
-      "publication": "Consequence of Sound",
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 1,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 25,
-      "summary": "There is a tone of anger that sneaks out of the film in even its moments of levity."
-    },
-    {
-      "critic": "Vadim Rizov",
-      "publication": "The A.V. Club",
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 1,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 25,
-      "summary": "The first film pandered to a heavy persecution complex; this installment\u2019s relatively subtler, but there are dog whistles aplenty."
-    },
-    {
-      "critic": "Jordan Hoffman",
-      "publication": "The Guardian",
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 1,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 20,
-      "summary": "God\u2019s Not Dead 2 is a much better movie than God\u2019s Not Dead, but that\u2019s a bit like saying a glass of milk left on the table hasn\u2019t curdled and is merely sour."
-    },
-    {
-      "critic": "Nick Schager",
-      "publication": "Variety",
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 1,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 0,
-      "summary": "Dramatically speaking, God\u2019s Not Dead 2 operates at the level of your average middle-school play \u2013 except with far greater levels of upside-down logic and bald-faced intolerance for anyone not enraptured by the New Testament."
-    }
-  ],
-  "user_reviews": [
-    {
-      "neg_reactions": 3,
-      "pos_reactions": 22,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 2,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 0,
-      "text": "Conservative propaganda at its finest. I hate this movie and its predecessor, for the matter. From the getgo, all this movie does is villainize  atheism and the other side in order to push its agenda, the problem with court based movies  is that more often that not, people watch court based movies to see 2 sides clashing equally when in this movie, its clearly more one sided in its arguments. One guy even goes as far to say, \"were at war,\" which spreads the \"us vs them mentality and I just hate that. If jesus were real, he wouldn't want atheists or non-believers out to be bad by using these fear mongering tactics, its absolutly ridiculous to make the assumption that Jesus Christ, a man who dined with thieves and prostitutes would see them that way if they didn't see things the way he saw them.  I'm sorry, regardless of your beliefs this movie is an absolutely ridiculous right-wing propaganda piece that in no way shows the teachings of Jesus Christ.",
-      "total_reactions": 25,
-      "user": "bfoore90"
-    },
-    {
-      "neg_reactions": 10,
-      "pos_reactions": 31,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 2,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 0,
-      "text": "I hate this movie. As a Christian, the fact this movie exists is a failure.",
-      "total_reactions": 41,
-      "user": "EMS"
-    },
-    {
-      "neg_reactions": 5,
-      "pos_reactions": 15,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 2,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 0,
-      "text": "Was there any need for a second one, seriously. This is almost the exact same movie, just with a two on it. Plus didn't I already say that gods dead. They probably didn't listen.",
-      "total_reactions": 20,
-      "user": "gameguardian21"
-    },
-    {
-      "neg_reactions": 53,
-      "pos_reactions": 26,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 2,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 10,
-      "text": "In a world where liberal atheists will stop at nothing to destroy the rights of innocent Christians, only one Nickelodeon sitcom star can show an African-American judge what happens when kids start reading Nietzsche. The continuation of Kevin Sorbo's epic saga. God's Not Dead II: Not Deadder.",
-      "total_reactions": 79,
-      "user": "b_reno"
-    },
-    {
-      "neg_reactions": 2,
-      "pos_reactions": 12,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 4,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 0,
-      "text": "This isn't a movie, it's propaganda that makes up ridiculous scenarios that would never happen in America. It's an insult to countries where people are actually oppressed for believing the wrong religion, or not believing.",
-      "total_reactions": 14,
-      "user": "jimmyrustles1"
-    },
-    {
-      "neg_reactions": 1,
-      "pos_reactions": 4,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 3,
-        "month": 5,
-        "year": 2016
-      },
       "score": 1,
-      "text": "This movie is one of the worst religious movies I have seen in some time. The villainising of the atheists from the beginning is extremely offensive and easy for the plot, what little there is. Skip this one.",
-      "total_reactions": 5,
-      "user": "rmsc12"
+      "text": "I'm getting used to Christian movies getting very low ratings -- and I always thought it was due to bias. I therefore decided to make up my own mind about it. This seemed to be a good choice after hearing that there was a lot of hype about it and that it could not be missed. Whatever could have been a great story with a satisfying ending to both Christians and non-Christians, was destroyed by two things:  the absolute, almost aggressive bias towards non-believers and the excruciatingly bad acting. I could not even finish it. This kind of propagandist rubbish makes a joke of Christianity. Please don't waste your time watching it.",
+      "total_reactions": 1,
+      "user": "aaronlevin"
     },
     {
       "neg_reactions": 1,
-      "pos_reactions": 3,
+      "pos_reactions": 6,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 25,
-        "month": 4,
-        "year": 2016
+        "day": 6,
+        "month": 12,
+        "year": 2014
+      },
+      "score": 3,
+      "text": "Summary: God's Not Dead is filled with dull performances, stupid characters and random situations. 30/100 [D+]",
+      "total_reactions": 7,
+      "user": "GuillermoBM"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 5,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 11,
+        "year": 2014
       },
       "score": 0,
-      "text": "can i buy my wasted time watching this crap?",
-      "total_reactions": 4,
-      "user": "TheBoy6"
+      "text": "Terrible. Just terrible.  Perhaps what offended me the most was how ALL the non-Christians were portrayed as despicable, disgusting human beings while ALL the Christians came off as benevolent, caring and filled with humility. I have never seen more hogwash. I find these attempts at proselytizing terribly offensive.",
+      "total_reactions": 6,
+      "user": "habrown"
     },
     {
       "neg_reactions": 5,
       "pos_reactions": 13,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 3,
-        "month": 4,
-        "year": 2016
+        "day": 30,
+        "month": 3,
+        "year": 2014
       },
-      "score": 2,
-      "text": "Yes, I've just seen God's Not Dead 2, but why some may ask? I dunno. This is yet another insulting movie that picks on religion and makes atheists look like the most evil people on the planet. This whole movie is nothing but a big joke, but that could easily be the case, since this movie came out on April Fools Day.",
+      "score": 5,
+      "text": "I give this movie a mixed  (solid 5) review because it generally does nothing for either group: Christian theists or non-believers/skeptics.",
       "total_reactions": 18,
-      "user": "MattBrady99"
+      "user": "Igiveup"
+    },
+    {
+      "neg_reactions": 4,
+      "pos_reactions": 10,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "I became interested in this movie after I came across its trailer. I do not support any religious view but I wanted to see a movie that would challenge me philosophically about the presence of a deity as it promised and basically the arguments in the movie is a disgrace to logic. There are too many unnecessary characters that do not contribute to the overall scenario and when the entire movie prepares you for a showdown of logic and fails you during the process, then it is hard to find to find something positive about this film.",
+      "total_reactions": 14,
+      "user": "Gurolge"
     },
     {
       "neg_reactions": 2,
-      "pos_reactions": 4,
+      "pos_reactions": 5,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 6,
+        "day": 3,
         "month": 4,
-        "year": 2016
+        "year": 2015
       },
       "score": 1,
-      "text": "Let's talk about this film's aesthetic appeal, rather than its message (see elsewhere). You want CLOSEUPS? Every actor's face is so tightly framed, it's exhausting to watch. Sheesh! At least 3/4 of the movie is facial closeups.",
-      "total_reactions": 6,
-      "user": "VisualBoy"
+      "text": "It is titled \"God's Not Dead\", but at its core, it is basically only a commercial for Jesus. It was a war between the Bible and an anti-theist. It talked little about other religions, the conflicts, the people killed in the name of god, in the name of religion and the wars belief in different gods had led to, not to mention the atheists discriminated by Christians for hundreds of years.",
+      "total_reactions": 7,
+      "user": "bugsbunny"
     },
     {
       "neg_reactions": 1,
       "pos_reactions": 2,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 1,
-        "month": 6,
-        "year": 2016
+        "day": 22,
+        "month": 3,
+        "year": 2015
       },
       "score": 1,
-      "text": "It actually is better than the first one. Unfortunately it's still horribly boring and false. Like the first one, it is purely a fictitious plot without precedent - don't let messages in the film itself deceive you otherwise - and serves as a straw man to demonize enemies of the Family Research Council.",
+      "text": "Dyshpo's Law",
       "total_reactions": 3,
-      "user": "leaveit"
+      "user": "dyshpo"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 31,
+        "month": 7,
+        "year": 2015
+      },
+      "score": 0,
+      "text": "I am an atheist and thus not the target demographic for this film, and I know that when I judge it my review will be dismissed by Christians as not understanding or ignorant, but seriously, is this what Christian cinema is? This film is made for Christians to agree with. The main atheist is just an angry Christian and all Christians are good people while atheists are narcissistic douchebags. Doesn't that seem a little suspicious? The only purpose of this film is to make Christians hate atheists even more and push the stereotype of antitheistic ignorant atheists to the religion of love\u2122 \u2014 even as a Christian, this film is absolute trash and only worth watching as an unintentional comedy with your friends. I torrented this and had a good laugh. If you're a Christian and you like this film, you should get educated on psychological tricks used in movies and reconsider if you want a film this terrible to represent your religion.",
+      "total_reactions": 3,
+      "user": "WolfLambert"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 8,
+        "year": 2015
+      },
+      "score": 0,
+      "text": "The movie is essentially one big strawman argument targeting its Christian target audience. The plot is too busy, the arguments made by the spiritual proponents are weak, and every antagonist is unrealistic. Just ignore this movie. Don't even rent it for a dollar. It's not worth your time.",
+      "total_reactions": 3,
+      "user": "JustSumGuy"
+    },
+    {
+      "neg_reactions": 7,
+      "pos_reactions": 13,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 1,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "As a Christian, This is BAD Film making, just plain numb.",
+      "total_reactions": 20,
+      "user": "deerdaviderazo"
     },
     {
       "neg_reactions": 4,
       "pos_reactions": 7,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 5,
+        "day": 18,
         "month": 4,
-        "year": 2016
+        "year": 2014
       },
-      "score": 0,
-      "text": "Exactly as what other crap faith-based movies have ruined Hollywood. I really don't believe in Jesus and certainly as hell I don't believe in God. That's what God's Not Dead 2 really is: a sequel that does absolutely makes no sense on making another movie starring 90's nostalgic icons turned into some sort of another Atlas Shrugged movie starring Kirk Cameron and Jason Patric. And why is Melissa Joan Hart (aka Sabrina The Teenage Witch) decided to join a part in this movie. War Room is pretty good so skip this movie.",
+      "score": 8,
+      "text": "This added to my faith and entertained me. As a student, I appreciated the familiarity of the University Campus setting of \"God's Not Dead.\" As a Christian, I believe the movie's theme that one can accept the forgiveness & sovereignty of Christ at any time in ones life is accurate.",
       "total_reactions": 11,
-      "user": "Kadeemluvmusic"
+      "user": "Chris-_Dratz"
     },
     {
-      "neg_reactions": 4,
-      "pos_reactions": 6,
+      "neg_reactions": 7,
+      "pos_reactions": 12,
       "review_date": {
         "__type__": "datetime.date",
         "day": 3,
         "month": 4,
-        "year": 2016
+        "year": 2014
       },
       "score": 0,
-      "text": "An insult to intelligent people, incredibly shameful propaganda",
-      "total_reactions": 10,
-      "user": "DJ-Clazzi"
+      "text": "This movie was so wrong in all aspects. First they didn't even know proper Muslim \"hijab\" and obviously had no idea about the religion what so ever, like Americans don't hate Muslims enough and can't believe it showed the father hitting his daughter real Muslims DO NOT do that. Just more propaganda to hate other religions and races. This is coming from an agnostic that wants peace in the world which I see not coming since propaganda like this is coming out. Also makes Atheists look like stubborn selfish people who \"hate\" God and believe in him only because they feel they have had injustice in their life. Also it makes Christians look like bullies always having to be right about everything. I don't know why many church people expect all Professors as being Atheist. Most of my Professors I have had are Christian, and I remember when I was raised in the church they told me when I got in college Professors would try making me Atheist (which wasn't the case at all) Professors are and should always be bias to what they teach. Also the argument the Theist  made was very weak. Terrible movie!!!!!! Movies like this is why we have not made much steps towards tolerance of other beliefs.",
+      "total_reactions": 19,
+      "user": "truthful_critic"
+    },
+    {
+      "neg_reactions": 6,
+      "pos_reactions": 10,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 8,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 8,
+      "text": "Even though I'm a Christian, I'm very skeptical about movies like this.  But I walked out of this one pretty impressed.  It touches on issues in the modern education system & society in general that are most the most part overlooked (not saying it represents the whole but definitely a small part), and delivers a decent story in the process.  I admit some parts were a bit pandering, and there's one part of the ending that really bugged me, but at the end of the day I completely disagree with most of the other reviews here.",
+      "total_reactions": 16,
+      "user": "Mab_987"
+    },
+    {
+      "neg_reactions": 6,
+      "pos_reactions": 10,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "My husband and I saw this movie recently, what a great movie, we both loved it, I guess if I did not believe in Jesus Christ for salvation I would not have enjoyed this movie.  Wish we could have more movies like this for the Christian community...well worth seeing...",
+      "total_reactions": 16,
+      "user": "Kwalker"
+    },
+    {
+      "neg_reactions": 5,
+      "pos_reactions": 8,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 9,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 9,
+      "text": "This movie was one of the best I have seen in a while. It had likable characters as well as a compelling story. It told a story of a corrupt society from several different view points, and each of those people had a good story to tell.",
+      "total_reactions": 13,
+      "user": "endragon"
+    },
+    {
+      "neg_reactions": 7,
+      "pos_reactions": 11,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "God's Not Dead paints itself as a serious look at the question of the existence of [the Christian] God. This, while an interesting premise, does not in any way come into fruition. Instead 'God's Not Dead' is a movie which serves as an insult to philosophy. Even the basic argument \"God is dead.\" is a misinterpretation of Friedrich Nietzsche's well-known phrase, which refers to God not being held in much of any regard within the culture and society rather than questioning his existence.",
+      "total_reactions": 18,
+      "user": "Geopex"
     },
     {
       "neg_reactions": 4,
       "pos_reactions": 6,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 15,
-        "month": 4,
-        "year": 2016
+        "day": 19,
+        "month": 5,
+        "year": 2014
       },
-      "score": 0,
-      "text": "This movie is an insult to all humanity and should burn for its crimes. Terrible Terrible Terrible!!!! These faith propaganda movies need to stop, they are corrupting the youth of america",
+      "score": 1,
+      "text": "Hands down the worst movie I have ever watched in my entire life. Its just typical christian propaganda, I came to this movie hoping for a balanced argument between theists and atheists which showed both sides and used actual science. Instead it is heavily biased against the atheists using the \"atheists are just angry at god for one reason or another\" stereotype. On the other hand the christian arguments more often than not boil down to circular reasoning \"god is real because it says so in the bible\". Also there are duck dynasty cameos, a show which I absolutely loathe which didn't do anything to improve my opinion.",
       "total_reactions": 10,
-      "user": "guitarmad23"
+      "user": "binary10140"
     },
     {
       "neg_reactions": 2,
       "pos_reactions": 3,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 23,
-        "month": 4,
-        "year": 2016
+        "day": 2,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 9,
+      "text": "I saw the movie last night and I thought it sent a pretty clear message to all the atheists out there that there is a God. The acting was good and most of the bashers of the movie are probably non believers and are not church goers. If I had a professor in philosophy like that one I would drop the class and sign up for a class where I could actually learn something. That being said I will give the movie a 9 as it was not perfect.",
+      "total_reactions": 5,
+      "user": "Gravelyman1"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 3,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 7,
+      "text": "Anyone even remotely interested in or curious about the Christian faith and science should watch this movie that has gotten me thinking enough to write my second movie review (the first one I reviewed elsewhere called \u201cThe Forest for the Trees\u201d also wouldn\u2019t get out of my mind for totally different reasons and it had to be written about as well to stop thinking about it). While God\u2019s Not Dead may not automatically grab your attention as a summer blockbuster, it is good enough to keep your attention unlike the multitude of old Christian B movies out there and shows that this genre really is starting to mature. I really liked the deviation from being a pure philosophical discussion to talking about science and showing how the Bible supports true science, even the Big Bang and Evolution without wasting time alluding to young earth creationist pseudoscientific arguments that so many well-meaning Christians think they need believe in that pseudoscience to be true believers of sacred scripture. If only the pastor of my church, Rock Church in San Diego, would realize this and stick to what the Bible says instead of engaging in spurious young earth creationist arguments and getting himself tied up with personal interpretations of the Bible that the creators of this film have deftly avoided. This is all while creating a film that promotes the core of the Christian message from a scientific viewpoint that engages both physical and spiritual reality for those who believe or are about ready to believe in the one that says no matter what happens in your life and how much you lose, you are not an orphan but a child of God, if you will only believe in me. Don\u2019t choose God or Science, watch the movie and maybe you will find a way to choose both.",
+      "total_reactions": 5,
+      "user": "pmhollow"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 3,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 19,
+        "month": 11,
+        "year": 2014
       },
       "score": 0,
-      "text": "I'd rather smell elephant poop to see this movie again. It's boring, tiresome, annoying, bad story, all bad! I was angry with my friend for her offer going to the movies to see this crap.",
+      "text": "This movie is shameful. There are horribly offensive stereotypes (the Muslim father, both the Chinese student and his father, the single black student who says anything). Every single character who believes in God is represented as caring, intelligent, level-headed but still passionate, whereas every other character is an idiot, or cruel, or hateful. The atheist professor's entire character and arc is a mockery that, as an atheist I am offended by. Most of the favorable reviews make claim of brain food and that this movie is though provoking, but all, and I mean every single argument Josh presents is flat out illogical. Not only that, but the professors inability to answer some of the worst arguments for God I've ever heard (and there are good ones) renders me speechless. Honestly there were points during which I considered this may actually be an atheist propaganda film, the idea being that a film so horrid in defense of God would only have negative backspin. Even from a purely film-based standpoint, the actor is bad, the writing is atrocious, the plot is all over the place. There are scenes so bad I think of Tommy Wiseau's \"The Room\". This movie is half so-bad-its-funny and half frothing-rage inducing. Mike McCahill of the Guardian put it aptly: Ban this sick filth.",
       "total_reactions": 5,
-      "user": "pedroagaf"
+      "user": "banjohorse"
+    },
+    {
+      "neg_reactions": 7,
+      "pos_reactions": 10,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 31,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 8,
+      "text": "Very polarizing. Obviously the bias you have will greatly color your view of the movie. I personally felt it was well made and thoroughly enjoyable. I imagine it will be the first time most viewers will be exposed to the arguments both for and against the existence of God. See it and decide for yourself.",
+      "total_reactions": 17,
+      "user": "gunnyart"
     },
     {
       "neg_reactions": 5,
       "pos_reactions": 7,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 2,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 3,
-      "text": "As a believer myself, I found this movie desperate and not so on point. The story is okay I guess, but the way it makes us look is a no no for me. First of all, the characters are just unlikable and the message it tries to carry was horrendous. My family and I watched the first one and it also was a boring and same old type of christian movie. I'm a Christian and I disapprove that the movie tries to change you. It doesn't, It feels like Jahovas witness trying to convince you in a desperate way. I'm sorry but the way the movie carries on is worse. God's Not Dead yes he's not but the movie is dead.",
-      "total_reactions": 12,
-      "user": "DavidV293"
-    },
-    {
-      "neg_reactions": 1,
-      "pos_reactions": 1,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 16,
-        "month": 1,
-        "year": 2017
+        "day": 15,
+        "month": 5,
+        "year": 2014
       },
       "score": 10,
-      "text": "God is not Dead 2 is an beautiful movie. However, if you are a unbeliever, you will either hate it or become a christian, there is no other way around it. The gospel message inside this very will made and performed flick is so powerful that it is impossible to see it with a impartial mind. If you are born again, you will cry tears of joy multiple times, if you hate God, you\u00b4re going to hate everything about this movie. It is a landmark in spiritual cinema and should be watched by everyone that knows the Lord.",
-      "total_reactions": 2,
-      "user": "WagnerPaivaBr"
+      "text": "Admittedly, I am giving this movie 10 stars instead of 8, mostly to battle all the negative reviews because I found the film to be refreshing, even as a long-time atheist.",
+      "total_reactions": 12,
+      "user": "Guest32"
     },
     {
-      "neg_reactions": 1,
-      "pos_reactions": 1,
+      "neg_reactions": 8,
+      "pos_reactions": 11,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "Probably the worst propaganda I have ever seen.  The characters are caricatures, the script hackneyed, and the producer's bias is evident throughout .  I am hoping that anyone who is Muslim, Chinese, atheist, educated, and/or non-Christian does not go to see the film, as I think this movie is a horrible representation of Christianity.  I was questioning how a film like this gets made.  Do not support lies and hatred by spending your money on this filth.",
+      "total_reactions": 19,
+      "user": "jcakes"
+    },
+    {
+      "neg_reactions": 8,
+      "pos_reactions": 11,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 10,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "Receives a 10/10 due to the extreme butt hurt it is causing with the atheist crowd many of whom haven't even watched the film. Whilst the film is indeed cliche, it sums up the problems with today's modern atheist crowd who are indeed bitter, angry and emotional as the negative reviews here all prove. I find it ironic that the atheists attempt to refute the movie's portrayal of atheists by living up to the exact stereotype the movie perpetrates of them.",
+      "total_reactions": 19,
+      "user": "Butthurtatheism"
+    },
+    {
+      "neg_reactions": 6,
+      "pos_reactions": 8,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 7,
+      "text": "Gods Not Dead was meant to be a christian drama that conveyed a strong message (Which it did). It is a powerful film. One that gets your mind thinking. I do not regret watching the film. Not once.",
+      "total_reactions": 14,
+      "user": "FilmVirtue"
+    },
+    {
+      "neg_reactions": 3,
+      "pos_reactions": 4,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 8,
+        "year": 2014
+      },
+      "score": 7,
+      "text": "It's a movie made by christians with the hopes to not only entertain fellow christians, but also spread the message and love of Jesus to nonbelievers. Basically the standard of any christian film. As you can see from the vast majority of reviews on here it doesn't do a good job of drawing in nonbelievers, and will offend all but the most open-minded of them.",
+      "total_reactions": 7,
+      "user": "TheQuietGamer"
+    },
+    {
+      "neg_reactions": 7,
+      "pos_reactions": 9,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 3,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 7,
+      "text": "Gods not dead is an absolute great christian film with a very good twist ending! If you aren't a christian you might be convicted here. I highly recommend this movie because like the title God is not dead!!!!!!",
+      "total_reactions": 16,
+      "user": "Lansdenrs"
+    },
+    {
+      "neg_reactions": 8,
+      "pos_reactions": 10,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "One of the worst movies I've ever seen.",
+      "total_reactions": 18,
+      "user": "Jennazn"
+    },
+    {
+      "neg_reactions": 4,
+      "pos_reactions": 5,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 4,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 9,
+      "text": "As a Christian myself, I'll be way too bias when it comes to movies in this area. I understand that this film will more likely appeal to the Christian audience than the general public, but its heart and intentions are in the right place.",
+      "total_reactions": 9,
+      "user": "warrenworld"
+    },
+    {
+      "neg_reactions": 5,
+      "pos_reactions": 6,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 1,
+      "text": "Movies like this do more harm to Christians than they realize. It promotes an unrealistic and shallow viewpoint of the theological debate that Christians find themselves in the real word. The movie seems like it was written by someone who never attended a university, instead being told how it is a haven for godless sinners.",
+      "total_reactions": 11,
+      "user": "dethsean"
+    },
+    {
+      "neg_reactions": 9,
+      "pos_reactions": 10,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 4,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "this movie was incredible; blown away.  i don't get all the negative reviews: the movie simply made its point; it was evident in the title of the movie, and if you're somehow expecting an atheistic apologetic movie from this, then yes, you will be butthurt.",
+      "total_reactions": 19,
+      "user": "j-m-ehrlich"
+    },
+    {
+      "neg_reactions": 11,
+      "pos_reactions": 12,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 1,
+      "text": "Minor spoilers. Unfortunately, this movie embarrasses the Christian faith and makes us look like idiots. The antagonizing of the professor was stupid and the arguments in the final debate were actually kind of weak. While they provide some reasons for the existence of a God, no atheist watching this movie is going to be convinced. Pray for them, no need to bash them. Disappointed that a movie like this was made.",
+      "total_reactions": 23,
+      "user": "LuBear"
+    },
+    {
+      "neg_reactions": 13,
+      "pos_reactions": 14,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "This is a movie based on a fictional and debunked chain email. The movie portrays many different groups of people and other religions in a negative way. None of the basic and flawed arguments presented by the main character would be convincing to anybody with even the tiniest grasp of logic and reason or experience dealing with the subject and would be easily refuted by someone of the supposed caliber of the professor. If anybody has ever had a fantasy about humiliating a strawman vision of an \"arrogant atheist professor\" like the ones you read about in the chain emails, this is the movie for you. Just remember, the movie is fiction, try any of these arguments in real life at your own peril. Oh, and having the Duck Dynasty guy on there was just poor taste",
+      "total_reactions": 27,
+      "user": "robcollins606"
+    },
+    {
+      "neg_reactions": 8,
+      "pos_reactions": 8,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 3,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 1,
+      "text": "This movie gets a 1 because I got three solid laughs out of it. Firstly, this is without a doubt the most cynical, ridiculous \"movie\" I've ever seen. I watched this after hearing how amazing it was from religious friends of the family and family members. The acting was wooden, the camera work was absolutely horrible, and without a doubt the worst aspect was the dialogue. The only people I can see enjoying this movie are: the stupid, those with an extreme confirmation and/or persecution complex, and the hyper religious children it's meant for.",
+      "total_reactions": 16,
+      "user": "EliWalls"
+    },
+    {
+      "neg_reactions": 7,
+      "pos_reactions": 7,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 26,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "I give this movie a 10, because it has the courage to speak the Truth. Every person is Destined to stand before Jesus, whether you love Him or pretend He doesn't exist. The evidence that we are created beings with a body, soul, and spirit is more overwhelming now, than any other time in history. This movie brushes the surface of the depth of these facts. The idea of evolution is completely ludicrous, yet the hate of God, as expressed by the teacher in this movie, drives the lunacy that fills our schools. This movie could have been written with a much stronger message and more evidence, but it is still a great movie. I would also change the title to: \"God is still ALIVE!\"",
+      "total_reactions": 14,
+      "user": "Qadosh"
+    },
+    {
+      "neg_reactions": 6,
+      "pos_reactions": 6,
       "review_date": {
         "__type__": "datetime.date",
         "day": 31,
-        "month": 1,
-        "year": 2017
+        "month": 8,
+        "year": 2014
+      },
+      "score": 3,
+      "text": "God's Not Dead may indeed satisfy strong Christians, but as a movie critic there are too many sub-plots/side-stories that (for the most part) have nothing to do with the overall story and is filled with propaganda in which there's hardly anything to say about the Christian faith. As far as the unnecessary side characters, some are just horrible human beings. I can't even call one in particular a real character. It is filled with some of the worst blatant stereotypes in the history of mankind. It's also a product placement scheme for Newsboys and Duck Dynasty, which once again serve no purpose. I will give credit to Shane Harper (Josh) who gives a fine performance as well as the pastor and his friend. Even though they don't really have any to truly do with the movie as well, those two are literally the only characters that truly get the message around about God and the christian faith. And I actually kind of like them. Other than that, the movie is just a mess! I give it a D+!",
+      "total_reactions": 12,
+      "user": "Movie1997"
+    },
+    {
+      "neg_reactions": 6,
+      "pos_reactions": 6,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 7,
+      "text": "Though pleased with the film overall, the movie certainly made no attempt to draw the viewer in. The movie focused on too many people and certainly moved to quickly between their many issues. Many conflicts remained unresolved with a sudden, rather poorly designed and executed finish. For anyone who watched the film, \"Join the movement; text your friends\" was certainly a little too cheesy for me. There were, however, some comedic lines. As a Christian, I certainly enjoyed the strong stance the movie took and the strong message that it proclaimed.",
+      "total_reactions": 12,
+      "user": "FilmReady"
+    },
+    {
+      "neg_reactions": 3,
+      "pos_reactions": 3,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 24,
+        "month": 6,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "I feel really bad for the people who gave this movie a positive review. Not a single person in their right mind would give this above a 2. The acting in this movie is absolutely dreadful, and atheists are portrayed as hateful people, just for the fun of it. It portrays the misotheist philosophy teacher as an indoctrinating son of a **** That's rather ironic, as the sole purpose of this movie is to talk **** about muslims and atheists, while portraying christians as perfect and right no matter what they do. Dropped in to give this movie a 0, as a user score of 3.1 is far too high.",
+      "total_reactions": 6,
+      "user": "julius98"
+    },
+    {
+      "neg_reactions": 3,
+      "pos_reactions": 3,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 21,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 5,
+      "text": "It's amazing how many negative reviews this film has, all quite obviously from the same angry atheists who didn't watch the film at all. They all go on about the trailer. Regardless of this film's clear bias, the atheists have lived up to the exact portrayal of the atheist professor by calling people who believe in God \"brain washed\" and \"deluded\" because they refuse to believe in the atheist's blind belief that the universe came from nothing. These internet atheists do indeed act like the professor in their film with their smug superiority complex and mistaken belief that religion is responsible for all the world's wars. It's not wonder this film set them off as they say the truth hurts!",
+      "total_reactions": 6,
+      "user": "3forng"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 13,
+        "month": 8,
+        "year": 2014
+      },
+      "score": 5,
+      "text": "Technically it is a bit of a disaster I have to admit....but I'm willing to give bonus points for the overall feel of the movie....I just love the way I felt the positive ambiance of the movie.....I just wished it succeeded technically.....",
+      "total_reactions": 4,
+      "user": "aaronpaul121"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 8,
+        "year": 2014
+      },
+      "score": 8,
+      "text": "I think some people are being unfair to this movie because of its religious nature; I also think some people are over-praising it for the same reason.",
+      "total_reactions": 4,
+      "user": "watcher888"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 4,
+        "month": 9,
+        "year": 2014
       },
       "score": 10,
-      "text": "Esta pel\u00edcula nos demuestra que Yisus envi\u00f3 a sus directores traidos del cielo para derrocar a La La Land (Que en hebreo antiguo LaLaLa significa Demonio Triple) y Del cine demoniaco, los usuarios le dan 0 porque no aceptan a su salvador, vean la pel\u00edcula y purgen a los iluminatis y los veneradores del demonio.",
+      "text": "Personally I loved this movie!!! An inspiring story .... Sometimes it can be difficult to stand up for your faith in an increasingly atheistic and secular  society.  It challenged me to be more proactive about my Faith! Wish there were more movies like this!!",
+      "total_reactions": 4,
+      "user": "josiepie"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 4,
+        "month": 10,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "Wonderful movie! Very inspiring, very well made!! I would recommend this movie to everyone who has ever been told in school that their faith is a lie. This is a very well made movie with great actors and a well written script. A must see!",
+      "total_reactions": 4,
+      "user": "Jac332"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 5,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 10,
+      "text": "Awesome movie! Loved it so much! Its the story of my life.... having gone through the ups and downs... the doubts, the questions, the anger and the confusion. But I found Jesus and He found me! I luv u Jesus and I love this movie! A must watch for everyone!",
+      "total_reactions": 4,
+      "user": "Joshuasunghwa"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 10,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "boooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooring",
       "total_reactions": 2,
-      "user": "ISCybercoreSI"
+      "user": "Ernesto"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 3,
+        "year": 2015
+      },
+      "score": 0,
+      "text": "I never thought that this movie would have prejudice in it, and I'm not saying that It deliberately say what It has prejudice with, but It shows Christianism as the major and the only right religion when It shows the Muslim girl and the Asian boy being converted. Not just that, this movie also have a lot of prejudice against Atheists, It shows EVERY atheist as a total moron with no sense of anything and only living a life to disprove the existence of God. Now talking about the structure, this movie has none, the director uses things that were clich\u00e9 years and years ago and put them in the entire movie, I literally cried while watching this movie for the grotesque thing it is, the acting is ridiculous, I think they got everyone in a church that wanted to act and got them into this film. This film takes the chance of filmmakers that actually want to do something good and give It to some religious Michael Bay, throwing Bibles explosions on your face (I'm not saying The Bible is bad, Is one of the greatest pieces of literature ever in my opinion). No, I am not an atheist, I am a agnostic, I don't know If a God exists or not, and until someone proves something for me I still won't know what to think. Now, above all I said before, the thing that in my opinion is the worst thing about this film is this: It can't even pass forward It's own message. The movie may seem like  propaganda in favour of religion, but the dialogue is so awfully bad that It lost Itself to contradictions, that is due to the script that obviously is also awful. NEVER, never in your entire life go see this film, It made me sick, and this is something I never thought would happen.",
+      "total_reactions": 2,
+      "user": "Gulf456"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 1,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 2,
+      "text": "Before even beginning this review, I would like to state that I am a Christian, and this movie gives Christians a horrible name. That out of the way, God's Not Dead is a movie chock filled of stereotypes, labels, and overall horribly written characters (save one decent performance by Kevin Sorbo, and even that is arguable). Religious propaganda is bound left and right, with faulty logic brought on by the debate that the entire movie is based on, and just plainly by horrible story writing, Save yourself the trouble of watching what evolves into a pissing match between teacher and student and rent anything but.",
+      "total_reactions": 2,
+      "user": "ThreeDee"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 10,
+        "month": 11,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "Not sure why so many people seem to believe that they have to \"hide from God\" or he might hunt them down and turn them into healthy, happy people that want to sing his praises.....Great story line for our times showing bias.....Nothing to be afraid of folks.....seems hard for people to comprehend that there could in fact be a supreme being larger than THEM and that he might be a nice guy and a loving God.  Pretty simple concept.",
+      "total_reactions": 2,
+      "user": "Aviaman"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 11,
+        "year": 2014
+      },
+      "score": 2,
+      "text": "I come from former Eastern Block and am a Christian. That's why I watched this movie. After a while it turned out to be even a little scary for me because it reminded me of Communist propaganda movies - only Communists were good, nice, likable guys unlike all the others who were bad, arrogant, lofty, ugly... Only hope for the bad guys was to become Communists. What did I see in this movie? Absolutely the same scheme, the same black and white world, only the positive guys turned out to be Christians and all the others are the bad ones. Is Christianity really supposed to be just another ideology? Did Jesus die on the cross to show his followers disrespect and demonization towards those who don't believe in him? Does God really need defenders or rather witnesses? These are my mixed feelings after watching God's Not Dead.",
+      "total_reactions": 2,
+      "user": "zitko"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 8,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 3,
+      "text": "I have several genuine tertiary degrees to Ph.D., in various fields from science to philosophy. I am therefore fairly adequately informed in the major points of the endless debate, mainstream Christianity vs. atheism, after five full decades of professional practice. In my opinion, then, this film may be well intended, but is too AMATEURISH, although it may serve as a teenagers\u2019 starter.",
+      "total_reactions": 2,
+      "user": "Integrity"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 7,
+        "month": 4,
+        "year": 2015
+      },
+      "score": 0,
+      "text": "god's not dead is a horrible film this movie thinks I knows all about the world and all about people and atheist are horrible people. when one of the charter is dying and he and atheist they trying to covert him to god. I am a Christian and I was offended my this god awful movie.",
+      "total_reactions": 2,
+      "user": "teddyluke"
     },
     {
       "neg_reactions": 1,
@@ -348,170 +982,1094 @@
       "review_date": {
         "__type__": "datetime.date",
         "day": 11,
-        "month": 5,
-        "year": 2016
+        "month": 4,
+        "year": 2015
       },
       "score": 0,
-      "text": "An embarrassment to all Christians. It just makes me ashamed of my religion. None of the arguments make sense and it tries to convince us that Christians are somehow being prosecuted in America, possibly the most moronic thing I've ever heard. The acting is horrible and the plot laughable.",
+      "text": "This movie is an insult to humanity and to those called forth as iconic references in the movie. It keeps your \"God-given\" brain dead, argues from illogical points of view like a 4th grader, relies on pure theory ignoring existing references of cultures such as that of the Indian texts as well as present artifacts pre-dating the writing of the Bible. It ignores everything and dismisses anyone against it as angry, idiotic, and unfulfilled. Really, what the F'man.",
       "total_reactions": 2,
-      "user": "asshat"
+      "user": "Evidences"
     },
     {
       "neg_reactions": 1,
       "pos_reactions": 1,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 16,
-        "month": 5,
+        "day": 11,
+        "month": 4,
+        "year": 2015
+      },
+      "score": 0,
+      "text": "This movie is just religious propaganda like nazis.",
+      "total_reactions": 2,
+      "user": "maciron"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 11,
+        "month": 4,
+        "year": 2015
+      },
+      "score": 10,
+      "text": "Loved this movie!  I thought that the student's arguments were something to reckon with!  So glad this movie was made and made it out there.  And from personal experience, I can totally relate to Josh's situation.  I would recommend this one!",
+      "total_reactions": 2,
+      "user": "mnbvcxz"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 9,
+        "year": 2015
+      },
+      "score": 0,
+      "text": "Although Shane Harper does do his best at spreading the message that gods still alive, that's not enough to save this movie which is a big flop. This was the worst movie I have ever seen. To start with it fails to prove that God exists through science. I believe God does exist and that science can prove it. But this movie failed to do so. Then the clear message of the movie is good vs evil which is Christians vs everyone else- Atheists and Muslims to be specific. Not a good way to get people to believe. The acting is also horrible. Really I cannot believe anyone took this movie seriously at all. I cannot describe how wrong and shameful this movie is, not to mention how easily the producers of this movie fill their own pockets at the expense of true believing Christians. Although I'm an atheist, I'm offended for Christians, Atheists, Buddhists, Muslims, and many other groups that are slandered/ misrepresented in this film",
+      "total_reactions": 2,
+      "user": "toronto905"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 3,
         "year": 2016
       },
       "score": 0,
-      "text": "You have got to be kidding me. This is not a movie, it's just another paranoid propaganda piece made by so-called \"christians\" who haven't the first clue how to be real christians, which is to not alienate the very people to whom they wish to bring the teachings of Jesus. This steaming pile of hate-mongering offensive spew, just like the first GND and should be reviled by christians, not embraced.",
+      "text": "I'm sorry sir, but god is dead. In fact, he isn't real, he was probually made up just to sell money for the dumb book that got christians in the making. This movie is a christian movie, and if you have seen my other christian movie reveiws, you will know why I had to watch this.",
       "total_reactions": 2,
-      "user": "LKR505"
+      "user": "gameguardian21"
     },
     {
-      "neg_reactions": 7,
-      "pos_reactions": 6,
+      "neg_reactions": 1,
+      "pos_reactions": 1,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 1,
+        "day": 30,
         "month": 4,
         "year": 2016
       },
-      "score": 3,
-      "text": "I had a rough week starting at the 29th for some following reasons I won't tell you. If you want to know, I've been virused and now I got to pull up the ultimate prank starting today and got to hope that they might make it otherwise I'm stuck being a shadow holder for the rest of my mid-2016 adventure. Now I'm on Metacritic giving a review on God's Not Dead 2 with the first movie coming up at some time after making this review. If I have the knowledge and power, then movies like these won't be worth spending money on. I've already known people who are about to see this and that's okay because it wouldn't matter anyways. Like always to most movie sequels we never expected, did we really need this? The answer to that question is a pull-out yes for money and no for the audience. Fans, on the other side, might enjoy it and that's fine with me.. but there's really no point in this unless money's being involved.",
-      "total_reactions": 13,
-      "user": "EpicLadySponge"
+      "score": 0,
+      "text": "Unremittingly awful.  Paint the protagonist as a likeable, earnest student and his antagonist as an a-hole of a college professor whom no one, not the most convinced atheist could like and who commits logical blunders any real philosophy prof would scream at.  Have the student trot out all the usual dreary arguments for the existence of a big guy in the sky and you have a piece of propaganda only the blind legions of the true believers can enjoy. I didn't, couldn't, watch all the way to the end but I am guessing the prof was converted and that God was voted into existence by those poor classmates.",
+      "total_reactions": 2,
+      "user": "rwalker"
+    },
+    {
+      "neg_reactions": 11,
+      "pos_reactions": 10,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "What you get if you combine all the stupidity and propaganda of cristianity? this movie. Do not waste your time in this so called *film* cause is just pointless and tries so hard to show atheism is bad and  that atheists are bad horrible people. But i am glad that i pirated this movie but still i feel scammed. 0/10 pointless  propaganda. The most funny part is that they include duck dinasty in it.Wonna know who are duck dinasty? Homophobic rednecks.",
+      "total_reactions": 21,
+      "user": "TheNormalStefan"
+    },
+    {
+      "neg_reactions": 9,
+      "pos_reactions": 8,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 16,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 2,
+      "text": "The setting is rather absurd. It is actually surreal, but of course it was done to invoke fear into Christians (welcome the world of minorities (forget about discrimination)). The professor is rather absurd, especially for a philosopher - actually a philosopher who is a Misotheist in itself is rather unbelievable to me.",
+      "total_reactions": 17,
+      "user": "theNILE"
+    },
+    {
+      "neg_reactions": 9,
+      "pos_reactions": 8,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "It's sad how many people who are hostile to Christianity feel the need to come on here and trash the film.  What are they so afraid of?  I'm a new Christian and went to see the film with my husband who is a non believer and we both enjoyed it.  My husband isn't a militant atheist like most of the bad reviewers on here, he just doesn't believe in going to church.  This film is for Christians and people seeking without hostility.",
+      "total_reactions": 17,
+      "user": "skybluez"
+    },
+    {
+      "neg_reactions": 6,
+      "pos_reactions": 5,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 13,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 1,
+      "text": "I wanted to see a good movie but it ended up being a bad one.....DISAPPOINTED!!!!!!!!",
+      "total_reactions": 11,
+      "user": "Booeyww"
+    },
+    {
+      "neg_reactions": 16,
+      "pos_reactions": 13,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 8,
+      "text": "If you are on the fence about seeing this movie, do it! It is thoroughly worth your money and time.",
+      "total_reactions": 29,
+      "user": "musigalglo"
+    },
+    {
+      "neg_reactions": 14,
+      "pos_reactions": 11,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 9,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "Booooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
+      "total_reactions": 25,
+      "user": "joshmorgan64"
+    },
+    {
+      "neg_reactions": 8,
+      "pos_reactions": 6,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 3,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "Best Firm for Christians to see and understand how to deal with the world. This movie is real as I have personally dealt with these kind of people who sadly hate God for the bad things that have happen to them in their lives. This films teaches how to deal with unbelievers in a positive way.",
+      "total_reactions": 14,
+      "user": "jonhkerns"
+    },
+    {
+      "neg_reactions": 4,
+      "pos_reactions": 3,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "Insanity, craziness or madness is a spectrum of behaviors characterized by certain abnormal mental or behavioral patterns. Insanity may manifest as violations of societal norms, including a person becoming a danger to themselves or others, though not all such acts are considered insanity. In modern usage insanity is most commonly encountered as an informal unscientific term denoting mental instability, or in the narrow legal context of the insanity defense. In the medical profession the term is now avoided in favor of diagnoses of specific mental disorders; the presence of delusions or hallucinations is broadly referred to as psychosis. When discussing mental illness in general terms, \"psychopathology\" is considered a preferred descriptor.",
+      "total_reactions": 7,
+      "user": "ThePutinator"
+    },
+    {
+      "neg_reactions": 4,
+      "pos_reactions": 3,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 25,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "Can I just be to the point and say that this movie made me throw up a little just sitting through that \"debate\"? For starters, it was not a proper debate setting and that \"philosophy professor\" was more akin to a fumbling uneducated moron in Youtube comment sections. It is really easy to win a debate if you make your competitor an idiot, and that is what the movie did for that professor.",
+      "total_reactions": 7,
+      "user": "cakele"
+    },
+    {
+      "neg_reactions": 15,
+      "pos_reactions": 11,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "If the same movie was made, with same characters and setting, but being pro evolution and atheism, the scores would be much higher. I have no doubt. America is too biased about the origin of the universe. This movie has so much bias against it that you can't trust anyone's review (including mine) so I just recommend that you see it for yourself and give it a chance and have an open mind to what is being taught.",
+      "total_reactions": 26,
+      "user": "JesseJ7"
+    },
+    {
+      "neg_reactions": 11,
+      "pos_reactions": 8,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "Wow, the critics sure hate this movie.  You need to attend to see why.",
+      "total_reactions": 19,
+      "user": "DadVanHorn"
+    },
+    {
+      "neg_reactions": 13,
+      "pos_reactions": 9,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 26,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "Any time a movie has such polarized reviews you realize that it's going to be controversial. Those whom it spoke to loved it and others felt threatened by it (hence the 0 rating on the reviews).",
+      "total_reactions": 22,
+      "user": "nuitarus"
+    },
+    {
+      "neg_reactions": 3,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 7,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "One of the most absurd pieces of straw man argument ever committed to modern film.  If it was marketed as a comedy, I'd give it 3 stars, otherwise it's just clumsy and moronic.",
+      "total_reactions": 5,
+      "user": "KingMob4313"
+    },
+    {
+      "neg_reactions": 3,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 16,
+        "month": 8,
+        "year": 2014
+      },
+      "score": 2,
+      "text": "I could see where this was going the whole time.",
+      "total_reactions": 5,
+      "user": "Bshop"
+    },
+    {
+      "neg_reactions": 3,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 8,
+        "year": 2014
+      },
+      "score": 7,
+      "text": "Isn't it interesting how many people claim that they actually spent money and went to see the film, then bashed it with  \"0\"?? NOTHING redeemable??? What did you expect??!! It's a Christian film!. With a Christian message! It's just what I expected..(actually, even  a tad deeper than I  expected, as I thought it was just the college bias story). I as able to look beyond the cliches and predictable ending (as happens with most inspirational sports films, BTW), to see the message. I thought much of the acting was good (with some obvious exceptions).  I found it worth my time and money. I applaud the courage to make such a film, knowing that it would get panned by those who are very biased against Christianity.",
+      "total_reactions": 5,
+      "user": "Johnboy2"
+    },
+    {
+      "neg_reactions": 3,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 24,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "Christians are not supposed to be an insecure people. When one is secure in their faith they shouldn't need to demonize other groups of people. The evil atheist professor just shows how some people believe they are victims. Horrible acting, horrible story, and offensive to any non-Christians. Also offensive to any real Christians, the dogmatic ones probably loved this film.",
+      "total_reactions": 5,
+      "user": "Ironicguy"
+    },
+    {
+      "neg_reactions": 3,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 8,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "I came from a country that everything about Christianity is banned. It's sad to see that most people in this country can access to great Christian movies but just take Jesus' love for you for granted. I love the Lord and know he's with me at all times because I SEEK. I enjoy the debates here because in many people's eyes, Christians are weak, low in intelligence, and only love, never interfere with people. If you don't know God, welcome to debate. It will clear your mind from your emotional, illogical, loose mental set.",
+      "total_reactions": 5,
+      "user": "Spiderman14"
+    },
+    {
+      "neg_reactions": 3,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 9,
+        "month": 8,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "My parents brought this movie back and made me watch it from RedBox. I was hoping that it would be at least somewhat neutral in expressing both sides of the debate, but it was even worse than I thought. It isn't propaganda - its pornography. It's pornography in the sense that it is totally demeaning to non-Christians, and *Spoiler alert* they all convert at the end. Oh ya baby. Just want the Christians want. All those dirty non-Christians get down on their knees and get filled up with the love of God. They feel Jesus come inside them and they rejoice in all of the spirit. Nothing gets you hot and heavy for God like watching a bunch of dumb angry sinners get saved.",
+      "total_reactions": 5,
+      "user": "rvmazzol"
+    },
+    {
+      "neg_reactions": 3,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 21,
+        "month": 10,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "Excellent and refreshing from the norm.   It's a shame that there are so many self proclaimed \"professional\" movie critics who actually can identify with the professor in God's Not Dead because their egos won't allow it.    I find it it an anomaly that many of these critics, especially that work with the media / newspapers, instantly throw award after award and praise after praise as soon as there are glorified war heroes, soldiers, or the likes.  Similarly, any movie with race, color or slavery, or culture is cast in the same glorified light.   These are the easy choices.  Now when a movie such as this about \"God\" comes up, whose values our nation was founded on, these critics cower in fear with identifying with the relegious aspect or at the least giving credit where credit is due.  It's original, it touches on stigma, makes you think, and is an all around well made movie!",
+      "total_reactions": 5,
+      "user": "northernreview"
+    },
+    {
+      "neg_reactions": 10,
+      "pos_reactions": 6,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "Really Good movie, I was a blessing for me and my friends, I think the reason people like to give bad reviews is because the movie talks a lot about Jesus, which is a topic that not many people like. I hope this movie is a blessing for does that are willing to open their heart and understand that God is not dead, and that we all need Jesus to be saved.",
+      "total_reactions": 16,
+      "user": "Roneyvc"
+    },
+    {
+      "neg_reactions": 5,
+      "pos_reactions": 3,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "Two-dimensional characters, ridiculous and boring dialogue, melodramatic acting out of incredibly convoluted and uninteresting scenarios, and an overall stupid message.  Anybody that's been to college knows that these kind of situations simply don't happen.  Any professor that required students to give a statement of faith counter to their real faith in order to get a passing grade would be sued and terminated by the university.  Further, there is no way that a college in the south would have an entire freshman class full of people willing to go along with such a request (save for the one hero of the story).",
+      "total_reactions": 8,
+      "user": "Bantam"
+    },
+    {
+      "neg_reactions": 7,
+      "pos_reactions": 4,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 3,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 4,
+      "text": "Well Rats. First, I need to say as a university faculty member and a Christian, I deeply believe in the overall MESSAGE of this movie: The God of Abraham and Paul and Mother Teresa and Pope Francis and MY God, and his son Jesus Christ are alive and instructing and blessing me daily. People do need to know about the resource and comfort and \"rock\" that God provides. For that the movie gets an \"A.\" And I'd also say that although there are strident Christians who misuse the public square for hateful messages, there IS an attempt in the secular community, and certainly in the academy, to marginalize Christians. Faculty members do use their power in the classroom to try to silence opinions with which they disagree in a violation of BOTH sections of the first amendment.",
+      "total_reactions": 11,
+      "user": "mepitts"
+    },
+    {
+      "neg_reactions": 26,
+      "pos_reactions": 13,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 9,
+      "text": "It seemed like a Hollywood A-movie and yet a Christian movie. Well-acted, produced and directed per normal Hollywood standards, I thought. Engaging from start to finish. I was not fidgety in my seat.",
+      "total_reactions": 39,
+      "user": "rjoules"
+    },
+    {
+      "neg_reactions": 12,
+      "pos_reactions": 6,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 24,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "I just watched this movie and found it so inspirational. I'm a sophomore in high school and I loved this movie. It makes you think about God and it compares Atheism to Theism, which helps to prove that God is real and not dead. I recommend this to anyone doubting God or anyone who is a believer as well. Overall it was an amazing movie, which cleared up many of my questioning thoughts.",
+      "total_reactions": 18,
+      "user": "briantrupo"
     },
     {
       "neg_reactions": 4,
       "pos_reactions": 2,
       "review_date": {
         "__type__": "datetime.date",
+        "day": 16,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "This movie is a joke. It doesn't at all paint an accurate description of atheists. They are potrayed as angry and hateful, but many atheist you will meet are the exact opposite. Her humanist bumper sticker is a joke. Most people who believe differently than you aren't abrasive and hostile, more often then not, they simply leave you alone. I was extremely disapointed with this. It perpetuates bad steriotypes and doesn't logically exammine both sides of the debate in detail. I can honestly say I hated this movie and I really didn't want to. As the daughter of parents who are catholic and atheist, I wanted it to find common ground and reconcile both belief's viewpoints, and to see the people who represent these two differing opinions potrayed accuratley and without bias. As an agnostic, this didn't sway me, it disgusted me. My father is nothing like the atheists potrayed in this movie, and most atheists aren't. And lets be real (spoiler) even though the professor converted at the end and always had a faith in God, he is put up on a petastal that is supposed to represents nonbelievers as a whole, and it only makes the other side look bad, because it potrays secular people as inherently moral-less and bad. Examples like this movie are exactly why people don't follow organized religon, if at all.",
+      "total_reactions": 6,
+      "user": "monkeyfunky"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 26,
+        "month": 3,
+        "year": 2015
+      },
+      "score": 10,
+      "text": "This was a great movie. good viewpoint on actual situations in present day. its funny how people say everything complex in the world came from absolutely nothing. all of the miracles and wonders and agape love God has for all of mankind is amazing. I've witnessed lots of great stuff He has done in my life",
+      "total_reactions": 3,
+      "user": "sfgiants2010"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 31,
+        "month": 10,
+        "year": 2015
+      },
+      "score": 0,
+      "text": "The nadir of cinema. Worse than The Phantom Menace (honestly!) Worse than an Adam Sandler 'comedy.'",
+      "total_reactions": 3,
+      "user": "HenryKrinkle"
+    },
+    {
+      "neg_reactions": 7,
+      "pos_reactions": 3,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 21,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "I loved it.  I would recommend the movie to others, friends and family alike.  I don't know the motivation behind other negative reviews, but I can honestly say it was nicely put together and performed.",
+      "total_reactions": 10,
+      "user": "ccnee"
+    },
+    {
+      "neg_reactions": 5,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "This film is beyond bad! If anything it seems so desperate to promote christianity that it does the opposite. Making out that all university does is beat your religion out of you. All my lecturers at university believed in god and didn't push anyone either way. Also to suggest that the only reason you could be atheist is because you have been wronged by god. Would not recommend this film to atheist and christians alike. Shame",
+      "total_reactions": 7,
+      "user": "shcakup"
+    },
+    {
+      "neg_reactions": 5,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "Even though I am a Christian, I believe in choice and people should have a choice whether they want to believe or not and while I do feel sorry for them that they don't believe in something that could help their life but that does not mean they are a bad person and that's what this movie does that makes it absolute crap. This is just propaganda to make all non believers look like very bitter people, shame on the director for this piece of propaganda.",
+      "total_reactions": 7,
+      "user": "KotorFan3231"
+    },
+    {
+      "neg_reactions": 5,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 7,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "I entered the theater expecting this movie to be mediocre at best. A 4/10, maybe. I left thinking that this was one of the worst movies I have ever seen. God's Not Dead is one of the more poorly written, poorly acted, and just down-right insulting. Avoid this movie like the plague.",
+      "total_reactions": 7,
+      "user": "Soupinacup96"
+    },
+    {
+      "neg_reactions": 5,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "I wish there was a negative value for the score.Every once in a while these stupid Christian movies are released to torture us.Makes me wish i didn't know any Christians.Who funds these nonsense movies?",
+      "total_reactions": 7,
+      "user": "Ziscky"
+    },
+    {
+      "neg_reactions": 5,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "Pure lunacy. This film is crap. Everything in this movie sucks. Acting, writing, it's philosophy. It's yet another retarded propaganda film created by idiots who live by a book that says the earth is flat, gays are evil and it's okay to rape women as long as you pay their father 50 silver coins. God is DEAD! AND I KILLED HIM! AND DANCED ON HIS GRAVE!!!",
+      "total_reactions": 7,
+      "user": "Drastre"
+    },
+    {
+      "neg_reactions": 5,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 8,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "Wow... Did that just happen? Wait, this movie was actually made AND I watched it... The characters are all so over the top that it's a distraction. From the parody of a philosophy professor to the idiotic student to the implausible mean-girl girlfriend, the whole thing runs like a high-school play gone awry. I'm shocked (shocked I say!) this movie ever got made.",
+      "total_reactions": 7,
+      "user": "vpicciuto"
+    },
+    {
+      "neg_reactions": 16,
+      "pos_reactions": 6,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 18,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "Pleasantly surprised by the strong message it sends and the fact does not compromise the message of Christianity as a lot of movies today do.  I actually went because of the highly positive and negative extremes of the reviews. Either you believe or you don't...plain and simple.   There's no lukewarmness in the message that Jesus himself would approve of as it does not compromise the Word of God but tells it as it is written the way it should be told!  Message is clear.",
+      "total_reactions": 22,
+      "user": "schneevs67"
+    },
+    {
+      "neg_reactions": 9,
+      "pos_reactions": 3,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "Didn't even have to see it to understand what a ****stain it is. Read the description and was turned away IMMEDIATELY. mitchjpjr2...well can go **** himself.",
+      "total_reactions": 12,
+      "user": "SliverPatriarch"
+    },
+    {
+      "neg_reactions": 6,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 10,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 5,
+      "text": "I thought it was a great movie. The casting was good, and the writing of the argument was good. Now my negative comments. I thought it had a very predictable ending and way too many characters with their own plot lines. The only surprising thing there was was the professor getting hit by the car of the girl's brother. I thought the ending was very weak. I feel it could have been a lot better and the writers just said \"Im out!\" or something like that. The casting was good for this type of movie. Because usually  religious movies have very bad acting. I also found it funny that since they couldn't use Staples Center, they used the Hastings Center. So, in conclusion i feel the plot was decent & cast was good. Normally i would give it a 7, but with the weak ending and the so many plot lines, id have to give it a 5.",
+      "total_reactions": 8,
+      "user": "CShore96"
+    },
+    {
+      "neg_reactions": 3,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 5,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 10,
+      "text": "TOTALLY AWESOME MOVIE!!!!!! Im not really religious, but I loved it anyway! And it had an awesome story line! Really encouraged me to stand up for what I know is true.... JESUS CHRIST! Jesus is the only way to heaven and He loved you so much that He died on a cross for you! Now that's an awesome story! True story too! Wanna go to heaven? Don't take the risk! Accept Jesus into your heart and you will come to heaven! :) See you there!",
+      "total_reactions": 4,
+      "user": "danielsunghwayu"
+    },
+    {
+      "neg_reactions": 25,
+      "pos_reactions": 8,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 3,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "I loved this movie. it was awesome. The arguments betwen josh weaton and his professor were AWESOME!!! The acting was AWESOME! The arguments were awesome! The music was amazing AND SO WAS THIS MOVIE IDK ABOUT YOU BUT THIS SHOULD WIN OSCARS IF THEY HAD A BEST NEW STAR SHANE HARPER WOULD WIN! But this film is amazing go see it with your cousin, sister, brother, mom and dad, grandma and grandpa or even your friends. its a moving movie. so go see it",
+      "total_reactions": 33,
+      "user": "SNLover44"
+    },
+    {
+      "neg_reactions": 20,
+      "pos_reactions": 6,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 13,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "\u201cGod\u2019s not Dead\u201d is a great movie for anyone who wants to know the truth about Evolution, Atheism, God/Jesus and what each have to offer mankind.  Evolution defined: Man making a monkey of himself.  Atheism defined:  A man who thinks he is a monkey and believes there is no God.  The point of this movie is to show man the error of his way and the need for a Savior/God.  There are 2 paths in this life: 1.) The straight and narrow path which leads to eternal life/Heaven through Jesus Christ.  2.) The crooked and broad path that leads to death/Hell through unbelief and rejection of Jesus the Christ.  If you are tired of seeing movies with the one sided view that there is no God\u2026man comes from monkeys\u2026who evolved from some single celled organism or some green slime, then see this movie with an open heart and an ear to hear.  You will be glad you did!  The movie admission fee will be money well spent.",
+      "total_reactions": 26,
+      "user": "mitchjpjr2"
+    },
+    {
+      "neg_reactions": 24,
+      "pos_reactions": 7,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 4,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "I think everyone is reading waaaay into this thing. This movie is about a college kid, who in some cases don't even acknowledge God, who is being challenged by his teacher to prove Gods not dead. The teacher calls himself atheist because he said he \"didn't think God existed\" when in fact he did believe in God, he just hated him for taking his mom at an early age. Things like this can really happen.",
+      "total_reactions": 31,
+      "user": "l0v3j0hn316"
+    },
+    {
+      "neg_reactions": 7,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 13,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "The fact that this movie exists is proof there is no god. The arguments were pathetic at best, and the acting was what you would expect from a grade school play. It was Jim Jones koolaid drinking Christian propaganda.",
+      "total_reactions": 9,
+      "user": "Roddy2112"
+    },
+    {
+      "neg_reactions": 8,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 8,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "An endearing tale about a little girl and her love affair with an inoperable tumor. Dumb people eat this sort of thing up, especially if they hate everybody except themselves.",
+      "total_reactions": 10,
+      "user": "blizzard5314"
+    },
+    {
+      "neg_reactions": 4,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 4,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "More than Christian propaganda, this movie portrays how stupid the real America still is. Even though it's awful, I enjoyed watching it because of the sense of superiority it gave me over those stupid people who made this movie and everyone who liked it. I do believe in God, my God, and so why would the Muslim and the Chinese suddenly give in to Jesus adding to the hilarity of the movie? The most painful part is to see the association of the Robertson family with this movie since we all love them so much. Oh my God America... really?",
+      "total_reactions": 5,
+      "user": "indrajittt"
+    },
+    {
+      "neg_reactions": 4,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 5,
+        "month": 10,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "This is an excellent film!  I only watched it because my aunt who has been a committed atheist told me it was a really good film.  I watched it and was thoroughly impressed by the realistic portrayals of most of the life situations of the characters in the film.  In fact, it's hard not to see yourself in one of them.  The reason there are so many negative reviews here is that this is not a neutral subject and you can tell what side of the equation a lot of the reviews come from.  But, watch it and judge for yourself.  You'll likely find that, like my atheist aunt, this is a really good film.",
+      "total_reactions": 5,
+      "user": "wiserguy"
+    },
+    {
+      "neg_reactions": 6,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 8,
+        "year": 2014
+      },
+      "score": 0,
+      "text": "A Razzie for the worst script would be the most deserving recognition this movie can receive. This movie is, essentially, the materialization of the dreams of your average door-to-door preacher. Nothing would make me happier than to see the scriptwriter pick up his Golden Raspberry.",
+      "total_reactions": 7,
+      "user": "DavidMoran15"
+    },
+    {
+      "neg_reactions": 9,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 3,
+        "year": 2015
+      },
+      "score": 10,
+      "text": "Contrary to other reviews, I loved this movie because it relates to people so well. Sure, it may not have been perfect, but it moved me emotionally, and I hope it moved others too.",
+      "total_reactions": 10,
+      "user": "Helloworld15423"
+    },
+    {
+      "neg_reactions": 11,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 19,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "Most Atheists are ignorant pricks. They expect respect but give none. They movie does have a great message for kid's and the like. Go see it. I really like all the themes the movie provides.",
+      "total_reactions": 12,
+      "user": "Sneaksby"
+    },
+    {
+      "neg_reactions": 5,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 3,
+      "text": "As a \"hobby\" philosopher I hade some hopes toward this film, but it turned out be be a disappointment. The base idea was actually good, but it didn't use it well at all. This could be a very interesting and powerfull movie, it's a shame that it wasted almost all of it's potential. The portraying of the philosophy professor was so poor that is almost offensive. I'm not talking about the actor, but the character, which is so far from any sane philosopher.",
+      "total_reactions": 5,
+      "user": "Nexusepona"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
         "day": 3,
+        "month": 4,
+        "year": 2015
+      },
+      "score": 8,
+      "text": "First off, this movie is targeted more so towards Christian audience. Of course, if you are otherwise, you may still enjoy this! A constant battle involving logical arguments, and they could go both ways. Personally, they inspired my greater belief, not only in my own faith, but also that there must be plenty scientific facts and parts from the Bible that correspond in a way that makes both true. Now, back on this topic, the battle of facts increases in interest and a celebration to be had at the end. This may be even more appealing to myself as well as others, whom are still in adolescence. *Pure Flix's big debacle earns 8 out of 10 passing marks!*",
+      "total_reactions": 1,
+      "user": "JBJblaze"
+    },
+    {
+      "neg_reactions": 6,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 8,
+        "year": 2014
+      },
+      "score": 3,
+      "text": "Put aside the religious bias because that is what is expected in this film, the movie is embarrassing and quite frankly awkward to watch. The movie is simply made poorly with worthless side stories, weird placement of scenes and terrible acting. If the point was to make people believe God was still relevant, well than you did a good job in the Christian community and took 5 steps back with everyone else.",
+      "total_reactions": 6,
+      "user": "csw12"
+    },
+    {
+      "neg_reactions": 6,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 4,
+        "year": 2015
+      },
+      "score": 10,
+      "text": "I actually was pleasantly surprized.  This is a pretty good movie.  I mean yes there are cheesy parts especially the texting all your friends at the end.  That would be considered more annoying I think than effective.  I really liked the pastor and the missionary story throughout as well as the main story where the kid defends believing in God vs not.  I actually can relate.  I had a professor much like that in college western traditions and all he did was try and get the girls to love him by feeding into power feminism and he constantly tried to make a fool of those that would make a statement of faith or belief in a creator.  The only different with this and real life is the professor wouldn't dare let the student teach in front of the class in fear of looking like an idiot.  It truly is there rules and I almost agreed in the beginning, it might just be better to drop the class, but if God is prompting you to make a difference then do it.",
+      "total_reactions": 6,
+      "user": "BloodyRandy"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 9,
+        "month": 11,
+        "year": 2014
+      },
+      "score": 3,
+      "text": "Although I enjoyed the central idea that God is not dead, it was like watching a 400lb man in a bikini riding a moped with two flat tires. If you want your Christ without all the baggage, try 'A Course In Miracles'.",
+      "total_reactions": 1,
+      "user": "omnigate"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 3,
+      "text": "As an Evangelical Christian it pains me to say that this is another example of a movie that I wanted to like, but could not. We can point to many examples in Hollywood movies and Television where Christians are portrayed as unreasonable zealots. But this does not give us permission to return the favor and portray secular academia, or secular society in general, as antagonistic, cold, and shallow as this movie does. I typically hate to see stereotypical characters in any movie.  In this movie it is far too obvious who the \"bad-guys\" are in this movie, and who the \"good-guys\" are.  I would love to see a portrayal of a  philosophical debate about theism that doesn't give us so many obvious reasons to dislike those in the \"non-believers\" camp. As a movie that \"preaches to the choir, this movie is fine. But as a movie intended to be evangelistic, I do not recommend it. It is too heavy-handed and manipulative. And to think that it would not be perceived that way by most of secular society is insulting to them. Arrogance is typically more subtle, and therefore harder to find & acknowledge. Real humility requires depth of character and honest soul-searching.  To portray a Christian Faith that has real depth and compassion, we must reflect the depth that exists in the secular world as well. Anything else cheapens the Human condition and, on an individual level, the human soul. In it's place I recommend \"Chariots of Fire\" or \"To End all Wars\" as tools for Evangelism. These are movies that acknowledge Human struggle, intellect, and Faith hand-in-hand where the viewer can easily walk away with a positive view of the Christian faith while not being spoon fed. It's high time that the Christian movie-making community raise the bar. A world that was lost in sin led Christ to the cross. It should lead Christians to excellence in all of  it's Evangelical endeavors as well.",
+      "total_reactions": 2,
+      "user": "Haineswest"
+    },
+    {
+      "neg_reactions": 4,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 25,
+        "month": 10,
+        "year": 2014
+      },
+      "score": 10,
+      "text": "Finally, a movie the world needed to see, because it has become so corrupt.  People have become so selfish and arrogant because they believe that they are the center of the world.  Even kids these days.  Ive heard one say that because her phone broke her parents were obligated to get her a new one.  Wow. That was just about the saddest thing ive ever heard.  People have to be selfless not selfish, humble not proud.  And even worse people become angry.  Anger is evil and only leads to evil.  This movie shows that there are real people out there, that know that there is a seed of hope in this morale-less world.  I plead the director, producers, actors and everyone that helped make this movie, to support the makings of these realities and let people know that there is hope to once and for all rid the Devil out of everyone.",
+      "total_reactions": 4,
+      "user": "Inspiration"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 25,
+        "month": 12,
+        "year": 2014
+      },
+      "score": 9,
+      "text": "This movie was interesting and had fairly good acting. It was a very overly stereotypical, not all atheists are that opposed to Christianity. This kind of stuff does happen in the real world. Another good point of this movie was the fact that it portrayed that not all christians are perfect (the girlfriend), because we are not perfect. God is not dead.",
+      "total_reactions": 2,
+      "user": "fed104"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 9,
+      "text": "Woah, another underrated Christian film, big surprise...but God's Not Dead isn't just a Christian flick. It's very informative, inspiring, and engaging. I never once got bored during the film. It's probably one of my favorite movies because of how daring it tries to be!",
+      "total_reactions": 1,
+      "user": "DBPirate1129"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 25,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 8,
+      "text": "This film really wasn't a great piece of cinema and the acting has left a lot to be desired but the storyline was fresh and strong and the characterisation is great. neither too short or too long and it does tear at the heart strings in some places. Very enjoyable and gets you thinking!",
+      "total_reactions": 1,
+      "user": "Shimizu"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 11,
+        "year": 2014
+      },
+      "score": 5,
+      "text": "There are too many flaws to count in this movie, but it really was not that bad. It could be entertaining if you are willing to go along with it. Shoving religious views down the throat of the audience is never a wise decision, but it did not annoy me as much as I thought it would.",
+      "total_reactions": 0,
+      "user": "Trev29"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 1,
+        "year": 2016
+      },
+      "score": 10,
+      "text": "What a great film, the general hatred in the reviews for its Christian message is really a compliment in that it communicated the message of Christ to so many who are lost. Sorbo and the cast, as in What if, give a stellar performance while providing bold and direct counter to atheists (who despite what they say in the reviews, are most definitely part of the 'target audience'). I hope for more films like this.",
+      "total_reactions": 0,
+      "user": "druout1944"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 16,
+        "month": 1,
+        "year": 2017
+      },
+      "score": 10,
+      "text": "God is not Dead is an amazing movie. But the thing is, after watching it, you either will become a christian, or hate this movie with a passion, I mean hate. Because, to a unbeliever, this movie is like a punch in the face, it goes against everything the unbeliever holds dear. However, it is a beautiful movie: great plot, bold performances, incredible message. One of the most underrated movies ever made.",
+      "total_reactions": 0,
+      "user": "WagnerPaivaBr"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 6,
+        "year": 2015
+      },
+      "score": 7,
+      "text": "I just watched this movie on Amazon, not my normal sort of movie but thought I'd give it a try.",
+      "total_reactions": 0,
+      "user": "JeffDeWitt"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 10,
+        "year": 2015
+      },
+      "score": 6,
+      "text": "It certainly has performance problems: much of the acting isn't great, it's predictability (knowing every time whether the car would or would not start, knowing the professor would die) makes parts of the movie boring and hokey, and certain aspects (Josh is the only Christian or person in his class with a problem with his professor, the professor somehow isn't immediately fired for making students give the signed statement, the professor confronts Josh outside of class like a childhood bully, every single faculty member in the philosophy department looks down on theists) strain the viewer's ability to suspend disbelief.",
+      "total_reactions": 0,
+      "user": "Dannondorf"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 1,
         "month": 4,
         "year": 2016
       },
       "score": 4,
-      "text": "Though I think there is a bias against Christianity in schools, and that Christians should not be fearful to say the name of Jesus, I just thought the movie was poorly developed. I enjoyed the first one.  Did not enjoy this one because it was too unrealistic. Plus, I hate courtroom dramas.",
-      "total_reactions": 6,
-      "user": "swainkas"
+      "text": "It's official, folks. Your actions does not impress God and your deemed soul will burn in hell. Even though this movie got to an extremely negative situation, it seems I'm only here because of the second movie that just got released to theaters today.",
+      "total_reactions": 0,
+      "user": "EpicLadySponge"
     },
     {
-      "neg_reactions": 12,
-      "pos_reactions": 4,
+      "neg_reactions": 0,
+      "pos_reactions": 0,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 8,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 7,
-      "text": "The first \"God's Not Dead\" tried to uplift Christians and convict nonbelievers. The latter of which it largely failed to do thanks to it's awkward nature and a rather harsh depiction of the very people it tried to minister to. For the sequel that issue has been avoided. This time around the focus is solely on entertaining a Christian audience while delivering a message to said Christians with little to no preaching at nonbelievers. As a result it's a better film in several ways.",
-      "total_reactions": 16,
-      "user": "TheQuietGamer"
-    },
-    {
-      "neg_reactions": 18,
-      "pos_reactions": 5,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 3,
-        "month": 4,
+        "day": 30,
+        "month": 1,
         "year": 2016
       },
       "score": 8,
-      "text": "Eye Opener for the Logical Seeking Truth",
-      "total_reactions": 23,
-      "user": "BIGVON777"
+      "text": "I am going to start of this review in a.. non bias way and if you want to here my biased answer it will be at the end of this review.",
+      "total_reactions": 0,
+      "user": "CookiesUnite"
     },
     {
-      "neg_reactions": 17,
-      "pos_reactions": 4,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 6,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 10,
-      "text": "Powerful and beautifully crafted....seeing it for a second time this week. This movie is so timely as it reflects the reality of today's Christians as we have become the persecuted, the quieted, and the object of a new world order. Pay attention to details, and the irony of such. I applaud the Writers, the Director, the Actors, and the Crew for their courage to take on such a profound issue in a time when it is not \"politically correct\" nor socially accepted in certain company. Applause happened numerous times in our theater this evening. I hope the Artists behind this moving film will continue with more like this. I give two thumbs up and would offer ten if I had them !!",
-      "total_reactions": 21,
-      "user": "Fioranelli1"
-    },
-    {
-      "neg_reactions": 10,
-      "pos_reactions": 2,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 25,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 9,
-      "text": "is is an encouraging movie. It expresses the faithfulness of God, and the real hope found in the name of our savior. Atheists may not like it, but this is a very good representation of their aggression and anger towards Christians every day. It even goes as far as to prove the existence of the man named Jesus (whether or not someone is willing to believe that he is the son of God is another story). Yet, their responses to our faith are understandable, being as the existence of a God, and the right to believe in one stands in the way of their awful agendas.",
-      "total_reactions": 12,
-      "user": "MrGreenTurtle"
-    },
-    {
-      "neg_reactions": 34,
-      "pos_reactions": 5,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 2,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 10,
-      "text": "I loved the movie because it shows how important it is to be congruent in all our life. It gives us an example how we have to defend that is right. we don't have to ask permit to do what is correct. And the value that the loyalty and the friendship have in our decisions.",
-      "total_reactions": 39,
-      "user": "CARMELORIGOBERT"
-    },
-    {
-      "neg_reactions": 1,
+      "neg_reactions": 0,
       "pos_reactions": 0,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 11,
-        "month": 7,
+        "day": 12,
+        "month": 2,
         "year": 2016
       },
-      "score": 2,
-      "text": "Entirely too faith-based to impress anyone, God's Not Dead 2 is incredibly weak, and is a completely unnecessary sequel to an already mediocre film (God's Not Dead).",
-      "total_reactions": 1,
-      "user": "Muskrat147"
+      "score": 10,
+      "text": "This film develops a true discourse, which does not follow the current: the existence of God and its importance in people's lives. At the same time it shows how hatred and denial of God is irrational. Much better than hundreds of bad American films acclaimed by the press and critics, but which are devoid of values and meaning. (from Italy)",
+      "total_reactions": 0,
+      "user": "canarino"
     },
     {
-      "neg_reactions": 1,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 2,
-        "month": 7,
-        "year": 2016
-      },
-      "score": 0,
-      "text": "is it **** yes, it is **** **** indeed, it is the ****tiest type of **** that makes all **** glad that they are not as bad as this conservative, boring, racist, homophobic ****fest. May God descend from the heavens to destroy any evidence that this **** fest of a movie exists",
-      "total_reactions": 1,
-      "user": "willm"
-    },
-    {
-      "neg_reactions": 1,
+      "neg_reactions": 0,
       "pos_reactions": 0,
       "review_date": {
         "__type__": "datetime.date",
         "day": 13,
+        "month": 3,
+        "year": 2016
+      },
+      "score": 6,
+      "text": "God's not dead tries to develope everybody's faith, but it fails on his not-talented interpretations, many plots at the same time and predictable stunts. For cinematographic aspects, this is a piece of rubbish. Sadly, for the audience, this could be a boring film, bececuase of the stupid and I groans viewers who says God's dead (and of course, who never will say it).",
+      "total_reactions": 0,
+      "user": "Futuredirector"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 31,
+        "month": 1,
+        "year": 2017
+      },
+      "score": 0,
+      "text": "Nietzsche estar\u00eda orgulloso...................................",
+      "total_reactions": 0,
+      "user": "ISCybercoreSI"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 13,
+        "month": 7,
+        "year": 2016
+      },
+      "score": 2,
+      "text": "Though it has its moments, God's Not Dead is a mediocre faith story that has a boring premise, uneven performances, a lack of depth, and a confused message.",
+      "total_reactions": 0,
+      "user": "Muskrat147"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 31,
         "month": 8,
         "year": 2016
       },
       "score": 0,
-      "text": "this movie is the worst thing i have ever seen in my entire life i thought they couldn't make it any worse than the first one. the terrible acting the hugely cringing moments had me wanting to era my ears off. this movie makes every atheist or non believer the biggest **** in the world and all the believers are the good guys. this movie just makes me feel like the christian church is so full of crap I'm not against the religion but this movie kind of contradicts itself when the lady is being sued for preaching christianity in her class and everyone is against it and the movie is preaching christianity  which makes the atheist look like even more ****s i actually hate this movie so much i wanted to kill myself so i can hopefully foreg==get i ever watched this",
-      "total_reactions": 1,
-      "user": "hassnibar"
+      "text": "bahahahahhahahaaaahahahhahahahahahahahahahahahahahahahahahahhahahahahahahahahahhahahahahhahahahahahahahahahahahahahahahahahahahahahahaahahahahhahahahahahaahahhahahahahahahahahaha",
+      "total_reactions": 0,
+      "user": "aaaaas"
     },
     {
-      "neg_reactions": 1,
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 11,
+        "year": 2016
+      },
+      "score": 2,
+      "text": "With amateurish acting and repetitive themes too often seen in films of this genre, God's Not Dead will appeal to very few outside of its target audience.",
+      "total_reactions": 0,
+      "user": "filmboy23"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 14,
+        "month": 2,
+        "year": 2017
+      },
+      "score": 7,
+      "text": "A seriously underrated movie. Although atheists probably won't find much enjoyment in this movie (No, duh), I think many Christians would like it. though I wish the plot had more... substances. more character development...",
+      "total_reactions": 0,
+      "user": "Bad_Wolf317"
+    },
+    {
+      "neg_reactions": 0,
       "pos_reactions": 0,
       "review_date": {
         "__type__": "datetime.date",
@@ -520,65 +2078,23 @@
         "year": 2017
       },
       "score": 2,
-      "text": "God's Not Dead 2 gets a 2. ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha ha... It's just terrible; the movie looks terrible and the characters and plot don't really make any sense. You can make an awesome Christian movie; you just first have to know how to make an actual MOVIE rather than a mushed track of dead, dated scenes.",
-      "total_reactions": 1,
+      "text": "It's just terrible is all. The acting sucks, the writing stinks, the editing pukes, the directing bombs, the cinematography blows, the costume design bursts, and the music dies.",
+      "total_reactions": 0,
       "user": "SomePersona"
     },
     {
-      "neg_reactions": 1,
+      "neg_reactions": 0,
       "pos_reactions": 0,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 4,
-        "month": 2,
+        "day": 30,
+        "month": 1,
         "year": 2017
       },
-      "score": 0,
-      "text": "I feel sorry for the lead actors and the rest of the cast who bought into the victim mentality of the film and being misled by the false premise that Christianity was under attack. One actor (Jesse Metcalfe) even has his own Television show (Dallas) on network TV for crying out loud. The court cases listed in the credits have nothing to do with Christians being persecuted, but have everything to do with Christians doing the persecution. As for the choices made in the story, why on god's green Earth would a teacher need a public defender to defend her in a civil court? And why on great Zeus' Olympus would a teacher be in trouble for uttering the name Jesus? The court cases that have been mentioned in the end credits were examples of Christians doing the persecuting. The real message of the 'God's not Dead' franchise, I believe is this: \"If you don't allow me to persecute you, then you are persecuting me.\"",
-      "total_reactions": 1,
-      "user": "winchester7"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 20,
-        "month": 4,
-        "year": 2016
-      },
-      "score": 4,
-      "text": "Christianity reminds me of a position in sales where you have to constantly be pushing the product, seeking moments in conversation to say laudatory things about the product, and studying new techniques of how to be persuasive with your pitch. As far as techniques go, this is one isn't very clever or nice. When they're not feeling the nirvana of having all the answers, it must be so tedious to be at odds with anyone who has a dissenting opinion.",
+      "score": 7,
+      "text": "This movie is boring and really bad. The character are awful. But the worst thing about it is how it portrays atheists. This is come from an atheist by the way so I can explain why the movie doesn't portray use well. For starters take the class no atheist professor make their class all about atheism. The movie makes atheist look like oppressive monsters in reality christians have been the bully on the play ground and now that some ones has step up they cry oppression which is false. This movie is bad and don't waste you time.",
       "total_reactions": 0,
-      "user": "Scraper"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 22,
-        "month": 7,
-        "year": 2016
-      },
-      "score": 0,
-      "text": "How this trash after the first waste not as they had the courage to make a sequel. The first film does not bring arguments, only discriminates against atheists.",
-      "total_reactions": 0,
-      "user": "OrionHamake"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 6,
-        "month": 2,
-        "year": 2017
-      },
-      "score": 10,
-      "text": "Excellent movie. Ive known for a long time that Metacritic's user base is mostly composed of god hating Nazi/Marxist hybrids (as seen rioting and setting flames to cities in America) but the response here proves that beyond a doubt. If you're an actual intellectual (rather than a self proclaimed pseudo-intellectual like many here are) then you'll really enjoy this film.",
-      "total_reactions": 0,
-      "user": "TheChosenOne7"
+      "user": "VesperCar392"
     }
   ]
 }

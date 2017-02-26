@@ -1,39 +1,692 @@
 {
-  "avg_user_score": 8.9,
-  "metascore": 73,
-  "mixed_rating_frequency": 17,
-  "movie_name": "Layer Cake",
-  "negative_rating_frequency": 5,
-  "positive_rating_frequency": 190,
-  "pro_critic_reviews": [],
-  "user_reviews": [
+  "mc_avg_user_score": 6.4,
+  "mc_metascore": 49,
+  "mc_mixed_rating_frequency": 19,
+  "mc_movie_name": "Cake",
+  "mc_negative_rating_frequency": 8,
+  "mc_positive_rating_frequency": 33,
+  "mc_pro_critic_reviews": [
     {
-      "neg_reactions": 3,
+      "critic": "Melissa Maerz",
+      "publication": "Entertainment Weekly",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 21,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 83,
+      "summary": "Aniston works so hard to avoid sentimentality that it's disappointing when it creeps into the film. Director Daniel Barnz casts everything in a blue-yellow light that oversells the melancholy mood."
+    },
+    {
+      "critic": "Read full review",
+      "publication": "Hitfix",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 83,
+      "summary": "Mostly thanks to Barnz's direction and Aniston's performance it all starts to gel."
+    },
+    {
+      "critic": "Mick LaSalle",
+      "publication": "San Francisco Chronicle",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 75,
+      "summary": "What makes Aniston, of all actresses, especially right for Cake is that her comedy has always had a certain ruefulness underlying it, an understanding of life\u2019s limits, a kind of glum acceptance. So the transition into sadness and desolation is a natural step for her."
+    },
+    {
+      "critic": "Connie Ogle",
+      "publication": "Miami Herald",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 75,
+      "summary": "There are some who may lament Aniston\u2019s choice to step out of her comfortable comedy shoes and little black dresses, but the decision was sound: The best reason to see Cake \u2014 the sort of film that makes your life look pretty good in comparison \u2014 is to watch her deliver her best dramatic performance to date."
+    },
+    {
+      "critic": "Rex Reed",
+      "publication": "New York Observer",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 21,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 75,
+      "summary": "Depression is a tricky subject for a movie aimed at a target audience that is depressed enough already. But this one justifies its challenges to feel-good escapism through honesty and integrity."
+    },
+    {
+      "critic": "Inkoo Kang",
+      "publication": "TheWrap",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 70,
+      "summary": "A thoughtful and frequently moving drama that insightfully illuminates what it\u2019s like to live with illness and agony at least as well as last year\u2019s other Best Actress vehicles like \u201cWild,\u201d \u201cStill Alice,\u201d and \u201cTwo Days, One Night\u201d do."
+    },
+    {
+      "critic": "Susan Wloszczyna",
+      "publication": "RogerEbert.com",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 63,
+      "summary": "The one humanizing slice of Cake that is tolerable is Claire\u2019s relationship with her Mexican housekeeper, Silvana (the terrific Adrianna Barraza, who was Oscar-nominated for 2006\u2019s \u201cBabel\u201d)."
+    },
+    {
+      "critic": "Michael Phillips",
+      "publication": "Chicago Tribune",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 63,
+      "summary": "I wish the movie were messier, more surprising. But as with most of what we see, made on small budgets and large: The performances are not the problem."
+    },
+    {
+      "critic": "Roger Moore",
+      "publication": "Movie Nation",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 21,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 63,
+      "summary": "A comedy that barely flirts with funny and a grim weeper that never quite raises a tear, Cake has one thing going for it \u2014 Jennifer Aniston."
+    },
+    {
+      "critic": "Peter Travers",
+      "publication": "Rolling Stone",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 21,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 63,
+      "summary": "If you can't see where this is going, you've probably never seen a movie before. But the script plods on, complete with an ending that futilely tries to tidy up the scenario strands. Miraculously, Aniston maintains our rooting interest."
+    },
+    {
+      "critic": "Ian Freer",
+      "publication": "Empire",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 60,
+      "summary": "Jennifer Aniston lifts an addiction drama with a committed but never showy performance. It\u2019s a pity the rest of the film can\u2019t cut as deep."
+    },
+    {
+      "critic": "Mike Scott",
+      "publication": "New Orleans Times-Picayune",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 60,
+      "summary": "Director Daniel Barnz's soft-play indie drama is a compassionate but emotionally raw film, one that traffics in such thoughtful ideas as personal redemption and emotional resurrection."
+    },
+    {
+      "critic": "Steven Rea",
+      "publication": "Philadelphia Inquirer",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "Directed in moody, downbeat tones by Daniel Barnz, Cake doesn't know when to stop piling on the angst."
+    },
+    {
+      "critic": "Peter Rainer",
+      "publication": "Christian Science Monitor",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "One of those movies designed as an Oscar make-over for its star. It didn\u2019t work in this case. Aniston was not nominated for Best Actress, perhaps because the film is so obvious about what it\u2019s up to."
+    },
+    {
+      "critic": "Richard Roeper",
+      "publication": "Chicago Sun-Times",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "True, Aniston does maybe her best film work to date in Cake. But it\u2019s definitely not her best film."
+    },
+    {
+      "critic": "Liam Lacey",
+      "publication": "The Globe and Mail (Toronto)",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "Between a string of post-Friends dismal rom-coms, Aniston has succeeded in these kinds of grownup roles every few years. Here, she negotiates the character\u2019s quirks and contradictions competently, but nothing short of a rewrite from scratch could make Cake palatable."
+    },
+    {
+      "critic": "Manohla Dargis",
+      "publication": "The New York Times",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "It\u2019s the sort of well-intentioned independent effort that can make criticism feel like overkill. There\u2019s nothing to hate, nothing to love. The movie\u2019s greatest virtue is that it gives Ms. Aniston a little room to play against the somewhat sardonic tough-cookie type that she deploys in vulgar comedies."
+    },
+    {
+      "critic": "Bill Goodykoontz",
+      "publication": "Arizona Republic",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "[Jennifer Aniston's] performance in Cake is rightly being praised as a dramatic breakthrough (no one doubts her comedic chops). She's really good. It's just too bad the movie does her no favors."
+    },
+    {
+      "critic": "Kyle Smith",
+      "publication": "New York Post",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 21,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "Gunning for the near-annual Ugly Makeup Oscar, Aniston proves, as always, a modestly gifted actress, only this time with scars and weedy hair."
+    },
+    {
+      "critic": "Jenni Miller",
+      "publication": "The A.V. Club",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 21,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "Director Daniel Barnz, who also made the unbearably earnest \"Won\u2019t Back Down,\"  never wavers in his more-is-more conviction. Perhaps with a better script and in surer hands, Cake could have been salvaged."
+    },
+    {
+      "critic": "William Goss",
+      "publication": "Austin Chronicle",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 21,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "At the end of the day, Cake at least stands better as a showcase for the potential dramatic chops of the once and future Rachel Green than it does as the latest life-affirming indie. Hopefully, the next time Aniston goes fishing for awards, she uses a more convincing breed of bait to do so."
+    },
+    {
+      "critic": "Amy Nicholson",
+      "publication": "Village Voice",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "Aniston gives the character personality and heft, but the script gives the character nothing to do."
+    },
+    {
+      "critic": "Elise Nakhnikian",
+      "publication": "Slant Magazine",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "The film is a study of grief that drowns in a cold bath of grim self-pity."
+    },
+    {
+      "critic": "Claudia Puig",
+      "publication": "USA Today",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "score": 50,
+      "summary": "Aniston's portrayal feels honest, but the film doesn't rise to the level of her performance."
+    },
+    {
+      "critic": "Sheri Linden",
+      "publication": "Los Angeles Times",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 31,
+        "month": 12,
+        "year": 2014
+      },
+      "score": 50,
+      "summary": "It's a letdown that the film itself, written by Patrick Tobin and directed by Daniel Barnz, doesn't take half the chances its leading lady does and is content to paddle around the shallows rather than plunge into the deep end."
+    },
+    {
+      "critic": "Leslie Felperin",
+      "publication": "The Hollywood Reporter",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 50,
+      "summary": "Aniston submits an honest, sturdy performance. However, the film, directed by Daniel Barnz (Phoebe in Wonderland, Beastly) and written by Patrick Tobin, is less emotionally potent than it wants to be."
+    },
+    {
+      "critic": "Justin Chang",
+      "publication": "Variety",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 50,
+      "summary": "To be sure, Aniston leads with her scowl here, in the sort of performance that often gets called \u201cbrave\u201d but is, in fact, more accurately described as a well-executed change of pace."
+    },
+    {
+      "critic": "Nikola Grozdanovic",
+      "publication": "The Playlist",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 42,
+      "summary": "There are moments when the fabrication behind Claire\u2019s arc breaks to reveal a real person, and the filmmaker\u2019s have Aniston to thank for this, because it\u2019s certainly not the bland dialogue or unremarkable events."
+    },
+    {
+      "critic": "Mike McCahill",
+      "publication": "The Telegraph",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 19,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 40,
+      "summary": "[Aniston's] the one element keeping this unexceptional dramedy halfway watchable."
+    },
+    {
+      "critic": "Julia Alexander",
+      "publication": "CineVue",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 18,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 40,
+      "summary": "Barnz's Cake could have been an intriguing look into the world of chronic pain and depression, but trying to be a jack-of-all-trades ruined the film and left it a master of none."
+    },
+    {
+      "critic": "Kate Stables",
+      "publication": "Total Film",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 40,
+      "summary": "The drugs don\u2019t work \u2013 but thankfully Aniston does \u2013 in this slight but sly portrait of pain-meds hell, which wallows in self-pity when it should be grabbing our sympathy."
+    },
+    {
+      "critic": "David Edelstein",
+      "publication": "New York Magazine (Vulture)",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 40,
+      "summary": "Actually, the whole movie is grim \u2014 drearily so."
+    },
+    {
+      "critic": "Sheila O\u2019Malley",
+      "publication": "The Dissolve",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 40,
+      "summary": "The script has a refreshing take on the expectation that sick people should be good sports, and fit a pat, inspirational narrative about the blessings of illness. But the way the story is told, with symbols, dream sequences, flashbacks, and coy withholding, makes that setup manipulative and overdetermined. It tries too hard, without being as deep as it thinks."
+    },
+    {
+      "critic": "Joe Neumaier",
+      "publication": "New York Daily News",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 21,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 40,
+      "summary": "Aniston is fine, and sometimes good even, in director Daniel Barnz\u2019s maudlin and overly obvious drama. She has layered moments of sympathy as a woman afflicted with chronic pain. And unlike in the bad rom-coms she does too often, Aniston absolutely shows some serious chops."
+    },
+    {
+      "critic": "Joshua Rothkopf",
+      "publication": "Time Out New York",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 40,
+      "summary": "Cake chokes you on its self-seriousness, even as it trots out potentially interesting supporting players."
+    },
+    {
+      "critic": "Catherine Shoard",
+      "publication": "The Guardian",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 40,
+      "summary": "Aniston\u2019s drab-act is diverting, but it\u2019s not enough to sweeten a character who is one hell of a pill."
+    },
+    {
+      "critic": "Peter Keough",
+      "publication": "Boston Globe",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 38,
+      "summary": "Here Aniston suffers every manipulative clich\u00e9 and contrivance in the tearjerker playbook. She works hard, and it\u2019s painful to watch."
+    },
+    {
+      "critic": "Ann Hornaday",
+      "publication": "Washington Post",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 37,
+      "summary": "There\u2019s no doubt that Aniston deserves more roles like this one but, with luck, in less maudlin, more surprising movies."
+    }
+  ],
+  "mc_user_reviews": [
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 18,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 0,
+      "text": "Jen can't act. Boring movie. She must work for cheap to get people to hire her. Same old Rachel mannerisms that she depends on in every movie. Just looking dowdy does not make a film.",
+      "total_reactions": 1,
+      "user": "micha"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 18,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 0,
+      "text": "Not another Aniston bomb! Please someone let her know that she can't act and to stop. I'm getting embarrassed for her. There is a reason this never made it to many theaters and was being pulled after the first week out.",
+      "total_reactions": 1,
+      "user": "annasiam"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 3,
+      "text": "Jennifer Aniston gives an excellent performance as a woman suffering both physical and mental pain. The hair is stringy, the face scarred, the body constantly in pain as she seeks relief with Percocet and alcohol. Her husband, Chris Messina, has left to fight his own demons, she has been thrown out of a support group and aside from a loveless interlude now and then with her gardener, Manuel Garcia-Rulfo, her main companionship is with her housekeeper Adriana Barraza, who equals Aniston\u2019s performance. The two women represent the imbalance white women and their Mexican help have, particularly in Southern California, though it is only followed through in one quick scene.",
+      "total_reactions": 1,
+      "user": "GreatMartin"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 10,
+        "month": 3,
+        "year": 2015
+      },
+      "score": 5,
+      "text": "Okay here's my impression of Jennifer Aniston in this movie: (\u256f\ufe35\u2570,)",
+      "total_reactions": 1,
+      "user": "MattBrady99"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 10,
+      "text": "Don't write a lot of reviews, but I have to counteract the reviews given by holier than thou professional critics. If you or someone you know has been through extreme emotional and/or physical pain, then this movie should be seen. I can't believe Aniston didn't get a nomination.  So good.  Some very funny moments, but it definitely left a lump in my throat more than a few times.",
+      "total_reactions": 3,
+      "user": "davein310"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 26,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 5,
+      "text": "Jennifer Aniston forgoes good hair and makeup as a woman suffering from chronic physical pain and mental anguish. She slogs thru her life in a pain-killer-induced stupor. Even with sympathy for the character's plight, Aniston one-note performance doesn't mine any depth or empathy. Not surprisingly, she does best with the few funny lines. It's not all her fault: director Daniel Barnz lets the character's haze dominate the pace. The plot is \"painfully\" predictable, including the tragic loss of a child and inevitable tortured companion (Sam Worthington) who helps turn her life around. This character study may find advocates in people who have experienced her plight, but it doesn't reach it's dramatic potential.",
+      "total_reactions": 2,
+      "user": "TVJerry"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 10,
+      "text": "It\u2019s official.",
+      "total_reactions": 2,
+      "user": "Damion"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 8,
+      "text": "Can Jennifer Aniston do no wrong? After seeing CAKE I realized how much I have loved Aniston in every dramatic and challenging role. In CAKE, she captures the small nuances of a troubled, angry, mean, and actually pretty rotten woman. And yet we have such empathy for this awful contemporary creature. The film has the guts to not tell us why this woman has become who she is. Only organically through moments of conversation and small hints do we find out. Despite her profound loss and sorrow, she has been abandoned by everyone around you. You would do the same the film has the courage to state. CAKE is a film with a strong position against our new age influenced culture with its focus on closure and \"my truth.\" Who gives a damn about you. Life can suck. Grow up. I wish that CAKE were better staying away from Hollywood plot points but these misses do not undermine the overall strengths of CAKE.",
+      "total_reactions": 2,
+      "user": "LowbrowCinema"
+    },
+    {
+      "neg_reactions": 1,
       "pos_reactions": 0,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 11,
-        "month": 10,
-        "year": 2011
+        "day": 24,
+        "month": 1,
+        "year": 2015
       },
-      "score": 7,
-      "text": "Somewhat great, but a great predecessor to Matthew Vaughn's hollywood masterpieces. Once again, you get to see the pure brilliance and genius of Matthew Vaughn. I **** love that talented bastard.",
-      "total_reactions": 3,
-      "user": "Justinavery7074"
+      "score": 8,
+      "text": "With one of the most honest, raw and frankly beautiful performances of her career, Jennifer Aniston may finally receive the Oscar attention she deserves. Cake is subtle and poignant. It strikes at your heart--you cringe and you laugh. A perfect telling of struggles in life.",
+      "total_reactions": 1,
+      "user": "beingryanjude"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 6,
+      "text": "Cake isn't the greatest movie ever made, it doesn't have the greatest script, our even originality, what it does have though, is an incredible performance by Jennifer Aniston. Pain is an universal theme felt by all of us and Cake realizes it and takes us on a journey of a character with tremendous amounts of pain. That's one thing about pain we've all felt it and we all know what it feels like. Jennifer Aniston knows pain and as Claire she takes the audience along as we go through this journey with her. Supporting characters played by Academy Award nominees Anna Kendrick and Adriana Bazarra not only make the film more delightful and entertaining but also raise up Aniston's game that much higher. Cake is not for the light hearted, it will move you, and it will probably make you cry but only because of a brilliant performance by Jennifer Aniston.",
+      "total_reactions": 1,
+      "user": "ajarias96"
     },
     {
       "neg_reactions": 0,
       "pos_reactions": 0,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 7,
+        "day": 9,
         "month": 6,
         "year": 2015
       },
-      "score": 9,
-      "text": "Layer cake is a true modern British crime drama. A excellent book to film adaptation with a great story and Daniel Craig does a outstanding job of portraying this modern day gangster.",
+      "score": 7,
+      "text": "She's still gorgeous, of course, but Jennifer Aniston finally has reached the point where some pretty good makeup and a depressed demeanor can make her look at lot more relatable. I wanted to compare it with \"The Good Girl,\" another pretty good portrayal by her that couldn't quite make you believe her in a blue-collar setting. I thought she was good as this depressed woman with every reason to give up on life. The problem here was that so many actresses have done the grieving mother in a way that rips your heart out ... Nicole Kidman, Naomi Watts, Mary Tyler Moore, and maybe most stunningly, Laura Morante in \"The Son's Room\" (Italian). \"Cake\" just isn't different enough or strong enough overall to compare with those films. Neither is Aniston, but her portrayal of depression is convincing.",
       "total_reactions": 0,
-      "user": "DANIELW45"
+      "user": "Lyn"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 25,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 8,
+      "text": "Depressing movie, depressing role. But what a genius Jennifer Aniston is with her ability to make a sad scene funny. She didn't get the Oscar nod because it's a depressing character with limited redemption. But someday, with the right role, that nod will come.",
+      "total_reactions": 0,
+      "user": "ledaumas"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 5,
+        "month": 6,
+        "year": 2015
+      },
+      "score": 6,
+      "text": "It may sound dismissive to phrase the sentence \u201cCAKE features Jennifer Aniston\u2019s career-best performance so far\u201d since the only noteworthy acting job from Ms. Aniston\u2019s filmography before CAKE is THE GOOD GIRL (2002), a modest dark comedy gives her a nomination of Independent Spirit Awards more than a decade ago (being an eternal fanboy of FRIENDS, it is painful to admit that the sea change takes a bit too long to happen,  ok, who am I kidding? She has been one of the most bankable mainstream actress and beloved celebrities in the cutthroat line of work, who would whine about that!), however, it is truly a sterling transformation for any actor to portray Clair as the way Ms. Aniston has done, a woman constantly suffered from chronic pain, and this is only the physical torture, a past tragedy of loss her son is severely gnawing at her internally, to the verge of giving up her own life.",
+      "total_reactions": 0,
+      "user": "lasttimeisaw"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 21,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 8,
+      "text": "Despite an un-prepossessing title Cake is an absorbing and surprisingly moving little film that in the main eschews obvious sentiment and clich\u00e9. It tells the story of Claire Bennett, a young woman suffering from chronic back pain following a car accident that also killed her young son. The film affords an actress ample opportunity to knock it out of the park and comedy queen Jennifer Aniston is certainly up to the task. She portrays Claire as both angry and unlikeable, but still manages to elicit empathy for her plight. The screenplay doesn\u2019t lay all its cards on the table from the outset so one is always alert to what this woman\u2019s back story is. The revelation when it comes is not really a big surprise as such, but the drip feeding of information certainly keeps one watching. Supporting characters are well delineated even if the scenes with Sam Worthington are probably the most conventional. Ultimately, though, this is a film that is totally reliant on the credibility brought to the table by its lead actress and Aniston is devastatingly good. Her scenes with Adriana Barraza in particular are especially captivating. Underrated as an actress Aniston is not only one of the best comedienne\u2019s working in films today but here proves her dramatic chops also. It may be a role that had one eye on Oscar, but in this case it would have been totally deserved. I haven\u2019t seen Moore\u2019s \u2018Still Alice\u2019 performance yet (although the trailer makes it look like a TV movie of the week), but as far as Witherspoon, Cotillard, Jones and Pike are concerned, my vote would have unquestionably gone to Aniston.",
+      "total_reactions": 0,
+      "user": "foxgrove"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 18,
+        "month": 8,
+        "year": 2015
+      },
+      "score": 7,
+      "text": "Aniston at best!",
+      "total_reactions": 0,
+      "user": "LeZee"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 24,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 4,
+      "text": "Even though it has Jennifer Aniston at her best and an intriguing sucidal plot, Cake is weighed down but dumbed down screenplay, horrible direction and noisy editing.",
+      "total_reactions": 0,
+      "user": "Thegodfatherson"
     },
     {
       "neg_reactions": 0,
@@ -42,12 +695,82 @@
         "__type__": "datetime.date",
         "day": 24,
         "month": 4,
-        "year": 2016
+        "year": 2015
+      },
+      "score": 8,
+      "text": "The film wants us to care about  Jennifer Aniston's character but her character is dark,loathe and I did not find her like able. Aniston takes a break from the comedies, her drama chops are worth watching. The cast: Adriana Barraza, Anna Kendrick, Sam Worthington and Felicity Hoffman this cast is sort of why the film is like able also Oscar worthy than the main character. The film is like an emotional roller coaster ride sometimes it's enjoyable and sometimes you don't know how it's gonna impact you after you watch it. Grade B-",
+      "total_reactions": 0,
+      "user": "lukechristiansc"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 1,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 8,
+      "text": "Despite tendencies toward a lack of subtlety and occasionally trite cinematography, this engaging offering features an outstanding performance by Jennifer Aniston as a woman in chronic pain, both physically and emotionally, seeking to find a way out. This moving story never disappoints, with its emotional heart tugs and acerbic wit providing an intriguing mix of emotions. It's a film that deserves far more attention than it has received.",
+      "total_reactions": 0,
+      "user": "Brent_Marchant"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 4,
+        "month": 4,
+        "year": 2015
+      },
+      "score": 5,
+      "text": "Just a mediocre film. Aniston is working hard, too hard probably. The big issue in this movie is that character studies require a character we care about. No amount of convincing physicalisation, artificial scars and bad makeup are enough. Unfortunately that's all we are offered. Nothing about the accident, injury, or Aniston's situation is explored. Probably the writers though they were being edgier leaving it all unsaid and implied. Yeah, we can figure out what's happened here (unless you're really dense), but frankly, it's boring. I won't spoil the ending, but I could see it coming a mile off.",
+      "total_reactions": 0,
+      "user": "virginiaproud"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 13,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 7,
+      "text": "This movie shined in a lot of areas and it fizzled in a lot of areas as well, as shown through the moderate reviews this movie has gotten. The one thing I can say that was continuous however was Jennifer Aniston's portrayal of Claire Bennett, a woman after going through devastating loss, trauma, and chronic pain tries to put the pieces of her life together with her housekeeper and \"best friend\" Silvana. The heartbreaking performance of Claire by Jennifer was so exquisite and just like so many others have said Oscar worthy. This movie had it's odd moments and was a little too Twin Peaks for me at times but the overall message is what keeps me going back to it time and time again, that we have a choice to either let go when life throws it's crap at us, or we can fight back kicking and screaming. Highly recommend it if you are a big Jen fan as well, and/or if you need a re-boost in your mindset.",
+      "total_reactions": 0,
+      "user": "Derek1101"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 25,
+        "month": 8,
+        "year": 2015
+      },
+      "score": 5,
+      "text": "May have not been the best movie I have ever watched, but it did have some value.  The first part of the movie almost lost me totally and was a waste, but the second half of the movie answered some questions and helped redeem the movie somewhat.  Can't give away much because I would be adding spoilers, but mostly a dramatic movie about how ones life can take a bad turn, and also how sometimes life can take ugly turns, but all boils down as to how you handle it and sometimes pieces can be picked up along the way!",
+      "total_reactions": 0,
+      "user": "horizonbts"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 4,
+        "year": 2015
       },
       "score": 9,
-      "text": "A suspenseful British gangster drama, which twists and turns, so pay attention. Well cast and directed, this thriller is well worth the watch.",
+      "text": "Loved this movie! Jennifer suited the role perfectly, no one else could have done it better! A movie about a drug addiction mixed with depression, its a sad story but i can understand the circumstances! I think its a must see!!",
       "total_reactions": 0,
-      "user": "choomtabi31"
+      "user": "amcgrath17"
     },
     {
       "neg_reactions": 0,
@@ -55,13 +778,27 @@
       "review_date": {
         "__type__": "datetime.date",
         "day": 19,
-        "month": 6,
-        "year": 2016
+        "month": 10,
+        "year": 2015
+      },
+      "score": 6,
+      "text": "Not a bad movie but very slow paced, and it has lots of fringe characters",
+      "total_reactions": 0,
+      "user": "jigsmode31"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 12,
+        "year": 2015
       },
       "score": 7,
-      "text": "Along with Guy Ritchie, Matthew Vaughn is the probably the second biggest director from the UK at the moment with some huge films under his belt, he is also the British gangster film maker of our modern age along with Mr Ritchie having made 'Lock Stock' and 'Snatch' together.",
+      "text": "Aniston's performance is deserving of her Golden Globe nomination, but the film doesn't live up to her daring.",
       "total_reactions": 0,
-      "user": "IAmTech"
+      "user": "jinannn31"
     }
   ]
 }

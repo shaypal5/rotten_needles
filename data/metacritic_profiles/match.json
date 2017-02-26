@@ -1,53 +1,230 @@
 {
-  "avg_user_score": 8.4,
-  "metascore": 72,
-  "mixed_rating_frequency": 38,
-  "movie_name": "Match Point",
-  "negative_rating_frequency": 51,
-  "positive_rating_frequency": 442,
-  "pro_critic_reviews": [],
-  "user_reviews": [
+  "mc_avg_user_score": 6.0,
+  "mc_metascore": 62,
+  "mc_mixed_rating_frequency": 2,
+  "mc_movie_name": "Match",
+  "mc_negative_rating_frequency": 1,
+  "mc_positive_rating_frequency": 3,
+  "mc_pro_critic_reviews": [
     {
-      "neg_reactions": 0,
-      "pos_reactions": 3,
+      "critic": "Chris Packham",
+      "publication": "Village Voice",
       "review_date": {
         "__type__": "datetime.date",
-        "day": 24,
-        "month": 2,
+        "day": 13,
+        "month": 1,
         "year": 2015
       },
-      "score": 10,
-      "text": "This is one of my favorite movie ever. It's a very smart plot (normal for Woody), about a ambicious and smart tennis player, who uses his interest in high culture to penetrate the upper class. Chris is completely amoral. He just coldly calculates the probability of success. Woody plays well with the theme of luck (which is common in his movies), including two interesting scenes, one at the begginning, with a tennis ball touching the net  and luck defining in which side of the court it is going to fall, and another one at the end that makes you anticipate, wrongly, the end of the movie. Scarlett is gorgeous. Myers delivered a good performance. The movie oscilates a lot in its plot, as luck is seemingly defining the path the characters take, and the end tends to be not what you expected (unless you know Allen well). It is philosophical, entertaining, full of suspense and sexy. A masterpiece in my opinion. Dostoevsky would be proud, despite the alternative, nietzschean ending.",
-      "total_reactions": 3,
-      "user": "Zamba"
+      "score": 100,
+      "summary": "Writer-director Stephen Belber's inspiriting, generous Match is so good that it's like some kind of trick."
     },
     {
-      "neg_reactions": 0,
-      "pos_reactions": 1,
+      "critic": "Bill Zwecker",
+      "publication": "Chicago Sun-Times",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 88,
+      "summary": "This small film (virtually all of it filmed in Tobi\u2019s New York apartment) is a real gem. Stewart is the main draw and he doesn\u2019t disappoint one bit. Gugino delivers a richly layered performance, tricky as the part calls for supreme subtlety. Lillard is a major revelation here."
+    },
+    {
+      "critic": "Lou Lumenick",
+      "publication": "New York Post",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 75,
+      "summary": "Patrick Stewart knocks it out of the park as a Juilliard School dance teacher forced to spill his biggest secrets in Match, which playwright Stephen Belber effectively directed and adapted from his own Broadway play."
+    },
+    {
+      "critic": "Glenn Kenny",
+      "publication": "RogerEbert.com",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 75,
+      "summary": "Match has enough meaty and engaging character material to effectively sidestep the very theatrical contrivance of its plot premise, which does have a great deal of potential for reversal and counter reversal and indeed takes full advantage of that potential."
+    },
+    {
+      "critic": "Gabe Toro",
+      "publication": "The Playlist",
       "review_date": {
         "__type__": "datetime.date",
         "day": 14,
-        "month": 7,
-        "year": 2013
+        "month": 1,
+        "year": 2015
       },
-      "score": 10,
-      "text": "A great contemporary cinema adaption for \"Crime and Punishment\" in which crime is justifiable for social ascension and not for the harm an old usurer does to society.",
-      "total_reactions": 1,
-      "user": "pr3d4tor"
+      "score": 75,
+      "summary": "This is Stewart's show, and it's a dynamite role for anyone, never mind the screen's beloved Professor Xavier. The actor slips away and Tobi ultimately dominates the screen to the point where you lose track of the film proper and become Tobi's guest."
     },
     {
-      "neg_reactions": 2,
+      "critic": "Bill Goodykoontz",
+      "publication": "Arizona Republic",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 70,
+      "summary": "Match is no masterpiece, but it is an intriguing and entertaining example of actors lifting the material they're given to greater heights, with Stewart leading the way."
+    },
+    {
+      "critic": "David Edelstein",
+      "publication": "New York Magazine (Vulture)",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 70,
+      "summary": "Captain Jean-Luc Picard would be enough for one lifetime, but given that Sir Patrick is now living out an exuberant second adolescence as a Brooklyn hipster and throwing himself into parts like these, it\u2019s time to proclaim him another reason to love New York."
+    },
+    {
+      "critic": "Mike D'Angelo",
+      "publication": "The A.V. Club",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 14,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 67,
+      "summary": "Drama is driven by conflict, but in this particular case it\u2019s the calm between the storms that captivates."
+    },
+    {
+      "critic": "Abhimanyu Das",
+      "publication": "Slant Magazine",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 11,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 63,
+      "summary": "Patrick Stewart's performance is practically an argument for Belber to jettison everything else and take the actor on the road as a one-man spoken-word act."
+    },
+    {
+      "critic": "Elizabeth Weitzman",
+      "publication": "New York Daily News",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 60,
+      "summary": "These are the best moments, when Stewart and a wisely understated Gugino are free to enact their own wistful, beautifully intuitive pas de deux."
+    },
+    {
+      "critic": "John DeFore",
+      "publication": "The Hollywood Reporter",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 14,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 60,
+      "summary": "While it offers some provocative moral quandaries, it serves mostly as a showcase for Patrick Stewart."
+    },
+    {
+      "critic": "Peter Debruge",
+      "publication": "Variety",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 14,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 60,
+      "summary": "Without sacrificing the piece\u2018s warm comic undertones, this minimally adapted theatrical piece remains richer and far more thought-provoking than a typical night at the movies \u2014 if only the entire cast were as strong as Stewart."
+    },
+    {
+      "critic": "Keith Phipps",
+      "publication": "The Dissolve",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 13,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 60,
+      "summary": "Despite the sharp dialogue...and carefully managed dramatic rhythms, Match still can\u2019t help but seem a bit cramped, particularly once the plot starts to take some predictable turns and the shouting starts. It\u2019s a fine line that divides the intimate from the claustrophobic."
+    },
+    {
+      "critic": "G. Allen Johnson",
+      "publication": "San Francisco Chronicle",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "Stewart. His role is so juicy and he is so good that Lillard and Gugino just can\u2019t keep up. Stewart fans should see the film just to see him cut loose in an arena outside the \u201cStar Trek\u201d and \u201cX-Men\u201d franchises. He is, in fact, unmatched."
+    },
+    {
+      "critic": "Robert Abele",
+      "publication": "Los Angeles Times",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 14,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "Though the thin mystery at the center becomes a narrative albatross, and Lillard and Gugino seem hamstrung by the schematic nature of their characters, Stewart's melancholic electricity manages to maintain its appeal."
+    },
+    {
+      "critic": "Ben Kenigsberg",
+      "publication": "The New York Times",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 13,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 50,
+      "summary": "The movie pulls the rug out from under the audience several times, but in the end there is not much underneath."
+    },
+    {
+      "critic": "David Ehrlich",
+      "publication": "Time Out New York",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 14,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 40,
+      "summary": "As Match wilts into a trite portrait of people who are at the mercy of their pasts, Belber\u2019s menagerie of inexpressive shots leaves his film at the mercy of its own."
+    }
+  ],
+  "mc_user_reviews": [
+    {
+      "neg_reactions": 0,
       "pos_reactions": 0,
       "review_date": {
         "__type__": "datetime.date",
-        "day": 4,
-        "month": 4,
-        "year": 2014
+        "day": 17,
+        "month": 1,
+        "year": 2015
       },
-      "score": 0,
-      "text": "I just can't believe how awful this film is and yet it reviewed so well by many. I think this is a case of people focusing on Allens excellent back catalogue of former glories and not treating this as a standalone film. The script is so bad, that it made me hate it despite the normally likeable leads.",
-      "total_reactions": 2,
-      "user": "Rocco123"
+      "score": 10,
+      "text": "Match is just the perfect example of a fresh movie, in every literal aspect of the word.",
+      "total_reactions": 0,
+      "user": "c700"
     },
     {
       "neg_reactions": 0,
@@ -56,180 +233,12 @@
         "__type__": "datetime.date",
         "day": 17,
         "month": 9,
-        "year": 2012
-      },
-      "score": 8,
-      "text": "Match Point is a deeply bitter and cynical film about privileged, upper class members of society behaving badly and  getting away with their transgressions.  There is no moral to the story and the thesis that Allen is working with is that there is no rhyme or reason for what happens in this thing called life.  It's all based on luck and chance.  It sounds like a complete downer of a film, but Allen makes it smart, entertaining and ultimately riveting.",
-      "total_reactions": 0,
-      "user": "BKM"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 28,
-        "month": 11,
-        "year": 2011
-      },
-      "score": 7,
-      "text": "Hmm hard one to mark. Its in the black and white mystery , adulterous genre. Its an Oscar Wilde thriller if you may. Its good and has a nice twist but its the journey that's makes it enjoyable. Plant an old black and white film complete with English fog and place it in modern London and you have this film.",
-      "total_reactions": 0,
-      "user": "MorriBey"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 7,
-        "month": 11,
-        "year": 2011
-      },
-      "score": 9,
-      "text": "Match Point has a good balance of character, plot, unexpected surprises, and the substance to the story was handled well. The middle act of the film does start to drag a little but the 3rd act becomes intense and interesting. The actors do a great job with their rolls, I felt as if I knew the characters after the movie.I have thought about this movie a bit over the years, about its horrible protagonist and the events that play out. I find this movie's story and its take on life very interesting. Recommended.",
-      "total_reactions": 0,
-      "user": "davenbettridge"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 8,
-        "month": 11,
-        "year": 2011
-      },
-      "score": 8,
-      "text": "I really liked this movie. Woody Allen finally hits the **** tone where Cassandra's Dream missed horribly.",
-      "total_reactions": 0,
-      "user": "j30"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 30,
-        "month": 8,
-        "year": 2011
-      },
-      "score": 1,
-      "text": "Very poor. Pretentious with poor acting, ubiquitous cringe moments, forced philosophical preachings. Characters are shallow, and non developed and provide no explanations for their actions, they just seem to do things to follow allen's plot. Characters are portrayed one way, and then their actions later on in the film don't conform, but forcibly go to where allen's plot wants. Johanson is gorgeous but her lines and the parts that she has to play are rubbish. Poor girl such a great actor yet such a bad movie. This movies is like someone having to make up a story on the spot with no preparation, they drivvle, drivvle drivvle, find out that they they've just spoke for a long time with nothing important or interesting, no plot or character and then threw in something bad in the last 5 seconds at the end to try and make it interesting.",
-      "total_reactions": 0,
-      "user": "ewkdon223"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 28,
-        "month": 8,
-        "year": 2014
-      },
-      "score": 6,
-      "text": "This movie is fitting for those who like some good, sexy -or less sexy... - drama, love-triangle and cheating plus inner turmoil. A man loves two women - first he cannot get, and when she is available, he is married to the other. The ending was surprising. This is no way a thriller, but a good watch. Very human in many ways. Jonathan Rhys-Meyers, in my opinion, did a good job in his role, a lover/husband trying to decide how to live his life (and with whom), and finally making and extreme decision about it.",
-      "total_reactions": 0,
-      "user": "oxana"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 25,
-        "month": 8,
-        "year": 2014
-      },
-      "score": 9,
-      "text": "With Match Point, Woody Allen is able to prove he has conquer another genre in the world of film: suspense. As always, the film is smart and wholly entertaining. It's about life and luck--Allen has struck gold here. Scarlett Johansson is captivating as Nola Rice.",
-      "total_reactions": 0,
-      "user": "beingryanjude"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 17,
-        "month": 6,
-        "year": 2016
-      },
-      "score": 5,
-      "text": "I appreciate the philosophical musings based on \"Crime and Punishment\", as well as the thoughts offered on luck, love, lust, and fidelity, but Match Point is simply dull. It occasionally hits the accelerator, but far too often Woody Allen's pacing of the film just fails to deliver anything of interest. Plus, the film is far too subtle. Obviously, I picked up on all the thematic elements and what not, but as it stands, the film's pacing is just off kilter. That said, Jonathan Rhys Meyers is very good here and Scarlett Johansson also does quite well here. However, the problems of the film all come back again to the lack of intrigue and dramatic entertainment. I appreciate slow burns and slower films, but even though this one has a solid pay-off, it just does not save the film and, even worse, the sequence immediately proceeding the ending makes no sense given the tone and approach of the film before this. It just does not fit, even if the very ending does do a good job tying up all the thematic elements. Overall, Match Point hits the net and bounces back onto your side.",
-      "total_reactions": 0,
-      "user": "Spangle"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 28,
-        "month": 11,
-        "year": 2012
-      },
-      "score": 8,
-      "text": "It is fairly bleak, but \"Match Point\" still remains a testament to Woody Allen's simply tremendous ability to effectively engage the audience in a provocative story.",
-      "total_reactions": 0,
-      "user": "Compi24"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 21,
-        "month": 7,
-        "year": 2014
-      },
-      "score": 9,
-      "text": "it's taken me almost 10 years to see this film. i don't know why i waited so long. it's such a great, dark story. to think scarlett johansson was only 19 when it was filmed. don't try to use logic to fill the plot holes. the overarching theme is luck. just keep that in mind and don't go all CSI on the last quarter of the film.",
-      "total_reactions": 0,
-      "user": "ariel84"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 18,
-        "month": 7,
-        "year": 2014
-      },
-      "score": 10,
-      "text": "I was watching this film on HBO last night (it is now July 2014) and I like this film even better than when I originally saw it in a theater. What I particularly noticed is its tightness -- things happen quickly and inevitably. I also admired again the performance of Jonathan Rhys-Myers who with his slight sneer and silent watchfulness rivals Joseph Cotten in Hitchcock's Shadow of a Doubt. Is the business about luck contrived? I am not sure, but I wish Allen would do a sequel. I would guess the JR-M character becomes a ruthless CEO (perhaps the Jeremy Irons character in Margin Call) and as he climbs, has a more willing string of mistresses. And perhaps he finds his father-in-law and he are more alike than we originally think or if not, and his father-in-law is indeed weak and rich by chance, the sky is the limit for JR-M -- until his luck runs out, that is. This is one of Allen's best.",
-      "total_reactions": 0,
-      "user": "GinaK"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 28,
-        "month": 7,
-        "year": 2014
-      },
-      "score": 8,
-      "text": "Woody Allen makes very funny movies but this is his darkest and probably one of his best efforts of the 2000s. This movie is smart and it demonstrates luck, bad behavior, bad actions and very bad decisions. Great Performances by Meyers, Johansson, Mortimer, Cox and Goode",
-      "total_reactions": 0,
-      "user": "heeldavid"
-    },
-    {
-      "neg_reactions": 0,
-      "pos_reactions": 0,
-      "review_date": {
-        "__type__": "datetime.date",
-        "day": 27,
-        "month": 8,
         "year": 2015
       },
-      "score": 10,
-      "text": "Sometimes you can understand people's negative reaction to a film. In this case I don't quite understand why would anybody hate the film. There must be two reasons I guess. One is antisemitism or personal hatred of Woody Allen and the second is perhaps just not following the point of the film. The last one is forgivable, so if you are in that category I suggest you see the film again and perceive how masterful it is.",
+      "score": 7,
+      "text": "I thought it was going slow but towards the middle of the movie it started to get interesting.",
       "total_reactions": 0,
-      "user": "Giorgi751"
+      "user": "sexyanne"
     }
   ]
 }
