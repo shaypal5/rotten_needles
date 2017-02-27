@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 4,
-    "year": 2015,
-    "day": 24,
-    "__type__": "datetime.date"
+  "release_day": 24,
+  "avg_rating_per_demo": {
+    "aged_45+": 7.1,
+    "top_1000_voters": 6.2,
+    "males_under_18": 7.7,
+    "imdb_staff": 6.9,
+    "males_aged_18-29": 7.2,
+    "imdb_users": 7.2,
+    "males_aged_45+": 7.1,
+    "aged_18-29": 7.3,
+    "us_users": 7.1,
+    "females_aged_30-44": 7.2,
+    "males": 7.1,
+    "females": 7.4,
+    "females_aged_45+": 7.3,
+    "non-us_users": 7.1,
+    "females_aged_18-29": 7.5,
+    "females_under_18": 8.1,
+    "aged_30-44": 7.0,
+    "aged_under_18": 7.9,
+    "males_aged_30-44": 7.0
   },
   "closing_date": {
     "month": 6,
@@ -11,82 +27,2380 @@
     "day": 26,
     "__type__": "datetime.date"
   },
-  "rating": 7.2,
-  "num_weekends": 9,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 816,
-    "2": 521,
-    "3": 950,
-    "4": 1980,
-    "5": 5615,
-    "6": 14570,
-    "7": 29593,
-    "8": 27180,
-    "9": 13003,
-    "10": 13516
-  },
-  "avg_screens": 1629.7777777777778,
-  "budget": 25000000,
-  "budget_currency": "$",
-  "release_day": 24,
   "metascore": 51,
+  "num_weekends": 9,
+  "rating_count": 107826,
+  "gross_income": 42478175,
+  "max_screens": 3070,
+  "opening_weekend_screens": 2991,
+  "screens_by_weekend": [
+    2991,
+    2991,
+    3070,
+    2623,
+    1643,
+    713,
+    280,
+    203,
+    154
+  ],
+  "opening_weekend_income": 13203458,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "A love story ~",
+      "score": 9,
+      "user": "juxtawho",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surpassed Expectations",
+      "score": 8,
+      "user": "bethany-ellen-22",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "morbidity or maturity mortality?",
+      "score": 8,
+      "user": "nadeyn",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful love story",
+      "score": 9,
+      "user": "pamma09",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A beautiful film",
+      "score": 8,
+      "user": "Gate Keeper",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Would you want to be forever young?",
+      "score": 7,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable romantic movie",
+      "score": 9,
+      "user": "hisparky",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just Enjoy This Emotional Tapestry As It Is Woven",
+      "score": 8,
+      "user": "georgebaldwin-07903",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cute Love Story Detracted By Hasty Developed Past",
+      "score": 7,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All these years she's lived, but she's never had a life...",
+      "score": 8,
+      "user": "Chalice_Of_Evil",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poor written love story with boring characters",
+      "score": 4,
+      "user": "jebotecovjece",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A birthday cake which is a serious fire risk",
+      "score": 6,
+      "user": "bob-the-movie-man",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The storyline is horrible",
+      "score": 1,
+      "user": "zxcvbn-89119",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I didn't intend to watch this, but I'm so glad I did",
+      "score": 9,
+      "user": "Liam Mallon",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A stunning storyline!",
+      "score": 10,
+      "user": "loueymc",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Saw a screening the other night",
+      "score": 1,
+      "user": "feickus",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Splendid",
+      "score": 9,
+      "user": "Amy B",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Refreshing Break From CGI Overload",
+      "score": 8,
+      "user": "grwx-916-213653",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No spoiler review - One of the best of 2015",
+      "score": 9,
+      "user": " (ammabee@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh so predictable !",
+      "score": 3,
+      "user": "zif ofoz",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great idea, LOUSY execution...",
+      "score": 4,
+      "user": "Rich Wright",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice Fantasy Romance",
+      "score": 8,
+      "user": " (blufrog49)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, Intriguing film!",
+      "score": 8,
+      "user": "hannaliz",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable",
+      "score": 9,
+      "user": "jimcremin",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Worst Way to Escape The Past",
+      "score": 9,
+      "user": "aharmas",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flat and unoriginal.",
+      "score": 3,
+      "user": "EasyThere Pilgrim",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Outstanding performances, unsatisfying ending",
+      "score": 8,
+      "user": "christiane-772-970877",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lovely film on  how love is ageless",
+      "score": 7,
+      "user": "harrisons445",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Romantic story in time.",
+      "score": 8,
+      "user": "ayush0793",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"amor aeternus est\"-perfect!! or eternal is love",
+      "score": 8,
+      "user": "Siddhant Banyal",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A beautiful glimpse into eternity",
+      "score": 7,
+      "user": "scottshak_111",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Age of Adaline",
+      "score": 8,
+      "user": "Amy Edwards",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fine romantic story movie",
+      "score": 7,
+      "user": "Marcin Stec",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a ludicrous love tale. But we buy it nonetheless",
+      "score": 7,
+      "user": "jpmarinheiro",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Throwback to the 1940s ... and some (bonus) good news",
+      "score": 7,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh, the deceit!",
+      "score": 7,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent movie",
+      "score": 10,
+      "user": "flowertimezones",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best romance of 2015",
+      "score": 9,
+      "user": "Brandon Maynard",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ageless Film Hampered By Invasive Narration",
+      "score": 8,
+      "user": "Stephen Abbott (Movie Steve)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was unique and I liked it",
+      "score": 9,
+      "user": "doctorshahraam",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Once Harrison Ford enters the film, the movie really gets a lot more involving!",
+      "score": 7,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blake Lively is stunning in \"The Age Adaline\"",
+      "score": 9,
+      "user": "Eden van der Moere",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Good Movie but a Little Draw Out",
+      "score": 7,
+      "user": "jkuras2010",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Different from the usual romance film...",
+      "score": 7,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, but the plot felt rushed",
+      "score": 7,
+      "user": "monkey_kelstar",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flawed storyline but very easy watch.",
+      "score": 7,
+      "user": "sebcra22",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Something New But Could Have Been Better",
+      "score": 7,
+      "user": "singhinder4",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been better",
+      "score": 7,
+      "user": "cathey-127",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Highly enjoyable, charming picture.",
+      "score": 8,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is the best film I have seen in a year and a half",
+      "score": 9,
+      "user": "Skeauxsha",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What if you could live forever?",
+      "score": 8,
+      "user": "Seohyun Risk",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Would You Age At Your Expense?",
+      "score": 8,
+      "user": "ShelbyTMItchell",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Age of Adaline: How will you live a life that is ageless?",
+      "score": 8,
+      "user": "everycarmichael",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More than you typical romantic movie",
+      "score": 8,
+      "user": "paul_3-960-896774",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "if you are looking for a nice romantic date with your partner, you might choose The Age Of Adaline for a perfect evening",
+      "score": 8,
+      "user": "Ketan Gupta",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "underrated",
+      "score": 9,
+      "user": "Luca",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love of an Eternal Lifetime",
+      "score": 8,
+      "user": "3xHCCH",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You'll be pleasantly satisfied with this little romantic film with a sci-fi element.",
+      "score": 8,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Agreeable Tale of Years and Tears",
+      "score": 7,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "That first gray hair always is a bummer . . .",
+      "score": 8,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Romantic story with some interesting twists - one of my favorites to date",
+      "score": 9,
+      "user": "wheelmanimdb",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Age of Adaline",
+      "score": 8,
+      "user": "cultfilmfan",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A well-crafted, creative and beautifully acted movie",
+      "score": 7,
+      "user": "bmennen",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"All these years you've had a life but you haven't been living.\"",
+      "score": 7,
+      "user": "tchick27",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant",
+      "score": 10,
+      "user": "Mike Boyd",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best movie I have seen in 5 years",
+      "score": 10,
+      "user": "deb-481-36108",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Feel Good Movie with Class",
+      "score": 10,
+      "user": "Mary Hide",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good movie!",
+      "score": 8,
+      "user": "Renate_Dekante",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Outstanding performance by Blake Lively.",
+      "score": 10,
+      "user": "PWNYCNY",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great movie for those who are aging.",
+      "score": 10,
+      "user": "AdultAudienceMember",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did like the movie Just not the end -- My reviews are based on entertainment value 2nd review though just starting",
+      "score": 6,
+      "user": "Wesley Little",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Career Best Performance by Blake Lively",
+      "score": 10,
+      "user": "rannynm",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "average movie",
+      "score": 6,
+      "user": "f-rabit",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Timeless romance",
+      "score": 10,
+      "user": "Mark Turner (kirbylee70@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Escapism through film can be enjoyed through Adaline's longevity",
+      "score": 8,
+      "user": "Ed-Shullivan",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Age and style",
+      "score": 8,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Relax and go for the ride.",
+      "score": 6,
+      "user": "Robert Scott Taylor",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great until the end",
+      "score": 6,
+      "user": "Christian Bang",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Nice, Contrived Effort",
+      "score": 8,
+      "user": "Hitchcoc",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I want more time with Adaline - Flemming",
+      "score": 6,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent, beautiful movie, stellar cast",
+      "score": 10,
+      "user": "Adrian Ga\u00c5\u00a1per (vatreni2012@outlook.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One to watch with chocolate, wine and/or with the girls",
+      "score": 7,
+      "user": "Chanel Georgina",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well-cast and engrossing, if essentially predictable",
+      "score": 6,
+      "user": "moonspinner55",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Forever Young",
+      "score": 7,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Truly a great romantic movie.",
+      "score": 9,
+      "user": "Pheeke",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fantasy with some quirky twists is light and easy to digest",
+      "score": 8,
+      "user": "George Wright",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very pleasant surprise!",
+      "score": 8,
+      "user": "Charlie Picart",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Easy on the eye and easy to enjoy",
+      "score": 6,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A most unusual, original and wonderful love story",
+      "score": 8,
+      "user": "cnkaufmann",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Age of Adaline\" is Timeless",
+      "score": 8,
+      "user": "handsomewarrior",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A guilty pleasure",
+      "score": 8,
+      "user": "851222",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The man is not ready yet for the eternal life!?",
+      "score": 7,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Staying Young Forever",
+      "score": 8,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A tale of of love and identity",
+      "score": 8,
+      "user": "monstermayhem32",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Curious Case of Adaline Bowman",
+      "score": 7,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'I don't think I'll ever understand why so few people care about history.'",
+      "score": 7,
+      "user": "gradyharp",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bittersweet tale of love",
+      "score": 7,
+      "user": "Murtaza Ali",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply beautiful!... Especially for a non-lover of the romance genre",
+      "score": 10,
+      "user": "renucks",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent mixture of excellent performances",
+      "score": 9,
+      "user": "j-p-porter",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Does a good job of staying away from cookie cutter ideas & actually seemed like a fresh take on the genre. My wife loved it",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing",
+      "score": 10,
+      "user": "lopezvivian",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews....",
+      "score": 7,
+      "user": "capone666",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blake Lively has come off age",
+      "score": 9,
+      "user": "vincentgauguin",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "weaves its way well",
+      "score": 8,
+      "user": "Vivek Luthra",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow... Surprisingly wow",
+      "score": 10,
+      "user": "dfinn0103",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Makes You Wonder What You Would Do",
+      "score": 9,
+      "user": "ccthemovieman-1",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best movie",
+      "score": 10,
+      "user": "mendesjuniorm",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ageless Love - a must watch",
+      "score": 10,
+      "user": "viggyjiggy",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Outstanding film",
+      "score": 10,
+      "user": "scott1-912-252003",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Greatness",
+      "score": 10,
+      "user": "serenisim",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An instant classic",
+      "score": 10,
+      "user": "dr Smith",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The relevance",
+      "score": 10,
+      "user": "s k",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Girl's movie but done well",
+      "score": 7,
+      "user": "southbase",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cool concept with great acting and cinematography but horrible narration.",
+      "score": 6,
+      "user": "Nicole C",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "High concept, low returns.",
+      "score": 3,
+      "user": "Emma",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Completely entranced",
+      "score": 9,
+      "user": "ratatouillefan",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Mature Romanticist Depiction of Immortality",
+      "score": 8,
+      "user": "ThatRegularGuy",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been so much better",
+      "score": 5,
+      "user": "Shenoa77",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well told fable",
+      "score": 10,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An unoriginal concept spun into a slow-paced but nonetheless charming tale of romance.",
+      "score": 7,
+      "user": "Emryck del Fauno",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a real stinker",
+      "score": 1,
+      "user": "Robert D. Ruplenas",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Age of Adaline\" is one for the ages.",
+      "score": 9,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring and Implausible",
+      "score": 5,
+      "user": "roberto-81",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wait for regular TV - with commercials",
+      "score": 1,
+      "user": "gailinsedona",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow and boring",
+      "score": 4,
+      "user": "The_Film_Anorak",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The End of Movies",
+      "score": 1,
+      "user": "pearubu",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good movie, with an important question",
+      "score": 6,
+      "user": "dr-boss-maurie",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lacking any sense",
+      "score": 1,
+      "user": "vladp6",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocre story saved by good acting",
+      "score": 8,
+      "user": "siderite",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty, Bad",
+      "score": 2,
+      "user": "sjcdccbjc",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well Crafted Romance",
+      "score": 8,
+      "user": "Humayun Afzal",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad, but doesn't transcend the genre by any means.",
+      "score": 5,
+      "user": "FallonTimberlake2016",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderfully romantic and romanticized, whatever the impossibilities",
+      "score": 7,
+      "user": "secondtake",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A beautiful story with a fantastic premise",
+      "score": 8,
+      "user": "Sam Gray",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ageless is not evergreen.",
+      "score": 7,
+      "user": "mark.waltz",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There are Echoes of 'ALWAYS' & is a Wonderfully Schmaltzy Romantic Film",
+      "score": 8,
+      "user": "RocketeerFlyer",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How old are you?",
+      "score": 7,
+      "user": "adi_2002",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Years, lovers, and glasses of wine....",
+      "score": 7,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ageless story, ageless beauty, do NOT miss it!",
+      "score": 10,
+      "user": "Amy Adler",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Had potential to be outstanding, but a certain flaw made it fall short",
+      "score": 7,
+      "user": "CyclopsKnowsBest24",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best movies Ever",
+      "score": 10,
+      "user": "GeekHamo",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly entertaining",
+      "score": 7,
+      "user": "Kris McCarthy",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lead Guy Miscast",
+      "score": 8,
+      "user": "Ted Gianopulos",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Romantic fantasy at its best",
+      "score": 10,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An okay movie.",
+      "score": 6,
+      "user": "soph_ia",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A well-crafted story with a few flaws",
+      "score": 5,
+      "user": "guccipix",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No word for such a movie. It gives me tears.",
+      "score": 10,
+      "user": "Mihai Simon",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stylish and superficial",
+      "score": 6,
+      "user": "bea37",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love story that needs a shot of adrenaline.",
+      "score": 5,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow Burn Romance",
+      "score": 5,
+      "user": "jparker9899",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent!",
+      "score": 10,
+      "user": "lagous",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bored Me from the Get-Go",
+      "score": 2,
+      "user": "moondog-8",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that anyone will read this...",
+      "score": 8,
+      "user": "adrbogdan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Movie All Year",
+      "score": 9,
+      "user": "Alexz Wilson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uninspiring!",
+      "score": 4,
+      "user": "lviv_1256",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Been there, done that",
+      "score": 6,
+      "user": "ekat-708-190051",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Timeless",
+      "score": 8,
+      "user": "Fallen Eye",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Outstandinging performances, directing and writing ....except.",
+      "score": 8,
+      "user": "Beowulfthedane",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meh...",
+      "score": 6,
+      "user": "cnycitylady",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An interesting concept, but a clich\u00e9 love story.",
+      "score": 6,
+      "user": "pvnphotography",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cinematography is sublime",
+      "score": 5,
+      "user": "lasttimeisaw",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not just a pretty face",
+      "score": 6,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a film of extraordinary beauty but that is not enough to make an engaging or fully thought out  film",
+      "score": 6,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not so much on the fantasy part, but a very nice attempt at the drama point.",
+      "score": 5,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A mere piece of sweetcorn in my appetite for romance",
+      "score": 4,
+      "user": "cam-46930",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Production Value But Emotionally Unsatisfying",
+      "score": 6,
+      "user": "mf61581",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been a nice fairytale.",
+      "score": 5,
+      "user": "niels_wassenaar",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant film, shame about the narration..\u0085\u0085\u0085\u0085.",
+      "score": 9,
+      "user": "Wayne1138",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Date Movie",
+      "score": 6,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Casting: What Were They Thinking??",
+      "score": 7,
+      "user": "fpsmith-15240",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Creepiest story ever",
+      "score": 2,
+      "user": "nights",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "She should learn how to drive",
+      "score": 6,
+      "user": "indra kazniece",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stunning outfits, lousy acting",
+      "score": 4,
+      "user": "bekahjones595",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "At Best an OK TV Movie",
+      "score": 4,
+      "user": "carlcasso",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Discovery Channel Documentary?",
+      "score": 5,
+      "user": "angelo  palombo",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thought-provoking story ruined by second-rate acting and a disappointing script",
+      "score": 4,
+      "user": "jmc4769",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Loveless Romance (Raging Film Reviews)",
+      "score": 4,
+      "user": "scott johnson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "weakest plot ever",
+      "score": 4,
+      "user": "Papuna Chumburidze",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cheesy American mess, I think...",
+      "score": 5,
+      "user": "grrwuff",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Who wants to live forever",
+      "score": 5,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great idea, poor acting",
+      "score": 7,
+      "user": "innon",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I wanted to love it",
+      "score": 6,
+      "user": "witster18",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocre",
+      "score": 5,
+      "user": "Eve Verde",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good",
+      "score": 4,
+      "user": "natalia-90697",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good enough",
+      "score": 4,
+      "user": "phoenix 2",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have, should have been better",
+      "score": 5,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not enough",
+      "score": 6,
+      "user": "albastrublue2000",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Purely for Romantics",
+      "score": 6,
+      "user": "spitfire2356",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What's wrong with the narrator? and predictable",
+      "score": 6,
+      "user": "Sepriandy",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ageless",
+      "score": 6,
+      "user": "adiel",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amateur Director",
+      "score": 4,
+      "user": "liquidblueocean",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Have you seen the trailers?",
+      "score": 5,
+      "user": "Barrin  (rafael-frehner)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The weak script hurts this elegant romantic story",
+      "score": 5,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "5.5/10",
+      "score": 5,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I personally found it quite boring in places! 3/10",
+      "score": 3,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not worth seeing...trailer is all you need to know about it. 4/10",
+      "score": 4,
+      "user": "Erika C.",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a waste of potential",
+      "score": 4,
+      "user": "elzezuikis",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Come on Mr. Narrator, etc.",
+      "score": 4,
+      "user": "tguitarpicky",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of The Age of Adaline",
+      "score": 6,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh Adaline you aged me",
+      "score": 6,
+      "user": "njobr-1",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I've lost two hours of my life.",
+      "score": 1,
+      "user": "gabrielverdun",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such a wasted opportunity",
+      "score": 3,
+      "user": "gary-82722",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "tragic",
+      "score": 4,
+      "user": "flowirin",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing",
+      "score": 5,
+      "user": "utgard14",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The two important love stories don't shine",
+      "score": 4,
+      "user": "seweso",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a waste",
+      "score": 3,
+      "user": "Mbakkel2",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Eternal Youth: A Literally  Timeless Theme Revisited Once Again.",
+      "score": 4,
+      "user": "dandeangeli-1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring",
+      "score": 5,
+      "user": "AliceofX",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Century of living barely tapped into.",
+      "score": 4,
+      "user": "Randy Kent",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 112,
+  "votes_per_demo": {
+    "aged_45+": 7427,
+    "top_1000_voters": 314,
+    "males_under_18": 200,
+    "imdb_staff": 10,
+    "males_aged_18-29": 19585,
+    "imdb_users": 107826,
+    "males_aged_45+": 5422,
+    "aged_18-29": 43198,
+    "us_users": 11398,
+    "females_aged_30-44": 9484,
+    "males": 46973,
+    "females": 37914,
+    "females_aged_45+": 1874,
+    "non-us_users": 47197,
+    "females_aged_18-29": 23098,
+    "females_under_18": 480,
+    "aged_30-44": 28755,
+    "aged_under_18": 693,
+    "males_aged_30-44": 18806
+  },
   "genres": [
     "drama",
     "fantasy",
     "romance"
   ],
-  "release_month": "April",
-  "avg_rating_per_demo": {
-    "aged_45+": 7.1,
-    "aged_18-29": 7.3,
-    "aged_30-44": 7.0,
-    "females": 7.4,
-    "top_1000_voters": 6.2,
-    "non-us_users": 7.1,
-    "females_under_18": 8.1,
-    "males_aged_30-44": 7.0,
-    "us_users": 7.1,
-    "imdb_users": 7.2,
-    "imdb_staff": 6.9,
-    "males_under_18": 7.7,
-    "females_aged_18-29": 7.5,
-    "males_aged_45+": 7.1,
-    "females_aged_30-44": 7.2,
-    "males": 7.1,
-    "males_aged_18-29": 7.2,
-    "females_aged_45+": 7.3,
-    "aged_under_18": 7.9
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "The Age of Adaline",
-  "gross_income": 42478175,
-  "user_review_count": 218,
-  "duration": 112,
-  "max_screens": 3070,
-  "votes_per_demo": {
-    "aged_45+": 7424,
-    "aged_18-29": 43173,
-    "aged_30-44": 28728,
-    "females": 37881,
-    "top_1000_voters": 314,
-    "non-us_users": 47163,
-    "females_under_18": 480,
-    "males_aged_30-44": 18792,
-    "us_users": 11392,
-    "imdb_users": 107744,
-    "imdb_staff": 10,
-    "males_under_18": 200,
-    "females_aged_18-29": 23084,
-    "males_aged_45+": 5420,
-    "females_aged_30-44": 9471,
-    "males": 46945,
-    "males_aged_18-29": 19574,
-    "females_aged_45+": 1874,
-    "aged_under_18": 693
+  "rating_freq": {
+    "1": 816,
+    "2": 521,
+    "3": 951,
+    "4": 1980,
+    "5": 5622,
+    "6": 14579,
+    "7": 29621,
+    "8": 27200,
+    "9": 13015,
+    "10": 13521
   },
-  "rating_count": 107744,
+  "release_month": "April",
+  "budget": 25000000,
+  "budget_currency": "$",
+  "total_screens": 14668,
+  "year": 2015,
+  "rating": 7.2,
   "critic_review_count": 217,
-  "opening_weekend_income": 13203458
+  "opening_weekend_date": {
+    "month": 4,
+    "year": 2015,
+    "day": 24,
+    "__type__": "datetime.date"
+  },
+  "name": "The Age of Adaline",
+  "user_review_count": 218,
+  "avg_screens": 1629.7777777777778
 }

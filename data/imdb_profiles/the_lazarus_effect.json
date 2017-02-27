@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 2,
-    "year": 2015,
-    "day": 27,
-    "__type__": "datetime.date"
+  "release_day": 27,
+  "avg_rating_per_demo": {
+    "aged_45+": 5.2,
+    "top_1000_voters": 4.8,
+    "males_under_18": 5.4,
+    "imdb_staff": 5.8,
+    "males_aged_18-29": 5.2,
+    "imdb_users": 5.2,
+    "males_aged_45+": 5.2,
+    "aged_18-29": 5.2,
+    "us_users": 5.2,
+    "females_aged_30-44": 5.2,
+    "males": 5.2,
+    "females": 5.3,
+    "females_aged_45+": 5.3,
+    "non-us_users": 5.1,
+    "females_aged_18-29": 5.3,
+    "females_under_18": 5.8,
+    "aged_30-44": 5.1,
+    "aged_under_18": 5.5,
+    "males_aged_30-44": 5.1
   },
   "closing_date": {
     "month": 6,
@@ -11,82 +27,1492 @@
     "day": 5,
     "__type__": "datetime.date"
   },
-  "rating": 5.2,
-  "num_weekends": 12,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 1126,
-    "2": 1231,
-    "3": 2433,
-    "4": 4596,
-    "5": 7357,
-    "6": 6872,
-    "7": 3902,
-    "8": 1529,
-    "9": 561,
-    "10": 1147
-  },
-  "avg_screens": 849.5833333333334,
-  "budget": 3300000,
-  "budget_currency": "$",
-  "release_day": 27,
   "metascore": 31,
+  "num_weekends": 12,
+  "rating_count": 30760,
+  "gross_income": 25799043,
+  "max_screens": 2666,
+  "opening_weekend_screens": 2666,
+  "screens_by_weekend": [
+    2666,
+    2666,
+    2054,
+    1306,
+    672,
+    284,
+    184,
+    138,
+    107,
+    73,
+    26,
+    19
+  ],
+  "opening_weekend_income": 10203437,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Disappointing and unoriginal",
+      "score": 4,
+      "user": "Andrew Gold",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is not a 5! It's better",
+      "score": 7,
+      "user": "Finfrosk86",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictable but entertaining",
+      "score": 7,
+      "user": "www.ramascreen.com",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Schlocky Horror films are the best kind of Horror films.",
+      "score": 4,
+      "user": "Drive-in_Zeppelin",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Never quite makes up its mind what story to tell",
+      "score": 4,
+      "user": "M Thascalos",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Solid, Very Original",
+      "score": 7,
+      "user": "jparker9899",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trapped in Hell",
+      "score": 6,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Hollywood Produced Horror Film Ruining the Genre",
+      "score": 3,
+      "user": "MattBirk",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Lazarus Effect",
+      "score": 6,
+      "user": "Alexa Bouhelier-Ruelle",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent but I saw a lot more opportunity for the film",
+      "score": 7,
+      "user": "sarah-haverty",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Would not recommend",
+      "score": 2,
+      "user": "Vano",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Set your expectations",
+      "score": 8,
+      "user": "rmorgan_7",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Olivia Wilde breathes life to a predictable premise",
+      "score": 6,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Definitely worth watching",
+      "score": 7,
+      "user": "Noman Khan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Better Horror Movies in 2014-2015",
+      "score": 7,
+      "user": "politehere",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite thrilling",
+      "score": 9,
+      "user": "kadeyroberts",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good but should have been better!",
+      "score": 7,
+      "user": "ZULFIQAR RAJA (zulfbookz@gmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "TheManWhoFellFrom198's Review",
+      "score": 5,
+      "user": "ApproximatelyHandsome",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So-So...Nothing More, Nothing Less",
+      "score": 5,
+      "user": "David Arnold",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OK lower budget horror.",
+      "score": 6,
+      "user": "TdSmth5",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It has a great cast and an interesting premise, but...",
+      "score": 5,
+      "user": "oczalevaj",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not awful but forgettable",
+      "score": 5,
+      "user": "Adam_West_as_Batdan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Supernatural thriller about the other side, Don't watch for horror",
+      "score": 6,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was really impressed and greatly enjoyed it",
+      "score": 10,
+      "user": "emomomotional",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good horror film.",
+      "score": 10,
+      "user": "spyroskonst",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent horror flick",
+      "score": 7,
+      "user": "Filmaniac123",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pet Semetary Redux",
+      "score": 4,
+      "user": "pronuke",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really good and frightening horror!",
+      "score": 10,
+      "user": "richlong2569",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Lazars Effect Review",
+      "score": 6,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better tagline: The door doesn't close til something goes through",
+      "score": 9,
+      "user": "mohancraig",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Although I'm not sure what the filmmakers are trying to say, I like the movie.",
+      "score": 7,
+      "user": "sandgrainday",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decently Performed, but not much else to see.",
+      "score": 5,
+      "user": "bradenbk",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been so much more",
+      "score": 7,
+      "user": "Smartlink",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "RE: Definitely AVOID!",
+      "score": 1,
+      "user": "monsterjazzlicks",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bringing Back Someone To Life",
+      "score": 5,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strange experiments gone wrong",
+      "score": 2,
+      "user": "athenamuses-308-200437",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful",
+      "score": 1,
+      "user": "Fiorella Taylor",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring Characters and Story Ruin a Movie that could be more Interesting..",
+      "score": 5,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another weak entry in the 'not safe to play God' sub-genre.",
+      "score": 5,
+      "user": "suite92",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So this movie is just a remake of \"Lucy\"",
+      "score": 4,
+      "user": "Sjalka Rjadottir",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everything you expect from a horror movie with a rapper in it",
+      "score": 2,
+      "user": "FearAndAnxiety",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch Flatliners instead.",
+      "score": 6,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What's wrong with people ?",
+      "score": 8,
+      "user": "eng-bmoradi",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, until she comes back from the dead",
+      "score": 4,
+      "user": "Lars Bear",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Imperfect, but achieves quite a lot with its minimalism",
+      "score": 7,
+      "user": "James",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "very creepy...and edge of seat thriller",
+      "score": 8,
+      "user": "marilyndean-47962",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Let Sleeping Dogs Lie",
+      "score": 7,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sincerely disappointing.",
+      "score": 4,
+      "user": "TheBarleyGuy",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Average",
+      "score": 5,
+      "user": "begob",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "this movie is 50 50",
+      "score": 7,
+      "user": "pronetomovies",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The film proves to be solid, and creepy.",
+      "score": 6,
+      "user": "Rainbow Fright",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Adrenaline straight to the heart..... Annoying & Unrealistic...",
+      "score": 6,
+      "user": "Alexa V",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I mean Olivia Wilde...",
+      "score": 7,
+      "user": "pllcharlotteatc",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "mediocre derivative horror",
+      "score": 5,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flatliners.",
+      "score": 6,
+      "user": "morrison-dylan-fan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Olivia Wilde back in House M.D.",
+      "score": 4,
+      "user": "Niki Kefala",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uncertain results",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "lackluster thriller",
+      "score": 4,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tired old clich\u00e9 done badly....",
+      "score": 3,
+      "user": "David Hine",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If mentioning 'The Flatliners' as story predecessor it would be good.",
+      "score": 7,
+      "user": "pietroschek",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Back from the dead",
+      "score": 7,
+      "user": "gpeltz",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Though it had potential, the whole thing lacked focus.",
+      "score": 4,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More decent than I expected and not what the trailer suggested",
+      "score": 7,
+      "user": "siderite",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Similar but a twist you can appreciate!",
+      "score": 8,
+      "user": "heylookitsmichael-49138",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Lazarus Effect",
+      "score": 7,
+      "user": "Horrorliefhebber",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Lazarus Effect.",
+      "score": 5,
+      "user": "2fresh 2clean",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very ho-hum attempt to scare",
+      "score": 6,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good story and great acting",
+      "score": 7,
+      "user": "max_the_beast-23048",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far from perfect but reasonably good all the same",
+      "score": 7,
+      "user": "jtindahouse",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 4,
+      "user": "capone666",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Zoe and his team of medical students embark on an experiment that brings back the dead.",
+      "score": 4,
+      "user": "romneyranjo",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Last 25 Minutes Of The Film Make It A Worthwhile Film To See.",
+      "score": 6,
+      "user": "Vivekmaru45",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun way to spend 90 minutes",
+      "score": 7,
+      "user": "johngraham1964",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "They could've done a lot more",
+      "score": 6,
+      "user": "Allguns Allguns",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a wasted opportunity",
+      "score": 6,
+      "user": "Jay",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Barry White should be reanimated, get some bass up in here",
+      "score": 3,
+      "user": "jessegehrig",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bleh",
+      "score": 3,
+      "user": "Renee Stewart",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There's no enough space",
+      "score": 9,
+      "user": "vladneculae",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocre",
+      "score": 5,
+      "user": "Rogue Lone",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Above-Average Scary Chiller",
+      "score": 7,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cujo?",
+      "score": 3,
+      "user": "CowherPowerForever",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flat characters and flashy pyrotechnics kill some potential, though Wilde shines",
+      "score": 5,
+      "user": "Mr_Ectoplasma",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing new here...... SKIP this one",
+      "score": 3,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just give it a chance",
+      "score": 9,
+      "user": "cyboy600",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More teen rubbish...",
+      "score": 3,
+      "user": "Jeremy Boyd",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flimsy and tired, wasted 2 hours",
+      "score": 3,
+      "user": "alburoemma",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting start turns into another average horror",
+      "score": 4,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Honestly, a big letdown for me.",
+      "score": 6,
+      "user": "Brandon Maynard",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Gem",
+      "score": 10,
+      "user": "Alexander Lester",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "10/10",
+      "score": 10,
+      "user": "jack_frank-54283",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly nice and this should be trilogy or more :)",
+      "score": 8,
+      "user": "emrahkoyunsev",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meh",
+      "score": 4,
+      "user": "reallyevilboy",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad",
+      "score": 3,
+      "user": "samgreer-694-680740",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An OK movie that really lost steam the longer it went on. This is worth seeing, but really not more than once.",
+      "score": 6,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as bad as some make it out to be.",
+      "score": 6,
+      "user": "Jennifer Van Gieson (vangiesonj1@montclair.edu)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jump Scares Around Every Corner",
+      "score": 4,
+      "user": "Nunya Biznis",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It doesn't chill the bones like it should",
+      "score": 4,
+      "user": "loomis78-815-989034",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Deadly Sins of Horror Films",
+      "score": 4,
+      "user": "robert-botticelli31",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My observation of The Lazarus Effect",
+      "score": 5,
+      "user": "sgwhitez-25810",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The  Lazarus  Effect",
+      "score": 5,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big jumps through small hops",
+      "score": 6,
+      "user": "Matthew Ober",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spooky enough cautionary sci-fi chiller",
+      "score": 8,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Critics were not paid by the producer to give good rating to this movie!!!",
+      "score": 8,
+      "user": "shandar2003",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty bad for a pretty good cast",
+      "score": 3,
+      "user": "doofuspoofus",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Let Dead Dogs Lie",
+      "score": 4,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, but not great",
+      "score": 7,
+      "user": "cbak223",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Riveting Entertainment All The Way",
+      "score": 9,
+      "user": "Brett Chatz",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I actually saw the film at a screening yesterday.",
+      "score": 3,
+      "user": "lilanawrocki",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wild about Olivia Wilde",
+      "score": 10,
+      "user": "nickspiropulos",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting idea... bad execution !!!",
+      "score": 3,
+      "user": "Fanis Patras",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Lazarus Effect",
+      "score": 2,
+      "user": "Scarecrow-88",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Que it For Evan!",
+      "score": 8,
+      "user": "TwoWhiteGirlsAndYen",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not what you'd expect",
+      "score": 4,
+      "user": "C B",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Lazarus Effect on the Flatliners' Jaunt with Dark Phoenix.",
+      "score": 7,
+      "user": "ericrnolan",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The closest we'll get to the forgotten genre of the b-movie for a while",
+      "score": 5,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining and fun",
+      "score": 8,
+      "user": "jimsouthworth",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "really bad horror movie!",
+      "score": 2,
+      "user": "Rudolf Ravbar",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible movie",
+      "score": 2,
+      "user": "MC Dee Lusional (deelusionalmusic)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Never thought anything can be that bad",
+      "score": 2,
+      "user": "Harcovitza Ionutz",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Film is Dead and Cannot Rise to Life.",
+      "score": 2,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "From the people who brought us Evolution, \"Global Warming,\" and ObamaCare . . .",
+      "score": 6,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocre & Senseless Horror Movie",
+      "score": 4,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Lazarus Effect\" is a small movie that packs a big punch.",
+      "score": 6,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nowhere near the classic that 'FLATLINERS' is!",
+      "score": 5,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Filled with same old horror clich\u00e9 dragging the whole film down and ultimately becomes a forgettable one at last // instagram: moviesmaniax",
+      "score": 5,
+      "user": "moviesmaniax",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely the BEST Movie I Have Ever Seen\u0085.Ever!!!  Really!!!",
+      "score": 10,
+      "user": "PartialMovieViewer",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting, but not scary.",
+      "score": 6,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful Dramatic Scary Movie",
+      "score": 8,
+      "user": "Alex Snyder",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 83,
+  "votes_per_demo": {
+    "aged_45+": 2468,
+    "top_1000_voters": 240,
+    "males_under_18": 99,
+    "imdb_staff": 4,
+    "males_aged_18-29": 7454,
+    "imdb_users": 30762,
+    "males_aged_45+": 2019,
+    "aged_18-29": 10567,
+    "us_users": 5696,
+    "females_aged_30-44": 1998,
+    "males": 19683,
+    "females": 5834,
+    "females_aged_45+": 397,
+    "non-us_users": 13234,
+    "females_aged_18-29": 2973,
+    "females_under_18": 59,
+    "aged_30-44": 11205,
+    "aged_under_18": 162,
+    "males_aged_30-44": 9048
+  },
   "genres": [
     "horror",
     "mystery",
     "sci-fi"
   ],
-  "release_month": "February",
-  "avg_rating_per_demo": {
-    "aged_45+": 5.2,
-    "aged_18-29": 5.2,
-    "aged_30-44": 5.1,
-    "females": 5.3,
-    "top_1000_voters": 4.8,
-    "non-us_users": 5.1,
-    "females_under_18": 5.8,
-    "males_aged_30-44": 5.1,
-    "us_users": 5.2,
-    "imdb_users": 5.2,
-    "imdb_staff": 5.8,
-    "males_under_18": 5.5,
-    "females_aged_18-29": 5.3,
-    "males_aged_45+": 5.2,
-    "females_aged_30-44": 5.2,
-    "males": 5.2,
-    "males_aged_18-29": 5.2,
-    "females_aged_45+": 5.3,
-    "aged_under_18": 5.6
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "The Lazarus Effect",
-  "gross_income": 25799043,
-  "user_review_count": 135,
-  "duration": 83,
-  "max_screens": 2666,
-  "votes_per_demo": {
-    "aged_45+": 2468,
-    "aged_18-29": 10566,
-    "aged_30-44": 11198,
-    "females": 5834,
-    "top_1000_voters": 240,
-    "non-us_users": 13230,
-    "females_under_18": 59,
-    "males_aged_30-44": 9042,
-    "us_users": 5692,
-    "imdb_users": 30754,
-    "imdb_staff": 4,
-    "males_under_18": 99,
-    "females_aged_18-29": 2974,
-    "males_aged_45+": 2019,
-    "females_aged_30-44": 1997,
-    "males": 19676,
-    "males_aged_18-29": 7453,
-    "females_aged_45+": 397,
-    "aged_under_18": 162
+  "rating_freq": {
+    "1": 1126,
+    "2": 1231,
+    "3": 2435,
+    "4": 4597,
+    "5": 7359,
+    "6": 6875,
+    "7": 3902,
+    "8": 1529,
+    "9": 561,
+    "10": 1147
   },
-  "rating_count": 30754,
+  "release_month": "February",
+  "budget": 3300000,
+  "budget_currency": "$",
+  "total_screens": 10195,
+  "year": 2015,
+  "rating": 5.2,
   "critic_review_count": 155,
-  "opening_weekend_income": 10203437
+  "opening_weekend_date": {
+    "month": 2,
+    "year": 2015,
+    "day": 27,
+    "__type__": "datetime.date"
+  },
+  "name": "The Lazarus Effect",
+  "user_review_count": 135,
+  "avg_screens": 849.5833333333334
 }

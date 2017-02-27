@@ -1,19 +1,15 @@
 {
-  "name": "Fun Size",
+  "budget": 14000000,
   "opening_weekend_income": 4101017,
-  "genres": [
-    "adventure",
-    "comedy"
-  ],
-  "rating": 5.4,
-  "rating_count": 11673,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 26,
+  "year": 2012,
+  "closing_date": {
     "year": 2012,
-    "month": 10
+    "day": 7,
+    "__type__": "datetime.date",
+    "month": 12
   },
-  "user_review_count": 32,
+  "budget_currency": "$",
+  "avg_screens": 1151.2857142857142,
   "rating_freq": {
     "1": 605,
     "2": 467,
@@ -26,66 +22,413 @@
     "9": 301,
     "10": 1171
   },
-  "release_day": 26,
+  "screens_by_weekend": [
+    3014,
+    3016,
+    1301,
+    388,
+    144,
+    116,
+    80
+  ],
+  "rating_count": 11673,
+  "total_screens": 8059,
+  "max_screens": 3016,
+  "duration": 86,
+  "gross_income": 9402410,
+  "metascore": 37,
+  "opening_weekend_income_currency": "$",
   "votes_per_demo": {
-    "males": 6620,
-    "females_aged_30-44": 626,
-    "aged_under_18": 106,
-    "non-us_users": 4884,
-    "males_aged_18-29": 3075,
-    "aged_18-29": 5355,
-    "males_aged_30-44": 2497,
-    "aged_45+": 796,
-    "imdb_users": 11673,
-    "aged_30-44": 3157,
-    "us_users": 2546,
-    "females": 3275,
-    "females_aged_18-29": 2217,
     "top_1000_voters": 189,
+    "imdb_users": 11673,
+    "us_users": 2546,
+    "aged_18-29": 5355,
+    "non-us_users": 4884,
+    "aged_45+": 796,
+    "aged_30-44": 3157,
+    "males_aged_30-44": 2497,
+    "males_aged_18-29": 3075,
     "males_aged_45+": 657,
+    "aged_under_18": 106,
+    "imdb_staff": 4,
+    "males_under_18": 35,
+    "females_aged_30-44": 626,
+    "females": 3275,
     "females_under_18": 65,
     "females_aged_45+": 130,
-    "imdb_staff": 4,
-    "males_under_18": 35
+    "males": 6620,
+    "females_aged_18-29": 2217
   },
+  "user_review_count": 32,
+  "rating": 5.4,
+  "release_year": 2012,
   "avg_rating_per_demo": {
-    "males": 5.3,
-    "females_aged_30-44": 5.3,
-    "aged_under_18": 6.2,
-    "non-us_users": 5.3,
-    "males_aged_18-29": 5.5,
-    "aged_18-29": 5.5,
-    "males_aged_30-44": 5.2,
-    "aged_45+": 5.1,
-    "imdb_users": 5.4,
-    "aged_30-44": 5.2,
-    "us_users": 5.4,
-    "females": 5.6,
-    "females_aged_18-29": 5.6,
     "top_1000_voters": 4.5,
+    "imdb_users": 5.4,
+    "us_users": 5.4,
+    "aged_18-29": 5.5,
+    "non-us_users": 5.3,
+    "aged_45+": 5.1,
+    "aged_30-44": 5.2,
+    "males_aged_30-44": 5.2,
+    "males_aged_18-29": 5.5,
     "males_aged_45+": 5.0,
+    "aged_under_18": 6.2,
+    "imdb_staff": 5.5,
+    "males_under_18": 6.3,
+    "females_aged_30-44": 5.3,
+    "females": 5.6,
     "females_under_18": 6.1,
     "females_aged_45+": 5.8,
-    "imdb_staff": 5.5,
-    "males_under_18": 6.3
+    "males": 5.3,
+    "females_aged_18-29": 5.6
   },
-  "avg_screens": 1151.2857142857142,
-  "release_month": "October",
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 37,
-  "gross_income": 9402410,
-  "critic_review_count": 76,
-  "budget_currency": "$",
-  "release_year": 2012,
-  "num_weekends": 7,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 7,
+  "opening_weekend_date": {
     "year": 2012,
-    "month": 12
+    "day": 26,
+    "__type__": "datetime.date",
+    "month": 10
   },
-  "duration": 86,
-  "budget": 14000000,
-  "max_screens": 3016
+  "imdb_user_reviews": [
+    {
+      "user": "Tomaz Adour",
+      "contents": "Better than expected",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Tenby",
+      "contents": "I liked it!",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Robert Splaine",
+      "contents": "Not fun enough",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "kinda fun, Justice good, silent kid a mistake",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "canadian58",
+      "contents": "Not typical Nickelodeon",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Not Fun At Any Size.",
+      "review_date": {
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "jfgibson73",
+      "contents": "Strange Film From Nickelodeon Studios",
+      "review_date": {
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "daisyvision",
+      "contents": "Entertaining enough, yet mildly inappropriate for its audience. (Spoilers)",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "groovyjazzychick889",
+      "contents": "The Fun Is Tiny, But The Size Is Huge!",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "thekarmicnomad",
+      "contents": "Halloween fun",
+      "review_date": {
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Fluke_Skywalker",
+      "contents": "Aptly named",
+      "review_date": {
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "dee.reid",
+      "contents": "\"Fun Size\" - Fun, fun, fun!",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Johnny Hollywood (jnatsis@iprimus.com.au)",
+      "contents": "Not safe for human consumption.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "SanteeFats",
+      "contents": "Decent",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "fedezucchi-rs",
+      "contents": "Comedy/romantic/sad moments",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "Tries it's darndest to channel John Hughes and in some respects really does",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "ria_kearney",
+      "contents": "so sad",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "Carlos Flores (carlitosflores@live.com.mx)",
+      "contents": "Not Fun At All",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "And just what size was that exactly...?",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Predictable and unoriginal but somewhat watchable",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "claymation8",
+      "contents": "AWESOME movie. Am I missing something?",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "suite92",
+      "contents": "Probably fine for the target audience of tweens and teens.",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "A meager title for a meager comedy",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "terrellrobinson71",
+      "contents": "An \"Adventures in Babysitting\" for the 21st century",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "rodjamie06",
+      "contents": "Very disappointed",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Nancy",
+      "contents": "I laughed a lot, but . . .",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Unexpectedly enjoyable",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "crimekittehs",
+      "contents": "Adorable Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "jdrich9999",
+      "contents": "Fun Size delivers Big Fun",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "trishmonahan",
+      "contents": "Due to Sexual Content Should be Rated 14A",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    }
+  ],
+  "release_month": "October",
+  "genres": [
+    "adventure",
+    "comedy"
+  ],
+  "opening_weekend_screens": 3014,
+  "name": "Fun Size",
+  "num_weekends": 7,
+  "release_day": 26,
+  "critic_review_count": 76
 }

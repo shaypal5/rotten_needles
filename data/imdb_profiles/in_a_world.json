@@ -1,90 +1,976 @@
 {
-  "critic_review_count": 160,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 11,
-    "day": 29
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 8,
-    "day": 9
-  },
-  "metascore": 79,
-  "max_screens": 144,
-  "duration": 93,
-  "rating_count": 27003,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 11,
+  "release_day": null,
   "avg_rating_per_demo": {
+    "aged_45+": 6.7,
+    "top_1000_voters": 5.9,
+    "males_under_18": 7.0,
+    "imdb_staff": 7.4,
+    "males_aged_18-29": 6.8,
+    "imdb_users": 6.7,
+    "males_aged_45+": 6.6,
+    "aged_18-29": 6.8,
+    "us_users": 6.9,
+    "females_aged_30-44": 6.7,
+    "males": 6.7,
+    "females": 6.8,
+    "females_aged_45+": 7.0,
     "non-us_users": 6.6,
     "females_aged_18-29": 6.8,
-    "females": 6.8,
-    "aged_45+": 6.7,
     "females_under_18": 7.1,
-    "imdb_users": 6.7,
-    "imdb_staff": 7.4,
-    "females_aged_30-44": 6.7,
-    "aged_under_18": 6.9,
-    "males_aged_30-44": 6.6,
-    "top_1000_voters": 5.9,
     "aged_30-44": 6.6,
-    "males_aged_18-29": 6.8,
-    "males": 6.7,
-    "females_aged_45+": 7.0,
-    "males_under_18": 7.0,
-    "us_users": 6.9,
-    "males_aged_45+": 6.6,
-    "aged_18-29": 6.8
+    "aged_under_18": 6.9,
+    "males_aged_30-44": 6.6
   },
-  "user_review_count": 83,
+  "closing_date": {
+    "month": 11,
+    "year": 2013,
+    "day": 29,
+    "__type__": "datetime.date"
+  },
+  "metascore": 79,
+  "num_weekends": 11,
+  "rating_count": 27010,
+  "gross_income": 2962542,
+  "max_screens": 144,
+  "opening_weekend_screens": 3,
+  "screens_by_weekend": [
+    3,
+    37,
+    75,
+    92,
+    144,
+    144,
+    121,
+    54,
+    32,
+    22,
+    5
+  ],
+  "opening_weekend_income": 70541,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "One of the best movies I've seen in 2012-13",
+      "score": 10,
+      "user": "Charlie Hale (charles.hale@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pleasant comedy that's worth seeing",
+      "score": 8,
+      "user": "Red-125",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Make more movies like this one!",
+      "score": 8,
+      "user": "nyccents",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cracking little indie comedy from Lake Bell",
+      "score": 7,
+      "user": "jibson89",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A comedic gem from a first-time female director",
+      "score": 7,
+      "user": "FlixChatter",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Can't Wait to see what Lake Bell does next",
+      "score": 8,
+      "user": "cutegirlbutts",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not what I expected, but refreshing.",
+      "score": 7,
+      "user": "DarthPaul85",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm apparently alone in despising this film:",
+      "score": 3,
+      "user": "Jason Olshefsky (Jayce)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lots to Like from Lake",
+      "score": 8,
+      "user": "drmark",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A voice is a choice, and this movie is not a bad one.",
+      "score": 8,
+      "user": "Jesse Boland",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Truly original & beautiful.... must watch for movie lovers..!!!",
+      "score": 8,
+      "user": "sckrishna",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Delightful look at being a woman in a Hollywood support business",
+      "score": 8,
+      "user": "Elizabeth Rose",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In what is essentially a home movie . . .",
+      "score": 8,
+      "user": "cricket crockett",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An impressive performance by Bell on all fronts!",
+      "score": 7,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "mild but likable comedy",
+      "score": 6,
+      "user": "Charles Herold (cherold)",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Delightfully real characters.",
+      "score": 9,
+      "user": "DougInNC",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was surprised",
+      "score": 8,
+      "user": "curtis_welsh",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny indie",
+      "score": 8,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Approved by the Society for Realistic Movie Housing",
+      "score": 7,
+      "user": "kr98664",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too many things, too shallow",
+      "score": 4,
+      "user": "Chris L",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Good Idea Well Realized",
+      "score": 8,
+      "user": "John Osburn",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stick with this one...",
+      "score": 8,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice depiction of the industry",
+      "score": 6,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Voice actors get some face time in this ingenious indie comedy",
+      "score": 8,
+      "user": "The_late_Buddy_Ryan",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meandering and sporadically funny",
+      "score": 5,
+      "user": "Davalon-Davalon",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "voices of America",
+      "score": 7,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Charming Comedy About Voice-over Artistes",
+      "score": 7,
+      "user": "l_rawjalaurence",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best \"dramedy\" movies I ever seen",
+      "score": 9,
+      "user": "Samer_Ramadan",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A waste of a great premise",
+      "score": 4,
+      "user": "Jonny 99",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh My God Make It Stop!",
+      "score": 4,
+      "user": "xhidden99",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Indie Comedies might be making a comeback",
+      "score": 8,
+      "user": "mccarthyedits",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Laugh out loud funny, and never too serious that it loses its goals...",
+      "score": 9,
+      "user": "cleary-joshua",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quick-witted indie flick that understands what it is",
+      "score": 6,
+      "user": "pcrprimer",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do critics really \"love\" this film or is it something else?",
+      "score": 6,
+      "user": "iamjustafaniam",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Works, but only by dint of writing/acting/directing moxie",
+      "score": 7,
+      "user": "rzajac",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's fun, but forgettable.",
+      "score": 6,
+      "user": "akash_sebastian",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In a World...",
+      "score": 5,
+      "user": "Phil Hubbs",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In Any Other World This Would Have Been a Basic Film",
+      "score": 6,
+      "user": "Flippy Broerse",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A smart, funny, big hearted indie comedy",
+      "score": 8,
+      "user": "runamokprods",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I wanted to, I swear...",
+      "score": 6,
+      "user": "schmadie",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bechdel Test passed?",
+      "score": 3,
+      "user": "theillustratographer",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Massively overrated",
+      "score": 4,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Few laughs as passive-aggressive types inhabit film trailer voice-over industry world",
+      "score": 4,
+      "user": "Turfseer",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This could be the beginning of a huge career for Lake Bell. Really has a lot of heart & something that is worth seeing. I liked it",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I guess that as long as a film is about feminism it doesn't have to have anything else going for it, right?",
+      "score": 3,
+      "user": "mrscarecrow",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Over-hyped regular movie",
+      "score": 4,
+      "user": "Tiago Ferreira",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Massively overrated mess from a first time director",
+      "score": 5,
+      "user": "userseven",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meh.",
+      "score": 4,
+      "user": "M_Exchange",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An unexpected delight",
+      "score": 8,
+      "user": "victordelavieter",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting Concept",
+      "score": 7,
+      "user": "Uncle Marvin",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A 5, but a promising 5",
+      "score": 5,
+      "user": "Michael Maggiano",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A funny take on a world I wasn't familiar with",
+      "score": 10,
+      "user": "franklin",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bold funny movie challenging the status quo",
+      "score": 8,
+      "user": "M-Independent",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun, sweet, kind, joyful and full of life",
+      "score": 9,
+      "user": "kayak_nut",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cough it up!",
+      "score": 5,
+      "user": "begob",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Life behind the scenes worth a look-see",
+      "score": 7,
+      "user": "john32935",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "from the heart",
+      "score": 7,
+      "user": "ssto",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In a World... of Voice Renders.",
+      "score": 7,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lake Bell's first film isn't perfect, but it's charming and enjoyable",
+      "score": 6,
+      "user": "pint_sized_one",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kind of a useless movie",
+      "score": 3,
+      "user": "ryqu18",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Like Lake Bell But This Film Is Overrated",
+      "score": 3,
+      "user": "M MALIK",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A satire about sexism in Hollywood",
+      "score": 7,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Irritating",
+      "score": 4,
+      "user": "jmillerdp",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Charming, if a bit \"in\"",
+      "score": 8,
+      "user": "edwardcole1-802-544790",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In a World... is, In a Word... Fantastic",
+      "score": 9,
+      "user": "Bharat Samra",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film which focuses on the misogyny in Hollywood, within the voice over industry. Well, until it decides to be a romantic comedy.",
+      "score": 7,
+      "user": "Amari-Sali",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Silly but charming. It may have too many subplots but its heart and unique subject make it a treat.",
+      "score": 7,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Film shows an utter contempt for the human consciousness - callously promotes vegetative state!",
+      "score": 1,
+      "user": "Luke Toyer",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Delightful and heartfelt!",
+      "score": 10,
+      "user": "lovetovoice",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible story",
+      "score": 4,
+      "user": "aziraphale48",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Light, Casual Humor That Doesn't Live Up to the Concept",
+      "score": 5,
+      "user": "Sean Lamberger",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than average ...",
+      "score": 7,
+      "user": " (contact@textiledesigning.org)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "in a crowded world",
+      "score": 7,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In a world where feminism is alive and well",
+      "score": 6,
+      "user": "napierslogs",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An indie seek-out must.",
+      "score": 8,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrific \"Freshman\" Feminist Comedy from Lake Bell",
+      "score": 8,
+      "user": "Paul Roth",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In A World seeking to capitalize on Don LaFontaine's death",
+      "score": 7,
+      "user": "Steve Schreiber",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Different Comedy",
+      "score": 8,
+      "user": "tabuno",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable Indie Comedy....Thumbs Up, But Not a Must See",
+      "score": 6,
+      "user": "BlueSkies4567",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 93,
+  "votes_per_demo": {
+    "aged_45+": 3128,
+    "top_1000_voters": 256,
+    "males_under_18": 19,
+    "imdb_staff": 14,
+    "males_aged_18-29": 6068,
+    "imdb_users": 27010,
+    "males_aged_45+": 2431,
+    "aged_18-29": 8581,
+    "us_users": 6716,
+    "females_aged_30-44": 2186,
+    "males": 17989,
+    "females": 5479,
+    "females_aged_45+": 639,
+    "non-us_users": 12897,
+    "females_aged_18-29": 2389,
+    "females_under_18": 9,
+    "aged_30-44": 11175,
+    "aged_under_18": 29,
+    "males_aged_30-44": 8825
+  },
+  "genres": [
+    "comedy"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 332,
     "2": 209,
     "3": 412,
     "4": 839,
     "5": 2280,
-    "6": 6031,
-    "7": 9221,
-    "8": 5140,
+    "6": 6036,
+    "7": 9222,
+    "8": 5141,
     "9": 1528,
     "10": 1011
   },
-  "genres": [
-    "comedy"
-  ],
+  "release_month": null,
   "budget": null,
-  "rating": 6.7,
-  "name": "In a World...",
-  "opening_weekend_income": 70541,
-  "avg_screens": 66.27272727272727,
-  "gross_income": 2962542,
-  "votes_per_demo": {
-    "non-us_users": 12893,
-    "females_aged_18-29": 2390,
-    "females": 5476,
-    "aged_45+": 3128,
-    "females_under_18": 9,
-    "imdb_users": 27003,
-    "imdb_staff": 14,
-    "females_aged_30-44": 2182,
-    "aged_under_18": 29,
-    "males_aged_30-44": 8821,
-    "top_1000_voters": 256,
-    "aged_30-44": 11167,
-    "males_aged_18-29": 6069,
-    "males": 17985,
-    "females_aged_45+": 639,
-    "males_under_18": 19,
-    "us_users": 6716,
-    "males_aged_45+": 2431,
-    "aged_18-29": 8583
-  },
-  "release_year": null,
   "budget_currency": null,
-  "release_day": null
+  "total_screens": 729,
+  "year": 2013,
+  "rating": 6.7,
+  "critic_review_count": 160,
+  "opening_weekend_date": {
+    "month": 8,
+    "year": 2013,
+    "day": 9,
+    "__type__": "datetime.date"
+  },
+  "name": "In a World...",
+  "user_review_count": 83,
+  "avg_screens": 66.27272727272727
 }

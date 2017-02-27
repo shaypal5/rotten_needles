@@ -1,46 +1,573 @@
 {
-  "critic_review_count": 88,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 8,
-    "day": 2
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 6,
-    "day": 7
-  },
-  "metascore": 76,
-  "max_screens": 31,
-  "duration": 87,
-  "rating_count": 8071,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 8,
+  "release_day": null,
   "avg_rating_per_demo": {
-    "non-us_users": 7.5,
-    "females_aged_18-29": 7.8,
-    "females": 7.7,
-    "females_aged_30-44": 7.6,
+    "top_1000_voters": 6.6,
+    "males_under_18": 7.7,
     "imdb_staff": 9.0,
     "aged_45+": 7.4,
-    "aged_under_18": 7.7,
-    "males_aged_30-44": 7.4,
-    "top_1000_voters": 6.6,
-    "aged_30-44": 7.4,
+    "imdb_users": 7.5,
+    "males_aged_45+": 7.3,
+    "aged_18-29": 7.6,
+    "females_aged_30-44": 7.6,
     "males_aged_18-29": 7.6,
     "males": 7.5,
+    "females": 7.7,
     "females_aged_45+": 7.9,
-    "males_under_18": 7.7,
-    "imdb_users": 7.5,
+    "non-us_users": 7.5,
+    "females_aged_18-29": 7.8,
     "us_users": 7.3,
-    "males_aged_45+": 7.3,
-    "aged_18-29": 7.6
+    "aged_30-44": 7.4,
+    "aged_under_18": 7.7,
+    "males_aged_30-44": 7.4
   },
-  "user_review_count": 51,
+  "closing_date": {
+    "month": 8,
+    "year": 2013,
+    "day": 2,
+    "__type__": "datetime.date"
+  },
+  "metascore": 76,
+  "num_weekends": 8,
+  "rating_count": 8072,
+  "gross_income": 365604,
+  "max_screens": 31,
+  "opening_weekend_screens": 4,
+  "screens_by_weekend": [
+    4,
+    14,
+    20,
+    31,
+    13,
+    13,
+    17,
+    8
+  ],
+  "opening_weekend_income": 63504,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Why isn't this being more widely reported?",
+      "score": 9,
+      "user": "DougWilliams88",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Investigative journalism at its finest",
+      "score": 7,
+      "user": "bowencho",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing Documentary",
+      "score": 10,
+      "user": "John Anderson",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why aren't more people watching this film?",
+      "score": 10,
+      "user": "CL Goodman",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Courageous attempt",
+      "score": 10,
+      "user": "alikhan112",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For those who would like open their minds just a little bit...",
+      "score": 9,
+      "user": "mananpandya",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Most people don't have a clue.",
+      "score": 10,
+      "user": "Ren\u00c4\u0081rs Grebe\u00c5\u00bes",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You saw American forces take the bullets out of the body?",
+      "score": 8,
+      "user": "Ben Larson",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scahill Takes Center Stage",
+      "score": 8,
+      "user": "gavin6942",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Dirty Side of America's Military",
+      "score": 7,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just when you thought oil alone was filthy",
+      "score": 8,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "War is Dirty ... but is honor dead?",
+      "score": 7,
+      "user": "twilliams76",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "fantastic",
+      "score": 10,
+      "user": "tnrcooper",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Fascist Oilygarchy in action...",
+      "score": 10,
+      "user": "poe426",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Extraordinary",
+      "score": 8,
+      "user": "joihargrove12",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "there can't be a war on terrorism",
+      "score": 10,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Must read Review",
+      "score": 8,
+      "user": "delilahcarter85",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dirty War Zones.",
+      "score": 7,
+      "user": "morrison-dylan-fan",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dirty Wars.",
+      "score": 10,
+      "user": "dlmcd325",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Secret War Revealed",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yet another conformation",
+      "score": 10,
+      "user": "Arnror_II",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "American Secrets",
+      "score": 9,
+      "user": "bjohnson01328",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best at what he does.",
+      "score": 9,
+      "user": "michaelbryanton",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Most of the information I already knew from watching 'THE YOUNG TURKS' and 'DAVID PAKMAN' videos.",
+      "score": 8,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "wow",
+      "score": 7,
+      "user": "sammmmmm100",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If any documentary is a must see, it's this one.",
+      "score": 9,
+      "user": "carbuff",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dirty Wars",
+      "score": 10,
+      "user": "keeara",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Can we kill anyone we choose, anywhere we choose?",
+      "score": 10,
+      "user": "Red-125",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "War masters",
+      "score": 6,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dishonest piece of insufferably self-absorbed \"journalism\"",
+      "score": 1,
+      "user": "morandb",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible",
+      "score": 1,
+      "user": "cyerger",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It makes you think and question.",
+      "score": 7,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Story with fine camera work and post editing, but sadly a disappointing ending",
+      "score": 6,
+      "user": "Chris Cleary",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stop being dazzled by the emotion and tragedy",
+      "score": 5,
+      "user": "trivium105",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Compelling story flawed by TV drama tricks",
+      "score": 5,
+      "user": "lochlain-295-619211",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Most Dishonest Documentary Ever Made... Spoilers (if that's possible)",
+      "score": 1,
+      "user": "nickrock23",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We know its a dirty war, so what's the point of the film?",
+      "score": 5,
+      "user": "mccarthyedits",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What did we learn?",
+      "score": 4,
+      "user": "da6133011378",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of time.",
+      "score": 2,
+      "user": "gregmjones",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scahill is not uncovering anything you should really get fired up about. You all demanded this...",
+      "score": 1,
+      "user": "taskforcegreen-895-992586",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very annoyed by the egocentricity of the journalist",
+      "score": 2,
+      "user": "realidad25",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What you all missed",
+      "score": 5,
+      "user": "richiemann",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anti American propaganda",
+      "score": 1,
+      "user": "Gorgeofthedong",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rubbish Movie",
+      "score": 4,
+      "user": "Jeremy Williams",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "High on ideology, sparse on facts",
+      "score": 1,
+      "user": "Tcarts76",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 87,
+  "votes_per_demo": {
+    "top_1000_voters": 125,
+    "males_under_18": 3,
+    "imdb_staff": 1,
+    "aged_45+": 1008,
+    "imdb_users": 8072,
+    "males_aged_45+": 869,
+    "aged_18-29": 2302,
+    "females_aged_30-44": 273,
+    "males_aged_18-29": 2053,
+    "males": 6377,
+    "females": 652,
+    "females_aged_45+": 112,
+    "non-us_users": 4099,
+    "females_aged_18-29": 234,
+    "us_users": 1725,
+    "aged_30-44": 3548,
+    "aged_under_18": 3,
+    "males_aged_30-44": 3228
+  },
+  "genres": [
+    "documentary",
+    "crime",
+    "drama"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 139,
     "2": 53,
@@ -48,43 +575,25 @@
     "4": 125,
     "5": 295,
     "6": 808,
-    "7": 1945,
+    "7": 1946,
     "8": 2176,
     "9": 1089,
     "10": 1357
   },
-  "genres": [
-    "documentary",
-    "crime",
-    "drama"
-  ],
+  "release_month": null,
   "budget": null,
-  "rating": 7.5,
-  "name": "Dirty Wars",
-  "opening_weekend_income": 63504,
-  "avg_screens": 15.0,
-  "gross_income": 365604,
-  "votes_per_demo": {
-    "non-us_users": 4099,
-    "females_aged_18-29": 234,
-    "females": 652,
-    "females_aged_30-44": 273,
-    "imdb_staff": 1,
-    "aged_45+": 1007,
-    "aged_under_18": 3,
-    "males_aged_30-44": 3229,
-    "top_1000_voters": 125,
-    "aged_30-44": 3549,
-    "males_aged_18-29": 2053,
-    "males": 6377,
-    "females_aged_45+": 112,
-    "males_under_18": 3,
-    "imdb_users": 8071,
-    "us_users": 1725,
-    "males_aged_45+": 868,
-    "aged_18-29": 2302
-  },
-  "release_year": null,
   "budget_currency": null,
-  "release_day": null
+  "total_screens": 120,
+  "year": 2013,
+  "rating": 7.5,
+  "critic_review_count": 88,
+  "opening_weekend_date": {
+    "month": 6,
+    "year": 2013,
+    "day": 7,
+    "__type__": "datetime.date"
+  },
+  "name": "Dirty Wars",
+  "user_review_count": 51,
+  "avg_screens": 15.0
 }

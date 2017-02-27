@@ -1,92 +1,1392 @@
 {
-  "genres": [
-    "drama",
-    "mystery",
-    "thriller"
-  ],
-  "num_weekends": 7,
+  "budget_currency": "$",
+  "total_screens": 9808,
   "rating_freq": {
     "1": 901,
     "2": 922,
     "3": 1783,
     "4": 3617,
-    "5": 7894,
-    "6": 12867,
-    "7": 10702,
-    "8": 5035,
+    "5": 7896,
+    "6": 12870,
+    "7": 10711,
+    "8": 5038,
     "9": 1865,
-    "10": 2824
+    "10": 2825
   },
-  "budget": 55000000,
-  "votes_per_demo": {
-    "non-us_users": 26509,
-    "aged_45+": 4989,
-    "females_aged_45+": 1066,
-    "imdb_staff": 7,
-    "females_under_18": 42,
-    "males_aged_45+": 3842,
-    "females_aged_18-29": 5897,
-    "males_aged_30-44": 14942,
-    "females": 12360,
-    "imdb_users": 48410,
-    "us_users": 8100,
-    "males_under_18": 44,
-    "top_1000_voters": 405,
-    "aged_under_18": 87,
-    "males": 30624,
-    "males_aged_18-29": 10747,
-    "females_aged_30-44": 4801,
-    "aged_30-44": 20005,
-    "aged_18-29": 16833
-  },
+  "release_day": 30,
+  "genres": [
+    "drama",
+    "mystery",
+    "thriller"
+  ],
+  "name": "Dream House",
+  "release_month": "September",
+  "avg_screens": 1401.142857142857,
+  "imdb_user_reviews": [
+    {
+      "user": "Nysa11",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A decent thriller that was advertised wrong"
+    },
+    {
+      "user": "wesawyournoobs",
+      "score": 9,
+      "review_date": {
+        "day": 26,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Y'all crazy, it's good."
+    },
+    {
+      "user": "grandbucket",
+      "score": 4,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Daniel Craig and Rachel Weisz have a great chemistry together, too bad they wasted their efforts on this movie."
+    },
+    {
+      "user": "valadas",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "A bit confused but good after all"
+    },
+    {
+      "user": "Claudio Carvalho",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Good Mystery that Deserved a Better Screenplay"
+    },
+    {
+      "user": "richard trombley",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "The ending says it all"
+    },
+    {
+      "user": "intoArt-n-Film",
+      "score": 3,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Once again, \"Studio Heads\" ruin the Artist's Work"
+    },
+    {
+      "user": "kimbg-935-647578",
+      "score": 5,
+      "review_date": {
+        "day": 31,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "What a waste of a good cast"
+    },
+    {
+      "user": "Hellmant",
+      "score": 6,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Could have been something really good if not for all it's production and marketing problems."
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "score": 5,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Ward.  Peter Ward."
+    },
+    {
+      "user": "liajane19",
+      "score": 4,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "The only thing that saved this movie was the cast"
+    },
+    {
+      "user": "Katie Sirles (katie.sirles@gmail.com)",
+      "score": 4,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Everybody who lives in this house dies... OF BOREDOM"
+    },
+    {
+      "user": "craigman-herring",
+      "score": 1,
+      "review_date": {
+        "day": 27,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Monumentally Stupid, Dumbed-Down Lame Exuse of a movie"
+    },
+    {
+      "user": "Raymond",
+      "score": 6,
+      "review_date": {
+        "day": 7,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Great setup and idea, but execution fails"
+    },
+    {
+      "user": "Alexander Garcia",
+      "score": 10,
+      "review_date": {
+        "day": 7,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Mystery, suspense, a little romance, and an original plot sure to stun."
+    },
+    {
+      "user": "bowmanblue",
+      "score": 7,
+      "review_date": {
+        "day": 13,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "A good cast lifts this to above just a so-so thriller"
+    },
+    {
+      "user": " (HorrorFanForever)",
+      "score": 8,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Underrated film and i was impressed by it."
+    },
+    {
+      "user": "Tcarts76",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Good, smart, decent thriller, good cast,"
+    },
+    {
+      "user": "lathe-of-heaven",
+      "score": 8,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "An Unusual Film... Better than what most reviewers are saying...  Blu-ray: Very Good  A:9 V:9"
+    },
+    {
+      "user": "jmarinko925",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "I expected a horror film but was surprised by this thriller"
+    },
+    {
+      "user": "dalelawson-1",
+      "score": 5,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Dream House Review"
+    },
+    {
+      "user": "dvc5159",
+      "score": 5,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Either the studio got in the way or the screenwriter must be really lucky to have all this talent working on a mediocre script"
+    },
+    {
+      "user": "twilliams76",
+      "score": 4,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Ho-Hum and Humdrum"
+    },
+    {
+      "user": "view_and_review",
+      "score": 8,
+      "review_date": {
+        "day": 31,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Psychological Thriller Who-Dun-It"
+    },
+    {
+      "user": "Lisa Marie",
+      "score": 9,
+      "review_date": {
+        "day": 11,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A decent horror flick."
+    },
+    {
+      "user": "sara2520",
+      "score": 10,
+      "review_date": {
+        "day": 27,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Wow! What an Amazing Movie"
+    },
+    {
+      "user": "FloridaDino",
+      "score": 7,
+      "review_date": {
+        "day": 29,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "A few faults, but watchable enough"
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Craig excels in this dismal ghost story with echoes of JACOB'S LADDER & \"The Twilight Zone\""
+    },
+    {
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "score": 6,
+      "review_date": {
+        "day": 29,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "What secrets does your house hold?"
+    },
+    {
+      "user": "David Holt (rawiri42)",
+      "score": 8,
+      "review_date": {
+        "day": 3,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Well worth the time."
+    },
+    {
+      "user": "Olive Matuka",
+      "score": 8,
+      "review_date": {
+        "day": 27,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A good twisty, thriller"
+    },
+    {
+      "user": "Maria Fahlsing",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Really?!"
+    },
+    {
+      "user": "Adam Peters",
+      "score": 2,
+      "review_date": {
+        "day": 7,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Yes, it is that bad"
+    },
+    {
+      "user": "Jimmy Collins",
+      "score": 2,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Not bad in the way most say, just terribly boring and lacking any scares."
+    },
+    {
+      "user": "SpiritSpeaks",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "A very watchable movie"
+    },
+    {
+      "user": "blanche-2",
+      "score": 7,
+      "review_date": {
+        "day": 20,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "When Daniel Craig met Rachel Weisz"
+    },
+    {
+      "user": "adi_2002",
+      "score": 5,
+      "review_date": {
+        "day": 18,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Strange things occurs in a weird movie"
+    },
+    {
+      "user": "senanur  salim",
+      "score": 6,
+      "review_date": {
+        "day": 6,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "I was scared when I first saw the movie"
+    },
+    {
+      "user": "Robert J. Maxwell (rmax304823@yahoo.com)",
+      "score": 6,
+      "review_date": {
+        "day": 22,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Next Door to Routine."
+    },
+    {
+      "user": "The_Dead_See",
+      "score": 7,
+      "review_date": {
+        "day": 25,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A very unusual ghost story, not horror in the slightest, but still very engaging"
+    },
+    {
+      "user": "TdSmth5",
+      "score": 6,
+      "review_date": {
+        "day": 20,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Good idea, good cast but movie has its problems"
+    },
+    {
+      "user": "Bene Cumb",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Fine actors trying to \"rack\" from a mediocre plot..."
+    },
+    {
+      "user": "Boba_Fett1138",
+      "score": 6,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Not entirely successful but still good enough."
+    },
+    {
+      "user": "Christian_Dimartino",
+      "score": 6,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Dream House could have been better if it were better edited."
+    },
+    {
+      "user": "IheartCali5882",
+      "score": 6,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "It was different...not great but different."
+    },
+    {
+      "user": "adamw25",
+      "score": 5,
+      "review_date": {
+        "day": 3,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Confusing and over-complicated plot"
+    },
+    {
+      "user": "Adam Foidart",
+      "score": 2,
+      "review_date": {
+        "day": 7,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "When a movie makes mistakes this big, you almost have to see it"
+    },
+    {
+      "user": "juneebuggy",
+      "score": 6,
+      "review_date": {
+        "day": 1,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "A bit of a mess with wasted talent but I didn't hate it"
+    },
+    {
+      "user": "Catherine Michel Hernandez Mansilla",
+      "score": 8,
+      "review_date": {
+        "day": 18,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "It's not bad!"
+    },
+    {
+      "user": "I B",
+      "score": 7,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "An effective psychological thriller."
+    },
+    {
+      "user": "nitramd2000",
+      "score": 6,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "not the worst movie ever but......"
+    },
+    {
+      "user": "rebecca-ry",
+      "score": 5,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Predictable doesn't even begin to cover it"
+    },
+    {
+      "user": "Michael O'Keefe",
+      "score": 7,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "This dream house is anything but!"
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "score": 6,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Lots of potential but less than great delivery"
+    },
+    {
+      "user": "Erik Osolin",
+      "score": 7,
+      "review_date": {
+        "day": 18,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Good enough, surely underrated ..."
+    },
+    {
+      "user": "Peppered_Productions",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Very watchable, subtle mystery"
+    },
+    {
+      "user": "axlrhodes",
+      "score": 6,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Dream cast for a most unremarkable film."
+    },
+    {
+      "user": "movieman_kev",
+      "score": 3,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "So much potential wasted"
+    },
+    {
+      "user": "raisingd",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Great Movie!... Forget The Arty Farty Brigade 8.5/10"
+    },
+    {
+      "user": "mm-39",
+      "score": 5,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Ends strong!"
+    },
+    {
+      "user": "nightwatch_32",
+      "score": 5,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Jim Sheridam again..."
+    },
+    {
+      "user": "capone666",
+      "score": 4,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "The Vidiot Reviews..."
+    },
+    {
+      "user": "kluseba",
+      "score": 6,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "After all these years, it's simply nothing special anymore"
+    },
+    {
+      "user": "ununchanged",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Massivly underrated."
+    },
+    {
+      "user": "estebangonzalez10",
+      "score": 5,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A movie ruined from the get-go"
+    },
+    {
+      "user": "shoalscat",
+      "score": 7,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Not what I was expecting but a good movie"
+    },
+    {
+      "user": "moonfull",
+      "score": 5,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "So predictable..."
+    },
+    {
+      "user": "gizmomogwai",
+      "score": 5,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Disappointing attempt at a psychological thriller"
+    },
+    {
+      "user": "jt1999",
+      "score": 1,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "It's Turkey Time"
+    },
+    {
+      "user": "Argemaluco",
+      "score": 4,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "A pathetic psychological thriller"
+    },
+    {
+      "user": "Brent Trafton",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "B-Picture with a Great Cast"
+    },
+    {
+      "user": "Rockwell_Cronenberg",
+      "score": 1,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Worse than you've heard."
+    },
+    {
+      "user": "Vaughn Fry (Legendary_Badass)",
+      "score": 2,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "A Snoozefest"
+    },
+    {
+      "user": "krycek19",
+      "score": 2,
+      "review_date": {
+        "day": 31,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "So Daniel Craig can act"
+    },
+    {
+      "user": "Python Hyena",
+      "score": 6,
+      "review_date": {
+        "day": 30,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Hardly a Dream Script."
+    },
+    {
+      "user": "Finfrosk86",
+      "score": 6,
+      "review_date": {
+        "day": 5,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Wanted to like this better! One scene though.."
+    },
+    {
+      "user": "James N. O'Sullivan",
+      "score": 6,
+      "review_date": {
+        "day": 29,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Bad Execution Still Makes For A Semi-Enjoyable \"Horror\" Film."
+    },
+    {
+      "user": "Leofwine_draca",
+      "score": 2,
+      "review_date": {
+        "day": 3,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Muddled, nonsensical, worst writing ever"
+    },
+    {
+      "user": "Prismark10",
+      "score": 5,
+      "review_date": {
+        "day": 1,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Spectre"
+    },
+    {
+      "user": "christianclark",
+      "score": 10,
+      "review_date": {
+        "day": 29,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Amazing Movie, Underrated"
+    },
+    {
+      "user": "areadingwoman",
+      "score": 4,
+      "review_date": {
+        "day": 1,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Not at all what was promised"
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 5,
+      "review_date": {
+        "day": 7,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Great people make weak thriller"
+    },
+    {
+      "user": "flitz35",
+      "score": 10,
+      "review_date": {
+        "day": 3,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "unforgettable!!!"
+    },
+    {
+      "user": "Coventry",
+      "score": 3,
+      "review_date": {
+        "day": 21,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "So wake me up when it's all over\u0085"
+    },
+    {
+      "user": "BA_Harrison",
+      "score": 5,
+      "review_date": {
+        "day": 27,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Who the hell has the surname 'Atenton'?"
+    },
+    {
+      "user": "tdrish",
+      "score": 6,
+      "review_date": {
+        "day": 5,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Not perfect, not bad."
+    },
+    {
+      "user": "nightcrawlercyp",
+      "score": 3,
+      "review_date": {
+        "day": 11,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Really disappointing"
+    },
+    {
+      "user": "KineticSeoul",
+      "score": 4,
+      "review_date": {
+        "day": 31,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Psychological thriller that lacks the thrills and originality"
+    },
+    {
+      "user": "MLDinTN",
+      "score": 5,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "not what you think"
+    },
+    {
+      "user": "Funky Monkey",
+      "score": 2,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Not your best work"
+    },
+    {
+      "user": "derin-nehir-goksu",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "I like this movie."
+    },
+    {
+      "user": "chrisx99",
+      "score": 2,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Avoid this film unless you're a glutton for punishment."
+    },
+    {
+      "user": "compmend",
+      "score": 7,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Not a bad movie"
+    },
+    {
+      "user": "mockingbirds-139-672089",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Good plot, great cinematography, amazing sound."
+    },
+    {
+      "user": "phd_travel",
+      "score": 2,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Weak story with a good cast"
+    },
+    {
+      "user": "lewiskendell",
+      "score": 4,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Could (and should) have been much better."
+    },
+    {
+      "user": "marlawoods",
+      "score": 8,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Dream House perfect name for a distraught father/husband living in a \"dream\" world,"
+    },
+    {
+      "user": "Lloyd Bayer",
+      "score": 4,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Seriously?"
+    },
+    {
+      "user": "gradyharp",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Things are not always as they seem...."
+    },
+    {
+      "user": "vitor-fernandes1983",
+      "score": 7,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Unexpected"
+    },
+    {
+      "user": "cmoyton",
+      "score": 1,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "He sees dead people and they see him"
+    },
+    {
+      "user": "JTVelez",
+      "score": 8,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Trailer misleading...still enjoyed the movie!"
+    },
+    {
+      "user": "Gregory Mucci (muccigreg@gmail.com)",
+      "score": 3,
+      "review_date": {
+        "day": 22,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "After moving to the idyllic countryside from the city, a family soon realizes that their country home contains a dark and deadly secret."
+    },
+    {
+      "user": "Sherazade",
+      "score": 5,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "There just ain't no way...."
+    },
+    {
+      "user": "chris dimarino",
+      "score": 6,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Decent Movie Overshadowed By Poor Marketing"
+    },
+    {
+      "user": "brainstew89",
+      "score": 7,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Crap rating up there ^. This movie is honestly quite good!"
+    },
+    {
+      "user": "Sam Wanjere",
+      "score": 8,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Dream House (2011)"
+    },
+    {
+      "user": "Anthony D'Andrea (LexLodon)",
+      "score": 6,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "It sounded like a great storyline but the movie fell very short."
+    },
+    {
+      "user": "hello-dean09",
+      "score": 6,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "It is not a bad movie."
+    },
+    {
+      "user": "FlashCallahan",
+      "score": 9,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "I'd love a cup of tea please...."
+    },
+    {
+      "user": "razzell2",
+      "score": 8,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Dream House, a horror story with twists and turns. A Dream to watch."
+    },
+    {
+      "user": "bobbybits",
+      "score": 6,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Enjoyable"
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "score": 3,
+      "review_date": {
+        "day": 2,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Dream House"
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "score": 6,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A very uninspired horror movie that is filled with great acting.  The acting does makes the movie watchable though. I say B-"
+    },
+    {
+      "user": "cloudbuster-309-223216",
+      "score": 1,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Ludicrously unbelievable script"
+    },
+    {
+      "user": "Neil Welch",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "OK, but no better.  Craig is excellent."
+    },
+    {
+      "user": "adtrace",
+      "score": 1,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Terrible movie"
+    }
+  ],
+  "release_year": 2011,
+  "max_screens": 2664,
+  "screens_by_weekend": [
+    2661,
+    2664,
+    2172,
+    1224,
+    585,
+    330,
+    172
+  ],
+  "critic_review_count": 175,
+  "num_weekends": 7,
   "closing_date": {
-    "month": 11,
-    "__type__": "datetime.date",
     "day": 11,
-    "year": 2011
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 11
   },
-  "gross_income": 21283440,
+  "opening_weekend_screens": 2661,
+  "rating": 6.0,
+  "opening_weekend_income": 8129355,
+  "user_review_count": 138,
+  "budget": 55000000,
+  "rating_count": 48428,
+  "metascore": 35,
+  "duration": 84,
   "avg_rating_per_demo": {
     "non-us_users": 5.9,
-    "aged_45+": 6.0,
-    "females_aged_45+": 6.4,
-    "imdb_staff": 5.5,
+    "aged_30-44": 5.8,
+    "top_1000_voters": 5.4,
+    "us_users": 5.7,
     "females_under_18": 6.8,
-    "males_aged_45+": 5.9,
-    "females_aged_18-29": 6.2,
     "males_aged_30-44": 5.8,
     "females": 6.1,
     "imdb_users": 6.0,
-    "us_users": 5.7,
-    "males_under_18": 6.4,
-    "top_1000_voters": 5.4,
-    "aged_under_18": 6.6,
+    "aged_45+": 6.0,
     "males": 5.9,
+    "females_aged_45+": 6.4,
+    "females_aged_18-29": 6.2,
+    "aged_under_18": 6.6,
+    "males_under_18": 6.4,
     "males_aged_18-29": 6.1,
     "females_aged_30-44": 6.0,
-    "aged_30-44": 5.8,
+    "males_aged_45+": 5.9,
+    "imdb_staff": 5.5,
     "aged_18-29": 6.1
   },
-  "opening_weekend_date": {
-    "month": 9,
-    "__type__": "datetime.date",
-    "day": 30,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 26510,
+    "aged_30-44": 20010,
+    "top_1000_voters": 405,
+    "us_users": 8107,
+    "females_under_18": 42,
+    "males_aged_30-44": 14944,
+    "females": 12365,
+    "imdb_users": 48428,
+    "aged_45+": 4990,
+    "males": 30629,
+    "females_aged_45+": 1066,
+    "females_aged_18-29": 5899,
+    "aged_under_18": 87,
+    "males_under_18": 44,
+    "males_aged_18-29": 10748,
+    "females_aged_30-44": 4804,
+    "males_aged_45+": 3843,
+    "imdb_staff": 7,
+    "aged_18-29": 16836
   },
-  "budget_currency": "$",
-  "user_review_count": 138,
-  "metascore": 35,
-  "max_screens": 2664,
-  "duration": 84,
-  "rating_count": 48410,
-  "release_day": 30,
-  "release_month": "September",
-  "release_year": 2011,
+  "gross_income": 21283440,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 8129355,
-  "critic_review_count": 175,
-  "rating": 6.0,
-  "avg_screens": 1401.142857142857,
-  "name": "Dream House",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 30,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 9
+  }
 }

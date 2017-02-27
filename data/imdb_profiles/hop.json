@@ -1,92 +1,944 @@
 {
+  "budget_currency": "$",
+  "total_screens": 19745,
+  "rating_freq": {
+    "1": 1181,
+    "2": 874,
+    "3": 1548,
+    "4": 2641,
+    "5": 4847,
+    "6": 5480,
+    "7": 3435,
+    "8": 1823,
+    "9": 777,
+    "10": 2268
+  },
+  "release_day": 1,
   "genres": [
     "animation",
     "adventure",
     "comedy"
   ],
+  "name": "Hop",
+  "release_month": "April",
+  "avg_screens": 1974.5,
+  "imdb_user_reviews": [
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "score": 6,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Don't HOP too far."
+    },
+    {
+      "user": "jgregg42",
+      "score": 4,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "\"Hop\" is so sweet it will give you a cavity."
+    },
+    {
+      "user": "ptb-8",
+      "score": 3,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Hop away....quick."
+    },
+    {
+      "user": "numberccp",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "excellent"
+    },
+    {
+      "user": "disseminatedfm",
+      "score": 9,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Nice to have movies actually for kids"
+    },
+    {
+      "user": "jdcotton",
+      "score": 6,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Could Have Been Better"
+    },
+    {
+      "user": "twilliams76",
+      "score": 4,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Alvin and the Chipmunks with bunnies!!!"
+    },
+    {
+      "user": "Argemaluco",
+      "score": 4,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A horribly tedious film"
+    },
+    {
+      "user": "Philip Wing",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "I Want CANDY"
+    },
+    {
+      "user": "jamesantoniou",
+      "score": 10,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Great family entertainment"
+    },
+    {
+      "user": "DICK STEEL",
+      "score": 5,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A Nutshell Review: Hop"
+    },
+    {
+      "user": "Rectangular_businessman",
+      "score": 2,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "What a waste of good CGI"
+    },
+    {
+      "user": "gregeichelberger",
+      "score": 5,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Film, like Easter candy, sweet but not much nutrition to be found"
+    },
+    {
+      "user": "Bollywood_Chewbacca (celebritylargeinflamation@hotmail.com)",
+      "score": 2,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Hop: Sellout"
+    },
+    {
+      "user": "eric262003",
+      "score": 8,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Best Animation Meets Live Action Movie Since Roger Rabbit"
+    },
+    {
+      "user": "tigerstar154",
+      "score": 9,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Entertaining"
+    },
+    {
+      "user": "randomlysayinghi",
+      "score": 9,
+      "review_date": {
+        "day": 31,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Adorable for all ages :)"
+    },
+    {
+      "user": "classicsoncall",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "\"I wanna be the bunny\"."
+    },
+    {
+      "user": "eddyjawed",
+      "score": 10,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "EGGcellent film!"
+    },
+    {
+      "user": " (disneyfreak.fan@ymail.com)",
+      "score": 9,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "I want candy!!!"
+    },
+    {
+      "user": "Pumpkin_Man",
+      "score": 10,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Awesome Family Fun!!!"
+    },
+    {
+      "user": "nuhc",
+      "score": 2,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Good for kids, not good for adults"
+    },
+    {
+      "user": "Gemma Ryan",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Hoptastic!"
+    },
+    {
+      "user": "Brett Chandler (Thunderbuck)",
+      "score": 4,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "More \"Flop\" than \"Hop\""
+    },
+    {
+      "user": "henryhertzhobbit",
+      "score": 9,
+      "review_date": {
+        "day": 6,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Warm, Fuzzy Movie for Ages 2-12"
+    },
+    {
+      "user": "mattkratz (themattk@hotmail.com)",
+      "score": 8,
+      "review_date": {
+        "day": 2,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "decent"
+    },
+    {
+      "user": "richieandsam",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "It was good, but not a classic."
+    },
+    {
+      "user": "lisafordeay",
+      "score": 4,
+      "review_date": {
+        "day": 3,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "If you are a kid at heart and is childlike well this is for you if not then avoid"
+    },
+    {
+      "user": "aesgaard41",
+      "score": 6,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Hop (Too Far On An Unoriginal Idea)"
+    },
+    {
+      "user": "missmomosa",
+      "score": 6,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Well, it's not THAT bad"
+    },
+    {
+      "user": "Robert",
+      "score": 7,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Well, it was funny, that's for sure!"
+    },
+    {
+      "user": "Jerome Hackl",
+      "score": 10,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Definitely for Kids"
+    },
+    {
+      "user": "Marilyn Carien",
+      "score": 10,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Sweet and meaningful too"
+    },
+    {
+      "user": "chirpling",
+      "score": 5,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Nothing special"
+    },
+    {
+      "user": "Alex Gifford",
+      "score": 1,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Drivel. A failed attempt to make a Christmas movie out of Easter."
+    },
+    {
+      "user": "TastesLikePanda",
+      "score": 1,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Horrible. Not good for kids or adults."
+    },
+    {
+      "user": "moviexclusive",
+      "score": 6,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Cute bunny + cute chicks \u0096 if that's good enough for you, then hop, don't walk, to see this"
+    },
+    {
+      "user": "Georgian Stanescu",
+      "score": 9,
+      "review_date": {
+        "day": 18,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Great film, most enjoyable. However no need for Playboy Mansion scene."
+    },
+    {
+      "user": "ofpsmith",
+      "score": 6,
+      "review_date": {
+        "day": 28,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Two overused plots for the price of one."
+    },
+    {
+      "user": "David Arnold",
+      "score": 4,
+      "review_date": {
+        "day": 24,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Pretty Mediocre Family Romp"
+    },
+    {
+      "user": "FlashCallahan",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "It's watermelon...."
+    },
+    {
+      "user": "ironhorse_iv",
+      "score": 5,
+      "review_date": {
+        "day": 31,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Hopping Mad like a March Hare."
+    },
+    {
+      "user": "Mihai Pop",
+      "score": 3,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Product placement overload"
+    },
+    {
+      "user": "Amy Adler",
+      "score": 6,
+      "review_date": {
+        "day": 31,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Hop is tops in animation beauty and has a good cast but only a middlin to fair story; families will still like it very much"
+    },
+    {
+      "user": "James  (iReviewFilms)",
+      "score": 5,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Fanaticalaboutfilms Review: Hop"
+    },
+    {
+      "user": "meeza (themeezaman@hotmail.com)",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Most of this is worth hopping away from except Brand and Azaria"
+    },
+    {
+      "user": "Neil Welch",
+      "score": 7,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Good kids' pic"
+    },
+    {
+      "user": "thekyles99",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "I knew this flick was going to be a winner!"
+    },
+    {
+      "user": "Daniella D",
+      "score": 6,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Loved it."
+    },
+    {
+      "user": "Justint0815",
+      "score": 1,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "The Definition Of Crap"
+    },
+    {
+      "user": "rocketry101",
+      "score": 1,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Lousy movie trying to make a Christmas snag for Easter!"
+    },
+    {
+      "user": "jonnyhavey",
+      "score": 2,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "The British Bunny: Christmas Again?"
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 5,
+      "review_date": {
+        "day": 4,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "James Marsden too old for slacker role"
+    },
+    {
+      "user": "Zoooma",
+      "score": 6,
+      "review_date": {
+        "day": 22,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Rip off of Christmas"
+    },
+    {
+      "user": "KGinColo",
+      "score": 3,
+      "review_date": {
+        "day": 26,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Don't Bother"
+    },
+    {
+      "user": "crecentroll",
+      "score": 5,
+      "review_date": {
+        "day": 25,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Great For Kids"
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "score": 5,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Hop"
+    },
+    {
+      "user": "bob_bear",
+      "score": 1,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A Bad Egg"
+    },
+    {
+      "user": "Dillon Harris",
+      "score": 8,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "A great family film with a great  voice cast,"
+    },
+    {
+      "user": "paudie",
+      "score": 5,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Even The Hoff can't save Hop!"
+    },
+    {
+      "user": "whitehorse1914",
+      "score": 4,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Prodigal Son"
+    },
+    {
+      "user": "Jason Rivera",
+      "score": 8,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Awesome Cute Rabbit movie\u0085..But the last 36 minutes\u0085 -__-"
+    },
+    {
+      "user": "Bethany Lawrence",
+      "score": 4,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Weak....Contains spoilers"
+    },
+    {
+      "user": "barrettcolin1",
+      "score": 3,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Great Easter Movie ??????????????not??????????????????"
+    },
+    {
+      "user": "lkl6411",
+      "score": 5,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Kids were bored"
+    },
+    {
+      "user": "james1844",
+      "score": 4,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "It Tries But Fails to Tell A Story"
+    },
+    {
+      "user": "kosmasp",
+      "score": 4,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Bunny Power"
+    },
+    {
+      "user": "SnakesOnAnAfricanPlain",
+      "score": 4,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Hop (2011)"
+    },
+    {
+      "user": "raypaquin",
+      "score": 1,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "What a waste!"
+    },
+    {
+      "user": "bkrauser-81-311064",
+      "score": 3,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "More Than a Hare Off."
+    },
+    {
+      "user": "sourgurl758",
+      "score": 10,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Super Cute and Funny"
+    },
+    {
+      "user": "benzak18",
+      "score": 8,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "What a wonderful surprise"
+    },
+    {
+      "user": "rainmaker_freefall",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Best new family film I've seen in a looong time"
+    },
+    {
+      "user": "ivo_shandor",
+      "score": 1,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Charming? Yeah right...."
+    },
+    {
+      "user": "asmetana-17-568269",
+      "score": 9,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Great movie even for older people"
+    },
+    {
+      "user": "TheLittleSongbird",
+      "score": 8,
+      "review_date": {
+        "day": 31,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "An Easter treat for the whole family"
+    }
+  ],
+  "release_year": 2011,
+  "max_screens": 3616,
+  "screens_by_weekend": [
+    3579,
+    3616,
+    3608,
+    3616,
+    3176,
+    902,
+    459,
+    354,
+    245,
+    190
+  ],
+  "critic_review_count": 154,
   "num_weekends": 10,
-  "rating_freq": {
-    "1": 1181,
-    "2": 874,
-    "3": 1549,
-    "4": 2642,
-    "5": 4847,
-    "6": 5480,
-    "7": 3435,
-    "8": 1822,
-    "9": 777,
-    "10": 2268
-  },
-  "budget": 63000000,
-  "votes_per_demo": {
-    "non-us_users": 12483,
-    "aged_45+": 2186,
-    "females_aged_45+": 473,
-    "imdb_staff": 6,
-    "females_under_18": 68,
-    "males_aged_45+": 1685,
-    "females_aged_18-29": 3725,
-    "males_aged_30-44": 6213,
-    "females": 6696,
-    "imdb_users": 24875,
-    "us_users": 4763,
-    "males_under_18": 152,
-    "top_1000_voters": 276,
-    "aged_under_18": 222,
-    "males": 15108,
-    "males_aged_18-29": 6595,
-    "females_aged_30-44": 2120,
-    "aged_30-44": 8402,
-    "aged_18-29": 10410
-  },
   "closing_date": {
-    "month": 6,
-    "__type__": "datetime.date",
     "day": 10,
-    "year": 2011
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 6
   },
-  "gross_income": 108012170,
+  "opening_weekend_screens": 3579,
+  "rating": 5.5,
+  "opening_weekend_income": 1392740,
+  "user_review_count": 82,
+  "budget": 63000000,
+  "rating_count": 24874,
+  "metascore": 41,
+  "duration": 95,
   "avg_rating_per_demo": {
     "non-us_users": 5.4,
-    "aged_45+": 5.5,
-    "females_aged_45+": 6.2,
-    "imdb_staff": 5.1,
+    "aged_30-44": 5.3,
+    "top_1000_voters": 4.8,
+    "us_users": 5.4,
     "females_under_18": 6.5,
-    "males_aged_45+": 5.4,
-    "females_aged_18-29": 6.0,
     "males_aged_30-44": 5.2,
     "females": 6.0,
     "imdb_users": 5.5,
-    "us_users": 5.4,
-    "males_under_18": 5.3,
-    "top_1000_voters": 4.8,
-    "aged_under_18": 5.6,
+    "aged_45+": 5.5,
     "males": 5.3,
+    "females_aged_45+": 6.2,
+    "females_aged_18-29": 6.0,
+    "aged_under_18": 5.6,
+    "males_under_18": 5.3,
     "males_aged_18-29": 5.4,
     "females_aged_30-44": 5.9,
-    "aged_30-44": 5.3,
+    "males_aged_45+": 5.4,
+    "imdb_staff": 5.1,
     "aged_18-29": 5.6
   },
-  "opening_weekend_date": {
-    "month": 4,
-    "__type__": "datetime.date",
-    "day": 1,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 12482,
+    "aged_30-44": 8406,
+    "top_1000_voters": 276,
+    "us_users": 4764,
+    "females_under_18": 68,
+    "males_aged_30-44": 6216,
+    "females": 6695,
+    "imdb_users": 24874,
+    "aged_45+": 2185,
+    "males": 15108,
+    "females_aged_45+": 472,
+    "females_aged_18-29": 3724,
+    "aged_under_18": 223,
+    "males_under_18": 153,
+    "males_aged_18-29": 6591,
+    "females_aged_30-44": 2121,
+    "males_aged_45+": 1685,
+    "imdb_staff": 6,
+    "aged_18-29": 10405
   },
-  "budget_currency": "$",
-  "user_review_count": 82,
-  "metascore": 41,
-  "max_screens": 3616,
-  "duration": 95,
-  "rating_count": 24875,
-  "release_day": 1,
-  "release_month": "April",
-  "release_year": 2011,
+  "gross_income": 108012170,
   "opening_weekend_income_currency": "\u00a3",
-  "opening_weekend_income": 1392740,
-  "critic_review_count": 154,
-  "rating": 5.5,
-  "avg_screens": 1974.5,
-  "name": "Hop",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 1,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 4
+  }
 }

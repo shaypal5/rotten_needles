@@ -1,91 +1,1456 @@
 {
-  "critic_review_count": 280,
-  "year": 2012,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 3,
-    "day": 8
-  },
-  "release_month": "February",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 2,
-    "day": 1
-  },
-  "metascore": 48,
-  "max_screens": 2404,
-  "duration": 92,
-  "rating_count": 40470,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 6,
+  "release_day": 1,
   "avg_rating_per_demo": {
+    "aged_45+": 5.8,
+    "top_1000_voters": 5.4,
+    "males_under_18": 6.6,
+    "imdb_staff": 6.2,
+    "males_aged_18-29": 5.9,
+    "imdb_users": 5.7,
+    "males_aged_45+": 5.8,
+    "aged_18-29": 5.9,
+    "us_users": 5.7,
+    "females_aged_30-44": 5.5,
+    "males": 5.7,
+    "females": 5.7,
+    "females_aged_45+": 5.9,
     "non-us_users": 5.7,
     "females_aged_18-29": 6.0,
-    "females": 5.7,
-    "aged_45+": 5.8,
     "females_under_18": 3.6,
-    "imdb_users": 5.7,
-    "imdb_staff": 6.2,
-    "females_aged_30-44": 5.5,
-    "aged_under_18": 6.3,
-    "males_aged_30-44": 5.6,
-    "top_1000_voters": 5.4,
     "aged_30-44": 5.6,
-    "males_aged_18-29": 5.9,
-    "males": 5.7,
-    "females_aged_45+": 5.9,
-    "males_under_18": 6.6,
-    "us_users": 5.7,
-    "males_aged_45+": 5.8,
-    "aged_18-29": 5.9
+    "aged_under_18": 6.3,
+    "males_aged_30-44": 5.6
   },
-  "user_review_count": 132,
-  "rating_freq": {
-    "1": 929,
-    "2": 798,
-    "3": 1718,
-    "4": 3687,
-    "5": 8505,
-    "6": 11527,
-    "7": 6997,
-    "8": 2739,
-    "9": 903,
-    "10": 2667
+  "closing_date": {
+    "month": 3,
+    "year": 2013,
+    "day": 8,
+    "__type__": "datetime.date"
+  },
+  "metascore": 48,
+  "num_weekends": 6,
+  "rating_count": 40481,
+  "gross_income": 9483821,
+  "max_screens": 2404,
+  "opening_weekend_screens": 2404,
+  "screens_by_weekend": [
+    2404,
+    2404,
+    470,
+    105,
+    86,
+    34
+  ],
+  "opening_weekend_income": 4548201,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "Surprisingly Enjoyable",
+      "score": 7,
+      "user": "champjohnson29",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining and Bloody",
+      "score": 7,
+      "user": "Elspode",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If You Like Stallone, You'll Like This",
+      "score": 6,
+      "user": "A K",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It almost feels like you've been thrown back in time to the 80s or early 90s!",
+      "score": 8,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I have a hankering to see it again, myself, as a matter of fact.",
+      "score": 7,
+      "user": "TheUnknown837-1",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Classic video game script made into an action movie",
+      "score": 6,
+      "user": "hansjs",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic action movie",
+      "score": 9,
+      "user": "TdSmth5",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Despite the Clich\u00e9s, a Good and Funny Action Movie",
+      "score": 7,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watched the movie expecting absolutely nothing, came out having a good time",
+      "score": 7,
+      "user": "illbebackreviews",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stallone is back...unfortunately the script got lost",
+      "score": 7,
+      "user": "p-jonsson",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blackberry to the Head",
+      "score": 3,
+      "user": "jamestheklein",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Slyvester Stallone film that continues his emotional hit-man path, which makes you question if this is connected to the Expendables.",
+      "score": 8,
+      "user": "Hunter Candelaria",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sylvester Stallone proves he's still got it in \"Bullet to the Head\"",
+      "score": 8,
+      "user": "ersinkdotcom",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hit-man flicks never get old",
+      "score": 8,
+      "user": "unemployedvirgin",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stallone is one of the few actors who stays within his acting limits. Stallone fans will enjoy this, I did. I say B.",
+      "score": 6,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "his best since Rocky",
+      "score": 8,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not even suitable for TV",
+      "score": 1,
+      "user": "coljam21",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exactly what you are looking for in this kind of film...  Blu-ray: Excellent A:10 V:10",
+      "score": 9,
+      "user": "lathe-of-heaven",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very bad, don't waste your money",
+      "score": 2,
+      "user": "Vinegaroon3",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When I want your opinion, I will buy you a brain.",
+      "score": 6,
+      "user": "Ben Larson",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Harmless Retro",
+      "score": 5,
+      "user": "jonathon_naylor",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bullets On The Brain.",
+      "score": 6,
+      "user": "dunmore_ego",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Throwback To The 80's!",
+      "score": 9,
+      "user": "g-bodyl",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Forgettable, but this is a fairly fun vehicle for Stallone.",
+      "score": 6,
+      "user": "callanvass",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did you see that?",
+      "score": 6,
+      "user": "botrytis",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sleazy action throwback",
+      "score": 6,
+      "user": "Fluke_Skywalker",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "toke me 1 million years just to wait for this movie but i love it this is like Assassins 2",
+      "score": 10,
+      "user": "nikola17",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Give me a bullet to the head",
+      "score": 1,
+      "user": "dave_kent9",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fails even as B-Movie Action Fare",
+      "score": 4,
+      "user": "My_Pet_Mongoose",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "WWM (World's Worst Movie)",
+      "score": 1,
+      "user": "mardermj",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Casey's Movie Mania: BULLET TO THE HEAD (2013)",
+      "score": 4,
+      "user": "caseymoviemania",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Completely average:  Walter Hill where have you gone?",
+      "score": 4,
+      "user": "LordJiggy (thegriffstr@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stallone is old and needs money",
+      "score": 3,
+      "user": "Martin Varga",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A sloppy and outdated return for Stallone and Hill",
+      "score": 4,
+      "user": "freemantle_uk",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better than you might think!!",
+      "score": 8,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is really fantastic comic-like movie! Classic!",
+      "score": 8,
+      "user": "hefal-54459",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another film that indicts Hollywood for its lack of respect for film goers",
+      "score": 1,
+      "user": "markwoo",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "nothing new",
+      "score": 5,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yes it will keep your attention, and yes it most likely entertain you to the point of laughter, but I don't think that was 'Bullet to the Head's' intention.",
+      "score": 4,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Power packed.",
+      "score": 7,
+      "user": "Imperial_ban",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Title Says It All.",
+      "score": 4,
+      "user": "Robert J. Maxwell (rmax304823@yahoo.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite an enjoyable story despite the lacking acting quality",
+      "score": 6,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bullet to the Head",
+      "score": 5,
+      "user": "Scarecrow-88",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good",
+      "score": 7,
+      "user": "Harriet Deltubbo",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "48 Hours for the millennium generation...",
+      "score": 6,
+      "user": "Emosjrny",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hit-man Stallone joins forces with cop Kang to find a double-crosser",
+      "score": 6,
+      "user": "msroz",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bullet to the Head-Blows Your Mind *1/2",
+      "score": 3,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's OK",
+      "score": 5,
+      "user": "smartinmoorcroft",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bullets that do not always fire",
+      "score": 4,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bullet to the head..and Egg on the face!",
+      "score": 3,
+      "user": "zzorn88",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Vintage Stallone!",
+      "score": 7,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very disappointing!",
+      "score": 3,
+      "user": "petarmatic",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "yet another action heavy thrill ride from sly stone :-), this movie is what parker should've looked like",
+      "score": 10,
+      "user": "darthsitkur",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Terrific,Explosive Action-Thriller From Walter Hill And Sylvester Stallone.",
+      "score": 9,
+      "user": "jcbutthead86",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enough Action to keep you Entertained",
+      "score": 7,
+      "user": "Floated2",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Bullet Bites",
+      "score": 3,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite enjoyable 80s throwback",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stallone and Hill should have met sooner!",
+      "score": 7,
+      "user": "Dan Ashley (DanLives1980)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing new, but not bad",
+      "score": 7,
+      "user": " (bob-rutzel-1)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Welcome Back Walter Hill",
+      "score": 7,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stallone is back... to making good movies !",
+      "score": 10,
+      "user": "basil-grimes",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I thought it was good.",
+      "score": 8,
+      "user": "Thomas Ferreira",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stallone delivers with Bullet to the Head.",
+      "score": 7,
+      "user": "Alain Minsart",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\" That's like saying, my favorite Italian Food is Tacos \"",
+      "score": 7,
+      "user": "thinker1691",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews",
+      "score": 4,
+      "user": "capone666",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "good action revenge flick",
+      "score": 6,
+      "user": "bilal abbasi",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Stallone film for decades!",
+      "score": 10,
+      "user": "Tom Lauzon",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neither the Charm of the 80s nor the Slickness of Today. AVOID!",
+      "score": 3,
+      "user": "Mr Bounce",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surely above average... At times good",
+      "score": 7,
+      "user": "Bene Cumb",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Adult action movie that is worth a watch",
+      "score": 7,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stallone is still a bad-ass",
+      "score": 7,
+      "user": "Ronaldo Rivera",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No Gun to my Head...to Write This",
+      "score": 8,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Straight action movie done well",
+      "score": 7,
+      "user": "siderite",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A pretty good movie",
+      "score": 7,
+      "user": "steve-668-198948",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "They should stop making action movies like this. Thats for sure.",
+      "score": 1,
+      "user": "yasantha78-703-583744",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You May Want A Bullet to the Head",
+      "score": 2,
+      "user": "Greg (gregmoroberts@yahoo.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rambo Meets the New Conan!!!",
+      "score": 10,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stallone Should Stop Medling",
+      "score": 6,
+      "user": "slightlymad22",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An incredibly unfortunate mess",
+      "score": 5,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just decent.",
+      "score": 5,
+      "user": "Bruce722",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bullet to the head is starting to sound like a good plan...",
+      "score": 5,
+      "user": "Paul Magne Haakonsen",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that bad as people say",
+      "score": 1,
+      "user": "Maziun",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun updating of 48 Hrs.",
+      "score": 6,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If only we were still in the 80's",
+      "score": 4,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very very average and forgettable.",
+      "score": 5,
+      "user": "richieandsam",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When the interchangeable starts to get its own identity",
+      "score": 7,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Walter Hill Dark Buddy Flick",
+      "score": 6,
+      "user": "AudioFileZ",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Middling Stallone stuff, made less impressive by Hill's involvement (that is, don't we expect more?)",
+      "score": 5,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "They don't make action movies like this anymore, thats for sure",
+      "score": 8,
+      "user": "851222",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Solid Actioner for Stallone",
+      "score": 8,
+      "user": "Sean Jump",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unwatchable",
+      "score": 1,
+      "user": "Kam Ali",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Retire the Old Fogies.....or lose more millions",
+      "score": 1,
+      "user": "johos3",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "derivative 80's b-movie mayhem",
+      "score": 5,
+      "user": "fritzlang",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bullet To The Head is great and a must for action fans",
+      "score": 8,
+      "user": "dworldeater",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Truthfully I enjoyed this way more than I expected to",
+      "score": 8,
+      "user": "juneebuggy",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A nice little compendium piece to the Expendables",
+      "score": 7,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly good!",
+      "score": 7,
+      "user": "schuster_mark",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The brainless Macho flick",
+      "score": 3,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run-Of-The-Mill Poppycock \u2666 33%",
+      "score": 3,
+      "user": "Tejas Nair",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lazy script and Poor Chemistry",
+      "score": 4,
+      "user": "jmcfrancis",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stallone and Hill team up for big disappointment",
+      "score": 5,
+      "user": "milstar",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst on screen chemistry ever",
+      "score": 1,
+      "user": "Johnny Utah",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sly and Walter not yet over the Hill",
+      "score": 8,
+      "user": "cultfilmfreaksdotcom",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is pretty good, but it could have been better if . . .",
+      "score": 7,
+      "user": "Tad Pole",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As fun as an axe fight!",
+      "score": 7,
+      "user": "mm-39",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Someone Bought the Brain of Everyone in this film",
+      "score": 2,
+      "user": "in1984",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sly and Hill return for a short sharp vacation in Noir-Land",
+      "score": 7,
+      "user": "Sergio Campanale",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love Stallone but........",
+      "score": 5,
+      "user": "Jason Jones",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A complete waste of time",
+      "score": 4,
+      "user": "lagudafuad",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great one!! Sly hits the mark!!",
+      "score": 8,
+      "user": "ricardopthomaz",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Stallone's best",
+      "score": 4,
+      "user": "Christopher Smith",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumb fun in a B-movie sort of way",
+      "score": 5,
+      "user": "MovieAddict2016",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heres forty bucks, I'll bring my own bottle.",
+      "score": 6,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nope, Stallone's done,",
+      "score": 3,
+      "user": "Mandavya Kapoor",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stallone turns back the clock",
+      "score": 10,
+      "user": "hadysalem5",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A (Surprisingly) Incredibly Funny Movie",
+      "score": 10,
+      "user": "Maeve T",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bullet to the Head",
+      "score": 5,
+      "user": "Jackson Booth-Millard",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Above average Stallone effort",
+      "score": 7,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Itz cool that Sly Stallone can still get out there in front of the camera but . . .",
+      "score": 5,
+      "user": "cricket crockett",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Nutshell Review: Bullet to the Head",
+      "score": 6,
+      "user": "DICK STEEL",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tolerable action thriller",
+      "score": 7,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stallone is the only reason to watch this stillborn actioner",
+      "score": 8,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "nothing I have not suspected",
+      "score": 5,
+      "user": "j-m2002",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 92,
+  "votes_per_demo": {
+    "aged_45+": 4464,
+    "top_1000_voters": 391,
+    "males_under_18": 42,
+    "imdb_staff": 4,
+    "males_aged_18-29": 10298,
+    "imdb_users": 40481,
+    "males_aged_45+": 4041,
+    "aged_18-29": 11096,
+    "us_users": 5945,
+    "females_aged_30-44": 935,
+    "males": 33462,
+    "females": 2176,
+    "females_aged_45+": 350,
+    "non-us_users": 22333,
+    "females_aged_18-29": 714,
+    "females_under_18": 6,
+    "aged_30-44": 18563,
+    "aged_under_18": 48,
+    "males_aged_30-44": 17436
   },
   "genres": [
     "action",
     "thriller"
   ],
-  "budget": 55000000,
-  "rating": 5.7,
-  "name": "Bullet to the Head",
-  "opening_weekend_income": 4548201,
-  "avg_screens": 917.1666666666666,
-  "gross_income": 9483821,
-  "votes_per_demo": {
-    "non-us_users": 22332,
-    "females_aged_18-29": 714,
-    "females": 2176,
-    "aged_45+": 4461,
-    "females_under_18": 6,
-    "imdb_users": 40470,
-    "imdb_staff": 4,
-    "females_aged_30-44": 936,
-    "aged_under_18": 48,
-    "males_aged_30-44": 17429,
-    "top_1000_voters": 391,
-    "aged_30-44": 18557,
-    "males_aged_18-29": 10299,
-    "males": 33453,
-    "females_aged_45+": 349,
-    "males_under_18": 42,
-    "us_users": 5940,
-    "males_aged_45+": 4039,
-    "aged_18-29": 11097
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 929,
+    "2": 798,
+    "3": 1719,
+    "4": 3687,
+    "5": 8508,
+    "6": 11531,
+    "7": 6998,
+    "8": 2740,
+    "9": 903,
+    "10": 2668
   },
-  "release_year": 2013,
+  "release_month": "February",
+  "budget": 55000000,
   "budget_currency": "$",
-  "release_day": 1
+  "total_screens": 5503,
+  "year": 2012,
+  "rating": 5.7,
+  "critic_review_count": 280,
+  "opening_weekend_date": {
+    "month": 2,
+    "year": 2013,
+    "day": 1,
+    "__type__": "datetime.date"
+  },
+  "name": "Bullet to the Head",
+  "user_review_count": 132,
+  "avg_screens": 917.1666666666666
 }

@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 3,
-    "year": 2015,
-    "day": 13,
-    "__type__": "datetime.date"
+  "release_day": 13,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.6,
+    "top_1000_voters": 6.2,
+    "males_under_18": 7.2,
+    "imdb_staff": 7.0,
+    "males_aged_18-29": 6.6,
+    "imdb_users": 6.6,
+    "males_aged_45+": 6.6,
+    "aged_18-29": 6.6,
+    "us_users": 6.5,
+    "females_aged_30-44": 6.4,
+    "males": 6.6,
+    "females": 6.5,
+    "females_aged_45+": 6.8,
+    "non-us_users": 6.5,
+    "females_aged_18-29": 6.6,
+    "females_under_18": 7.5,
+    "aged_30-44": 6.5,
+    "aged_under_18": 7.2,
+    "males_aged_30-44": 6.5
   },
   "closing_date": {
     "month": 5,
@@ -11,82 +27,2257 @@
     "day": 1,
     "__type__": "datetime.date"
   },
-  "rating": 6.6,
-  "num_weekends": 7,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 641,
-    "2": 438,
-    "3": 886,
-    "4": 2336,
-    "5": 7708,
-    "6": 22001,
-    "7": 27257,
-    "8": 11964,
-    "9": 3554,
-    "10": 4335
-  },
-  "avg_screens": 1504.142857142857,
-  "budget": 50000000,
-  "budget_currency": "$",
-  "release_day": 13,
   "metascore": 59,
+  "num_weekends": 7,
+  "rating_count": 81147,
+  "gross_income": 26442251,
+  "max_screens": 3171,
+  "opening_weekend_screens": 3171,
+  "screens_by_weekend": [
+    3171,
+    3171,
+    2377,
+    1015,
+    422,
+    218,
+    155
+  ],
+  "opening_weekend_income": 11012305,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Great action film",
+      "score": 8,
+      "user": "ahbindare",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Your Run Of The Mill Liam Movie.... I'm Very Impressed",
+      "score": 9,
+      "user": "poopiter",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A immensely satisfying blend of gripping mob drama and thrilling action setpieces that is easily Liam Neeson's most credible work in recent years",
+      "score": 7,
+      "user": "moviexclusive",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As long as you're coming after Michael, I'm coming after you.",
+      "score": 8,
+      "user": "CowherPowerForever",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam Neeson's BEST ACTION movie to date!!!!!",
+      "score": 10,
+      "user": "Adam Baehr",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of Liam Neeson's finest!",
+      "score": 8,
+      "user": "Aodhanrooney",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "6.5/10",
+      "score": 6,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Seen it a thousand times",
+      "score": 3,
+      "user": "billypilgrim23",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "From Pure Night One Ray Of Light",
+      "score": 7,
+      "user": "ArchAngel Michael",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run All Night",
+      "score": 8,
+      "user": "Alexa Bouhelier-Ruelle",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Breathless Thriller",
+      "score": 7,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I wonder if Liam Neeson is ever going to star in a serious movie again.",
+      "score": 5,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More Baddies Buried",
+      "score": 2,
+      "user": "westsideschl",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Standard Gritty Bloodbath",
+      "score": 6,
+      "user": "Mek Torres",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tiring Clich\u00e9s and Same Old Formula All Over, Only Blandly Executed.",
+      "score": 5,
+      "user": "prospectus_capricornium",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gritty And Predictable",
+      "score": 6,
+      "user": "Tim Spear",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of Run All Night",
+      "score": 7,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent and worth seeing too many times.",
+      "score": 10,
+      "user": "basilbenaz",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly, not dreadful",
+      "score": 5,
+      "user": "InaneSwine",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run All Night",
+      "score": 2,
+      "user": "dale-51649",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "maybe with a different lineup?",
+      "score": 5,
+      "user": "WoodBangers Entertainment",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "''ROAD TO PERDITION\" Revision",
+      "score": 5,
+      "user": "draft29",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Truly One Of Liam Neeson's Best Action Films",
+      "score": 9,
+      "user": "eric262003",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did I see the right thriller?",
+      "score": 4,
+      "user": "Luigi Di Pilla",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Walk away all day",
+      "score": 1,
+      "user": " (nfc14g@gmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Keep Running",
+      "score": 5,
+      "user": "italianredneckgirl",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This could have been a classic",
+      "score": 5,
+      "user": "jonnytheshirt",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crossing that line (together)",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a bad action flick, just a tired and predictable story.",
+      "score": 4,
+      "user": "sanman-08234",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Take That \"Taken 3\" !",
+      "score": 9,
+      "user": "851222",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a deceptively good film - with astonishing direction",
+      "score": 8,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Run All Night\" Delivers As A Quality Adult Action Film",
+      "score": 7,
+      "user": "A K",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I actually enjoyed a new Liam Neeson action movie.. For real...",
+      "score": 7,
+      "user": "Kieran Battams",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run All Night makes good use of the actors' charisma and the sordid gangster tone in creating a fray from dusk till dawn.",
+      "score": 7,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a little more character meat on this programmer's bones",
+      "score": 7,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Taught, punchy and gritty thriller - an unexpected treat",
+      "score": 8,
+      "user": "Hugh Djwange",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Mob Hit Man Marked for Death",
+      "score": 6,
+      "user": "Uriah43",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's all starting to feel a bit the same",
+      "score": 6,
+      "user": "jtindahouse",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "6.6/10 This really good action thriller should be a 8/10",
+      "score": 8,
+      "user": "sarahayre-23320",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thrilling, Albeit Typical,",
+      "score": 6,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful photography",
+      "score": 7,
+      "user": "drjgardner",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Surprisingly Great Action Drama",
+      "score": 8,
+      "user": "hegedus_dani02",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jimmy's coming.......",
+      "score": 5,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "****",
+      "score": 10,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "jimmy gets lucky",
+      "score": 7,
+      "user": "mahesh dasari",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "And Into the wee hours of the morning",
+      "score": 6,
+      "user": "kapelusznik18",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not perfect, but a much worthier action thriller than many others",
+      "score": 7,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good solid action film",
+      "score": 7,
+      "user": "alindsay-al",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's better than \"Taken 3\"...by a lot.",
+      "score": 7,
+      "user": "John Plocar",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Very Good Crime Thriller",
+      "score": 8,
+      "user": "jdenham1986",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run All Night promises to deliver action and on that it delivers. But it doesn't leave any lasting impressions",
+      "score": 5,
+      "user": "Lundgrenja",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "very very unrealistic",
+      "score": 3,
+      "user": "Lorrie Santos",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No sin goes unpunished in this life.",
+      "score": 10,
+      "user": "feakes",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Suspenseful From Start to Finish",
+      "score": 10,
+      "user": "wmcg001",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cinema is alive and well!",
+      "score": 9,
+      "user": "Michael Waterman (dutch-waterman)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chases, gun battles, more chases...",
+      "score": 4,
+      "user": "drbarbc-526-517466",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neeson In Night Town.",
+      "score": 6,
+      "user": "Robert J. Maxwell (rmax304823@yahoo.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run All Night.",
+      "score": 6,
+      "user": "2fresh 2clean",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's good, but that's it",
+      "score": 6,
+      "user": "api89",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Full of action and intense drama. 6/10",
+      "score": 6,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fun 1980's like thriller",
+      "score": 6,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Geeky Randy's summary",
+      "score": 5,
+      "user": "Geeky Randy",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a bad movie at all, but I'm almost over Liam Neeson in action movies.",
+      "score": 5,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very much a 'lesser' Neeson actioner, but an enjoyable one nonetheless",
+      "score": 6,
+      "user": "jimbo-53-186511",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Check your brain at the door",
+      "score": 3,
+      "user": "Bobba Fett",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Comforting action",
+      "score": 7,
+      "user": "chris",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch it All Night",
+      "score": 9,
+      "user": "will-stevenson5",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Drama Taken",
+      "score": 6,
+      "user": "peter-bruck",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "worth watching",
+      "score": 9,
+      "user": "singhkamalthakur (singhkamalthakur77@gmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Excellent Collet-Serra/Neesom Action/Thriller",
+      "score": 7,
+      "user": "David Arnold",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome, Awesme, Awesome",
+      "score": 9,
+      "user": "Eric_Cubed",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Thriller with a touch of Compassion",
+      "score": 9,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Redemption road",
+      "score": 4,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good movie with a strong soundtrack",
+      "score": 7,
+      "user": "Schuriken",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just a fun action movie",
+      "score": 7,
+      "user": "Gianluca Marzano",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It is the same and then again not at all",
+      "score": 8,
+      "user": "Ole Sandbaek Joergensen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam Neeson is not getting tired after all these running",
+      "score": 8,
+      "user": "andrewshieh0712",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hit-man Liam Neeson against Ed Harris on behalf of his estranged son, Joel Kinnaman",
+      "score": 7,
+      "user": "msroz",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't get fooled by ratings, this is one of 2015's best action movies!",
+      "score": 9,
+      "user": "laantim",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run All Right",
+      "score": 8,
+      "user": "fung0",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "only if u are a fan of action movies or Liam neeson",
+      "score": 8,
+      "user": "khudra-chakra",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thrilling and entertaining!",
+      "score": 7,
+      "user": "Dhanu Kemathas",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Average at best",
+      "score": 6,
+      "user": "TdSmth5",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Almost perfect movie with a major goof",
+      "score": 8,
+      "user": "gflugaj",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Somewhat Underrated\u0085A Violent \"Family\" Movie that Delivers",
+      "score": 8,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heat of the crime legacy vs Warmth of the family bonds.",
+      "score": 9,
+      "user": "demcreative",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Admirable and fantastic composition, transitions and cast!",
+      "score": 10,
+      "user": "Stephan Ejrup Juul Nielsen",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Way better than Taken 3!",
+      "score": 8,
+      "user": "autisticreviewers",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Forgettable and pointless, Run All Night is all but unnecessary",
+      "score": 5,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I don't understand the low ratings by some users",
+      "score": 8,
+      "user": "dsoul27-40-298932",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable despite flaws",
+      "score": 6,
+      "user": "utgard14",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Old man badass strikes again.",
+      "score": 7,
+      "user": "va_wulf",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the precious action movie in my collection",
+      "score": 10,
+      "user": "Kalyan Saha",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I can watch anything with Liam Nesson and his 'Run All Night' is one of the better action-thriller movies.",
+      "score": 8,
+      "user": "almufaw",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam Neeson might be getting too old for this s***",
+      "score": 6,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How can you not like it?",
+      "score": 9,
+      "user": "Secret Svice",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Definitely worth a watch",
+      "score": 8,
+      "user": "MC Dee Lusional (deelusionalmusic)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An amazing story...",
+      "score": 7,
+      "user": "palavitsinis",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Imagine a Liam Neeson action movie. Got the picture in your head? It's exactly like that...",
+      "score": 6,
+      "user": " Bohemian81",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining crime-drama-thriller with some decent action",
+      "score": 8,
+      "user": "Finfrosk86",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, but not quite character-driven and not quite plot-driven",
+      "score": 8,
+      "user": "Gino Cox",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good action movie",
+      "score": 8,
+      "user": "benh-91022",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam Neeson and Jaume Collet-Serrado it again, better than before",
+      "score": 8,
+      "user": "nick king",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Liam Neeson movie with - surprisingly - good parts.",
+      "score": 7,
+      "user": "Mateo Forero",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not conceptual, but a versatile action",
+      "score": 8,
+      "user": "Bene Cumb",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run all night-",
+      "score": 8,
+      "user": "jamesgair",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jimmy you look like a damn castaway",
+      "score": 8,
+      "user": "CraZymovieWatcher .",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam Neeson not starring God?",
+      "score": 8,
+      "user": "Rudolf Ravbar",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Your everyday action film",
+      "score": 6,
+      "user": "peterhill-84900",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam on another killing spree",
+      "score": 7,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A flawed, but very entertaining action flick",
+      "score": 7,
+      "user": "Ryan Prince",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best sins-of-the-fathers revenge thrillers I've seen in a long time",
+      "score": 9,
+      "user": "www.ramascreen.com",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "hard Liam Neeson again",
+      "score": 6,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Road to Perdition Clone with a little twist",
+      "score": 7,
+      "user": "ekmawloud",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neeson is good at it, none other would've played better than him.",
+      "score": 7,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exciting, adrenaline-fueled, action-packed thrill ride",
+      "score": 8,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run all Night -- night run",
+      "score": 8,
+      "user": "Horrorliefhebber",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Liam Neeson's movie so far",
+      "score": 10,
+      "user": "stanly-joseph",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good crime drama",
+      "score": 7,
+      "user": "angesolaire",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Good Neeson Flick but was expecting more",
+      "score": 6,
+      "user": "Jab102",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The evergreen Liam Neeson...",
+      "score": 8,
+      "user": "Anirban Dey",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "High quality production of relatively standard action fare",
+      "score": 7,
+      "user": "Leigh Neil",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 5,
+      "user": "capone666",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's nothing to literally run all night for but a good sprint will do.",
+      "score": 7,
+      "user": "alex wolfman",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shitty movie don't waste your time",
+      "score": 1,
+      "user": "jamesjung-00123",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Probably the least original film in the last 20 years",
+      "score": 4,
+      "user": "luke-a-mcgowan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "puzzled why average rating is 6.7 only!",
+      "score": 10,
+      "user": "Lola Lita",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Copy of Road to perdition (2002)",
+      "score": 6,
+      "user": "alex dama",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just a good action flick",
+      "score": 6,
+      "user": "Lucas Versantvoort",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing new really offered",
+      "score": 6,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The scene that ruined the whole movie for me",
+      "score": 6,
+      "user": "eric1",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Road to Perdition\" meets \"Gungrave\"",
+      "score": 6,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love Neeson and Harris",
+      "score": 8,
+      "user": "ShelbyTMItchell",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie",
+      "score": 9,
+      "user": "jaesqueda",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam Neeson at his finest!",
+      "score": 8,
+      "user": "Mr. Potato Movies",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exciting and involving but partly irritating story",
+      "score": 6,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good action flick (Dumb name)",
+      "score": 7,
+      "user": "mohancraig",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unfortunate Title",
+      "score": 7,
+      "user": "statuskuo",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mob,Dirty Cops,Contract Killers & Liam Neeson!",
+      "score": 7,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Definitely Worth the Price of Admission",
+      "score": 7,
+      "user": "JSplend954",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neeson plays Superman again. What a drag!",
+      "score": 1,
+      "user": "nmlal68",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent crime thriller",
+      "score": 8,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neeson in an action-packed thriller. Not that surprising nowadays !",
+      "score": 6,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It seems that Liam Neeson will be busy taking revenge hi whole life!!!!!!Not a classic movie, still worth watching!!!",
+      "score": 7,
+      "user": "rajatdahiyax",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a bad movie, but nothing special either",
+      "score": 6,
+      "user": "Josiah Hilbig",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good film, could be much better",
+      "score": 7,
+      "user": "vissini95",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neeson & Harris At Their Ageing Best!",
+      "score": 7,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neeson In Fine Form",
+      "score": 6,
+      "user": "edjofsanity",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A decent film a few bad points but definitely worth a watch!!",
+      "score": 7,
+      "user": "Jackson  Clifford",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam Neeson as the usual action hero seen over the last years",
+      "score": 7,
+      "user": "antoniotierno",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Title Is Exactly What This Movie Is About",
+      "score": 7,
+      "user": "AudioFileZ",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam Neeson's \"Particular Set of Skills\" is Still Working",
+      "score": 7,
+      "user": "DareDevilKid",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A boring plot with entertaining action and characters to keep you interested",
+      "score": 6,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A solid action flick.",
+      "score": 6,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Now that's more like it",
+      "score": 7,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Triumphs over its credibility-defying premise",
+      "score": 7,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Isn't Movie Like Taken Run All Night is very Different",
+      "score": 9,
+      "user": "nikola17",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam gets better with age!",
+      "score": 8,
+      "user": "mm-39",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is good movie",
+      "score": 6,
+      "user": "Thefilmhead65411",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not surprising about Liam",
+      "score": 10,
+      "user": "blackmamba99971",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Returning to Taken's Roots Makes For A Fun Flick",
+      "score": 7,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam Neeson Does it Again",
+      "score": 8,
+      "user": "kgaillard",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Liam Neeson film (and action film in general ) I have seen in a long time",
+      "score": 8,
+      "user": "focushocuspherkscarnival",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Daddy Help Me !!",
+      "score": 8,
+      "user": "FallsDownz",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run  All  Night",
+      "score": 6,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neeson kills more people to seek redemption",
+      "score": 6,
+      "user": "abigspark",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie, Excellent actors",
+      "score": 7,
+      "user": "johnny_the_fox",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Warner Bros. invented the \"talkie\" . . .",
+      "score": 7,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An entertaining, Suspenseful Liam Neeson action film",
+      "score": 7,
+      "user": "Shane Breen",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "DHKR: Run All Night- \"And Keep your Dirty Feelings, Deep Inside\"",
+      "score": 8,
+      "user": "Clayton Holloway (Darkhorse_Knight)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No Sin Goes Unpunished",
+      "score": 8,
+      "user": "briand6465",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great action thriller",
+      "score": 9,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Run All Night\" Is The New \"State of Grace\"",
+      "score": 9,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's not good enough to be a parody -- oh sooooooo bad.",
+      "score": 1,
+      "user": "bryon",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty highly reminiscent of just about every other Liam Neeson action flick.",
+      "score": 7,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exciting movie with Clich\u00e9 Roles",
+      "score": 7,
+      "user": "ais-chuahiock",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam Neeson Strikes Again!",
+      "score": 7,
+      "user": "Jordan Madison",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Quiet Character Scenes Are The Best Bits",
+      "score": 7,
+      "user": "Theo Robertson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly good, but could have been even better",
+      "score": 7,
+      "user": "Mike Patrick",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better Then All Of The \"Taken\" Movies",
+      "score": 10,
+      "user": "thpgmc",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Taken meets the Irish mobsters",
+      "score": 5,
+      "user": "s3276169",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run Away From This Film.",
+      "score": 3,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run All Night was a well-made drama-thriller",
+      "score": 9,
+      "user": "tavm",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neeson back in good hands and good form",
+      "score": 8,
+      "user": "bankofmarquis",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a sleeper, stay tuned in",
+      "score": 9,
+      "user": "pat-46946",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very suspenseful action thriller by Liam Neeson.",
+      "score": 8,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Avoided most action clich\u00e9s",
+      "score": 9,
+      "user": "Jacobhemphill96",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The ageless Irishman is having a late career changeling as a Charles Bronson action hero",
+      "score": 5,
+      "user": "SConIrish",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watchable, but not particularly memorable",
+      "score": 5,
+      "user": "Zbigniew_Krycsiwiki",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "just saw R.A.N.,crime boss(ed Harris):'...we'll wreck his train.'   ex-hit-man on the lam(Neeson): '...I'll wreck his first.'",
+      "score": 9,
+      "user": "jwsanfrancisco",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liam Neeson destroyer of Bad Guys",
+      "score": 4,
+      "user": "mozgers",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lively old-school gangster actioner with skillful direction and killer acting by Neeson & Harris",
+      "score": 9,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie but where the heck was SAMUEL L. JACKSON..so 5 stars",
+      "score": 5,
+      "user": "mikevonbach",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining Liam Neeson action movie, nothing more, nothing less",
+      "score": 5,
+      "user": "Thomas West",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There's only one ending for the Gravedigger",
+      "score": 5,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Run All Night\" is the best gangster film since \"Goodfellas\".",
+      "score": 10,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Definitely the worst Liam Neeson movie to date.",
+      "score": 4,
+      "user": "Riley Watts",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Typical",
+      "score": 2,
+      "user": "mcr28309-274-80672",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 114,
+  "votes_per_demo": {
+    "aged_45+": 7077,
+    "top_1000_voters": 387,
+    "males_under_18": 287,
+    "imdb_staff": 4,
+    "males_aged_18-29": 23383,
+    "imdb_users": 81147,
+    "males_aged_45+": 6200,
+    "aged_18-29": 26513,
+    "us_users": 8916,
+    "females_aged_30-44": 2571,
+    "males": 60098,
+    "females": 6779,
+    "females_aged_45+": 764,
+    "non-us_users": 40723,
+    "females_aged_18-29": 2896,
+    "females_under_18": 34,
+    "aged_30-44": 29526,
+    "aged_under_18": 323,
+    "males_aged_30-44": 26595
+  },
   "genres": [
     "action",
     "crime",
     "drama"
   ],
-  "release_month": "March",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.6,
-    "aged_18-29": 6.6,
-    "aged_30-44": 6.5,
-    "females": 6.5,
-    "top_1000_voters": 6.2,
-    "non-us_users": 6.5,
-    "females_under_18": 7.5,
-    "males_aged_30-44": 6.5,
-    "us_users": 6.5,
-    "imdb_users": 6.6,
-    "imdb_staff": 7.0,
-    "males_under_18": 7.2,
-    "females_aged_18-29": 6.6,
-    "males_aged_45+": 6.6,
-    "females_aged_30-44": 6.4,
-    "males": 6.6,
-    "males_aged_18-29": 6.6,
-    "females_aged_45+": 6.7,
-    "aged_under_18": 7.2
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Run All Night",
-  "gross_income": 26442251,
-  "user_review_count": 209,
-  "duration": 114,
-  "max_screens": 3171,
-  "votes_per_demo": {
-    "aged_45+": 7072,
-    "aged_18-29": 26514,
-    "aged_30-44": 29511,
-    "females": 6775,
-    "top_1000_voters": 387,
-    "non-us_users": 40714,
-    "females_under_18": 34,
-    "males_aged_30-44": 26581,
-    "us_users": 8913,
-    "imdb_users": 81120,
-    "imdb_staff": 4,
-    "males_under_18": 288,
-    "females_aged_18-29": 2894,
-    "males_aged_45+": 6196,
-    "females_aged_30-44": 2570,
-    "males": 60081,
-    "males_aged_18-29": 23386,
-    "females_aged_45+": 763,
-    "aged_under_18": 324
+  "rating_freq": {
+    "1": 641,
+    "2": 439,
+    "3": 886,
+    "4": 2335,
+    "5": 7711,
+    "6": 22010,
+    "7": 27266,
+    "8": 11965,
+    "9": 3557,
+    "10": 4337
   },
-  "rating_count": 81120,
+  "release_month": "March",
+  "budget": 50000000,
+  "budget_currency": "$",
+  "total_screens": 10529,
+  "year": 2015,
+  "rating": 6.6,
   "critic_review_count": 241,
-  "opening_weekend_income": 11012305
+  "opening_weekend_date": {
+    "month": 3,
+    "year": 2015,
+    "day": 13,
+    "__type__": "datetime.date"
+  },
+  "name": "Run All Night",
+  "user_review_count": 209,
+  "avg_screens": 1504.142857142857
 }

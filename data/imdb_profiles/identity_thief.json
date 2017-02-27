@@ -1,91 +1,2534 @@
 {
-  "critic_review_count": 275,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 5,
-    "day": 31
-  },
-  "release_month": "February",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 2,
-    "day": 8
-  },
-  "metascore": 35,
-  "max_screens": 3230,
-  "duration": 111,
-  "rating_count": 101484,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 17,
+  "release_day": 8,
   "avg_rating_per_demo": {
+    "aged_45+": 5.7,
+    "top_1000_voters": 5.1,
+    "males_under_18": 6.1,
+    "imdb_staff": 5.0,
+    "males_aged_18-29": 5.7,
+    "imdb_users": 5.7,
+    "males_aged_45+": 5.6,
+    "aged_18-29": 5.8,
+    "us_users": 5.7,
+    "females_aged_30-44": 6.0,
+    "males": 5.6,
+    "females": 6.1,
+    "females_aged_45+": 6.2,
     "non-us_users": 5.6,
     "females_aged_18-29": 6.2,
-    "females": 6.1,
-    "aged_45+": 5.7,
     "females_under_18": 7.0,
-    "imdb_users": 5.7,
-    "imdb_staff": 5.0,
-    "females_aged_30-44": 6.0,
-    "aged_under_18": 6.4,
-    "males_aged_30-44": 5.5,
-    "top_1000_voters": 5.1,
     "aged_30-44": 5.6,
-    "males_aged_18-29": 5.7,
-    "males": 5.6,
-    "females_aged_45+": 6.2,
-    "males_under_18": 6.1,
-    "us_users": 5.7,
-    "males_aged_45+": 5.6,
-    "aged_18-29": 5.8
+    "aged_under_18": 6.4,
+    "males_aged_30-44": 5.5
   },
-  "user_review_count": 234,
-  "rating_freq": {
-    "1": 3119,
-    "2": 2712,
-    "3": 4571,
-    "4": 8877,
-    "5": 18538,
-    "6": 26771,
-    "7": 18479,
-    "8": 8859,
-    "9": 3662,
-    "10": 5896
+  "closing_date": {
+    "month": 5,
+    "year": 2013,
+    "day": 31,
+    "__type__": "datetime.date"
+  },
+  "metascore": 35,
+  "num_weekends": 17,
+  "rating_count": 101499,
+  "gross_income": 134455175,
+  "max_screens": 3230,
+  "opening_weekend_screens": 3141,
+  "screens_by_weekend": [
+    3141,
+    3165,
+    3222,
+    3230,
+    3002,
+    2842,
+    2166,
+    1082,
+    721,
+    564,
+    480,
+    425,
+    300,
+    279,
+    241,
+    187,
+    150
+  ],
+  "opening_weekend_income": 34551025,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "Absolute disappointment!",
+      "score": 3,
+      "user": "jscott554",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Your credit card company is only a phone call away",
+      "score": 4,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Thief? More like Time Thief.",
+      "score": 1,
+      "user": "Daniel Spiteri",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Treat this film as if it was a car wreck with a police officer gesturing 'theres nothing to see here, just keep moving.'",
+      "score": 2,
+      "user": "Robyn Nesbitt (nesfilmreviews)",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious! Rex Reed kiss my arse!",
+      "score": 7,
+      "user": "southfljb",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Thief is a weak inconsistency that struggles to find an actual identity",
+      "score": 4,
+      "user": "diac228 (diac1987@netscape.net)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better than the previews suggest",
+      "score": 7,
+      "user": "outtherebad",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Weak, Not Funny",
+      "score": 3,
+      "user": " (bob-rutzel-1)",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointed",
+      "score": 5,
+      "user": "Max Unterbach",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "First-ever review, because it's really that bad.",
+      "score": 1,
+      "user": "therapiddescent",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One Draft Too Soon",
+      "score": 5,
+      "user": "racolvin",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "McCarthy's Character Sucks",
+      "score": 1,
+      "user": "mbuzzell-561-509572",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was a lot better than I expected!",
+      "score": 9,
+      "user": "cecilliawhite",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny in parts! 4/10",
+      "score": 4,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Comedies are supposed to be funny, no?",
+      "score": 1,
+      "user": "Pietro Sacchili",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Grand Larceny: This picture steals more than your identity ...",
+      "score": 2,
+      "user": "gregeichelberger",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Swing and very bad miss I am afraid",
+      "score": 5,
+      "user": "bdl7431",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Was this supposed to be a comedy? (Spoilers)",
+      "score": 1,
+      "user": "Marc Colten",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Movie Sucked",
+      "score": 2,
+      "user": "rjk541",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Formulaic road trip comedy, but the actors make the jokes funny",
+      "score": 7,
+      "user": "napierslogs",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a bit of fun",
+      "score": 7,
+      "user": "davekelley-82-912449",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible Movie",
+      "score": 1,
+      "user": "cfarr1310",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Worse Films Ever!",
+      "score": 1,
+      "user": "susankbunce",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "waste of time",
+      "score": 1,
+      "user": "dfc-london10",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tedious and Aggressively UnFunny",
+      "score": 1,
+      "user": "LordJiggy (thegriffstr@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Thief? More like Awful Movie",
+      "score": 1,
+      "user": "ElPolloHermano",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Truly hated this film from start to finish",
+      "score": 1,
+      "user": "mb1984",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Thief.  Stole two hours of my life.",
+      "score": 1,
+      "user": "Ck dexterhaven",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "bad language, sexual comments, funny story.",
+      "score": 2,
+      "user": "lindahunt7231",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A premise that is not suited for a comedy",
+      "score": 2,
+      "user": "djay782",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Friends don't steal friends' identities, do they?'",
+      "score": 4,
+      "user": "gradyharp",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absurdity Masked as Comedy",
+      "score": 4,
+      "user": "danew13",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Thief, more like Time Thief. I want my 2 hours of my life back...",
+      "score": 2,
+      "user": "leedirectsmusicvideos",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sooo disappointed (by all the bad reviews)",
+      "score": 10,
+      "user": "aceofspeeds",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What Melissa McCarthy's character does is mean, evil and totally lacking in value",
+      "score": 1,
+      "user": "tanstaafl2014",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What just happened??",
+      "score": 1,
+      "user": "apb216",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very unhappy with this movie.",
+      "score": 2,
+      "user": "sanloz11",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A friend said she laughed all the way through this movie",
+      "score": 1,
+      "user": "cranberrychutney",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Skip this if you can, crude & unfunny",
+      "score": 2,
+      "user": "chuckpw",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Thief: Or, in Italian: Identity Thieves",
+      "score": 4,
+      "user": "Markus Emilio Robinson",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An insult to intelligence",
+      "score": 1,
+      "user": "dierregi",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movie suffers from idiot plot",
+      "score": 1,
+      "user": "rpgrosso-1",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pure Dog muck",
+      "score": 1,
+      "user": "franklin2010",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hit the road and run",
+      "score": 3,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Limitless Liar",
+      "score": 6,
+      "user": "Raul Faust",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun actors, awful script",
+      "score": 1,
+      "user": "bookme120",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meh...OK",
+      "score": 4,
+      "user": "nanccakes",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All those trailers for nothing",
+      "score": 6,
+      "user": "tuhin94",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Modestly Entertaining",
+      "score": 6,
+      "user": "Seth Quinn",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shockingly unfunny and really, really dull",
+      "score": 3,
+      "user": "mutty-mcflea",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More Crude Than Funny",
+      "score": 3,
+      "user": "Uriah43",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Tale of Two Films!",
+      "score": 7,
+      "user": "g-bodyl",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A must movie to watch.",
+      "score": 7,
+      "user": "Omer Irfan",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun and engaging",
+      "score": 7,
+      "user": "Anthony Ehlers",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Had to walk away",
+      "score": 1,
+      "user": "ericthered-834-888972",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a waste of effort and celluloid",
+      "score": 5,
+      "user": "electricchurch",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "NOT funny!!",
+      "score": 3,
+      "user": "David Holt (rawiri42)",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Premise, Bad Delivery",
+      "score": 3,
+      "user": "Marvin Martian",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of Worst Movies I have even seen!",
+      "score": 1,
+      "user": "jkimes98",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "wow",
+      "score": 1,
+      "user": "jrhead4",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a good movie SORRY",
+      "score": 1,
+      "user": "christymathis-89",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Barely watchable.",
+      "score": 4,
+      "user": "Big_D_Box_Office_Score",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa McCarthy is not funny.",
+      "score": 4,
+      "user": "evan-lodge",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incredibly funny, heartwarming and certainly worth a watch.",
+      "score": 10,
+      "user": "Matt Ebbs",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Deceitful and odious film about an odious character",
+      "score": 4,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very disappointing comedy film",
+      "score": 4,
+      "user": "Roger Pettit",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't watch it",
+      "score": 1,
+      "user": "Roy Marvelous",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible, awful, insulting, painful",
+      "score": 1,
+      "user": "Matt",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An actress is only as good as her script",
+      "score": 1,
+      "user": "p.g. sturges",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Again, a mind-numbingly stupid movie",
+      "score": 1,
+      "user": "troyhawke",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sit back and enjoy!",
+      "score": 7,
+      "user": "Sissy Taylor",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Actually a very funny movie",
+      "score": 6,
+      "user": "lisafordeay",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It works in parts",
+      "score": 4,
+      "user": "feyipuk",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fresh... so I thought. I was wrong.",
+      "score": 6,
+      "user": "stonedraim",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A hilarious comedy movie, with a touch of offense.",
+      "score": 9,
+      "user": "kevindaly2001",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Thief Review",
+      "score": 6,
+      "user": "keithlovesmovies",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why So Many Bad Reviews? This Film Hit Me in The Feels",
+      "score": 7,
+      "user": "ggmcheartagram",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There are a few laughs here and there, but nothing that's gut-busting.",
+      "score": 3,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OK acting, average story, horrible directing.",
+      "score": 4,
+      "user": "Nicole C",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not As Bad As People Say",
+      "score": 6,
+      "user": "tyler28882",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Natural Charisma Of Lead Stars Saved The Film",
+      "score": 7,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Melissa McCarthy triumph!",
+      "score": 7,
+      "user": "Davis P",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa McCarthy does it again...",
+      "score": 9,
+      "user": "Taylor Kingston",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not really as much of a comedy as I thought.",
+      "score": 6,
+      "user": "Shopaholic35",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pure Comedy",
+      "score": 8,
+      "user": "Marquesha Ealoms",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A cute but not so realistic comedy with great acting",
+      "score": 8,
+      "user": "ipoweri",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Formulaic and lame but has a few laughs",
+      "score": 6,
+      "user": "Zoooma",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good effort, but flawed",
+      "score": 6,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Theft\u0085.Hilarious",
+      "score": 9,
+      "user": "xandme",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Friends don't steal friends' identities, do they?",
+      "score": 5,
+      "user": "Spikeopath",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Talent is a little wasted in weak plot development",
+      "score": 6,
+      "user": "CMTiago",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Time was just about adequately killed.",
+      "score": 6,
+      "user": "punishmentpark",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "silly humour, plenty of laughs, but not an outstanding film",
+      "score": 6,
+      "user": "HelenMary",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It is what it is. Bateman & McCarthy help propel it to respectability",
+      "score": 5,
+      "user": "callanvass",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No Laughs at all",
+      "score": 4,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If this is Comedy, it Dramatically failed!",
+      "score": 1,
+      "user": "kadianpusher",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So Annoying....Film However Is Great",
+      "score": 7,
+      "user": "kevandeb",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Only Thing it Steals is Our Hopes",
+      "score": 2,
+      "user": "Anthony Iessi",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "score": 6,
+      "user": "Tss5078",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This was just really painful to watch",
+      "score": 2,
+      "user": "david-sarkies",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I WANT to rate this higher, but I really can't on principle. Hollywood at its worst.",
+      "score": 2,
+      "user": "edwardcking2001",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uneven, at times questionable script played better by good performers",
+      "score": 7,
+      "user": "Bene Cumb",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I would erase that identity immediately",
+      "score": 4,
+      "user": "adi_2002",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A pretty awful movie",
+      "score": 2,
+      "user": "Jafar Iqbal",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun time pass",
+      "score": 7,
+      "user": "Samra Muslim",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slightly Gross, Run-Of-The-Mill Comedy. \u2666 59%",
+      "score": 6,
+      "user": "Tejas Nair",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not at all bad movie.  In fact very a very good movie!",
+      "score": 8,
+      "user": "dandan-dandan",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great comedy, like back in the late 1980's...",
+      "score": 7,
+      "user": "Paul Magne Haakonsen",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprised by the many negative reviews; enjoyed this very much",
+      "score": 9,
+      "user": "magus-4",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Worth the Time",
+      "score": 2,
+      "user": "easeltine",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Low wattage Hollywood comedy",
+      "score": 4,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Thief tries hard, but fails",
+      "score": 4,
+      "user": "agp003",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews",
+      "score": 5,
+      "user": "capone666",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So fury funniest!",
+      "score": 9,
+      "user": "andreas jonas",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Utter disgrace that these actors did this",
+      "score": 1,
+      "user": "SouthernTransplant",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really entertaining",
+      "score": 7,
+      "user": "MovieSonic",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Thief-Don't Give Out Your Number ***",
+      "score": 7,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Who'd thunk it?!!",
+      "score": 7,
+      "user": "Rich Wright",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good man, bad woman and one hell adventure",
+      "score": 7,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not funny!",
+      "score": 3,
+      "user": "chrichtonsworld",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa Mccarthy is the highlight",
+      "score": 6,
+      "user": "MLDinTN",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not happy with a comment in movie",
+      "score": 4,
+      "user": "dsjunkie2005",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Planes, Trains & Automobiles.",
+      "score": 6,
+      "user": "matty241090",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "fun but dumb",
+      "score": 5,
+      "user": "ron-fernandez-pittsburgh",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As lazy of a road trip comedy as it could be",
+      "score": 2,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reaffirms the notion that  the law is inherently broken",
+      "score": 6,
+      "user": "bnawrocki14",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another road movie",
+      "score": 6,
+      "user": "johnny sparrow",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bateman and McCarthy Make a Charismatic Couple",
+      "score": 8,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another totally unbelievable movie",
+      "score": 4,
+      "user": "dashielle89-425-132181",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good for Redbox rental",
+      "score": 4,
+      "user": "marydd140",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You will not be rolling on the floor laughing... but the story is fine!",
+      "score": 8,
+      "user": "baerhome",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "repulsive monster meets trite clich\u00e9 for a road movie, of course",
+      "score": 2,
+      "user": "kinseydude",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictable!",
+      "score": 3,
+      "user": "Curtis Jackson",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Thief - Hearty Laughs!",
+      "score": 6,
+      "user": "ArthurVanDam1",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ignore the critics and the haters, this movie is doing huge box office for a good reason; it's actually a good film!",
+      "score": 7,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Actors Should Replace Their Names With Alan Smithee.",
+      "score": 4,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Maxed out credit cards is just a beginning.",
+      "score": 4,
+      "user": "Michael O'Keefe",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Two dorks don't make a movie",
+      "score": 3,
+      "user": "djderka",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"You can keep this identity.\"",
+      "score": 4,
+      "user": "BlownHappyKid",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mixed bag...",
+      "score": 7,
+      "user": "poe426",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Save time",
+      "score": 5,
+      "user": "geny82 (geny82@yahoo.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Film Fails As A Lame Excuse For A Movie",
+      "score": 4,
+      "user": "Noah Whitaker",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I visually enjoy you....",
+      "score": 6,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Half of a good comedy",
+      "score": 5,
+      "user": "Buscatcher",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just average, really",
+      "score": 5,
+      "user": "lalaland-21-224850",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh my, this film is totally stupid",
+      "score": 1,
+      "user": "nerfball_king",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a laugh-out-loud comedy like it promised, but there is a heart in the center in this movie.",
+      "score": 6,
+      "user": "luisgarzamtz",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "too predictable, only the end was good",
+      "score": 5,
+      "user": "Linda de Corte",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's an occasionally funny \"Midnight Run\" for the Jerry Springer crowd.",
+      "score": 5,
+      "user": "Mike_Noga",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun Entertainment",
+      "score": 7,
+      "user": "losangcodbazzinga",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that bad",
+      "score": 7,
+      "user": "syztemlord",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa McCarthy Solidifies Her Acting, Comedic, and Personal Identity in \"Identity Thief\"",
+      "score": 6,
+      "user": "John Panagopoulos (japamo@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A wasted opportunity",
+      "score": 4,
+      "user": "TheGatsby",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A big flaw",
+      "score": 4,
+      "user": "cinematic_aficionado (cinematokrisis@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "1 word summery - TOAST",
+      "score": 2,
+      "user": "kaptinparv",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's fun.  Kind of.  But that's it.",
+      "score": 4,
+      "user": "TheSquiss",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent",
+      "score": 5,
+      "user": "hepburnthekid",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Characters Being Driven",
+      "score": 6,
+      "user": "cultfilmfreaksdotcom",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Comedy with some action and a touch of pathos.",
+      "score": 10,
+      "user": "Bo Atdrinks",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyed it, great movie",
+      "score": 10,
+      "user": "rickwong75",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious!!!",
+      "score": 9,
+      "user": "trishmink0220-297-124800",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not great, but not as terrible has some critics made it out to be.",
+      "score": 7,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funniest Movie In A Long Time",
+      "score": 7,
+      "user": "Dustin Collins",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bateman and McCarthy Funny Chemistry!",
+      "score": 8,
+      "user": "ShelbyTMItchell",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jason Bateman and Melissa McCarthy do their best in the somewhat entertaining Identity Thief",
+      "score": 6,
+      "user": "tavm",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Highway robbery.",
+      "score": 4,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I loved this movie!",
+      "score": 10,
+      "user": "pj-622-234510",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Security!!!!!",
+      "score": 2,
+      "user": "tehanc",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "People need to take this for what it is!",
+      "score": 6,
+      "user": "ariasn1",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa McCarthy wins!",
+      "score": 8,
+      "user": "eyemadreamer-948-120372",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thief is right, it stole part of my life.",
+      "score": 2,
+      "user": "RottNKorpse",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Thing About This Is That It Did Lessen The Pain Of Watching By Putting Me To Sleep",
+      "score": 1,
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not what I expected at all",
+      "score": 4,
+      "user": "dream_writer_17",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dismal So-Called 'Comedy' That is Both Obvious and Offensive",
+      "score": 2,
+      "user": "l_rawjalaurence",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stealing My Time",
+      "score": 3,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Artsy People Get Over Yourself",
+      "score": 7,
+      "user": "yagwit",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny movie in my opinion",
+      "score": 8,
+      "user": "krazysoon",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "wild dose of action-scenes followed by slapstick raunchiness results in wild entertainment",
+      "score": 6,
+      "user": "Ketan Gupta",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do NOT see this movie",
+      "score": 1,
+      "user": "K-mattson-332-336707",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny Movie",
+      "score": 8,
+      "user": "shadrian1983",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Thief(2013) Film Review",
+      "score": 7,
+      "user": "kylehaines96",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unfunny and predictable movie",
+      "score": 4,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another recycled convention",
+      "score": 4,
+      "user": "absolutely-fabulous47",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing Special",
+      "score": 4,
+      "user": "Mandavya Kapoor",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "SPOILER ALERT!! Great film!!",
+      "score": 9,
+      "user": "Dinazlea",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I liked it",
+      "score": 8,
+      "user": "blanche-2",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bateman and McCarthy bring 'Theft' above the average",
+      "score": 7,
+      "user": "Andrew Pelechaty",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A simply, silly comedy that goes over the top but is mostly enjoyable",
+      "score": 7,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Identity Thief is a comedy that has some interesting ideas and plenty of potential, but plays things far too safe with both its formulized story and talented leads.",
+      "score": 4,
+      "user": "bigcalkenobi",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intuitively Obvious",
+      "score": 6,
+      "user": "neilpiejr",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Money Almost Stolen by the Identity Thief",
+      "score": 5,
+      "user": "David Maldonado",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyed very much",
+      "score": 9,
+      "user": "willoughby_tz",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For a boring rainy Sunday afternoon... why not?",
+      "score": 7,
+      "user": "Veronika Lackerbauer",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Advertising American products while glamorizing failures",
+      "score": 5,
+      "user": "Running Cactus",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that is very funny and worth seeing mainly for the cast. McCarthy & Bateman are perfect together. I say B+",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Movie was Funny & Great Ending.....",
+      "score": 7,
+      "user": "kaywellensiek",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Come on now, what were you expecting?",
+      "score": 7,
+      "user": "Ranbud",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Fun and Movie With a Good Story...",
+      "score": 8,
+      "user": "bobbiphillip-605-331093",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I am he and she is me",
+      "score": 10,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jason Bateman and Melissa McCarthy amazing duo",
+      "score": 6,
+      "user": "Nika Gigashvili (www.running-reel.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "awessomeeee movie!!!!love it..(kinda a spoiler?)",
+      "score": 10,
+      "user": "june yi",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great comedy that deserves more praise than it got",
+      "score": 10,
+      "user": "ryguy815",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plot Key Words",
+      "score": 8,
+      "user": "tdschoenfeld-161-684176",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simple fun, nevermind the fat thing",
+      "score": 7,
+      "user": "celluloidkiwi",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprising",
+      "score": 6,
+      "user": "evening1",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa McCarthy",
+      "score": 7,
+      "user": "Nichole Doolitle",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not exactly a good film, but McCarthy is hilarious and makes it worthwhile",
+      "score": 7,
+      "user": "zetes",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Enough Credit",
+      "score": 8,
+      "user": "closesquarters",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Raunch and not very funny",
+      "score": 2,
+      "user": "Carol Seranga",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "REALLY funny!!!",
+      "score": 8,
+      "user": "reneemsm",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A witty, charming comedy that isn't a tired re-tread",
+      "score": 9,
+      "user": "pachl",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect for Redbox",
+      "score": 6,
+      "user": "lilantman10",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everyone has an evil twin",
+      "score": 7,
+      "user": "wilson trivino",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Outstanding Movie!!!  Very, Very funny!!",
+      "score": 10,
+      "user": "herbertbrown54",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hit-and-miss high concept/road/buddy/fish-out-of-water hybrid comedy",
+      "score": 7,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Compliance with action and comedy",
+      "score": 8,
+      "user": "in1984",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Life's Hard boo hoo!",
+      "score": 8,
+      "user": "Plutos_Charm",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Movie Is Hilarious",
+      "score": 10,
+      "user": "pumpkinspice98",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "good comedy",
+      "score": 10,
+      "user": "emmasparkes116",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Best Comedies I've Ever Seen",
+      "score": 9,
+      "user": "Jimmy Reardon",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 111,
+  "votes_per_demo": {
+    "aged_45+": 8308,
+    "top_1000_voters": 423,
+    "males_under_18": 250,
+    "imdb_staff": 15,
+    "males_aged_18-29": 24753,
+    "imdb_users": 101499,
+    "males_aged_45+": 6230,
+    "aged_18-29": 37288,
+    "us_users": 21267,
+    "females_aged_30-44": 7686,
+    "males": 61073,
+    "females": 24247,
+    "females_aged_45+": 1950,
+    "non-us_users": 41963,
+    "females_aged_18-29": 12146,
+    "females_under_18": 166,
+    "aged_30-44": 33756,
+    "aged_under_18": 426,
+    "males_aged_30-44": 25678
   },
   "genres": [
     "comedy",
     "crime"
   ],
-  "budget": 35000000,
-  "rating": 5.7,
-  "name": "Identity Thief",
-  "opening_weekend_income": 34551025,
-  "avg_screens": 1482.1764705882354,
-  "gross_income": 134455175,
-  "votes_per_demo": {
-    "non-us_users": 41954,
-    "females_aged_18-29": 12145,
-    "females": 24242,
-    "aged_45+": 8307,
-    "females_under_18": 166,
-    "imdb_users": 101484,
-    "imdb_staff": 15,
-    "females_aged_30-44": 7682,
-    "aged_under_18": 425,
-    "males_aged_30-44": 25675,
-    "top_1000_voters": 423,
-    "aged_30-44": 33749,
-    "males_aged_18-29": 24750,
-    "males": 61064,
-    "females_aged_45+": 1951,
-    "males_under_18": 249,
-    "us_users": 21265,
-    "males_aged_45+": 6228,
-    "aged_18-29": 37284
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 3119,
+    "2": 2712,
+    "3": 4572,
+    "4": 8878,
+    "5": 18539,
+    "6": 26774,
+    "7": 18484,
+    "8": 8860,
+    "9": 3663,
+    "10": 5898
   },
-  "release_year": 2013,
+  "release_month": "February",
+  "budget": 35000000,
   "budget_currency": "$",
-  "release_day": 8
+  "total_screens": 25197,
+  "year": 2013,
+  "rating": 5.7,
+  "critic_review_count": 275,
+  "opening_weekend_date": {
+    "month": 2,
+    "year": 2013,
+    "day": 8,
+    "__type__": "datetime.date"
+  },
+  "name": "Identity Thief",
+  "user_review_count": 234,
+  "avg_screens": 1482.1764705882354
 }

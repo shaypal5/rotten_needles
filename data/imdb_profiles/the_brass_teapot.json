@@ -1,47 +1,481 @@
 {
-  "critic_review_count": 62,
-  "year": 2012,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 4,
-    "day": 12
-  },
-  "release_month": "April",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 4,
-    "day": 5
-  },
-  "metascore": 43,
-  "max_screens": 2,
-  "duration": 101,
-  "rating_count": 12402,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 2,
+  "release_day": 15,
   "avg_rating_per_demo": {
+    "aged_45+": 6.3,
+    "top_1000_voters": 5.6,
+    "males_under_18": 7.3,
+    "imdb_staff": 3.0,
+    "males_aged_18-29": 6.5,
+    "imdb_users": 6.4,
+    "males_aged_45+": 6.3,
+    "aged_18-29": 6.6,
+    "us_users": 6.6,
+    "females_aged_30-44": 6.5,
+    "males": 6.3,
+    "females": 6.6,
+    "females_aged_45+": 6.3,
     "non-us_users": 6.3,
     "females_aged_18-29": 6.7,
-    "females": 6.6,
-    "aged_45+": 6.3,
     "females_under_18": 7.3,
-    "imdb_users": 6.4,
-    "imdb_staff": 3.0,
-    "females_aged_30-44": 6.5,
-    "aged_under_18": 7.3,
-    "males_aged_30-44": 6.3,
-    "top_1000_voters": 5.6,
     "aged_30-44": 6.3,
-    "males_aged_18-29": 6.5,
-    "males": 6.3,
-    "females_aged_45+": 6.3,
-    "males_under_18": 7.3,
-    "us_users": 6.6,
-    "males_aged_45+": 6.3,
-    "aged_18-29": 6.6
+    "aged_under_18": 7.3,
+    "males_aged_30-44": 6.3
   },
-  "user_review_count": 39,
+  "closing_date": {
+    "month": 4,
+    "year": 2013,
+    "day": 12,
+    "__type__": "datetime.date"
+  },
+  "metascore": 43,
+  "num_weekends": 2,
+  "rating_count": 12403,
+  "gross_income": 6643,
+  "max_screens": 2,
+  "opening_weekend_screens": 2,
+  "screens_by_weekend": [
+    2,
+    2
+  ],
+  "opening_weekend_income": 4468,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "Excellent comedy, truly original film, not 'just another movie'",
+      "score": 10,
+      "user": "barb-627-568728",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No rubbing or wishing required",
+      "score": 8,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As Ramaa Mosley's debut film, \"The Brass Teapot\" shines.",
+      "score": 8,
+      "user": "Chad Pierce",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly good",
+      "score": 8,
+      "user": "JenEvans1",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lighthearted approach to a rich premise..and its funny.",
+      "score": 10,
+      "user": "young-golfjedi",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Brass Teapot is beautiful",
+      "score": 10,
+      "user": "moviefreakjps",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Started out alright, but then the steam went out of the kettle...",
+      "score": 5,
+      "user": "Paul Magne Haakonsen",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "lazy Sunday afternoon",
+      "score": 6,
+      "user": "Speek_",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Greed and Regret",
+      "score": 6,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Teapot of Dreams",
+      "score": 4,
+      "user": "Michael Radny",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A floppy storyline but with some very good performances",
+      "score": 5,
+      "user": "Ed-Shullivan",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A gift from the gods?",
+      "score": 5,
+      "user": "utgard14",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An exploration of greed and love",
+      "score": 10,
+      "user": "nikolatesla20",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Boring Ode to the Beta Male",
+      "score": 2,
+      "user": "Joe Day",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Be careful what you wish for ... you might get hurt",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "my two cents..",
+      "score": 7,
+      "user": "witster18",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superb dark comedy",
+      "score": 8,
+      "user": "yeltzmanmatt",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An awesome concept, that went in the wrong direction.",
+      "score": 4,
+      "user": "William Evans (Evanz111)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lots of fun for everyone (in the big brass teapot)",
+      "score": 7,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny and endearing",
+      "score": 8,
+      "user": "Dereklogan104",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly Good",
+      "score": 9,
+      "user": "DMan_76",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumb Characters/ Dumb Movie",
+      "score": 5,
+      "user": "pc95",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing movie!",
+      "score": 10,
+      "user": "alexah_vargas",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No, this was not fun",
+      "score": 1,
+      "user": "vespaman66",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Couple Movie me n my GF have seen in a while!!",
+      "score": 10,
+      "user": "empsounds",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Fantastic Work of Art - A True Classic!",
+      "score": 10,
+      "user": "Crotchety Old Critic",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good comedy movie",
+      "score": 9,
+      "user": "Kevin Bannigan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cool premise but limited laughs",
+      "score": 6,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great moral to the story! 6/10",
+      "score": 6,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie",
+      "score": 10,
+      "user": "Keisuke Honda",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Making money has never been so easier either stealing or earning.",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Magic allows exchanging pain for money; how far will the protagonists go?",
+      "score": 6,
+      "user": "suite92",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very good brew",
+      "score": 7,
+      "user": "thekarmicnomad",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I liked The Brass teapot a lot!",
+      "score": 8,
+      "user": "George Pop",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome",
+      "score": 10,
+      "user": "derek-357",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "limited acting ability",
+      "score": 5,
+      "user": "wvisser-leusden",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Every good thing comes with a price",
+      "score": 6,
+      "user": "simon-d-cesair",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 101,
+  "votes_per_demo": {
+    "aged_45+": 1458,
+    "top_1000_voters": 177,
+    "males_under_18": 7,
+    "imdb_staff": 1,
+    "males_aged_18-29": 2527,
+    "imdb_users": 12403,
+    "males_aged_45+": 1189,
+    "aged_18-29": 3953,
+    "us_users": 2637,
+    "females_aged_30-44": 942,
+    "males": 8235,
+    "females": 2707,
+    "females_aged_45+": 244,
+    "non-us_users": 6301,
+    "females_aged_18-29": 1378,
+    "females_under_18": 7,
+    "aged_30-44": 5218,
+    "aged_under_18": 14,
+    "males_aged_30-44": 4214
+  },
+  "genres": [
+    "comedy",
+    "fantasy",
+    "thriller"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 160,
     "2": 126,
@@ -50,43 +484,24 @@
     "5": 1446,
     "6": 3278,
     "7": 3513,
-    "8": 1664,
+    "8": 1665,
     "9": 610,
     "10": 769
   },
-  "genres": [
-    "comedy",
-    "fantasy",
-    "thriller"
-  ],
+  "release_month": "April",
   "budget": 900000,
-  "rating": 6.4,
-  "name": "The Brass Teapot",
-  "opening_weekend_income": 4468,
-  "avg_screens": 2.0,
-  "gross_income": 6643,
-  "votes_per_demo": {
-    "non-us_users": 6299,
-    "females_aged_18-29": 1378,
-    "females": 2707,
-    "aged_45+": 1458,
-    "females_under_18": 7,
-    "imdb_users": 12402,
-    "imdb_staff": 1,
-    "females_aged_30-44": 942,
-    "aged_under_18": 14,
-    "males_aged_30-44": 4213,
-    "top_1000_voters": 177,
-    "aged_30-44": 5217,
-    "males_aged_18-29": 2526,
-    "males": 8234,
-    "females_aged_45+": 244,
-    "males_under_18": 7,
-    "us_users": 2637,
-    "males_aged_45+": 1189,
-    "aged_18-29": 3952
-  },
-  "release_year": 2013,
   "budget_currency": "$",
-  "release_day": 15
+  "total_screens": 4,
+  "year": 2012,
+  "rating": 6.4,
+  "critic_review_count": 62,
+  "opening_weekend_date": {
+    "month": 4,
+    "year": 2013,
+    "day": 5,
+    "__type__": "datetime.date"
+  },
+  "name": "The Brass Teapot",
+  "user_review_count": 39,
+  "avg_screens": 2.0
 }

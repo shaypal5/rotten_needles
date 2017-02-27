@@ -1,46 +1,553 @@
 {
-  "critic_review_count": 20,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 3,
-    "day": 22
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 3,
-    "day": 22
-  },
-  "metascore": 1,
-  "max_screens": 275,
-  "duration": 83,
-  "rating_count": 3579,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 1,
+  "release_day": null,
   "avg_rating_per_demo": {
-    "non-us_users": 3.0,
-    "females_aged_18-29": 3.8,
-    "females": 3.4,
-    "females_aged_30-44": 3.2,
+    "top_1000_voters": 2.6,
+    "males_under_18": 4.1,
     "imdb_staff": 2.0,
     "aged_45+": 3.0,
-    "aged_under_18": 4.1,
-    "males_aged_30-44": 2.7,
-    "top_1000_voters": 2.6,
-    "aged_30-44": 2.7,
+    "imdb_users": 2.9,
+    "males_aged_45+": 3.0,
+    "aged_18-29": 3.1,
+    "females_aged_30-44": 3.2,
     "males_aged_18-29": 2.9,
     "males": 2.8,
+    "females": 3.4,
     "females_aged_45+": 2.5,
-    "males_under_18": 4.1,
-    "imdb_users": 2.9,
+    "non-us_users": 3.0,
+    "females_aged_18-29": 3.8,
     "us_users": 2.5,
-    "males_aged_45+": 3.0,
-    "aged_18-29": 3.1
+    "aged_30-44": 2.7,
+    "aged_under_18": 4.1,
+    "males_aged_30-44": 2.7
   },
-  "user_review_count": 49,
+  "closing_date": {
+    "month": 3,
+    "year": 2013,
+    "day": 22,
+    "__type__": "datetime.date"
+  },
+  "metascore": 1,
+  "num_weekends": 1,
+  "rating_count": 3579,
+  "gross_income": 156414,
+  "max_screens": 275,
+  "opening_weekend_screens": 275,
+  "screens_by_weekend": [
+    275
+  ],
+  "opening_weekend_income": 156414,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Absolutely Horrendous!",
+      "score": 1,
+      "user": "Trisha Bays",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A new low has been reached",
+      "score": 1,
+      "user": "Christopher O'keeffe",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cinematic Garbage",
+      "score": 1,
+      "user": "Sergeant343",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What the F",
+      "score": 1,
+      "user": "Raymond Zoliansanga",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It couldn't be worse",
+      "score": 1,
+      "user": "dready438",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "waste of time",
+      "score": 1,
+      "user": "hollywrong",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not for me - no way",
+      "score": 1,
+      "user": "Vinod-dahya",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Racist",
+      "score": 1,
+      "user": "theans09",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow",
+      "score": 3,
+      "user": "Christmas Pickles",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertainment for those who hate political correctness",
+      "score": 6,
+      "user": "The Flukeman",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Failed imitation of things past",
+      "score": 2,
+      "user": "itsgregman",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Literally the worst piece of cinematography ever recorded",
+      "score": 1,
+      "user": "joe",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unworthy",
+      "score": 1,
+      "user": "theoneandonlydee",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fails at what it strives to be.",
+      "score": 1,
+      "user": "Logan Douglas",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unbelievably bad",
+      "score": 1,
+      "user": "salomon161",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just so bad",
+      "score": 1,
+      "user": "putteswiss Anka",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "HIlarious! One of the funniest movies I have ever seen! Still Laughing!",
+      "score": 9,
+      "user": "kricul",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I don't get the bad reviews",
+      "score": 8,
+      "user": "Tomas Maly",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What the F**K!? Who told Sham Wow that he's a director",
+      "score": 1,
+      "user": "dnesmith09",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst movie ever made?",
+      "score": 1,
+      "user": "Robert Wiebe",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Confuses Inept with Inappropriate",
+      "score": 3,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inept comedy",
+      "score": 3,
+      "user": "Chris.",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the worst film I've ever seen, but still pretty bad.",
+      "score": 3,
+      "user": "Miles Mathias",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lots of clich\u00e9s and stereotypes, but no laughs; skip this one.",
+      "score": 1,
+      "user": "suite92",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Honest movie review!",
+      "score": 3,
+      "user": "oneteenspirit-378-780856",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really not funny! 1/10",
+      "score": 1,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Laugh out loud funny",
+      "score": 9,
+      "user": "Randy s",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Psychopathy is a mental illness! Why don't people know this?",
+      "score": 1,
+      "user": "jessegehrig",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tries too hard",
+      "score": 1,
+      "user": "zif ofoz",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Laugh Out Loud",
+      "score": 7,
+      "user": "theironlash",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not For Everyone!!!!",
+      "score": 4,
+      "user": "sal10851",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kentucky Fried Movie meets the 21st Century...",
+      "score": 10,
+      "user": "thelaststormtrooper",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uneven, but some solid laughs for those willing to laugh at themselves",
+      "score": 6,
+      "user": "Gino Cox",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The material isn't offensive, it's the fact they thought it was funny...",
+      "score": 1,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Amazing Racist",
+      "score": 7,
+      "user": "wolfmanjack224",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "inAPPropriate COMEDY now comes with life-back guarantee!!",
+      "score": 4,
+      "user": "cricket crockett",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Movie Ever",
+      "score": 10,
+      "user": "Ron  Jermey",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A riotously funny movie!",
+      "score": 7,
+      "user": "boatista24",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "it was fun",
+      "score": 6,
+      "user": "jerzykunce32",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some People Just Don't Have A Sense Of Humor",
+      "score": 8,
+      "user": "jmigoya",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well, this was different...",
+      "score": 5,
+      "user": "Paul Magne Haakonsen",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "HAhahaa!",
+      "score": 6,
+      "user": "Felix Martinsson",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best movies I've ever seen!!!",
+      "score": 10,
+      "user": "justaes",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mindless humour,spoofs and borateque laughs a plenty.",
+      "score": 6,
+      "user": "stevenhhealey-1",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 83,
+  "votes_per_demo": {
+    "top_1000_voters": 98,
+    "males_under_18": 12,
+    "imdb_staff": 1,
+    "aged_45+": 357,
+    "imdb_users": 3579,
+    "males_aged_45+": 312,
+    "aged_18-29": 1284,
+    "females_aged_30-44": 143,
+    "males_aged_18-29": 1040,
+    "males": 2653,
+    "females": 438,
+    "females_aged_45+": 38,
+    "non-us_users": 1450,
+    "females_aged_18-29": 234,
+    "us_users": 953,
+    "aged_30-44": 1320,
+    "aged_under_18": 12,
+    "males_aged_30-44": 1162
+  },
+  "genres": [
+    "comedy"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 1555,
     "2": 446,
@@ -53,36 +560,20 @@
     "9": 59,
     "10": 380
   },
-  "genres": [
-    "comedy"
-  ],
+  "release_month": null,
   "budget": null,
-  "rating": 2.9,
-  "name": "InAPPropriate Comedy",
-  "opening_weekend_income": 156414,
-  "avg_screens": 275.0,
-  "gross_income": 156414,
-  "votes_per_demo": {
-    "non-us_users": 1450,
-    "females_aged_18-29": 234,
-    "females": 438,
-    "females_aged_30-44": 143,
-    "imdb_staff": 1,
-    "aged_45+": 357,
-    "aged_under_18": 12,
-    "males_aged_30-44": 1162,
-    "top_1000_voters": 98,
-    "aged_30-44": 1320,
-    "males_aged_18-29": 1040,
-    "males": 2653,
-    "females_aged_45+": 38,
-    "males_under_18": 12,
-    "imdb_users": 3579,
-    "us_users": 953,
-    "males_aged_45+": 312,
-    "aged_18-29": 1284
-  },
-  "release_year": null,
   "budget_currency": null,
-  "release_day": null
+  "total_screens": 275,
+  "year": 2013,
+  "rating": 2.9,
+  "critic_review_count": 20,
+  "opening_weekend_date": {
+    "month": 3,
+    "year": 2013,
+    "day": 22,
+    "__type__": "datetime.date"
+  },
+  "name": "InAPPropriate Comedy",
+  "user_review_count": 49,
+  "avg_screens": 275.0
 }

@@ -1,88 +1,374 @@
 {
-  "name": "Chimpanzee",
+  "budget": 5000000,
   "opening_weekend_income": 10673748,
-  "genres": [
-    "documentary"
-  ],
-  "rating": 7.2,
-  "rating_count": 5050,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 20,
+  "year": 2012,
+  "closing_date": {
     "year": 2012,
-    "month": 4
+    "day": 3,
+    "__type__": "datetime.date",
+    "month": 8
   },
-  "user_review_count": 27,
+  "budget_currency": "$",
+  "avg_screens": 533.6875,
   "rating_freq": {
     "1": 85,
     "2": 40,
     "3": 34,
     "4": 78,
     "5": 274,
-    "6": 741,
+    "6": 740,
     "7": 1479,
     "8": 1138,
-    "9": 469,
+    "9": 470,
     "10": 712
   },
-  "release_day": 20,
-  "votes_per_demo": {
-    "males": 3414,
-    "females_aged_30-44": 407,
-    "aged_under_18": 12,
-    "non-us_users": 2233,
-    "males_aged_18-29": 1010,
-    "aged_18-29": 1396,
-    "males_aged_30-44": 1685,
-    "aged_45+": 751,
-    "imdb_users": 5050,
-    "aged_30-44": 2108,
-    "us_users": 1365,
-    "females": 1031,
-    "females_aged_18-29": 374,
-    "top_1000_voters": 102,
-    "males_aged_45+": 563,
-    "females_aged_45+": 177,
-    "imdb_staff": 2,
-    "males_under_18": 12
-  },
-  "avg_rating_per_demo": {
-    "males": 7.1,
-    "females_aged_30-44": 7.5,
-    "aged_under_18": 8.2,
-    "non-us_users": 7.1,
-    "males_aged_18-29": 7.2,
-    "aged_18-29": 7.3,
-    "males_aged_30-44": 7.0,
-    "aged_45+": 7.2,
-    "imdb_users": 7.2,
-    "aged_30-44": 7.1,
-    "us_users": 7.2,
-    "females": 7.6,
-    "females_aged_18-29": 7.5,
-    "top_1000_voters": 6.6,
-    "males_aged_45+": 7.1,
-    "females_aged_45+": 7.8,
-    "imdb_staff": 6.5,
-    "males_under_18": 8.2
-  },
-  "avg_screens": 533.6875,
-  "release_month": "April",
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 57,
-  "gross_income": 28965459,
-  "critic_review_count": 106,
-  "budget_currency": "$",
-  "release_year": 2012,
-  "num_weekends": 16,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 3,
-    "year": 2012,
-    "month": 8
-  },
+  "screens_by_weekend": [
+    1563,
+    1563,
+    1531,
+    1559,
+    895,
+    368,
+    269,
+    155,
+    96,
+    82,
+    57,
+    135,
+    119,
+    80,
+    40,
+    27
+  ],
+  "rating_count": 5050,
+  "total_screens": 8539,
+  "max_screens": 1563,
   "duration": 78,
-  "budget": 5000000,
-  "max_screens": 1563
+  "gross_income": 28965459,
+  "metascore": 57,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "imdb_users": 5050,
+    "us_users": 1364,
+    "aged_18-29": 1395,
+    "non-us_users": 2233,
+    "aged_45+": 751,
+    "aged_30-44": 2108,
+    "males_aged_30-44": 1685,
+    "females_aged_30-44": 407,
+    "males_aged_45+": 563,
+    "aged_under_18": 12,
+    "imdb_staff": 2,
+    "males_under_18": 12,
+    "males_aged_18-29": 1010,
+    "females": 1030,
+    "top_1000_voters": 102,
+    "females_aged_45+": 177,
+    "males": 3414,
+    "females_aged_18-29": 373
+  },
+  "user_review_count": 27,
+  "rating": 7.2,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "imdb_users": 7.2,
+    "us_users": 7.2,
+    "aged_18-29": 7.3,
+    "non-us_users": 7.1,
+    "aged_45+": 7.2,
+    "aged_30-44": 7.1,
+    "males_aged_30-44": 7.0,
+    "females_aged_30-44": 7.5,
+    "males_aged_45+": 7.1,
+    "aged_under_18": 8.2,
+    "imdb_staff": 6.5,
+    "males_under_18": 8.2,
+    "males_aged_18-29": 7.2,
+    "females": 7.6,
+    "top_1000_voters": 6.6,
+    "females_aged_45+": 7.8,
+    "males": 7.1,
+    "females_aged_18-29": 7.6
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 20,
+    "__type__": "datetime.date",
+    "month": 4
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "Richard Reilly (FFman@comcast.net)",
+      "contents": "Flawed but Enjoyable Documentary",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "MissYumYumCoCo",
+      "contents": "Short and sweet",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "jennyallworthy",
+      "contents": "Chimpanzee is for the whole family! Two bananas up!",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "movieman1947",
+      "contents": "visually stunning",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "David Traversa",
+      "contents": "A  familiar story interpreted by some close relatives of us.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Larry Silverstein",
+      "contents": "Remarkable Disney Documentary",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "myowntune",
+      "contents": "A Disney movie made with kids in mind.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Dalbert Pringle",
+      "contents": "Chimps Are The Coolest, Craziest Critters!",
+      "review_date": {
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "mekane",
+      "contents": "Sort of Confusing, but Endearing",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "potato2",
+      "contents": "Should have been so much better",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "classicsoncall",
+      "contents": "\"...survival is all that matters\".",
+      "review_date": {
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "One of Disney Nature's Best.",
+      "review_date": {
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "Jacob Max",
+      "contents": "Indulging you into a heartbreaking documentary while being a Disney fake",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "The Orphan Raised by an Alpha",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "dreamer2-350-551584",
+      "contents": "\"chimpanzee\"",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "Ocean_star",
+      "contents": "Not a serious documentary by any stretch of the imagination",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "Andyssoohigh",
+      "contents": "Don't bother unless you've nothing else to do...",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "sanfranken",
+      "contents": "Very informative, entertaining, and well presented documentary",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "Quietb-1",
+      "contents": "Go ape.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews...",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": " (stuff_1004@yahoo.com)",
+      "contents": "The plot summary is misleading",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "amethystwings32",
+      "contents": "adorable",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "rannynm",
+      "contents": "Fun Romp with Adorable Star in Disneynature's 'Chimpanzee'",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "jlj9675-1",
+      "contents": "nice but a bit too long",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    }
+  ],
+  "release_month": "April",
+  "genres": [
+    "documentary"
+  ],
+  "opening_weekend_screens": 1563,
+  "name": "Chimpanzee",
+  "num_weekends": 16,
+  "release_day": 20,
+  "critic_review_count": 106
 }

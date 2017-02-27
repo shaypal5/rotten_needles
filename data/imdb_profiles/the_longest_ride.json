@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 4,
-    "year": 2015,
-    "day": 10,
-    "__type__": "datetime.date"
+  "release_day": 10,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.8,
+    "top_1000_voters": 5.5,
+    "males_under_18": 7.4,
+    "imdb_staff": 6.8,
+    "males_aged_18-29": 7.0,
+    "imdb_users": 7.1,
+    "males_aged_45+": 6.7,
+    "aged_18-29": 7.2,
+    "us_users": 6.8,
+    "females_aged_30-44": 7.1,
+    "males": 6.8,
+    "females": 7.3,
+    "females_aged_45+": 7.2,
+    "non-us_users": 6.9,
+    "females_aged_18-29": 7.4,
+    "females_under_18": 8.3,
+    "aged_30-44": 6.7,
+    "aged_under_18": 8.1,
+    "males_aged_30-44": 6.6
   },
   "closing_date": {
     "month": 6,
@@ -11,81 +27,1356 @@
     "day": 26,
     "__type__": "datetime.date"
   },
-  "rating": 7.1,
-  "num_weekends": 9,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 827,
-    "2": 432,
-    "3": 799,
-    "4": 1496,
-    "5": 3312,
-    "6": 7865,
-    "7": 14203,
-    "8": 11886,
-    "9": 6222,
-    "10": 9289
-  },
-  "avg_screens": 1545.5555555555557,
-  "budget": 34000000,
-  "budget_currency": "$",
-  "release_day": 10,
   "metascore": 33,
+  "num_weekends": 9,
+  "rating_count": 56366,
+  "gross_income": 37432299,
+  "max_screens": 3371,
+  "opening_weekend_screens": 3366,
+  "screens_by_weekend": [
+    3366,
+    3371,
+    3140,
+    2115,
+    1464,
+    230,
+    155,
+    45,
+    24
+  ],
+  "opening_weekend_income": 13019686,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Much better than than the reviews have one believe!!",
+      "score": 9,
+      "user": "carierandolph",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Very Great Romantic Drama Movie.",
+      "score": 10,
+      "user": "Open-mindedMuslimWoman",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Half A Good Romance Tale, Yet One of The Better Sparks",
+      "score": 7,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Two Excellent stories in One",
+      "score": 10,
+      "user": "darrell_romine",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'The Notebook' meets '8 Seconds'",
+      "score": 7,
+      "user": "ouskullz",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Hate Bad Romance Movies",
+      "score": 1,
+      "user": "Madame Monster",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So, There's Yet Another Eastwood Heartthrob!",
+      "score": 8,
+      "user": "patsworld",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I really liked this movie, this is a feel good movie if that's what you need",
+      "score": 8,
+      "user": "ht-75603",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cowboys",
+      "score": 8,
+      "user": "wilson trivino",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Would Have Been More Satisfying Had Both Stories Received Equal Attention",
+      "score": 6,
+      "user": "prospectus_capricornium",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Odd Comparison to the Book",
+      "score": 8,
+      "user": "Amanda Misa Misa Weaver",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such a cute film",
+      "score": 8,
+      "user": "authortinaleonard",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scott Eastwood's Big Break",
+      "score": 7,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent (keep in mind, I read the book)",
+      "score": 9,
+      "user": "toryldarting",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We need more movies like this!!!!!!! FANTASTIC !!!!!!!",
+      "score": 10,
+      "user": "cormickchannie",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very decent (romantic) movie",
+      "score": 9,
+      "user": "maat-33737",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another chapter from \"The Notebook\"...only for the gullible",
+      "score": 3,
+      "user": "moonspinner55",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Came in the cinema with little expectations, but left with tears",
+      "score": 9,
+      "user": "Metta Lee",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great if you like teenage love stories",
+      "score": 1,
+      "user": "malcolm-111",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An enjoyable ride",
+      "score": 9,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Are you serious?",
+      "score": 1,
+      "user": "querorz",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Notebook\" retread",
+      "score": 3,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Longest Ride",
+      "score": 6,
+      "user": "Alexa Bouhelier-Ruelle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One movie - two stories",
+      "score": 6,
+      "user": "Laine K",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Close, but No Cigar",
+      "score": 6,
+      "user": " (blufrog49)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sorry, really bad. Phony, mushy and predictable. Too many longing looks (phony) and giggling (even phonier).",
+      "score": 3,
+      "user": "susanw-50877",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A schmalzy bodice ripper",
+      "score": 3,
+      "user": "peterbreis",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Would you let your dream go for the sake of love of your life!",
+      "score": 7,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, but I wasn't blown away like I thought I would have.",
+      "score": 7,
+      "user": "photojess1219",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Widely acclaimed as the \"Thomas Kinkaid of American Cinema\" . . .",
+      "score": 7,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An art-history student falls for a cowboy, and they learn about how to make it work by learning from the story of an older couple and their marriage and life struggles.",
+      "score": 7,
+      "user": "tomkat006-780-135306",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feel-good romantic chick flick",
+      "score": 7,
+      "user": "Laakbaar",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kind Of Like The Notebook",
+      "score": 7,
+      "user": "ShelbyTMItchell",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bland",
+      "score": 4,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everyone is Too Nice",
+      "score": 6,
+      "user": "dansview",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Romantic love story, nothing else",
+      "score": 2,
+      "user": "Silvia Gonz\u00c3\u00a1lez Perdomo",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Robertson's fans may be disappointed...",
+      "score": 6,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of The Longest Ride",
+      "score": 7,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Story",
+      "score": 6,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than expected",
+      "score": 8,
+      "user": " (ammabee@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining, Could have been better",
+      "score": 7,
+      "user": "Yousif Bushager (y.bushager@hotmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'I don't know what the future holds but I know there is no future without you.'",
+      "score": 10,
+      "user": "gradyharp",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unconditional Love",
+      "score": 8,
+      "user": "Humayun Afzal",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Longest Ride was the longest movie I have seen from the man who wrote this movie",
+      "score": 7,
+      "user": "lisafordeay",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very cringe worthy",
+      "score": 3,
+      "user": "keshby3636",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just Another Fair Nicholas Sparks Film Adaptation",
+      "score": 6,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good enough",
+      "score": 8,
+      "user": "Adlina Haezah",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cute, Cathartic and Instructive",
+      "score": 8,
+      "user": "Antonio Kowatsch",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The is what you call an amazing story!",
+      "score": 8,
+      "user": "Jacob Shrimpton (worldofshrimpy@gmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "so full of bull",
+      "score": 1,
+      "user": "Karl Ericsson (karlericsson@telia.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The longest ride is a great film",
+      "score": 10,
+      "user": "Najeefa Shahnaaz",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the more bearable big screen Spark incarnations",
+      "score": 6,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent, pleasant, sweet film",
+      "score": 10,
+      "user": "aclair-1",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another hit from Sparks",
+      "score": 7,
+      "user": "Carla Wessels",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big Surprise",
+      "score": 10,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No place without you",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Corny and Predictable! 3/10",
+      "score": 3,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie",
+      "score": 8,
+      "user": "brittanywier",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reminded me of The Notebook",
+      "score": 9,
+      "user": "tdevil9",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "it had depth...and Goodness",
+      "score": 9,
+      "user": "xanjius",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome movie....Must watch!!!!!!!!!! :-)",
+      "score": 10,
+      "user": "Ruchi Sundriyal",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best movie in a while",
+      "score": 9,
+      "user": "leahhopcus",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really Loved this movie",
+      "score": 9,
+      "user": "rbrendes",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I really enjoyed seeing Scott Eastwood begin to follow in his legendary father's footsteps!",
+      "score": 6,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What Obviously Worked In The Novel, Didn't Work Here",
+      "score": 5,
+      "user": "dbryn",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sometimes it's Better Just to Welcome Movies as Cheesily Inoffensive as this",
+      "score": 8,
+      "user": "DareDevilKid",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Casting is Essential",
+      "score": 5,
+      "user": "Semira Ariana",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Story telling was great, although it was almost too unrealistic.",
+      "score": 7,
+      "user": "eerereps",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The chemistry is there",
+      "score": 8,
+      "user": "bkoganbing",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For hopeless romantics and cheese lovers.",
+      "score": 5,
+      "user": "santiagocosme",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Well Done!",
+      "score": 8,
+      "user": "cadenrudolph",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Easy to like, easy to hate...it's so NOT brilliant it's blinding when the material is so winning",
+      "score": 5,
+      "user": "secondtake",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great story, good acting in a romantic film with some basic home truths",
+      "score": 8,
+      "user": "danew13",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Nicolas Sparks Masterpiece",
+      "score": 8,
+      "user": "nowego",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Film Review: The Longest Ride",
+      "score": 8,
+      "user": "lucasnochez",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spectacular",
+      "score": 9,
+      "user": "sparashar-32536",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A surprising, romantic ride",
+      "score": 6,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "an OK story, some bad acting",
+      "score": 5,
+      "user": "nhermida",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One only verse, odd to love",
+      "score": 6,
+      "user": "angelikafauve",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "****",
+      "score": 10,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite an Easy and Likable Ride",
+      "score": 6,
+      "user": "JohnnyWeissmuller",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very worth it.",
+      "score": 8,
+      "user": "lexssierra",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My favourite movie of the year so far",
+      "score": 10,
+      "user": "taibaliaqat",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If only real love was this beautiful",
+      "score": 8,
+      "user": "schmidteren",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such a beautiful movie!",
+      "score": 8,
+      "user": "llamadrama-11132",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Nicholas Sparks movie since The Notebook",
+      "score": 10,
+      "user": "Brandon Maynard",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heartwarming",
+      "score": 8,
+      "user": "Emily Lahana",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "About The Longest Ride",
+      "score": 10,
+      "user": "Harbinger_3781",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "perfect movie!!!!!!!!!!!!!",
+      "score": 10,
+      "user": "yarden-34835",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome and Magical",
+      "score": 10,
+      "user": "ericasinitsa",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really loved the way story moves",
+      "score": 8,
+      "user": "rissamjeevan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Lovely Ride.",
+      "score": 10,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nicholas Sparks + New Concept = \"Great Movie\"",
+      "score": 7,
+      "user": "JSplend954",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Take the ride.",
+      "score": 6,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Emotionally superficial",
+      "score": 3,
+      "user": "Jesper Burgdorff Johansen",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A wannabe tear-jerking romance that comes with a swarm of clich\u00e9 lines",
+      "score": 6,
+      "user": "Emryck del Fauno",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty good romance drama",
+      "score": 7,
+      "user": "preppy-3",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Longest Ride\" is well worth taking!",
+      "score": 8,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "another Nicholas Sparks special",
+      "score": 4,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "- I mean the day my life changed forever - I explain. - The day we met.",
+      "score": 10,
+      "user": "romeo2292",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'The Longest Ride' isn't about a fun road trip, nor is it about an 'Eyes Wide Shut' party.",
+      "score": 3,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very enjoyable picture with some cheating ending",
+      "score": 8,
+      "user": "851222",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 5,
+      "user": "capone666",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "good enough",
+      "score": 3,
+      "user": "phoenix 2",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great movie",
+      "score": 9,
+      "user": "sierra mendez",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Extremely Slow Moving Movie.  Boring.",
+      "score": 3,
+      "user": "J. H.",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best Sparks movie I have seen, and as a man I have to say I did enjoy it and recommend this as a great date movie.",
+      "score": 8,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too predictable",
+      "score": 3,
+      "user": "kevjfarrell",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really? Are you kidding?",
+      "score": 5,
+      "user": "airsnob",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nicholas Sparks does it again!",
+      "score": 10,
+      "user": "pbrouss",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heart moving movie and the very easy on the eyes, Scott Eastwood.",
+      "score": 8,
+      "user": "Arleta Suhero",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The longest ride is a steamy sexy Sax solo of a movie",
+      "score": 3,
+      "user": "Jop Brams (or Bram-elations)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sophia Danko, an art student, and Luke Collins, a bull rider, fall in love and face the many obstacles in their way.",
+      "score": 10,
+      "user": "oliviaschlapfer",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Four In Hand",
+      "score": 8,
+      "user": "writers_reign",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Even the fanbase deserves more at this point",
+      "score": 4,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I would like my money back",
+      "score": 1,
+      "user": "Kieran Lewis",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 123,
+  "votes_per_demo": {
+    "aged_45+": 3339,
+    "top_1000_voters": 227,
+    "males_under_18": 132,
+    "imdb_staff": 4,
+    "males_aged_18-29": 10068,
+    "imdb_users": 56366,
+    "males_aged_45+": 2260,
+    "aged_18-29": 23700,
+    "us_users": 5483,
+    "females_aged_30-44": 4790,
+    "males": 21317,
+    "females": 21461,
+    "females_aged_45+": 1025,
+    "non-us_users": 22880,
+    "females_aged_18-29": 13376,
+    "females_under_18": 450,
+    "aged_30-44": 12378,
+    "aged_under_18": 589,
+    "males_aged_30-44": 7399
+  },
   "genres": [
     "drama",
     "romance"
   ],
-  "release_month": "April",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.8,
-    "aged_18-29": 7.2,
-    "aged_30-44": 6.7,
-    "females": 7.3,
-    "top_1000_voters": 5.5,
-    "non-us_users": 6.9,
-    "females_under_18": 8.3,
-    "males_aged_30-44": 6.6,
-    "us_users": 6.8,
-    "imdb_users": 7.1,
-    "imdb_staff": 6.8,
-    "males_under_18": 7.4,
-    "females_aged_18-29": 7.4,
-    "males_aged_45+": 6.7,
-    "females_aged_30-44": 7.1,
-    "males": 6.8,
-    "males_aged_18-29": 7.0,
-    "females_aged_45+": 7.2,
-    "aged_under_18": 8.1
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "The Longest Ride",
-  "gross_income": 37432299,
-  "user_review_count": 120,
-  "duration": 123,
-  "max_screens": 3371,
-  "votes_per_demo": {
-    "aged_45+": 3339,
-    "aged_18-29": 23688,
-    "aged_30-44": 12364,
-    "females": 21446,
-    "top_1000_voters": 227,
-    "non-us_users": 22865,
-    "females_under_18": 451,
-    "males_aged_30-44": 7391,
-    "us_users": 5482,
-    "imdb_users": 56331,
-    "imdb_staff": 4,
-    "males_under_18": 132,
-    "females_aged_18-29": 13368,
-    "males_aged_45+": 2260,
-    "females_aged_30-44": 4784,
-    "males": 21304,
-    "males_aged_18-29": 10064,
-    "females_aged_45+": 1025,
-    "aged_under_18": 590
+  "rating_freq": {
+    "1": 826,
+    "2": 432,
+    "3": 799,
+    "4": 1496,
+    "5": 3313,
+    "6": 7872,
+    "7": 14213,
+    "8": 11895,
+    "9": 6226,
+    "10": 9294
   },
-  "rating_count": 56331,
+  "release_month": "April",
+  "budget": 34000000,
+  "budget_currency": "$",
+  "total_screens": 13910,
+  "year": 2015,
+  "rating": 7.1,
   "critic_review_count": 118,
-  "opening_weekend_income": 13019686
+  "opening_weekend_date": {
+    "month": 4,
+    "year": 2015,
+    "day": 10,
+    "__type__": "datetime.date"
+  },
+  "name": "The Longest Ride",
+  "user_review_count": 120,
+  "avg_screens": 1545.5555555555557
 }

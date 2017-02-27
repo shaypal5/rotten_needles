@@ -1,45 +1,115 @@
 {
-  "critic_review_count": 23,
-  "year": 2012,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 5,
-    "day": 17
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 2,
-    "day": 1
-  },
-  "metascore": 71,
-  "max_screens": 16,
-  "duration": 100,
-  "rating_count": 264,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 14,
+  "release_day": null,
   "avg_rating_per_demo": {
-    "non-us_users": 5.1,
-    "females_aged_18-29": 6.5,
-    "females": 6.8,
-    "females_aged_30-44": 6.1,
-    "aged_45+": 6.5,
-    "aged_under_18": 10.0,
-    "males_aged_30-44": 6.2,
     "top_1000_voters": 4.7,
-    "aged_30-44": 6.2,
+    "males_under_18": 10.0,
+    "aged_45+": 6.5,
+    "imdb_users": 6.3,
+    "males_aged_45+": 6.4,
+    "aged_18-29": 5.7,
+    "females_aged_30-44": 6.1,
     "males_aged_18-29": 5.6,
     "males": 6.2,
+    "females": 6.8,
     "females_aged_45+": 7.6,
-    "males_under_18": 10.0,
-    "imdb_users": 6.3,
+    "non-us_users": 5.1,
+    "females_aged_18-29": 6.5,
     "us_users": 6.8,
-    "males_aged_45+": 6.4,
-    "aged_18-29": 5.7
+    "aged_30-44": 6.2,
+    "aged_under_18": 10.0,
+    "males_aged_30-44": 6.2
   },
-  "user_review_count": 3,
+  "closing_date": {
+    "month": 5,
+    "year": 2013,
+    "day": 17,
+    "__type__": "datetime.date"
+  },
+  "metascore": 71,
+  "num_weekends": 14,
+  "rating_count": 264,
+  "gross_income": 342212,
+  "max_screens": 16,
+  "opening_weekend_screens": 2,
+  "screens_by_weekend": [
+    2,
+    4,
+    11,
+    9,
+    16,
+    10,
+    16,
+    16,
+    9,
+    7,
+    3,
+    2,
+    2,
+    2
+  ],
+  "opening_weekend_income": 35196,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Excellent Documentary us back in time with Ed Koch",
+      "score": 9,
+      "user": "JustCuriosity",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not enough time to appropriately explore Hizzoner",
+      "score": 6,
+      "user": "asc85",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a warts-and-all look at one of NYC's most colorful figures",
+      "score": 7,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 100,
+  "votes_per_demo": {
+    "top_1000_voters": 16,
+    "males_under_18": 1,
+    "aged_45+": 70,
+    "imdb_users": 264,
+    "males_aged_45+": 62,
+    "aged_18-29": 49,
+    "females_aged_30-44": 10,
+    "males_aged_18-29": 41,
+    "males": 206,
+    "females": 24,
+    "females_aged_45+": 6,
+    "non-us_users": 65,
+    "females_aged_18-29": 7,
+    "us_users": 142,
+    "aged_30-44": 105,
+    "aged_under_18": 1,
+    "males_aged_30-44": 94
+  },
+  "genres": [
+    "documentary",
+    "biography",
+    "history"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 31,
     "2": 5,
@@ -52,37 +122,20 @@
     "9": 17,
     "10": 34
   },
-  "genres": [
-    "documentary",
-    "biography",
-    "history"
-  ],
+  "release_month": null,
   "budget": null,
-  "rating": 6.3,
-  "name": "Koch",
-  "opening_weekend_income": 35196,
-  "avg_screens": 7.785714285714286,
-  "gross_income": 342212,
-  "votes_per_demo": {
-    "non-us_users": 65,
-    "females_aged_18-29": 7,
-    "females": 24,
-    "females_aged_30-44": 10,
-    "aged_45+": 70,
-    "aged_under_18": 1,
-    "males_aged_30-44": 94,
-    "top_1000_voters": 16,
-    "aged_30-44": 105,
-    "males_aged_18-29": 41,
-    "males": 206,
-    "females_aged_45+": 6,
-    "males_under_18": 1,
-    "imdb_users": 264,
-    "us_users": 142,
-    "males_aged_45+": 62,
-    "aged_18-29": 49
-  },
-  "release_year": null,
   "budget_currency": null,
-  "release_day": null
+  "total_screens": 109,
+  "year": 2012,
+  "rating": 6.3,
+  "critic_review_count": 23,
+  "opening_weekend_date": {
+    "month": 2,
+    "year": 2013,
+    "day": 1,
+    "__type__": "datetime.date"
+  },
+  "name": "Koch",
+  "user_review_count": 3,
+  "avg_screens": 7.785714285714286
 }

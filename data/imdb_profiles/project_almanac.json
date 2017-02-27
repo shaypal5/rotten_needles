@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 1,
-    "year": 2015,
-    "day": 30,
-    "__type__": "datetime.date"
+  "release_day": 30,
+  "avg_rating_per_demo": {
+    "aged_45+": 5.9,
+    "top_1000_voters": 5.4,
+    "males_under_18": 7.3,
+    "imdb_staff": 7.1,
+    "males_aged_18-29": 6.7,
+    "imdb_users": 6.4,
+    "males_aged_45+": 5.9,
+    "aged_18-29": 6.7,
+    "us_users": 6.3,
+    "females_aged_30-44": 6.1,
+    "males": 6.4,
+    "females": 6.4,
+    "females_aged_45+": 5.9,
+    "non-us_users": 6.3,
+    "females_aged_18-29": 6.6,
+    "females_under_18": 7.0,
+    "aged_30-44": 6.2,
+    "aged_under_18": 7.2,
+    "males_aged_30-44": 6.2
   },
   "closing_date": {
     "month": 3,
@@ -11,81 +27,2059 @@
     "day": 20,
     "__type__": "datetime.date"
   },
-  "rating": 6.4,
-  "num_weekends": 8,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 1318,
-    "2": 891,
-    "3": 1520,
-    "4": 3018,
-    "5": 6747,
-    "6": 14482,
-    "7": 17420,
-    "8": 8934,
-    "9": 3239,
-    "10": 4179
-  },
-  "avg_screens": 1127.875,
-  "budget": 12000000,
-  "budget_currency": "$",
-  "release_day": 30,
   "metascore": 47,
+  "num_weekends": 8,
+  "rating_count": 61775,
+  "gross_income": 22331028,
+  "max_screens": 2900,
+  "opening_weekend_screens": 2893,
+  "screens_by_weekend": [
+    2893,
+    2900,
+    1732,
+    828,
+    290,
+    186,
+    123,
+    71
+  ],
+  "opening_weekend_income": 8500000,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Stupid kids,stupid ideas,stupid waste of time - MASSIVE SPOILERS AHEAD",
+      "score": 1,
+      "user": "dna-1138",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spoilers *Paradox explained * for those that are to dumb to understand",
+      "score": 7,
+      "user": "dimbost",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How stupid do they think teenagers are?",
+      "score": 5,
+      "user": "Jerghal",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Time travel an hour and a half into the past and save yourself the $7.50 ticket",
+      "score": 1,
+      "user": "moyarsley",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What were they thinking?",
+      "score": 1,
+      "user": "your_niceguy",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "i had doubts going in but i ended up liking it",
+      "score": 8,
+      "user": "Zielke9",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining and Thought Provoking",
+      "score": 7,
+      "user": "luke5119",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very flawed film that squanders its potential.",
+      "score": 3,
+      "user": "resolve-239-859515",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good film ruined by disastrous camera work.",
+      "score": 8,
+      "user": "Chris Kennedy",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Explorers meets Back to Future in Found Footage style.",
+      "score": 7,
+      "user": "Alex Heaton (azanti0029)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An insult to movie goers intelligence",
+      "score": 2,
+      "user": "med77_99",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Time Travel Paradoxes",
+      "score": 6,
+      "user": "steve-250-379589",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny Adventure Ruined by the Awful Camera Work",
+      "score": 6,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Won't Reinvent The Genre, But It Is Entertaining",
+      "score": 6,
+      "user": "cadillac20",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm surprised I let the movie finish, honestly",
+      "score": 1,
+      "user": "dmvane",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst time travel movie Iv ever seen",
+      "score": 1,
+      "user": "sjvirgo90",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cinematography Stinks",
+      "score": 1,
+      "user": "josephcote-968-662293",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It sucks!",
+      "score": 1,
+      "user": "dennisfranciscoph",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a horrible job of Directing and The DP should be Fired",
+      "score": 3,
+      "user": "Blueniyt",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow Moving Tired Genre",
+      "score": 3,
+      "user": "umassrob-226-642534",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good with major logic flaw",
+      "score": 2,
+      "user": "Ashton Bieri",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best found footage films of all time!",
+      "score": 10,
+      "user": "Matt Kfr",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An above average time travel film",
+      "score": 6,
+      "user": "alindsay-al",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoying rather than studying",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun but lacking depth",
+      "score": 4,
+      "user": "Dusan Luigi Indjic",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "bad bad bad",
+      "score": 1,
+      "user": "com76",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "High School students discover the secret of Time Travel",
+      "score": 9,
+      "user": "david-sarkies",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How can a movie be so wrong, so awful, so hoodwinked",
+      "score": 1,
+      "user": "Jared Reabow",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Damn decent movie: Only minor spoilers",
+      "score": 9,
+      "user": "Sorc Erer",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "project great",
+      "score": 8,
+      "user": "Teddy Zaharijev",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Holy Time-Travelling-Teenagers Batman!",
+      "score": 5,
+      "user": "Drive-in_Zeppelin",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad just bad",
+      "score": 1,
+      "user": "Tornadolane",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I wish I had a time machine to stop myself from watching this",
+      "score": 3,
+      "user": "DesertBeagler",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumb film about dumb teenagers we are expected to believe are smart",
+      "score": 1,
+      "user": "okulo",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was entertaining but not believable",
+      "score": 6,
+      "user": "alissarios",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There are no second chances",
+      "score": 6,
+      "user": "Lola A",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I really wanted to like this movie, but....",
+      "score": 5,
+      "user": "Karin_Reimertz",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was okay",
+      "score": 5,
+      "user": "Jack Munson",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good idea that could have excelled but didn't",
+      "score": 5,
+      "user": "TdSmth5",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Derivative fun",
+      "score": 5,
+      "user": "michael-3204",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The good, the bad, the ugly.",
+      "score": 7,
+      "user": "Dr. B. Rudow",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When you time travel, things will get out of control",
+      "score": 6,
+      "user": "bent-mathiesen",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The worst \"found-footage\" film ever made",
+      "score": 2,
+      "user": "InaneSwine",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant",
+      "score": 9,
+      "user": "ssarkca",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I almost threw up from motion sickness",
+      "score": 4,
+      "user": "CJS",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Project Yawn",
+      "score": 3,
+      "user": "James Wood",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Forgettable",
+      "score": 5,
+      "user": "Tim Spear",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better Than Expected",
+      "score": 7,
+      "user": "Nikolas Robinson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All nice but the trembling",
+      "score": 7,
+      "user": "Lele (rvalente@iol.it)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tries but fails. Weak story, nothing much going on.",
+      "score": 2,
+      "user": "movieLoader",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Filmed so horribly I can barely pay attention to the film.",
+      "score": 3,
+      "user": "Kallay7",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Premise is good, shaking camera kills all hope of enjoyment",
+      "score": 1,
+      "user": "mikpits",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too Much Chaos Throughout",
+      "score": 1,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very OK version of the Butterfly Effect that fell short of that one, but it is fun to watch. I enjoyed it.",
+      "score": 8,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clich\u00e9d premise but is still very enjoyable",
+      "score": 8,
+      "user": "andrewshieh0712",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did pretty well with such a low budget",
+      "score": 7,
+      "user": "davidjr2008",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie, but filming could have been better",
+      "score": 8,
+      "user": "indodragon",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Teens In Time",
+      "score": 6,
+      "user": "fawn_jane",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Project x meets chronicle with a touch of back to the future",
+      "score": 7,
+      "user": "blackspider187",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No one should jump alone",
+      "score": 8,
+      "user": "Jan Samantha Marie",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting story, terrible photography",
+      "score": 4,
+      "user": "peterfaure",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "interesting time travel film",
+      "score": 8,
+      "user": "mattkratz (themattk@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "painful to watch",
+      "score": 2,
+      "user": "Jason Jason",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great found footage",
+      "score": 8,
+      "user": "layerzcookie",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Time travel...",
+      "score": 6,
+      "user": "Thanos Alfie",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Project Amalgamation",
+      "score": 6,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Remake of My Science Project",
+      "score": 5,
+      "user": "frugalq",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good.. not great.. The last 3rd was by far more interesting",
+      "score": 7,
+      "user": "schalazeal-00917",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Probably more for the kids (and me)",
+      "score": 7,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plot holes aside - entertaining",
+      "score": 7,
+      "user": "Finfrosk86",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cool cinematography and effects with good acting but typical characters.",
+      "score": 7,
+      "user": "Nicole C",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun Time Travel movie with some minor moments",
+      "score": 6,
+      "user": "Connor Dillon",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I definitely wasn't bored by it at all.",
+      "score": 6,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A likable teen move",
+      "score": 5,
+      "user": "vandelour",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a time travel flick from that Transforrmers dude",
+      "score": 7,
+      "user": "kristian_cooper",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "why people make there movie by there on, cant fix the camera",
+      "score": 1,
+      "user": "ravdeepboparai",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We are gonna change the world",
+      "score": 8,
+      "user": "anakinbro",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Project  Almanac",
+      "score": 5,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great efx.  Terrible plot",
+      "score": 3,
+      "user": "circlesedgeinc",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Typical teenage Sci-fi movie! 3/10",
+      "score": 3,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Project Almanac could have been great, but wasn't very exciting as I expected",
+      "score": 5,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing film, Very creative film shooting and realistic",
+      "score": 10,
+      "user": "dasanthamavdc",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Camera shake will give scientists headache",
+      "score": 3,
+      "user": "Malakanyang",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a letdown...",
+      "score": 4,
+      "user": "derbo73",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Steins;Gate light",
+      "score": 5,
+      "user": "urthpainter",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another hand-held cam mess of a movie",
+      "score": 1,
+      "user": "Drei",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very enjoyable",
+      "score": 8,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly good movie!",
+      "score": 8,
+      "user": "Rudolf Ravbar",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shaky Camera SciFi",
+      "score": 6,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Tired Premise, Laughable Characterisation and Found Footage All Make 'Project Almanac' an Utter Failure",
+      "score": 1,
+      "user": "rjsf96",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nope/10",
+      "score": 4,
+      "user": "DavidKrukov",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smart enough to build time machine, too dumb to use effectively.",
+      "score": 4,
+      "user": "darkstrangers",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "terrible terrible terrible",
+      "score": 1,
+      "user": "FTo1",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Contains Spoilers",
+      "score": 1,
+      "user": "robertscott1949",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Project Entertaining.",
+      "score": 6,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Suspension of disbelief is not enough",
+      "score": 3,
+      "user": "apollosdei",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful",
+      "score": 1,
+      "user": "mawoo-658-619114",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uncommon approach to common stuff....",
+      "score": 7,
+      "user": "Xandrieth Xs",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Appealing and Enticing Look at Time Paradoxes",
+      "score": 8,
+      "user": "tabuno",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a very good one but okey",
+      "score": 5,
+      "user": "emrahkoyunsev",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's not thriller movie.",
+      "score": 4,
+      "user": "huseyinarici",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as bad as it might seem...",
+      "score": 4,
+      "user": "Jan Hranac",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Time Travel Movie Minus the Science, Staring and Seemingly Written by Teenagers",
+      "score": 5,
+      "user": "dylanreh",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice pitch, but sadly doesn't live up.",
+      "score": 4,
+      "user": "MovieBoy016",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The wrong way to make a time travel movie",
+      "score": 6,
+      "user": "Strazdamonas",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 4,
+      "user": "capone666",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inventive, but not all that creative",
+      "score": 6,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible Camera Work",
+      "score": 2,
+      "user": "onebigcat",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie!",
+      "score": 9,
+      "user": "haphazard72",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If a found-footage time travel movie sounds good to you, you'll enjoy it.",
+      "score": 8,
+      "user": "mhol111964-754-567942",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Teenish Time Warp, adequate at best",
+      "score": 5,
+      "user": "IMDB Truth (imdbtruth@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intelligent and Insightful",
+      "score": 9,
+      "user": "Ruca Ashraf",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumb all around",
+      "score": 1,
+      "user": "Marcus James",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Health Warning - Motion Sickness!",
+      "score": 1,
+      "user": "hepburnjg",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Check the date & time after you've finished the film.",
+      "score": 10,
+      "user": "PARTH BILAKHIYA (revolutionn26@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent but had the potential of being amazing",
+      "score": 7,
+      "user": "nimano",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I have to say I didn't throw up",
+      "score": 8,
+      "user": "frostyneon",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the worst movie, but far from the best",
+      "score": 4,
+      "user": "grmurray76",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fun and enjoyable time travel film without all the confusion (mostly)",
+      "score": 7,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't see this movie, at all costs",
+      "score": 1,
+      "user": "AngryButts",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This was absolutely dreadful",
+      "score": 1,
+      "user": "sarsons",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Atrociously Bad",
+      "score": 1,
+      "user": "misterphilipj",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": ":( disappointing",
+      "score": 1,
+      "user": "katana-890-299661",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible. I truly believe that anyone who may like this movie understands nothing",
+      "score": 1,
+      "user": "mukeshdhimar",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another lackluster found footage film",
+      "score": 3,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shaky cam low budget Butterfly Effect",
+      "score": 6,
+      "user": "siderite",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The things we do for lust.....",
+      "score": 6,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's The Butterfly Effect found footage style.",
+      "score": 6,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very good, but not entirely knew.",
+      "score": 10,
+      "user": "einfachnurronny",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining",
+      "score": 8,
+      "user": "851222",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too naive, bad footage, amateur movie :-(",
+      "score": 2,
+      "user": "maphy775",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wished I had a time machine to bring me back before I started watching this ridiculous MTV flick ...",
+      "score": 1,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chronicle with temporal relocation but not coming out excellent",
+      "score": 6,
+      "user": "issachar",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very poor development of an always good idea",
+      "score": 3,
+      "user": "abisio",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Butterfly effect + Back to the future + Looper = ?",
+      "score": 4,
+      "user": "matiasandina",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unwatchable",
+      "score": 1,
+      "user": "dkbritton-198-290471",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could've been 10 times better!",
+      "score": 4,
+      "user": "Dmitry M",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Story seemed moderate, couldn't watch",
+      "score": 2,
+      "user": "watercayman",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A tiny review of \"Project Almanac\" (2014).",
+      "score": 8,
+      "user": "ericrnolan",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "To my surprise not that bad of a film",
+      "score": 6,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Budget: ~$12,000,000",
+      "score": 8,
+      "user": "Mike Bear",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just plain Horrible!",
+      "score": 1,
+      "user": "fragedakis",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "motion sickness ahead.",
+      "score": 1,
+      "user": "alan-wardle",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't be deceived by the score it has",
+      "score": 2,
+      "user": "dangler-84",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Short on imagination",
+      "score": 4,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Butterfly Effect meets Chronicle",
+      "score": 9,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "million times for chemistry class, one time for lottery",
+      "score": 1,
+      "user": "zero-signal",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Retarded Cinematography. C'mon!!!",
+      "score": 1,
+      "user": "mike_moor",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't quite agree with negative comment above",
+      "score": 9,
+      "user": "hadi_assasin",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Movie",
+      "score": 2,
+      "user": "Precious_Blaze",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very enjoyable. Was not expecting it to be that good.",
+      "score": 8,
+      "user": "pozytywny-maniak",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "oh my...what is movie making coming to.....",
+      "score": 2,
+      "user": "ryjm (ryjm1992@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wasted Potential",
+      "score": 6,
+      "user": "jmmendoza",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Being unappreciated",
+      "score": 10,
+      "user": "johnnyboy-99313",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another brainless film",
+      "score": 1,
+      "user": "vladp6",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "left after 30 minutes",
+      "score": 1,
+      "user": "onlineairsoft",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is this a teen drama or a deeper look at the human condition?",
+      "score": 7,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Time Travel Done Well",
+      "score": 7,
+      "user": "Jordan Wilks",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overall, Pretty Good, but Not Without Flaws",
+      "score": 8,
+      "user": "Robert Hodgson",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another a-fing handy cam gimmick",
+      "score": 1,
+      "user": "sobeit712",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Imbalanced depictions between the happy times and the conflicts",
+      "score": 5,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Project Almanac",
+      "score": 7,
+      "user": "wgstubb",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Time travel movie",
+      "score": 6,
+      "user": "arfoster18",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst home movie of all time",
+      "score": 2,
+      "user": "wilfredor",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Primer\" for tweens.",
+      "score": 6,
+      "user": "DarthPaul85",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie needed more time to establish itself better. This movie kinda sucks.",
+      "score": 5,
+      "user": "ironhorse_iv",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining found footage film about the science of time travel.",
+      "score": 7,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Young criminals in love . . .",
+      "score": 7,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great!",
+      "score": 9,
+      "user": "a-marshall-no6",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Project Almanac\" is a flawed but worthy addition to the time travel genre",
+      "score": 7,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Minor issues detract from an otherwise enjoyable time-travel flick.",
+      "score": 7,
+      "user": "Brent Hankins",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Through I wish I could have gone back in time to fix the second half, Project Almanac doesn't use too many of the found footage tropes to dampen it.",
+      "score": 5,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been brilliant!",
+      "score": 1,
+      "user": "archaeologyangel",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining",
+      "score": 7,
+      "user": "SpiritMechanic",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far-fetched, Yet Under-appreciated",
+      "score": 8,
+      "user": "marcvalenzuela",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great and thrilling throughout the entire time (ignore bad ratings)",
+      "score": 10,
+      "user": "shownprove",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the worst movies with exceptionally high rating",
+      "score": 2,
+      "user": "arpkum",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is going to have rocked.",
+      "score": 10,
+      "user": "MCharke",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Necessary entertainment after a wishy-washy month at the movies",
+      "score": 8,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I would go back in time to see this... maybe I already did.",
+      "score": 9,
+      "user": "Austin Oswald",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 106,
+  "votes_per_demo": {
+    "aged_45+": 4324,
+    "top_1000_voters": 295,
+    "males_under_18": 321,
+    "imdb_staff": 9,
+    "males_aged_18-29": 18679,
+    "imdb_users": 61775,
+    "males_aged_45+": 3793,
+    "aged_18-29": 22203,
+    "us_users": 7370,
+    "females_aged_30-44": 2056,
+    "males": 44453,
+    "females": 6394,
+    "females_aged_45+": 442,
+    "non-us_users": 29064,
+    "females_aged_18-29": 3279,
+    "females_under_18": 103,
+    "aged_30-44": 21084,
+    "aged_under_18": 427,
+    "males_aged_30-44": 18758
+  },
   "genres": [
     "sci-fi",
     "thriller"
   ],
-  "release_month": "January",
-  "avg_rating_per_demo": {
-    "aged_45+": 5.9,
-    "aged_18-29": 6.7,
-    "aged_30-44": 6.2,
-    "females": 6.4,
-    "top_1000_voters": 5.4,
-    "non-us_users": 6.3,
-    "females_under_18": 7.0,
-    "males_aged_30-44": 6.2,
-    "us_users": 6.3,
-    "imdb_users": 6.4,
-    "imdb_staff": 7.1,
-    "males_under_18": 7.3,
-    "females_aged_18-29": 6.6,
-    "males_aged_45+": 5.9,
-    "females_aged_30-44": 6.1,
-    "males": 6.4,
-    "males_aged_18-29": 6.7,
-    "females_aged_45+": 5.9,
-    "aged_under_18": 7.2
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Project Almanac",
-  "gross_income": 22331028,
-  "user_review_count": 184,
-  "duration": 106,
-  "max_screens": 2900,
-  "votes_per_demo": {
-    "aged_45+": 4322,
-    "aged_18-29": 22196,
-    "aged_30-44": 21074,
-    "females": 6394,
-    "top_1000_voters": 295,
-    "non-us_users": 29047,
-    "females_under_18": 103,
-    "males_aged_30-44": 18749,
-    "us_users": 7369,
-    "imdb_users": 61748,
-    "imdb_staff": 9,
-    "males_under_18": 321,
-    "females_aged_18-29": 3279,
-    "males_aged_45+": 3791,
-    "females_aged_30-44": 2055,
-    "males": 44434,
-    "males_aged_18-29": 18672,
-    "females_aged_45+": 442,
-    "aged_under_18": 427
+  "rating_freq": {
+    "1": 1318,
+    "2": 891,
+    "3": 1520,
+    "4": 3019,
+    "5": 6750,
+    "6": 14486,
+    "7": 17432,
+    "8": 8940,
+    "9": 3239,
+    "10": 4180
   },
-  "rating_count": 61748,
+  "release_month": "January",
+  "budget": 12000000,
+  "budget_currency": "$",
+  "total_screens": 9023,
+  "year": 2015,
+  "rating": 6.4,
   "critic_review_count": 183,
-  "opening_weekend_income": 8500000
+  "opening_weekend_date": {
+    "month": 1,
+    "year": 2015,
+    "day": 30,
+    "__type__": "datetime.date"
+  },
+  "name": "Project Almanac",
+  "user_review_count": 184,
+  "avg_screens": 1127.875
 }

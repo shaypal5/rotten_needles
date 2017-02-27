@@ -1,91 +1,3531 @@
 {
-  "genres": [
-    "drama",
-    "thriller"
-  ],
-  "num_weekends": 13,
+  "budget_currency": "$",
+  "total_screens": 18752,
   "rating_freq": {
     "1": 2289,
     "2": 1734,
     "3": 3225,
     "4": 6914,
     "5": 18309,
-    "6": 44814,
+    "6": 44822,
     "7": 61875,
-    "8": 31203,
+    "8": 31205,
     "9": 8866,
     "10": 6076
   },
-  "budget": 60000000,
-  "votes_per_demo": {
-    "non-us_users": 102231,
-    "aged_45+": 17195,
-    "females_aged_45+": 2717,
-    "imdb_staff": 24,
-    "females_under_18": 61,
-    "males_aged_45+": 14204,
-    "females_aged_18-29": 13670,
-    "males_aged_30-44": 67492,
-    "females": 29780,
-    "imdb_users": 185305,
-    "us_users": 34156,
-    "males_under_18": 176,
-    "top_1000_voters": 613,
-    "aged_under_18": 247,
-    "males": 135002,
-    "males_aged_18-29": 48997,
-    "females_aged_30-44": 12203,
-    "aged_30-44": 80768,
-    "aged_18-29": 63304
-  },
+  "release_day": 9,
+  "genres": [
+    "drama",
+    "thriller"
+  ],
+  "name": "Contagion",
+  "release_month": "September",
+  "avg_screens": 1442.4615384615386,
+  "imdb_user_reviews": [
+    {
+      "user": "danteism",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Effective, thought provoking, and mis-marketed."
+    },
+    {
+      "user": "Davor Blazevic (davor.blazevic@yahoo.com)",
+      "score": 7,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Fictional viral outbreak plausibly dramatized in docu-like fashion"
+    },
+    {
+      "user": "Terrell Howell (KnightsofNi11)",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Very unique take on the viral outbreak subgenre"
+    },
+    {
+      "user": "Paul Budde",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Good movie, but could have been better"
+    },
+    {
+      "user": "everythingcritic",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "solid, efficient storytelling"
+    },
+    {
+      "user": "DonFishies",
+      "score": 6,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Incredibly disappointing, even with the talent involved"
+    },
+    {
+      "user": "Kristine (kristinedrama14@msn.com)",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Like a tea kettle, it starts hissing, then steams and whistles like crazy, then dies down"
+    },
+    {
+      "user": "rogerdob",
+      "score": 2,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Goes nowhere with no message"
+    },
+    {
+      "user": "garethvk",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "With a Chilling Doomsday Scenario  Contagion is a gripping and Disturbing Film."
+    },
+    {
+      "user": "Mike Okun",
+      "score": 1,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Complete waste of time... Bland like boiled Chicken."
+    },
+    {
+      "user": "chunkybuttsam",
+      "score": 5,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Despite all the opportunities, Contagion is a rather bland thriller"
+    },
+    {
+      "user": "donfuan",
+      "score": 5,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "No point, not focused."
+    },
+    {
+      "user": "judy",
+      "score": 5,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Expected more."
+    },
+    {
+      "user": "neil-arsenal",
+      "score": 4,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A mess."
+    },
+    {
+      "user": "Jesse Bond",
+      "score": 6,
+      "review_date": {
+        "day": 29,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Nothing spreads like yawning"
+    },
+    {
+      "user": "MC1-Bjornson",
+      "score": 6,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "\"Contagion\" isn't that Contagous"
+    },
+    {
+      "user": "ashhub",
+      "score": 5,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "RapidReview~1"
+    },
+    {
+      "user": "Paul p Pluteau (ppp@videotron.ca)",
+      "score": 1,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Keep away - you'll be contaminated."
+    },
+    {
+      "user": "Floated2",
+      "score": 6,
+      "review_date": {
+        "day": 31,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Too many characters, not much detail"
+    },
+    {
+      "user": "jjnxn-1",
+      "score": 7,
+      "review_date": {
+        "day": 12,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Middling thriller with an outstanding cast"
+    },
+    {
+      "user": "CountZero313",
+      "score": 5,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "the end is nigh"
+    },
+    {
+      "user": "andygeerlings",
+      "score": 4,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Only interesting for first 30 minutes"
+    },
+    {
+      "user": "Harald Malming",
+      "score": 2,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Rubbish"
+    },
+    {
+      "user": "g-bodyl",
+      "score": 9,
+      "review_date": {
+        "day": 17,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Effectively Scary!"
+    },
+    {
+      "user": "redbeardhead",
+      "score": 5,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "All the stars can't save a very dry film"
+    },
+    {
+      "user": "arcooper",
+      "score": 4,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Don't blame mis-marketing, blame the meandering, irrelevant plot"
+    },
+    {
+      "user": "joegevans",
+      "score": 2,
+      "review_date": {
+        "day": 31,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Empty, frustratingly underdeveloped, total waste of time"
+    },
+    {
+      "user": "nazztrader",
+      "score": 2,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A lot of trouble staying awake through this one!"
+    },
+    {
+      "user": "Phil Henry",
+      "score": 1,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Still waiting for something to happen"
+    },
+    {
+      "user": "hall895",
+      "score": 4,
+      "review_date": {
+        "day": 31,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Avoid like the plague"
+    },
+    {
+      "user": "Dantae Hiruma",
+      "score": 5,
+      "review_date": {
+        "day": 4,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Extremely boring and clich\u00e9"
+    },
+    {
+      "user": "Charles Herold (cherold)",
+      "score": 8,
+      "review_date": {
+        "day": 7,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "absorbing and refreshingly realistic"
+    },
+    {
+      "user": "movietime1",
+      "score": 8,
+      "review_date": {
+        "day": 26,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Check it out"
+    },
+    {
+      "user": "lovgrena",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A truly horrifying villain"
+    },
+    {
+      "user": "dromasca",
+      "score": 5,
+      "review_date": {
+        "day": 26,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "chaotic"
+    },
+    {
+      "user": "Faith Morrill",
+      "score": 4,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "A dozen good ingredients with a lousy recipe."
+    },
+    {
+      "user": "kittywonghf",
+      "score": 6,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Great Background, Disappointing Ending"
+    },
+    {
+      "user": "jennifer626",
+      "score": 4,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Great cast overcome by bad editing, gaping plot holes, and shallow characters"
+    },
+    {
+      "user": "Viktor D",
+      "score": 2,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Another steaming pile from Soderbergh..."
+    },
+    {
+      "user": "Niklas Pivic",
+      "score": 2,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Money unwell spent"
+    },
+    {
+      "user": "Jonathan Hunter",
+      "score": 4,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A bunch of good actors and actresses getting together to make of a film with no thought or plot!!"
+    },
+    {
+      "user": "David Perry",
+      "score": 2,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "very dull mess of a film"
+    },
+    {
+      "user": "Fentoo",
+      "score": 2,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Mishmash"
+    },
+    {
+      "user": "Xander Beanstein",
+      "score": 5,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Huge Disappointment"
+    },
+    {
+      "user": "waterbottledaisy",
+      "score": 3,
+      "review_date": {
+        "day": 8,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Boring, lack of climax."
+    },
+    {
+      "user": "ArtificialLuddite",
+      "score": 5,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Warning: May Cause Drowsiness."
+    },
+    {
+      "user": "TheFilmFreak1",
+      "score": 6,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Inexplicably Dull"
+    },
+    {
+      "user": "MosHr",
+      "score": 6,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Not contagiously enthusiastic about the movie"
+    },
+    {
+      "user": " (steve-lewakowski)",
+      "score": 1,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "really bad"
+    },
+    {
+      "user": "Hot Rog",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A more realistic vision of a super-virus outbreak"
+    },
+    {
+      "user": "disdressed12",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "thought provoking"
+    },
+    {
+      "user": "braddugg",
+      "score": 10,
+      "review_date": {
+        "day": 8,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A definite must watch for the way it terrifies sans supernatural elements."
+    },
+    {
+      "user": "carters",
+      "score": 10,
+      "review_date": {
+        "day": 7,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "A Horror film that is really scary"
+    },
+    {
+      "user": "austin-93116",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "\"Contagion\" is an epidemic thriller that brings real-world disease fears into the minds of the audience by capturing the extreme course of a new, untraceable virus."
+    },
+    {
+      "user": "cdavis-73352",
+      "score": 7,
+      "review_date": {
+        "day": 23,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "How prepared are we in the event of a severe pandemic?"
+    },
+    {
+      "user": "talisencrw",
+      "score": 9,
+      "review_date": {
+        "day": 2,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Very underrated medical thriller from Soderbergh makes you think!"
+    },
+    {
+      "user": "abrooke-jennings",
+      "score": 7,
+      "review_date": {
+        "day": 5,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "An Idea All Too Real"
+    },
+    {
+      "user": "Sjalka Rjadottir",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "I should not have been bored, but i was..."
+    },
+    {
+      "user": "David Holt (rawiri42)",
+      "score": 7,
+      "review_date": {
+        "day": 24,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Not Sci/fi."
+    },
+    {
+      "user": "Johan Dondokambey",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A nice ensemble of top name cast on a beautifully dramatized subject"
+    },
+    {
+      "user": "Leofwine_draca",
+      "score": 5,
+      "review_date": {
+        "day": 8,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Soderbergh just doesn't cut it..."
+    },
+    {
+      "user": "Ben Davis",
+      "score": 4,
+      "review_date": {
+        "day": 5,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Disappointing and really boring unfortunately"
+    },
+    {
+      "user": "valadas",
+      "score": 6,
+      "review_date": {
+        "day": 8,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Lukewarm narrative"
+    },
+    {
+      "user": "hoytyhoyty",
+      "score": 10,
+      "review_date": {
+        "day": 23,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Despite looking like a turkey, it's a raptor"
+    },
+    {
+      "user": "Regienald Gayaman",
+      "score": 8,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A disaster movie that has an accurate medical basis"
+    },
+    {
+      "user": "Hellmant",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Soderbergh's virus thriller is good but not contagious."
+    },
+    {
+      "user": "moviewizguy",
+      "score": 8,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Nothing spreads like fear"
+    },
+    {
+      "user": "roselaar",
+      "score": 7,
+      "review_date": {
+        "day": 20,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Shocking substance but overly clinical approach"
+    },
+    {
+      "user": "SeriousJest",
+      "score": 8,
+      "review_date": {
+        "day": 15,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Humanity is the Protagonist"
+    },
+    {
+      "user": "knows_film",
+      "score": 6,
+      "review_date": {
+        "day": 25,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "a movie about a pandemic with a spine chilling ending"
+    },
+    {
+      "user": "Rodrigo Amaro (rodrigo882008@hotmail.com)",
+      "score": 10,
+      "review_date": {
+        "day": 17,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Brilliantly informative and entertaining"
+    },
+    {
+      "user": "Rhianna Aspinall",
+      "score": 5,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Literally \"OK\"."
+    },
+    {
+      "user": "TdSmth5",
+      "score": 9,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Great what-if movie"
+    },
+    {
+      "user": "wandereramor",
+      "score": 5,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Basically bureaucracy porn"
+    },
+    {
+      "user": "rebecca-ry",
+      "score": 10,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Don't forget to wash your hands"
+    },
+    {
+      "user": "thinker1691",
+      "score": 7,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "\" Don't Blame others!    We did it to ourselves \""
+    },
+    {
+      "user": "Ron Ronn",
+      "score": 7,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Intelegent Movie"
+    },
+    {
+      "user": "dalelawson-1",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Contagion Review"
+    },
+    {
+      "user": "JohnRayPeterson",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Hypochondriacs stay away from this one"
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A very frightening movie about an epidemic that could actually happen.  This is a movie that everyone should see. I say B+"
+    },
+    {
+      "user": "FilmFanatic03",
+      "score": 7,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Not too dramatic, but not too bland. The perfect balance."
+    },
+    {
+      "user": "peter-stewart866",
+      "score": 6,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Less epidemic more a mild cold"
+    },
+    {
+      "user": "Argemaluco",
+      "score": 8,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Entertaining and very interesting"
+    },
+    {
+      "user": "pinkseashell09",
+      "score": 5,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Disappointment"
+    },
+    {
+      "user": "Brian Hadsell",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "The Film that \"Outbreak\" Wanted to Be."
+    },
+    {
+      "user": "Michael O'Keefe",
+      "score": 8,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Don't touch anyone!"
+    },
+    {
+      "user": "ctabkey",
+      "score": 3,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Good cast, clean execution, weak storyline"
+    },
+    {
+      "user": "lamiaaos",
+      "score": 6,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Simply Incomplete"
+    },
+    {
+      "user": "Reel_starz",
+      "score": 8,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A \"Contagion\" worth catching"
+    },
+    {
+      "user": "virek213",
+      "score": 10,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Going Viral (Quite Literally)"
+    },
+    {
+      "user": "dvc5159",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Very good but were it longer, it would've been a classic"
+    },
+    {
+      "user": "themuddoctor",
+      "score": 9,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Contagion is cold, nervy, and very suspenseful"
+    },
+    {
+      "user": "Jeffrey Reed",
+      "score": 5,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Great premise, not so great movie"
+    },
+    {
+      "user": "woodiah",
+      "score": 6,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Okay - But I thought Slow"
+    },
+    {
+      "user": "tomgillespie2002",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Occasionally thrilling film that fizzles out towards the end"
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "score": 4,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "I was genuinely disappointed..."
+    },
+    {
+      "user": "iheart_ny",
+      "score": 10,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Contagion: A chilling, disturbing and effective disaster film."
+    },
+    {
+      "user": "Scott Baldwin (Meven_Stoffat)",
+      "score": 10,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "There's an evil virus that's threatening all mankind, not state of the art, a serious state of the mind..."
+    },
+    {
+      "user": "adrien7-127-296746",
+      "score": 10,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Worth every penny"
+    },
+    {
+      "user": "jdkraus",
+      "score": 9,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A Germ Phobic's worst nightmare"
+    },
+    {
+      "user": "Siddhant Raut",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Good Movie. Go for it."
+    },
+    {
+      "user": "Christian_Dimartino",
+      "score": 10,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Dazzling, gripping, and frighteningly real, Contagion is the best film of the year so far."
+    },
+    {
+      "user": "brandon09",
+      "score": 10,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Contagion = Intelligent Edge-of-Your-Seat Thriller!"
+    },
+    {
+      "user": "arinkleff-725-861016",
+      "score": 10,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Excellent"
+    },
+    {
+      "user": "greenie11",
+      "score": 5,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Huge disappointment!"
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "score": 5,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Can't Touch This"
+    },
+    {
+      "user": "daniStakset",
+      "score": 1,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Boring"
+    },
+    {
+      "user": "s-j-k-phl",
+      "score": 1,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Superficial Film..! and Boring"
+    },
+    {
+      "user": "JephyrX",
+      "score": 1,
+      "review_date": {
+        "day": 22,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Not very good"
+    },
+    {
+      "user": "Troy Putland",
+      "score": 6,
+      "review_date": {
+        "day": 20,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A tense drama that cares more about statistics than audience/character relationship."
+    },
+    {
+      "user": "janvkooy",
+      "score": 6,
+      "review_date": {
+        "day": 7,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "What to tell"
+    },
+    {
+      "user": "brandonsullivan91",
+      "score": 8,
+      "review_date": {
+        "day": 29,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "This move is SICK (in the good way)"
+    },
+    {
+      "user": "juneebuggy",
+      "score": 8,
+      "review_date": {
+        "day": 7,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Scary -pretty accurate portrayal of a global pandemic with a great extended cast,"
+    },
+    {
+      "user": "Robert Thompson (justbob1982)",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Star-studded disaster movie or educational speculative drama?"
+    },
+    {
+      "user": "museumofdave",
+      "score": 7,
+      "review_date": {
+        "day": 24,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Disaster Film Lightly Dusted With Social Consciousness"
+    },
+    {
+      "user": "sergepesic",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Sobering look"
+    },
+    {
+      "user": "eatfirst",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Now please wash your hands"
+    },
+    {
+      "user": "davideo-2",
+      "score": 9,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Tense, atmospheric thriller that brings the killer virus movie back into the sphere"
+    },
+    {
+      "user": "Helio Copter",
+      "score": 8,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Take it as it is; very to-the-point and thought-provoking."
+    },
+    {
+      "user": "The_late_Buddy_Ryan",
+      "score": 7,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Soderbergh's ecocatastrophe thriller pins the blame on habitat destruction and Gwynneth Paltrow"
+    },
+    {
+      "user": "Matt Kracht (krachtm@yahoo.com)",
+      "score": 7,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Perhaps more for Soderbergh fans"
+    },
+    {
+      "user": "Robert J. Maxwell (rmax304823@yahoo.com)",
+      "score": 7,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Outbreak For Adults."
+    },
+    {
+      "user": "Jim Gilligan",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "The story of a virus"
+    },
+    {
+      "user": "arash badakhsh",
+      "score": 7,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "It was different somehow!"
+    },
+    {
+      "user": "seexwne",
+      "score": 9,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "The Expendables Gone Right"
+    },
+    {
+      "user": "Film Flare",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Fascinating."
+    },
+    {
+      "user": "julian-mumford",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "May have audiences vowing to never touch anything, ever again."
+    },
+    {
+      "user": "Beatrice McClearn",
+      "score": 9,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Much better than expected!!"
+    },
+    {
+      "user": "Radagast23",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "It's no Outbreak"
+    },
+    {
+      "user": "William Warby",
+      "score": 8,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Very good, but not as wonderful as I was expecting"
+    },
+    {
+      "user": "Sarah Hook",
+      "score": 7,
+      "review_date": {
+        "day": 31,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Could Have Been So Much More"
+    },
+    {
+      "user": "LeonLouisRicci",
+      "score": 4,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Views Like a Visual, Tedious Textbook"
+    },
+    {
+      "user": "Michael Kolokov",
+      "score": 5,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "It's pretty lame"
+    },
+    {
+      "user": "Dan Ashley (DanLives1980)",
+      "score": 5,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Lazy!"
+    },
+    {
+      "user": "newmvesstnk",
+      "score": 8,
+      "review_date": {
+        "day": 31,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Excellent movie!"
+    },
+    {
+      "user": "Troye Dchgl",
+      "score": 4,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Disappointed, but maybe I was expecting too much..."
+    },
+    {
+      "user": "thesar-2",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Killer Blog"
+    },
+    {
+      "user": "Jeff Hammer (jeffallenhammer@gmail.com)",
+      "score": 5,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Contagions suffers from a bad case of subtraction by addition."
+    },
+    {
+      "user": "simona gianotti",
+      "score": 7,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Tense, realistic, paranoid drama, featuring a top-notch cast"
+    },
+    {
+      "user": "Manthan Ginoya",
+      "score": 9,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Offers a chilling view on a virus epidemic"
+    },
+    {
+      "user": "maruneer007",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "incredibly realistic!! beauliful cast!!"
+    },
+    {
+      "user": "justinjaeger",
+      "score": 5,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A Build-Up With a Weak Climax"
+    },
+    {
+      "user": "Greg (gregmoroberts@yahoo.com)",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Frightful Reality"
+    },
+    {
+      "user": "jfwhelan",
+      "score": 4,
+      "review_date": {
+        "day": 28,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Very Disappointing"
+    },
+    {
+      "user": "culmo80",
+      "score": 8,
+      "review_date": {
+        "day": 18,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Frightening...Because Its the Most Accurate Portrayal..."
+    },
+    {
+      "user": "stills-6",
+      "score": 4,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Blah"
+    },
+    {
+      "user": "caroeb",
+      "score": 3,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Unexciting \"disaster\" movie"
+    },
+    {
+      "user": "Greg Stone",
+      "score": 3,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A Real Plodder..."
+    },
+    {
+      "user": "capone666",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "The Vidiot Reviews..."
+    },
+    {
+      "user": "Simon Wells",
+      "score": 4,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Yet another colourless empty Steven Soderbergh film"
+    },
+    {
+      "user": "Westeire",
+      "score": 4,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Watchable but not great."
+    },
+    {
+      "user": "alangsco",
+      "score": 4,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Predictably disappointing."
+    },
+    {
+      "user": "david-sarkies",
+      "score": 3,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Best left on the shelf of the video store"
+    },
+    {
+      "user": "galba3-1",
+      "score": 3,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Dystopia Lite for the hard of thinking"
+    },
+    {
+      "user": "Karen Cabiltes",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Disappointing"
+    },
+    {
+      "user": "TheLittleSongbird",
+      "score": 8,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "An excellent film"
+    },
+    {
+      "user": "cunhafp",
+      "score": 2,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Plain rubbish"
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "score": 10,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Well made outbreak story."
+    },
+    {
+      "user": "trcky1",
+      "score": 4,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Technically sound but lacks a soul"
+    },
+    {
+      "user": "mork_blasphemy",
+      "score": 4,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Absolutely nothing new"
+    },
+    {
+      "user": "scotty_goldie",
+      "score": 3,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "What a way to celebrate Christmas  Eve ! Don't get fooled by the title."
+    },
+    {
+      "user": "intelearts",
+      "score": 4,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "470th Review: A Disaster Of A Movie"
+    },
+    {
+      "user": "t-addisjones",
+      "score": 2,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Dismal"
+    },
+    {
+      "user": "salber-2",
+      "score": 3,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Worst date movie ever"
+    },
+    {
+      "user": "Eliisamonster",
+      "score": 2,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Save your time and go see Lion King"
+    },
+    {
+      "user": "mtc69707",
+      "score": 3,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Not worth your time"
+    },
+    {
+      "user": "Turfseer",
+      "score": 2,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "For Soderbergh, creators of vaccines are new worldwide saviors!"
+    },
+    {
+      "user": "kgprophet",
+      "score": 5,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Bizarre Living in Minneapolis, Still Feeling OK"
+    },
+    {
+      "user": "ghardy-908-981155",
+      "score": 3,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Can we say Disappointed???"
+    },
+    {
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "score": 3,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "I Was Expecting This To Be A Lot More Exciting"
+    },
+    {
+      "user": "psysword",
+      "score": 3,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "starts out well, but then self-destructs by the end."
+    },
+    {
+      "user": "demetrius11",
+      "score": 2,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A movie that surprised me with the lack of depth or emotion !"
+    },
+    {
+      "user": "Dave Voyles",
+      "score": 1,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Where is the second half of the movie?"
+    },
+    {
+      "user": "ilia_skib",
+      "score": 1,
+      "review_date": {
+        "day": 3,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Excruciatingly boring"
+    },
+    {
+      "user": "danirocks2012",
+      "score": 10,
+      "review_date": {
+        "day": 4,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "the truth about the actual disease"
+    },
+    {
+      "user": "filmchasing",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Time To Become A Germaphobe..."
+    },
+    {
+      "user": "NotThereYetBuddy",
+      "score": 9,
+      "review_date": {
+        "day": 13,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "I really dislike most conspiracy theorists."
+    },
+    {
+      "user": "Scarecrow-88",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Contagion"
+    },
+    {
+      "user": "highwaytourist",
+      "score": 7,
+      "review_date": {
+        "day": 24,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "\"Outbreak\" meets \"Short Cuts\" in this efficient medical thriller"
+    },
+    {
+      "user": "Desertman84",
+      "score": 10,
+      "review_date": {
+        "day": 5,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "An Excellent Medical Disaster Film"
+    },
+    {
+      "user": "Austin Takahashi",
+      "score": 7,
+      "review_date": {
+        "day": 15,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Contagion - 3.5 Stars"
+    },
+    {
+      "user": "Marc Davis",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Predictable, Yet Still Somehow Very Compelling"
+    },
+    {
+      "user": "donb-519-335075",
+      "score": 8,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "This has happened before"
+    },
+    {
+      "user": "Andy Steel",
+      "score": 7,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A slow burner... But worth a look!..."
+    },
+    {
+      "user": "Treyroo",
+      "score": 7,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Pandemic on film"
+    },
+    {
+      "user": "richy1024",
+      "score": 7,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Never mind 3D glasses, this film requires a full body masking suit."
+    },
+    {
+      "user": "Tcarts76",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "With the cast involved it should have been much better"
+    },
+    {
+      "user": "JoshSharpe",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Gripping but empty film"
+    },
+    {
+      "user": "alexjacobs04",
+      "score": 3,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Meh"
+    },
+    {
+      "user": "mzrk9",
+      "score": 4,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Great cast, good idea, absolutely terrible movie"
+    },
+    {
+      "user": "MLDinTN",
+      "score": 4,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "what you expect to see on the Discovery channel"
+    },
+    {
+      "user": "w11062",
+      "score": 6,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Good movie"
+    },
+    {
+      "user": "ThreeGuysOneMovie",
+      "score": 6,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "I'm supposed to bow down to the altar of Steven Soderbergh"
+    },
+    {
+      "user": "nishy2012",
+      "score": 5,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "great soundtrack, shame the film is not so good"
+    },
+    {
+      "user": "jgrizzle358",
+      "score": 6,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Not sure what to think..."
+    },
+    {
+      "user": "gtmail77",
+      "score": 3,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Very disappointing"
+    },
+    {
+      "user": "drchetandoshi",
+      "score": 6,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "epidemic threat"
+    },
+    {
+      "user": "bongcastaneda",
+      "score": 5,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Spoilers: Propaganda Machine Don't be Brainwashed!"
+    },
+    {
+      "user": "nep983",
+      "score": 7,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Actually felt sick during the movie and felt paranoid after"
+    },
+    {
+      "user": "kdorsey321",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "plain bagel"
+    },
+    {
+      "user": "artalmarcelo",
+      "score": 8,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "I'll wash my hands after this review."
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "score": 7,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A warning film disguised as a thriller"
+    },
+    {
+      "user": "silverdragon4",
+      "score": 8,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Virus...but no Zombies?  Realism hits the screen"
+    },
+    {
+      "user": "buckikris",
+      "score": 9,
+      "review_date": {
+        "day": 18,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Please Pass The Hand Sanitizer-STAT."
+    },
+    {
+      "user": "averybrooks",
+      "score": 5,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Average, very average."
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Contagion (2011) - You Better Grab Out Your Hand Sanitizers!"
+    },
+    {
+      "user": "Rubens Junior",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Soderbergh finally translates and makes Romero accessible"
+    },
+    {
+      "user": "Katie Sirles (katie.sirles@gmail.com)",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A billion dead! That's where we're headed!"
+    },
+    {
+      "user": "featheredsun",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Realistic and and engaging - no nonsense"
+    },
+    {
+      "user": "jmcfrancis",
+      "score": 7,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Good, but full of holes"
+    },
+    {
+      "user": "lorandtoma",
+      "score": 7,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "not really entertaining but good movie"
+    },
+    {
+      "user": "marc-895",
+      "score": 7,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Open your mind - this might change it."
+    },
+    {
+      "user": "Sam Wanjere",
+      "score": 8,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Contagion (2011)"
+    },
+    {
+      "user": "valleyjohn",
+      "score": 7,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Good but could have been better."
+    },
+    {
+      "user": "fingershop",
+      "score": 8,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Well crafted and fascinating film"
+    },
+    {
+      "user": "Hitesh Jadhwani",
+      "score": 8,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A break from the usual over the top Hollywood cinema, without making it look like a documentary"
+    },
+    {
+      "user": "Jimmy Collins",
+      "score": 5,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Slow paced, somewhat boring, but stays with you after you've left the theatre."
+    },
+    {
+      "user": "mokhatib",
+      "score": 8,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Fear Fear Itself"
+    },
+    {
+      "user": "vibor123",
+      "score": 7,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Finally solid non zombie disease movie"
+    },
+    {
+      "user": "napierslogs",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Life and death as been done before but now with debates"
+    },
+    {
+      "user": "Pascal Zinken (LazySod)",
+      "score": 7,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Why did they apply a can of big name players?"
+    },
+    {
+      "user": "davidx2718",
+      "score": 7,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Thriller with more science than personality"
+    },
+    {
+      "user": "leslieblackacts",
+      "score": 5,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Um this was OK until the End..."
+    },
+    {
+      "user": "mohamed_atef_fawzy (mohamed.atef.got.mail@gmail.com)",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Would I like to watch it ? Thanks but no thanks."
+    },
+    {
+      "user": "kgmarra",
+      "score": 5,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Disappointing..."
+    },
+    {
+      "user": "bacardipr05",
+      "score": 5,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Not worth the trip not that good...Not what you expect based on previews."
+    },
+    {
+      "user": "dutchs-1",
+      "score": 7,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Great Start, Weak Finale"
+    },
+    {
+      "user": "CylonTheater",
+      "score": 7,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Movie a 7, soundtrack a 2"
+    },
+    {
+      "user": "marvinpmcd",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "The Good, The Questionable, The Bad and Why..."
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 6,
+      "review_date": {
+        "day": 13,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Overall sense of dread"
+    },
+    {
+      "user": "deatman9",
+      "score": 5,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "I did not enjoy it."
+    },
+    {
+      "user": "EvilMissQB",
+      "score": 3,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "yawn snore zzzzzzzzzzzzzzzzzzzzzzzz"
+    },
+    {
+      "user": "Gin-ster",
+      "score": 4,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Inexplicably bland and flat"
+    },
+    {
+      "user": "jamie_wheelerroberts",
+      "score": 5,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "To shallow"
+    },
+    {
+      "user": "Ryan_MYeah",
+      "score": 5,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Made with the best intentions, but I was expecting a lot more from it."
+    },
+    {
+      "user": "shortcourtking-227-550962",
+      "score": 4,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Contagion is not Contagious"
+    },
+    {
+      "user": "Jordan Davis",
+      "score": 6,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "http://tgtbtw.blogspot.com/"
+    },
+    {
+      "user": "roadrunner777",
+      "score": 5,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Nice scenery"
+    },
+    {
+      "user": "Jessica Fox",
+      "score": 5,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Such a disappointment"
+    },
+    {
+      "user": "omukhtar",
+      "score": 9,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "An Excellent portrayal of an epidemic ...."
+    },
+    {
+      "user": "scarletheels",
+      "score": 6,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Slick, stylized fictionalized docu-drama w/a CSI element to it"
+    },
+    {
+      "user": "Rockwell_Cronenberg",
+      "score": 8,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Another master piece of cinema from Soderbergh."
+    },
+    {
+      "user": "ncoviell",
+      "score": 9,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Contagion captures human side of catastrophe"
+    },
+    {
+      "user": "jzappa",
+      "score": 9,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Traffic 2.0, Only This Time, Drugs Are Good"
+    },
+    {
+      "user": "markdroulston",
+      "score": 6,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Felt like it should have been better"
+    },
+    {
+      "user": "estebangonzalez10",
+      "score": 8,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Great Thriller! Will make you want to stay away from people for a while"
+    },
+    {
+      "user": "Christian Tsoutsouvas",
+      "score": 8,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Soderbergh knows what he's doing, and does it well"
+    },
+    {
+      "user": "William A. White",
+      "score": 6,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Contagion conscmagion"
+    },
+    {
+      "user": "CaptMTS",
+      "score": 8,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Germaphobes Beware of Infectious Contagion!"
+    },
+    {
+      "user": "quinnox-1",
+      "score": 6,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "A decent but sleepy and slow paced thriller"
+    },
+    {
+      "user": "khan2705",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "this is exactly the type of pandemic thriller i was waiting for."
+    },
+    {
+      "user": "Brandon Blackwell",
+      "score": 6,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "\"Nothing Spreads Like Fear\""
+    },
+    {
+      "user": "j c",
+      "score": 3,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Disappointing above all else and leaves questions"
+    },
+    {
+      "user": "3xHCCH",
+      "score": 6,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Disappointing, but Kate Winslet Shines Through!"
+    },
+    {
+      "user": "timkelly91",
+      "score": 3,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Boring"
+    },
+    {
+      "user": "madamexopinions",
+      "score": 2,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Disappointing"
+    },
+    {
+      "user": "Jessica Savage",
+      "score": 4,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A whole lot of nothing."
+    },
+    {
+      "user": "jane-burkhart",
+      "score": 4,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "I agree. It fizzled."
+    },
+    {
+      "user": "jack_face",
+      "score": 6,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "If you have a brain and use it, you'll like this movie."
+    },
+    {
+      "user": "sondiponbiswas",
+      "score": 6,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A viral outbreak...."
+    },
+    {
+      "user": "shead23",
+      "score": 2,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "you may nod off!!"
+    },
+    {
+      "user": "gradyharp",
+      "score": 8,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Epidemiology and Terror"
+    },
+    {
+      "user": "TheUnknown837-1",
+      "score": 10,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Steven Soderbergh's \"Contagion\" is the best American movie of 2011 thus far"
+    },
+    {
+      "user": "riteshpase",
+      "score": 5,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Very flat"
+    },
+    {
+      "user": "dapplegrey13",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Disappointing. Not enough character development."
+    },
+    {
+      "user": "Anonymous",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Good for a Rainy Day, Otherwise Don't Bother"
+    },
+    {
+      "user": "Trinity Lawson",
+      "score": 1,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "A pointless film"
+    },
+    {
+      "user": "spotlightne",
+      "score": 1,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Talkative, slow and very boring"
+    },
+    {
+      "user": "DICK STEEL",
+      "score": 9,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A Nutshell Review: Contagion"
+    },
+    {
+      "user": "Pongo000",
+      "score": 1,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "A lugubrious mess"
+    },
+    {
+      "user": "Fr. Ryan Humphries",
+      "score": 1,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Overlong propaganda piece."
+    },
+    {
+      "user": "stimes19",
+      "score": 9,
+      "review_date": {
+        "day": 16,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "A Zombie Movie without the Zombies"
+    },
+    {
+      "user": "richwgriffin-227-176635",
+      "score": 10,
+      "review_date": {
+        "day": 15,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Extraordinary - a truly great film"
+    },
+    {
+      "user": "Nitzan Havoc",
+      "score": 6,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Well made and enjoyable, but nothing too extraordinary."
+    },
+    {
+      "user": "Tweekums",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Worth catching!"
+    },
+    {
+      "user": "kosmasp",
+      "score": 8,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Not an event movie"
+    },
+    {
+      "user": "KineticSeoul",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Intelligent pandemic movie but isn't for everyone"
+    },
+    {
+      "user": "Corwin Foss",
+      "score": 6,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Middle of the road movie"
+    },
+    {
+      "user": "ballerina_feet55",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Good Movie But A Lot Like Other Epidemic Stories"
+    },
+    {
+      "user": "curse-of-egypt",
+      "score": 10,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "contagion"
+    },
+    {
+      "user": "mlukowski-995-872876",
+      "score": 6,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Another movie about the affects of flu viruses..."
+    },
+    {
+      "user": "greg-204-767320",
+      "score": 8,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Thought provoking and well directed movie with a strong cast"
+    },
+    {
+      "user": "stensson",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Fewer"
+    },
+    {
+      "user": "Sven Fonteyn",
+      "score": 4,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Contagion"
+    },
+    {
+      "user": "alex-bamforth",
+      "score": 6,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "I didn't find the film that interesting to be honest . Please read."
+    },
+    {
+      "user": "kirby_fan101",
+      "score": 6,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "I Give Strike 1 on Soderbergh !"
+    },
+    {
+      "user": "laffnj",
+      "score": 6,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Entertaining and interesting portrayal, but expected a lot more"
+    },
+    {
+      "user": "black-hearted246",
+      "score": 6,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Good, but could have been better"
+    },
+    {
+      "user": "Ayay71",
+      "score": 6,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Moments of suspense in a sea of boredom"
+    },
+    {
+      "user": "buchofire",
+      "score": 6,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "OK, but no clear antagonist or ending"
+    },
+    {
+      "user": "TeaLeafOnTheWind",
+      "score": 6,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Procedural Drama Leaves The Drama at the Door"
+    },
+    {
+      "user": "philrusted",
+      "score": 1,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Absolute rubbish"
+    },
+    {
+      "user": "jslezak52",
+      "score": 2,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Totally loses on the general public"
+    },
+    {
+      "user": "Jaarus",
+      "score": 10,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Quite simply, it's brilliant."
+    },
+    {
+      "user": "Gaboaldana",
+      "score": 4,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "boring and predictable"
+    },
+    {
+      "user": "hapyzachy",
+      "score": 4,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "So much potential, and so much meaning, but it went so wrong."
+    },
+    {
+      "user": "akamu-one",
+      "score": 5,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Waste of time"
+    },
+    {
+      "user": "spradley-3",
+      "score": 3,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Not 'Outbreak', for sure!"
+    },
+    {
+      "user": "midtra52",
+      "score": 1,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Just a bad movie or propaganda"
+    },
+    {
+      "user": "random4ever",
+      "score": 3,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Contagion is just like Outbreak"
+    },
+    {
+      "user": "planktonrules",
+      "score": 6,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Interesting but somewhat sanitized"
+    },
+    {
+      "user": "dusan-22",
+      "score": 1,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "So bad"
+    },
+    {
+      "user": "Jeff Heimbrock (heimbrockj@gmail.com)",
+      "score": 6,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Contagion: Art of Disaster"
+    },
+    {
+      "user": "edwagreen",
+      "score": 5,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Contagion Negatively Infects Us **1/2"
+    },
+    {
+      "user": "samsara-5",
+      "score": 1,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Awfully misguided concept!!"
+    },
+    {
+      "user": "mctagga9",
+      "score": 1,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "CDC propaganda and just plain bad"
+    },
+    {
+      "user": "leiser18",
+      "score": 6,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "I was not thrilled"
+    },
+    {
+      "user": "tnega007-1",
+      "score": 4,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Waste of a great cast"
+    },
+    {
+      "user": "Claudio Carvalho",
+      "score": 4,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Disappointing, Pointless, Boring and Unoriginal Film"
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "score": 6,
+      "review_date": {
+        "day": 18,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Contagion"
+    },
+    {
+      "user": "Theo Robertson",
+      "score": 5,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Slow Moving Apocalypse"
+    }
+  ],
+  "release_year": 2011,
+  "max_screens": 3222,
+  "screens_by_weekend": [
+    3222,
+    3222,
+    3136,
+    2744,
+    2250,
+    1684,
+    901,
+    411,
+    260,
+    355,
+    301,
+    155,
+    111
+  ],
+  "critic_review_count": 442,
+  "num_weekends": 13,
   "closing_date": {
-    "month": 12,
-    "__type__": "datetime.date",
     "day": 9,
-    "year": 2011
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 12
   },
-  "gross_income": 75638743,
+  "opening_weekend_screens": 3222,
+  "rating": 6.6,
+  "opening_weekend_income": 22403596,
+  "user_review_count": 412,
+  "budget": 60000000,
+  "rating_count": 185315,
+  "metascore": 70,
+  "duration": 106,
   "avg_rating_per_demo": {
     "non-us_users": 6.6,
-    "aged_45+": 6.7,
-    "females_aged_45+": 6.8,
-    "imdb_staff": 7.2,
+    "aged_30-44": 6.6,
+    "top_1000_voters": 6.6,
+    "us_users": 6.9,
     "females_under_18": 6.6,
-    "males_aged_45+": 6.7,
-    "females_aged_18-29": 6.6,
     "males_aged_30-44": 6.6,
     "females": 6.6,
     "imdb_users": 6.6,
-    "us_users": 6.9,
-    "males_under_18": 7.0,
-    "top_1000_voters": 6.6,
-    "aged_under_18": 6.9,
+    "aged_45+": 6.7,
     "males": 6.7,
+    "females_aged_45+": 6.8,
+    "females_aged_18-29": 6.6,
+    "aged_under_18": 6.9,
+    "males_under_18": 7.1,
     "males_aged_18-29": 6.7,
     "females_aged_30-44": 6.6,
-    "aged_30-44": 6.6,
+    "males_aged_45+": 6.7,
+    "imdb_staff": 7.2,
     "aged_18-29": 6.7
   },
-  "opening_weekend_date": {
-    "month": 9,
-    "__type__": "datetime.date",
-    "day": 9,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 102234,
+    "aged_30-44": 80787,
+    "top_1000_voters": 613,
+    "us_users": 34159,
+    "females_under_18": 61,
+    "males_aged_30-44": 67507,
+    "females": 29781,
+    "imdb_users": 185315,
+    "aged_45+": 17196,
+    "males": 135010,
+    "females_aged_45+": 2716,
+    "females_aged_18-29": 13669,
+    "aged_under_18": 247,
+    "males_under_18": 176,
+    "males_aged_18-29": 48988,
+    "females_aged_30-44": 12206,
+    "males_aged_45+": 14206,
+    "imdb_staff": 24,
+    "aged_18-29": 63293
   },
-  "budget_currency": "$",
-  "user_review_count": 412,
-  "metascore": 70,
-  "max_screens": 3222,
-  "duration": 106,
-  "rating_count": 185305,
-  "release_day": 9,
-  "release_month": "September",
-  "release_year": 2011,
+  "gross_income": 75638743,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 22403596,
-  "critic_review_count": 442,
-  "rating": 6.6,
-  "avg_screens": 1442.4615384615386,
-  "name": "Contagion",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 9,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 9
+  }
 }

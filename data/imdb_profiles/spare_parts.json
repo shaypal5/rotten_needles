@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 1,
-    "year": 2015,
-    "day": 23,
-    "__type__": "datetime.date"
+  "release_day": null,
+  "avg_rating_per_demo": {
+    "aged_45+": 7.2,
+    "top_1000_voters": 5.9,
+    "males_under_18": 7.6,
+    "imdb_staff": 7.0,
+    "males_aged_18-29": 7.4,
+    "imdb_users": 7.3,
+    "males_aged_45+": 7.1,
+    "aged_18-29": 7.5,
+    "us_users": 7.2,
+    "females_aged_30-44": 7.2,
+    "males": 7.2,
+    "females": 7.5,
+    "females_aged_45+": 7.5,
+    "non-us_users": 7.2,
+    "females_aged_18-29": 7.7,
+    "females_under_18": 9.1,
+    "aged_30-44": 7.1,
+    "aged_under_18": 7.9,
+    "males_aged_30-44": 7.1
   },
   "closing_date": {
     "month": 2,
@@ -11,80 +27,459 @@
     "day": 27,
     "__type__": "datetime.date"
   },
-  "rating": 7.3,
+  "metascore": 50,
   "num_weekends": 4,
+  "rating_count": 8195,
+  "gross_income": 3610933,
+  "max_screens": 424,
+  "opening_weekend_screens": 424,
+  "screens_by_weekend": [
+    424,
+    135,
+    90,
+    63
+  ],
+  "opening_weekend_income": 808022,
   "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "See this movie!",
+      "score": 8,
+      "user": "Janet Ruth",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Inspirational!",
+      "score": 8,
+      "user": "bsb_rus",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heartwarming and Inspirational",
+      "score": 9,
+      "user": "miller_family8879",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hits all the right notes a heart warming inspiring story should hit.",
+      "score": 8,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inspirational True Story",
+      "score": 10,
+      "user": "TravelBug Susan",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smooth, nicely paced, well-grounded feel-gooder",
+      "score": 8,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Spare Parts\" is an underdog story of unusual depth and quality.",
+      "score": 9,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very, very, very inspirational movie with great actors, great writing and awesome story!",
+      "score": 10,
+      "user": "carmimol",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "true story and incredible, even when you boil it down",
+      "score": 10,
+      "user": "jeffrotallo-245-637065",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Film About Mexican Immigrants",
+      "score": 9,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Politically charged movie about immigration and robotics.",
+      "score": 7,
+      "user": "rushknight",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feel-Good Flick",
+      "score": 8,
+      "user": "Larry Silverstein",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inspirational family movie",
+      "score": 8,
+      "user": "hugo-211",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heart filled masterpiece!",
+      "score": 8,
+      "user": "Anuj Gupta",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unfortunately suffers by comparison to a similar, far superior film",
+      "score": 4,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing underdog tale",
+      "score": 10,
+      "user": "carrillg",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A touching story, with very little from the actors.",
+      "score": 5,
+      "user": "Rageypoo",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The immigrants and the miracle .",
+      "score": 8,
+      "user": "Moh Meg",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bit typical but still very much touching",
+      "score": 8,
+      "user": "Seth_Rogue_One",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent movie!!!",
+      "score": 10,
+      "user": "nugget3535",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I always cheer for the underdog, and this movie inspires!",
+      "score": 7,
+      "user": "rosyrnrn",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent. That's about it.",
+      "score": 5,
+      "user": "santiagocosme",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Review and Rating on Spare Parts",
+      "score": 3,
+      "user": "zaid-87403",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a feel-good movie of the first rank.",
+      "score": 5,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is really well done!",
+      "score": 9,
+      "user": "Frederick Malouf",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Propaganda: Their Robot actually placed 3rd behind MIT",
+      "score": 1,
+      "user": "The_Real_Review",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "sincere and a little funny",
+      "score": 6,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A tad trite and predictable but should inspire youngsters",
+      "score": 6,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well worth the 83 minutes of running time.",
+      "score": 7,
+      "user": "jeffturner1988",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film for the teachers who has never dreamt to be one, a must see",
+      "score": 10,
+      "user": "hygog6",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What an Amazing Movie !!",
+      "score": 10,
+      "user": "shravan-dhadiwal",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "From nothing to something!",
+      "score": 9,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of Spare Parts",
+      "score": 7,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heart-Warming True Story",
+      "score": 6,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bland True Life Story Which Isn't Entirely Truthful",
+      "score": 6,
+      "user": "Theo Robertson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 114,
+  "votes_per_demo": {
+    "aged_45+": 1025,
+    "top_1000_voters": 95,
+    "males_under_18": 20,
+    "imdb_staff": 1,
+    "males_aged_18-29": 1889,
+    "imdb_users": 8195,
+    "males_aged_45+": 838,
+    "aged_18-29": 2342,
+    "us_users": 1259,
+    "females_aged_30-44": 443,
+    "males": 5655,
+    "females": 1123,
+    "females_aged_45+": 169,
+    "non-us_users": 3784,
+    "females_aged_18-29": 428,
+    "females_under_18": 6,
+    "aged_30-44": 3099,
+    "aged_under_18": 27,
+    "males_aged_30-44": 2620
+  },
+  "genres": [
+    "drama"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 113,
     "2": 32,
     "3": 63,
     "4": 111,
     "5": 341,
-    "6": 990,
+    "6": 991,
     "7": 2318,
-    "8": 2228,
+    "8": 2229,
     "9": 928,
     "10": 1069
   },
-  "avg_screens": 178.0,
+  "release_month": null,
   "budget": null,
   "budget_currency": null,
-  "release_day": null,
-  "metascore": 50,
-  "genres": [
-    "drama"
-  ],
-  "release_month": null,
-  "avg_rating_per_demo": {
-    "aged_45+": 7.2,
-    "aged_18-29": 7.5,
-    "aged_30-44": 7.1,
-    "females": 7.5,
-    "top_1000_voters": 5.9,
-    "non-us_users": 7.2,
-    "females_under_18": 9.1,
-    "males_aged_30-44": 7.1,
-    "us_users": 7.2,
-    "imdb_users": 7.3,
-    "imdb_staff": 7.0,
-    "males_under_18": 7.6,
-    "females_aged_18-29": 7.7,
-    "males_aged_45+": 7.1,
-    "females_aged_30-44": 7.2,
-    "males": 7.2,
-    "males_aged_18-29": 7.4,
-    "females_aged_45+": 7.5,
-    "aged_under_18": 7.9
-  },
-  "opening_weekend_income_currency": "$",
+  "total_screens": 712,
   "year": 2015,
-  "name": "Spare Parts",
-  "gross_income": 3610933,
-  "user_review_count": 36,
-  "duration": 114,
-  "max_screens": 424,
-  "votes_per_demo": {
-    "aged_45+": 1024,
-    "aged_18-29": 2341,
-    "aged_30-44": 3099,
-    "females": 1122,
-    "top_1000_voters": 95,
-    "non-us_users": 3784,
-    "females_under_18": 6,
-    "males_aged_30-44": 2620,
-    "us_users": 1258,
-    "imdb_users": 8193,
-    "imdb_staff": 1,
-    "males_under_18": 20,
-    "females_aged_18-29": 427,
-    "males_aged_45+": 837,
-    "females_aged_30-44": 443,
-    "males": 5654,
-    "males_aged_18-29": 1889,
-    "females_aged_45+": 169,
-    "aged_under_18": 27
-  },
-  "rating_count": 8193,
+  "rating": 7.3,
   "critic_review_count": 21,
-  "opening_weekend_income": 808022
+  "opening_weekend_date": {
+    "month": 1,
+    "year": 2015,
+    "day": 23,
+    "__type__": "datetime.date"
+  },
+  "name": "Spare Parts",
+  "user_review_count": 36,
+  "avg_screens": 178.0
 }

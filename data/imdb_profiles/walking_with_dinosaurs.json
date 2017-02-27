@@ -1,92 +1,767 @@
 {
-  "critic_review_count": 114,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2014,
-    "month": 4,
-    "day": 4
-  },
-  "release_month": "December",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 12,
-    "day": 20
-  },
-  "metascore": 37,
-  "max_screens": 3231,
-  "duration": 87,
-  "rating_count": 9255,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 9,
+  "release_day": 20,
   "avg_rating_per_demo": {
+    "aged_45+": 5.3,
+    "top_1000_voters": 4.5,
+    "males_under_18": 5.6,
+    "imdb_staff": 10.0,
+    "males_aged_18-29": 5.1,
+    "imdb_users": 5.2,
+    "males_aged_45+": 5.3,
+    "aged_18-29": 5.2,
+    "us_users": 4.9,
+    "females_aged_30-44": 5.5,
+    "males": 5.2,
+    "females": 5.5,
+    "females_aged_45+": 5.4,
     "non-us_users": 5.2,
     "females_aged_18-29": 5.4,
-    "females": 5.5,
-    "aged_45+": 5.3,
     "females_under_18": 6.2,
-    "imdb_users": 5.2,
-    "imdb_staff": 10.0,
-    "females_aged_30-44": 5.5,
-    "aged_under_18": 5.7,
-    "males_aged_30-44": 5.1,
-    "top_1000_voters": 4.5,
     "aged_30-44": 5.2,
-    "males_aged_18-29": 5.1,
-    "males": 5.2,
-    "females_aged_45+": 5.4,
-    "males_under_18": 5.6,
-    "us_users": 4.9,
-    "males_aged_45+": 5.3,
-    "aged_18-29": 5.2
+    "aged_under_18": 5.7,
+    "males_aged_30-44": 5.1
   },
-  "user_review_count": 67,
-  "rating_freq": {
-    "1": 621,
-    "2": 442,
-    "3": 709,
-    "4": 1082,
-    "5": 1821,
-    "6": 1903,
-    "7": 1187,
-    "8": 500,
-    "9": 247,
-    "10": 743
+  "closing_date": {
+    "month": 4,
+    "year": 2014,
+    "day": 4,
+    "__type__": "datetime.date"
+  },
+  "metascore": 37,
+  "num_weekends": 9,
+  "rating_count": 9257,
+  "gross_income": 36073232,
+  "max_screens": 3231,
+  "opening_weekend_screens": 3231,
+  "screens_by_weekend": [
+    3231,
+    330,
+    323,
+    248,
+    214,
+    98,
+    59,
+    42,
+    33
+  ],
+  "opening_weekend_income": 7091938,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "Should have been silent.",
+      "score": 1,
+      "user": "chris_rowe-881-168820",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "First-rate animation done a disservice by a third-rate script.",
+      "score": 5,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How to spend 80 million dollars to nothing",
+      "score": 1,
+      "user": "tinovalkki",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My daughter absolutely loved it.",
+      "score": 8,
+      "user": "kev-johnson77",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Studio couldn't decide which way to go",
+      "score": 5,
+      "user": "joexrayguy",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "why... just why?",
+      "score": 1,
+      "user": "Motion-Picture-Extremism",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was being very kind with my 4* rating",
+      "score": 4,
+      "user": "spyrotails",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful",
+      "score": 1,
+      "user": "justhannah",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A disgrace to the \"Walking with Dinosaurs\" name.",
+      "score": 3,
+      "user": "Feature_Length",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dull and repetitive",
+      "score": 4,
+      "user": "Troy_Campbell",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun, nicely done, only for children above 6.",
+      "score": 10,
+      "user": "willy_337",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "we loved it!!!!!!!!!",
+      "score": 10,
+      "user": "dinobug",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better if you wear earplugs if you are older than 7",
+      "score": 5,
+      "user": "Clive Barons",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Major Disappointment\u0085",
+      "score": 4,
+      "user": "jmalek2013",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Include a dialogue-free narrator-only option for \"Walking With Dinosaurs 3-D\" Bluray DVD release",
+      "score": 4,
+      "user": "getbackinyourtaco",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The worst movie i have ever seen (30 years old have seen thousands)",
+      "score": 1,
+      "user": "christianstipano",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I will not take this walk again, that's for sure",
+      "score": 4,
+      "user": "adi_2002",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is for Children",
+      "score": 6,
+      "user": "viceroy_88",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a waste of great animation !",
+      "score": 5,
+      "user": "falcon1111",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't watch it.",
+      "score": 1,
+      "user": "stevejohnpeel",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Misjudged, misguided and simply terrible movie",
+      "score": 3,
+      "user": "tezby",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant for the kids",
+      "score": 10,
+      "user": "One Chap From Down Under",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"She likes me...and she likes my hole.\"",
+      "score": 5,
+      "user": "utgard14",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful but boring",
+      "score": 4,
+      "user": "cunninglinguine",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kids liked it and I liked the break it gave me",
+      "score": 6,
+      "user": "therunner42",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A poor movie with a thin plot. Spend those $10 getting your kid a book about dinosaurs instead.",
+      "score": 3,
+      "user": "Electricbassguy",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrific CGI but horrible voice acting & clich\u00e9d storytelling",
+      "score": 3,
+      "user": "Thomas Stansfield",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Children's Movie",
+      "score": 10,
+      "user": "LaughinAtYou",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst Movie Ever!",
+      "score": 1,
+      "user": "kat-ballentine2675",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not to be confused with the BBC series - or entertainment",
+      "score": 1,
+      "user": "adycousins",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Land Before Time This Ain't",
+      "score": 2,
+      "user": "Adam Vandermaelen",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dull, patronizing lecture from a teacher with more enthusiasm than knowledge.",
+      "score": 2,
+      "user": "TheSquiss",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Be kind to yourself and avoid it at all cost",
+      "score": 2,
+      "user": "feronique-35641",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's simple, a little awkward but OK.",
+      "score": 5,
+      "user": "Shopaholic35",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Voice-over kills the movie....",
+      "score": 1,
+      "user": "Rebecca",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coprolite. Pure Coprolite.",
+      "score": 2,
+      "user": "jljosh-87468",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So much potential...",
+      "score": 3,
+      "user": "Brandi H",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing Animation But Ruined By A Clumsy Script And Last Minute Voices All Thanks To 20th Century Fox",
+      "score": 4,
+      "user": "desanihoward",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poop, butts, and puke...",
+      "score": 1,
+      "user": "Michael Dorsey",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A potential classic but utterly gutted and smeared with childish jokes.",
+      "score": 3,
+      "user": "Incendid",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An irritating mess apart from the animation",
+      "score": 3,
+      "user": "TheLittleSongbird",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie trashed by narration and voices",
+      "score": 1,
+      "user": "Liam Robertson",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fast food filmmaking at its finest",
+      "score": 3,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great visuals but with bad dialog and annoying voice acting.",
+      "score": 5,
+      "user": "wevzombie",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Walking with Dinosaurs",
+      "score": 5,
+      "user": "Phil Hubbs",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Buy the original \"Walking with Dinosaurs\" and enjoy!",
+      "score": 2,
+      "user": "dsmith1868-1",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent enough, but not stellar",
+      "score": 7,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Looking forward to the DVD so I can watch it without sound",
+      "score": 6,
+      "user": "dcorr123",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing! 3/10",
+      "score": 3,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Walking with walnut-sized brains . . .",
+      "score": 7,
+      "user": "Hot 888 Mama",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Children Movie",
+      "score": 7,
+      "user": "erindal",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great for introducing young kids to dinosaurs",
+      "score": 7,
+      "user": "dainthomas72",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sexist movie, would not recommend",
+      "score": 1,
+      "user": "roaringgoose",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie for kids, unfortunately grown-ups are missing the point",
+      "score": 8,
+      "user": "Rashid Farook",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad",
+      "score": 6,
+      "user": "Jeremia Kamagie",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyed and kids loved",
+      "score": 10,
+      "user": "ikonlover",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Out of the ordinary",
+      "score": 8,
+      "user": "lockmansmb",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Nice Family Film",
+      "score": 6,
+      "user": "bethany-lewis",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful movie",
+      "score": 10,
+      "user": "Risha300",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Dinosaur Movie Ever",
+      "score": 10,
+      "user": "cypressoury",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 87,
+  "votes_per_demo": {
+    "aged_45+": 999,
+    "top_1000_voters": 152,
+    "males_under_18": 51,
+    "imdb_staff": 1,
+    "males_aged_18-29": 2223,
+    "imdb_users": 9257,
+    "males_aged_45+": 843,
+    "aged_18-29": 2964,
+    "us_users": 1228,
+    "females_aged_30-44": 488,
+    "males": 6225,
+    "females": 1498,
+    "females_aged_45+": 134,
+    "non-us_users": 4333,
+    "females_aged_18-29": 700,
+    "females_under_18": 23,
+    "aged_30-44": 3186,
+    "aged_under_18": 74,
+    "males_aged_30-44": 2655
   },
   "genres": [
     "animation",
     "adventure",
     "family"
   ],
-  "budget": 80000000,
-  "rating": 5.2,
-  "name": "Walking with Dinosaurs",
-  "opening_weekend_income": 7091938,
-  "avg_screens": 508.6666666666667,
-  "gross_income": 36073232,
-  "votes_per_demo": {
-    "non-us_users": 4332,
-    "females_aged_18-29": 701,
-    "females": 1498,
-    "aged_45+": 999,
-    "females_under_18": 23,
-    "imdb_users": 9255,
-    "imdb_staff": 1,
-    "females_aged_30-44": 487,
-    "aged_under_18": 74,
-    "males_aged_30-44": 2653,
-    "top_1000_voters": 152,
-    "aged_30-44": 3183,
-    "males_aged_18-29": 2223,
-    "males": 6223,
-    "females_aged_45+": 134,
-    "males_under_18": 51,
-    "us_users": 1227,
-    "males_aged_45+": 843,
-    "aged_18-29": 2965
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 621,
+    "2": 442,
+    "3": 710,
+    "4": 1082,
+    "5": 1821,
+    "6": 1904,
+    "7": 1187,
+    "8": 500,
+    "9": 247,
+    "10": 743
   },
-  "release_year": 2013,
+  "release_month": "December",
+  "budget": 80000000,
   "budget_currency": "$",
-  "release_day": 20
+  "total_screens": 4578,
+  "year": 2013,
+  "rating": 5.2,
+  "critic_review_count": 114,
+  "opening_weekend_date": {
+    "month": 12,
+    "year": 2013,
+    "day": 20,
+    "__type__": "datetime.date"
+  },
+  "name": "Walking with Dinosaurs",
+  "user_review_count": 67,
+  "avg_screens": 508.6666666666667
 }

@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 1,
-    "year": 2015,
-    "day": 16,
-    "__type__": "datetime.date"
+  "release_day": 16,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.3,
+    "top_1000_voters": 5.5,
+    "males_under_18": 7.0,
+    "imdb_staff": 6.7,
+    "males_aged_18-29": 6.8,
+    "imdb_users": 6.7,
+    "males_aged_45+": 6.3,
+    "aged_18-29": 6.8,
+    "us_users": 6.5,
+    "females_aged_30-44": 6.6,
+    "males": 6.6,
+    "females": 6.7,
+    "females_aged_45+": 6.5,
+    "non-us_users": 6.6,
+    "females_aged_18-29": 6.8,
+    "females_under_18": 7.8,
+    "aged_30-44": 6.5,
+    "aged_under_18": 7.2,
+    "males_aged_30-44": 6.5
   },
   "closing_date": {
     "month": 4,
@@ -11,80 +27,1292 @@
     "day": 3,
     "__type__": "datetime.date"
   },
-  "rating": 6.7,
-  "num_weekends": 12,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 766,
-    "2": 484,
-    "3": 969,
-    "4": 1842,
-    "5": 4722,
-    "6": 12384,
-    "7": 18012,
-    "8": 9797,
-    "9": 3733,
-    "10": 4738
-  },
-  "avg_screens": 1247.75,
-  "budget": 23000000,
-  "budget_currency": "$",
-  "release_day": 16,
   "metascore": 35,
+  "num_weekends": 12,
+  "rating_count": 57463,
+  "gross_income": 64460211,
+  "max_screens": 3003,
+  "opening_weekend_screens": 3003,
+  "screens_by_weekend": [
+    3003,
+    3003,
+    2820,
+    2138,
+    1456,
+    950,
+    542,
+    310,
+    277,
+    206,
+    161,
+    107
+  ],
+  "opening_weekend_income": 24500000,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Another Feel-Good Comedy",
+      "score": 7,
+      "user": "Nunya Biznis",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kevin Hart's best performance and sporadic laugh-out-loud moments, but it ultimately clutches onto the same tropes and beats as other movies of its ilk.",
+      "score": 6,
+      "user": "Andrew Gold",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You will laugh so much",
+      "score": 8,
+      "user": "LenaS15",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A surprisingly entertaining if predictable comedy",
+      "score": 6,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kevin Hart's best movie I have seen. I laughed a lot throughout. Hart and Gad are great together. Best comedy in a while.",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious comedy with gut-busting laughs",
+      "score": 8,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Groom Glitches",
+      "score": 6,
+      "user": "3xHCCH",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "play on player",
+      "score": 8,
+      "user": "wilson trivino",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid Comedy with heart",
+      "score": 7,
+      "user": "James Summers",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "awful",
+      "score": 1,
+      "user": "bmmurrellb",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Wedding is Off!",
+      "score": 1,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The dog scene brings this down",
+      "score": 2,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictable to the point of being awful",
+      "score": 4,
+      "user": "Nathan Middleton",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than expected...",
+      "score": 6,
+      "user": "Dr_Sagan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that funny! 3/10",
+      "score": 3,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice Break From The Typical Comedy.",
+      "score": 8,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great comedic fun!!!",
+      "score": 8,
+      "user": "MC Dee Lusional (deelusionalmusic)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clich\u00e9d, cobbled together comedy mess",
+      "score": 3,
+      "user": "jadavix",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It felt like a highlight reel of every popular romantic comedy in the last 10 years but only not in a good way.",
+      "score": 2,
+      "user": "timkjohansen",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I thoroughly enjoyed Kevin Hart & Kaley Cuoco's performances",
+      "score": 7,
+      "user": "Ed-Shullivan",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just as i expected it to be. Well written ,, the comedy is wow, and Mr.Hart delivered it so thoroughly.. in two words ,, WATCH IT",
+      "score": 8,
+      "user": "Aktham Tashtush",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best comedy in many years. Mr. Hart deserves an uttermost respect",
+      "score": 10,
+      "user": "abisio",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cuoco's nipples + a viable business idea",
+      "score": 7,
+      "user": "John Penchev",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I found it really funny.",
+      "score": 7,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Wedding Ringer  Connects the Dots Correctly",
+      "score": 8,
+      "user": "xellos49698",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's no Hitch",
+      "score": 5,
+      "user": "jtindahouse",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Wedding Ringer Review",
+      "score": 1,
+      "user": "Eddie Cantillo",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cut and carried",
+      "score": 6,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I laughed my heart out",
+      "score": 10,
+      "user": "Mae Weather",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, feel good movie",
+      "score": 8,
+      "user": "Ethan Jones",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Self-contradicting",
+      "score": 6,
+      "user": "Lola A",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "He's anyone's friend......for a price.",
+      "score": 7,
+      "user": "John Maverick",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable comedy.",
+      "score": 7,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A comedy about to pull off the first ever Golden Tux.",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than Expected",
+      "score": 7,
+      "user": "Floated2",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another typical comedy",
+      "score": 5,
+      "user": "Yotam Tadmor",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice and compact with something more to offer",
+      "score": 7,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rehashing old not-so-funny plots",
+      "score": 4,
+      "user": "cla_u_diu",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Vulgar Olaf Gets Married",
+      "score": 7,
+      "user": "moviescoundrel",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie! Love the references",
+      "score": 10,
+      "user": "Jordan555555",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kevin Hart and Josh Gad co-star in \"The Wedding Ringer\" and we've got intel on whether it should make your weekend watch list.",
+      "score": 8,
+      "user": "Mignon Gould (mignon@thechicspy.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did People See the Same Movie I Did???",
+      "score": 10,
+      "user": "James  nunez",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hart, Gad a good team",
+      "score": 7,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm Bic Mitchum, and I love candy.....",
+      "score": 7,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good fun comedy",
+      "score": 7,
+      "user": "alindsay-al",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "3.5/5",
+      "score": 7,
+      "user": "IsaacSage",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gad Hart",
+      "score": 8,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gad and Hart funny by sheer will",
+      "score": 5,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good enough",
+      "score": 6,
+      "user": "phoenix 2",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing, hilarious guy film",
+      "score": 10,
+      "user": "venutocreative",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly hilarious",
+      "score": 8,
+      "user": "lawkansas",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Steals from better films",
+      "score": 6,
+      "user": "Gustavo Schroeder A",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best comedies of the year.",
+      "score": 9,
+      "user": "Bruce722",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect call for a spare-time",
+      "score": 6,
+      "user": "Lanna Sousa",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Wedding Ringer\" shows Kevin Hart seemingly getting better with each movie.",
+      "score": 7,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fine and insightful, and sometimes funny, movie about love and friendship",
+      "score": 8,
+      "user": "Catharina_Sweden",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funniest movie in the last 5 years!",
+      "score": 10,
+      "user": "franjo-posilovic",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Honesty is More Than Not Lying\"",
+      "score": 8,
+      "user": "pjbhaumik",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great story and great acting from Kevin Hart",
+      "score": 8,
+      "user": "Brian Madden",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The writing doesn't do the performers justice",
+      "score": 4,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Good Kevin Hart Movie",
+      "score": 7,
+      "user": "james-gomez760",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than I thought it was going to be...",
+      "score": 6,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This calls for a sequel!",
+      "score": 10,
+      "user": "simonvanrooij70",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious - Packs a lot of laughs",
+      "score": 9,
+      "user": "Gino Cox",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An unexpectedly solid comedy",
+      "score": 9,
+      "user": "nahom1319",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I found it really funny.",
+      "score": 7,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Goonie Groomsmen",
+      "score": 7,
+      "user": "briand6465",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "meh",
+      "score": 4,
+      "user": "bravesfanc",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hitch + I Love you man= Wedding Ringer...saved by Josh Gad.",
+      "score": 6,
+      "user": "Luke_was_a_terrorist",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Two thumbs up!",
+      "score": 10,
+      "user": "y-sille",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, but nothing new",
+      "score": 7,
+      "user": "Ryan Prince",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just another Kevin hart movie.",
+      "score": 6,
+      "user": "world_remix07",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Forgettable",
+      "score": 4,
+      "user": "IllogicalGenius",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shoddy movie",
+      "score": 1,
+      "user": "liverloo",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A guy is about to get married but he has no male friends to be his groomsmen, so, he hires a fake groomsman and some very odd guys to pretend",
+      "score": 3,
+      "user": "marianadulantob",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like an average best man speech",
+      "score": 5,
+      "user": "Vikesh Mirchandani",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Golden Tux! Kevin Hart is surprisingly not bad in this movie.",
+      "score": 7,
+      "user": "zaidhakim",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Silly, Crass, Wild, Predictable, Touching: A Mix of Harebrained Fun",
+      "score": 7,
+      "user": "DareDevilKid",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great fun, great time",
+      "score": 8,
+      "user": "peterhill-84900",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Made me laugh, but not hard enough 1",
+      "score": 8,
+      "user": "xsibongile15",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Hope Most People Like This.",
+      "score": 8,
+      "user": "powermandan",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good fun and some intelligent advice, too boot.",
+      "score": 7,
+      "user": "pontus-randen",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "fairly funny",
+      "score": 8,
+      "user": "mattkratz (themattk@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fun twist on I love you man! With Paul Rudd good humor",
+      "score": 8,
+      "user": "marinkojason",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you don't know who Kevin Hart is...you should!",
+      "score": 7,
+      "user": "vincentlynch-moonoi",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sometimes you just have to laugh...and I did...A LOT",
+      "score": 9,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "hilarious",
+      "score": 9,
+      "user": "Rajiv Wolf",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie was entertaining",
+      "score": 9,
+      "user": "candiceeo",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 6,
+      "user": "capone666",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A hilariously entertaining first half and a disappointing second",
+      "score": 6,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid Comedy",
+      "score": 9,
+      "user": "jondegorter",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better movies out there to spend your time.",
+      "score": 5,
+      "user": "jamamaes",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant trailer but the full blown clip really disappoints.",
+      "score": 4,
+      "user": "Lesego-Madisa",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We Need Edgar Wright, Now More Than Ever",
+      "score": 4,
+      "user": "rjsf96",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very few funny parts and overall not very good",
+      "score": 2,
+      "user": "Josh Blakemore",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's nice to see a short guy, like Kevin Hart, landing so many big 'leading man' roles!",
+      "score": 7,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Actual truthful review about the movie!",
+      "score": 4,
+      "user": "Justin Basquez (thebasquez)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Golden Tux",
+      "score": 5,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Every Actor Was Hilarious!",
+      "score": 10,
+      "user": "stephen-bassette",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable Dramady",
+      "score": 9,
+      "user": "musicgurl552",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Wedding Ringer Review",
+      "score": 7,
+      "user": "Allen Shepherd",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Extremely Funny Movie",
+      "score": 10,
+      "user": "mayhorn2",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hysterical to say the least",
+      "score": 10,
+      "user": "Angel Aquino",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You'll laugh, no doubt. But its just another comedy",
+      "score": 6,
+      "user": "Keng Ng",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The funny man ringer . . .",
+      "score": 6,
+      "user": "cricket crockett",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Original But Funny",
+      "score": 6,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "High concept delivers plenty of laughs",
+      "score": 7,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as good as it should have been",
+      "score": 5,
+      "user": "kingjazzblue",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A misogynist joke is just that",
+      "score": 5,
+      "user": "stinadianne",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is It Bad to Laugh at Bad Jokes?",
+      "score": 5,
+      "user": "cactus1305",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 101,
+  "votes_per_demo": {
+    "aged_45+": 2993,
+    "top_1000_voters": 255,
+    "males_under_18": 210,
+    "imdb_staff": 3,
+    "males_aged_18-29": 17409,
+    "imdb_users": 57465,
+    "males_aged_45+": 2385,
+    "aged_18-29": 23480,
+    "us_users": 7942,
+    "females_aged_30-44": 2913,
+    "males": 36336,
+    "females": 10215,
+    "females_aged_45+": 553,
+    "non-us_users": 25117,
+    "females_aged_18-29": 5807,
+    "females_under_18": 90,
+    "aged_30-44": 16894,
+    "aged_under_18": 302,
+    "males_aged_30-44": 13795
+  },
   "genres": [
     "comedy"
   ],
-  "release_month": "January",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.3,
-    "aged_18-29": 6.8,
-    "aged_30-44": 6.5,
-    "females": 6.7,
-    "top_1000_voters": 5.5,
-    "non-us_users": 6.6,
-    "females_under_18": 7.8,
-    "males_aged_30-44": 6.5,
-    "us_users": 6.5,
-    "imdb_users": 6.7,
-    "imdb_staff": 6.7,
-    "males_under_18": 7.0,
-    "females_aged_18-29": 6.8,
-    "males_aged_45+": 6.3,
-    "females_aged_30-44": 6.6,
-    "males": 6.6,
-    "males_aged_18-29": 6.8,
-    "females_aged_45+": 6.5,
-    "aged_under_18": 7.2
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "The Wedding Ringer",
-  "gross_income": 64460211,
-  "user_review_count": 113,
-  "duration": 101,
-  "max_screens": 3003,
-  "votes_per_demo": {
-    "aged_45+": 2990,
-    "aged_18-29": 23475,
-    "aged_30-44": 16889,
-    "females": 10215,
-    "top_1000_voters": 254,
-    "non-us_users": 25106,
-    "females_under_18": 90,
-    "males_aged_30-44": 13791,
-    "us_users": 7941,
-    "imdb_users": 57447,
-    "imdb_staff": 3,
-    "males_under_18": 210,
-    "females_aged_18-29": 5809,
-    "males_aged_45+": 2383,
-    "females_aged_30-44": 2912,
-    "males": 36324,
-    "males_aged_18-29": 17402,
-    "females_aged_45+": 552,
-    "aged_under_18": 302
+  "rating_freq": {
+    "1": 766,
+    "2": 484,
+    "3": 972,
+    "4": 1842,
+    "5": 4723,
+    "6": 12389,
+    "7": 18020,
+    "8": 9798,
+    "9": 3733,
+    "10": 4738
   },
-  "rating_count": 57447,
+  "release_month": "January",
+  "budget": 23000000,
+  "budget_currency": "$",
+  "total_screens": 14973,
+  "year": 2015,
+  "rating": 6.7,
   "critic_review_count": 119,
-  "opening_weekend_income": 24500000
+  "opening_weekend_date": {
+    "month": 1,
+    "year": 2015,
+    "day": 16,
+    "__type__": "datetime.date"
+  },
+  "name": "The Wedding Ringer",
+  "user_review_count": 113,
+  "avg_screens": 1247.75
 }

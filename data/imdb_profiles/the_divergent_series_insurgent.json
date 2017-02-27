@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 3,
-    "year": 2015,
-    "day": 20,
-    "__type__": "datetime.date"
+  "release_day": 20,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.2,
+    "top_1000_voters": 5.4,
+    "males_under_18": 6.5,
+    "imdb_staff": 6.1,
+    "males_aged_18-29": 6.2,
+    "imdb_users": 6.3,
+    "males_aged_45+": 6.1,
+    "aged_18-29": 6.4,
+    "us_users": 6.2,
+    "females_aged_30-44": 6.5,
+    "males": 6.1,
+    "females": 6.8,
+    "females_aged_45+": 6.7,
+    "non-us_users": 6.1,
+    "females_aged_18-29": 6.8,
+    "females_under_18": 7.7,
+    "aged_30-44": 6.0,
+    "aged_under_18": 7.1,
+    "males_aged_30-44": 5.9
   },
   "closing_date": {
     "month": 6,
@@ -11,82 +27,2988 @@
     "day": 26,
     "__type__": "datetime.date"
   },
-  "rating": 6.3,
-  "num_weekends": 12,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 4132,
-    "2": 2681,
-    "3": 4518,
-    "4": 9257,
-    "5": 20005,
-    "6": 39737,
-    "7": 42273,
-    "8": 21930,
-    "9": 9037,
-    "10": 14012
-  },
-  "avg_screens": 1819.75,
-  "budget": 110000000,
-  "budget_currency": "$",
-  "release_day": 20,
   "metascore": 42,
+  "num_weekends": 12,
+  "rating_count": 167657,
+  "gross_income": 129995817,
+  "max_screens": 3875,
+  "opening_weekend_screens": 3875,
+  "screens_by_weekend": [
+    3875,
+    3875,
+    3442,
+    3111,
+    2542,
+    2086,
+    1291,
+    843,
+    197,
+    250,
+    180,
+    145
+  ],
+  "opening_weekend_income": 52263680,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Dull and Forgettable",
+      "score": 3,
+      "user": "Matt Greene",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Genuinely Terrible",
+      "score": 1,
+      "user": "Tim Burgess",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad enough to make one doubt IMDb ratings forever",
+      "score": 5,
+      "user": "siderite",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do you have 119 minutes to waste?",
+      "score": 1,
+      "user": "EdinBajric",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Disney dystopia, what rubbish",
+      "score": 2,
+      "user": "randymcbeast",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Tweenie\" dystopia copycat of Hunger Games/Battle Royale 2",
+      "score": 1,
+      "user": "Nguy\u00e1\u00bb\u0085n Hu\u00e1\u00bb\u00b3nh Ng\u00e1\u00bb\u008dc Di\u00e1\u00bb\u0085m (turdbadge@yahoo.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Messy Plot and Underutilized Great Actors",
+      "score": 5,
+      "user": "prospectus_capricornium",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad, dull, un-original",
+      "score": 4,
+      "user": "samgreer-694-680740",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terribly Disappointing",
+      "score": 2,
+      "user": "Michael Fishel",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't watch it!!!",
+      "score": 1,
+      "user": "gusdecool",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I wanted to like it, I really did",
+      "score": 1,
+      "user": "pedpal82",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Laughable Dystopian Thriller",
+      "score": 4,
+      "user": "Blake Peterson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Please give me back my 119 minutes",
+      "score": 1,
+      "user": "Tamim Ibn Aman",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "nothing new",
+      "score": 4,
+      "user": "peyton-32673",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's just really, really bad",
+      "score": 2,
+      "user": "tine bres",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hope there'll be no \"Resurgent\" after this",
+      "score": 1,
+      "user": "f-rabit",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is IMDb an instrument to promote bad movies?",
+      "score": 1,
+      "user": "fk555",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I tried my best to like it.",
+      "score": 1,
+      "user": "mike_moor",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not even worth watching after Divergent",
+      "score": 1,
+      "user": "fantom642",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Visually Stunning...",
+      "score": 6,
+      "user": "brianna-bkl-lawrence0095",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't listen to critics, especially if you liked first movie",
+      "score": 6,
+      "user": "sensdeath",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uneventful plot filler of a film...",
+      "score": 5,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The reviews made me think twice, I wish i didn't.",
+      "score": 8,
+      "user": "Linus Persson",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Average Sci-Fi Adventure",
+      "score": 6,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horribly done.  Make-up artists should be fired",
+      "score": 2,
+      "user": "pappysprite",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Great; but Not Bad",
+      "score": 7,
+      "user": "Catt Jones (cattjones@chixchatonfilm.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great sequel.",
+      "score": 9,
+      "user": "Francois Thurston",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better, but dumber.",
+      "score": 6,
+      "user": "bryllefajardo",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than \"Divergent\" but Could Still Use Some Work",
+      "score": 7,
+      "user": "Challenger2013",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great, if you haven't read the books...",
+      "score": 6,
+      "user": "Jessica Gonzalez",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad movie with an end which makes no sense",
+      "score": 3,
+      "user": "ricardoasencio",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why should the lover always be stuck ??",
+      "score": 1,
+      "user": "Fayez Tarad",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is Insurgent an under-appreciated gem?",
+      "score": 7,
+      "user": "Nejc Lozar",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't waste your time.",
+      "score": 1,
+      "user": "jo eib",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exhilarating, romantic dystopian movie",
+      "score": 9,
+      "user": "phoebe_chenxing_tang",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Divergent Series : Insurgent.",
+      "score": 8,
+      "user": "Horrorliefhebber",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Homogenized science fiction for bored teenagers",
+      "score": 5,
+      "user": "moonspinner55",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "score": 8,
+      "user": "Tss5078",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great,dramatic,entertaining,and action packed",
+      "score": 8,
+      "user": "moriibugg",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Utterly Predictable and lousy",
+      "score": 3,
+      "user": "Saqib Manzoor",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another terrible Hollywood movie",
+      "score": 2,
+      "user": "jpholroyd",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "it kinda sucks",
+      "score": 2,
+      "user": "Ovi Capilnean",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "God Awful movie",
+      "score": 3,
+      "user": "mirawu",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you enjoy botched book-to-movie renditions",
+      "score": 1,
+      "user": "soccerdg",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "QUICK TIP: Don't watch it!",
+      "score": 1,
+      "user": "sorrycrane",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ideal moralising tripe for weak minded youth with no imagination",
+      "score": 1,
+      "user": "Stuart Davies",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very crappy if your read the book",
+      "score": 1,
+      "user": "PeanutnTrapper4751",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "awful if you enjoyed the book.",
+      "score": 1,
+      "user": "abbazabby",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The clich\u00e9d formula of teenage tripe",
+      "score": 1,
+      "user": "Old_Man_From_Scene_24",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "my favorite divergent series movie.",
+      "score": 8,
+      "user": "snperera",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A slight improvement over Divergent",
+      "score": 7,
+      "user": "Dovla",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better",
+      "score": 9,
+      "user": "Alcuin Edwards (alcuin-5)",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's better than the first one, but that's not really a compliment.",
+      "score": 6,
+      "user": "matrixpolaris",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Give me more",
+      "score": 6,
+      "user": "costakcpc",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting",
+      "score": 5,
+      "user": "mmarianne",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insurgent Review",
+      "score": 2,
+      "user": "Eddie Cantillo",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Its so bad its funny",
+      "score": 1,
+      "user": "labeatkryeziu",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "watered down dystopian trash",
+      "score": 4,
+      "user": "blom0344",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Active",
+      "score": 7,
+      "user": "Lola A",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent movie only after filling in blanks with cynicism",
+      "score": 7,
+      "user": "acdenh",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The mystery box and the power hungry leaders!",
+      "score": 6,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poor plot and some equally bad acting",
+      "score": 3,
+      "user": "Joshua Curzon",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kate Winslet steals the show!",
+      "score": 7,
+      "user": "Davis P",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another example of a terrible teen drama.",
+      "score": 2,
+      "user": "Alistair Ward (wildroedeer)",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "too predictable",
+      "score": 7,
+      "user": "wjyefzfdu",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run in the Mill but Enjoyable YA adaptation",
+      "score": 7,
+      "user": "freemantle_uk",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappy Watched: Insurgent",
+      "score": 2,
+      "user": "Chappy Watched",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Four... (out of 10)",
+      "score": 4,
+      "user": "Aminul Hassan",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Enjoyed it",
+      "score": 6,
+      "user": "nicholls_les",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great cyberpunk flick",
+      "score": 7,
+      "user": "David Roggenkamp",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bigger but inferior to its predecessor",
+      "score": 7,
+      "user": "barbagvido",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really an insult to the viewers intelligence",
+      "score": 1,
+      "user": "dinalt10",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing acting with a solid story line and modern age effects",
+      "score": 9,
+      "user": "Neve Palmer",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Average movie...",
+      "score": 6,
+      "user": "Thanos Alfie",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insurgency works!",
+      "score": 8,
+      "user": "westen1223",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Engaging but nothing new",
+      "score": 7,
+      "user": "edacheeky",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What. Why.",
+      "score": 5,
+      "user": "F.R. Teal",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "first movie better",
+      "score": 5,
+      "user": "MLDinTN",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The problem here is really casting",
+      "score": 3,
+      "user": "Solnichka McPherson",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm sorry, but it's not that bad.",
+      "score": 6,
+      "user": "AaronMendozaJr",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More passable entertainment from the \"Divergent\" series",
+      "score": 5,
+      "user": "Movie_Muse_Reviews",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a summary of a review I have written on Divergent and Insurgent, from the point of a teenager",
+      "score": 5,
+      "user": "I. Maghen",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 6,
+      "user": "capone666",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not so good",
+      "score": 4,
+      "user": "evxsilvx",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yawnfest",
+      "score": 4,
+      "user": "utgard14",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "basic problem with the premise",
+      "score": 5,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Avoid the movie \u0096 read the book.",
+      "score": 2,
+      "user": "Karin_Reimertz",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A waste of time. Read the book instead.",
+      "score": 3,
+      "user": "norm-82943",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far from the greatness of first movie, but enjoyable flick",
+      "score": 7,
+      "user": "851222",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible",
+      "score": 2,
+      "user": "jonathan_cheever",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The only \"surge\" in Insurgent, was towards the exit. Awful!",
+      "score": 4,
+      "user": "Rob_Taylor",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointed",
+      "score": 4,
+      "user": "summerreighn",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's Okay, but a Set-up for Sequels",
+      "score": 7,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not good enough",
+      "score": 3,
+      "user": "phoenix 2",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Detergent",
+      "score": 3,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "High budget doesn't mean good story",
+      "score": 5,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A below average confusing sequel",
+      "score": 4,
+      "user": "alindsay-al",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A different mood from Divergent",
+      "score": 6,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kinda Disappointed....But worth a watch....",
+      "score": 6,
+      "user": "Annie Palone",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Garbage sequel of garbage",
+      "score": 3,
+      "user": "taz1004",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Haven't we seen this all before?",
+      "score": 3,
+      "user": "David Hine",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible",
+      "score": 3,
+      "user": "tina-131-153308",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meh",
+      "score": 5,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointed",
+      "score": 5,
+      "user": "daemonyx",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow and dull first half, fast and interesting second",
+      "score": 5,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insurgent",
+      "score": 9,
+      "user": "smileysuccess",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pleasantly Surprised",
+      "score": 7,
+      "user": "champjohnson29",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why Aren't These Films More Successful?",
+      "score": 9,
+      "user": "michaelhirakida",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fans of the first one will love this one, I thought this was much much better than Divergent.",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie did surge forward, but the test results with critics, have been mixed.",
+      "score": 7,
+      "user": "ironhorse_iv",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Underwhelming",
+      "score": 5,
+      "user": "sam-levesque",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great theatrics + zero motivation + no inspiration=",
+      "score": 3,
+      "user": "drystyx",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "disappointing",
+      "score": 4,
+      "user": "kirstyvs",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply disgusting and waste of all the efforts for making the movie",
+      "score": 3,
+      "user": "ahmadshah2370",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You've probably wasted enough of your time with the first episode.",
+      "score": 4,
+      "user": "xwhyzed",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Epic Fail (snooze fest)",
+      "score": 1,
+      "user": "Mike Cartaciano",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insurgent",
+      "score": 3,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "plot sufffered for action",
+      "score": 6,
+      "user": "katiefanatic-791-306918",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I started to play Candy Crush",
+      "score": 1,
+      "user": "Mick C",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing, naive and varies too much from the book",
+      "score": 3,
+      "user": "andela212",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cinematic Soap Opera Fails the Left-Brain",
+      "score": 3,
+      "user": "michael-61392",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a cheat",
+      "score": 2,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Polished turd at best",
+      "score": 5,
+      "user": "epinema",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Defy Reality in \"The Divergent Series: Insurgent\"",
+      "score": 10,
+      "user": "Adrian Val Olonan",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Forgettably Bland",
+      "score": 2,
+      "user": " (jolacosse)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The first one was not especially good, this one is worse",
+      "score": 2,
+      "user": "uncomplicated",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More of a film trying to work up to the next one",
+      "score": 7,
+      "user": "makstracy",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie better than its novel.",
+      "score": 8,
+      "user": "bans_004",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lot of fuss about nothing! 4/10",
+      "score": 4,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "At least this was a bit better than the first part ....",
+      "score": 6,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waiting for next part for something promising!!!!",
+      "score": 7,
+      "user": "rajatdahiyax",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cool action and effects with good acting.",
+      "score": 7,
+      "user": "Nicole C",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie if you haven't read the books, but readers beware because you will be upset",
+      "score": 6,
+      "user": "Kristen Watkins",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'd be HIGHLY upset. . .",
+      "score": 6,
+      "user": "missmomosa",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run of the mill science fiction film",
+      "score": 7,
+      "user": "mm-39",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not 'The Host' but not 'Catching Fire' either",
+      "score": 7,
+      "user": "marquezd-90866",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie got my money...",
+      "score": 4,
+      "user": "bandcg",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was okay",
+      "score": 6,
+      "user": "Tori R",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Falls a little short in comparison to Divergent.",
+      "score": 5,
+      "user": "Seltheus",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insolent: A New Director Goes Off the Rails To Appeal to the Masses and Make More Money",
+      "score": 7,
+      "user": "YoungCriticMovies",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The implausible Insurgent.",
+      "score": 6,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What's in the box? WHAT'S IN THE F***ING BOX!?",
+      "score": 6,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shares the same mediocrity as the first installment",
+      "score": 5,
+      "user": "p-jonsson",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So bad, I was irritated.",
+      "score": 4,
+      "user": "scott1-912-252003",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Story is a step down from that of Divergent (2014)",
+      "score": 5,
+      "user": "breakdownthatfilm-blogspot-com",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointment",
+      "score": 4,
+      "user": "tonyandreev",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hate it. OMG, I Hate it.",
+      "score": 4,
+      "user": "sub-80",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nightmare on Divergent Street",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A serviceable adaptation of the book with a surprisingly effective ending.",
+      "score": 5,
+      "user": "G K",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Half-Assed Acting+Rushed Pace+Clich\u00e9s=Insurgent",
+      "score": 5,
+      "user": "alexgarcia732805",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A decent sequel",
+      "score": 7,
+      "user": "pierce-declase",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than I expected",
+      "score": 9,
+      "user": "Elin_lejhage",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film was enjoyable but messy.",
+      "score": 5,
+      "user": "Ian Johnson",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Divergent Who? Insurgent Is the New Hit!",
+      "score": 8,
+      "user": "idoyam",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trying to hard to be the next Inception",
+      "score": 5,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'THE DIVERGENT SERIES' may not quite match the quality of 'THE HUNGER GAMES', but it's pretty damn close!",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As.bad as it gets., like porn without the....",
+      "score": 1,
+      "user": "maqui4240",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fragmented, jumbled mess of a film \"inspired\" by a much better book",
+      "score": 3,
+      "user": "bending_spoons2000",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If confusing audiences with complicated plots and awkward timing ever becomes an art, then this movie has mastered it.",
+      "score": 4,
+      "user": "montollo",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Confusing",
+      "score": 3,
+      "user": "auntypizza",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The next adventure of Beatrice Prior",
+      "score": 8,
+      "user": "monstermayhem32",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watchable",
+      "score": 3,
+      "user": "Isabelle Frater",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tris Four and The Deathly Hallows",
+      "score": 6,
+      "user": "Raul Faust",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insurgent plays like a series of set-pieces designed to create a substantive whole, yet the end result leaves you unfulfilled.",
+      "score": 6,
+      "user": "SConIrish",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liked it a lot BUT worst 3D ever - go for 2D instead!",
+      "score": 6,
+      "user": "MsMovie",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What were they smoking?",
+      "score": 1,
+      "user": "summerinertia",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The repetitive of science fiction movie that comes from best selling novel \"",
+      "score": 5,
+      "user": "FallsDownz",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "this movie is horrible;",
+      "score": 1,
+      "user": "hotestevam",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "ImproveGENT",
+      "score": 7,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insurgent Review",
+      "score": 2,
+      "user": "Nathaniel Jones",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Weaker Sequwl To Divergent, Because It Is More Predictable",
+      "score": 6,
+      "user": "denis888",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable B-Movie.",
+      "score": 6,
+      "user": "jameskatt",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow, but good",
+      "score": 7,
+      "user": "qadreya",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Failing to Imporve Upon Divergent",
+      "score": 4,
+      "user": "kgaillard",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Abomination of a Film.",
+      "score": 1,
+      "user": "John Handford",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did they even read the book",
+      "score": 1,
+      "user": "arianahoffman143",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining",
+      "score": 7,
+      "user": "sanfordm-14475",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good acting in a weak story.",
+      "score": 8,
+      "user": "Oliver Rendchen",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Prefer The Movie Than The Book",
+      "score": 8,
+      "user": "Titah Saputri",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A well-paced and exciting film filled with suspense, great performances and a lot of heart",
+      "score": 8,
+      "user": "federici218",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "She Needs a Hug!",
+      "score": 3,
+      "user": "sarkara",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intense, Action-packed and Touching",
+      "score": 9,
+      "user": "rannynm",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you read the book, DO NOT come near this thing...",
+      "score": 3,
+      "user": "kefinka",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A slower, solid, more action focused sequel....",
+      "score": 6,
+      "user": "sukhmanjitcheema (sukhmanjitcheema@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "9.6 equates to a 10 for this",
+      "score": 10,
+      "user": "doc-ahmad-almaiman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie",
+      "score": 10,
+      "user": "Selin Simsek",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "sub Hunger Games wannabe meets The Matrix",
+      "score": 3,
+      "user": "smspencer69",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible",
+      "score": 1,
+      "user": "David Collantes",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hated",
+      "score": 1,
+      "user": "Duanelock",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sceptical at first because of the review, but ya'll are wrong and just mad.",
+      "score": 8,
+      "user": "user-155-832193",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I love it!",
+      "score": 7,
+      "user": "fabio-1997",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better Than its Predecessor but Still Average",
+      "score": 7,
+      "user": "KalKenobi83",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Conquering the genre throne and an impressive improvement over the first part",
+      "score": 8,
+      "user": "kluseba",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fast paced thrilling joyride!",
+      "score": 7,
+      "user": "scottshak_111",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chix Chat on Film review: Tech'd out future",
+      "score": 7,
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gives Sequels A Good Name!!!",
+      "score": 9,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not worth watching",
+      "score": 4,
+      "user": "francesholms",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice,violent action adventure, but not the best laid out sequel.",
+      "score": 7,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good sequel? Maybe not",
+      "score": 6,
+      "user": "paul_3-960-896774",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful",
+      "score": 9,
+      "user": "nicknnorris",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "clich\u00e9 and emotionless",
+      "score": 3,
+      "user": "ziethriel",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not an Accurate Book to Movie Adaption",
+      "score": 4,
+      "user": "hannaht2400",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So Much Better Than Divergent - Spoiler Free Review",
+      "score": 7,
+      "user": "ahmed-nadeem-360",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't believe the bad reviews",
+      "score": 7,
+      "user": "jewelsmith",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Diverging From the Book Relationships, A Decent Sequel",
+      "score": 7,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A pretty poor offering",
+      "score": 3,
+      "user": "david-sarkies",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Completely wasted potential",
+      "score": 3,
+      "user": "michal-kolda",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Catching Fire",
+      "score": 9,
+      "user": "Robert Lucas",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insurgent: waiting for no. 3 working title Detergent",
+      "score": 7,
+      "user": "brin-t-murray",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bridge to nowhere",
+      "score": 5,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Movie Really Surprised Me...",
+      "score": 9,
+      "user": "Jessie S.",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For the Most Part-Unsatisfying",
+      "score": 7,
+      "user": "agblum",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good but not what it should have been..",
+      "score": 6,
+      "user": "BookNerd25",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "CGI has all kid's authors writing the same story . . .",
+      "score": 7,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie, excellent sequel!!",
+      "score": 10,
+      "user": "analovescoffee",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hunger Games wanna-be",
+      "score": 2,
+      "user": "oelskie",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth It",
+      "score": 10,
+      "user": "PartialMovieViewer",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than the first but still has some flaws.",
+      "score": 7,
+      "user": "just_for_movies",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Total Confusion !",
+      "score": 3,
+      "user": "kentavarvd_hp",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "5/10",
+      "score": 5,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insurgent the movie",
+      "score": 8,
+      "user": "adiel",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More Action",
+      "score": 7,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Follow Up to Divergent!",
+      "score": 8,
+      "user": "miy66",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reduced version of a great book; 3D is awful",
+      "score": 7,
+      "user": "Hajnalka T. Cheek",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A decent sequel to Divergent - but lacks something",
+      "score": 8,
+      "user": "Tof1988",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OK sequel but not outstanding",
+      "score": 7,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Builds on part 1 and delivers",
+      "score": 9,
+      "user": "iamjoshuanow",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Didn't really like the book BUT loved the movie",
+      "score": 10,
+      "user": "mel_p85",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A thrilling & action packed follow-up to Divergent.",
+      "score": 9,
+      "user": "Anurag-Shetty",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Darker, action packed sequel that feels like a closer",
+      "score": 7,
+      "user": "FlorisV",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful movie, probably only good for fans.",
+      "score": 1,
+      "user": "James Cardiff",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well worth seeing",
+      "score": 8,
+      "user": "Jan Snauwaert",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better Than the First",
+      "score": 8,
+      "user": "3xHCCH",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie with excellent actors succeeds with the wow-factor.",
+      "score": 10,
+      "user": "baconatorone",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bigger, Louder, but it doesn't necessarily mean it's better",
+      "score": 4,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All in One Film",
+      "score": 10,
+      "user": "alkent2012",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The movie was a disappointment.",
+      "score": 3,
+      "user": "nymphychick",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "what is with this \"critics\"",
+      "score": 10,
+      "user": "Alex G",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A flawed film, but better than the first?",
+      "score": 7,
+      "user": "Ryan Prince",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie if you haven't read it...if you did then you will have a problem",
+      "score": 5,
+      "user": "Veronica Ramos",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bigger sequel. That's it.",
+      "score": 7,
+      "user": "lhrlinha",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sequel Crossover.",
+      "score": 8,
+      "user": "RICHSTRONG KHOR (richstrongkhor737@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a good movie, definitely better than Divergent",
+      "score": 8,
+      "user": "Dan Arsalvan",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insurgent is the follow on from the film Divergent based on the books by Veronica Roth.",
+      "score": 7,
+      "user": "grace-doody",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Divergent Series: Insurgent\" maintains the quality of \"Divergent\" and establishes an impressive identity of its own.",
+      "score": 9,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Different from its' predecessor, \"Insurgent\" is faster and more action-packed.",
+      "score": 9,
+      "user": "kshirad",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Insurgent' improves upon the first film and manages to make me care",
+      "score": 8,
+      "user": "Austin S. Russell (arussell23)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "how good the movie is",
+      "score": 10,
+      "user": "spicechic-04172",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trailer was confusing at first",
+      "score": 10,
+      "user": "tinarox731",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie, I personally enjoyed working on it.",
+      "score": 10,
+      "user": "Nicholas Wright",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An mazing sequel, having intense action scenes making it better than Divergent",
+      "score": 9,
+      "user": "Mike Le",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a bigger sequel. can't wait for Allegiant Part 1!",
+      "score": 10,
+      "user": "Abdul Jabbar",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flashy Cover Up",
+      "score": 5,
+      "user": "Mek Torres",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surely it can't be worse than the first one? Oh...",
+      "score": 2,
+      "user": "Drive-in_Zeppelin",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Get experience",
+      "score": 9,
+      "user": "Ryan Anderson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Except for the charismatic performance of its lead actress, Insurgent is a two-bit attempt at building a mega-bucks franchise",
+      "score": 4,
+      "user": "Lloyd Bayer",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hollywood's down the drain",
+      "score": 1,
+      "user": "clirby",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "best movie ever",
+      "score": 10,
+      "user": "Mildred",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Grand and exciting follow up",
+      "score": 9,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insurgent turned me around on the books",
+      "score": 8,
+      "user": "Susan May",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insurgent",
+      "score": 9,
+      "user": "Alexa Bouhelier-Ruelle",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Amazing Sequel to an Outstanding Series",
+      "score": 10,
+      "user": "jennabtls",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant movie",
+      "score": 10,
+      "user": "Paige Makepeace",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I do not recommend",
+      "score": 1,
+      "user": "Mahmoud-Buttrumps",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 119,
+  "votes_per_demo": {
+    "aged_45+": 9817,
+    "top_1000_voters": 403,
+    "males_under_18": 799,
+    "imdb_staff": 16,
+    "males_aged_18-29": 40938,
+    "imdb_users": 167657,
+    "males_aged_45+": 7817,
+    "aged_18-29": 64318,
+    "us_users": 17427,
+    "females_aged_30-44": 9191,
+    "males": 91540,
+    "females": 38308,
+    "females_aged_45+": 1826,
+    "non-us_users": 70735,
+    "females_aged_18-29": 22699,
+    "females_under_18": 1013,
+    "aged_30-44": 44998,
+    "aged_under_18": 1828,
+    "males_aged_30-44": 35170
+  },
   "genres": [
     "adventure",
     "sci-fi",
     "thriller"
   ],
-  "release_month": "March",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.2,
-    "aged_18-29": 6.4,
-    "aged_30-44": 6.0,
-    "females": 6.8,
-    "top_1000_voters": 5.4,
-    "non-us_users": 6.1,
-    "females_under_18": 7.7,
-    "males_aged_30-44": 5.9,
-    "us_users": 6.2,
-    "imdb_users": 6.3,
-    "imdb_staff": 6.1,
-    "males_under_18": 6.5,
-    "females_aged_18-29": 6.8,
-    "males_aged_45+": 6.1,
-    "females_aged_30-44": 6.5,
-    "males": 6.1,
-    "males_aged_18-29": 6.2,
-    "females_aged_45+": 6.7,
-    "aged_under_18": 7.1
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "The Divergent Series: Insurgent",
-  "gross_income": 129995817,
-  "user_review_count": 269,
-  "duration": 119,
-  "max_screens": 3875,
-  "votes_per_demo": {
-    "aged_45+": 9812,
-    "aged_18-29": 64291,
-    "aged_30-44": 44977,
-    "females": 38294,
-    "top_1000_voters": 403,
-    "non-us_users": 70707,
-    "females_under_18": 1019,
-    "males_aged_30-44": 35155,
-    "us_users": 17417,
-    "imdb_users": 167582,
-    "imdb_staff": 16,
-    "males_under_18": 798,
-    "females_aged_18-29": 22686,
-    "males_aged_45+": 7812,
-    "females_aged_30-44": 9185,
-    "males": 91500,
-    "males_aged_18-29": 40924,
-    "females_aged_45+": 1826,
-    "aged_under_18": 1833
+  "rating_freq": {
+    "1": 4132,
+    "2": 2682,
+    "3": 4523,
+    "4": 9257,
+    "5": 20018,
+    "6": 39755,
+    "7": 42297,
+    "8": 21936,
+    "9": 9045,
+    "10": 14012
   },
-  "rating_count": 167582,
+  "release_month": "March",
+  "budget": 110000000,
+  "budget_currency": "$",
+  "total_screens": 21837,
+  "year": 2015,
+  "rating": 6.3,
   "critic_review_count": 271,
-  "opening_weekend_income": 52263680
+  "opening_weekend_date": {
+    "month": 3,
+    "year": 2015,
+    "day": 20,
+    "__type__": "datetime.date"
+  },
+  "name": "The Divergent Series: Insurgent",
+  "user_review_count": 269,
+  "avg_screens": 1819.75
 }

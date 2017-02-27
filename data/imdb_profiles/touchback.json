@@ -1,6 +1,15 @@
 {
-  "num_weekends": 5,
-  "duration": 118,
+  "budget": 5000000,
+  "opening_weekend_income": 66993,
+  "year": 2011,
+  "closing_date": {
+    "year": 2012,
+    "day": 18,
+    "__type__": "datetime.date",
+    "month": 5
+  },
+  "budget_currency": "$",
+  "avg_screens": 32.4,
   "rating_freq": {
     "1": 80,
     "2": 48,
@@ -13,78 +22,586 @@
     "9": 219,
     "10": 416
   },
-  "release_year": 2012,
-  "budget_currency": "$",
-  "rating": 6.5,
-  "release_day": 13,
-  "budget": 5000000,
-  "votes_per_demo": {
-    "us_users": 856,
-    "imdb_users": 3274,
-    "aged_30-44": 1354,
-    "males": 2424,
-    "males_aged_18-29": 628,
-    "top_1000_voters": 78,
-    "females_aged_30-44": 180,
-    "imdb_staff": 1,
-    "females": 456,
-    "females_aged_45+": 131,
-    "aged_under_18": 7,
-    "aged_45+": 634,
-    "females_aged_18-29": 116,
-    "non-us_users": 1391,
-    "males_aged_45+": 498,
-    "males_under_18": 7,
-    "aged_18-29": 748,
-    "males_aged_30-44": 1159
-  },
-  "metascore": 56,
-  "avg_rating_per_demo": {
-    "us_users": 6.6,
-    "imdb_users": 6.5,
-    "aged_30-44": 6.4,
-    "males": 6.5,
-    "males_aged_18-29": 6.6,
-    "top_1000_voters": 5.7,
-    "females_aged_30-44": 6.5,
-    "imdb_staff": 6.0,
-    "females": 6.7,
-    "females_aged_45+": 7.1,
-    "aged_under_18": 6.7,
-    "aged_45+": 6.6,
-    "females_aged_18-29": 6.4,
-    "non-us_users": 6.3,
-    "males_aged_45+": 6.5,
-    "males_under_18": 6.7,
-    "aged_18-29": 6.6,
-    "males_aged_30-44": 6.3
-  },
+  "screens_by_weekend": [
+    50,
+    69,
+    28,
+    12,
+    3
+  ],
   "rating_count": 3274,
-  "critic_review_count": 19,
-  "opening_weekend_income_currency": "$",
-  "name": "Touchback",
-  "user_review_count": 51,
-  "avg_screens": 32.4,
-  "release_month": "April",
-  "opening_weekend_date": {
-    "day": 13,
-    "month": 4,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "total_screens": 162,
   "max_screens": 69,
+  "duration": 118,
   "gross_income": 204068,
+  "metascore": 56,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "imdb_users": 3274,
+    "us_users": 856,
+    "aged_18-29": 748,
+    "non-us_users": 1391,
+    "aged_45+": 634,
+    "aged_30-44": 1354,
+    "males_aged_30-44": 1159,
+    "females_aged_30-44": 180,
+    "males_aged_45+": 498,
+    "aged_under_18": 7,
+    "imdb_staff": 1,
+    "males_under_18": 7,
+    "males_aged_18-29": 628,
+    "females": 456,
+    "top_1000_voters": 78,
+    "females_aged_45+": 131,
+    "males": 2424,
+    "females_aged_18-29": 116
+  },
+  "user_review_count": 51,
+  "rating": 6.5,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "imdb_users": 6.5,
+    "us_users": 6.6,
+    "aged_18-29": 6.6,
+    "non-us_users": 6.3,
+    "aged_45+": 6.6,
+    "aged_30-44": 6.4,
+    "males_aged_30-44": 6.3,
+    "females_aged_30-44": 6.5,
+    "males_aged_45+": 6.5,
+    "aged_under_18": 6.7,
+    "imdb_staff": 6.0,
+    "males_under_18": 6.7,
+    "males_aged_18-29": 6.6,
+    "females": 6.7,
+    "top_1000_voters": 5.7,
+    "females_aged_45+": 7.1,
+    "males": 6.5,
+    "females_aged_18-29": 6.4
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 13,
+    "__type__": "datetime.date",
+    "month": 4
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "arbarg",
+      "contents": "Seriously underrated movie",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "vink0286",
+      "contents": "Nice feel good movie",
+      "review_date": {
+        "year": 2011,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "futureknight-1",
+      "contents": "first didn't want to see it, but turns out to be great!",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "howler19",
+      "contents": "Amazing",
+      "review_date": {
+        "year": 2011,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "clevelander ohioan",
+      "contents": "Emotional experience",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "vcastilino",
+      "contents": "A movie about the past for the future",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "katy-247-158113",
+      "contents": "starts slow gets better",
+      "review_date": {
+        "year": 2011,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "de2595",
+      "contents": "What is important in life - What would you do?",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "akb26",
+      "contents": "An incredible twist to your everyday sports movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "user-498-108842",
+      "contents": "Flashback To The Future",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Sergei Novikov",
+      "contents": "If some movies need the tone to watch",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": " (obgriffiths)",
+      "contents": "One of the Surprise Sleepers of the Decade: Touchback Movie",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Chris C",
+      "contents": "Surprisingly good!",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "steelerhawk-796-141305",
+      "contents": "Great movie, but....",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Sunshine Johnson",
+      "contents": "Disney Caliber Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "Second Chances",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "user-485-16926",
+      "contents": "Its an good movie",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "user-485-77108",
+      "contents": "touch back for a first",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Jacob Hamilton",
+      "contents": "touchback blows your mind!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "user-498-166399",
+      "contents": "Great movie overall. recommended for everyone!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "user-485-260162",
+      "contents": "Touchback Touches The Heart",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Ken Protecious",
+      "contents": "Time-Travel-ish Drama, works well...",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "DGMcCready",
+      "contents": "Much better than Expected",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "joubinm",
+      "contents": "A hidden gem!",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "chrisf-848-101787",
+      "contents": "excellent movie",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "sherry-jorka",
+      "contents": "It's A Wonderful Life",
+      "review_date": {
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Damarkus Coleman-Silkert",
+      "contents": "Touchback",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "If I Could Do It All Over Again....",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "gimlet_eye",
+      "contents": "A celebration of classic Americanism, and a first-rate movie",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "user-498-411341",
+      "contents": "A catch for victory",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "niko73140",
+      "contents": "Almost cried",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "guacamoledeath",
+      "contents": "It's a Wonderful Life Meets Friday Night Lights",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "F_Jenkins",
+      "contents": "Clich\u00e9s and bad casting",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "amberamberland",
+      "contents": "The Aging Process",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "Dustin Castle",
+      "contents": "Movie Review",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "dansview",
+      "contents": "Bad with Redeeming Qualities",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "gavin6942",
+      "contents": "\"A Christmas Carol\" with Football",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "gnacken-703-74701",
+      "contents": "Some poignant moments but....",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "tkw218",
+      "contents": "Tries too hard",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "guy gets a second chance,,,",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "cmoulding33",
+      "contents": "Not worth the message",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "tdean-498-939289",
+      "contents": "touchback gets lost in flashback",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "An inspirational and entertaining sports movie that has shades of \"It's A Wonderful Life\". Good but pretty cheesy. I say B.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "kalesha whitner",
+      "contents": "Touchback Of The Nation",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "jaemiewaters",
+      "contents": "best football movie ever",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "Terrible casting and makeup make this one of the worst films of 2011",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    }
+  ],
+  "release_month": "April",
   "genres": [
     "drama",
     "family",
     "fantasy"
   ],
-  "year": 2011,
-  "closing_date": {
-    "day": 18,
-    "month": 5,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 66993
+  "opening_weekend_screens": 50,
+  "name": "Touchback",
+  "num_weekends": 5,
+  "release_day": 13,
+  "critic_review_count": 19
 }

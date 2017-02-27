@@ -1,92 +1,979 @@
 {
-  "num_weekends": 1,
-  "duration": 96,
+  "budget": 35000000,
+  "opening_weekend_income": 183125,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 14,
+    "__type__": "datetime.date",
+    "month": 9
+  },
+  "budget_currency": "$",
+  "avg_screens": 141.0,
   "rating_freq": {
     "1": 1345,
     "2": 1047,
     "3": 1930,
     "4": 4018,
-    "5": 8641,
-    "6": 10462,
+    "5": 8640,
+    "6": 10464,
     "7": 5700,
     "8": 2211,
     "9": 795,
     "10": 1874
   },
-  "release_year": null,
-  "budget_currency": "$",
-  "rating": 5.5,
-  "release_day": null,
-  "budget": 35000000,
-  "votes_per_demo": {
-    "us_users": 4240,
-    "imdb_users": 38023,
-    "aged_30-44": 15559,
-    "males": 30010,
-    "males_aged_18-29": 11248,
-    "top_1000_voters": 310,
-    "females_aged_30-44": 1383,
-    "imdb_staff": 3,
-    "females": 3406,
-    "females_aged_45+": 438,
-    "females_under_18": 8,
-    "aged_under_18": 51,
-    "aged_45+": 3736,
-    "females_aged_18-29": 1341,
-    "non-us_users": 21328,
-    "males_aged_45+": 3248,
-    "males_under_18": 40,
-    "aged_18-29": 12705,
-    "males_aged_30-44": 14003
-  },
-  "metascore": 43,
-  "avg_rating_per_demo": {
-    "us_users": 5.4,
-    "imdb_users": 5.5,
-    "aged_30-44": 5.3,
-    "males": 5.5,
-    "males_aged_18-29": 5.7,
-    "top_1000_voters": 5.0,
-    "females_aged_30-44": 5.5,
-    "imdb_staff": 5.3,
-    "females": 5.7,
-    "females_aged_45+": 5.9,
-    "females_under_18": 5.6,
-    "aged_under_18": 5.9,
-    "aged_45+": 5.6,
-    "females_aged_18-29": 5.8,
-    "non-us_users": 5.5,
-    "males_aged_45+": 5.6,
-    "males_under_18": 6.0,
-    "aged_18-29": 5.7,
-    "males_aged_30-44": 5.3
-  },
-  "rating_count": 38023,
-  "critic_review_count": 99,
-  "opening_weekend_income_currency": "$",
-  "name": "Stolen",
-  "user_review_count": 86,
-  "avg_screens": 141.0,
-  "release_month": null,
-  "opening_weekend_date": {
-    "day": 14,
-    "month": 9,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "screens_by_weekend": [
+    141
+  ],
+  "rating_count": 38024,
+  "total_screens": 141,
   "max_screens": 141,
+  "duration": 96,
   "gross_income": 183125,
+  "metascore": 43,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 310,
+    "imdb_users": 38024,
+    "us_users": 4241,
+    "aged_18-29": 12704,
+    "non-us_users": 21327,
+    "aged_45+": 3738,
+    "aged_30-44": 15559,
+    "males_aged_30-44": 14004,
+    "males_aged_18-29": 11247,
+    "males_aged_45+": 3249,
+    "aged_under_18": 51,
+    "imdb_staff": 3,
+    "males_under_18": 40,
+    "females_aged_30-44": 1382,
+    "females": 3406,
+    "females_under_18": 8,
+    "females_aged_45+": 439,
+    "males": 30011,
+    "females_aged_18-29": 1341
+  },
+  "user_review_count": 86,
+  "rating": 5.5,
+  "release_year": null,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 5.0,
+    "imdb_users": 5.5,
+    "us_users": 5.4,
+    "aged_18-29": 5.7,
+    "non-us_users": 5.5,
+    "aged_45+": 5.6,
+    "aged_30-44": 5.3,
+    "males_aged_30-44": 5.3,
+    "males_aged_18-29": 5.7,
+    "males_aged_45+": 5.6,
+    "aged_under_18": 5.9,
+    "imdb_staff": 5.3,
+    "males_under_18": 6.0,
+    "females_aged_30-44": 5.5,
+    "females": 5.7,
+    "females_under_18": 5.6,
+    "females_aged_45+": 5.9,
+    "males": 5.5,
+    "females_aged_18-29": 5.8
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 14,
+    "__type__": "datetime.date",
+    "month": 9
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "Andrew Gold",
+      "contents": "This is as generic as it gets. Nicolas Cage makes the movie watchable, just barely.",
+      "review_date": {
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "can-da-spam",
+      "contents": "Yet Another Nicholas Cage Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "rgblakey",
+      "contents": "Cage and West re-team for Stolen",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "caseymoviemania",
+      "contents": "Casey's Movie Mania: STOLEN (2012)",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "Predictable, Flawed, Full of Clich\u00e9s but also Entertaining",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "James Jacobs",
+      "contents": "Liked the first one better.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Bene Cumb",
+      "contents": "Nothing special, but not bad... And less than 1,5 hours",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Anna G",
+      "contents": "if you like Cage then watch this.. This is all cage ..",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "jasskTV",
+      "contents": "Nothing New! 10 Things that come to my mind",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "Generic & un-original but it is entertaining. For a non-Cage fan I will admit the movie is pretty OK. This is watchable. I say B+",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "kosmasp",
+      "contents": "All quiet on the West(ern) front?",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": " (bob-rutzel-1)",
+      "contents": "Disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "bilal amjad",
+      "contents": "average movie",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "nama chakravorty",
+      "contents": "A Fast-Paced Thriller!",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "simonkie",
+      "contents": "Creepy Good Performances",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "LeonLouisRicci",
+      "contents": "Worth A Watch",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "alex-kim-528-368205",
+      "contents": "Don't listen to stupid comments, this is solid 9 movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "gojiseb",
+      "contents": "A solid action flick that provides good entertainment without wasting too much time.",
+      "review_date": {
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "schuster_mark",
+      "contents": "Not a great movie, but fun if you're a Nick Cage fan.",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Floated2",
+      "contents": "Tired rehash of other films",
+      "review_date": {
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "MoviesReviews101",
+      "contents": "Verdict: Easy Thrills",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Film Watchin Fool",
+      "contents": "What to Expect: Stolen",
+      "review_date": {
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "blanche-2",
+      "contents": "familiar",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "gavin6942",
+      "contents": "Ultimately Satisfying, Believe It Or Not",
+      "review_date": {
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "msroz",
+      "contents": "Nicolas Cage's daughter is kidnapped and he must rob to get the ransom",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "crapbag71",
+      "contents": "Stolen - the plot of Gone in 60 Seconds",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Arik_P",
+      "contents": "Nicolas Cage is Nicolas Cage.Fast,sharp to the point",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "somf",
+      "contents": "At least it kept my interest...",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Tss5078",
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "TdSmth5",
+      "contents": "Very entertaining",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Sergio Campanale",
+      "contents": "Badly written, badly acted, badly directed B movie trash - What's not to love?",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "anasnajmie",
+      "contents": "Just average",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Dumb and predictable heist movie",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "cmoyton",
+      "contents": "Mardi gross",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "whatalad",
+      "contents": "Cage is on his last warning with this utter trash",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "marathon1974-398-343045",
+      "contents": "Terrible.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "And i'm a huge Cage fan.....",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "pexu",
+      "contents": "Stolen.. Two Hours of Your Life",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "botev1921",
+      "contents": "Terribly painful and very predictable",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "hanssneek",
+      "contents": "Better than expected",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "baruch-1",
+      "contents": "possible spoiler alert? \"Stolen\" as in precious time stolen!",
+      "review_date": {
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "Adequate movie...",
+      "review_date": {
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "quincytheodore",
+      "contents": "Stolen will shamelessly take your time and money, then leave you with only regret.",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "Uriah43",
+      "contents": "Pretty Much Followed a Standard Format",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "Leofwine_draca",
+      "contents": "Generic and unappealing",
+      "review_date": {
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "callanvass",
+      "contents": "Nothing awful, but like most of Cage's recent flicks. Pretty uninspired",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": " (HorrorFanForever)",
+      "contents": "Entertaining movie.",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "Despite a lot of points in its favour, its mostly a forgettable slapstick flick",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "David Arnold",
+      "contents": "Taken It Isn't",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "George Clarke",
+      "contents": "Predictable nonsense and typically Hollywood!",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "thekarmicnomad",
+      "contents": "Prepare to be robbed of 90minutes of your life.",
+      "review_date": {
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "thisisalbundy",
+      "contents": "Another Disaster",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "leonblackwood",
+      "contents": "Cage is going downhill fast! 2/10",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "thinker1691",
+      "contents": "\" It's my only Option, which I've thought About for Nine Years \"",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "Cage in a Rage in New Orleans Again",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "dwnonyaniz (dwnonyaniz@yahoo.com)",
+      "contents": "What ever happened to Nicolas Cage?",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "Darko Bogojevic",
+      "contents": "So transparent and predictable",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "Jeff Lee",
+      "contents": "Film steals from others and comes up with a tired daddy-rampage carnage",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "alex (doorsscorpywag)",
+      "contents": "Too ridiculous for words",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "janisjs7-183-844120",
+      "contents": "Great entertainment!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Rishi Mittal",
+      "contents": "An action/thriller movie in which an ex-criminal's daughter is kidnapped by his ex-criminal partner and has to somehow rob $10 million in order to save his daughter",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "dgefroh",
+      "contents": "One of the worst movies of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Christine Carrig",
+      "contents": "Worst NIcolas Cage movie I've seen for ages",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "bowmanblue",
+      "contents": "The clue is in the title",
+      "review_date": {
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Bruce722",
+      "contents": "Nothing special.",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Matt_Layden",
+      "contents": "Disappointing Effort.",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "davideo-2",
+      "contents": "Dismal action thriller you'd be wise to listen to the critics on",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "Rebel_With_A_Cause_94",
+      "contents": "Another Dud From Nicolas Cage",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Unexceptional anti-hero action thriller",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Stolen",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "Nikhil Taneja",
+      "contents": "Stolen is stolen from Taken",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Rob Williams",
+      "contents": "The view from http://filmramblings.blogspot.co.uk/",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "keith-w8888",
+      "contents": "Nicolas Cage is the next Steven Segal",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "bohumil-cambalik",
+      "contents": "Hollywood clich\u00e9 fest",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "sazesa",
+      "contents": "This is a waste of time--nothing original in this movie at all",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "giridhar-c",
+      "contents": "Cage is getting older and the plots are getting weaker",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "dextoon123",
+      "contents": "Terrible MOVIE",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Nelson Andrade",
+      "contents": "Son of Ghostrider?",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "MisterE2108",
+      "contents": "Worst than your average action thriller!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "ali salman",
+      "contents": "an average action movie , with too many missing points!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    }
+  ],
+  "release_month": null,
   "genres": [
     "action",
     "crime",
     "drama"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 14,
-    "month": 9,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 183125
+  "opening_weekend_screens": 141,
+  "name": "Stolen",
+  "num_weekends": 1,
+  "release_day": null,
+  "critic_review_count": 99
 }

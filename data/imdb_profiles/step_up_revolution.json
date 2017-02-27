@@ -1,92 +1,844 @@
 {
-  "name": "Step Up Revolution",
+  "budget": 33000000,
   "opening_weekend_income": 11731708,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 28,
+    "__type__": "datetime.date",
+    "month": 9
+  },
+  "budget_currency": "$",
+  "avg_screens": 996.6666666666666,
+  "rating_freq": {
+    "1": 1690,
+    "2": 696,
+    "3": 1184,
+    "4": 2191,
+    "5": 4448,
+    "6": 8317,
+    "7": 9554,
+    "8": 6395,
+    "9": 3507,
+    "10": 9037
+  },
+  "screens_by_weekend": [
+    2567,
+    2606,
+    1898,
+    905,
+    236,
+    198,
+    268,
+    182,
+    110
+  ],
+  "rating_count": 47019,
+  "total_screens": 8970,
+  "max_screens": 2606,
+  "duration": 99,
+  "gross_income": 35057332,
+  "metascore": 43,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 210,
+    "imdb_users": 47019,
+    "us_users": 4104,
+    "aged_18-29": 26027,
+    "non-us_users": 21385,
+    "aged_45+": 1332,
+    "aged_30-44": 9578,
+    "males_aged_30-44": 6292,
+    "males_aged_18-29": 14832,
+    "males_aged_45+": 928,
+    "aged_under_18": 336,
+    "imdb_staff": 3,
+    "males_under_18": 95,
+    "females_aged_30-44": 3148,
+    "females": 15825,
+    "females_under_18": 240,
+    "females_aged_45+": 373,
+    "males": 23544,
+    "females_aged_18-29": 10887
+  },
+  "user_review_count": 73,
+  "rating": 6.5,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 4.7,
+    "imdb_users": 6.5,
+    "us_users": 5.9,
+    "aged_18-29": 6.7,
+    "non-us_users": 6.3,
+    "aged_45+": 5.7,
+    "aged_30-44": 6.1,
+    "males_aged_30-44": 5.9,
+    "males_aged_18-29": 6.5,
+    "males_aged_45+": 5.5,
+    "aged_under_18": 7.8,
+    "imdb_staff": 4.3,
+    "males_under_18": 7.1,
+    "females_aged_30-44": 6.5,
+    "females": 6.8,
+    "females_under_18": 8.2,
+    "females_aged_45+": 6.7,
+    "males": 6.3,
+    "females_aged_18-29": 6.9
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 27,
+    "__type__": "datetime.date",
+    "month": 7
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "blogurious",
+      "contents": "Dancing for a cause",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "kgmarra",
+      "contents": "Incredible dancing, terrible movie",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "jayteerth",
+      "contents": "There's no reason you won't enjoy this one!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Frank Richter",
+      "contents": "More flat than anything else, unfortunately.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "Jay Harrington",
+      "contents": "Terrible movie!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "Troy_Campbell",
+      "contents": "So You Think You Can Dance: The Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Evaldas Liaugodas",
+      "contents": "Bad",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "Shyam Krishnan B.",
+      "contents": "dance for a cause and rock it.....",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "rgblakey",
+      "contents": "Step up took a step back",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "rivertam26",
+      "contents": "The guilty pleasure of the summer!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "abuss71",
+      "contents": "This is certainly a movie one could make.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "moviewizguy",
+      "contents": "One step can change your world.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "steve freitag",
+      "contents": "Its lucky its a dance movie",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "Vinay Sital",
+      "contents": "A bit disappointing...",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "martin-kooistra",
+      "contents": "Strictly come formula dancing",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "edisteam",
+      "contents": "guess it was OK",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "elysa-buss",
+      "contents": "Good movie...for making fun of",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "Joseph Akers",
+      "contents": "What the F...",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "rgkarim",
+      "contents": "Flashy Moves, Predictable Story Line",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "callanvass",
+      "contents": "Amateurishly acted, and a chore to sit through. This series is dead",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Arthur Wellington",
+      "contents": "Dancing through the hearts and minds...",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "Predictable ...",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "cj_diaz",
+      "contents": "Not Impressed!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "yowchilla",
+      "contents": "Dancing is another form of language and it's another way to express one's voice and emotion.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "The Spirit of the Backyard Musical Lives On",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Basically another rehash but not as good as the previous one",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "chandra sekhar",
+      "contents": "Average Flick",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "Catt Jones (cattjones@chixchatonfilm.com)",
+      "contents": "Step Down to Step It Up Revolution",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Zandria Jane",
+      "contents": "Encore!!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Sean Murphy",
+      "contents": "The Greatest Story Ever Brought To The Big Screen",
+      "review_date": {
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Dunham16",
+      "contents": "a formula romance made cogent through superb film making",
+      "review_date": {
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "niron-52125",
+      "contents": "Stay Away From This Movie!!!",
+      "review_date": {
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "Ole Sandbaek Joergensen",
+      "contents": "What is your expectations when seeing a dance movie",
+      "review_date": {
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Step Up and Step On This Film.",
+      "review_date": {
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "Bryan Kluger",
+      "contents": "The horror. The horror.",
+      "review_date": {
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Going viral",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "laurenbrigittepool",
+      "contents": "Disappointed",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "ips138",
+      "contents": "Entertainment. Seven or Eight; Eight!",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Ellie-Mae Fuidge",
+      "contents": "Exciting, Fast- Paced and Unison",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "Allen70",
+      "contents": "who says that dance can't change anything electric boogie all over again but better",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "thylacine737",
+      "contents": "Best Step Up Yet",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "evie-mctague",
+      "contents": "Great Dancing, but COMPLETELY Predictable!",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Alexandre Hitchcox",
+      "contents": "If you want to see some cool sh*t, just watch it.",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Step Up Guy (gstepup@yahoo.com)",
+      "contents": "New STEP UP film is pretty to look at but much ado about nothing",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Ashkan (AshkPunk)",
+      "contents": "Better Step Up...",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "kjenkins",
+      "contents": "OWS with a beat, but just like OWS - without honesty",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "phd_travel",
+      "contents": "Better than the last 2",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Laakbaar",
+      "contents": "Flashy flash mobs",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "terrellrobinson71",
+      "contents": "Dance to that funky music, people! The \"Step Up\" series has gotten more cooler!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews...",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Ketan Gupta",
+      "contents": "Watch it for brilliant choreography !!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "ashdoc53",
+      "contents": "great fun to watch",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Itakel Phoenix",
+      "contents": "It's a good music film",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "araledlessur",
+      "contents": "Best sequel to the dance franchise (so far)",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "kdorsey321",
+      "contents": "Not bad",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "redrose2436",
+      "contents": "Great Performances!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Jeff Lee",
+      "contents": "A dance flick with a political bent, but romance doesn't lift off",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "John Rivet",
+      "contents": "Revolution delivers on the dancing and 3D, but fails at everything else.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "rahath478",
+      "contents": "dance have returned in life with joy,not only to win some prize or competition",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Step Up Revolution",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "moviexclusive",
+      "contents": "Step Up Revolution moves beyond being just an OK dance movie to a loud and crazy concert charged with the most incredible choreography",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Jacquelin Melilli (info@jacqx.com)",
+      "contents": "The Latino Mob tops the charts!",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Dominique Alvarillo",
+      "contents": "Watch it if you haven't. Watch it again if you have.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Wade Baskin",
+      "contents": "Step Up Revolution Takes it to a New Level",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "jinklakada007",
+      "contents": "a total disaster with juvenile performances",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "Sandra Raad",
+      "contents": "Medium.. nothing fresh.. Just entertaining.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Exuberant nonsense",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    }
+  ],
+  "release_month": "July",
   "genres": [
     "drama",
     "music",
     "romance"
   ],
-  "rating": 6.5,
-  "rating_count": 47015,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 27,
-    "year": 2012,
-    "month": 7
-  },
-  "user_review_count": 73,
-  "rating_freq": {
-    "1": 1689,
-    "2": 696,
-    "3": 1185,
-    "4": 2190,
-    "5": 4448,
-    "6": 8317,
-    "7": 9553,
-    "8": 6394,
-    "9": 3507,
-    "10": 9036
-  },
-  "release_day": 27,
-  "votes_per_demo": {
-    "males": 23542,
-    "females_aged_30-44": 3148,
-    "aged_under_18": 335,
-    "non-us_users": 21382,
-    "males_aged_18-29": 14834,
-    "aged_18-29": 26027,
-    "males_aged_30-44": 6291,
-    "aged_45+": 1330,
-    "imdb_users": 47015,
-    "aged_30-44": 9577,
-    "us_users": 4105,
-    "females": 15823,
-    "females_aged_18-29": 10885,
-    "top_1000_voters": 211,
-    "males_aged_45+": 926,
-    "females_under_18": 240,
-    "females_aged_45+": 373,
-    "imdb_staff": 3,
-    "males_under_18": 94
-  },
-  "avg_rating_per_demo": {
-    "males": 6.3,
-    "females_aged_30-44": 6.5,
-    "aged_under_18": 7.8,
-    "non-us_users": 6.3,
-    "males_aged_18-29": 6.5,
-    "aged_18-29": 6.7,
-    "males_aged_30-44": 5.9,
-    "aged_45+": 5.7,
-    "imdb_users": 6.5,
-    "aged_30-44": 6.1,
-    "us_users": 5.9,
-    "females": 6.8,
-    "females_aged_18-29": 6.9,
-    "top_1000_voters": 4.7,
-    "males_aged_45+": 5.5,
-    "females_under_18": 8.2,
-    "females_aged_45+": 6.7,
-    "imdb_staff": 4.3,
-    "males_under_18": 7.1
-  },
-  "avg_screens": 996.6666666666666,
-  "release_month": "July",
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 43,
-  "gross_income": 35057332,
-  "critic_review_count": 121,
-  "budget_currency": "$",
-  "release_year": 2012,
+  "opening_weekend_screens": 2567,
+  "name": "Step Up Revolution",
   "num_weekends": 9,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 28,
-    "year": 2012,
-    "month": 9
-  },
-  "duration": 99,
-  "budget": 33000000,
-  "max_screens": 2606
+  "release_day": 27,
+  "critic_review_count": 121
 }

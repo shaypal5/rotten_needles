@@ -1,92 +1,1782 @@
 {
+  "budget_currency": "$",
+  "total_screens": 19143,
+  "rating_freq": {
+    "1": 1302,
+    "2": 1224,
+    "3": 2532,
+    "4": 6121,
+    "5": 16627,
+    "6": 35926,
+    "7": 30507,
+    "8": 11326,
+    "9": 3325,
+    "10": 4475
+  },
+  "release_day": 4,
   "genres": [
     "action",
     "comedy",
     "crime"
   ],
+  "name": "Tower Heist",
+  "release_month": "November",
+  "avg_screens": 1595.25,
+  "imdb_user_reviews": [
+    {
+      "user": "Shelly_T",
+      "score": 7,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A Very Entertaining Way to Pass the Time"
+    },
+    {
+      "user": "ntennan",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Better Than I Expected"
+    },
+    {
+      "user": "djensen1",
+      "score": 6,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Fun but a little flat"
+    },
+    {
+      "user": "pvmpro",
+      "score": 6,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "A Popcorn Movie"
+    },
+    {
+      "user": "jdemo2008",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Great Movie, better than I expected!"
+    },
+    {
+      "user": "julian-mumford",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "A rarity, a Hollywood comedy that is actually funny"
+    },
+    {
+      "user": "reysia",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Not just an ordinary comedy"
+    },
+    {
+      "user": "thinker1691",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "\" If you must steal something, do it in broad daylight \""
+    },
+    {
+      "user": "aslett",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Gets you to the top but what about getting down?"
+    },
+    {
+      "user": "jamiemarks-1",
+      "score": 2,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "This \"action-comedy\" has pretty much none of either. A boring and over-long piece of cinema trash."
+    },
+    {
+      "user": "Lewis The-Tiger Pullman",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Unrealistic? Yes.  Amusing? Certainly."
+    },
+    {
+      "user": "secondtake",
+      "score": 6,
+      "review_date": {
+        "day": 24,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "How to steal a Ferrari from the top floor of a condo tower."
+    },
+    {
+      "user": "FlashCallahan",
+      "score": 1,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Right off your face....."
+    },
+    {
+      "user": "khfan250",
+      "score": 2,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Underwhelming"
+    },
+    {
+      "user": "blanche-2",
+      "score": 7,
+      "review_date": {
+        "day": 24,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "entertaining and enjoyable"
+    },
+    {
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "score": 8,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A Fun And Likable Cast Delivers"
+    },
+    {
+      "user": "Tweekums",
+      "score": 7,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Some people deserve to get robbed!"
+    },
+    {
+      "user": "david-sarkies",
+      "score": 8,
+      "review_date": {
+        "day": 31,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Much Better than I Expected - An Enjoyable Waste of Time"
+    },
+    {
+      "user": "ringfire211",
+      "score": 9,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "TOWER HEIST - great heist flick!!"
+    },
+    {
+      "user": "Wilder Movie Reviews",
+      "score": 8,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "This seems like the perfect recipe for a film."
+    },
+    {
+      "user": "chydals",
+      "score": 8,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Simple story but very entertaining"
+    },
+    {
+      "user": "Christian_Dimartino",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Welcome back Eddie Murphey!"
+    },
+    {
+      "user": "Steve Pulaski",
+      "score": 8,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Wait, don't tell me!"
+    },
+    {
+      "user": "Lennart Kloppenburg",
+      "score": 7,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Standard recipe that still works neatly"
+    },
+    {
+      "user": "gamergcfan",
+      "score": 8,
+      "review_date": {
+        "day": 19,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "The first 30 minutes starts off poorly when compared to the rest of the movie"
+    },
+    {
+      "user": "bowmanblue",
+      "score": 7,
+      "review_date": {
+        "day": 25,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Average, but not necessarily bad"
+    },
+    {
+      "user": "SimonJack",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Comedy and capers in the skyscraper"
+    },
+    {
+      "user": "ConsultingHobbitExtractors",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "More comedy than crime, but worth renting when in search of both."
+    },
+    {
+      "user": "Saiph90",
+      "score": 9,
+      "review_date": {
+        "day": 1,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Well made comedy"
+    },
+    {
+      "user": "Dillon Harris",
+      "score": 8,
+      "review_date": {
+        "day": 13,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Not the Comedy Gold a Movie that Teams Stiller with Murphy Should Have Been,but it's Still Filled with Laughs,"
+    },
+    {
+      "user": "Uriah43",
+      "score": 6,
+      "review_date": {
+        "day": 5,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A Bit Too Serious at Times"
+    },
+    {
+      "user": "g-bodyl",
+      "score": 8,
+      "review_date": {
+        "day": 11,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Better Than Expected!"
+    },
+    {
+      "user": "djderka",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Loved Tower Heist"
+    },
+    {
+      "user": "Caleb Dekens",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Meh."
+    },
+    {
+      "user": "longcooljolie",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Better-than-average, lighthearted caper movie"
+    },
+    {
+      "user": "Treyroo",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "I finally like a Ben Stiller movie"
+    },
+    {
+      "user": "classicalsteve",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Entertaining Heist Movie Relies on Typical Hollywood Tricks and Enacts \"Cinematic\" Justice"
+    },
+    {
+      "user": "Dan Franzen (dfranzen70)",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Fine entertainment"
+    },
+    {
+      "user": "Tss5078",
+      "score": 7,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com"
+    },
+    {
+      "user": "Alan Martinez",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Very entretaining, has a few inconsistencies"
+    },
+    {
+      "user": "mcbently",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Pretty funny"
+    },
+    {
+      "user": "steven-anthoni",
+      "score": 7,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Senior Actors"
+    },
+    {
+      "user": "classick-654-615598",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Original idea, good acting"
+    },
+    {
+      "user": "Hellmant",
+      "score": 8,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Like 'OCEAN'S ELEVEN', just a bit more comedic and with an 80's style Eddie Murphy thrown in!"
+    },
+    {
+      "user": "nep983",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "One of my favorite movies of 2011"
+    },
+    {
+      "user": "Steven",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A fun comedy caper"
+    },
+    {
+      "user": " Eller",
+      "score": 1,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Terrible script, acting, wrong music... One star at most"
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "They Just Want Their Money Back"
+    },
+    {
+      "user": "skantea",
+      "score": 3,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Don't pay for it and don't watch it sober..."
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "score": 5,
+      "review_date": {
+        "day": 20,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Tower Heist"
+    },
+    {
+      "user": "Irishmoviereviewer",
+      "score": 8,
+      "review_date": {
+        "day": 31,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Good teamwork movie with Murphy, Brockerick and Stiller altogether!"
+    },
+    {
+      "user": "adamw25",
+      "score": 5,
+      "review_date": {
+        "day": 21,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Ideal 'background' movie"
+    },
+    {
+      "user": "Jose Cruz",
+      "score": 5,
+      "review_date": {
+        "day": 7,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Forgettable"
+    },
+    {
+      "user": "MC1-Bjornson",
+      "score": 7,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Tower of Power?"
+    },
+    {
+      "user": "The_Light_Triton (Black_triton14@hotmail.com)",
+      "score": 6,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Sit down, turn your brain off, and enjoy"
+    },
+    {
+      "user": "mediapeertime",
+      "score": 3,
+      "review_date": {
+        "day": 17,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Not What i thought It Would be"
+    },
+    {
+      "user": "policy134",
+      "score": 3,
+      "review_date": {
+        "day": 12,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Seriously, Mr. Murphy. Do something worthwhile for once"
+    },
+    {
+      "user": "Film Watchin Fool",
+      "score": 8,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A Great Blend of Comedy and Heist"
+    },
+    {
+      "user": "witster18",
+      "score": 5,
+      "review_date": {
+        "day": 31,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Not terrible, but not good either."
+    },
+    {
+      "user": "slickr12345",
+      "score": 8,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Not that funny, but enjoyable comedy"
+    },
+    {
+      "user": "hk7277",
+      "score": 8,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "deserve to praise."
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "score": 8,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A fine comic ensemble shines in this mix of a blue collar \"OCEAN'S 11\" meets \"IT'S A MAD MAD MAD MAD WORLD\"."
+    },
+    {
+      "user": "GeneralUrsus",
+      "score": 10,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Crowd-Pleasing Comedy Caper Film Delivers the Goods"
+    },
+    {
+      "user": "bootucci",
+      "score": 4,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Wanted To Like It..."
+    },
+    {
+      "user": "youllbelost",
+      "score": 1,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Freaking waste of time"
+    },
+    {
+      "user": "Maleplatypus",
+      "score": 8,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Very good"
+    },
+    {
+      "user": "kgmarra",
+      "score": 7,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Entertaining, but not memorable..."
+    },
+    {
+      "user": "wgeddings",
+      "score": 3,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "NOT a comedy but okay as a heist movie"
+    },
+    {
+      "user": "jc-osms",
+      "score": 5,
+      "review_date": {
+        "day": 30,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Day-height robbery"
+    },
+    {
+      "user": "phoenix 2",
+      "score": 2,
+      "review_date": {
+        "day": 9,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "not good enough"
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 6,
+      "review_date": {
+        "day": 21,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "passable heist of a certain height"
+    },
+    {
+      "user": "Adam Peters",
+      "score": 6,
+      "review_date": {
+        "day": 16,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Solid popcorn entertainment"
+    },
+    {
+      "user": "tieman64",
+      "score": 2,
+      "review_date": {
+        "day": 15,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Hoodwinked"
+    },
+    {
+      "user": "slightlymad22",
+      "score": 6,
+      "review_date": {
+        "day": 2,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Not memorable, but Watchable due to the cast"
+    },
+    {
+      "user": "AJSteele",
+      "score": 1,
+      "review_date": {
+        "day": 2,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "One chuckle gets one star."
+    },
+    {
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "score": 4,
+      "review_date": {
+        "day": 17,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Nothing new"
+    },
+    {
+      "user": "cppguy",
+      "score": 6,
+      "review_date": {
+        "day": 10,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Sadly forgettable"
+    },
+    {
+      "user": "RainMan147",
+      "score": 6,
+      "review_date": {
+        "day": 8,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A funny comedy, has some great moments but starts to push the bounds of realism towards the end"
+    },
+    {
+      "user": "callanvass",
+      "score": 6,
+      "review_date": {
+        "day": 28,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Passes the time decently enough, but it's instantly forgettable"
+    },
+    {
+      "user": "nama chakravorty",
+      "score": 7,
+      "review_date": {
+        "day": 28,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Time-Pass!"
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "score": 6,
+      "review_date": {
+        "day": 19,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A heist way up in the sky..."
+    },
+    {
+      "user": "zee",
+      "score": 6,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "far better than I expected"
+    },
+    {
+      "user": "vintagegal3",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Better than I thought"
+    },
+    {
+      "user": "edwagreen",
+      "score": 6,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Move Over Bernie Madoff **1/2 for Tower Heist"
+    },
+    {
+      "user": "ashdoc53",
+      "score": 6,
+      "review_date": {
+        "day": 18,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "good timepass"
+    },
+    {
+      "user": "Rob Johnson",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Tower Heist"
+    },
+    {
+      "user": "Nbrayton17",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Not the saving grace for Eddie Murphy but still alright"
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "score": 6,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Tower Heist (2011) - Read the Title, and There's Your Movie!"
+    },
+    {
+      "user": "evening1",
+      "score": 2,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Starts well then goes downhill fast"
+    },
+    {
+      "user": "Jordan Lujan",
+      "score": 2,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Michael Pe\u00f1a?"
+    },
+    {
+      "user": "sjpashley",
+      "score": 2,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Don't waste your time!"
+    },
+    {
+      "user": "estebangonzalez10",
+      "score": 6,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "One of the most ridiculous robbery's, but still entertaining"
+    },
+    {
+      "user": "Christian Tsoutsouvas",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "For the laidback moviegoers too cool to see The Muppets"
+    },
+    {
+      "user": "andrew-32-51147",
+      "score": 8,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "The simplistic plot and quality cast made this comedy/thriller highly entertaining"
+    },
+    {
+      "user": "rdbrown-zeteo",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Lots of Fun"
+    },
+    {
+      "user": "Killa42",
+      "score": 6,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Although convoluted, still funny"
+    },
+    {
+      "user": "PhantomAgony",
+      "score": 5,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "The Heist in Tower Heist is illogical nonsense"
+    },
+    {
+      "user": "Andrew Gerrard",
+      "score": 6,
+      "review_date": {
+        "day": 18,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Funny Different though predictable"
+    },
+    {
+      "user": "Johnny Hollywood (jnatsis@iprimus.com.au)",
+      "score": 6,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Stiller's Eleven"
+    },
+    {
+      "user": "zardoz-13",
+      "score": 5,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Bland But Harmless Fare with Stiller and Murphy Seriously Miscast"
+    },
+    {
+      "user": "NevskiMan",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Its like Oceans 11 but funny"
+    },
+    {
+      "user": "omegal",
+      "score": 1,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "This is definitely not \"It's a Mad Mad Mad Mad World\" movie..."
+    },
+    {
+      "user": "TamPalm",
+      "score": 6,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "More an Action movie than a Comedy, but Watchable"
+    },
+    {
+      "user": "skullislandsurferdotcom",
+      "score": 5,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Middling Highrise"
+    },
+    {
+      "user": "ArtificialLuddite",
+      "score": 4,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "The Real 'Heist' was the 104 Minutes I Will Never Get Back."
+    },
+    {
+      "user": "lourensini",
+      "score": 7,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Politically Incorrect, But I'll never get tired of them."
+    },
+    {
+      "user": "Twodude Review",
+      "score": 8,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "the right way to do an action-comedy caper"
+    },
+    {
+      "user": "priyantha-bandara",
+      "score": 5,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "You expect Oceans 11 or the Bank Job from this you will be utterly disappointed."
+    },
+    {
+      "user": "KineticSeoul",
+      "score": 5,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "It's not a great heist movie...But it's somewhat watchable"
+    },
+    {
+      "user": "karledwards2010",
+      "score": 2,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "So funny i wished i walked out the cinema!"
+    },
+    {
+      "user": "Andy Steel",
+      "score": 5,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Great cast... Disappointing film!..."
+    },
+    {
+      "user": "MLDinTN",
+      "score": 5,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "nothing ground breaking"
+    },
+    {
+      "user": "gradyharp",
+      "score": 5,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "'We're not criminals. We don't know how to steal...'"
+    },
+    {
+      "user": "Stu Watson",
+      "score": 4,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Fails to Live put lofty expectations"
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "score": 6,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Characters you can root for and a familiar story, \"Tower Heist\" works"
+    },
+    {
+      "user": "kosmasp",
+      "score": 6,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Big task"
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "score": 7,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Some good...some bad...a decent delivery"
+    },
+    {
+      "user": "Alabumba S",
+      "score": 5,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "\"Clever\" solutions"
+    },
+    {
+      "user": "Hussein Hakem",
+      "score": 6,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "An Ensemble cast doing an decent comedy"
+    },
+    {
+      "user": "dokha",
+      "score": 1,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Not buying it for a second"
+    },
+    {
+      "user": " (bob-rutzel-1)",
+      "score": 5,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Watchable"
+    },
+    {
+      "user": "tavm",
+      "score": 6,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Tower Heist is quite entertaining, if not completely hilarious, caper comedy with Ben Stiller and Eddie Murphy"
+    },
+    {
+      "user": "valleyjohn",
+      "score": 3,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Really , really bad."
+    },
+    {
+      "user": "Kristine (kristinedrama14@msn.com)",
+      "score": 4,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Instead of getting sugar, you're getting splenda in your kool-aid, Tower Heist is bland"
+    },
+    {
+      "user": "Marc Davis",
+      "score": 5,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "It's a heist of a film"
+    },
+    {
+      "user": "hello55555",
+      "score": 5,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "not bad"
+    },
+    {
+      "user": "bkoganbing",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Get The Money Back for the staff"
+    },
+    {
+      "user": "PWNYCNY",
+      "score": 9,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Eddie Murphy's best movie in years."
+    },
+    {
+      "user": "berto9999",
+      "score": 5,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "hmmm not what I wanted to see..."
+    },
+    {
+      "user": "jadams414",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "What a TREAT!"
+    },
+    {
+      "user": "Harry T. Yung (harry_tk_yung@yahoo.com)",
+      "score": 8,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "As a familiar genre, this movie has a lot to offer"
+    },
+    {
+      "user": "CaptMTS",
+      "score": 8,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Tower Heist is a Funny & Enjoyable Movie"
+    },
+    {
+      "user": "chaz-28",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Fulfills all of the requirements for a comedic heist genre, but not too much above & beyond that"
+    },
+    {
+      "user": "theycallmemrglass",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "An entertaining and charming comedy heist movie."
+    },
+    {
+      "user": "Argemaluco",
+      "score": 4,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A pathetic \"comedy\""
+    },
+    {
+      "user": "Merbit",
+      "score": 9,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Enjoyable Comedy/Action!"
+    },
+    {
+      "user": "st-shot",
+      "score": 3,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Unimaginative Heist only makes off with your ticket money."
+    },
+    {
+      "user": "beresfordjd",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Promising"
+    },
+    {
+      "user": "Rameshwar IN",
+      "score": 4,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Eddie Murphy shows he can still be the best in this uncooked plot."
+    },
+    {
+      "user": "sashank_kini-1",
+      "score": 4,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Has so many excesses it could pass off as a Bollywood film, but there are moments that gleam, if not gold, like fool's gold"
+    },
+    {
+      "user": "JohnRayPeterson",
+      "score": 6,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "I'd wait for this movie to show on free TV; then it'll be worth watching."
+    },
+    {
+      "user": "SnakesOnAnAfricanPlain",
+      "score": 4,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Tower Heist (2011)"
+    },
+    {
+      "user": "nishant ekka",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "got pace!!!"
+    },
+    {
+      "user": "Troy_Campbell",
+      "score": 4,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Coasts along doing the bare minimum."
+    },
+    {
+      "user": "Mike Stolyarov",
+      "score": 6,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A decent comedy with uneven story and acting"
+    },
+    {
+      "user": "wadesteru-626-397657",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Twists and Turns"
+    },
+    {
+      "user": "zane_ibrahim",
+      "score": 5,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Stiller... Murphy... Ratner... What went wrong?"
+    },
+    {
+      "user": "astangelo",
+      "score": 8,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Surprisingly Good!"
+    },
+    {
+      "user": "Jake Coffey",
+      "score": 10,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Well Done"
+    },
+    {
+      "user": "capone666",
+      "score": 6,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "The Vidiot Reviews..."
+    },
+    {
+      "user": "Oroncz",
+      "score": 3,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "michael bay is the worst..but what about brett?"
+    },
+    {
+      "user": "charlie gold",
+      "score": 9,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Fun filled, and very fast paced"
+    }
+  ],
+  "release_year": 2011,
+  "max_screens": 3370,
+  "screens_by_weekend": [
+    3367,
+    3370,
+    2942,
+    2474,
+    2404,
+    2069,
+    1315,
+    253,
+    295,
+    260,
+    220,
+    174
+  ],
+  "critic_review_count": 236,
   "num_weekends": 12,
-  "rating_freq": {
-    "1": 1303,
-    "2": 1224,
-    "3": 2532,
-    "4": 6120,
-    "5": 16624,
-    "6": 35926,
-    "7": 30502,
-    "8": 11322,
-    "9": 3323,
-    "10": 4473
-  },
-  "budget": 75000000,
-  "votes_per_demo": {
-    "non-us_users": 61110,
-    "aged_45+": 10014,
-    "females_aged_45+": 1482,
-    "imdb_staff": 12,
-    "females_under_18": 36,
-    "males_aged_45+": 8388,
-    "females_aged_18-29": 6649,
-    "males_aged_30-44": 37969,
-    "females": 14111,
-    "imdb_users": 113349,
-    "us_users": 19505,
-    "males_under_18": 241,
-    "top_1000_voters": 501,
-    "aged_under_18": 283,
-    "males": 86070,
-    "males_aged_18-29": 36232,
-    "females_aged_30-44": 5288,
-    "aged_30-44": 43783,
-    "aged_18-29": 43314
-  },
   "closing_date": {
-    "month": 1,
-    "__type__": "datetime.date",
     "day": 27,
-    "year": 2012
+    "year": 2012,
+    "__type__": "datetime.date",
+    "month": 1
   },
-  "gross_income": 78009155,
+  "opening_weekend_screens": 3367,
+  "rating": 6.2,
+  "opening_weekend_income": 24025190,
+  "user_review_count": 195,
+  "budget": 75000000,
+  "rating_count": 113362,
+  "metascore": 59,
+  "duration": 104,
   "avg_rating_per_demo": {
     "non-us_users": 6.2,
-    "aged_45+": 6.2,
-    "females_aged_45+": 6.5,
-    "imdb_staff": 6.1,
+    "aged_30-44": 6.1,
+    "top_1000_voters": 5.8,
+    "us_users": 6.2,
     "females_under_18": 7.0,
-    "males_aged_45+": 6.2,
-    "females_aged_18-29": 6.5,
     "males_aged_30-44": 6.0,
     "females": 6.4,
     "imdb_users": 6.2,
-    "us_users": 6.2,
-    "males_under_18": 6.8,
-    "top_1000_voters": 5.8,
-    "aged_under_18": 6.8,
+    "aged_45+": 6.2,
     "males": 6.2,
+    "females_aged_45+": 6.5,
+    "females_aged_18-29": 6.5,
+    "aged_under_18": 6.8,
+    "males_under_18": 6.8,
     "males_aged_18-29": 6.3,
     "females_aged_30-44": 6.2,
-    "aged_30-44": 6.1,
+    "males_aged_45+": 6.2,
+    "imdb_staff": 6.1,
     "aged_18-29": 6.3
   },
-  "opening_weekend_date": {
-    "month": 11,
-    "__type__": "datetime.date",
-    "day": 4,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 61115,
+    "aged_30-44": 43790,
+    "top_1000_voters": 501,
+    "us_users": 19507,
+    "females_under_18": 36,
+    "males_aged_30-44": 37976,
+    "females": 14114,
+    "imdb_users": 113365,
+    "aged_45+": 10015,
+    "males": 86079,
+    "females_aged_45+": 1483,
+    "females_aged_18-29": 6651,
+    "aged_under_18": 283,
+    "males_under_18": 241,
+    "males_aged_18-29": 36231,
+    "females_aged_30-44": 5287,
+    "males_aged_45+": 8388,
+    "imdb_staff": 12,
+    "aged_18-29": 43315
   },
-  "budget_currency": "$",
-  "user_review_count": 195,
-  "metascore": 59,
-  "max_screens": 3370,
-  "duration": 104,
-  "rating_count": 113349,
-  "release_day": 4,
-  "release_month": "November",
-  "release_year": 2011,
+  "gross_income": 78009155,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 24025190,
-  "critic_review_count": 236,
-  "rating": 6.2,
-  "avg_screens": 1595.25,
-  "name": "Tower Heist",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 4,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 11
+  }
 }

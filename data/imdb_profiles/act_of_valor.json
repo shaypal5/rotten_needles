@@ -1,92 +1,3690 @@
 {
-  "name": "Act of Valor",
+  "budget": 12000000,
   "opening_weekend_income": 24476632,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 1,
+    "__type__": "datetime.date",
+    "month": 6
+  },
+  "budget_currency": "$",
+  "avg_screens": 1018.7647058823529,
+  "rating_freq": {
+    "1": 1871,
+    "2": 962,
+    "3": 1394,
+    "4": 2723,
+    "5": 5379,
+    "6": 10858,
+    "7": 13880,
+    "8": 9466,
+    "9": 4736,
+    "10": 8124
+  },
+  "screens_by_weekend": [
+    3039,
+    3053,
+    2951,
+    2765,
+    2219,
+    1239,
+    708,
+    352,
+    229,
+    285,
+    193,
+    118,
+    96,
+    39,
+    19,
+    12,
+    2
+  ],
+  "rating_count": 59393,
+  "total_screens": 17319,
+  "max_screens": 3053,
+  "duration": 110,
+  "gross_income": 70011073,
+  "metascore": 40,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 291,
+    "imdb_users": 59393,
+    "us_users": 13496,
+    "aged_18-29": 20526,
+    "non-us_users": 25919,
+    "aged_45+": 6307,
+    "aged_30-44": 22763,
+    "males_aged_30-44": 20883,
+    "males_aged_18-29": 18842,
+    "males_aged_45+": 5499,
+    "aged_under_18": 60,
+    "imdb_staff": 4,
+    "males_under_18": 54,
+    "females_aged_30-44": 1596,
+    "females": 4101,
+    "females_under_18": 6,
+    "females_aged_45+": 719,
+    "males": 47710,
+    "females_aged_18-29": 1487
+  },
+  "user_review_count": 351,
+  "rating": 6.5,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 5.3,
+    "imdb_users": 6.5,
+    "us_users": 6.8,
+    "aged_18-29": 6.6,
+    "non-us_users": 6.3,
+    "aged_45+": 6.6,
+    "aged_30-44": 6.3,
+    "males_aged_30-44": 6.3,
+    "males_aged_18-29": 6.6,
+    "males_aged_45+": 6.5,
+    "aged_under_18": 6.5,
+    "imdb_staff": 8.0,
+    "males_under_18": 6.7,
+    "females_aged_30-44": 6.7,
+    "females": 6.9,
+    "females_under_18": 4.7,
+    "females_aged_45+": 7.1,
+    "males": 6.5,
+    "females_aged_18-29": 6.9
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 24,
+    "__type__": "datetime.date",
+    "month": 2
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "Matt Genn\u00e9 (mattgenne)",
+      "contents": "Gripping battle realism like a Tom Clancy wet dream",
+      "review_date": {
+        "year": 2011,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "whistler118",
+      "contents": "Good action poor film",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "brandelpresco",
+      "contents": "Wow - Goes from a solid 8 star action flick - to a 10 star eyebrow-raiser. Strait-Up",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "oheanue",
+      "contents": "A video game you can't play.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "Ben Jacobs",
+      "contents": "Fast paced, plenty of action!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "jackhollands-81-552107",
+      "contents": "Awful, really awful.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "Michael Peeters",
+      "contents": "Bad Propaganda Flick",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "Terrell Howell (KnightsofNi11)",
+      "contents": "Call of Duty: The Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Laakbaar",
+      "contents": "Tedious",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "Adam Foidart",
+      "contents": "Emotionally manipulative to the point of being offensive and some of the worst acting I've ever seen",
+      "review_date": {
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "shawnfox4",
+      "contents": "Brilliantly directed, adequately acted, and poorly written.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "tuomasp",
+      "contents": "If you're a hardcore soldier/war freak: watch it. Anyone else: DON'T!!!",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Viktor Vedmak (realvedmak)",
+      "contents": "Too much badly done propaganda",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Yousif Osama",
+      "contents": "meet the supermen!!! they never die",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": " (al.smolkin@gmail.com)",
+      "contents": "Active duty (unnamed) SEALs, not real actors",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "kevinmorice",
+      "contents": "Where is the Valor?",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "zdrake",
+      "contents": "Shame on you, America",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "jffryjcksn",
+      "contents": "Act of Propaganda",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "All American heroes, of course...",
+      "review_date": {
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "shandilla",
+      "contents": "Great Accuracy, Oorah",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "LadyFriday",
+      "contents": "Semper Fi.  Best of the Best.  Wish there was a sequel.",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Duane Williams",
+      "contents": "Guy Movie 101",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "santmedina4406-378-107574",
+      "contents": "Good Action, good effort in acting, awful story, excellent music.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Troy_Campbell",
+      "contents": "Awesome action, awful acting",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "kwhitburn",
+      "contents": "Real military existence with a very small dose of Hollywood dramatisation",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "doughanks",
+      "contents": "What isn't to like?",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "bsj-480",
+      "contents": "I've read enough \"it's not realistic\" reviews.",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "StInSanDiego",
+      "contents": "Good action sequences",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "kingdom-krud",
+      "contents": "True to Life Military Black Ops - Makes you Think",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "tim_s_wiley",
+      "contents": "Real Seals Not Actors = Real Valor = My favorite Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "rwatson-633-763077",
+      "contents": "Looks like $%@!, Smells like $%@!, Must be $%@!",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Micro95-237",
+      "contents": "Good Intentions, Poor Delivery",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "Jerome Dominic",
+      "contents": "Very nicely done",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "njoannen-22",
+      "contents": "Act of Valor Very heart wrenching movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "ngrawlings",
+      "contents": "Truly awful",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "carabuleah-730-303341",
+      "contents": "A bad movie all the way!",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "davecoll27",
+      "contents": "American machismo garbage",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "raffy-joaquin",
+      "contents": "For the true military and special forces aficionado",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "shirsch100",
+      "contents": "Excellent film!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "cervantese",
+      "contents": "Go watch Act of Valor!!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "ccthemovieman-1",
+      "contents": "A Very Cool Action Movie To Watch With Unique Filmmaking",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Lloyd Bayer",
+      "contents": "As real as it gets",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "intelearts",
+      "contents": "506th Review: Decent war flick",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "The Couchpotatoes",
+      "contents": "Yeah yeah you're great, we know it by now",
+      "review_date": {
+        "year": 2017,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Tristan Von Tschirschnitz",
+      "contents": "Real Seals in action = awesome",
+      "review_date": {
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "dartleyk",
+      "contents": "good action but absurd flaws",
+      "review_date": {
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Dan McAninch (danmcaninch-25759)",
+      "contents": "Realistic",
+      "review_date": {
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "gamergcfan",
+      "contents": "The incredible precision of solider movements and actions do not make up for the poor quality and lack of enjoyment value",
+      "review_date": {
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "steveg7489",
+      "contents": "Realistic feel with Hollywood vibe",
+      "review_date": {
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Frank Schwartz",
+      "contents": "Amazing!",
+      "review_date": {
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "Grant Bullert",
+      "contents": "Felt more like a TV movie",
+      "review_date": {
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "flecktarnworldwide",
+      "contents": "Shameless Recruitment Film for US Navy ... but OK, I can live with that.",
+      "review_date": {
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Colin",
+      "contents": "Great movie",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Horrorliefhebber",
+      "contents": "Act of Valor",
+      "review_date": {
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Eric M Hoernke (hoernkeem@yahoo.com)",
+      "contents": "Despite sub-par script and acting the realistic tactical scenes is where this movie excels",
+      "review_date": {
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "blanche-2",
+      "contents": "heavy duty action film",
+      "review_date": {
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Don-u Worraboutit",
+      "contents": "Good movie, as long as you can look past the acting during the talking scenes.",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Gabrielle Jones",
+      "contents": "Heartbreaker.",
+      "review_date": {
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "CMTiago",
+      "contents": "Navy SEAL's portrayed as ordinary Joe's",
+      "review_date": {
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Leofwine_draca",
+      "contents": "Different, but the same",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Arenjee",
+      "contents": "Movie with great potential but somewhat flawed",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "ChristianUnchained",
+      "contents": "A great tribute to our troops, But not the best film",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "jarrett-ridlinghafer",
+      "contents": "By far and away the most realistic battlefield view of Specops today",
+      "review_date": {
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "carloslejackall",
+      "contents": "A no-nonsense depiction of Spec-Ops at work",
+      "review_date": {
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "alberarg",
+      "contents": "Extraordinary film",
+      "review_date": {
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "patoonie1998",
+      "contents": "I love this movie",
+      "review_date": {
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "mjj-imac",
+      "contents": "I cannot believe that folks have to 'dis' this incredible movie",
+      "review_date": {
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "Iamowomizz",
+      "contents": "Thats what am talking about",
+      "review_date": {
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Kristina Johnson",
+      "contents": "Worth Watching",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "sam-moore82",
+      "contents": "Good entertainment",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "hd_tech680",
+      "contents": "Don't listen to the haters",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "Quite a solid action film",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "rearlpratt",
+      "contents": "Great for what is is",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "troy-manatunga",
+      "contents": "Has more potential that the heights it reached",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Joxerlives",
+      "contents": "Terrific authenticity and action scenes but unsurprisingly real SEALs can't act",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "ddush",
+      "contents": "Really Good Movie about Navy Seals",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Lumos",
+      "contents": "The Battlefield-promoted film through the eyes of a non-U.S. citizen",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "HelenMary",
+      "contents": "Act of Valour makes other action films a bit ridiculous",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "shlunka",
+      "contents": "Crack or Valium?",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "Kassi Millo",
+      "contents": "Don't watch - Anti semitic crap",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "dal_asher",
+      "contents": "No Actors Necessary",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "catandherratmeat",
+      "contents": "The Worst Movie EVER",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Clyde Leuchtag",
+      "contents": "No charismatic dramatic acting just REAL Heroes",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Ketan Gupta",
+      "contents": "If you are a fan of military action flicks , this one will be a sure shot winner !!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "laurentsius",
+      "contents": "Worst film ever seen",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "derekdiercksmeier",
+      "contents": "\"Act of Valor\" Is Shameless Propaganda. A Movie For Mindless Jingos.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Nuno Nora",
+      "contents": "I almost puked myself watching this.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "vhorng",
+      "contents": "Untrue Depiction of Places",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "alex (doorsscorpywag)",
+      "contents": "poor effort for such brave people",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "Zack Boston",
+      "contents": "Inexplicably bad camera angles and a not so great plot",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "Rusty Fondleberg",
+      "contents": "Boring, over hyped",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "antoniomagallon90",
+      "contents": "Boring movie of the year so far",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "totti127",
+      "contents": "Respect...and That's All",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Gaschi",
+      "contents": "Over length navy commercial.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "ghettodub",
+      "contents": "Loved it!",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "smithwickfarm",
+      "contents": "Act of Valor",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "fact275-1",
+      "contents": "You go for the realism, not the delivery of lines",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Alenbalz",
+      "contents": "perspective",
+      "review_date": {
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Some Dude",
+      "contents": "All non-Americans will see this for the jingoistic propaganda it is",
+      "review_date": {
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "Tank-the-Hatchet (tth-333@hotmail.com)",
+      "contents": "Could've been a good movie...",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "action good, acting not so good",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "Well-Meaning, Anti=Terrorist Propaganda",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "matt-43-343986",
+      "contents": "Masterfully shot; hindered by second rate acting",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "zmiguelz",
+      "contents": "Very good movie but too much propaganda",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Oliver Kuka",
+      "contents": "If you don't watch it for story and good acting, it's a good movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "reysia",
+      "contents": "unique and good war combat, disappointing in least part",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "H\u00c3\u00a5kon Solem",
+      "contents": "A genre movie",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "paulo-barrelas",
+      "contents": "Long bad propaganda movie",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "boramoya",
+      "contents": "Recruitment video rather than film",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Good_Fences",
+      "contents": "Conservative Porn",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Luigi Di Pilla",
+      "contents": "Damn good lessons from the US Navy Seals",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Tss5078",
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Real thing",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "thekarmicnomad",
+      "contents": "An exhilarating, well made propaganda film",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Stuart-graves",
+      "contents": "Amazing action scenes, just ignore the cheese!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "lee_alverson",
+      "contents": "Good film, Not a great film. But as honest as to the type film it is.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "buddybhupender",
+      "contents": "Syphon Filter Meets Brother In Arms...Simply Recommended!!",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "emanueljfcferreira",
+      "contents": "Very entertaining movie. A big \"Oorah\" for the action.",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "tom_cody_sof",
+      "contents": "Plot-less propaganda. Fair Acting. Some good action footage.",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "houseofjames",
+      "contents": "Lame, poorly crafted and just plane reprehensible",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "guitarmasta-242-110720",
+      "contents": "Decent Action/War Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "dugas59",
+      "contents": "whats all the complaining about?",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "reviewer135",
+      "contents": "great movie, a must watch",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "zaltman_bleros",
+      "contents": "Good film, ignore all the naysayers",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "tommygb21",
+      "contents": "Realistic Indeed",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": " (zwazo4ever@hotmail.com)",
+      "contents": "One of the best action\\army movie I've seen in a while!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "jamieo1077",
+      "contents": "One word: Wow",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "thesar-2",
+      "contents": "Actless Vapors",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "paulina-wardani",
+      "contents": "Act of failure",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "madbandit20002000",
+      "contents": "Good-natured but obvious armed forces recruitment video that's sadly exploitive",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "ezkaren",
+      "contents": "Unbelievable",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "dominic-cilli",
+      "contents": "Shameless Recruiting tool for teens",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "Rat_27",
+      "contents": "The sum is more than the parts",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "iwdplay",
+      "contents": "Gread Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "c box",
+      "contents": "realistic look",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "skat1140",
+      "contents": "The Best \"Bad\" Action Movie I've Seen in a Long Time",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "bradwk-60-379925",
+      "contents": "Heroic realism",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "ry-bier",
+      "contents": "Surprising and Good",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Jerry McNabb",
+      "contents": "I loved this film",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Movie that is inspired by fps games done right",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Walkerguy",
+      "contents": "Embarrassing",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "biman-tripathy",
+      "contents": "One of the classic examples why u shouldn't listen to those idiots giving reviews",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Morgan1605",
+      "contents": "amazing",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Radagast23",
+      "contents": "Epic action, below average story",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "classicsoncall",
+      "contents": "\"All of our focus is on the mission.\"",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "masterandoverlord",
+      "contents": "Here's the deal...",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "austntexan",
+      "contents": "Team America: World Police. . . without the laughs",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "pvmpro",
+      "contents": "A Blood pumper !!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "drrehak",
+      "contents": "meh, good action, but story line lacking and forced",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "pexu",
+      "contents": "An unskippable cutscene",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Scuppered by the absence of acting",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "nflores342",
+      "contents": "Act of Valor",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "James Thomas",
+      "contents": "You'll think very hard about how the world REALLY is.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "zwscheit",
+      "contents": "Worth Seeing",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "TheSquiss",
+      "contents": "It doesn't deserve a review, it deserves to be buried!",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Bruce Jones (bl.jones@charter.net)",
+      "contents": "About as real as it can get",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "sherrylrsc",
+      "contents": "Act of Valor delivers.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Timtacular",
+      "contents": "Blown away by IMDb's elitism once again!",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "ced70",
+      "contents": "Great Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "caseymoviemania",
+      "contents": "Casey's Movie Mania: ACT OF VALOR (2012) Review",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "Jeremy Ricketts",
+      "contents": "Respect",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "alindsay-al",
+      "contents": "A poor action film that could be argued as propaganda.",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Adam Peters",
+      "contents": "Stick with Tom Clancy",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "nickmarinich",
+      "contents": "Not Realistic - Good Cinematography",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Joshua Krzywicki",
+      "contents": "Very authentic film",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Blaine Nienaber",
+      "contents": "Finally, An action film thats fair.",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Paul Lo",
+      "contents": "Turn on Director Commentary if You have DVD/BD.",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "sunjen1",
+      "contents": "At last! A movie with real action",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Treyroo",
+      "contents": "Loved it",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "imagineda",
+      "contents": "Realistic - to a point",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "evan_harvey",
+      "contents": "Better than I thought, not as good as I'd hoped.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Meredith  Bowers",
+      "contents": "\"Act of Valor\" brings laughs, cheers and tears but lacks complete realism",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Jens Wegar",
+      "contents": "Good fights, everything else well...",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "emeraldorc",
+      "contents": "A real act of valour",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "jacobsgladedage",
+      "contents": "If you're into military action, you'll like it.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "rbap",
+      "contents": "An Ode to the American Myrmidon",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "sean_swanepoel",
+      "contents": "Great & Terrible. It's novel.",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Roland Jakobsson (rolandddd)",
+      "contents": "Mostly for American teenage boys",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "tpaladino",
+      "contents": "Best movie ever made...",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "aamartin-25-24649",
+      "contents": "A Revelation!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "treue-462-472049",
+      "contents": "good action, poor movie",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "robbieboy-90",
+      "contents": "annoying",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Portaltech78",
+      "contents": "WOW! Talk about Action!",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "DoctorRabbit",
+      "contents": "Our Troops Deserve A Better Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "One Word AWE-SOME!!!!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Simon Max Jost (s-jost@gmx.net)",
+      "contents": "Great action scenes, excellent pacing, yet way too much pathos.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": " (octahexx)",
+      "contents": "realistic but flawed",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "rj-windham",
+      "contents": "Damn few movies of this caliber",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "robt1137",
+      "contents": "Kinda modern warfare game without erm the game",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Taing Sunnguon",
+      "contents": "Why they don't know Cambodia?",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "P Jones",
+      "contents": "Finally, a movie reflecting reality instead of political correctness",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "tuanskie",
+      "contents": "Just go see it if you're up for action!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "ewan-mclelland",
+      "contents": "Simply bad",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "wasim9393",
+      "contents": "A must watch movie",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "giokod",
+      "contents": "A descent CQB movie",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "jimlacy2003",
+      "contents": "Excellent!",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Simon_Says_Movies",
+      "contents": "More an Experience Than a Real Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "rachellucille",
+      "contents": "Brilliant, complex people will seem simple in a fight",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "mab0211",
+      "contents": "Inaccuracy of facts",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": " (wewilsons)",
+      "contents": "Fantastic move that has real meaning.  I was amazed",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "danyaell",
+      "contents": "More than a movie and a lesson in Life",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Recruitment video turned theatrical movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Buck Buchanan",
+      "contents": "Real action by Real Operators; no Hollwood BS and no I's in the TEAM!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "jsonzogni",
+      "contents": "Great Movie! Must See!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "haruwn",
+      "contents": "Another U.S Govt plotted Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "velovich-1",
+      "contents": "Acts of Valor pulls back the curtain",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Alistair Chapman",
+      "contents": "Excellent and mind-blowing movie",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "nationofthedead",
+      "contents": "Most squared away movie I have seen",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "pushlooop",
+      "contents": "a game not a movie",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "Adrian K",
+      "contents": "Realistic !",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "RGeoffBaker",
+      "contents": "Well crafted but vapid and not nearly as action-packed as suggested",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Maniac-9",
+      "contents": "Top notch film",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "mtbieker",
+      "contents": "Team America without the strings and irony",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "ashphim-373-935903",
+      "contents": "This is the latest Scary Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "jeewadj",
+      "contents": "Excellent movie",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "LydiaOLydia",
+      "contents": "Brilliantly Marketed; average movie",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "RNHunter",
+      "contents": "Exceptional Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "noc-wolff",
+      "contents": "BAD!!! I want my time back!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "michaelintp",
+      "contents": "Outstanding Film!!!  Because they are the Real Deal.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "bruno1223",
+      "contents": "Awesome",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "ralphdaby-1",
+      "contents": "Save your money don't go",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "jjlaca",
+      "contents": "Outstanding, fast moving and entertaining! 10/10",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Robin Clarke",
+      "contents": "It's no Black Hawk Down",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "Another Reviewer",
+      "contents": "Computer game not a real thing",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "dushyant chaturvedi",
+      "contents": "Nothing new...",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "LeonLouisRicci",
+      "contents": "Syrupy Script Needs More Restraint and A Lot More Intelligence",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Cortland259",
+      "contents": "A So-so Act",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "jmk12095",
+      "contents": "Act of Valor make \"Saving Private Ryan\" look like a little boys toy chest",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "eagledriver88",
+      "contents": "Not great, but watchable",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Rob",
+      "contents": "By far the best military action, by far the worst actors...",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "dgg321982",
+      "contents": "Not bad for a B movie",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "mm-39",
+      "contents": "Not the best movie, but good.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "meikson",
+      "contents": "Action you feel in your bones",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "HeroOfTheDay666",
+      "contents": "A Unique Experience Compared to Most War Flicks",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "filmfan887",
+      "contents": "Spectacular Navy SEAL war movie",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "end_exposed",
+      "contents": "Excellent film, with great realism.",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "waldenbergerm",
+      "contents": "Finally, A True Movie About Real Heroes.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "AmbushBug26",
+      "contents": "Meh.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "jcfleming3",
+      "contents": "Great action movie",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Michael O'Keefe",
+      "contents": "Skill and bravery: Navy SEALs",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "mike-rauh",
+      "contents": "great movie",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Mallory J",
+      "contents": "Simply Amazing!!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "cultfilmfreaksdotcom",
+      "contents": "True True Grit",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "elliott78212",
+      "contents": "Worth the Price of a Ticket",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Derek Lavoie",
+      "contents": "Act of Valor Stays With Its Strengths and Creates a Quality Experience",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "dan-mcconnaughey",
+      "contents": "Act of Valor was awesome",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "piedbeauty37",
+      "contents": "Excellent!",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "chaz-garcia",
+      "contents": "Great movie!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "minglew",
+      "contents": "Patriotism...",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Bruce722",
+      "contents": "Simply amazing!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Hunt2546",
+      "contents": "a comment on the acting",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Sean Reeves",
+      "contents": "Best movie I've seen in a long while",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "melmartins (wmelmartins@melmartins.net)",
+      "contents": "The bad reviews are very unfair to the men who live this type story",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "An absolutely amazing war movie that will make you feel even more pride in the US military. A must see. I say A+.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "MovieFanatic88",
+      "contents": "Military Perfection",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "Dylon Benoist",
+      "contents": "Awesome Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Jeff Emanuel",
+      "contents": "A solid film that will resonate with its specific target audience",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "cortic",
+      "contents": "what a steaming pile of propaganda.",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "bOOnish",
+      "contents": "Really bad",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "Richard Winder",
+      "contents": "One of the Best Films to date.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Remy_Azhary",
+      "contents": "True meaning of patriotism",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "ahwolf-1",
+      "contents": "Best Action Flick in years.. Will move you the cheer!!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "destroyah25",
+      "contents": "Excellent film",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "devastationfilms1",
+      "contents": "You people are stupid, its actually a great film",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "If this is any good, than so is a Chuck Norris flick.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "edwardsfamily-302-624709",
+      "contents": "The way it really is, not the way Hollywood would do it.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "b_evans",
+      "contents": "Cheezy, boring, predictable crap with a good marketing campaign",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "smilesoldiers",
+      "contents": "Awesome!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "MC1-Bjornson",
+      "contents": "Real SEAL Deals",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "afh179",
+      "contents": "Entertaining and realistic war film",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Maxim_maes",
+      "contents": "The Real Heroes",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Billy D.-2",
+      "contents": "This is how you make a movie about combat !!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "btjohnny",
+      "contents": "It's a great movie!!!!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "blackberrybabe",
+      "contents": "Our TRUE American Heroes",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Act of Valor",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "sabretooth91",
+      "contents": "Will be a classic",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "inmylate39",
+      "contents": "Superb Movie of Real Men",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Jake Knee",
+      "contents": "True American Hero's",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Gregory Rose",
+      "contents": "Outstanding. A MUST SEE, especially for those in the military, or going into the military.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Aaron Muccino",
+      "contents": "Act of Valor: Not all that its cut out to be",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "bestcriteria",
+      "contents": "Intense, excellent movie overall",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Kevin O'Connell",
+      "contents": "First 15 minutes",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Mike White",
+      "contents": "Notice how the liberal newspaper reviewers hate this movie?",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Absoluteg0",
+      "contents": "Absurd.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "arturo-morin",
+      "contents": "A very good movie.  See it.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "markc14",
+      "contents": "Amazingly Realistic Action...but Saving Private Ryan it's Not",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "dave-ross390",
+      "contents": "very good",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Josh Anderson",
+      "contents": "Intense, Action Packed, Dramatic & Realistic!",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Christopher Efird",
+      "contents": "Very accurate, and VERY powerful",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "The most realistic action film I seen in a while.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "chaz-28",
+      "contents": "If you can look past the propaganda, there is a noteworthy action film here",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Dorby5826",
+      "contents": "Most realistic war film so far",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "doc-350",
+      "contents": "OUTSTANDING and so real you might want bandages...",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "cdalbon1492",
+      "contents": "Mission Accomplished!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "celtickimba",
+      "contents": "Great",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Jim Roche",
+      "contents": "They're called critics for a reason.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "pozzible",
+      "contents": "Lovin' it for what it is! A great action flick",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "cambrep-1",
+      "contents": "Real Heroes Playing Real Heroes",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "San Anto homie",
+      "contents": "honest review of the landmark war movie of the year",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "fatu",
+      "contents": "Perfect example of \"Great action, Zero substance.\"",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Kiturraran",
+      "contents": "Great movie, must watch!",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "tlomprey",
+      "contents": "Loved it",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "esk131313",
+      "contents": "The Real Deal.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Mont Poindexter (montpoindexter)",
+      "contents": "Wow",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "doofenschmerz",
+      "contents": "Ignore the knee-jerk progressives. It's incredible!",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "www.ramascreen.com",
+      "contents": "Military action movie at its best",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Richard Reilly (FFman@comcast.net)",
+      "contents": "Great Action Drives Storyline",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "jdlovejr",
+      "contents": "Call of Duty: Black Ops..ahem..I mean 'Act of Valor'...is a winner.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "swarthylad",
+      "contents": "FINALLY!  An awesome wartime movie from Hollywood!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "paintballhazard1",
+      "contents": "10/10",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "easymonkey21",
+      "contents": "A Beautiful Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "mnr_k",
+      "contents": "Simply Awfal",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "hantonr",
+      "contents": "Lots of great SEAL action, very little storyline",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "galahad58-1",
+      "contents": "Tribute",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Mardon",
+      "contents": "An OK Military Action Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Jordan Wiser",
+      "contents": "Best Movie I've Ever Seen",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "kevnbc",
+      "contents": "God Bless the U.S.A.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "kirk-246",
+      "contents": "Nice action, but that's just about it.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "clarkdaw-1",
+      "contents": "An excellent movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "mekongdelta69",
+      "contents": "I can't believe some of the so-called 'reviews' on here...",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "chrismsawin",
+      "contents": "The new definition of trendy",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "thevagusgirl",
+      "contents": "Act of Valor: The War on Drama",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "All-American Propaganda",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "web_address_08",
+      "contents": "Not authentic",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    }
+  ],
+  "release_month": "February",
   "genres": [
     "action",
     "adventure",
     "drama"
   ],
-  "rating": 6.5,
-  "rating_count": 59392,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 24,
-    "year": 2012,
-    "month": 2
-  },
-  "user_review_count": 351,
-  "rating_freq": {
-    "1": 1872,
-    "2": 962,
-    "3": 1393,
-    "4": 2723,
-    "5": 5379,
-    "6": 10859,
-    "7": 13878,
-    "8": 9466,
-    "9": 4736,
-    "10": 8124
-  },
-  "release_day": 24,
-  "votes_per_demo": {
-    "males": 47708,
-    "females_aged_30-44": 1598,
-    "aged_under_18": 60,
-    "non-us_users": 25918,
-    "males_aged_18-29": 18846,
-    "aged_18-29": 20532,
-    "males_aged_30-44": 20879,
-    "aged_45+": 6303,
-    "imdb_users": 59392,
-    "aged_30-44": 22761,
-    "us_users": 13495,
-    "females": 4103,
-    "females_aged_18-29": 1489,
-    "top_1000_voters": 292,
-    "males_aged_45+": 5497,
-    "females_under_18": 6,
-    "females_aged_45+": 717,
-    "imdb_staff": 4,
-    "males_under_18": 54
-  },
-  "avg_rating_per_demo": {
-    "males": 6.5,
-    "females_aged_30-44": 6.7,
-    "aged_under_18": 6.5,
-    "non-us_users": 6.3,
-    "males_aged_18-29": 6.6,
-    "aged_18-29": 6.6,
-    "males_aged_30-44": 6.3,
-    "aged_45+": 6.6,
-    "imdb_users": 6.5,
-    "aged_30-44": 6.3,
-    "us_users": 6.8,
-    "females": 6.9,
-    "females_aged_18-29": 6.8,
-    "top_1000_voters": 5.3,
-    "males_aged_45+": 6.5,
-    "females_under_18": 4.7,
-    "females_aged_45+": 7.2,
-    "imdb_staff": 8.0,
-    "males_under_18": 6.7
-  },
-  "avg_screens": 1018.7647058823529,
-  "release_month": "February",
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 40,
-  "gross_income": 70011073,
-  "critic_review_count": 214,
-  "budget_currency": "$",
-  "release_year": 2012,
+  "opening_weekend_screens": 3039,
+  "name": "Act of Valor",
   "num_weekends": 17,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 1,
-    "year": 2012,
-    "month": 6
-  },
-  "duration": 110,
-  "budget": 12000000,
-  "max_screens": 3053
+  "release_day": 24,
+  "critic_review_count": 214
 }

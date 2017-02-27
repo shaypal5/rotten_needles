@@ -1,91 +1,687 @@
 {
-  "genres": [
-    "comedy",
-    "drama"
-  ],
-  "num_weekends": 7,
+  "budget_currency": "$",
+  "total_screens": 7552,
   "rating_freq": {
     "1": 586,
     "2": 228,
     "3": 336,
     "4": 696,
     "5": 1322,
-    "6": 1559,
+    "6": 1560,
     "7": 1248,
     "8": 784,
     "9": 402,
     "10": 1065
   },
-  "budget": 6600000,
-  "votes_per_demo": {
-    "non-us_users": 2913,
-    "aged_45+": 1147,
-    "females_aged_45+": 466,
-    "imdb_staff": 2,
-    "females_under_18": 4,
-    "males_aged_45+": 667,
-    "females_aged_18-29": 1529,
-    "males_aged_30-44": 1727,
-    "females": 3410,
-    "imdb_users": 8226,
-    "us_users": 2717,
-    "males_under_18": 9,
-    "top_1000_voters": 123,
-    "aged_under_18": 13,
-    "males": 3797,
-    "males_aged_18-29": 1253,
-    "females_aged_30-44": 1242,
-    "aged_30-44": 3002,
-    "aged_18-29": 2804
-  },
+  "release_day": 6,
+  "genres": [
+    "comedy",
+    "drama"
+  ],
+  "name": "Jumping the Broom",
+  "release_month": "May",
+  "avg_screens": 1078.857142857143,
+  "imdb_user_reviews": [
+    {
+      "user": "Adam",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Trust Roger Ebert!"
+    },
+    {
+      "user": "diamond005",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Jumping the Broom is highly recommended********"
+    },
+    {
+      "user": "Akshay Chugh",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Wo!! What a wedding...."
+    },
+    {
+      "user": "jclass-868-571839",
+      "score": 9,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Don't Believe What Others Say, See It For Yourself"
+    },
+    {
+      "user": "trudat1978",
+      "score": 10,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Love this movie"
+    },
+    {
+      "user": "missioneagles",
+      "score": 10,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "I heartily recommend Jumping the Broom"
+    },
+    {
+      "user": "bmhooks",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Good movie. Recommend highly"
+    },
+    {
+      "user": "solangebogolina",
+      "score": 9,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "you'll love it !!! I  definitely recommend it"
+    },
+    {
+      "user": "edwagreen",
+      "score": 10,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Jumping the Broom-Jumps to Movie Success ****"
+    },
+    {
+      "user": "mrocco-1",
+      "score": 10,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A really great Romantic Drama/Comedy"
+    },
+    {
+      "user": "vince678",
+      "score": 8,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "This is a solid movie"
+    },
+    {
+      "user": "stephanie-thornton1-48-682478",
+      "score": 10,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "This was a great movie!"
+    },
+    {
+      "user": "GoogleSaturn",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A Good Movie"
+    },
+    {
+      "user": "jordbl",
+      "score": 1,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Disappointing"
+    },
+    {
+      "user": "kacarrol-772-445447",
+      "score": 10,
+      "review_date": {
+        "day": 27,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A Feel Good Movie"
+    },
+    {
+      "user": "cfayder",
+      "score": 7,
+      "review_date": {
+        "day": 13,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Surprising Good"
+    },
+    {
+      "user": "Dunham16",
+      "score": 10,
+      "review_date": {
+        "day": 13,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Moving story of kids marrying out of their separate social circles"
+    },
+    {
+      "user": "romy kom",
+      "score": 7,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Nice romantic comedy"
+    },
+    {
+      "user": "MLDinTN",
+      "score": 6,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "another wedding movie in which..."
+    },
+    {
+      "user": "ja-191-280465",
+      "score": 7,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Clich\u00e9, yet entertaining enough to watch."
+    },
+    {
+      "user": "Blackdoll24",
+      "score": 8,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Very Refreshing and positive movie, which lifted my spirits!"
+    },
+    {
+      "user": "dartleyk",
+      "score": 1,
+      "review_date": {
+        "day": 4,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "unintentionally funny"
+    },
+    {
+      "user": "erykah8402",
+      "score": 9,
+      "review_date": {
+        "day": 27,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "love this movie to pieces!!!"
+    },
+    {
+      "user": "Jezzebel Lorrellgio",
+      "score": 10,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Loved it!"
+    },
+    {
+      "user": "Rat_27",
+      "score": 1,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Should be called jumping off a bridge ..."
+    },
+    {
+      "user": "sitabanu",
+      "score": 10,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Jumping The Broom"
+    },
+    {
+      "user": "herbqedi",
+      "score": 8,
+      "review_date": {
+        "day": 31,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Surprisingly entertaining  and well-paced"
+    },
+    {
+      "user": "Bernie157",
+      "score": 9,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "\"Jumping the Broom\" was excellent"
+    },
+    {
+      "user": "hadriena108",
+      "score": 10,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "An elegant, tasteful, faith-based movie"
+    },
+    {
+      "user": "efinitsand",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Men Should Know"
+    },
+    {
+      "user": " (joemoe116)",
+      "score": 10,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A very good movie"
+    },
+    {
+      "user": "writerjudy",
+      "score": 8,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A smart film that is enjoyable for all."
+    },
+    {
+      "user": "myrawardlow",
+      "score": 10,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "LOVED Jumping the Broom"
+    },
+    {
+      "user": "carlayvette",
+      "score": 10,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Outstanding!!!"
+    },
+    {
+      "user": "justyolandamccrary (justyolandamccrary@yahoo.com)",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "I thought it was great & had wonderful themes!"
+    },
+    {
+      "user": "cara_uma",
+      "score": 9,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Outstanding Movie"
+    },
+    {
+      "user": "Miriam Cobbs",
+      "score": 10,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Jumping The Broom"
+    },
+    {
+      "user": "Moon Doggie",
+      "score": 10,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Fantastically funny"
+    },
+    {
+      "user": "termitekeith",
+      "score": 5,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Tries too hard to be all things to all people."
+    },
+    {
+      "user": "lovelifebrother",
+      "score": 9,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "\"Jumping the Broom\" an expression of family coming together in love."
+    },
+    {
+      "user": "rbrown-49-709839",
+      "score": 10,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Great Great Great Movie! Well worth your money on this movie!!!"
+    },
+    {
+      "user": "callanvass",
+      "score": 3,
+      "review_date": {
+        "day": 6,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Never thought I'd dislike a film so vehemently that involves Paula Patton\u0085"
+    },
+    {
+      "user": "rlplummer2",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A Pleasant Ensemble Mix of Comedy & Drama"
+    },
+    {
+      "user": "Terry Roehrig II",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Jumping the Broom is a sweet and funny film, well worth it!"
+    },
+    {
+      "user": "reneemsm",
+      "score": 4,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Concept was fine but acting was HORRID!!!!"
+    },
+    {
+      "user": "khace",
+      "score": 10,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Better Than Expected"
+    },
+    {
+      "user": "CJ Cassidy (DueceXmachina@msn.com)",
+      "score": 9,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Two Words; LOVED IT."
+    },
+    {
+      "user": "p-stepien",
+      "score": 4,
+      "review_date": {
+        "day": 18,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Jumping the Gun"
+    },
+    {
+      "user": "Shaune Enuahs",
+      "score": 7,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Finally! A Refreshing Film..."
+    },
+    {
+      "user": "jsession-js",
+      "score": 3,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Jumping The Broom"
+    },
+    {
+      "user": "Murli",
+      "score": 4,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A poor imitation of Tyler Perry's offerings"
+    },
+    {
+      "user": "leocharre",
+      "score": 1,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "don't eat before you see this"
+    },
+    {
+      "user": "whateveridontcare95",
+      "score": 5,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Remove Laz Alonso"
+    }
+  ],
+  "release_year": 2011,
+  "max_screens": 2035,
+  "screens_by_weekend": [
+    2035,
+    2035,
+    1472,
+    939,
+    589,
+    365,
+    117
+  ],
+  "critic_review_count": 49,
+  "num_weekends": 7,
   "closing_date": {
-    "month": 6,
-    "__type__": "datetime.date",
     "day": 24,
-    "year": 2011
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 6
   },
-  "gross_income": 37295394,
+  "opening_weekend_screens": 2035,
+  "rating": 5.7,
+  "opening_weekend_income": 15215487,
+  "user_review_count": 60,
+  "budget": 6600000,
+  "rating_count": 8227,
+  "metascore": 56,
+  "duration": 112,
   "avg_rating_per_demo": {
     "non-us_users": 5.3,
-    "aged_45+": 5.5,
-    "females_aged_45+": 6.2,
-    "imdb_staff": 6.5,
+    "aged_30-44": 5.4,
+    "top_1000_voters": 4.3,
+    "us_users": 5.8,
     "females_under_18": 6.2,
-    "males_aged_45+": 5.2,
-    "females_aged_18-29": 6.2,
     "males_aged_30-44": 5.0,
     "females": 6.2,
     "imdb_users": 5.7,
-    "us_users": 5.8,
-    "males_under_18": 5.6,
-    "top_1000_voters": 4.3,
-    "aged_under_18": 5.7,
+    "aged_45+": 5.5,
     "males": 5.2,
+    "females_aged_45+": 6.2,
+    "females_aged_18-29": 6.2,
+    "aged_under_18": 5.7,
+    "males_under_18": 5.6,
     "males_aged_18-29": 5.4,
     "females_aged_30-44": 6.1,
-    "aged_30-44": 5.4,
+    "males_aged_45+": 5.2,
+    "imdb_staff": 6.5,
     "aged_18-29": 5.8
   },
-  "opening_weekend_date": {
-    "month": 5,
-    "__type__": "datetime.date",
-    "day": 6,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 2914,
+    "aged_30-44": 3002,
+    "top_1000_voters": 123,
+    "us_users": 2717,
+    "females_under_18": 4,
+    "males_aged_30-44": 1728,
+    "females": 3410,
+    "imdb_users": 8227,
+    "aged_45+": 1148,
+    "males": 3798,
+    "females_aged_45+": 467,
+    "females_aged_18-29": 1529,
+    "aged_under_18": 13,
+    "males_under_18": 9,
+    "males_aged_18-29": 1253,
+    "females_aged_30-44": 1241,
+    "males_aged_45+": 667,
+    "imdb_staff": 2,
+    "aged_18-29": 2804
   },
-  "budget_currency": "$",
-  "user_review_count": 60,
-  "metascore": 56,
-  "max_screens": 2035,
-  "duration": 112,
-  "rating_count": 8226,
-  "release_day": 6,
-  "release_month": "May",
-  "release_year": 2011,
+  "gross_income": 37295394,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 15215487,
-  "critic_review_count": 49,
-  "rating": 5.7,
-  "avg_screens": 1078.857142857143,
-  "name": "Jumping the Broom",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 6,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 5
+  }
 }

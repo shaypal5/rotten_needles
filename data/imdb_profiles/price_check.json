@@ -1,19 +1,15 @@
 {
-  "name": "Price Check",
+  "budget": 2000000,
   "opening_weekend_income": 2783,
-  "genres": [
-    "comedy",
-    "drama"
-  ],
-  "rating": 5.5,
-  "rating_count": 1907,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 16,
+  "year": 2012,
+  "closing_date": {
     "year": 2012,
+    "day": 21,
+    "__type__": "datetime.date",
     "month": 11
   },
-  "user_review_count": 14,
+  "budget_currency": "$",
+  "avg_screens": 2.0,
   "rating_freq": {
     "1": 96,
     "2": 65,
@@ -26,60 +22,203 @@
     "9": 35,
     "10": 92
   },
-  "release_day": null,
+  "screens_by_weekend": [
+    2
+  ],
+  "rating_count": 1907,
+  "total_screens": 2,
+  "max_screens": 2,
+  "duration": 92,
+  "gross_income": 6240,
+  "metascore": 67,
+  "opening_weekend_income_currency": "$",
   "votes_per_demo": {
-    "males": 1299,
-    "females_aged_30-44": 194,
-    "males_aged_45+": 339,
-    "non-us_users": 762,
-    "males_aged_18-29": 210,
+    "imdb_users": 1907,
+    "us_users": 699,
     "aged_18-29": 336,
-    "males_aged_30-44": 710,
+    "non-us_users": 762,
     "aged_45+": 426,
     "aged_30-44": 915,
-    "imdb_users": 1907,
-    "females": 402,
-    "females_aged_18-29": 122,
-    "top_1000_voters": 60,
-    "us_users": 699,
+    "males_aged_30-44": 710,
+    "females_aged_30-44": 194,
+    "males_aged_45+": 339,
     "imdb_staff": 1,
-    "females_aged_45+": 75
+    "top_1000_voters": 60,
+    "males_aged_18-29": 210,
+    "females": 402,
+    "females_aged_45+": 75,
+    "males": 1299,
+    "females_aged_18-29": 122
   },
+  "user_review_count": 14,
+  "rating": 5.5,
+  "release_year": null,
   "avg_rating_per_demo": {
-    "males": 5.5,
-    "females_aged_30-44": 5.1,
-    "males_aged_45+": 5.8,
-    "non-us_users": 5.4,
-    "males_aged_18-29": 5.5,
+    "imdb_users": 5.5,
+    "us_users": 5.6,
     "aged_18-29": 5.3,
-    "males_aged_30-44": 5.4,
+    "non-us_users": 5.4,
     "aged_45+": 5.8,
     "aged_30-44": 5.4,
-    "imdb_users": 5.5,
-    "females": 5.1,
-    "females_aged_18-29": 5.0,
-    "top_1000_voters": 4.9,
-    "us_users": 5.6,
+    "males_aged_30-44": 5.4,
+    "females_aged_30-44": 5.1,
+    "males_aged_45+": 5.8,
     "imdb_staff": 5.0,
-    "females_aged_45+": 5.6
+    "top_1000_voters": 4.9,
+    "males_aged_18-29": 5.5,
+    "females": 5.1,
+    "females_aged_45+": 5.6,
+    "males": 5.5,
+    "females_aged_18-29": 5.0
   },
-  "avg_screens": 2.0,
-  "release_month": null,
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 67,
-  "gross_income": 6240,
-  "critic_review_count": 28,
-  "budget_currency": "$",
-  "release_year": null,
-  "num_weekends": 1,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 21,
+  "opening_weekend_date": {
     "year": 2012,
+    "day": 16,
+    "__type__": "datetime.date",
     "month": 11
   },
-  "duration": 92,
-  "budget": 2000000,
-  "max_screens": 2
+  "imdb_user_reviews": [
+    {
+      "user": "Mark Larsen",
+      "contents": "Why the low rating?",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "gaelicguy",
+      "contents": "Not for the PC police.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "RetroJethro",
+      "contents": "Meh",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "garko-1",
+      "contents": "Worth seeing - low rating be damned",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "Paul Keister",
+      "contents": "Challenging but Satisfying",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "claytonchurch1",
+      "contents": "Worth seeing to make you think about life choices",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "contents": "just as offbeat as one expects from a Parker Posey movie",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Reno Rangan",
+      "contents": "Middle class family, job, promotion, stress free life, and fall and rise.",
+      "review_date": {
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "quitwhileyouareahead",
+      "contents": "Flawed but enjoyable slice of life",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "It's okay for a rental",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "meeza (themeezaman@hotmail.com)",
+      "contents": "This Office flick checks out OK!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "harryjohnson2008",
+      "contents": "Almost completely terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    }
+  ],
+  "release_month": null,
+  "genres": [
+    "comedy",
+    "drama"
+  ],
+  "opening_weekend_screens": 2,
+  "name": "Price Check",
+  "num_weekends": 1,
+  "release_day": null,
+  "critic_review_count": 28
 }

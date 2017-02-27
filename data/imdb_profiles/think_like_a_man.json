@@ -1,91 +1,736 @@
 {
-  "num_weekends": 12,
-  "duration": 122,
+  "budget": 12000000,
+  "opening_weekend_income": 33636303,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 6,
+    "__type__": "datetime.date",
+    "month": 7
+  },
+  "budget_currency": "$",
+  "avg_screens": 1012.0833333333334,
   "rating_freq": {
     "1": 1300,
     "2": 444,
     "3": 668,
     "4": 1315,
-    "5": 3139,
-    "6": 6769,
+    "5": 3140,
+    "6": 6770,
     "7": 8638,
     "8": 5472,
-    "9": 2616,
+    "9": 2617,
     "10": 5411
   },
-  "release_year": 2012,
-  "budget_currency": "$",
-  "rating": 6.6,
-  "release_day": 20,
-  "budget": 12000000,
-  "votes_per_demo": {
-    "us_users": 7252,
-    "imdb_users": 35772,
-    "aged_30-44": 10600,
-    "males": 18039,
-    "males_aged_18-29": 8599,
-    "top_1000_voters": 207,
-    "females_aged_30-44": 3488,
-    "imdb_staff": 2,
-    "females": 12366,
-    "females_aged_45+": 802,
-    "females_under_18": 49,
-    "aged_under_18": 82,
-    "aged_45+": 2150,
-    "females_aged_18-29": 7143,
-    "non-us_users": 14589,
-    "males_aged_45+": 1317,
-    "males_under_18": 32,
-    "aged_18-29": 15901,
-    "males_aged_30-44": 6999
-  },
-  "metascore": 51,
-  "avg_rating_per_demo": {
-    "us_users": 6.5,
-    "imdb_users": 6.6,
-    "aged_30-44": 6.2,
-    "males": 6.3,
-    "males_aged_18-29": 6.6,
-    "top_1000_voters": 4.9,
-    "females_aged_30-44": 6.7,
-    "imdb_staff": 7.5,
-    "females": 7.0,
-    "females_aged_45+": 6.9,
-    "females_under_18": 7.5,
-    "aged_under_18": 7.1,
-    "aged_45+": 6.0,
-    "females_aged_18-29": 7.0,
-    "non-us_users": 6.3,
-    "males_aged_45+": 5.7,
-    "males_under_18": 6.5,
-    "aged_18-29": 6.8,
-    "males_aged_30-44": 6.1
-  },
-  "rating_count": 35772,
-  "critic_review_count": 76,
-  "opening_weekend_income_currency": "$",
-  "name": "Think Like a Man",
-  "user_review_count": 63,
-  "avg_screens": 1012.0833333333334,
-  "release_month": "April",
-  "opening_weekend_date": {
-    "day": 20,
-    "month": 4,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "screens_by_weekend": [
+    2015,
+    2015,
+    2010,
+    2052,
+    1722,
+    786,
+    509,
+    287,
+    208,
+    238,
+    185,
+    118
+  ],
+  "rating_count": 35775,
+  "total_screens": 12145,
   "max_screens": 2052,
+  "duration": 122,
   "gross_income": 91547205,
+  "metascore": 51,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 207,
+    "imdb_users": 35775,
+    "us_users": 7253,
+    "aged_18-29": 15901,
+    "non-us_users": 14589,
+    "aged_45+": 2150,
+    "aged_30-44": 10601,
+    "males_aged_30-44": 7000,
+    "males_aged_18-29": 8599,
+    "males_aged_45+": 1317,
+    "aged_under_18": 82,
+    "imdb_staff": 2,
+    "males_under_18": 32,
+    "females_aged_30-44": 3488,
+    "females": 12366,
+    "females_under_18": 49,
+    "females_aged_45+": 802,
+    "males": 18040,
+    "females_aged_18-29": 7143
+  },
+  "user_review_count": 63,
+  "rating": 6.6,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 4.9,
+    "imdb_users": 6.6,
+    "us_users": 6.5,
+    "aged_18-29": 6.8,
+    "non-us_users": 6.3,
+    "aged_45+": 6.0,
+    "aged_30-44": 6.2,
+    "males_aged_30-44": 6.1,
+    "males_aged_18-29": 6.6,
+    "males_aged_45+": 5.7,
+    "aged_under_18": 7.1,
+    "imdb_staff": 7.5,
+    "males_under_18": 6.5,
+    "females_aged_30-44": 6.7,
+    "females": 7.0,
+    "females_under_18": 7.5,
+    "females_aged_45+": 6.9,
+    "males": 6.3,
+    "females_aged_18-29": 7.0
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 20,
+    "__type__": "datetime.date",
+    "month": 4
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "bynari-1",
+      "contents": "Amazing feel good movie",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "mohammed-helal-eng",
+      "contents": "Can't believe the rating is so low",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "Catt Jones (cattjones@chixchatonfilm.com)",
+      "contents": "The Kevin Hart Show",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "niovi_555",
+      "contents": "Brilliant movie! Absolutely loved it!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Rizwan Ali",
+      "contents": "Ignore ratings, very good film!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "skipweo",
+      "contents": "RTeally Sucked / 1 hour too long!!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "gregarious1987",
+      "contents": "Predicable but well executed.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "stuffed-pumpkin",
+      "contents": "Not my cup of tea...",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "The date night from hell",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Pretentious and irritating to watch",
+      "review_date": {
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "Much better then I expected and one of the few chick-flicks that I really enjoyed. Very funny and good date movie. I say A-",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Lise Bon",
+      "contents": "predictable and unfunny",
+      "review_date": {
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "djblues-945-138858",
+      "contents": "Just. So. Bad.",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Katerina Lp",
+      "contents": "Meh",
+      "review_date": {
+        "year": 2017,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "kosmasp",
+      "contents": "It's war",
+      "review_date": {
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "xsophietaylorx",
+      "contents": "Greatness",
+      "review_date": {
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "brchthethird",
+      "contents": "Formulaic \"battle of the sexes\" comedy elevated by the charisma of its cast",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "Tries for Tyler Perry but lands pretty far south",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "theauntsavant",
+      "contents": "Think Like a Man Flips Ideology of Steve Harvey's Book",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "jutman-1",
+      "contents": "Some laughs, nothing more",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "zif ofoz",
+      "contents": "episodic bore",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "Ms.  G",
+      "contents": "Goofs in the movie",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "But Act Like a Fool",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "Shamontiel Vaughn",
+      "contents": "Started off slow but picked up tremendously towards the middle",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Beatrice McClearn",
+      "contents": "Not bad; Not great. Kevin Hart made the movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "TheQuietStorm",
+      "contents": "Definitely one of the worst films of 2012 so far...",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "TamPalm",
+      "contents": "More an Ode to Steve Harvey than a real Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "Craig Hughes",
+      "contents": "Quite Funny & Enjoyable",
+      "review_date": {
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "DGKRocks",
+      "contents": "Not bad, not bad",
+      "review_date": {
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "Think Like A Player",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Great laughs but a little bit long",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "namuun100",
+      "contents": "Hits the Spot",
+      "review_date": {
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "breakdownthatfilm-blogspot-com",
+      "contents": "Well rounded rom-com",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "debbiealexis7",
+      "contents": "Best Movie though",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "ayunzz",
+      "contents": "Very well Enjoyed !!!!!!",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Raul Faust",
+      "contents": "Life",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "G K",
+      "contents": "This take on modern romance is both very funny and engaging.",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "vincentlynch-moonoi",
+      "contents": "A good film with a fine, mostly Black cast...but it's for lovers everywhere",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Chandru Bhojwani (cultjones@yahoo.com)",
+      "contents": "Think. Like. Man or Woman.",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Hatem Seoudi",
+      "contents": "A movie for everyone",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "marjocotty",
+      "contents": "The war of sexes is back!",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "amaradio15",
+      "contents": "A Rating of 6.1 Is Wrong",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "HelenMary",
+      "contents": "really amusing entertaining and funny romcom",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Tyler Jackson",
+      "contents": "Think Like A Man and take Action and see this movie!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "ahealthydrinkforyou",
+      "contents": "A Continuous Laughing Experience!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "WydeOpen",
+      "contents": "A quality film in line with Hollywood's traditional romantic comedy formula",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "lojitsu",
+      "contents": "It's all flowers and candy...with relationship jokes",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "kdorsey321",
+      "contents": "Solid",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "milwaukeetj-129-250259",
+      "contents": "This is an excellently hilarious movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "Richard Reilly (FFman@comcast.net)",
+      "contents": "One of the Worst Movies of the year",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "sociallydisabled",
+      "contents": "Hilarious from beginning to end",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "Stephanie Chance",
+      "contents": "I Love This Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": " (superwomanproductions)",
+      "contents": "This movie is phenomenal!",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "rrstrong",
+      "contents": "Think like a viewer",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "cherie-boone",
+      "contents": "Think Like a Man Act Like a Woman",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "onajemalik",
+      "contents": "Excellent Movie! Way better than the best I thought it would be.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film Review: A comedic firestorm.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    }
+  ],
+  "release_month": "April",
   "genres": [
     "comedy",
     "romance"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 6,
-    "month": 7,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 33636303
+  "opening_weekend_screens": 2015,
+  "name": "Think Like a Man",
+  "num_weekends": 12,
+  "release_day": 20,
+  "critic_review_count": 76
 }

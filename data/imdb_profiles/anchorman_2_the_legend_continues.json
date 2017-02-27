@@ -1,90 +1,3769 @@
 {
-  "critic_review_count": 272,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2014,
-    "month": 3,
-    "day": 14
-  },
-  "release_month": "December",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 12,
-    "day": 20
-  },
-  "metascore": 61,
-  "max_screens": 3507,
-  "duration": 119,
-  "rating_count": 136877,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 10,
+  "release_day": 18,
   "avg_rating_per_demo": {
+    "aged_45+": 5.7,
+    "top_1000_voters": 5.7,
+    "males_under_18": 6.9,
+    "imdb_staff": 5.8,
+    "males_aged_18-29": 6.6,
+    "imdb_users": 6.3,
+    "males_aged_45+": 5.7,
+    "aged_18-29": 6.6,
+    "us_users": 6.2,
+    "females_aged_30-44": 5.9,
+    "males": 6.3,
+    "females": 6.1,
+    "females_aged_45+": 5.5,
     "non-us_users": 6.3,
     "females_aged_18-29": 6.3,
-    "females": 6.1,
-    "aged_45+": 5.7,
     "females_under_18": 6.6,
-    "imdb_users": 6.3,
-    "imdb_staff": 5.8,
-    "females_aged_30-44": 5.9,
-    "aged_under_18": 6.9,
-    "males_aged_30-44": 6.1,
-    "top_1000_voters": 5.7,
     "aged_30-44": 6.1,
-    "males_aged_18-29": 6.6,
-    "males": 6.3,
-    "females_aged_45+": 5.5,
-    "males_under_18": 6.9,
-    "us_users": 6.2,
-    "males_aged_45+": 5.7,
-    "aged_18-29": 6.6
+    "aged_under_18": 6.9,
+    "males_aged_30-44": 6.1
   },
-  "user_review_count": 348,
-  "rating_freq": {
-    "1": 4000,
-    "2": 2869,
-    "3": 4291,
-    "4": 8040,
-    "5": 16543,
-    "6": 31022,
-    "7": 34953,
-    "8": 19387,
-    "9": 7417,
-    "10": 8355
+  "closing_date": {
+    "month": 3,
+    "year": 2014,
+    "day": 14,
+    "__type__": "datetime.date"
+  },
+  "metascore": 61,
+  "num_weekends": 10,
+  "rating_count": 136907,
+  "gross_income": 2175312,
+  "max_screens": 3507,
+  "opening_weekend_screens": 3507,
+  "screens_by_weekend": [
+    3507,
+    3507,
+    3407,
+    3012,
+    3012,
+    824,
+    420,
+    261,
+    304,
+    50
+  ],
+  "opening_weekend_income": 26776000,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "Feel like I have just received a massive kick to the genitals.",
+      "score": 5,
+      "user": "ArT_of_InSaNiTy",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An abomination",
+      "score": 3,
+      "user": "Ammad-Farooqui",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just awful...",
+      "score": 1,
+      "user": "leonhart35",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bottle feeding the shark?",
+      "score": 2,
+      "user": "Jack Banister",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "7.2...are you crazy?!",
+      "score": 1,
+      "user": "Nicholas Christou",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "awful",
+      "score": 2,
+      "user": "cookyman11",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst sequel in the history of sequels.",
+      "score": 1,
+      "user": "Travis Weed",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Old ... and painful",
+      "score": 3,
+      "user": "jij98111",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Complete and total fail",
+      "score": 1,
+      "user": "cwcoke",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "overzealous and underachieving",
+      "score": 2,
+      "user": "heykyleinsf",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terribly disappointed",
+      "score": 4,
+      "user": "Rowena Masakayan",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nauseatingly Self-indulgent",
+      "score": 4,
+      "user": "aliceecila",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "IMDb should really clean up the mess left by haters...",
+      "score": 10,
+      "user": "laurentbell",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Bad Movie Falls Apart Even More At Its End, But It Does Have A Few Laughs",
+      "score": 3,
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "People have revisionist history",
+      "score": 7,
+      "user": "Bradley-Grube",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst Movie Ever",
+      "score": 1,
+      "user": "wilmasusan",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disregard other reviews. Watch this movie. You will laugh out loud non stop",
+      "score": 10,
+      "user": "Lampinerryday420",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great fun, but the element of surprise is missing. (***1/2)",
+      "score": 7,
+      "user": "Film Fan Perspective (filmfanperspective@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad and not in a good  way.  Really bad.",
+      "score": 1,
+      "user": " (bob-rutzel-1)",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A poor sequel that rehashes old material and has none of the charm",
+      "score": 4,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny!?",
+      "score": 2,
+      "user": "xenomorph76",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Completely unwatchable!",
+      "score": 1,
+      "user": "Michelle Michaels",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "couldn't make it through it",
+      "score": 1,
+      "user": "banananana-na",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Now I Definitely Won't Be Buying A Dodge Durango",
+      "score": 2,
+      "user": "hymekbr",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An epic turd",
+      "score": 4,
+      "user": "ari_burd",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible movie",
+      "score": 2,
+      "user": "sarconus",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very bad comedy / mediocre satire",
+      "score": 2,
+      "user": " (Filmfastic)",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the sequel you're looking for",
+      "score": 3,
+      "user": "systemofabush2005",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Man...that was dumb",
+      "score": 3,
+      "user": "Casey Vickstrom",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Does the Language of Anchorman 2 Effect It's Rating?",
+      "score": 5,
+      "user": "rebertanner",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Many funny moments but way too many dull parts",
+      "score": 5,
+      "user": "Christopher Reid",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why?",
+      "score": 2,
+      "user": "s_clarke91",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There's a genuine laugh about the 1:03 mark if you want to stick around...",
+      "score": 3,
+      "user": "Jonny 99",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Worst of Will Farrell",
+      "score": 1,
+      "user": "BoomerDT",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hated it, sorry.",
+      "score": 1,
+      "user": "jasoninasheville",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incredibly disappointing.",
+      "score": 4,
+      "user": "Ben Davis",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Moderately funny but bloated sequel",
+      "score": 5,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply awful",
+      "score": 2,
+      "user": "petro-7",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hits and misses, but mostly misses",
+      "score": 5,
+      "user": "grantss",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "sorry not funny",
+      "score": 1,
+      "user": "Kelchubordnor",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "once again disappointment by a...",
+      "score": 4,
+      "user": "MLDinTN",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stiff, Forced and Declawed, This isn't the Burgundy We Fell in Love With",
+      "score": 4,
+      "user": "Sean Lamberger",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What Happened?",
+      "score": 4,
+      "user": "SerpentMage",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why?",
+      "score": 4,
+      "user": "rogue9000",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "may work if you are stoned and want to watch a stupid flick",
+      "score": 2,
+      "user": "R SN",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such a shame!",
+      "score": 5,
+      "user": "reaver80808-552-7999",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gave it a try...",
+      "score": 2,
+      "user": "slowhand1735",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Believe the One Star Reviews, this film is awful.",
+      "score": 1,
+      "user": "indurain",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No Fun",
+      "score": 3,
+      "user": "jfgibson73",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Seriously nonsense crap - not funny or even tolerable",
+      "score": 1,
+      "user": "Rahul Choudhary",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Will Ferrell's Worst Movie",
+      "score": 1,
+      "user": "classichollywoodbeauties",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too far with the random over acting humor",
+      "score": 2,
+      "user": "pot7",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Were the writers smoking crack, too??!!",
+      "score": 1,
+      "user": "Jake Thompson",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I would give it the lowest negative rating if that was possible",
+      "score": 1,
+      "user": "OrangeFlamingo",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad News",
+      "score": 5,
+      "user": "Fluke_Skywalker",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Low expectations helps the viewing experience greatly",
+      "score": 7,
+      "user": "Scott Baldwin (Meven_Stoffat)",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Almost ten years of waiting.... nooooooooo",
+      "score": 5,
+      "user": "MikesIDhasbeentaken",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "garbage",
+      "score": 2,
+      "user": "kengerety-967-925777",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good slap upside the head!",
+      "score": 8,
+      "user": "anchoreddown",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's hard to believe its THAT bad",
+      "score": 1,
+      "user": "Liam 'Spike' Noble",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just NOT Funny, Embarrassing, Waste of Time",
+      "score": 1,
+      "user": "mardermj",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Know what you're in for",
+      "score": 7,
+      "user": "Bjorn (ODDBear)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Can i have my 120 minutes of life back please!!!",
+      "score": 1,
+      "user": "jresman",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst Movie Ever!",
+      "score": 1,
+      "user": "javilaus",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Massive Disappointment",
+      "score": 4,
+      "user": "Joe Crouch",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sarcastically funny",
+      "score": 8,
+      "user": "versandeep",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Burgundy On Crack",
+      "score": 8,
+      "user": "AudioFileZ",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible",
+      "score": 1,
+      "user": "Natalia S",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing Near Train Wreck",
+      "score": 4,
+      "user": "andyh69",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Was that it?",
+      "score": 5,
+      "user": "scott_thompson7454",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "200% laughter riot .. every scene is comical, had a great day",
+      "score": 10,
+      "user": "Ugesh Prasad",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing and Unfunny Sequel",
+      "score": 2,
+      "user": "Robert",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Continuing the saga of Ron Burgundy and his news team",
+      "score": 8,
+      "user": "lipepublio",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some amusing but not funny",
+      "score": 6,
+      "user": "Floated2",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Legend is Still Awesome!",
+      "score": 10,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny but completely stupid!",
+      "score": 8,
+      "user": "Irishmoviereviewer",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Anchorman 2\" is even better than the original.",
+      "score": 8,
+      "user": "Dave McClain (dave-mcclain@hotmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you liked the first one...",
+      "score": 5,
+      "user": "Gideon24",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Genius of Stupidity",
+      "score": 7,
+      "user": "manuelbm13",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Anchorman 2: The Legend Continues' is a wonderful sequel and might be the hardest you'll laugh this holiday season.",
+      "score": 7,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Purely comedic with minimal story.",
+      "score": 8,
+      "user": "ConsultingHobbitExtractors",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Please stop",
+      "score": 1,
+      "user": "professionaldad",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some good laughs, some social commentary and a bit of mushy sentiment - all wrapped up in a reasonably good package",
+      "score": 6,
+      "user": "jimbo-53-186511",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Will Ferrell lays an egg. Terrible, dumb, tasteless and stupid",
+      "score": 4,
+      "user": "mike48128",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just.. Terrible",
+      "score": 3,
+      "user": "Tucker2007",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Embarrassed. Insulted. Infuriated. Had to leave the room.",
+      "score": 1,
+      "user": "Anjellica",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumb",
+      "score": 2,
+      "user": "jtc1965",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Sequel that was a BiGGER anti-climax than socks for Christmas !",
+      "score": 3,
+      "user": "Downtwisted-227-769860",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't expect it to be as funny as the first.",
+      "score": 6,
+      "user": "Thomas West",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Relatively Funny!",
+      "score": 8,
+      "user": "g-bodyl",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Part 2 only 1/2 the Laughs",
+      "score": 5,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, But Long",
+      "score": 6,
+      "user": "gavin6942",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun, but filled with typical sequel flaws.",
+      "score": 6,
+      "user": "Geeky Randy",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Somehow I don't hate it",
+      "score": 8,
+      "user": "Sandcooler",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ron is Back and Watch it again!",
+      "score": 9,
+      "user": "mikescotty7",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nope, it's not as funny as the first. Yup, it's still a great laugh.",
+      "score": 6,
+      "user": "Botsu",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Bad Case of Sequelitis",
+      "score": 3,
+      "user": "Scott_Mercer",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The legend continues (but only just!).",
+      "score": 6,
+      "user": "Dutchie Guy",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Original was better! 4/10",
+      "score": 4,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing",
+      "score": 5,
+      "user": "sdquinn2-1",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Huge Disappointment",
+      "score": 2,
+      "user": "blaijonj",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Legend Shoulda Stopped While Ahead...",
+      "score": 1,
+      "user": "Brad Austin",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a Great Movie IF you like stupid",
+      "score": 4,
+      "user": "marksez",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Can you say phoning in....?",
+      "score": 7,
+      "user": "alex etersen",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocre sequel to one of the best comedies out there.",
+      "score": 5,
+      "user": "www-kendja15",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't waste your time",
+      "score": 1,
+      "user": "dean-mcmillan",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A new low in Comedy",
+      "score": 1,
+      "user": "lukehil",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Apatow will need more than an editor if he makes a film like \"Anchorman 2\" again",
+      "score": 2,
+      "user": "Chris Mizerak",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing Special But Watchable",
+      "score": 5,
+      "user": "utgard14",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Noooooooooo",
+      "score": 1,
+      "user": "Bobby Lunn",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretend This One Doesn't Exist",
+      "score": 4,
+      "user": "stephyoggi",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As a reminder...",
+      "score": 2,
+      "user": "ThurstonHunger",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Anchorman 2: The Legend Continues\" My modest review",
+      "score": 5,
+      "user": "Juan Pablo Lopez Maggi",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Had plenty of opportunities but just kept disappointing",
+      "score": 5,
+      "user": "MoviePro223",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stupid Movie",
+      "score": 2,
+      "user": "shravan-dhadiwal",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Started out promising...",
+      "score": 5,
+      "user": "madisondeclare",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely terrible",
+      "score": 1,
+      "user": "Kamron Brooks",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Re-watch or No Chance",
+      "score": 3,
+      "user": "areilly1018",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I would put a 0 if I had the option",
+      "score": 1,
+      "user": "klitos20",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Atrocious.",
+      "score": 1,
+      "user": "rashed94",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I miss Dorothy Mantooth....",
+      "score": 5,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mindlessly stupidly funny",
+      "score": 7,
+      "user": "KermitWazowski",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kanye West's biggest misstep to date!",
+      "score": 4,
+      "user": "Markus Emilio Robinson",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "so bad!! It made me sad!!",
+      "score": 1,
+      "user": "kaylaboeckman",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "60% of the time it fails,every time",
+      "score": 2,
+      "user": "HenbaineAccount2",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The worst movie I ever saw.",
+      "score": 1,
+      "user": "manishboy",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Actually Cringed",
+      "score": 3,
+      "user": "twowaystairs",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watching the actual news would have been funnier...",
+      "score": 4,
+      "user": "Ben Preiss",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awkwardly amusing?",
+      "score": 5,
+      "user": "gongju214",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Maybe I've Grown Up",
+      "score": 3,
+      "user": "newguy85",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heads should roll after this childish, asinine sequel",
+      "score": 1,
+      "user": "Guy Stevens",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a disappointment",
+      "score": 3,
+      "user": "Hawaiianbryan808",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The longest 5 minutes I have ever spent",
+      "score": 1,
+      "user": "cordenw",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why Ron, Why!?",
+      "score": 1,
+      "user": "Bob Burnquist",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not worthy of the Anchorman cult legend",
+      "score": 2,
+      "user": "OJT",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really Big Flop",
+      "score": 3,
+      "user": "murfbasslive",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hit and miss sequel with more \"misses\" than \"hits.\"",
+      "score": 3,
+      "user": "houghtonetet",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful, Unless...",
+      "score": 2,
+      "user": "gcsales",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I didn't think it was very funny to be honest",
+      "score": 5,
+      "user": "callanvass",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ruined what could have been good",
+      "score": 1,
+      "user": "relambert",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolute garbage",
+      "score": 1,
+      "user": "millere514",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible.",
+      "score": 1,
+      "user": "Mitch Weber",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumbest movie ever ... absolute torture to watch",
+      "score": 1,
+      "user": "innerboyka",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you loved the first one you'll hate this movie",
+      "score": 3,
+      "user": "soko355",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful - Awful - Awful! Don't Waste Your Money",
+      "score": 1,
+      "user": "howarddecker",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Junk - Horrible - Complete Waste of Time",
+      "score": 1,
+      "user": "mccully-880-939228",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Are you kidding me?",
+      "score": 1,
+      "user": "dlo540",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anchorman 2, in general, Is a WASTE OF TIME AND MONEY...",
+      "score": 1,
+      "user": "PCollen",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't bother",
+      "score": 2,
+      "user": "Andyssoohigh",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "waste of money and time",
+      "score": 1,
+      "user": "mlansdon",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In short: a waste of time",
+      "score": 3,
+      "user": "yup_whistler",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If feels improvised and not scripted",
+      "score": 1,
+      "user": "rogerdob",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absurdity, offensiveness and slapstick, any taste in humor will be satisfied...",
+      "score": 8,
+      "user": "ElMaruecan82",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ron Burgundy on 24 hour news...",
+      "score": 7,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Still a fun time but not as enjoyable as the original.",
+      "score": 7,
+      "user": "alindsay-al",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anchorman 2: The Legend Continues",
+      "score": 5,
+      "user": "tbills2",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as Funny as the First ANCHORMAN, But It'll Do",
+      "score": 7,
+      "user": "brando647",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anchorman .5",
+      "score": 5,
+      "user": "Twcreconv2",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What do people expect out of a sequel?",
+      "score": 6,
+      "user": "faithlmartin",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Burgundy is back",
+      "score": 5,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply not bad, at least deserving of a fair shot",
+      "score": 5,
+      "user": "tomgillespie2002",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Not Bad Comedy Sequel!\"",
+      "score": 6,
+      "user": "gwnightscream",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anchorman: just with an R-rating",
+      "score": 8,
+      "user": "camachbr0",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Two different movies in one?",
+      "score": 6,
+      "user": "maros612",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More Of The Same",
+      "score": 6,
+      "user": "Nick R.",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "good absurd comedy",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Drags in the second half, loses focus.",
+      "score": 6,
+      "user": "MacTheMovieguy",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Part 1 was better...",
+      "score": 5,
+      "user": "Paul Magne Haakonsen",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I get it, you wanted to make fun of Fox News and other media outlets...",
+      "score": 5,
+      "user": "Little Joey Sergio",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing News",
+      "score": 5,
+      "user": "cultfilmfreaksdotcom",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A step away from dismal",
+      "score": 4,
+      "user": "steforlowski",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Unworthy Successor",
+      "score": 4,
+      "user": "burger1124 (burger1124@yahoo.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Serious Disappointment",
+      "score": 5,
+      "user": "themusgrat",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing is the word",
+      "score": 6,
+      "user": "bbewnylorac",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bit too long, but great",
+      "score": 8,
+      "user": "G-fan-uk",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When has WILL FERRELL Ever Let You Down? Hilarious!",
+      "score": 10,
+      "user": "wizartd",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Needs more Mantooth",
+      "score": 7,
+      "user": "tieman64",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it!!!",
+      "score": 10,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A funny return, better than before, debatable",
+      "score": 6,
+      "user": "willcundallreview",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews",
+      "score": 5,
+      "user": "capone666",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "First half entertaining but second half disappointing",
+      "score": 6,
+      "user": "nomisz1",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "That was not classy , RON !!",
+      "score": 3,
+      "user": " (rasha777)",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as good as it ought to be",
+      "score": 7,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why did Will Farrell change Burgundy's persona?",
+      "score": 7,
+      "user": "jpballgame",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More of the same (maybe a little too much)",
+      "score": 5,
+      "user": "iamchrisallan",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well...It's better than the first one to a degree",
+      "score": 5,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Messy plot, still pull some good laughs.",
+      "score": 7,
+      "user": "rl_holzman",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mockery Of Some Brilliant Characters. \u2666 40%",
+      "score": 4,
+      "user": "Tejas Nair",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worthy follow up to a cult classic",
+      "score": 7,
+      "user": "Ibrahim Rizwan",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More Brick, More fun.",
+      "score": 8,
+      "user": "ultimatt1337",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ron Burgundy does two things, he has salon quality hair & makes amazingly funny movies. This will be a classic like the 1st one",
+      "score": 9,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a disappointment",
+      "score": 5,
+      "user": "viper_ao1",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Afternoon Delight!",
+      "score": 8,
+      "user": "pablo2896",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not to be taken too seriously",
+      "score": 6,
+      "user": "Martin Batley",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Fairly Funny Set of Strung-Together Skits",
+      "score": 6,
+      "user": "jmillerdp",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nowhere near the first, but still offers a few good laughs.",
+      "score": 5,
+      "user": "Mr-Fusion",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Comedy Gold",
+      "score": 8,
+      "user": "chris_rowe-881-168820",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wait for Redbox or Netflix.",
+      "score": 6,
+      "user": "kaliveach",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Despite its unevenness, I pretty much enjoyed Anchorman 2: The Legend Continues",
+      "score": 6,
+      "user": "tavm",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as good as the first",
+      "score": 6,
+      "user": "bravesfanc",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It did make me laugh, but at certain moments it really disappointed",
+      "score": 5,
+      "user": "estella2",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's obviously about the evolution of FOX News!",
+      "score": 8,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stop hatin",
+      "score": 10,
+      "user": "Nikron Chemist Kushari",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Explosion of laughs",
+      "score": 10,
+      "user": "CMTiago",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the greats",
+      "score": 10,
+      "user": "Cameron Cox",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inconsistently funny and occasionally heavy-handed, but great fun nonetheless.",
+      "score": 7,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious",
+      "score": 7,
+      "user": "afallon77",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A little long in the tooth but still provides plenty of hearty laughs",
+      "score": 7,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anchorman 2: So Legendary we forgot who the Legend was",
+      "score": 7,
+      "user": "Boschbros",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"A2:TLC\" is definitely classy.",
+      "score": 7,
+      "user": "Scott Gentry",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More of the same, in the best possible way",
+      "score": 8,
+      "user": "kmcloone96",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What is wrong with people? This movie was brilliant!",
+      "score": 9,
+      "user": "Max Hutchins",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie",
+      "score": 9,
+      "user": "spcomstock-70-961081",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Successful Sequel",
+      "score": 9,
+      "user": "amtbt",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All You Need is the Trailer",
+      "score": 3,
+      "user": "gwsk5597",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why? Why? Why?",
+      "score": 3,
+      "user": "stuprum",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why the hate?!",
+      "score": 10,
+      "user": "Jack Robey",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very funny sequel",
+      "score": 9,
+      "user": "Leo Freezer",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad, but frustrating",
+      "score": 5,
+      "user": "matchesmalone45",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Breaking News: Anchorman 2: The Legend Continues was kinda funny. It's alright. Not to be taken too seriously. Stay Classy.",
+      "score": 7,
+      "user": "ironhorse_iv",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "mostly what you'd expect, with a good warning",
+      "score": 10,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stop being wimps!",
+      "score": 8,
+      "user": "Rufus Thecat",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly good",
+      "score": 9,
+      "user": "slaveofthepull343",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It fell by the wayside",
+      "score": 3,
+      "user": "T K",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome",
+      "score": 10,
+      "user": "ewoudzand",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "After a long time Will Ferrell was at his best",
+      "score": 7,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very campy comedy. Just what I wanted.",
+      "score": 8,
+      "user": "Master_whipper",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great first half, but tumbled into rehash territory",
+      "score": 6,
+      "user": "ckolet37",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unbelievably unfunny",
+      "score": 1,
+      "user": "jdtdwp",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What could of been a great movie was ruined by the ending!",
+      "score": 1,
+      "user": "Star Bar",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as good as the first one, but still a bunch of fun!",
+      "score": 7,
+      "user": "Seth Landers",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst. Comedy. Ever.",
+      "score": 1,
+      "user": "semvhu",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Breaking News! Anchorman 2 Sucks",
+      "score": 3,
+      "user": "Joshua Kho",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Urge to Offend",
+      "score": 1,
+      "user": "sienadog05",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty dire. (steve carrel please retire)",
+      "score": 3,
+      "user": "michaelob-847-169931",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anchorman not 2 good.",
+      "score": 5,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Seriously? Wow-so bad!",
+      "score": 2,
+      "user": "Mike Dacre",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Snobs",
+      "score": 8,
+      "user": "ajk08",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the finest examples of absurdist comedy since, well, the first Anchorman movie",
+      "score": 9,
+      "user": "Jason M. Rothman (jasonrothman@yahoo.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just as Funny as the Original!",
+      "score": 7,
+      "user": "Hannahrk95",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lots of Laughs And a Touching Comedy",
+      "score": 8,
+      "user": "Tariq  Hossenbux (tariq-hossenbux)",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's really not so bad, but just try and remember that the original still exists.",
+      "score": 6,
+      "user": "sunshinebeachcinema",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fall and rise, and fall ,and rise, of Burgandy",
+      "score": 6,
+      "user": "shivam-hora",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anchorman 2: The Legend Continues",
+      "score": 5,
+      "user": "Phil Hubbs",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Does It Live Up to the Hype?",
+      "score": 5,
+      "user": "ninetails888",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hysterical",
+      "score": 9,
+      "user": "nicki9112",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Funny Sequel!",
+      "score": 7,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some people don't understand what \"stupid funny\" is.",
+      "score": 8,
+      "user": "Tim Green",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spoof on 24 hour cable News channels",
+      "score": 7,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ehhhh Mehhhh Was It Good?? Anchor Man 2",
+      "score": 7,
+      "user": "QuiltOfFILM",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's just a sequel we should just choose to forget. It's a sequel that makes the famous Ron Burgundy character look a different way and in a way that I don't like.",
+      "score": 6,
+      "user": "alex wolfman",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No where near as funny as the first one..",
+      "score": 6,
+      "user": "jfletcher198",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Forget the haters, this is amazing",
+      "score": 8,
+      "user": "seansworks",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Whammy Chicken",
+      "score": 5,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, stupid, childish, and completely impossible, but entertaining anyhow.",
+      "score": 8,
+      "user": "Jesse Boland",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Anchor has slipped! - You can't bottle lightning twice!",
+      "score": 6,
+      "user": "Sergio Campanale",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "review",
+      "score": 10,
+      "user": "luka-kasljevic",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "funny",
+      "score": 10,
+      "user": "vincom",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too Goofy over Exaggerated Poor script",
+      "score": 3,
+      "user": "wowj99",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "seriously stupid",
+      "score": 4,
+      "user": "rob lesieur",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Complete garbage, does not even appeal to the 14-25 Demo",
+      "score": 1,
+      "user": "rw266",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Un-comical",
+      "score": 4,
+      "user": "cinematic_aficionado (cinematokrisis@gmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "New low for 2013",
+      "score": 2,
+      "user": "ewing24",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful",
+      "score": 2,
+      "user": "eddokreiling",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "oh my god, save your money",
+      "score": 1,
+      "user": "tf0379",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bland, No Effort, Rinse & Repeat",
+      "score": 2,
+      "user": "FilmJunkieVGS",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Long anticipated. Worth the wait!",
+      "score": 8,
+      "user": "ThatSteeve",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome Synergy of News and Film",
+      "score": 8,
+      "user": "in1984",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Didn't disappoint",
+      "score": 8,
+      "user": "ianbeanzbaxter",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's so Stupid, but i'm not ashamed to say I liked it",
+      "score": 8,
+      "user": "NN GG",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "non-vintage Burgundy",
+      "score": 5,
+      "user": "writers_reign",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "First half fairly good, second half barely watchable.",
+      "score": 7,
+      "user": "Paul Green",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just not funny",
+      "score": 5,
+      "user": "Jack Hawkins (Hawkensian)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well advertised",
+      "score": 6,
+      "user": "beetleborgs69",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "wasn't bad but wasn't good",
+      "score": 5,
+      "user": "jmacdavidson",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stop living in the past.",
+      "score": 7,
+      "user": "marniemagroo",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "why all the hate?",
+      "score": 8,
+      "user": "drjuliusstrangepork",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's stupidly funny",
+      "score": 10,
+      "user": "aamran252",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you liked the first one, this one is a worthy follow-up",
+      "score": 8,
+      "user": "zetes",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Both kinds of stupid...the good kind..& the bad kind. 67.5+%",
+      "score": 7,
+      "user": "dfle3",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad as a sequel to a comedy classic",
+      "score": 7,
+      "user": "bob-the-movie-man",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Step Down",
+      "score": 6,
+      "user": "clayface21",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than the first one",
+      "score": 10,
+      "user": "Frederik Bjerregaard-Nielsen (pingvinen.bed.min@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anchorman 2 delivers the goods of a solid comedy",
+      "score": 7,
+      "user": "bb_man94",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome",
+      "score": 8,
+      "user": "gbabula",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie his hilarious and a worthy sequel",
+      "score": 9,
+      "user": "Rayan",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great sequel",
+      "score": 10,
+      "user": "JJohn1",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "McKay and Ferrell at Their Best",
+      "score": 9,
+      "user": "corleonedude",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everything Including The Kitchen Sink",
+      "score": 5,
+      "user": "Boaz777",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fans of the First Anchorman will Not be Disappointed,",
+      "score": 9,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A hilariously silly and ridiculously absurd comedy eruption that was worth the wait.",
+      "score": 8,
+      "user": "Jamie Roche",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bursts of hysteria!",
+      "score": 6,
+      "user": "debsilb",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"I fought a minotaur to be here . . . \"",
+      "score": 7,
+      "user": "Tad Pole",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, but at the end of the day a bit Meh.",
+      "score": 6,
+      "user": "sophie w",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why can't the news be fun?",
+      "score": 8,
+      "user": "freemantle_uk",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kind of a big deal!",
+      "score": 10,
+      "user": "danielmullane1994",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anchorman 2: It's kind of a big deal",
+      "score": 9,
+      "user": "slicedbread117",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Still classy, San Diego!",
+      "score": 8,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Funniest Movie in soooooo looooong!",
+      "score": 10,
+      "user": "dalenevin",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious!",
+      "score": 10,
+      "user": "tgrock",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great sequel, worthy of the original, and the best comedy choice of this season!",
+      "score": 8,
+      "user": "Big_D_Box_Office_Score",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful film",
+      "score": 1,
+      "user": "osamasaud",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible movie but amazingly funny. Totally worth going. (Minor spoiler)",
+      "score": 7,
+      "user": "ascheerer95",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun for old fans, not as good as the first.",
+      "score": 7,
+      "user": "kyle-takacs",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Drop The Anchor In The Rumble Field And Let Hell Break Loose",
+      "score": 8,
+      "user": "Zachary Cruz-Tan",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anchorman 2: It Really Was Kind of a Big Deal",
+      "score": 7,
+      "user": "Brick Movie Reviews",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funnier than the original!",
+      "score": 10,
+      "user": "Chris Card (starry42)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny enough to make your cheeks tired",
+      "score": 8,
+      "user": "Eric J",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you loved Part 1, you will love this too!",
+      "score": 8,
+      "user": "Utpal Das",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny and consistent to the original",
+      "score": 7,
+      "user": "derekmustachi",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the best movie ever, but quite funny.",
+      "score": 5,
+      "user": "mimi-kj",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anchorman on Steroids",
+      "score": 8,
+      "user": "Maverick",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fans Rejoice! This is the Greatest Sequel EVER!!!",
+      "score": 10,
+      "user": "Anthony Iessi",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Sequel With Good Cameos",
+      "score": 7,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An excellent extension of the first film.",
+      "score": 9,
+      "user": "danfinan",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funniest movie I have seen in 5 years!",
+      "score": 10,
+      "user": "brennan_gulino",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Biggest Comedy Sequel of All Time Is Epic!",
+      "score": 8,
+      "user": "themissingpatient",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More of the same",
+      "score": 7,
+      "user": "whatwouldwhippetdo",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Cetinich Review (#3 - Anchorman 2) - Better Than The First",
+      "score": 8,
+      "user": "Keelan Cetinich",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best comedies this year, worthy of the ticket price!",
+      "score": 8,
+      "user": "Mason A",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A part two to my favorite comedic movie.",
+      "score": 10,
+      "user": "slizoskijrfrank",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't just have a great night. Have an American night out at the movies",
+      "score": 7,
+      "user": "Dave",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No Spoiler Review",
+      "score": 7,
+      "user": "Orion Christy",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "60 Percent of the Time, It Works Every Time",
+      "score": 6,
+      "user": "CowherPowerForever",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A crowd-pleaser.",
+      "score": 8,
+      "user": "Troy_Campbell",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A hilarious sequel, but too damn long...",
+      "score": 7,
+      "user": "Ray Bernardin Jr.",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superb",
+      "score": 10,
+      "user": "Christian Percival",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Asperger Express\"",
+      "score": 10,
+      "user": "cathys848",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Delivers the goods in such abundance they're spilling out of the bag!",
+      "score": 10,
+      "user": "Ian Gear (psychogoatee)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A worthy sequel to a hilarious movie!",
+      "score": 10,
+      "user": "aleapug",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Out there like the first only ramped up to 11",
+      "score": 7,
+      "user": "bassrourke",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Infantile and self-indulgent - and in the unfunniest way",
+      "score": 1,
+      "user": "baron_genitalstrassen",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What is wrong with people?",
+      "score": 3,
+      "user": "yakuzaplacemat1215",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 119,
+  "votes_per_demo": {
+    "aged_45+": 7535,
+    "top_1000_voters": 441,
+    "males_under_18": 553,
+    "imdb_staff": 16,
+    "males_aged_18-29": 46691,
+    "imdb_users": 136907,
+    "males_aged_45+": 6487,
+    "aged_18-29": 54134,
+    "us_users": 28368,
+    "females_aged_30-44": 4548,
+    "males": 99352,
+    "females": 13613,
+    "females_aged_45+": 907,
+    "non-us_users": 57320,
+    "females_aged_18-29": 6906,
+    "females_under_18": 90,
+    "aged_30-44": 43818,
+    "aged_under_18": 650,
+    "males_aged_30-44": 38755
   },
   "genres": [
     "comedy"
   ],
-  "budget": 50000000,
-  "rating": 6.3,
-  "name": "Anchorman 2: The Legend Continues",
-  "opening_weekend_income": 26776000,
-  "avg_screens": 1830.4,
-  "gross_income": 2175312,
-  "votes_per_demo": {
-    "non-us_users": 57312,
-    "females_aged_18-29": 6910,
-    "females": 13613,
-    "aged_45+": 7534,
-    "females_under_18": 90,
-    "imdb_users": 136877,
-    "imdb_staff": 16,
-    "females_aged_30-44": 4545,
-    "aged_under_18": 650,
-    "males_aged_30-44": 38740,
-    "top_1000_voters": 440,
-    "aged_30-44": 43800,
-    "males_aged_18-29": 46690,
-    "males": 99336,
-    "females_aged_45+": 906,
-    "males_under_18": 553,
-    "us_users": 28366,
-    "males_aged_45+": 6487,
-    "aged_18-29": 54137
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 4001,
+    "2": 2870,
+    "3": 4293,
+    "4": 8044,
+    "5": 16546,
+    "6": 31033,
+    "7": 34956,
+    "8": 19389,
+    "9": 7420,
+    "10": 8355
   },
-  "release_year": 2013,
+  "release_month": "December",
+  "budget": 50000000,
   "budget_currency": "$",
-  "release_day": 18
+  "total_screens": 18304,
+  "year": 2013,
+  "rating": 6.3,
+  "critic_review_count": 272,
+  "opening_weekend_date": {
+    "month": 12,
+    "year": 2013,
+    "day": 20,
+    "__type__": "datetime.date"
+  },
+  "name": "Anchorman 2: The Legend Continues",
+  "user_review_count": 348,
+  "avg_screens": 1830.4
 }

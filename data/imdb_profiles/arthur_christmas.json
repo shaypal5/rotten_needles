@@ -1,92 +1,897 @@
 {
-  "genres": [
-    "animation",
-    "adventure",
-    "comedy"
-  ],
-  "num_weekends": 7,
+  "budget_currency": "$",
+  "total_screens": 16100,
   "rating_freq": {
     "1": 500,
     "2": 223,
     "3": 420,
     "4": 809,
     "5": 2189,
-    "6": 6155,
-    "7": 12233,
-    "8": 8543,
+    "6": 6156,
+    "7": 12232,
+    "8": 8544,
     "9": 3570,
     "10": 3674
   },
-  "budget": 100000000,
-  "votes_per_demo": {
-    "non-us_users": 20142,
-    "aged_45+": 3376,
-    "females_aged_45+": 667,
-    "imdb_staff": 10,
-    "females_under_18": 67,
-    "males_aged_45+": 2653,
-    "females_aged_18-29": 5020,
-    "males_aged_30-44": 10326,
-    "females": 9184,
-    "imdb_users": 38316,
-    "us_users": 5745,
-    "males_under_18": 189,
-    "top_1000_voters": 326,
-    "aged_under_18": 256,
-    "males": 23834,
-    "males_aged_18-29": 9659,
-    "females_aged_30-44": 2922,
-    "aged_30-44": 13407,
-    "aged_18-29": 14805
-  },
+  "release_day": 23,
+  "genres": [
+    "animation",
+    "adventure",
+    "comedy"
+  ],
+  "name": "Arthur Christmas",
+  "release_month": "November",
+  "avg_screens": 2300.0,
+  "imdb_user_reviews": [
+    {
+      "user": "Norman Cook",
+      "score": 9,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Delightfully charming"
+    },
+    {
+      "user": "freemantle_uk",
+      "score": 10,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A fun, feel good family film"
+    },
+    {
+      "user": "garethok",
+      "score": 8,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A different kind of Christmas..."
+    },
+    {
+      "user": "TourettesPersonal",
+      "score": 8,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "The Christmas Heart"
+    },
+    {
+      "user": "Stertzes",
+      "score": 10,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Great Family Christmas Movie"
+    },
+    {
+      "user": "TheLittleSongbird",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Colourful Christmas fare"
+    },
+    {
+      "user": "jon.h.ochiai (jochiai@socal.rr.com)",
+      "score": 9,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "The Magic of  \"Arthur Christmas\""
+    },
+    {
+      "user": "Jordan Hunt",
+      "score": 9,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "90% Good."
+    },
+    {
+      "user": "Pkinyanjui91",
+      "score": 8,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A fresh take on Christmas"
+    },
+    {
+      "user": "kadidi2007",
+      "score": 1,
+      "review_date": {
+        "day": 21,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "TERRIBLE Christmas MOVIE!"
+    },
+    {
+      "user": "mjacksongta",
+      "score": 10,
+      "review_date": {
+        "day": 12,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "surprisingly amazing"
+    },
+    {
+      "user": "Dillon Harris",
+      "score": 9,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "One of the best Christmas Movies in years,"
+    },
+    {
+      "user": "bowmanblue",
+      "score": 8,
+      "review_date": {
+        "day": 28,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Fantastic Christmas film. In fact, fantastic film. Full Stop"
+    },
+    {
+      "user": "Soul4673",
+      "score": 10,
+      "review_date": {
+        "day": 24,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "beautiful,wonderful....THE perfect Christmas movie."
+    },
+    {
+      "user": "g-bodyl",
+      "score": 9,
+      "review_date": {
+        "day": 30,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A Pleasant Surprise!"
+    },
+    {
+      "user": "ShelbyTMItchell",
+      "score": 8,
+      "review_date": {
+        "day": 23,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Very Cute Movie for the Family!"
+    },
+    {
+      "user": "ChristianUnchained",
+      "score": 9,
+      "review_date": {
+        "day": 23,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A surprising new Christmas classic"
+    },
+    {
+      "user": "capone666",
+      "score": 7,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "The Vidiot Reviews..."
+    },
+    {
+      "user": "Joshua Mitchell",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Hilarious and Sometimes Touching"
+    },
+    {
+      "user": "kosmasp",
+      "score": 8,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Not only for Christmas"
+    },
+    {
+      "user": "drew_atreides",
+      "score": 7,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Solid family fare"
+    },
+    {
+      "user": "Ryan_MYeah",
+      "score": 8,
+      "review_date": {
+        "day": 18,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "You should check it out just for the wonderful Christmas cheer."
+    },
+    {
+      "user": "dracuella",
+      "score": 9,
+      "review_date": {
+        "day": 16,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "That familiar Christmas feeling"
+    },
+    {
+      "user": "A_Different_Drummer",
+      "score": 10,
+      "review_date": {
+        "day": 29,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "not just for kids.. and not just for Xmas"
+    },
+    {
+      "user": "GoodfellaSeinfeld",
+      "score": 8,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Move over Rankin Bass, Aardman is the new Christmas king"
+    },
+    {
+      "user": "kastri_gr",
+      "score": 10,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Fascinating film with lot of action and laugh"
+    },
+    {
+      "user": "helperzine",
+      "score": 8,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A wonderful surprise from Aardman, Arthur Christmas charms and delights any sane viewer"
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "score": 10,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Arthur Christmas (2011) - I'm Going to Admit! I Ate Oreos and Milk While Watching this Movie, and I Felt Awesome!"
+    },
+    {
+      "user": "hollyrust",
+      "score": 10,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Delightfully modern, heartwarmingly traditional"
+    },
+    {
+      "user": "PakistanecHarcos",
+      "score": 8,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Get in the festive spirit with Arthur Christmas"
+    },
+    {
+      "user": "Matra Mellark",
+      "score": 9,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Was fun, enjoyable and just at the right level."
+    },
+    {
+      "user": "Vezon123",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "\"Best Job in the World\""
+    },
+    {
+      "user": "daemien72",
+      "score": 8,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A whimsically brilliant Christmas cheer"
+    },
+    {
+      "user": "Troy_Campbell",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Gets the whole family into the Christmas Spirit."
+    },
+    {
+      "user": "G R",
+      "score": 10,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Wonderful Movie"
+    },
+    {
+      "user": "bopdog",
+      "score": 10,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Amazing Aardman wit, and a dashing and inspirational story!"
+    },
+    {
+      "user": "jcs_stanley",
+      "score": 10,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "The Greatest Christmas film of all time!"
+    },
+    {
+      "user": "meeza (themeezaman@hotmail.com)",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Authoring a review of Arthur Christmas"
+    },
+    {
+      "user": "Imdbidia",
+      "score": 3,
+      "review_date": {
+        "day": 5,
+        "year": 2017,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "How to destroy Xmas"
+    },
+    {
+      "user": "Nicole C",
+      "score": 6,
+      "review_date": {
+        "day": 4,
+        "year": 2017,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Fun"
+    },
+    {
+      "user": "studioAT",
+      "score": 3,
+      "review_date": {
+        "day": 22,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A good Christmas film. Not a classic. Just good."
+    },
+    {
+      "user": "Python Hyena",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Santa's Little Helper."
+    },
+    {
+      "user": "keithesposito",
+      "score": 4,
+      "review_date": {
+        "day": 6,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Watch it after all the classics have been exhausted"
+    },
+    {
+      "user": "morrison-dylan-fan",
+      "score": 9,
+      "review_date": {
+        "day": 28,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Arthur's Christmas."
+    },
+    {
+      "user": "phoenix 2",
+      "score": 4,
+      "review_date": {
+        "day": 28,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Good enough"
+    },
+    {
+      "user": "rbn_lrk-1",
+      "score": 10,
+      "review_date": {
+        "day": 9,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "So many Arthur's"
+    },
+    {
+      "user": "vivnista",
+      "score": 9,
+      "review_date": {
+        "day": 3,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Funny funny funny!"
+    },
+    {
+      "user": "webberrules",
+      "score": 10,
+      "review_date": {
+        "day": 23,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A heartwarming and hilarious holiday classic"
+    },
+    {
+      "user": "ATEreviews",
+      "score": 8,
+      "review_date": {
+        "day": 17,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A different take on a familiar Christmas story."
+    },
+    {
+      "user": "Tyler Simpson",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "MODERN Family Friendly Fun"
+    },
+    {
+      "user": "lisafordeay",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "An enjoyable Christmas movie to watch with the whole family"
+    },
+    {
+      "user": "tavm",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Arthur Christmas is another potential classic for the holiday season"
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "score": 9,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Not The Polar Express, but still an entertaining holiday film."
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "score": 7,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "No Present Left Behind!"
+    },
+    {
+      "user": "WatchedAllMovies",
+      "score": 5,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Thin plot dragged out too long"
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 8,
+      "review_date": {
+        "day": 2,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Love the family"
+    },
+    {
+      "user": "Saad Khan",
+      "score": 6,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Not very funny but defiantly very heartening"
+    },
+    {
+      "user": "FlashCallahan",
+      "score": 7,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Impossible to teach women to read....."
+    },
+    {
+      "user": "awenindoe",
+      "score": 2,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Could have been entertaining"
+    },
+    {
+      "user": "manendra-lodhi (manendra.lodhi@gmail.com)",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Made for just one time watch."
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "score": 5,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Arthur Christmas"
+    },
+    {
+      "user": "hectorcord",
+      "score": 6,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Do you think is to similar to Disney's Prep and Landing Short for TV?"
+    },
+    {
+      "user": "gattimanor-t",
+      "score": 1,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Totally disappointed"
+    },
+    {
+      "user": "Electron Libre",
+      "score": 1,
+      "review_date": {
+        "day": 17,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Awful message for kids"
+    },
+    {
+      "user": "minucher",
+      "score": 7,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "a rather sad movie ... *not for families with preteen kids"
+    },
+    {
+      "user": "valadas",
+      "score": 6,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Original story but not very cleverly treated"
+    },
+    {
+      "user": "Ross622",
+      "score": 2,
+      "review_date": {
+        "day": 8,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Bad Christmas movie"
+    },
+    {
+      "user": "taita",
+      "score": 4,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Would I have enjoyed this in 3D?"
+    },
+    {
+      "user": "macsamus-927-196606",
+      "score": 2,
+      "review_date": {
+        "day": 25,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Prep & Landing"
+    },
+    {
+      "user": "jaemiewaters",
+      "score": 10,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "great 3d movie"
+    },
+    {
+      "user": "Fields201",
+      "score": 5,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Justin Bieber Was Enough"
+    },
+    {
+      "user": "Vaughn Fry (Legendary_Badass)",
+      "score": 6,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Another Adventure-Meets-Family-Lesson Flick for the Holidays"
+    }
+  ],
+  "release_year": 2011,
+  "max_screens": 3376,
+  "screens_by_weekend": [
+    3376,
+    3376,
+    3272,
+    2929,
+    1524,
+    1343,
+    280
+  ],
+  "critic_review_count": 190,
+  "num_weekends": 7,
   "closing_date": {
-    "month": 1,
-    "__type__": "datetime.date",
     "day": 6,
-    "year": 2012
+    "year": 2012,
+    "__type__": "datetime.date",
+    "month": 1
   },
-  "gross_income": 46440491,
+  "opening_weekend_screens": 3376,
+  "rating": 7.1,
+  "opening_weekend_income": 12068931,
+  "user_review_count": 81,
+  "budget": 100000000,
+  "rating_count": 38317,
+  "metascore": 69,
+  "duration": 97,
   "avg_rating_per_demo": {
     "non-us_users": 7.0,
-    "aged_45+": 7.1,
-    "females_aged_45+": 7.6,
-    "imdb_staff": 7.1,
+    "aged_30-44": 7.0,
+    "top_1000_voters": 6.1,
+    "us_users": 7.1,
     "females_under_18": 7.5,
-    "males_aged_45+": 7.0,
-    "females_aged_18-29": 7.4,
     "males_aged_30-44": 6.9,
     "females": 7.3,
     "imdb_users": 7.1,
-    "us_users": 7.1,
-    "males_under_18": 7.2,
-    "top_1000_voters": 6.1,
-    "aged_under_18": 7.3,
+    "aged_45+": 7.1,
     "males": 7.0,
+    "females_aged_45+": 7.6,
+    "females_aged_18-29": 7.4,
+    "aged_under_18": 7.2,
+    "males_under_18": 7.2,
     "males_aged_18-29": 7.1,
     "females_aged_30-44": 7.3,
-    "aged_30-44": 7.0,
+    "males_aged_45+": 7.0,
+    "imdb_staff": 7.1,
     "aged_18-29": 7.2
   },
-  "opening_weekend_date": {
-    "month": 11,
-    "__type__": "datetime.date",
-    "day": 18,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 20142,
+    "aged_30-44": 13408,
+    "top_1000_voters": 326,
+    "us_users": 5747,
+    "females_under_18": 67,
+    "males_aged_30-44": 10326,
+    "females": 9184,
+    "imdb_users": 38317,
+    "aged_45+": 3377,
+    "males": 23835,
+    "females_aged_45+": 666,
+    "females_aged_18-29": 5020,
+    "aged_under_18": 257,
+    "males_under_18": 190,
+    "males_aged_18-29": 9657,
+    "females_aged_30-44": 2923,
+    "males_aged_45+": 2655,
+    "imdb_staff": 10,
+    "aged_18-29": 14803
   },
-  "budget_currency": "$",
-  "user_review_count": 81,
-  "metascore": 69,
-  "max_screens": 3376,
-  "duration": 97,
-  "rating_count": 38316,
-  "release_day": 23,
-  "release_month": "November",
-  "release_year": 2011,
+  "gross_income": 46440491,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 12068931,
-  "critic_review_count": 190,
-  "rating": 7.1,
-  "avg_screens": 2300.0,
-  "name": "Arthur Christmas",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 18,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 11
+  }
 }

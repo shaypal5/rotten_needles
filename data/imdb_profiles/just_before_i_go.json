@@ -1,9 +1,24 @@
 {
-  "opening_weekend_date": {
-    "month": 4,
-    "year": 2015,
-    "day": 24,
-    "__type__": "datetime.date"
+  "release_day": 24,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.3,
+    "top_1000_voters": 5.3,
+    "males_under_18": 5.7,
+    "males_aged_18-29": 6.5,
+    "imdb_users": 6.4,
+    "males_aged_45+": 6.3,
+    "aged_18-29": 6.5,
+    "us_users": 6.4,
+    "females_aged_30-44": 6.3,
+    "males": 6.4,
+    "females": 6.3,
+    "females_aged_45+": 6.6,
+    "non-us_users": 6.3,
+    "females_aged_18-29": 6.3,
+    "females_under_18": 5.8,
+    "aged_30-44": 6.3,
+    "aged_under_18": 5.7,
+    "males_aged_30-44": 6.3
   },
   "closing_date": {
     "month": 4,
@@ -11,79 +26,676 @@
     "day": 24,
     "__type__": "datetime.date"
   },
-  "rating": 6.4,
-  "num_weekends": 1,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 277,
-    "2": 189,
-    "3": 300,
-    "4": 658,
-    "5": 1631,
-    "6": 3498,
-    "7": 4155,
-    "8": 2062,
-    "9": 730,
-    "10": 1100
-  },
-  "avg_screens": 2.0,
-  "budget": null,
-  "budget_currency": null,
-  "release_day": 24,
   "metascore": 24,
+  "num_weekends": 1,
+  "rating_count": 14605,
+  "gross_income": 8129,
+  "max_screens": 2,
+  "opening_weekend_screens": 2,
+  "screens_by_weekend": [
+    2
+  ],
+  "opening_weekend_income": 8129,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Dark and twisted yet beautifully insightful.",
+      "score": 9,
+      "user": "DeviantHitman",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really good film",
+      "score": 8,
+      "user": "helpme-488-305631",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A funny and heartfelt movie that wasn't what I thought it was going to be. It was better.",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I should have hated this, but I liked it.",
+      "score": 6,
+      "user": "Lambysalamby",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very well made, entertaining movie. Definitely recommend.",
+      "score": 7,
+      "user": "BeavisMoon",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely Brilliant",
+      "score": 10,
+      "user": "dextermorgancsi",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie, Worth Seeing",
+      "score": 8,
+      "user": "rillz",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent, Touching, Dark Humorous Movie.",
+      "score": 10,
+      "user": "arnopatino",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just Before I Go",
+      "score": 8,
+      "user": "ApproximatelyHandsome",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "bold, cross genre pleasant surprise",
+      "score": 7,
+      "user": "witster18",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I thought it was amusing",
+      "score": 6,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I didn't want to like it... but I did!",
+      "score": 7,
+      "user": "Cez Aslak",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A man pushed in a corner decides to do the extreme, commit suicide, but not before tying up loose ends.",
+      "score": 10,
+      "user": "auntd",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie left me with a big smile on my face.",
+      "score": 7,
+      "user": "vlajko1-359-322365",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a GREAT funny movie!!!",
+      "score": 10,
+      "user": "ryankhouri",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A jump in the river",
+      "score": 5,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Has some merit as a 'social awareness' film, but has too many flaws for it to be entirely successful",
+      "score": 5,
+      "user": "jimbo-53-186511",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When Teddy's girlfriend left him, it ruined not just his entire life but also his willingness to start anew.",
+      "score": 9,
+      "user": "Neil Reyes",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "nice feel-good film",
+      "score": 10,
+      "user": "pogodog7",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Touching Dark Comedy with Profound Dramatics\u0085A Joyful Discovery",
+      "score": 8,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Embarrassment for Cox",
+      "score": 1,
+      "user": "marydaleed-is",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I fell In love with this one",
+      "score": 10,
+      "user": "HenbaineAccount2",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that funny! 2/10",
+      "score": 2,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It has a nice fresh story so it's worth to be seen ,, \"When it's darkest you can see the stars\" ,, and i think this was a star in the drama-comedy genre this year.",
+      "score": 6,
+      "user": "Aktham Tashtush",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sweet and funny black comedy with heart.",
+      "score": 8,
+      "user": "david-3165",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great & Entertaining comedy/drama for all!!!",
+      "score": 9,
+      "user": "unholyone-15434",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A really lumpy mess - but I swallowed it",
+      "score": 7,
+      "user": "thekarmicnomad",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Great Film that balances comedy and drama very well!",
+      "score": 9,
+      "user": "darkxpyder (darkxpyder@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining and more meaningful than expected.",
+      "score": 7,
+      "user": "Dike Martnell",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "covers a nice range",
+      "score": 7,
+      "user": "herbertnenenger",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "it would have been better it they sicked to drama and didn't add the comedy.",
+      "score": 7,
+      "user": "paranormal14",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "***",
+      "score": 7,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Seann William Scott in a mostly serious role, he does it well.",
+      "score": 7,
+      "user": "TxMike",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I guess it was OK",
+      "score": 6,
+      "user": "jebotecovjece",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lovely Dramedy: High Water Mark for Cox and Scott",
+      "score": 8,
+      "user": "danew13",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great movie",
+      "score": 10,
+      "user": "bastiaanschouwink",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sometimes you have to die to be reborn",
+      "score": 8,
+      "user": "Steve Christensen (steveisfree4eva@yahoo.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too bad they blindside you",
+      "score": 4,
+      "user": "Joe Day",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not standard fare",
+      "score": 9,
+      "user": "omorg-pub",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An underrated gem",
+      "score": 8,
+      "user": " (vijayjanakiraman@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "100% must see",
+      "score": 10,
+      "user": "nataliewatson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A not surprising look at life",
+      "score": 6,
+      "user": "Jakob Lauridsen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A weak beginning but a surprisingly emotional film",
+      "score": 7,
+      "user": "Nikhil Hirani",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great music selection",
+      "score": 9,
+      "user": "dickl-71981",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Must see",
+      "score": 10,
+      "user": "dillonchang",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly liked it!",
+      "score": 7,
+      "user": "Amy B",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you like Kyle Gallner ....",
+      "score": 2,
+      "user": "zif ofoz",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Me crying (man)",
+      "score": 10,
+      "user": "drik-53223",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thought provoking but not as upbeat as the cast may suggest.",
+      "score": 7,
+      "user": "mattytaylor-76390",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally something good from Scott",
+      "score": 7,
+      "user": "helsinki027",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overall, it's just OK",
+      "score": 7,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very unacceptable Story",
+      "score": 1,
+      "user": "taw862",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hopelessly contrived and frequently predictable",
+      "score": 4,
+      "user": "Gino Cox",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Impressive dick art",
+      "score": 5,
+      "user": "in1984",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unfunny attempt",
+      "score": 2,
+      "user": "sergius248",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 95,
+  "votes_per_demo": {
+    "aged_45+": 1147,
+    "top_1000_voters": 126,
+    "males_under_18": 23,
+    "males_aged_18-29": 4245,
+    "imdb_users": 14605,
+    "males_aged_45+": 977,
+    "aged_18-29": 5324,
+    "us_users": 1655,
+    "females_aged_30-44": 755,
+    "males": 10369,
+    "females": 2046,
+    "females_aged_45+": 151,
+    "non-us_users": 7712,
+    "females_aged_18-29": 1010,
+    "females_under_18": 11,
+    "aged_30-44": 5490,
+    "aged_under_18": 34,
+    "males_aged_30-44": 4671
+  },
   "genres": [
     "comedy",
     "drama"
   ],
-  "release_month": "April",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.3,
-    "aged_18-29": 6.5,
-    "aged_30-44": 6.3,
-    "females": 6.3,
-    "top_1000_voters": 5.3,
-    "non-us_users": 6.3,
-    "females_under_18": 5.8,
-    "males_aged_30-44": 6.3,
-    "us_users": 6.4,
-    "imdb_users": 6.4,
-    "males_under_18": 5.7,
-    "females_aged_18-29": 6.3,
-    "males_aged_45+": 6.3,
-    "females_aged_30-44": 6.3,
-    "males": 6.4,
-    "males_aged_18-29": 6.5,
-    "females_aged_45+": 6.6,
-    "aged_under_18": 5.7
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2014,
-  "name": "Just Before I Go",
-  "gross_income": 8129,
-  "user_review_count": 58,
-  "duration": 95,
-  "max_screens": 2,
-  "votes_per_demo": {
-    "aged_45+": 1147,
-    "aged_18-29": 5323,
-    "aged_30-44": 5487,
-    "females": 2044,
-    "top_1000_voters": 126,
-    "non-us_users": 7709,
-    "females_under_18": 11,
-    "males_aged_30-44": 4669,
-    "us_users": 1654,
-    "imdb_users": 14600,
-    "males_under_18": 23,
-    "females_aged_18-29": 1009,
-    "males_aged_45+": 977,
-    "females_aged_30-44": 754,
-    "males": 10366,
-    "males_aged_18-29": 4245,
-    "females_aged_45+": 151,
-    "aged_under_18": 34
+  "rating_freq": {
+    "1": 277,
+    "2": 189,
+    "3": 300,
+    "4": 660,
+    "5": 1632,
+    "6": 3499,
+    "7": 4155,
+    "8": 2064,
+    "9": 729,
+    "10": 1100
   },
-  "rating_count": 14600,
+  "release_month": "April",
+  "budget": null,
+  "budget_currency": null,
+  "total_screens": 2,
+  "year": 2014,
+  "rating": 6.4,
   "critic_review_count": 15,
-  "opening_weekend_income": 8129
+  "opening_weekend_date": {
+    "month": 4,
+    "year": 2015,
+    "day": 24,
+    "__type__": "datetime.date"
+  },
+  "name": "Just Before I Go",
+  "user_review_count": 58,
+  "avg_screens": 2.0
 }

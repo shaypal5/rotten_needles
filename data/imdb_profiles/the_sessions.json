@@ -1,92 +1,1459 @@
 {
-  "name": "The Sessions",
+  "budget": 1000000,
   "opening_weekend_income": 113467,
+  "year": 2012,
+  "closing_date": {
+    "year": 2013,
+    "day": 8,
+    "__type__": "datetime.date",
+    "month": 3
+  },
+  "budget_currency": "$",
+  "avg_screens": 116.63157894736842,
+  "rating_freq": {
+    "1": 392,
+    "2": 183,
+    "3": 318,
+    "4": 621,
+    "5": 1673,
+    "6": 5067,
+    "7": 12408,
+    "8": 10582,
+    "9": 3718,
+    "10": 2199
+  },
+  "screens_by_weekend": [
+    4,
+    20,
+    69,
+    128,
+    128,
+    516,
+    515,
+    226,
+    197,
+    151,
+    41,
+    54,
+    62,
+    29,
+    18,
+    16,
+    16,
+    13,
+    13
+  ],
+  "rating_count": 37161,
+  "total_screens": 2216,
+  "max_screens": 516,
+  "duration": 95,
+  "gross_income": 5997134,
+  "metascore": 79,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 336,
+    "imdb_users": 37161,
+    "us_users": 7028,
+    "aged_18-29": 10450,
+    "non-us_users": 20851,
+    "aged_45+": 5675,
+    "aged_30-44": 16325,
+    "males_aged_30-44": 12540,
+    "males_aged_18-29": 7554,
+    "males_aged_45+": 4293,
+    "aged_under_18": 24,
+    "imdb_staff": 7,
+    "males_under_18": 17,
+    "females_aged_30-44": 3561,
+    "females": 8002,
+    "females_under_18": 6,
+    "females_aged_45+": 1293,
+    "males": 25267,
+    "females_aged_18-29": 2788
+  },
+  "user_review_count": 129,
+  "rating": 7.2,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 6.5,
+    "imdb_users": 7.2,
+    "us_users": 7.4,
+    "aged_18-29": 7.2,
+    "non-us_users": 7.2,
+    "aged_45+": 7.5,
+    "aged_30-44": 7.2,
+    "males_aged_30-44": 7.1,
+    "males_aged_18-29": 7.2,
+    "males_aged_45+": 7.5,
+    "aged_under_18": 7.2,
+    "imdb_staff": 8.5,
+    "males_under_18": 7.3,
+    "females_aged_30-44": 7.3,
+    "females": 7.3,
+    "females_under_18": 7.2,
+    "females_aged_45+": 7.7,
+    "males": 7.2,
+    "females_aged_18-29": 7.2
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 19,
+    "__type__": "datetime.date",
+    "month": 10
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "barbaras2050",
+      "contents": "Touching, Intimate and Adult Film",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "rokhopa",
+      "contents": "An unusual story most skillfully handled",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "georgep53",
+      "contents": "Delicate Subject Makes For An Unforgettable Film",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "gt-thereelword (gtroncoso@thereelword.net)",
+      "contents": "Will Make You Laugh, Cry and Look at Life More Positively",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Danny Blankenship",
+      "contents": "Emotional, touching, and uplifting it inspires an intimate feel and discovery of achievement.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "contents": "A Made Man",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "livingthefilmlife",
+      "contents": "Brilliant",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "jsharma",
+      "contents": "sex is the theme of  life",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Geoff Hjorth",
+      "contents": "Stunning",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "akash_sebastian",
+      "contents": "A Beautiful and Inspiring Story",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "aaron-snelling-841-237017",
+      "contents": "Well-cast, poorly written",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "David Holt (rawiri42)",
+      "contents": "There really are some sad, sick and dimwitted people in this world!",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Raul Faust",
+      "contents": "Brave",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "seabass-843-741483",
+      "contents": "Moving",
+      "review_date": {
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Johan Dondokambey",
+      "contents": "A truly weird entertainment, yet a touching one indeed",
+      "review_date": {
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Howlin Wolf",
+      "contents": "Short on Time...",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Daniel Elford",
+      "contents": "Real, raw and touching, but hampered",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "featherstone-witty",
+      "contents": "An adult film, in the best sense",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Gaston Bacquet",
+      "contents": "Acting and storytelling at their best",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "GeoPierpont",
+      "contents": "Educational Film for Setting Boundaries",
+      "review_date": {
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Anand Bhagat (4anand.rb@gmail.com)",
+      "contents": "Balm for our seriously disabled perception of Life",
+      "review_date": {
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Chris L",
+      "contents": "Sensitive",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "doug_park2001",
+      "contents": "A Quiet, Thoughtful Erotic Comedy",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "roland-scialom",
+      "contents": "He helped to turn the world better around him",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "bobbyhollywood",
+      "contents": "Humans doing their thing.",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "dave-621-447712",
+      "contents": "Brings out the narrow minded.",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "evanston_dad",
+      "contents": "A Lovely, Wistful Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Tom147",
+      "contents": "Touching drama",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "rpf15231",
+      "contents": "What on earth were the Oscars thinking?",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "gradyharp",
+      "contents": "'Love Poem to No One in Particular'",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Helen Hunt still looks very beautiful (at 49, and is naked quite a bit in the film) and she's amazing as well!",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Darren Carr",
+      "contents": "As a paralysed person, the performance of John Hawkes is extraordinarily convincing.",
+      "review_date": {
+        "year": 2017,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "contents": "Sensitive And Sensual",
+      "review_date": {
+        "year": 2017,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "sharky_55",
+      "contents": "You need help moving the furniture?",
+      "review_date": {
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Hollywood_Yoda",
+      "contents": "Charming and Sensual",
+      "review_date": {
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "juneebuggy",
+      "contents": "Fearless, raw and brilliant performances",
+      "review_date": {
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "breakdownthatfilm-blogspot-com",
+      "contents": "A very different drama that perhaps many filmmakers stray away from",
+      "review_date": {
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "ironhorse_iv",
+      "contents": "This film is filled with compassion and hope. However, the movie is also a bit crippled, by its mind-numbing lack of a story.",
+      "review_date": {
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Hitchcoc",
+      "contents": "Uncomfortable but Human",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "jackasstrange",
+      "contents": "Interesting, but after a while it goes nowhere",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "leonblackwood",
+      "contents": "Deeply Emotional! 6/10",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "valis1949",
+      "contents": "Tonight's The Night",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Sergeant_Tibbs",
+      "contents": "Rushed, sentimental and forced which would've been much better if it was just about 'the sessions' themselves and nothing more. Helen Hunt is astounding.",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "contents": "Featuring an excellent turn from Hawkes, 'Sessions' tears down sex taboos in film",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "NutzieFagin",
+      "contents": "An Adult Drama for the Disabled",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Catt Jones (cattjones@chixchatonfilm.com)",
+      "contents": "A Film for Grown Folks",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "knotholaze",
+      "contents": "Let me touch you with my movie",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Robert Reynolds (minniemato@hotmail.com)",
+      "contents": "Excellent performances and script make this well worth watching",
+      "review_date": {
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Ben Larson",
+      "contents": "In my heart I feel God will give you a pass on this . . . Go for it.",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Jafar Iqbal",
+      "contents": "A thoroughly enjoyable movie",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "cbs-abe",
+      "contents": "A beautiful and touching film!",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "tdbrooker",
+      "contents": "Bravery at its most noble",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "clehoullier",
+      "contents": "It's not the sex or the nudity.  It's about humanity and compassion...and humor",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "Unusual, unique and provocative, it surprised me!",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "theredraylives",
+      "contents": "John Hawkes' great performance cannot carry The Sessions",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "screamonly",
+      "contents": "Brave, sensitive and emotional",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "mailbob",
+      "contents": "Surprising \"upper\"",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Alan Chan",
+      "contents": "A beautiful uplifting story about disability and sex",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "ingmarbeldman-753-927212",
+      "contents": "a painful subject, exhibited in a compact and lighthearted script. This is not an adult movie!",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "Six sessions are not enough",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "franceswagg",
+      "contents": "The Sessions is a good film elevated by great performances,",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Koundinya",
+      "contents": "Hilariously and romantically poignant tale of an inspiring figure.",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Turfseer",
+      "contents": "Uplifting story of severely disabled polio victim aided by sexual surrogate",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "TheSquiss",
+      "contents": "A journey of hang-ups, physical challenges & the many strands of love.",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Parks",
+      "contents": "Refreshing, Honest and Most of All Funny",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "octopusluke",
+      "contents": "Genuine feel-good drama, which is never twee or overly sentimental",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "mikezexcel",
+      "contents": "Best film of 2012",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Leigh Shalloway",
+      "contents": "Wonderful film-John Hewkes robbed of ocsar nomination",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "contents": "The Sessions (2012) - The True Life-Changing Story of Mark O' Brien",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "cfb-150-652465",
+      "contents": "It's nice to see some originality from Hollywood.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "hbmorrell",
+      "contents": "The Sessions",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "TheFilmDiscussion .com",
+      "contents": "Surprisingly moving and wholly inspiring",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "richwgriffin-227-176635",
+      "contents": "Surprised I wasn't particularly moved by this movie",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "bbewnylorac",
+      "contents": "A very well made film",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "smatysia (feldene@comcast.net)",
+      "contents": "Difficult subject",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "werefox08",
+      "contents": "Hunt.......Finally Acts Her Pants Off.....A Great Performance....",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Mark (Movie_Going27)",
+      "contents": "The film loses focus trying to bring in people who can't stand up to the performance of a worthy actor",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Touching",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Scarecrow-88",
+      "contents": "The Sessions",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Heart felt, funny, original",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Charles Herold (cherold)",
+      "contents": "Humorous and Affecting Film",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "lasttimeisaw",
+      "contents": "Great comedy with a poetic touch",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "nama chakravorty",
+      "contents": "Tender & Funny!",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "mhmtyzc",
+      "contents": "a story of soul",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "A surprisingly heartfelt and character driven movie that isn't for everyone but I think is well worth seeing. I say B+",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Ed Uyeshima",
+      "contents": "Hawkes and Hunt Breathe Life Into One Man's Seriocomic Journey Toward Sexual Fulfillment",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "meeza (themeezaman@hotmail.com)",
+      "contents": "Good Session!",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "smijatov89",
+      "contents": "Mature film about mature topics",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Desertman84",
+      "contents": "The Need For Sex",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "metrobiz",
+      "contents": "Good to See",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: The Sessions",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "moush",
+      "contents": "A Winner for sure!",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "tbmforclasstsar",
+      "contents": "powered by an amazing performance by John Hawkes, The Sessions is a beautiful film of love and the human spirit",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Peter Alvin",
+      "contents": "My life is a little richer and deeper after watching this movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "napierslogs",
+      "contents": "An adult man coming-of-age with sex therapy, personal guidance and false sympathy",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Melina Gunnett",
+      "contents": "The Sessions",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "TinyDanseur27",
+      "contents": "The Sessions is excellently cast and very thought-provoking!",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "A heartfelt and touching film",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "rosshfeldman",
+      "contents": "sweet flick",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "dalydj-918-255175",
+      "contents": "The Sessions is both heartwarming and informational",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "jadepietro",
+      "contents": "The Touch of a Poet",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "poetellect",
+      "contents": "Explorations of Healing: Sexual Discoveries & Spiritual Truths",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "dfle3",
+      "contents": "Funny and poignant true story. 85%",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "edwagreen",
+      "contents": "The Sessions-Topic for Our Times? **",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "amit agarwal",
+      "contents": "Hot Hot Hot, if you know what I mean!!",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "aequus314",
+      "contents": "Controversial and unregulated profession enters the limelight once again",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Troy_Campbell",
+      "contents": "Cheerful, optimistic and light-hearted.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "susiemelo",
+      "contents": "Don't miss this fabulous movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "ms dos",
+      "contents": "you should see it",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "drwolner",
+      "contents": "A Disabled Film",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "DJRMewzique",
+      "contents": "And you think YOU have it bad...",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "contents": "Inspiring and life-affirming biopic ; Hawkes & Hunt are superb both deserving Oscars",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Likes_Ninjas90",
+      "contents": "This deceptively small film remains entirely selfless about its own significance",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Jann Hartman",
+      "contents": "Must see this movie!",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Quietb-1",
+      "contents": "Four sessions was enough.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "markgorman",
+      "contents": "The Diving Bell and the Butterfly meets The 40 Year Old Virgin (Sort of) to great effect.",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "Kinky Prostitution",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "kinseydude",
+      "contents": "Beautiful, but only in Berkeley",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "catlawyergirl-616-167796",
+      "contents": "This is a morally reprehensible piece of crap",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "marwarid annonymous",
+      "contents": "replication  of (the reader)",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "billybusa",
+      "contents": "Soft Porn in Disguise",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "trainerjeni",
+      "contents": "This movie is nothing short of PORN!",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    }
+  ],
+  "release_month": "November",
   "genres": [
     "biography",
     "comedy",
     "drama"
   ],
-  "rating": 7.2,
-  "rating_count": 37160,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 19,
-    "year": 2012,
-    "month": 10
-  },
-  "user_review_count": 129,
-  "rating_freq": {
-    "1": 393,
-    "2": 183,
-    "3": 318,
-    "4": 621,
-    "5": 1672,
-    "6": 5067,
-    "7": 12408,
-    "8": 10582,
-    "9": 3717,
-    "10": 2199
-  },
-  "release_day": 16,
-  "votes_per_demo": {
-    "males": 25266,
-    "females_aged_30-44": 3561,
-    "aged_under_18": 24,
-    "non-us_users": 20851,
-    "males_aged_18-29": 7554,
-    "aged_18-29": 10451,
-    "males_aged_30-44": 12538,
-    "aged_45+": 5675,
-    "imdb_users": 37160,
-    "aged_30-44": 16323,
-    "us_users": 7028,
-    "females": 8003,
-    "females_aged_18-29": 2789,
-    "top_1000_voters": 336,
-    "males_aged_45+": 4293,
-    "females_under_18": 6,
-    "females_aged_45+": 1293,
-    "imdb_staff": 7,
-    "males_under_18": 17
-  },
-  "avg_rating_per_demo": {
-    "males": 7.2,
-    "females_aged_30-44": 7.3,
-    "aged_under_18": 7.2,
-    "non-us_users": 7.2,
-    "males_aged_18-29": 7.2,
-    "aged_18-29": 7.2,
-    "males_aged_30-44": 7.1,
-    "aged_45+": 7.5,
-    "imdb_users": 7.2,
-    "aged_30-44": 7.1,
-    "us_users": 7.4,
-    "females": 7.3,
-    "females_aged_18-29": 7.1,
-    "top_1000_voters": 6.5,
-    "males_aged_45+": 7.5,
-    "females_under_18": 7.2,
-    "females_aged_45+": 7.7,
-    "imdb_staff": 8.5,
-    "males_under_18": 7.3
-  },
-  "avg_screens": 116.63157894736842,
-  "release_month": "November",
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 79,
-  "gross_income": 5997134,
-  "critic_review_count": 334,
-  "budget_currency": "$",
-  "release_year": 2012,
+  "opening_weekend_screens": 4,
+  "name": "The Sessions",
   "num_weekends": 19,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 8,
-    "year": 2013,
-    "month": 3
-  },
-  "duration": 95,
-  "budget": 1000000,
-  "max_screens": 516
+  "release_day": 16,
+  "critic_review_count": 334
 }

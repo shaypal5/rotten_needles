@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 1,
-    "year": 2015,
-    "day": 30,
-    "__type__": "datetime.date"
+  "release_day": 30,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.1,
+    "top_1000_voters": 5.5,
+    "males_under_18": 7.0,
+    "imdb_staff": 5.9,
+    "males_aged_18-29": 6.5,
+    "imdb_users": 6.3,
+    "males_aged_45+": 6.0,
+    "aged_18-29": 6.5,
+    "us_users": 5.9,
+    "females_aged_30-44": 6.2,
+    "males": 6.2,
+    "females": 6.4,
+    "females_aged_45+": 6.3,
+    "non-us_users": 6.3,
+    "females_aged_18-29": 6.5,
+    "females_under_18": 7.7,
+    "aged_30-44": 6.1,
+    "aged_under_18": 7.3,
+    "males_aged_30-44": 6.1
   },
   "closing_date": {
     "month": 2,
@@ -11,82 +27,1142 @@
     "day": 20,
     "__type__": "datetime.date"
   },
-  "rating": 6.3,
-  "num_weekends": 3,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 755,
-    "2": 554,
-    "3": 977,
-    "4": 1930,
-    "5": 4440,
-    "6": 9169,
-    "7": 10203,
-    "8": 5199,
-    "9": 1870,
-    "10": 2359
-  },
-  "avg_screens": 1261.0,
-  "budget": 14000000,
-  "budget_currency": "$",
-  "release_day": 30,
   "metascore": 24,
+  "num_weekends": 3,
+  "rating_count": 37478,
+  "gross_income": 5981749,
+  "max_screens": 1841,
+  "opening_weekend_screens": 1841,
+  "screens_by_weekend": [
+    1841,
+    1841,
+    101
+  ],
+  "opening_weekend_income": 2879000,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Convoluted mess of an erotic thriller",
+      "score": 3,
+      "user": "Andrew Gold",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Silly but entertaining puzzle",
+      "score": 7,
+      "user": "NonkelJulien",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like a cheap Rubik's cube",
+      "score": 5,
+      "user": "Mr_Ectoplasma",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Suspenseful",
+      "score": 8,
+      "user": "shellqueenk",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The plot is fine,, honestly there were more than a couple of thrilling moments .. well at least i think it went better than what i'v read here in the reviews before.",
+      "score": 6,
+      "user": "Aktham Tashtush",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Effective thriller that achieves what it sets out to",
+      "score": 8,
+      "user": "jtindahouse",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Big Game Of Cluedo",
+      "score": 6,
+      "user": "SushiStoner103",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome Movie",
+      "score": 9,
+      "user": "trooflawed",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Friendship, Little Secrets and Twists",
+      "score": 6,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable",
+      "score": 8,
+      "user": "851222",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Mediocre Thriller",
+      "score": 5,
+      "user": "David Arnold",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A passable mystery thriller that doesn't have much thrills",
+      "score": 6,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How did this get a high rating? Men. Doesn't matter if it was quality. It's every guys fantasy.",
+      "score": 5,
+      "user": "airsnob",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Underwhelming attempt at sex suspense thriller",
+      "score": 3,
+      "user": "David Hine",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A beautiful, confusing mess",
+      "score": 4,
+      "user": "nick-imdb-3",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's just not good",
+      "score": 3,
+      "user": "cheer88",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "flat, one dimensional characters",
+      "score": 1,
+      "user": "lizdandrea99",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More like \"the lift\"",
+      "score": 2,
+      "user": "Tiffany Telgenkamp",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thriller With Good Twists",
+      "score": 7,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Please Read",
+      "score": 2,
+      "user": "hollandersh10",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very disappointing mystery thriller without the mystery or the thrill",
+      "score": 2,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing",
+      "score": 10,
+      "user": "louheuvelmans",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "B grade all the way. Stick to the original",
+      "score": 4,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good remake of the awesome Belgium version",
+      "score": 9,
+      "user": "dieter-ceuppens",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tolerable, though often overwrought, whodunit",
+      "score": 5,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A hard film to like too much",
+      "score": 7,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unworry of an international incident",
+      "score": 5,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In a movie about cheaters the one who was cheated out the most was us viewers",
+      "score": 4,
+      "user": "Adam_West_as_Batdan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kind of Risqu\u00e9, but Still a Good Whodunit",
+      "score": 7,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unbelievably revolting.",
+      "score": 1,
+      "user": "Anais Winchester",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great story, amazing twist(s), crap ending",
+      "score": 8,
+      "user": "Brian Liebel",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The first guilty pleasure of 2015",
+      "score": 7,
+      "user": "trublu215",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The original Belgian version was better but this one is also fine.",
+      "score": 7,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thriller with a twist",
+      "score": 7,
+      "user": "Davis P",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "unappealing characters",
+      "score": 3,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No Love Loft",
+      "score": 5,
+      "user": "blankenshipdk",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One Twist Too Many",
+      "score": 6,
+      "user": "lizzi6692",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Climb up into \"The Loft\".  It's a bloody blast.",
+      "score": 6,
+      "user": "jtncsmistad",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Average watch",
+      "score": 6,
+      "user": "kyliem11",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Please watch the original",
+      "score": 5,
+      "user": "Seppe De Boel",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The  Loft",
+      "score": 6,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie fun to watch",
+      "score": 8,
+      "user": "amanda_coates",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty good thriller",
+      "score": 7,
+      "user": "yeltzmanmatt",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than Expected",
+      "score": 7,
+      "user": "Arenas4812",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far Better Than Expected!",
+      "score": 7,
+      "user": "seanymphette",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lofty",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Agonizingly dull and unpleasant experience",
+      "score": 3,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Awful or Awfully Fulfilling",
+      "score": 5,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very boring movie!!!!!!",
+      "score": 6,
+      "user": "rajatdahiyax",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty good movie",
+      "score": 7,
+      "user": "MC Dee Lusional (deelusionalmusic)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trying to hard for cheap twists",
+      "score": 4,
+      "user": "bravesfanc",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "They should have called it Zoloft...",
+      "score": 1,
+      "user": "manestria",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If Clue ever had a bastard child it will be this",
+      "score": 2,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst Dialog Ever",
+      "score": 1,
+      "user": "jpmurphy65",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stylish but over written",
+      "score": 4,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Keep it simple",
+      "score": 4,
+      "user": "jessegehrig",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic mystery thriller; good psychological element to boot",
+      "score": 9,
+      "user": "rinzler-16487",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better Than Expected",
+      "score": 8,
+      "user": "Floated2",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quirky film that kept me guessing",
+      "score": 8,
+      "user": "thebarblover",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intrigue Aplenty in this stylish thriller from the US.",
+      "score": 6,
+      "user": "Tom Dooley",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a very complex thriller",
+      "score": 7,
+      "user": "iceyrs-26974",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "-",
+      "score": 8,
+      "user": "mejimeji",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An objective 'who done it' film with plenty of suspense.",
+      "score": 8,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Loft (A) English ----------- my Rating: \u2605\u2605\u2605\u2605\u2605 PERFECT EROTIC THRILLER",
+      "score": 10,
+      "user": "yunusitboss",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Vanilla Wannabe Thriller That Swings Hard and Misses Harder",
+      "score": 3,
+      "user": "Sean Lamberger",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Infidelity burns, friends might not be there to share the heat.",
+      "score": 6,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Solid Story",
+      "score": 7,
+      "user": "Peter Chambers",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is like a grown up Very Bad Things. I really really enjoyed it and I recommend this as a change of pace movie.",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great crime mystery thriller work",
+      "score": 7,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "worst movie ever",
+      "score": 1,
+      "user": "creation-33726",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Laugh, oops I mean The Loft",
+      "score": 5,
+      "user": "xcitenlady",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not too much depth, but an entertaining watch",
+      "score": 6,
+      "user": "Thomas (filmreviews@web.de)",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst movie I've seen in a long time",
+      "score": 1,
+      "user": "Zbigniew_Krycsiwiki",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very entertaining",
+      "score": 9,
+      "user": "bart-942-944948",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Likeably unlikeable piece of slick cinema, with many a twist to its thriller story",
+      "score": 8,
+      "user": "James",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Satisfying Whodunnit Film",
+      "score": 8,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very slick thriller.",
+      "score": 8,
+      "user": "thekarmicnomad",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A pretty poorly made, and trashy, erotic thriller.",
+      "score": 5,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "8",
+      "score": 8,
+      "user": "Bob An",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like Clue, but less funny",
+      "score": 6,
+      "user": "Ryan Prince",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very flawed, yet intriguing premise",
+      "score": 5,
+      "user": "Noah Morgan",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Very Lofty Expectations",
+      "score": 4,
+      "user": "cuthbertjoel",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "watchable but that's it",
+      "score": 4,
+      "user": "io_ale_pop98",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Definitely Entertaining, Nice Plot, Predictable for few people only:P",
+      "score": 7,
+      "user": "Moses-zeitouny",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "soooo baaaadddd",
+      "score": 2,
+      "user": "dracsor_05",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very hard to watch",
+      "score": 4,
+      "user": "mikebrunton70",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "good script and acting but horrible screenplay and soundtrack",
+      "score": 2,
+      "user": "guitargamery",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So disappointed!",
+      "score": 5,
+      "user": "kaiser-and-klaus",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Loft, great thriller",
+      "score": 9,
+      "user": "debwen2153",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I mean honestly, this movie is pretty bad",
+      "score": 2,
+      "user": "kschwiz",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Recommend",
+      "score": 7,
+      "user": "chrismackey1972",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing",
+      "score": 10,
+      "user": "SimBi J",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than most",
+      "score": 9,
+      "user": "wanneslier",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "THE LOFT is a docudrama deftly exposing America's One Per Cent . . .",
+      "score": 7,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was OK.",
+      "score": 7,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Loft\" mixes Hitchcockian and European influences into a first class thriller.",
+      "score": 8,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's been done before, but not in Belgium",
+      "score": 1,
+      "user": "Josefina Gonzalez",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 108,
+  "votes_per_demo": {
+    "aged_45+": 2837,
+    "top_1000_voters": 224,
+    "males_under_18": 64,
+    "imdb_staff": 5,
+    "males_aged_18-29": 9603,
+    "imdb_users": 37478,
+    "males_aged_45+": 2247,
+    "aged_18-29": 13741,
+    "us_users": 5027,
+    "females_aged_30-44": 2623,
+    "males": 23360,
+    "females": 7698,
+    "females_aged_45+": 542,
+    "non-us_users": 17703,
+    "females_aged_18-29": 3997,
+    "females_under_18": 42,
+    "aged_30-44": 12892,
+    "aged_under_18": 106,
+    "males_aged_30-44": 10084
+  },
   "genres": [
     "mystery",
     "romance",
     "thriller"
   ],
-  "release_month": "January",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.1,
-    "aged_18-29": 6.5,
-    "aged_30-44": 6.1,
-    "females": 6.4,
-    "top_1000_voters": 5.5,
-    "non-us_users": 6.3,
-    "females_under_18": 7.6,
-    "males_aged_30-44": 6.1,
-    "us_users": 5.9,
-    "imdb_users": 6.3,
-    "imdb_staff": 5.9,
-    "males_under_18": 7.0,
-    "females_aged_18-29": 6.5,
-    "males_aged_45+": 6.0,
-    "females_aged_30-44": 6.2,
-    "males": 6.2,
-    "males_aged_18-29": 6.5,
-    "females_aged_45+": 6.3,
-    "aged_under_18": 7.3
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2014,
-  "name": "The Loft",
-  "gross_income": 5981749,
-  "user_review_count": 102,
-  "duration": 108,
-  "max_screens": 1841,
-  "votes_per_demo": {
-    "aged_45+": 2835,
-    "aged_18-29": 13734,
-    "aged_30-44": 12885,
-    "females": 7694,
-    "top_1000_voters": 224,
-    "non-us_users": 17695,
-    "females_under_18": 41,
-    "males_aged_30-44": 10081,
-    "us_users": 5025,
-    "imdb_users": 37456,
-    "imdb_staff": 5,
-    "males_under_18": 64,
-    "females_aged_18-29": 3997,
-    "males_aged_45+": 2245,
-    "females_aged_30-44": 2620,
-    "males": 23348,
-    "males_aged_18-29": 9596,
-    "females_aged_45+": 542,
-    "aged_under_18": 105
+  "rating_freq": {
+    "1": 756,
+    "2": 554,
+    "3": 977,
+    "4": 1930,
+    "5": 4445,
+    "6": 9173,
+    "7": 10207,
+    "8": 5202,
+    "9": 1873,
+    "10": 2361
   },
-  "rating_count": 37456,
+  "release_month": "January",
+  "budget": 14000000,
+  "budget_currency": "$",
+  "total_screens": 3783,
+  "year": 2014,
+  "rating": 6.3,
   "critic_review_count": 88,
-  "opening_weekend_income": 2879000
+  "opening_weekend_date": {
+    "month": 1,
+    "year": 2015,
+    "day": 30,
+    "__type__": "datetime.date"
+  },
+  "name": "The Loft",
+  "user_review_count": 102,
+  "avg_screens": 1261.0
 }

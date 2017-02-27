@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 5,
-    "year": 2015,
-    "day": 29,
-    "__type__": "datetime.date"
+  "release_day": null,
+  "avg_rating_per_demo": {
+    "aged_45+": 7.7,
+    "top_1000_voters": 6.8,
+    "males_under_18": 8.0,
+    "imdb_staff": 7.5,
+    "males_aged_18-29": 7.8,
+    "imdb_users": 7.8,
+    "males_aged_45+": 7.6,
+    "aged_18-29": 7.9,
+    "us_users": 7.7,
+    "females_aged_30-44": 7.7,
+    "males": 7.7,
+    "females": 7.8,
+    "females_aged_45+": 8.0,
+    "non-us_users": 7.7,
+    "females_aged_18-29": 7.9,
+    "females_under_18": 8.5,
+    "aged_30-44": 7.6,
+    "aged_under_18": 8.2,
+    "males_aged_30-44": 7.6
   },
   "closing_date": {
     "month": 6,
@@ -11,82 +27,625 @@
     "day": 19,
     "__type__": "datetime.date"
   },
-  "rating": 7.8,
-  "num_weekends": 3,
-  "release_year": null,
-  "rating_freq": {
-    "1": 85,
-    "2": 35,
-    "3": 72,
-    "4": 160,
-    "5": 422,
-    "6": 1383,
-    "7": 3744,
-    "8": 4938,
-    "9": 2904,
-    "10": 2458
-  },
-  "avg_screens": 328.3333333333333,
-  "budget": null,
-  "budget_currency": null,
-  "release_day": null,
   "metascore": 72,
+  "num_weekends": 3,
+  "rating_count": 16224,
+  "gross_income": 400295,
+  "max_screens": 910,
+  "opening_weekend_screens": 910,
+  "screens_by_weekend": [
+    910,
+    30,
+    45
+  ],
+  "opening_weekend_income": 40282,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Out of the dark",
+      "score": 9,
+      "user": "k-sky123",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Heartwarming Thank You.",
+      "score": 10,
+      "user": "tak8493",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a Masterpiece!!",
+      "score": 10,
+      "user": "Gothic_Maniac",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A musically driven almost-masterpice.",
+      "score": 10,
+      "user": "bright-chen97",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some people're destined to meet the secret friend.",
+      "score": 9,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well crafted story about friendship and isolation.",
+      "score": 8,
+      "user": "quocanh80",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Possibly the last Ghibli film, still a strong effort",
+      "score": 8,
+      "user": "MortalKombatFan1",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I just had had to bawl my eyes out all throughout this movie",
+      "score": 10,
+      "user": "AhoNuri",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An excellent Ghibli flick courtesy of Hiromasa Yonebayashi",
+      "score": 10,
+      "user": "webberrules",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great story, but dialogue is heavy-handed and overly emotional",
+      "score": 6,
+      "user": "El John",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A touching heartwarming story done using anime.",
+      "score": 8,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Studio Ghibli's last?  Who knows....but I wouldn't let young kids watch this one.",
+      "score": 9,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So sweet, so lovable",
+      "score": 9,
+      "user": "zetes",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Subtle and unique, one of the Ghibli's most underrated films",
+      "score": 8,
+      "user": "artificeprime",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "fine ghost story but not the same Ghibli wonder",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is not a Movie Rather an experience",
+      "score": 10,
+      "user": "ramkoil",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heartwarming and Beautiful",
+      "score": 9,
+      "user": "SquigglyCrunch",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "no one told me about her...",
+      "score": 7,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ghibli establishes a wonderful setting and pursues the same old",
+      "score": 6,
+      "user": "Radiohans",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Girl on the brink",
+      "score": 6,
+      "user": "tieman64",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Promising start to Studio Ghibli's next generation",
+      "score": 7,
+      "user": "steerpike_2002",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The legend Ghibli left behind",
+      "score": 10,
+      "user": "Strawberry",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie about finding yourself and the answers you are looking for",
+      "score": 7,
+      "user": "David",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Studio Ghibli charmer",
+      "score": 8,
+      "user": "TheLittleSongbird",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very slow-paced, but charming.",
+      "score": 6,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Living Life With a Smile",
+      "score": 8,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mesmerizing",
+      "score": 10,
+      "user": "Naren k",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow, the movie was heart-warming!",
+      "score": 9,
+      "user": "Rifat Sharna",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful and Haunting!",
+      "score": 8,
+      "user": "dreamer-santiago80",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A masterpiece compared to all other Ghibli films",
+      "score": 10,
+      "user": "James Marks",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tear Streamer",
+      "score": 8,
+      "user": "Bauron A",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When Marnie Was There is a beautifully haunting story that closes the book on Studio Ghibli",
+      "score": 7,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mixed feelings, but a good film",
+      "score": 7,
+      "user": "Imdbidia",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When Marnie Was There",
+      "score": 5,
+      "user": "Jackson Booth-Millard",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When Marnie was There",
+      "score": 10,
+      "user": "Tweekums",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful and Heartbreaking",
+      "score": 9,
+      "user": "RobertF87",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An utter joy: Ghibli returned to it's brilliant best.",
+      "score": 10,
+      "user": " (markjplee)",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A beautiful movie, creating a bond with the characters.",
+      "score": 9,
+      "user": "kevinxip",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Top Tier Ghibli But Still Damn Decent",
+      "score": 7,
+      "user": "CraigsCritique",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In love with",
+      "score": 8,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the usual Ghibli film but still good",
+      "score": 7,
+      "user": "Guy Jeffries",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Calling it a day",
+      "score": 6,
+      "user": "politic1983",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Must watch",
+      "score": 10,
+      "user": "louissven",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uplifting joy",
+      "score": 10,
+      "user": "parknourie",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Always vivid. Always beautiful",
+      "score": 8,
+      "user": "Thomas Fackler",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Studi Ghilbi Falters this Time",
+      "score": 6,
+      "user": "DareDevilKid",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Impressive animation/art, little else",
+      "score": 3,
+      "user": "in1984",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ugh. Ghibli, really?",
+      "score": 3,
+      "user": "Cartoonreviews",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is it just me or did the filmmakers get so involved, they can't tell a good story?",
+      "score": 6,
+      "user": "pinkarray",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The progression is truly misleading!",
+      "score": 5,
+      "user": "Rosalyn Lim \u00e6\u009e\u0097\u00e6\u0083\u00a0\u00e7\u00be\u008e (hayashimegumi)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 103,
+  "votes_per_demo": {
+    "aged_45+": 927,
+    "top_1000_voters": 155,
+    "males_under_18": 60,
+    "imdb_staff": 5,
+    "males_aged_18-29": 4810,
+    "imdb_users": 16224,
+    "males_aged_45+": 749,
+    "aged_18-29": 7143,
+    "us_users": 1828,
+    "females_aged_30-44": 937,
+    "males": 9624,
+    "females": 3567,
+    "females_aged_45+": 157,
+    "non-us_users": 8411,
+    "females_aged_18-29": 2238,
+    "females_under_18": 46,
+    "aged_30-44": 4551,
+    "aged_under_18": 107,
+    "males_aged_30-44": 3557
+  },
   "genres": [
     "animation",
     "drama",
     "family"
   ],
-  "release_month": null,
-  "avg_rating_per_demo": {
-    "aged_45+": 7.7,
-    "aged_18-29": 7.9,
-    "aged_30-44": 7.6,
-    "females": 7.8,
-    "top_1000_voters": 6.8,
-    "non-us_users": 7.7,
-    "females_under_18": 8.5,
-    "males_aged_30-44": 7.6,
-    "us_users": 7.7,
-    "imdb_users": 7.8,
-    "imdb_staff": 7.5,
-    "males_under_18": 8.0,
-    "females_aged_18-29": 7.9,
-    "males_aged_45+": 7.6,
-    "females_aged_30-44": 7.7,
-    "males": 7.7,
-    "males_aged_18-29": 7.8,
-    "females_aged_45+": 8.0,
-    "aged_under_18": 8.2
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2014,
-  "name": "When Marnie Was There",
-  "gross_income": 400295,
-  "user_review_count": 54,
-  "duration": 103,
-  "max_screens": 910,
-  "votes_per_demo": {
-    "aged_45+": 926,
-    "aged_18-29": 7142,
-    "aged_30-44": 4543,
-    "females": 3563,
-    "top_1000_voters": 155,
-    "non-us_users": 8403,
-    "females_under_18": 46,
-    "males_aged_30-44": 3552,
-    "us_users": 1828,
-    "imdb_users": 16201,
-    "imdb_staff": 5,
-    "males_under_18": 60,
-    "females_aged_18-29": 2238,
-    "males_aged_45+": 748,
-    "females_aged_30-44": 934,
-    "males": 9614,
-    "males_aged_18-29": 4810,
-    "females_aged_45+": 157,
-    "aged_under_18": 107
+  "rating_freq": {
+    "1": 85,
+    "2": 35,
+    "3": 72,
+    "4": 161,
+    "5": 424,
+    "6": 1383,
+    "7": 3747,
+    "8": 4950,
+    "9": 2906,
+    "10": 2461
   },
-  "rating_count": 16201,
+  "release_month": null,
+  "budget": null,
+  "budget_currency": null,
+  "total_screens": 985,
+  "year": 2014,
+  "rating": 7.8,
   "critic_review_count": 152,
-  "opening_weekend_income": 40282
+  "opening_weekend_date": {
+    "month": 5,
+    "year": 2015,
+    "day": 29,
+    "__type__": "datetime.date"
+  },
+  "name": "When Marnie Was There",
+  "user_review_count": 54,
+  "avg_screens": 328.3333333333333
 }

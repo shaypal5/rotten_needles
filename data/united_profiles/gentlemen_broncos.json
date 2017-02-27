@@ -1,0 +1,824 @@
+{
+  "avg_rating_per_demo": {
+    "aged_18-29": 6.2,
+    "aged_30-44": 6.2,
+    "aged_45+": 5.8,
+    "aged_under_18": 5.5,
+    "females": 6.4,
+    "females_aged_18-29": 6.6,
+    "females_aged_30-44": 6.3,
+    "females_aged_45+": 6.0,
+    "imdb_staff": 6.8,
+    "imdb_users": 6.2,
+    "males": 6.1,
+    "males_aged_18-29": 6.1,
+    "males_aged_30-44": 6.2,
+    "males_aged_45+": 5.8,
+    "males_under_18": 5.5,
+    "non-us_users": 6.1,
+    "top_1000_voters": 4.8,
+    "us_users": 6.1
+  },
+  "avg_screens": 10.5,
+  "budget": null,
+  "budget_currency": null,
+  "closing_date": {
+    "__type__": "datetime.date",
+    "day": 4,
+    "month": 12,
+    "year": 2009
+  },
+  "critic_review_count": 104,
+  "duration": 89,
+  "genres": [
+    "adventure",
+    "comedy",
+    "sci-fi"
+  ],
+  "gross_income": 113155,
+  "imdb_user_reviews": [
+    {
+      "contents": "One of 2009's Most Underrated Comedies",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 1,
+        "month": 4,
+        "year": 2010
+      },
+      "score": 10,
+      "user": "Zach Klinefelter"
+    },
+    {
+      "contents": "430th Review: Utterly bizarrely ordinary and surreal - so off the wall it's wallpaperly delicious",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 6,
+        "year": 2011
+      },
+      "score": 8,
+      "user": "intelearts"
+    },
+    {
+      "contents": "Instant cult classic",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 19,
+        "month": 3,
+        "year": 2010
+      },
+      "score": 8,
+      "user": "Sarkamen"
+    },
+    {
+      "contents": "Authentically eccentric and touchingly funny: Hess does it again!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 3,
+        "year": 2011
+      },
+      "score": 10,
+      "user": "Derek Charles"
+    },
+    {
+      "contents": "'Broncos is NOT TO BE MISSED for the 5 people who like what it offers",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 6,
+        "month": 4,
+        "year": 2010
+      },
+      "score": 7,
+      "user": "ge-ranma"
+    },
+    {
+      "contents": "delightfully retarded comedy for all to enjoy",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 11,
+        "month": 11,
+        "year": 2009
+      },
+      "score": 10,
+      "user": "majablaze"
+    },
+    {
+      "contents": "An Instant Classic That Is Much More Than The Sum Of Its Parts",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 10,
+        "year": 2009
+      },
+      "score": 10,
+      "user": "merrilltoyco"
+    },
+    {
+      "contents": "Great Movie; Bad Reviews",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 4,
+        "year": 2010
+      },
+      "score": 10,
+      "user": "Christopher Gautreaux"
+    },
+    {
+      "contents": "Occasionally amusing, quirky takeoff on the world of sci-fi fantasy writers",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 1,
+        "year": 2010
+      },
+      "score": 5,
+      "user": "Turfseer"
+    },
+    {
+      "contents": "Brilliant satire on the pulp sci fi book industry",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 16,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 9,
+      "user": "Targe"
+    },
+    {
+      "contents": "Absurdist Hilarity at its Zenith!!!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 1,
+        "year": 2014
+      },
+      "score": 10,
+      "user": "zardoz-13"
+    },
+    {
+      "contents": "Quirky film with...reindeer anal cannons?",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 1,
+        "year": 2011
+      },
+      "score": 7,
+      "user": "tieman64"
+    },
+    {
+      "contents": "Quirky, silly, and should not to be taken so seriously.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 2,
+        "year": 2010
+      },
+      "score": 7,
+      "user": "Jaydee"
+    },
+    {
+      "contents": "So bad to be excellent",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 10,
+        "year": 2014
+      },
+      "score": 3,
+      "user": "Riccardo Brasacchio"
+    },
+    {
+      "contents": "Heavy on Personality, Light on Depth",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 11,
+        "month": 9,
+        "year": 2011
+      },
+      "score": 6,
+      "user": "Sean Lamberger"
+    },
+    {
+      "contents": "Country Balls.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 2,
+        "year": 2011
+      },
+      "score": 8,
+      "user": "FlashCallahan"
+    },
+    {
+      "contents": "don't waste your time like i did",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 1,
+        "year": 2012
+      },
+      "score": 1,
+      "user": "dan-14-87767"
+    },
+    {
+      "contents": "Yikes",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 11,
+        "month": 6,
+        "year": 2010
+      },
+      "score": 2,
+      "user": "moviemanMA"
+    },
+    {
+      "contents": "Strike two, Mr. Hess.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 7,
+        "month": 3,
+        "year": 2010
+      },
+      "score": 6,
+      "user": "DevastationBob-3"
+    },
+    {
+      "contents": "very original and good, but not for everyone's sense of humor.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 11,
+        "month": 2,
+        "year": 2016
+      },
+      "score": 8,
+      "user": "Adrian Hallberg"
+    },
+    {
+      "contents": "deliberately weird",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 5,
+        "month": 10,
+        "year": 2015
+      },
+      "score": 5,
+      "user": "SnoopyStyle"
+    },
+    {
+      "contents": "A movie that actually made me laugh!!!!!!!!!!!!!!!!!!!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 4,
+        "month": 11,
+        "year": 2013
+      },
+      "score": 10,
+      "user": "lamoreauxba"
+    },
+    {
+      "contents": "Smart humour disguised as dumb humour.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 6,
+        "year": 2013
+      },
+      "score": 10,
+      "user": "nomzz"
+    },
+    {
+      "contents": "Hold on to your gonads",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 14,
+        "month": 10,
+        "year": 2012
+      },
+      "score": 7,
+      "user": "cowboyandvampire"
+    },
+    {
+      "contents": "Oddball comedy that's not for everyone",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 12,
+        "year": 2011
+      },
+      "score": 6,
+      "user": "robotbling"
+    },
+    {
+      "contents": "Dumb But Worthwhile",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 31,
+        "month": 12,
+        "year": 2010
+      },
+      "score": 7,
+      "user": "thirdsqurl"
+    },
+    {
+      "contents": "Original, silly and hilarious",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 12,
+        "month": 6,
+        "year": 2011
+      },
+      "score": 6,
+      "user": "juli_mac"
+    },
+    {
+      "contents": "Great 1970's story about a kid who's story becomes a movie",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 18,
+        "month": 10,
+        "year": 2010
+      },
+      "score": 7,
+      "user": "Tom Smith"
+    },
+    {
+      "contents": "Just awful",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 4,
+        "month": 3,
+        "year": 2010
+      },
+      "score": 2,
+      "user": "Jeff-123"
+    },
+    {
+      "contents": "why the extreme hatred for sci-fi?  it doesn't make sense.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 6,
+        "year": 2016
+      },
+      "score": 1,
+      "user": "bjw414"
+    },
+    {
+      "contents": "A below average comedy that's pretty strange",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 8,
+        "year": 2014
+      },
+      "score": 5,
+      "user": "willcundallreview"
+    },
+    {
+      "contents": "more kinds of film than you know.....",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 6,
+        "month": 4,
+        "year": 2012
+      },
+      "score": 9,
+      "user": "dfusco-217-829120"
+    },
+    {
+      "contents": "a little gem",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 16,
+        "month": 1,
+        "year": 2011
+      },
+      "score": 8,
+      "user": "adam lyons"
+    },
+    {
+      "contents": "Fantastically stupid, bad, and so hilarious!!!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 4,
+        "month": 1,
+        "year": 2011
+      },
+      "score": 10,
+      "user": "qballeratl"
+    },
+    {
+      "contents": "I liked it, despite bad reviews from the \"pros\".",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 26,
+        "month": 12,
+        "year": 2010
+      },
+      "score": 9,
+      "user": "Brian"
+    },
+    {
+      "contents": "A Bronco and a Train Meet Head On",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 19,
+        "month": 2,
+        "year": 2012
+      },
+      "score": 1,
+      "user": "thesar-2"
+    },
+    {
+      "contents": "So incredibly disappointing, such a letdown!!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 11,
+        "month": 3,
+        "year": 2010
+      },
+      "score": 4,
+      "user": "christopher_randall"
+    },
+    {
+      "contents": "Excellent film",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 23,
+        "month": 7,
+        "year": 2010
+      },
+      "score": 10,
+      "user": "Amanda Oyer"
+    },
+    {
+      "contents": "I know why some rated it badly...",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 19,
+        "month": 2,
+        "year": 2010
+      },
+      "score": 10,
+      "user": "MetaControl"
+    },
+    {
+      "contents": "Geysers of Original Thought ...",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 9,
+        "month": 3,
+        "year": 2010
+      },
+      "score": 10,
+      "user": "kirkthenelson"
+    },
+    {
+      "contents": "You took my 'nads!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 14,
+        "month": 11,
+        "year": 2009
+      },
+      "score": 10,
+      "user": "Sanpaco13"
+    },
+    {
+      "contents": "Hess' Latest Mess",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 11,
+        "month": 4,
+        "year": 2010
+      },
+      "score": 4,
+      "user": "weronews"
+    },
+    {
+      "contents": "One of the worst if not the worst \"comedy\" ever made",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 1,
+        "month": 4,
+        "year": 2010
+      },
+      "score": 1,
+      "user": "jakegrene"
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 3,
+        "year": 2010
+      },
+      "score": 3,
+      "user": "capone666"
+    },
+    {
+      "contents": "Jared Hess's first failure",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 8,
+        "month": 4,
+        "year": 2010
+      },
+      "score": 1,
+      "user": "whatever_123"
+    },
+    {
+      "contents": "You either like it or you don't",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 3,
+        "year": 2010
+      },
+      "score": 10,
+      "user": "Michael Lange"
+    },
+    {
+      "contents": "Great Movie!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 3,
+        "year": 2010
+      },
+      "score": 10,
+      "user": "maclaird1"
+    },
+    {
+      "contents": "Another Hess Disappointment",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 5,
+        "year": 2010
+      },
+      "score": 3,
+      "user": "eraser_head2001"
+    },
+    {
+      "contents": "I'm sorry, but to get this, you have to have grown up in or around Utah.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 5,
+        "month": 3,
+        "year": 2010
+      },
+      "score": 7,
+      "user": "Jeff Jonsson"
+    },
+    {
+      "contents": "No, no, no.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 10,
+        "year": 2009
+      },
+      "score": 1,
+      "user": "maura-marie"
+    },
+    {
+      "contents": "dog-doo",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 25,
+        "month": 9,
+        "year": 2009
+      },
+      "score": 1,
+      "user": "mail-1045"
+    }
+  ],
+  "max_screens": 18,
+  "mc_avg_user_score": 6.0,
+  "mc_metascore": 28,
+  "mc_mixed_rating_frequency": 2,
+  "mc_movie_name": "Gentlemen Broncos",
+  "mc_negative_rating_frequency": 13,
+  "mc_positive_rating_frequency": 26,
+  "mc_pro_critic_reviews": [],
+  "mc_user_reviews": [
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 5,
+        "month": 7,
+        "year": 2014
+      },
+      "score": 8,
+      "text": "First time I watched this movie two minuets in and I was underwhelmed  but it quickly grew on me and it improves each time I watch it . Crammed with dysfunctional characters  and some outrageously gross moments ( the defecating python wins for sure ) but it's ripe with hilarious one liners and our house often rings with quotes from the movie. I love it and don't understand why it was so poorly received",
+      "total_reactions": 1,
+      "user": "Laikafan"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 3,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 14,
+        "month": 5,
+        "year": 2011
+      },
+      "score": 1,
+      "text": "The only scene worth watching is the hidden finale, after the credits have rolled, with Sam Rockwell as Bronco. Watch it on YouTube or something. But for God's sake don't bother with the rest of the movie. It really is as horrible as it's rating shows.",
+      "total_reactions": 4,
+      "user": "t-bombz"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 2,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 9,
+        "year": 2010
+      },
+      "score": 2,
+      "text": "Imitation is the sincerest form a flattery.  It is apparent that the Hess siblings desiderated to fancy their own works with their newest film Gentlemen Broncos. To qualify, Gentlemen Broncos utilizes the same exact formula of a societal misfit used in both Nacho Libre and Napoleon Dynamite. While those two comedic movies were both equally unique and humorous, Broncos feels stale, farcical, and ultimately, a waste of my time.",
+      "total_reactions": 4,
+      "user": "RyanGee"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 12,
+        "year": 2011
+      },
+      "score": 10,
+      "text": "If this film was an animal it would be a majestic eagle. It tickled me in all the right places and bought me tampons from stores I simply would not expect. 10/10",
+      "total_reactions": 2,
+      "user": "BorneoFunction"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 1,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 1,
+        "year": 2011
+      },
+      "score": 10,
+      "text": "I can't believe how harshly this movie was panned by critics when it came out. This movie is clever, original, and funny. It gets better on subsequent viewings when you start to really notice little things like a candy dish full of bullets or the attire of sci fi fans waiting in line for a book signing. This is the perfect movie to watch when you want to watch a movie and don't know what you are in the mood for.",
+      "total_reactions": 3,
+      "user": "smullins85"
+    },
+    {
+      "neg_reactions": 1,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 7,
+        "year": 2011
+      },
+      "score": 9,
+      "text": "Sucks that the studio crapped its pants at the limited release reviews.  This movie is funny, weird, wonderful.  If it had gotten a wide release, it probably would have made its money back.  Instead it soured Jared Hess' name (unfairly).  RyanGee's comments:  Jared and Jerusha Hess are married.  Not siblings.",
+      "total_reactions": 1,
+      "user": "JamesGatz"
+    },
+    {
+      "neg_reactions": 2,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 8,
+        "year": 2011
+      },
+      "score": 0,
+      "text": "I enjoyed both Napoleon Dynamite and Nacho Libre, but Gentlemen Broncos feels more like an inept attempt to capture Hess' style than an effort from Hess himself. if you remove what worked from Napoleon Dynamite (the endearing performances and odd resemblance to reality amidst the bizarre) and pepper in more than a dash of inane bathroom humor just to guarantee a sunk ship, then you get Gentlemen Broncos - a movie trying so hard to be weird and off-beat that nothing feels genuine, and everything comes off contrived. The movie practically shouts its absurdities at its audience, pleading for them to become catchphrases and fads. But what won hearts with Napoleon Dynamite was its spontaneity. In contrast, Gentleman Broncos is cold calculated absurdity. And in this reviewer's opinion, it is flat-out awful. I haven't found myself less entertained in years, and have rarely found myself more insulted as a viewer by a movie smugly assuming own charm. Avoid this.",
+      "total_reactions": 2,
+      "user": "TheSagePenguin"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 9,
+        "month": 10,
+        "year": 2012
+      },
+      "score": 8,
+      "text": "One of the only movies I'm able to watch multiple times and still laugh at the ridiculousness of everything. Of course, the humor is low brow and sometimes disgusting, but the movie does follow an adolescent writer after all. It's hard to recommend this film to many people, but if you used to make movies using your parent's camcorder, then I would suggest you watch this.",
+      "total_reactions": 0,
+      "user": "IIISPQRIII"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 7,
+        "year": 2013
+      },
+      "score": 3,
+      "text": "Grentlemen Broncos tiene un buen contenido poco aprovechado con personajes rid\u00edculos y poco entendibles no logra la idea principal despu\u00e9s de un tiempo y el autor de la pel\u00edcula act\u00faa como un idiota perdido,sin saber que lo estan estafando.",
+      "total_reactions": 0,
+      "user": "Jmsbpp"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 6,
+        "month": 9,
+        "year": 2015
+      },
+      "score": 0,
+      "text": "How bad can a movie be? How on earth anyone can pay for a script like this and use 10 million dollars in production? This movie is worse than \"The Room\".  Do avoid \"Gentlemen Broncos\" at all cost, it sucks life out of anybody.",
+      "total_reactions": 0,
+      "user": "djmoo"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 9,
+        "year": 2016
+      },
+      "score": 10,
+      "text": "This film gets better with each watching. In the same way as Napoleon Dynamite, I wasn't sure what I was watching the first time I saw it, and upon repeat viewings I laughed harder and harder at all of the gloriously stupid jokes and excellent characters.",
+      "total_reactions": 0,
+      "user": "spiderprovider"
+    }
+  ],
+  "metascore": 28,
+  "name": "Gentlemen Broncos",
+  "num_weekends": 4,
+  "opening_weekend_date": {
+    "__type__": "datetime.date",
+    "day": 30,
+    "month": 10,
+    "year": 2009
+  },
+  "opening_weekend_income": 11502,
+  "opening_weekend_income_currency": "$",
+  "opening_weekend_screens": 12,
+  "rating": 6.2,
+  "rating_count": 9371,
+  "rating_freq": {
+    "1": 415,
+    "10": 1104,
+    "2": 299,
+    "3": 441,
+    "4": 569,
+    "5": 1022,
+    "6": 1608,
+    "7": 1882,
+    "8": 1367,
+    "9": 664
+  },
+  "release_day": null,
+  "release_month": null,
+  "release_year": null,
+  "screens_by_weekend": [
+    12,
+    18,
+    9,
+    3
+  ],
+  "total_screens": 42,
+  "user_review_count": 54,
+  "votes_per_demo": {
+    "aged_18-29": 2435,
+    "aged_30-44": 4707,
+    "aged_45+": 1030,
+    "aged_under_18": 8,
+    "females": 1271,
+    "females_aged_18-29": 524,
+    "females_aged_30-44": 571,
+    "females_aged_45+": 131,
+    "imdb_staff": 4,
+    "imdb_users": 9371,
+    "males": 7028,
+    "males_aged_18-29": 1893,
+    "males_aged_30-44": 4087,
+    "males_aged_45+": 880,
+    "males_under_18": 8,
+    "non-us_users": 4443,
+    "top_1000_voters": 175,
+    "us_users": 2901
+  },
+  "year": 2009
+}

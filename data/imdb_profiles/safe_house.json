@@ -1,92 +1,3004 @@
 {
-  "name": "Safe House",
+  "budget": 85000000,
   "opening_weekend_income": 40172720,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 11,
+    "__type__": "datetime.date",
+    "month": 5
+  },
+  "budget_currency": "$",
+  "avg_screens": 1454.8461538461538,
+  "rating_freq": {
+    "1": 1408,
+    "2": 757,
+    "3": 1650,
+    "4": 4050,
+    "5": 12753,
+    "6": 38149,
+    "7": 62868,
+    "8": 31884,
+    "9": 9767,
+    "10": 9094
+  },
+  "screens_by_weekend": [
+    3119,
+    3121,
+    3052,
+    2533,
+    2144,
+    1920,
+    1330,
+    482,
+    371,
+    301,
+    229,
+    175,
+    136
+  ],
+  "rating_count": 172380,
+  "total_screens": 18913,
+  "max_screens": 3121,
+  "duration": 115,
+  "gross_income": 126149655,
+  "metascore": 52,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 558,
+    "imdb_users": 172380,
+    "us_users": 26155,
+    "aged_18-29": 60735,
+    "non-us_users": 91131,
+    "aged_45+": 14412,
+    "aged_30-44": 69499,
+    "males_aged_30-44": 60974,
+    "males_aged_18-29": 53040,
+    "males_aged_45+": 12164,
+    "aged_under_18": 151,
+    "imdb_staff": 9,
+    "males_under_18": 127,
+    "females_aged_30-44": 7697,
+    "females": 17924,
+    "females_under_18": 21,
+    "females_aged_45+": 2020,
+    "males": 132356,
+    "females_aged_18-29": 7117
+  },
+  "user_review_count": 277,
+  "rating": 6.8,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 6.0,
+    "imdb_users": 6.8,
+    "us_users": 6.8,
+    "aged_18-29": 6.8,
+    "non-us_users": 6.7,
+    "aged_45+": 6.8,
+    "aged_30-44": 6.7,
+    "males_aged_30-44": 6.7,
+    "males_aged_18-29": 6.8,
+    "males_aged_45+": 6.8,
+    "aged_under_18": 6.8,
+    "imdb_staff": 7.1,
+    "males_under_18": 6.8,
+    "females_aged_30-44": 6.7,
+    "females": 6.8,
+    "females_under_18": 7.0,
+    "females_aged_45+": 6.9,
+    "males": 6.8,
+    "females_aged_18-29": 6.8
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 10,
+    "__type__": "datetime.date",
+    "month": 2
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "Nesvrstani",
+      "contents": "I did not expect it to be this good.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "kluseba",
+      "contents": "Nothing really new but a good choice of actors, effects and locations",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Richard Reilly (FFman@comcast.net)",
+      "contents": "Reynolds & Washington a Strong Duo",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "deanccastano",
+      "contents": "\"Safe House\" is a exhilarating action thriller with explosive stunts and sequences.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "bdgill12",
+      "contents": "Predictable but Entertaining, Excellent Performances",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "Conventional but Effective Action-Thriller",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Simon_Says_Movies",
+      "contents": "Fulfills Its Popcorn Intentions But Little Else",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "cultfilmfreaksdotcom",
+      "contents": "Shake, Shake, Shake...  Shake, Shake, Shake... Shake That Camera...",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "www.ramascreen.com",
+      "contents": "Denzel and his rules, mentoring yet another rookie",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "Quietb-1",
+      "contents": "Too much of too little.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "ieatdogsforbreakfast",
+      "contents": "Capetown tourism",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Big_Heavy_Thing",
+      "contents": "Another turd for the American public",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "Floated2",
+      "contents": "Gritty, Intense and Keeps you Entertained",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "trelerke-politics",
+      "contents": "well done and pointless",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "Zydrate Anatomy (CagedinSanity)",
+      "contents": "Nothing you haven't seen before.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "pc95",
+      "contents": "Exceeded Expectations",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "I'll take it from here.....",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "AudioFileZ",
+      "contents": "Well Paced Tension With Good Chemistry From Washington & Reynolds",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "DAn Nilsen",
+      "contents": "Safe house oh yeah.. Not so safe movie.",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "JoeB131",
+      "contents": "About 30 minutes of plot padded with an hour and a half of car chases",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "Ralphus2",
+      "contents": "Enjoyable Action Flick",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "culmo80",
+      "contents": "Predictable to the end",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Davis P",
+      "contents": "Boring and derivative",
+      "review_date": {
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "kennethraine",
+      "contents": "authentic",
+      "review_date": {
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "swefear",
+      "contents": "An overall good movie!",
+      "review_date": {
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "thesar-2",
+      "contents": "Bourne is Safe",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Muhammad Aayan Mirza",
+      "contents": "A satisfying film for a Bourne fan",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "theauntsavant",
+      "contents": "Denzel Defies Life and Death in Action-Packed Espionage Thriller",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "artyyeo",
+      "contents": "Superbly executed",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "thekarmicnomad",
+      "contents": "Wants to be more, but isn't",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "amahlanand",
+      "contents": "Not the Safest Bet",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "caseymoviemania",
+      "contents": "Casey's Movie Mania: SAFE HOUSE (2012) Review",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": " (or243)",
+      "contents": "Mindful of Action, Mindless of Everything Else",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "LordJiggy (thegriffstr@gmail.com)",
+      "contents": "Completely Average, with lazy writing",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "butterflywars",
+      "contents": "Utter Nonsense",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Fast-paced fun with two outstanding leading men performances!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "Denzel Washington delivers once again",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "caroeb",
+      "contents": "Meaningless entertainment",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "jacco59",
+      "contents": "Disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "jdkco",
+      "contents": "Safe House is a Safe Bet for a FAB movie",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "alirezasho",
+      "contents": "Disappointing and weak story",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "Robyn Nesbitt (nesfilmreviews)",
+      "contents": "Nothing new here, just keep moving along.",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "Zach Kingsbury",
+      "contents": "I thought this film had potential, turns out i was VERY wrong.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "david-sarkies",
+      "contents": "Found myself waiting for the movie to end.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "Jurgens van Eeden (jurgensve)",
+      "contents": "A Big Disappointment",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "samkan",
+      "contents": "Its 2012, And Movies Are Awful.........",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "TriathleteRetter",
+      "contents": "Could have been good",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "David Pereira Greditzer",
+      "contents": "A cheap imitation Bourne",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "filipeduarterusso",
+      "contents": "Below average action flick.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "GibszZZz",
+      "contents": "What a waste of talent...",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "Greg Smith",
+      "contents": "A fast-paced race against time featuring an experienced mentor and an up-and-comer.",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "MosHr",
+      "contents": "Denzel Bourne : Twice the shaky cam and very little of the style and wit",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "Engaging thriller",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Unoriginal, generic and boring even with the action scenes",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "good-decision",
+      "contents": "Watch if you like mindless shootouts",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "vostf (vik@noos.fr)",
+      "contents": "Nothing new, a dumb actioneer that has to reach an end somehow",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "giantpanther",
+      "contents": "Decent Movie, but a waste of some real Talent",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "inspectors71",
+      "contents": "I Never Done Seen a Spy Movie Before!",
+      "review_date": {
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "The_Silent_1",
+      "contents": "Better than Expected",
+      "review_date": {
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "NateWatchesCoolMovies",
+      "contents": "Nothing great, but well worth a watch",
+      "review_date": {
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "millerwade3",
+      "contents": "Criminally Underrated",
+      "review_date": {
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "jakkanadar",
+      "contents": "Not the greatest movie, but excellent!",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "cab-63591",
+      "contents": "Sissy Meltdown Shatters Tough Guy Veneer",
+      "review_date": {
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "juneebuggy",
+      "contents": "Entertaining, action filled with two great leads but also forgettable",
+      "review_date": {
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "msroz",
+      "contents": "CIA agent Ryan Reynolds tries to get ex-agent Denzel Washington to a safe location",
+      "review_date": {
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "eungjinpak",
+      "contents": "This is the best movie I have seen in a very, very long time",
+      "review_date": {
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Safe Bet on Washington.",
+      "review_date": {
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Adam Peters",
+      "contents": "Hit and miss direction, but still a halfway decent ride",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "bowmanblue",
+      "contents": "An action film by the numbers",
+      "review_date": {
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "nama chakravorty",
+      "contents": "Fast-Paced Fun!",
+      "review_date": {
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Dillon Harris",
+      "contents": "Stellar Action and Performances,however,it's Simply not that Compelling,",
+      "review_date": {
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "David Arnold",
+      "contents": "A Really Good Action Thriller",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "CowherPowerForever",
+      "contents": "Time's a-wasting. Tick tock, tick tock, tick tock, tick tock...",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Leofwine_draca",
+      "contents": "The usual action guff",
+      "review_date": {
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Tyler Kidwell",
+      "contents": "A Great Movie",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Matthew Luke Brady",
+      "contents": "Mediocre, forgettable movie.",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "CMTiago",
+      "contents": "High octane action that rarely lets you breathe",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "view_and_review",
+      "contents": "It's Denzel, Nuff Said",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "vtooms26",
+      "contents": "Surprising",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "citizen-caveman",
+      "contents": "Watchable but pretty unremarkable",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "g-bodyl",
+      "contents": "Fast-Moving, Entertaining Film!",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "montana666",
+      "contents": "Certainly very underrated! Great action thriller! (Spoilers)",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "HelenMary",
+      "contents": "doesn't let up the tension. Reynolds & Washington are firmly on the action hero map!",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "blanche-2",
+      "contents": "probably was best to see in a theater",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Tejas Nair",
+      "contents": "Same Old, Banal Story With One New, Unsurprising Feature. \u2666 56%",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "nickelreviews",
+      "contents": "Finally Visible Battle Scars",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "Rodrigo Amaro (rodrigo882008@hotmail.com)",
+      "contents": "Weary plot points and quite tiring, only saved by the cast and some moments.",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Ben Larson",
+      "contents": "Do you want to be the guy that lost Tobin Frost?",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "greg-kostrzewa87",
+      "contents": "I'll take it from here",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "arash sohrabi",
+      "contents": "Time's wasting. Tick tock, tick tock, tick tock, tick tock",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "CorumJI",
+      "contents": "Competent but unimpressive",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": " (HorrorFanForever)",
+      "contents": "A very entertaining movie! and Denzel Washington delivers!.",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "jtindahouse",
+      "contents": "Solid but lacks in originality",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "monkeyboy12121-414-225890",
+      "contents": "Generic action film?",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "jacquescracker",
+      "contents": "watchable Spy Hard film but very predictable",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "perkypops",
+      "contents": "Aspires to be Bourne but gets nowhere near.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Treyroo",
+      "contents": "You've seen it before, but if you liked it...",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "another double crossing movie",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "edwagreen",
+      "contents": "Safe House- Who's To Be Trusted? **1/2",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "moviegoer347",
+      "contents": "Not a Typical Action Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "djderka",
+      "contents": "Thin plot and mindless action...don't join CIA",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "richieandsam",
+      "contents": "Pretty Good",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "davideo-2",
+      "contents": "Decent thriller that even manages to be a little topical",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Nipun Fernando",
+      "contents": "Better Than Expected",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Tcarts76",
+      "contents": "If you are into action movies this is a Safe bet",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "julian-mumford",
+      "contents": "A worthy entry into a crowded genre",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "LeonLouisRicci",
+      "contents": "Time To Get Creative...Or Call Yourself A Hack",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Michael O'Keefe",
+      "contents": "Is anyone totally safe?",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "rzajac",
+      "contents": "Not \"mindless\"; the filmmakers know *exactly* what they're after",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "keli10",
+      "contents": "Great fast action flick ~ Denzel is superior Ryan goes to A list",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "slayerjmk95",
+      "contents": "A Great Action Thriller Tribute",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Daniel O'Sullivan",
+      "contents": "A 'popcorn flick' and nothing more",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "laurenk93",
+      "contents": "Safe House",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "JohnRayPeterson",
+      "contents": "Safe House, safe script; Action and Characters you want.",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "jamuckley",
+      "contents": "Safe House is a nonstop, action thriller about corruption",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Anything but safe",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "mosho89",
+      "contents": "Critics get a real job",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "SteveMierzejewski",
+      "contents": "Safe House arresting",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "MovieSonic",
+      "contents": "The only thing good about this film are the fight scenes...",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": " (webmaster@thehkneo.com)",
+      "contents": "HK Neo Reviews: Safe House (2012) \u0096 USA",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "athomed",
+      "contents": "We have a last minute reservation",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "rbferre",
+      "contents": "What a waste of good actors",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "Andrew  Waller",
+      "contents": "More of the Same from Denzel",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "A pleasant surprise",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "nachtgeest",
+      "contents": "No safe house here",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Chase thriller fails to realise full potential",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "kgmarra",
+      "contents": "Good acting, overdone theme",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "janner-2",
+      "contents": "Safe House review",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Denzel and Ryan anchor solid thriller",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "sausetron",
+      "contents": "I can't spoil this movie because I didn't finish it",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Bene Cumb",
+      "contents": "Thrilling to watch... No idea about background credibility",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "movieman_kev",
+      "contents": "Plays it too safe",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Bob-45",
+      "contents": "Did you hear the one about the wise old CIA agent and the rookie?",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Seven_secrets",
+      "contents": "Incredible predictable",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Movie Critic",
+      "contents": "A disgrace to Action/Espionage Genre",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "mozoloman",
+      "contents": "Safe House Review",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "WatchedAllMovies",
+      "contents": "Exciting to watch, but many plot holes",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "TheSquiss",
+      "contents": "Bang bang bang arrghh boom.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "capone666",
+      "contents": "Safe House",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "gradyharp",
+      "contents": "'People don't want the truth anymore, Matt. It's too messy. Keeps them up nights..'",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Stephanie Mingham",
+      "contents": "Safe House, more Propaganda?",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "Alex Vojacek",
+      "contents": "Hollywood, stop, please just stop doing movies like this",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "scottmannen1",
+      "contents": "Move over Jason Bourne",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "sonybacker",
+      "contents": "Watched it only that Denzel was in this movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "audifan1972",
+      "contents": "One of the best action movies of the year so far....",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Laakbaar",
+      "contents": "Massflames",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "tandrasmiklos",
+      "contents": "Staying loyal to the genre",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Marc Moser",
+      "contents": "entertaining and thrilling!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "chaz-28",
+      "contents": "Middle of the road action film draws superior cast but does not use their talents",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "rbursell",
+      "contents": "Great Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "catorrington",
+      "contents": "Contains VAGUE spoilers (no specifics). First time I've used my phone during for as long as I can remember.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "ticket_for_one",
+      "contents": "Safe as houses",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Brandon Blackwell",
+      "contents": "\"No One Is Safe\"",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "MC1-Bjornson",
+      "contents": "Huh ? ? ?",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "TypedbyTara",
+      "contents": "Not so \"Safe\" House",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "hussein_hbk",
+      "contents": "Denzel Washington.........",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Troye Dchgl",
+      "contents": "Delivered Thrills",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Mooviepedia",
+      "contents": "\"Excellent action scenes help overcome a weak script and make for an enjoyable spy thriller.\"",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "atwood1848",
+      "contents": "Bad big budget barf.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "tuvalmor",
+      "contents": "pretty much awful from start to finish",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "jasonbarker25",
+      "contents": "Great action flick!",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "speteman",
+      "contents": "An intense up-close and personal look at field operations in the CIA",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Johnny Utah",
+      "contents": "Lam\u00e9",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "vinnysboy",
+      "contents": "\"Safe House\" versus \"Easy Money\"??",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "Liked its action but the movie itself, not so much.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "pinkpooch27",
+      "contents": "More we are great the rest of you arn't from America.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Michael Tolman",
+      "contents": "Unempressed",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "Tss5078",
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Robert J. Maxwell (rmax304823@yahoo.com)",
+      "contents": "The Frost Identity",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "dusan-22",
+      "contents": "Denzel the great",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "scotty3787",
+      "contents": "Bourne...again.",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "JamesMitchell451",
+      "contents": "Dumb as hell but enjoyable nonetheless",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Amar Lakra",
+      "contents": "CIA v/s CIA",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "MovieNewsAndUpdates",
+      "contents": "A Safe Watch",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Andy Steel",
+      "contents": "A tad too long but worth a look...",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Dan Franzen (dfranzen70)",
+      "contents": "Another solid spy movie with top performances",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "GregClapton",
+      "contents": "The Sound Quality was AWFUL!",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "jake-law123",
+      "contents": "Bland Bourne Ripoff.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "lekgolah",
+      "contents": "Overlong, humourless, seen-it-before action.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "Safe House",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "troy-manatunga",
+      "contents": "To this critic it is nothing more than an average day at the movies.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Doha Film",
+      "contents": "Beautiful but lacks enough dimension",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "timandm",
+      "contents": "Technically it's a very good movie...but...",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Samandreas66",
+      "contents": "Decent action thriller B-movie",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "reviewer135",
+      "contents": "great acting in a poor script and poor direction",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Hitchcoc",
+      "contents": "I just never cared!",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "morrison-dylan-fan",
+      "contents": "No Church In The Wild.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "jack-marsden8",
+      "contents": "a fresh captivating thriller",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "morten-lek",
+      "contents": "A good movie",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "SnakesOnAnAfricanPlain",
+      "contents": "Safe House (2012)",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "TheUnknown837-1",
+      "contents": "I would rather sit through\u0097and modestly enjoy\u0097\"Safe House\" again than revisit the number of the really bad films that we've gotten in the last six months.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "contents": "A notch above the typical CIA action-thriller",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "predictable CSI thriller",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "ersinkdotcom",
+      "contents": "The perfect example of the ride being more exciting than the destination",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Blaise Michaels",
+      "contents": "Possibly the Best Mystery Movie of the Year!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": " (bob-rutzel-1)",
+      "contents": "Terrific Thriller",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Ketan Gupta",
+      "contents": "When you hear about a movie starring Denzel Washington , immediately one thing comes to the mind \u0096 \"this is gonna be entertaining as hell\".",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "virindra",
+      "contents": "Another political CIA movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Gryff Roberts",
+      "contents": "Washington and Reynolds, great team",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "stn1225-1",
+      "contents": "I think We've heard this story before.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "martinrobertson300482",
+      "contents": "Pretty good, i guess ....",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "thomas green",
+      "contents": "jury still out",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Anthony Hill",
+      "contents": "Clever action-packed thriller with a great turn from Reynolds",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "sanddragon939",
+      "contents": "Nothing spectacular...but a Safe Bet...",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "\"Safe\" Just Makes You Chafe!",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "arminazizian",
+      "contents": "Great acting, not an impressive storyline",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "contents": "I'll Take it from Here",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "Troy_Campbell",
+      "contents": "Great acting, solid action, grossly unoriginal story.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Ed-Shullivan",
+      "contents": "Smash..... Crackle.....Flop",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "craiglongoria",
+      "contents": "Incompetent directing",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "themusgrat",
+      "contents": "Good Action Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "samwamburi",
+      "contents": "Nice time passer...",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "keirbatchelor",
+      "contents": "Safe House is an action packed clever film with a great story line full of  twist's and turns.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Tim Ward",
+      "contents": "Pretty Decent Bourne Identity Lookalike",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Harriet Downey",
+      "contents": "Big Denzel!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "bkoganbing",
+      "contents": "Joined At the hip",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "dreamflix",
+      "contents": "Denzel is Bad as Good",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "A CIA Agent Comes of Age",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "phd_travel",
+      "contents": "NOT a must see.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "shounakg",
+      "contents": "Its Denzel and a bit of Reynolds!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Vladeks Obamagurovs",
+      "contents": "I'll Take It From Here",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "jwtrocks",
+      "contents": "Much Better Than Expected",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Twodude Review",
+      "contents": "a film Denzel Washington fans will love",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Umair Abdul",
+      "contents": "What was That...????",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "Andrew Marshall",
+      "contents": "Nothing new in Safe House",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "lg-paralegal",
+      "contents": "Good actors, beautiful colors, bad camera work.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "Totally Predictable!!!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "antoniotierno",
+      "contents": "resembling a Jason Bourne film",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Mike Stolyarov",
+      "contents": "A satisfying and engaging but purely entertaining crime thriller",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": " (alanatlondon@gmail.com)",
+      "contents": "Yet another Bourne-ish film",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "A very tense and exciting thriller that will keep you guessing. Like any Denzel movie this is a must see. Very good. I say B+",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "da-spencer-293-708858",
+      "contents": "Quick paced and action-filled",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Shawn Ankersen",
+      "contents": "Solid movie; better than Haywire.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "grafaelp",
+      "contents": "Direction made it work",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "edwbur",
+      "contents": "no one is safe from denzel",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "geodrake-71-627198",
+      "contents": "Above average concoction of car chases and gun fights.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "pterwey",
+      "contents": "Who doesn't love Denzel?!?",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Jens Wegar",
+      "contents": "If you like the Bourne series, you'll probably enjoy this",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "neverpay6",
+      "contents": "No spoilers her !",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "jorge_december",
+      "contents": "Good But Flawed, Not The Actors' Fault But The Script and Direction's",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film review: CIA corruption in action.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "PWNYCNY",
+      "contents": "Nonstop action",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "amalank",
+      "contents": "Met my expectations",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "marliaunica",
+      "contents": "Didn't let me down",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "CaptMTS",
+      "contents": "Safe House provides intense, non-stop action",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "contents": "Excellent action thriller high-octane flick a notch higher up than the usual genre bang-bang.  Washington & Reynolds in fine form.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "kdorsey321",
+      "contents": "No Safety Net",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "garethvk",
+      "contents": "Great Cast and premise but horrible camera work and tons of plot holes.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "GoneWithTheTwins",
+      "contents": "If it's been accomplished in another action movie, it's repeated in Safe House.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "judy",
+      "contents": "Not great but not bad",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "moviexclusive",
+      "contents": "The high-octane action it packs from start to finish promises a thrilling, adrenaline-pumping ride- but this is no Bourne despite its ambitions at being so",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "delightful-life",
+      "contents": "A Very Good Thriller",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "aiga",
+      "contents": "stylish & raw",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "DJAkin (Donjakin1988@gmail.com)",
+      "contents": "Denzel can do no wrong",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Keji Giwa",
+      "contents": "Thoroughly Entertaining With Believable Performances",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "tavm",
+      "contents": "Denzel Washington and Ryan Reynolds make an intriguing team in Safe House if you don't let the shaky cam bother you too much",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Athas lks",
+      "contents": "One of the Best",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "virginia",
+      "contents": "Great action on the run",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "cleptoboy2014",
+      "contents": "Great thriller, an absolute must-see!",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "austincanfield",
+      "contents": "Go see it. For the love of God.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Safe House",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Tiet Tiet",
+      "contents": "Pure Adrenaline",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "chrismsawin",
+      "contents": "Somewhat satisfying, but mediocre overall",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    }
+  ],
+  "release_month": "February",
   "genres": [
     "action",
     "crime",
     "mystery"
   ],
-  "rating": 6.8,
-  "rating_count": 172359,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 10,
-    "year": 2012,
-    "month": 2
-  },
-  "user_review_count": 277,
-  "rating_freq": {
-    "1": 1408,
-    "2": 757,
-    "3": 1649,
-    "4": 4050,
-    "5": 12752,
-    "6": 38143,
-    "7": 62859,
-    "8": 31880,
-    "9": 9767,
-    "10": 9094
-  },
-  "release_day": 10,
-  "votes_per_demo": {
-    "males": 132346,
-    "females_aged_30-44": 7697,
-    "aged_under_18": 151,
-    "non-us_users": 91124,
-    "males_aged_18-29": 53044,
-    "aged_18-29": 60740,
-    "males_aged_30-44": 60962,
-    "aged_45+": 14406,
-    "imdb_users": 172359,
-    "aged_30-44": 69487,
-    "us_users": 26151,
-    "females": 17922,
-    "females_aged_18-29": 7118,
-    "top_1000_voters": 558,
-    "males_aged_45+": 12161,
-    "females_under_18": 21,
-    "females_aged_45+": 2017,
-    "imdb_staff": 9,
-    "males_under_18": 127
-  },
-  "avg_rating_per_demo": {
-    "males": 6.8,
-    "females_aged_30-44": 6.7,
-    "aged_under_18": 6.8,
-    "non-us_users": 6.7,
-    "males_aged_18-29": 6.8,
-    "aged_18-29": 6.8,
-    "males_aged_30-44": 6.7,
-    "aged_45+": 6.8,
-    "imdb_users": 6.8,
-    "aged_30-44": 6.7,
-    "us_users": 6.8,
-    "females": 6.8,
-    "females_aged_18-29": 6.8,
-    "top_1000_voters": 6.0,
-    "males_aged_45+": 6.8,
-    "females_under_18": 7.0,
-    "females_aged_45+": 6.9,
-    "imdb_staff": 7.1,
-    "males_under_18": 6.8
-  },
-  "avg_screens": 1454.8461538461538,
-  "release_month": "February",
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 52,
-  "gross_income": 126149655,
-  "critic_review_count": 298,
-  "budget_currency": "$",
-  "release_year": 2012,
+  "opening_weekend_screens": 3119,
+  "name": "Safe House",
   "num_weekends": 13,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 11,
-    "year": 2012,
-    "month": 5
-  },
-  "duration": 115,
-  "budget": 85000000,
-  "max_screens": 3121
+  "release_day": 10,
+  "critic_review_count": 298
 }

@@ -1,92 +1,1955 @@
 {
-  "num_weekends": 9,
-  "duration": 91,
+  "budget": 35000000,
+  "opening_weekend_income": 6300000,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 19,
+    "__type__": "datetime.date",
+    "month": 10
+  },
+  "budget_currency": "$",
+  "avg_screens": 1018.3333333333334,
   "rating_freq": {
     "1": 917,
     "2": 797,
     "3": 1696,
     "4": 3697,
     "5": 9832,
-    "6": 25593,
-    "7": 32718,
-    "8": 13995,
+    "6": 25594,
+    "7": 32717,
+    "8": 13996,
     "9": 3989,
     "10": 4596
   },
-  "release_year": 2012,
-  "budget_currency": "$",
-  "rating": 6.5,
-  "release_day": 24,
-  "budget": 35000000,
-  "votes_per_demo": {
-    "us_users": 15962,
-    "imdb_users": 97830,
-    "aged_30-44": 38317,
-    "males": 73600,
-    "males_aged_18-29": 30605,
-    "top_1000_voters": 447,
-    "females_aged_30-44": 4486,
-    "imdb_staff": 13,
-    "females": 12303,
-    "females_aged_45+": 1007,
-    "females_under_18": 37,
-    "aged_under_18": 192,
-    "aged_45+": 7265,
-    "females_aged_18-29": 6023,
-    "non-us_users": 51662,
-    "males_aged_45+": 6118,
-    "males_under_18": 153,
-    "aged_18-29": 36986,
-    "males_aged_30-44": 33294
-  },
-  "metascore": 66,
-  "avg_rating_per_demo": {
-    "us_users": 6.5,
-    "imdb_users": 6.5,
-    "aged_30-44": 6.4,
-    "males": 6.5,
-    "males_aged_18-29": 6.6,
-    "top_1000_voters": 6.3,
-    "females_aged_30-44": 6.6,
-    "imdb_staff": 6.3,
-    "females": 6.7,
-    "females_aged_45+": 6.8,
-    "females_under_18": 7.3,
-    "aged_under_18": 6.9,
-    "aged_45+": 6.5,
-    "females_aged_18-29": 6.8,
-    "non-us_users": 6.5,
-    "males_aged_45+": 6.5,
-    "males_under_18": 6.9,
-    "aged_18-29": 6.7,
-    "males_aged_30-44": 6.4
-  },
-  "rating_count": 97830,
-  "critic_review_count": 250,
-  "opening_weekend_income_currency": "$",
-  "name": "Premium Rush",
-  "user_review_count": 180,
-  "avg_screens": 1018.3333333333334,
-  "release_month": "August",
-  "opening_weekend_date": {
-    "day": 24,
-    "month": 8,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "screens_by_weekend": [
+    2255,
+    2255,
+    2182,
+    1339,
+    567,
+    208,
+    77,
+    163,
+    119
+  ],
+  "rating_count": 97831,
+  "total_screens": 9165,
   "max_screens": 2255,
+  "duration": 91,
   "gross_income": 20275446,
+  "metascore": 66,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 447,
+    "imdb_users": 97831,
+    "us_users": 15961,
+    "aged_18-29": 36978,
+    "non-us_users": 51663,
+    "aged_45+": 7266,
+    "aged_30-44": 38326,
+    "males_aged_30-44": 33301,
+    "males_aged_18-29": 30600,
+    "males_aged_45+": 6119,
+    "aged_under_18": 192,
+    "imdb_staff": 13,
+    "males_under_18": 153,
+    "females_aged_30-44": 4488,
+    "females": 12301,
+    "females_under_18": 37,
+    "females_aged_45+": 1007,
+    "males": 73604,
+    "females_aged_18-29": 6020
+  },
+  "user_review_count": 180,
+  "rating": 6.5,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 6.3,
+    "imdb_users": 6.5,
+    "us_users": 6.5,
+    "aged_18-29": 6.7,
+    "non-us_users": 6.5,
+    "aged_45+": 6.5,
+    "aged_30-44": 6.4,
+    "males_aged_30-44": 6.4,
+    "males_aged_18-29": 6.6,
+    "males_aged_45+": 6.5,
+    "aged_under_18": 6.9,
+    "imdb_staff": 6.3,
+    "males_under_18": 6.9,
+    "females_aged_30-44": 6.6,
+    "females": 6.7,
+    "females_under_18": 7.3,
+    "females_aged_45+": 6.8,
+    "males": 6.5,
+    "females_aged_18-29": 6.8
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 24,
+    "__type__": "datetime.date",
+    "month": 8
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "james1844",
+      "contents": "A Cycling Riproaring Ride",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "patrickwigington",
+      "contents": "Life in the Bike Lane",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": " (themoviemark@themoviemark.com)",
+      "contents": "Scenery is on the menu, and Michael Shannon has a voracious appetite!",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "tbmforclasstsar",
+      "contents": "a sub-par action film with poor dialog, average acting, and lackluster stunts",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "MisterWhiplash",
+      "contents": "How to (possibly psychotically) navigate NYC streets - and Michael Shannon's gaze",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "zetes",
+      "contents": "Quite a good little action flick",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "clarkj-565-161336",
+      "contents": "Steel Bike --- No Brakes -- Don't Miss",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "tony_cochrane",
+      "contents": "I Want To RideMy  Bicycle",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Tom147",
+      "contents": "Premium Rush is a fast paced thrill ride",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "bennyhagen",
+      "contents": "Fun",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "BrokenBad737",
+      "contents": "Premium Slug(ish)...",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "stephensmith84",
+      "contents": "Perfectly acceptable chase movie",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Bene Cumb",
+      "contents": "Fast and furious... On bikes",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Terence (6000068@GMX.NET)",
+      "contents": "Love biking in a city",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "jeirin",
+      "contents": "wasn't worth the price of the discounted ticket",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "TrevorHickman",
+      "contents": "A 30 second youtube clip made into a 90 minute movie",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "LilyJayne",
+      "contents": "Simple action movie takes us along for the ride",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Thomas Connors Jr.",
+      "contents": "Premium Rush Blu-Review",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "James Farmer",
+      "contents": "Tense & Silly - Sadly It Gets Even More Silly",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "jaywensley2004",
+      "contents": "Bike messenger with a death wish seeks fulfillment.",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "TotonotinKansas",
+      "contents": "Flat tire",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "chicagopoetry",
+      "contents": "Makes No Sense At All",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "No need to rush out to see it but it's being pretty entertaining.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "davidjanuzbrown",
+      "contents": "Simply Awful",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "jdkco",
+      "contents": "Premium Predicable",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "Over Manipulated Tripe...",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "p-stepien",
+      "contents": "Adrenaline Rush",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "GonzoLubitsch",
+      "contents": "It rides as well as a four month dead horse.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "Dean MacGregor",
+      "contents": "One of the worst movies I've ever seen...",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "Another miss from David Koepp",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "napierslogs",
+      "contents": "The trip may not be new or intense but it is entertaining",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "RockyPhillips",
+      "contents": "Not as big as other action movies but still thrilling",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "cadillac20",
+      "contents": "A Fun Thrill Ride",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "kevinsterne",
+      "contents": "Premium Rush fails to deliver",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "leiendeckera",
+      "contents": "Something Went Terribly Wrong",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "FilmStallion",
+      "contents": "Premium Rush...2 out of 4 Skittles",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "campolmifilippo",
+      "contents": "Bike Philosophy",
+      "review_date": {
+        "year": 2017,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "G Thomas Boston",
+      "contents": "Freewheeling maniacs!",
+      "review_date": {
+        "year": 2017,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "Forever Spn",
+      "contents": "Simply Perfect",
+      "review_date": {
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "istvandragos",
+      "contents": "90 minutes in which you'll burn a lot of calories",
+      "review_date": {
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "kingofballoons",
+      "contents": "Is it weird that I enjoyed this film?",
+      "review_date": {
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "A Total Rush.",
+      "review_date": {
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "grantss",
+      "contents": "Interesting movie",
+      "review_date": {
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "ConsistentlyFalconer",
+      "contents": "Silly 90s-style fun",
+      "review_date": {
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Ole Sandbaek Joergensen",
+      "contents": "Premium film",
+      "review_date": {
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "nukfan",
+      "contents": "Lots of fun to watch",
+      "review_date": {
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "nama chakravorty",
+      "contents": "A Thrill Ride!",
+      "review_date": {
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Steve Van Kooten",
+      "contents": "Exactly What It Should Be; Intense, Fast, & Full of Action",
+      "review_date": {
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "brchthethird",
+      "contents": "Gives an adrenaline shot to a rather thin concept",
+      "review_date": {
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "juneebuggy",
+      "contents": "Relentless, well done chase movie",
+      "review_date": {
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "David Arnold",
+      "contents": "A Fast Roller-coaster Of A Ride",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "contents": "Wile E. Courier, super genius",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "bike chase through New York",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "shreekara-1995",
+      "contents": "Perfect Cyclist Movie",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "mattkratz (themattk@hotmail.com)",
+      "contents": "terrific",
+      "review_date": {
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "EmmaeBabineaux",
+      "contents": "Terrible, Sad Day For JGL Fans",
+      "review_date": {
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "callanvass",
+      "contents": "Very enjoyable",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "thisisalbundy",
+      "contents": "Premium Rush Is Premium Entertainment",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "ShelbyTMItchell",
+      "contents": "Underrated But Great!",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "Floated2",
+      "contents": "Adrenaline Rush Bike Thriller",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Akis Kalogerou",
+      "contents": "Brilliant idea and an uncommon movie",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Jerry Garcia",
+      "contents": "Not What I Was Expecting",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Exciting Action on NYC Streets",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Prismark10",
+      "contents": "On your bike",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Scarecrow-88",
+      "contents": "Premium Rush",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "albrechtcm",
+      "contents": "Plenty of Action",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Muti R Sufi (mutisufi)",
+      "contents": "A legitimately entertaining, jump out of your seat film when you're not expecting it",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "gradyharp",
+      "contents": "'Just runnin' reds and killin' peds.'",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "Brakes are death...",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "For all the negativity, I kind of liked it",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "edwagreen",
+      "contents": "Don't Hurry to Premium Rush *12",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "rr30",
+      "contents": "Tom and Jerry might have better logic!",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "vostf (vik@noos.fr)",
+      "contents": "Good casting barely lifts this unspectacular movie off the ground",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Tom Wilson",
+      "contents": "Cycling doesn't get any tougher than this!",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Umer Tahir",
+      "contents": "Bikers United",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "griffolyon12",
+      "contents": "A Fun Thrill Ride Throuh New York",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "JohnRayPeterson",
+      "contents": "A really enjoyable movie",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "hellraiser7",
+      "contents": "Up to Speed",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "Faisal Khatib",
+      "contents": "It reminds us that good films can be made out of a simple concept.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Ganesh Subramanian",
+      "contents": "No gears, no brakes and its awesome!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "kosie42",
+      "contents": "Interesting premise, very good action choreography",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "AudioFileZ",
+      "contents": "2-Wheel Adrenaline",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "guy-nicholas",
+      "contents": "A thrilling action adventure!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "reuben-18",
+      "contents": "Had potential.",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "TheSquiss",
+      "contents": "If you like cycling watch Team GB dominate the 2012 Olympics or watch the Lance Armstrong circus.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "tomberlin55",
+      "contents": "Criminals are Heroes",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Erin Dumont",
+      "contents": "Predictable",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Scott LeBrun (Hey_Sweden)",
+      "contents": "Entertaining from start to finish.",
+      "review_date": {
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "TheMarwood",
+      "contents": "Bike messenger in a B picture",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "bowmanblue",
+      "contents": "The most corny popcorn movie ever made",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Sherazade",
+      "contents": "Good but could have been better.",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Roland Jakobsson (rolandddd)",
+      "contents": "Fast-paced well-crafted action",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Ketan Gupta",
+      "contents": "Average ......",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "williemajeska7",
+      "contents": "A Compelling Bicycle Film With \"No Brakes\"",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Fast & ride-cle",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Shaun David Mark O'Flaherty",
+      "contents": "Simply Awful!",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "TxMike",
+      "contents": "Quite entertaining movie, weaves a mystery into NYC bicycle messengers.",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": " (bob-rutzel-1)",
+      "contents": "Great chase movie",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Darko Bogojevic",
+      "contents": "Only for adrenalin craving bicycle addicts!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Tcarts76",
+      "contents": "Quicksilver 2.0",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Nikhil Taneja",
+      "contents": "The Fast and Furious of Bikes",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "I B",
+      "contents": "A formulaic action film with exciting chases and good performances.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Dan Franzen (dfranzen70)",
+      "contents": "Fast and mildly agitated",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "contents": "Fixed Gear, No Brakes, Steel Frame",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Sort of like 'GLEAMING THE CUBE' with bicycles instead of skateboards!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "jadepietro",
+      "contents": "Full Speed Ahead",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "mjs0075",
+      "contents": "A faced paced bicycle messenger movie set in Manhattan",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Rebel_With_A_Cause_94",
+      "contents": "A Flawed, But Fun Action Flick",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Fabletripps",
+      "contents": "Triple Rush is as real as it gets.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "james-t-sheridan",
+      "contents": "Phelps, Lochte, Bolt, Fraser-Pryce, Manzano, and Joseph Gordon-Levitt?",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "dalydj-918-255175",
+      "contents": "Premium Rush is a film about bike messengers but is not as fast as the moving wheels.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "mickran",
+      "contents": "preposterous",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "linkdan",
+      "contents": "One of those horrible things you buy for kids and they watch over and over while you go nuts",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "Falkkon Glaice",
+      "contents": "Premium Fail",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "kevrhon-1",
+      "contents": "Recommended Only for Joseph Gordon-Levitt's Biggest Fans",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Andy Steel",
+      "contents": "Fast paced but fails to hold momentum...",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "dumbit",
+      "contents": "A must for city cyclist",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "parmesh bugalia",
+      "contents": "Entertaining...",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "A very exciting and tense movie about a bike messenger. I know what your thinking but its worth seeing. I liked it. I say B+",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "thetonystabile",
+      "contents": "Not much of a rush, but still entertaining.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "phd_travel",
+      "contents": "Original",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Lloyd Bayer",
+      "contents": "Burn some rubber!!",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "moross31899",
+      "contents": "Ending the Summer.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "williampedro3",
+      "contents": "Better Than Expected",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "getyourdander",
+      "contents": "Do Not Try This In New York",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "ritera1",
+      "contents": "Original Elements",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Tss5078",
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "JockStein",
+      "contents": "Well Worth A Watch !",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Schuriken",
+      "contents": "The Long Road Home",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "LeonLouisRicci",
+      "contents": "90 Minute Unfunny Cartoon",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "contents": "Basic story padded with fresh, fun bike chases",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "shane08-552-829654",
+      "contents": "Not much to see here",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Alec ? (alec13@cox.net)",
+      "contents": "Best  movie of  2012",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "contents": "Premium Rush (2012) - Think of \"Fast and the Furious\"...Only with Bikes!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "ryansassy1",
+      "contents": "A highly enjoyable thrill ride on a bike? Yes!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "\"Runnin' reds and killin' peds\"",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "thefilmdiscussion .com",
+      "contents": "Energetic and zany acting ensure it's a rush, but it's not quite premium",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "ng200711",
+      "contents": "Meh",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "rivertam26",
+      "contents": "Late summer Rush",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Catt Jones (cattjones@chixchatonfilm.com)",
+      "contents": "Peddle On!",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "bethdixon02",
+      "contents": "Just horrible!",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "Instantly Forgettable",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "stnal2007",
+      "contents": "Watch the movie, then read the 1 star reviews here",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "dgefroh",
+      "contents": "Premium rush runs totally out of gas",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "thesar-2",
+      "contents": "Inferior Rush Hour",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "D Vee",
+      "contents": "Like Uncertainty(also with Gordon-Levitt), but with bikes and envelopes instead of pregos and cells.",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "yunusitboss",
+      "contents": "Premium Rush (U/A) English ------my Rating : 3/5 stars WATCHABLE",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "devesh pant",
+      "contents": "same story with new angle",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "dushyant chaturvedi",
+      "contents": "Enjoyable",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "The need for speed...On bicycles",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Hugely enjoyable popcorn movie",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Matt_Layden",
+      "contents": "Vantage Point meets Next.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "LapKit",
+      "contents": "Bike riding fun without \"break\"",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "rhhdvh",
+      "contents": "Strap yourself in and go for a ride.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Premium Rush",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "infodaddy",
+      "contents": "Excellent not great",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "patsworld",
+      "contents": "Premium Rush Is A Complete Adrenalin Rush",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "abisio",
+      "contents": "Simple the best action movie of the year",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "Now This is an Action Film",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "carrot_butter",
+      "contents": "Pure Fun",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "moviewizguy",
+      "contents": "Fun, but Flawed",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "missismiggins",
+      "contents": "Call Me A Cynic?",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "misho1988",
+      "contents": "Fun Action Flick",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "GoneWithTheTwins",
+      "contents": "The goofy disposition imparted on dodging pedestrians, bolting through traffic, and engaging in prohibited vehicular maneuvers is recurrently entertaining.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Bri Clark",
+      "contents": "Date Night Diva and Beau's Thoughts",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "We Watched A Movie",
+      "contents": "A waste of talent. Unless your into that kind of thing.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Jeff Lee",
+      "contents": "There's no need to Rush to see this flick. Action is enthralling but plot is confusing.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    }
+  ],
+  "release_month": "August",
   "genres": [
     "action",
     "crime",
     "thriller"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 19,
-    "month": 10,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 6300000
+  "opening_weekend_screens": 2255,
+  "name": "Premium Rush",
+  "num_weekends": 9,
+  "release_day": 24,
+  "critic_review_count": 250
 }

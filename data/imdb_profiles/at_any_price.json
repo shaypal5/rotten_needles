@@ -1,91 +1,485 @@
 {
-  "critic_review_count": 96,
-  "year": 2012,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 7,
-    "day": 26
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 4,
-    "day": 26
-  },
-  "metascore": 61,
-  "max_screens": 81,
-  "duration": 105,
-  "rating_count": 5860,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 14,
+  "release_day": null,
   "avg_rating_per_demo": {
+    "aged_45+": 5.8,
+    "top_1000_voters": 5.2,
+    "males_under_18": 7.3,
+    "imdb_staff": 10.0,
+    "males_aged_18-29": 5.9,
+    "imdb_users": 5.7,
+    "males_aged_45+": 5.7,
+    "aged_18-29": 5.8,
+    "us_users": 5.9,
+    "females_aged_30-44": 5.3,
+    "males": 5.7,
+    "females": 5.5,
+    "females_aged_45+": 5.9,
     "non-us_users": 5.6,
     "females_aged_18-29": 5.5,
-    "females": 5.5,
-    "aged_45+": 5.8,
     "females_under_18": 6.6,
-    "imdb_users": 5.7,
-    "imdb_staff": 10.0,
-    "females_aged_30-44": 5.3,
-    "aged_under_18": 7.1,
-    "males_aged_30-44": 5.6,
-    "top_1000_voters": 5.2,
     "aged_30-44": 5.6,
-    "males_aged_18-29": 5.9,
-    "males": 5.7,
-    "females_aged_45+": 5.9,
-    "males_under_18": 7.3,
-    "us_users": 5.9,
-    "males_aged_45+": 5.7,
-    "aged_18-29": 5.8
+    "aged_under_18": 7.1,
+    "males_aged_30-44": 5.6
   },
-  "user_review_count": 37,
-  "rating_freq": {
-    "1": 224,
-    "2": 133,
-    "3": 286,
-    "4": 615,
-    "5": 1266,
-    "6": 1491,
-    "7": 891,
-    "8": 398,
-    "9": 144,
-    "10": 412
+  "closing_date": {
+    "month": 7,
+    "year": 2013,
+    "day": 26,
+    "__type__": "datetime.date"
+  },
+  "metascore": 61,
+  "num_weekends": 14,
+  "rating_count": 5865,
+  "gross_income": 379791,
+  "max_screens": 81,
+  "opening_weekend_screens": 4,
+  "screens_by_weekend": [
+    4,
+    18,
+    50,
+    38,
+    81,
+    45,
+    18,
+    5,
+    5,
+    5,
+    7,
+    6,
+    4,
+    4
+  ],
+  "opening_weekend_income": 16095,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Less About a Payoff; More a Thoughtful Study About American Values",
+      "score": 9,
+      "user": "Movie-Jay",
+      "review_date": {
+        "month": 9,
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "unbalanced unfocused script sinks it",
+      "score": 5,
+      "user": "HEFILM",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "At Any Price \u0097 An agrarian story with tragedy",
+      "score": 6,
+      "user": "Avid Climber",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quaid shines along with Efron...",
+      "score": 7,
+      "user": "Clayton Davis (Claytondavis@awardscircuit.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intense Drama by Bahrani",
+      "score": 8,
+      "user": "Larry Silverstein",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's Efron that continues to surprise me!",
+      "score": 7,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Touching and emotional drama of life and moral reasoning it proves that family last.",
+      "score": 8,
+      "user": "Danny Blankenship",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A perfect example of a lesser known movie being better then the studio ones. A true must see. I highly recommend. I say A-.",
+      "score": 9,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Dark Reflection on the American Dream on the Family Farm",
+      "score": 9,
+      "user": "JustCuriosity",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So you wanna make a deal?",
+      "score": 8,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dopey melodrama in Big Film Art clothing",
+      "score": 4,
+      "user": "buff-29",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "better than IMDb rating indicates imo",
+      "score": 7,
+      "user": "mdixon",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A small character study that doesn't lead to anything as interesting as it should",
+      "score": 6,
+      "user": "napierslogs",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not much to enjoy or appreciate",
+      "score": 3,
+      "user": "Think_Again",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shitty movie!",
+      "score": 1,
+      "user": "wdia1948",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst movie I have EVER seen",
+      "score": 1,
+      "user": "pcpersons2",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Am I a happy man? How can I not be?'",
+      "score": 3,
+      "user": "gradyharp",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everyday family drama! 3/10",
+      "score": 3,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sons of the Soil.",
+      "score": 6,
+      "user": "Robert J. Maxwell (rmax304823@yahoo.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Implausible and Far-fetched",
+      "score": 1,
+      "user": "mawdawg73",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Typical drama",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Couldn't get past the 25 minute mark - DULL",
+      "score": 1,
+      "user": "townnfarmgirl",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hollywood misses the heartland again",
+      "score": 1,
+      "user": "BigJohnPilgrim",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meet the Wipples, dysfunction on the inside, but all business on the outside.",
+      "score": 7,
+      "user": "Jesse Boland",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big Noir Farming Drama",
+      "score": 8,
+      "user": "jcnsoflorida",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Be aware of what you are about to see",
+      "score": 5,
+      "user": "carlo-mar-ll",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't bother.",
+      "score": 1,
+      "user": "alicelouiseclements",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as described better than described",
+      "score": 10,
+      "user": " (imdb-18776)",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tighten Up",
+      "score": 6,
+      "user": "valis1949",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Starts with a bang but ends with a fizzle",
+      "score": 4,
+      "user": "rc96",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Possibly the worst movie I've seen... ever!",
+      "score": 1,
+      "user": "bradbender",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "worest movie ever",
+      "score": 1,
+      "user": "feras_shabib",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent effort",
+      "score": 7,
+      "user": "VegaBond SaBBiR",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chix Chat on Film Review: Father and son bond.",
+      "score": 6,
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 105,
+  "votes_per_demo": {
+    "aged_45+": 876,
+    "top_1000_voters": 144,
+    "males_under_18": 6,
+    "imdb_staff": 1,
+    "males_aged_18-29": 1138,
+    "imdb_users": 5865,
+    "males_aged_45+": 707,
+    "aged_18-29": 1960,
+    "us_users": 1136,
+    "females_aged_30-44": 452,
+    "males": 3510,
+    "females": 1511,
+    "females_aged_45+": 157,
+    "non-us_users": 2825,
+    "females_aged_18-29": 791,
+    "females_under_18": 11,
+    "aged_30-44": 1986,
+    "aged_under_18": 17,
+    "males_aged_30-44": 1505
   },
   "genres": [
     "drama",
     "thriller"
   ],
-  "budget": null,
-  "rating": 5.7,
-  "name": "At Any Price",
-  "opening_weekend_income": 16095,
-  "avg_screens": 20.714285714285715,
-  "gross_income": 379791,
-  "votes_per_demo": {
-    "non-us_users": 2822,
-    "females_aged_18-29": 791,
-    "females": 1511,
-    "aged_45+": 873,
-    "females_under_18": 11,
-    "imdb_users": 5860,
-    "imdb_staff": 1,
-    "females_aged_30-44": 452,
-    "aged_under_18": 17,
-    "males_aged_30-44": 1502,
-    "top_1000_voters": 144,
-    "aged_30-44": 1983,
-    "males_aged_18-29": 1137,
-    "males": 3503,
-    "females_aged_45+": 157,
-    "males_under_18": 6,
-    "us_users": 1135,
-    "males_aged_45+": 704,
-    "aged_18-29": 1959
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 224,
+    "2": 133,
+    "3": 287,
+    "4": 615,
+    "5": 1268,
+    "6": 1493,
+    "7": 891,
+    "8": 398,
+    "9": 144,
+    "10": 412
   },
-  "release_year": null,
+  "release_month": null,
+  "budget": null,
   "budget_currency": null,
-  "release_day": null
+  "total_screens": 290,
+  "year": 2012,
+  "rating": 5.7,
+  "critic_review_count": 96,
+  "opening_weekend_date": {
+    "month": 4,
+    "year": 2013,
+    "day": 26,
+    "__type__": "datetime.date"
+  },
+  "name": "At Any Price",
+  "user_review_count": 37,
+  "avg_screens": 20.714285714285715
 }

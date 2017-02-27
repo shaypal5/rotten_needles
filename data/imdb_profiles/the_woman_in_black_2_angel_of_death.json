@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 1,
-    "year": 2015,
-    "day": 2,
-    "__type__": "datetime.date"
+  "release_day": 2,
+  "avg_rating_per_demo": {
+    "aged_45+": 4.8,
+    "top_1000_voters": 4.5,
+    "males_under_18": 5.6,
+    "imdb_staff": 4.0,
+    "males_aged_18-29": 4.9,
+    "imdb_users": 4.9,
+    "males_aged_45+": 4.8,
+    "aged_18-29": 5.0,
+    "us_users": 4.7,
+    "females_aged_30-44": 4.9,
+    "males": 4.8,
+    "females": 5.0,
+    "females_aged_45+": 5.1,
+    "non-us_users": 4.8,
+    "females_aged_18-29": 5.1,
+    "females_under_18": 6.4,
+    "aged_30-44": 4.7,
+    "aged_under_18": 5.8,
+    "males_aged_30-44": 4.7
   },
   "closing_date": {
     "month": 3,
@@ -11,82 +27,1256 @@
     "day": 13,
     "__type__": "datetime.date"
   },
-  "rating": 4.9,
-  "num_weekends": 7,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 1071,
-    "2": 1112,
-    "3": 2027,
-    "4": 3626,
-    "5": 5042,
-    "6": 3887,
-    "7": 2075,
-    "8": 874,
-    "9": 357,
-    "10": 943
-  },
-  "avg_screens": 479.57142857142856,
-  "budget": 15000000,
-  "budget_currency": "$",
-  "release_day": 2,
   "metascore": 42,
+  "num_weekends": 7,
+  "rating_count": 21030,
+  "gross_income": 26496583,
+  "max_screens": 2602,
+  "opening_weekend_screens": 2602,
+  "screens_by_weekend": [
+    2602,
+    510,
+    88,
+    74,
+    35,
+    16,
+    32
+  ],
+  "opening_weekend_income": 15027415,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Crap scares, crap lighting, crap film.",
+      "score": 1,
+      "user": "egankim",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another triumph for Dark-O-Vision . . .",
+      "score": 5,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not scary, but interesting",
+      "score": 9,
+      "user": "Anna Marie",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than you've Heard",
+      "score": 7,
+      "user": "slbbooksmusicfilm",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Please don't waste your time or money on this!!!!",
+      "score": 1,
+      "user": "hell-cat-1",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Genuinely Spooky",
+      "score": 8,
+      "user": "Tony Barton (mr.abarton@hotmail.co.uk)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As with the first film (Hammer, not BBC) the star was the set designs.",
+      "score": 7,
+      "user": "djgrnfrs",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "predictable but good film",
+      "score": 7,
+      "user": "Kmb-www-206-380054",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Woman in Black 2: Angel of Death\" is TERRIBLE, TERRIBLE, TERRIBLE. If you want to see me rant on, then read on.",
+      "score": 2,
+      "user": "Barney Weston",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Painfully dull, which is the worst crime a movie can commit (in my opinion)!",
+      "score": 5,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a good jumpy sequel.",
+      "score": 8,
+      "user": "thepunisher69-201-61003",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The most uninspiring horror in years.",
+      "score": 2,
+      "user": "KD-Lasso",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better-than-expected but unnecessary sequel",
+      "score": 7,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Boring",
+      "score": 2,
+      "user": "xdarkxcondor",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "DON'T spend your money on this",
+      "score": 1,
+      "user": "ccchevydude",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A sequel that doesn't quite live up to the terrifying & unpredictable original.",
+      "score": 7,
+      "user": "Anurag-Shetty",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Spine Tingling Sequel",
+      "score": 7,
+      "user": "Andrew Appleby",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely disappointing",
+      "score": 2,
+      "user": " (mhmunim-1)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very entertained My wife was terrified I've seen much worse",
+      "score": 7,
+      "user": "rowingboy",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yawn & spoiler",
+      "score": 5,
+      "user": "amazon-171-436558",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Woman In Black 2 will be to horror what the \"transformers\" series is to action movies.",
+      "score": 1,
+      "user": "jasonkmiller",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Movie You've Already Seen",
+      "score": 6,
+      "user": "Mike Cloud",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good but lacking a vital part",
+      "score": 6,
+      "user": "eastburnfitness",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth watching for its visual and cast but don't expecting much of a smart or effective scare here // instagram: moviesmaniax",
+      "score": 7,
+      "user": "moviesmaniax",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great sequel and a great Ghost story",
+      "score": 9,
+      "user": "jeffreyhillen-364-945381",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "MOVIE REVIEW: The Woman in Black: Angel of Death",
+      "score": 8,
+      "user": "Brandon Stephens",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "un-sure of the words to say really",
+      "score": 6,
+      "user": "xsophietaylorx",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enervating Horror",
+      "score": 3,
+      "user": "Mek Torres",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautifully made, short on scares",
+      "score": 7,
+      "user": "Paul Evans",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Won't Someone Think of the Children...?",
+      "score": 6,
+      "user": "dangent280",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just a bad horror movie as always",
+      "score": 3,
+      "user": "Thrasos Koltoukis",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A house of worn out antics.",
+      "score": 6,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you see the Woman in Black....",
+      "score": 5,
+      "user": "bob-the-movie-man",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cheaply made, wasted opportunity",
+      "score": 4,
+      "user": "OmegaWolf747",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very, VERY slow but well done, retro Hammer Ghost Story...  Rewatchability: Moderate  Blu-ray: Good  A:9  V:8",
+      "score": 6,
+      "user": "lathe-of-heaven",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You've got to get the mood right. Then you'll enjoy it",
+      "score": 8,
+      "user": "captainbeecher",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Amazing Original Dark Sequel",
+      "score": 9,
+      "user": "ChrisBlackEye",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "About What a Sequel Usually is",
+      "score": 5,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Woman In Black 2\" ignores almost everything that made the first film successful.",
+      "score": 1,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An unnecessary add-on to a story that really needed no continuation.",
+      "score": 5,
+      "user": "ersinkdotcom",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing Sequel",
+      "score": 5,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too dark, too derivative, and too cheap",
+      "score": 3,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poor film",
+      "score": 1,
+      "user": "lfc-89182",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Has NOTHING to do with the original",
+      "score": 1,
+      "user": "krycek19",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that I didn't think needed a sequel. If you liked the first one you will like this one as well.",
+      "score": 5,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A predictable but well made scare fest",
+      "score": 7,
+      "user": "s3276169",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow and steady (scares)",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better,Scarier and creepier than the first",
+      "score": 8,
+      "user": "SnowLB53",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All jump scares",
+      "score": 2,
+      "user": "Cody",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "About as Scary as a PG-13 Sundayschool Potluck Dinner",
+      "score": 2,
+      "user": "Monsieur_Lower_Intestine",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing sequel",
+      "score": 3,
+      "user": "wnjbond-1",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Where did you get that coat from",
+      "score": 3,
+      "user": "Olly Jones",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the decline of Hammer",
+      "score": 5,
+      "user": "trashgang",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Film Is So Dark Its Hard To See Whats Happening",
+      "score": 6,
+      "user": "howardshughes",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As bad as the first one",
+      "score": 4,
+      "user": "debs-09253",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Very Sucky Sequel",
+      "score": 3,
+      "user": "kalliades",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hammer Doing What It Does Best!",
+      "score": 7,
+      "user": "michaelant555",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horror",
+      "score": 2,
+      "user": "R. Scott Howes",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not entirely bad, just not original anymore",
+      "score": 5,
+      "user": "breakdownthatfilm-blogspot-com",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Loved It",
+      "score": 9,
+      "user": "byson5186",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This won't scare anybody.",
+      "score": 2,
+      "user": "metalrage666",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "very flat",
+      "score": 4,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Great Improvement",
+      "score": 5,
+      "user": "happy_hangman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Woman In Black: Angel Of Death",
+      "score": 5,
+      "user": "a_baron",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Production strengths decimated by the silly premise",
+      "score": 3,
+      "user": "D H",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Genuinely scary film, especially for horror newbies",
+      "score": 8,
+      "user": "Wilhelmina Murray",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better than the vote score suggests",
+      "score": 7,
+      "user": "bullpen_1",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strong atmosphere, conventional execution",
+      "score": 4,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Woman in Black II makes a great sequel!",
+      "score": 7,
+      "user": "OlieDaOwl",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More Of The Same",
+      "score": 6,
+      "user": "Theo Robertson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch it!! (Hardly any spoilers)",
+      "score": 10,
+      "user": "prettyperfect149",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The first blatant cash in of the year is......",
+      "score": 2,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Eel Marsh Standout",
+      "score": 2,
+      "user": "karliwd1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Soooo bad, enough with all the fake praise.",
+      "score": 1,
+      "user": "orod-8",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is not a horror film",
+      "score": 7,
+      "user": "thekarmicnomad",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not As Good As The Original.",
+      "score": 4,
+      "user": "2fresh 2clean",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just As Slow As Its Below Average Prequel",
+      "score": 4,
+      "user": "David Arnold",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rubbish!",
+      "score": 2,
+      "user": "shelley Mcmanis",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring, Underdeveloped, Not Scary",
+      "score": 3,
+      "user": "White Zombie",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "4 -3",
+      "score": 3,
+      "user": "Bob An",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very poor sequel",
+      "score": 5,
+      "user": "851222",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An uninspiring, clich\u00e9d horror, littered with unnecessary jump scares.",
+      "score": 2,
+      "user": "annie-987-514477",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We went in with low expectations and still left disappointed.",
+      "score": 2,
+      "user": "omwebster",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unfortunately given the wrong genre",
+      "score": 5,
+      "user": "beauwolsky",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film is terrible...Just terrible...",
+      "score": 2,
+      "user": "Francis cud",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If Liked It's Predecessor You'll Be Disappointed, If You Didn't Like It's Predecessor You'll Be Disappointed",
+      "score": 4,
+      "user": "Josh Murphy",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "bad bad boring film",
+      "score": 1,
+      "user": "wasimwazir",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "long drawn out boring",
+      "score": 2,
+      "user": "mikeismac",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Film in Black",
+      "score": 3,
+      "user": "Dandy_Desmond",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 4,
+      "user": "capone666",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as good as the first",
+      "score": 1,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gothic horror with no suspense, mood or ambiance - dreadful sequel",
+      "score": 4,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sparse chills and a limp third act",
+      "score": 4,
+      "user": "Chris Twiggy Rogers",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What Is The Point Of This Unnecessary Sequel It Is Just Techincally Advanced",
+      "score": 3,
+      "user": "M MALIK",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No where as good as the first",
+      "score": 3,
+      "user": "ange1 cloud",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No Comparison to the First one",
+      "score": 1,
+      "user": "markhaazen",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing",
+      "score": 3,
+      "user": "Andres Salama",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cash Grab of a Squeal",
+      "score": 4,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best. Horror. Movie. Ever. Enough said.",
+      "score": 10,
+      "user": "jkavi2804",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Utter failure in most aspects - Big Disappointment",
+      "score": 2,
+      "user": "demetrius11",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another terrible excuse for a horror film, starring - jump scares",
+      "score": 4,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jumpscares! Lots of 'em!",
+      "score": 4,
+      "user": "damoviekid101",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The same haunted house",
+      "score": 4,
+      "user": "tainted_perfection",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All the good bits are in the trailer any way...",
+      "score": 4,
+      "user": "sketty-2",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The title should be ' hello '",
+      "score": 4,
+      "user": "arymansapru1",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Expects jump-in-your-face moments to carry it",
+      "score": 3,
+      "user": "loveagoodstory",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It'll Probably Actually Make Money",
+      "score": 4,
+      "user": "RichardSRussell-1",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 98,
+  "votes_per_demo": {
+    "aged_45+": 1639,
+    "top_1000_voters": 220,
+    "males_under_18": 104,
+    "imdb_staff": 1,
+    "males_aged_18-29": 5516,
+    "imdb_users": 21030,
+    "males_aged_45+": 1330,
+    "aged_18-29": 8123,
+    "us_users": 2683,
+    "females_aged_30-44": 1276,
+    "males": 12820,
+    "females": 4427,
+    "females_aged_45+": 280,
+    "non-us_users": 9680,
+    "females_aged_18-29": 2513,
+    "females_under_18": 48,
+    "aged_30-44": 6365,
+    "aged_under_18": 153,
+    "males_aged_30-44": 5008
+  },
   "genres": [
     "drama",
     "horror",
     "thriller"
   ],
-  "release_month": "January",
-  "avg_rating_per_demo": {
-    "aged_45+": 4.9,
-    "aged_18-29": 5.0,
-    "aged_30-44": 4.7,
-    "females": 5.0,
-    "top_1000_voters": 4.5,
-    "non-us_users": 4.8,
-    "females_under_18": 6.4,
-    "males_aged_30-44": 4.7,
-    "us_users": 4.7,
-    "imdb_users": 4.9,
-    "imdb_staff": 4.0,
-    "males_under_18": 5.6,
-    "females_aged_18-29": 5.1,
-    "males_aged_45+": 4.8,
-    "females_aged_30-44": 4.9,
-    "males": 4.8,
-    "males_aged_18-29": 4.9,
-    "females_aged_45+": 5.1,
-    "aged_under_18": 5.8
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2014,
-  "name": "The Woman in Black 2: Angel of Death",
-  "gross_income": 26496583,
-  "user_review_count": 112,
-  "duration": 98,
-  "max_screens": 2602,
-  "votes_per_demo": {
-    "aged_45+": 1637,
-    "aged_18-29": 8117,
-    "aged_30-44": 6360,
-    "females": 4423,
-    "top_1000_voters": 220,
-    "non-us_users": 9676,
-    "females_under_18": 49,
-    "males_aged_30-44": 5004,
-    "us_users": 2676,
-    "imdb_users": 21014,
-    "imdb_staff": 1,
-    "males_under_18": 104,
-    "females_aged_18-29": 2510,
-    "males_aged_45+": 1329,
-    "females_aged_30-44": 1275,
-    "males": 12811,
-    "males_aged_18-29": 5513,
-    "females_aged_45+": 279,
-    "aged_under_18": 154
+  "rating_freq": {
+    "1": 1072,
+    "2": 1112,
+    "3": 2033,
+    "4": 3631,
+    "5": 5043,
+    "6": 3889,
+    "7": 2075,
+    "8": 874,
+    "9": 357,
+    "10": 944
   },
-  "rating_count": 21014,
+  "release_month": "January",
+  "budget": 15000000,
+  "budget_currency": "$",
+  "total_screens": 3357,
+  "year": 2014,
+  "rating": 4.9,
   "critic_review_count": 179,
-  "opening_weekend_income": 15027415
+  "opening_weekend_date": {
+    "month": 1,
+    "year": 2015,
+    "day": 2,
+    "__type__": "datetime.date"
+  },
+  "name": "The Woman in Black 2: Angel of Death",
+  "user_review_count": 112,
+  "avg_screens": 479.57142857142856
 }

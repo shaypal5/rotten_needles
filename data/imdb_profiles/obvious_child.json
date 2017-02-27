@@ -1,78 +1,904 @@
 {
-  "metascore": 76,
+  "release_day": null,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.5,
+    "top_1000_voters": 5.9,
+    "males_under_18": 6.4,
+    "imdb_staff": 7.1,
+    "males_aged_18-29": 6.9,
+    "imdb_users": 6.8,
+    "males_aged_45+": 6.3,
+    "aged_18-29": 7.0,
+    "us_users": 7.0,
+    "females_aged_30-44": 6.9,
+    "males": 6.7,
+    "females": 7.1,
+    "females_aged_45+": 7.0,
+    "non-us_users": 6.7,
+    "females_aged_18-29": 7.1,
+    "females_under_18": 7.4,
+    "aged_30-44": 6.6,
+    "aged_under_18": 6.9,
+    "males_aged_30-44": 6.5
+  },
   "closing_date": {
+    "month": 10,
     "year": 2014,
     "day": 3,
-    "month": 10,
     "__type__": "datetime.date"
   },
-  "release_month": null,
-  "release_year": null,
-  "gross_income": 3122616,
-  "duration": 84,
-  "release_day": null,
-  "max_screens": 196,
-  "opening_weekend_date": {
-    "year": 2014,
-    "day": 6,
-    "month": 6,
-    "__type__": "datetime.date"
-  },
-  "rating": 6.8,
+  "metascore": 76,
   "num_weekends": 8,
+  "rating_count": 18043,
+  "gross_income": 3122616,
+  "max_screens": 196,
+  "opening_weekend_screens": 3,
+  "screens_by_weekend": [
+    3,
+    18,
+    55,
+    196,
+    134,
+    96,
+    44,
+    5
+  ],
+  "opening_weekend_income": 77315,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "A genuine and authentic look at womanhood, featuring a truly star-making lead performance.",
+      "score": 10,
+      "user": "Brent Hankins",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful little Indie Comedy but Pro-lifers and Conservatives might wanna skip it",
+      "score": 8,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Obvious  Child",
+      "score": 8,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dirty, But Surprisingly Sweet Comedy",
+      "score": 8,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Forget the moral messages ..enjoy the talent and wit",
+      "score": 8,
+      "user": "samer90",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cringe Inducing",
+      "score": 2,
+      "user": "Larry Silverstein",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Was there a point?",
+      "score": 1,
+      "user": "mamlukman",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Comedy that Unashamedly Addresses real Life Issues with a Walk Down Memory Lane Moment in there for Everyone",
+      "score": 6,
+      "user": "theSachaHall",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Denying the Obvious Child",
+      "score": 8,
+      "user": "disinterested_spectator",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it!",
+      "score": 10,
+      "user": "loridrys",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Touching, Funny, and a Heart Felt Reality",
+      "score": 8,
+      "user": "Bryan Anderson",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anything but its title",
+      "score": 4,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch this movie now!",
+      "score": 10,
+      "user": "paulettemihale",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some roots are like cages",
+      "score": 7,
+      "user": "tieman64",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Obvious It Is Not!",
+      "score": 8,
+      "user": "Michael Radny",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "wonderful, wonderful, wonderful movie",
+      "score": 10,
+      "user": "jm10701",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was shocked",
+      "score": 1,
+      "user": "b4blue",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Passable fun",
+      "score": 5,
+      "user": "Lily Black",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'll take three more sips...",
+      "score": 7,
+      "user": "sharky_55",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The kind of rom com there should be more of",
+      "score": 8,
+      "user": "ReganRebecca",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Definitely good film",
+      "score": 8,
+      "user": "Isabel Aghahowa",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Problem Child.",
+      "score": 8,
+      "user": "morrison-dylan-fan",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Half charmed.",
+      "score": 6,
+      "user": "punishmentpark",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a romantic comedy as billed...crude and depressing",
+      "score": 1,
+      "user": "Laura",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a heartwarming enjoyable comedy",
+      "score": 8,
+      "user": "roseharry775",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "some good inappropriate laughs",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Honest, hilarious and heartbreaking",
+      "score": 8,
+      "user": "Ellen Ripley",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like a night out you hoped would be great but ended with sweatpants",
+      "score": 2,
+      "user": "Brittany VB",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An honest and touching movie!",
+      "score": 9,
+      "user": "rashmi_cricketmaniac",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pro-Choice Flick - spoiler alert",
+      "score": 7,
+      "user": "josesiem-960-919724",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Painful",
+      "score": 1,
+      "user": "Nick Bosco",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "appalling rubbish pretending to be a comedy",
+      "score": 1,
+      "user": "noelcox",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I couldn't connect with Jenny Slate's brand of humor",
+      "score": 5,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny & Fresh!",
+      "score": 9,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A surprisingly level-headed and pragmatic take on a controversial issue",
+      "score": 7,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A tired subgenre done right with a dark streak.",
+      "score": 7,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Film Review: Obvious Child/www.nightfilmreviews.com",
+      "score": 6,
+      "user": "lucasnochez",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A refreshing look at womanhood and abortion while being a hilarious and sweet rom com",
+      "score": 9,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappy Watched: Obvious Child",
+      "score": 5,
+      "user": "Chappy Watched",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not so funny but quirky and okay",
+      "score": 6,
+      "user": "eyeintrees",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you're a youngish hipster with no sense of humor and snarky low self esteem ...",
+      "score": 1,
+      "user": "djnieme",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Glamorizes abortion",
+      "score": 1,
+      "user": "Taylorbrantley89",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Acting was great, but the movie didn't amaze me.",
+      "score": 6,
+      "user": "theaddedbonus",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Occasional warm and sensitive abortion drama undermined by boorish humor of principal actor",
+      "score": 4,
+      "user": "Turfseer",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A quick, small film with enough charm",
+      "score": 6,
+      "user": "TheMarwood",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pro-Abortion Propaganda",
+      "score": 1,
+      "user": "leanna-5",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strangely under-delivers in the final third.",
+      "score": 7,
+      "user": "peter-stead-740-486963",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't Watch if You Value Life *Spoiler*",
+      "score": 1,
+      "user": "lisagruber",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Foetal Attraction",
+      "score": 8,
+      "user": "writers_reign",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "After a rough breakup, a young comic has a one night stand with a nice boy. Thing is, with them not using condoms she ends up pregnant, and she is not looking to have a baby.",
+      "score": 8,
+      "user": "Amari-Sali",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "one-night stand leads to shock comedian's abortion and romance",
+      "score": 8,
+      "user": "maurice yacowar",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you have morals or any humanity, this is not the movie for you",
+      "score": 1,
+      "user": "dara0410",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very sweet and extremely funny!",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jenny Slate absolutely shines!",
+      "score": 8,
+      "user": "drew_atreides",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'I just hate that type of film.  I don't connect to it.'",
+      "score": 4,
+      "user": "tummybunny",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Indie, but full of clich\u00e9s. Nice, yet not funny.",
+      "score": 6,
+      "user": "siderite",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What producer David O. Selznick did to Scarlet O'Hara . . .",
+      "score": 6,
+      "user": "cricket crockett",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bravo Jenny Slate.",
+      "score": 9,
+      "user": "Arturo_Montenora",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious, heartfelt",
+      "score": 9,
+      "user": "Lucia Joyce",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A sad \"butchering\" of talent",
+      "score": 1,
+      "user": "Vlad_Imirivan",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Squashes all dissenting opinions on abortion.",
+      "score": 1,
+      "user": "woodhugger",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "too diverse",
+      "score": 3,
+      "user": "pai-rai",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting, enjoyable film",
+      "score": 8,
+      "user": "Red-125",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Highly Recommend",
+      "score": 8,
+      "user": "Nik Neal",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Annoying",
+      "score": 3,
+      "user": "man_out_of_time",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "complete waste of time",
+      "score": 1,
+      "user": "erik-26-616472",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An honest film about unwanted pregnancy",
+      "score": 6,
+      "user": "ducky7",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Good Comedy That Makes You Want to Believe in Its Happy Ending",
+      "score": 8,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Roaring 20s",
+      "score": 10,
+      "user": "wilson trivino",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Pleasant Surprise",
+      "score": 9,
+      "user": "jerryw1953",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I loved it!",
+      "score": 9,
+      "user": "sweetemotion2",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just when you thought the nasty bits were all safely tucked away",
+      "score": 7,
+      "user": "socrates99",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slate is great in a winning romcom",
+      "score": 8,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slate in a Box",
+      "score": 8,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great and Original!",
+      "score": 10,
+      "user": "grant-carson42",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 84,
+  "votes_per_demo": {
+    "aged_45+": 1495,
+    "top_1000_voters": 167,
+    "males_under_18": 20,
+    "imdb_staff": 8,
+    "males_aged_18-29": 3662,
+    "imdb_users": 18043,
+    "males_aged_45+": 1091,
+    "aged_18-29": 6953,
+    "us_users": 4581,
+    "females_aged_30-44": 1931,
+    "males": 9521,
+    "females": 5751,
+    "females_aged_45+": 377,
+    "non-us_users": 7952,
+    "females_aged_18-29": 3189,
+    "females_under_18": 20,
+    "aged_30-44": 6408,
+    "aged_under_18": 40,
+    "males_aged_30-44": 4375
+  },
   "genres": [
     "comedy",
     "drama"
   ],
-  "avg_screens": 68.875,
-  "opening_weekend_income": 77315,
-  "year": 2014,
   "opening_weekend_income_currency": "$",
-  "rating_count": 18041,
-  "votes_per_demo": {
-    "females": 5751,
-    "males_aged_30-44": 4374,
-    "aged_under_18": 40,
-    "females_aged_30-44": 1930,
-    "females_aged_45+": 377,
-    "us_users": 4580,
-    "aged_45+": 1495,
-    "aged_30-44": 6405,
-    "top_1000_voters": 167,
-    "males_aged_18-29": 3661,
-    "females_aged_18-29": 3190,
-    "imdb_users": 18041,
-    "males": 9519,
-    "non-us_users": 7951,
-    "imdb_staff": 8,
-    "males_under_18": 20,
-    "aged_18-29": 6953,
-    "males_aged_45+": 1091,
-    "females_under_18": 20
-  },
-  "avg_rating_per_demo": {
-    "females": 7.1,
-    "males_aged_30-44": 6.5,
-    "aged_under_18": 6.9,
-    "females_aged_30-44": 6.9,
-    "females_aged_45+": 7.0,
-    "us_users": 7.0,
-    "aged_45+": 6.5,
-    "aged_30-44": 6.6,
-    "top_1000_voters": 5.9,
-    "males_aged_18-29": 6.9,
-    "females_aged_18-29": 7.1,
-    "imdb_users": 6.8,
-    "males": 6.7,
-    "non-us_users": 6.7,
-    "imdb_staff": 7.1,
-    "males_under_18": 6.4,
-    "aged_18-29": 7.0,
-    "males_aged_45+": 6.3,
-    "females_under_18": 7.4
-  },
-  "critic_review_count": 155,
-  "user_review_count": 77,
   "rating_freq": {
     "1": 526,
     "2": 217,
@@ -80,12 +906,25 @@
     "4": 580,
     "5": 1350,
     "6": 3209,
-    "7": 5332,
+    "7": 5334,
     "8": 3906,
     "9": 1471,
     "10": 1130
   },
-  "name": "Obvious Child",
+  "release_month": null,
+  "budget": null,
   "budget_currency": null,
-  "budget": null
+  "total_screens": 551,
+  "year": 2014,
+  "rating": 6.8,
+  "critic_review_count": 155,
+  "opening_weekend_date": {
+    "month": 6,
+    "year": 2014,
+    "day": 6,
+    "__type__": "datetime.date"
+  },
+  "name": "Obvious Child",
+  "user_review_count": 77,
+  "avg_screens": 68.875
 }

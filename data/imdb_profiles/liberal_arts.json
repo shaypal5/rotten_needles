@@ -1,92 +1,955 @@
 {
-  "name": "Liberal Arts",
+  "budget": null,
   "opening_weekend_income": 27435,
-  "genres": [
-    "comedy",
-    "drama",
-    "romance"
-  ],
-  "rating": 6.7,
-  "rating_count": 30296,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 14,
+  "year": 2012,
+  "closing_date": {
     "year": 2012,
-    "month": 9
+    "day": 16,
+    "__type__": "datetime.date",
+    "month": 11
   },
-  "user_review_count": 83,
+  "budget_currency": null,
+  "avg_screens": 18.6,
   "rating_freq": {
     "1": 393,
     "2": 247,
     "3": 491,
     "4": 1024,
-    "5": 2579,
-    "6": 6327,
-    "7": 9329,
-    "8": 5711,
+    "5": 2580,
+    "6": 6328,
+    "7": 9332,
+    "8": 5712,
     "9": 2142,
-    "10": 2053
+    "10": 2054
   },
-  "release_day": null,
+  "screens_by_weekend": [
+    4,
+    20,
+    32,
+    29,
+    25,
+    18,
+    20,
+    17,
+    11,
+    10
+  ],
+  "rating_count": 30303,
+  "total_screens": 186,
+  "max_screens": 32,
+  "duration": 97,
+  "gross_income": 317190,
+  "metascore": 55,
+  "opening_weekend_income_currency": "$",
   "votes_per_demo": {
-    "males": 17395,
-    "females_aged_30-44": 2570,
-    "aged_under_18": 44,
-    "non-us_users": 16131,
-    "males_aged_18-29": 8035,
-    "aged_18-29": 13631,
-    "males_aged_30-44": 7015,
-    "aged_45+": 2259,
-    "imdb_users": 30296,
-    "aged_30-44": 9721,
-    "us_users": 4733,
-    "females": 8903,
-    "females_aged_18-29": 5434,
     "top_1000_voters": 214,
+    "imdb_users": 30303,
+    "us_users": 4733,
+    "aged_18-29": 13632,
+    "non-us_users": 16134,
+    "aged_45+": 2259,
+    "aged_30-44": 9725,
+    "males_aged_30-44": 7017,
+    "males_aged_18-29": 8037,
     "males_aged_45+": 1704,
+    "aged_under_18": 44,
+    "imdb_staff": 6,
+    "males_under_18": 23,
+    "females_aged_30-44": 2572,
+    "females": 8904,
     "females_under_18": 21,
     "females_aged_45+": 509,
-    "imdb_staff": 6,
-    "males_under_18": 23
+    "males": 17399,
+    "females_aged_18-29": 5433
   },
+  "user_review_count": 83,
+  "rating": 6.7,
+  "release_year": null,
   "avg_rating_per_demo": {
-    "males": 6.8,
-    "females_aged_30-44": 6.4,
-    "aged_under_18": 6.8,
-    "non-us_users": 6.7,
-    "males_aged_18-29": 6.9,
-    "aged_18-29": 6.9,
-    "males_aged_30-44": 6.6,
-    "aged_45+": 6.7,
-    "imdb_users": 6.7,
-    "aged_30-44": 6.6,
-    "us_users": 6.8,
-    "females": 6.6,
-    "females_aged_18-29": 6.7,
     "top_1000_voters": 5.9,
+    "imdb_users": 6.7,
+    "us_users": 6.8,
+    "aged_18-29": 6.9,
+    "non-us_users": 6.7,
+    "aged_45+": 6.7,
+    "aged_30-44": 6.6,
+    "males_aged_30-44": 6.6,
+    "males_aged_18-29": 6.9,
     "males_aged_45+": 6.7,
+    "aged_under_18": 6.8,
+    "imdb_staff": 7.7,
+    "males_under_18": 7.0,
+    "females_aged_30-44": 6.4,
+    "females": 6.6,
     "females_under_18": 6.4,
     "females_aged_45+": 6.9,
-    "imdb_staff": 7.7,
-    "males_under_18": 7.0
+    "males": 6.8,
+    "females_aged_18-29": 6.7
   },
-  "avg_screens": 18.6,
-  "release_month": null,
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 55,
-  "gross_income": 317190,
-  "critic_review_count": 153,
-  "budget_currency": null,
-  "release_year": null,
-  "num_weekends": 10,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 16,
+  "opening_weekend_date": {
     "year": 2012,
-    "month": 11
+    "day": 14,
+    "__type__": "datetime.date",
+    "month": 9
   },
-  "duration": 97,
-  "budget": null,
-  "max_screens": 32
+  "imdb_user_reviews": [
+    {
+      "user": "SteveMierzejewski",
+      "contents": "Psychologically entertaining with a first-rate screenplay",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "Chocolate_Swan",
+      "contents": "Great movie for college students and grads",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Catt Jones (cattjones@chixchatonfilm.com)",
+      "contents": "Liberal Arts - A+",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "meinefacebookspamadresse",
+      "contents": "Surprisingly great...",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "joshua-halstead",
+      "contents": "Entertaining, humorous, and charming.",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "quitwhileyouareahead",
+      "contents": "That's how he should have met your Mother.",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "kyndelc",
+      "contents": "Great Film",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "ffuuut",
+      "contents": "A film about maturity and growing up and the beauty of words and music.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Larry Silverstein",
+      "contents": "Intelligent & Warm Hearted Comedy",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Sal Belmondo",
+      "contents": "Charm and Wonderful Acting Make for a Worthwhile Watch",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Ed Uyeshima",
+      "contents": "Radnor Relives His College Days with a Lightweight, Literate Romantic Dramedy",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "wainscoat-1",
+      "contents": "Unsentimental Education",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "writers_reign",
+      "contents": "When I Grow Too Old To Dream ...",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "dancinhomer2",
+      "contents": "Surprisingly great film!",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "maria joao",
+      "contents": "Amazing movie!",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "dansview",
+      "contents": "Nice Job Ted",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "dreagan110",
+      "contents": "Boring and Contrived",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "john32935",
+      "contents": "Can you go home again?",
+      "review_date": {
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "PrestF4",
+      "contents": "Good despite the lead",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Dieu Nguyen",
+      "contents": "True beauty and sophistication.",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Niall-Wade_96",
+      "contents": "Brilliant Film",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "wdter",
+      "contents": "introspective 'lifegasm",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "uwa",
+      "contents": "Most Pretentious Movie Ever Made!",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film Review: Grow up already.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Turfseer",
+      "contents": "Older man/former student visits Alma mater and declines to take advantage of currently enrolled co-ed in noted TV star's vanity project",
+      "review_date": {
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "FloodClearwater",
+      "contents": "Paper / Chaste",
+      "review_date": {
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Carlos Canales",
+      "contents": "A dramedy for the ages.",
+      "review_date": {
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "dilipkumarp09",
+      "contents": "So simple yet so nice!",
+      "review_date": {
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "Jonathan C",
+      "contents": "Clever and Insightful Comedy About Sentimentality",
+      "review_date": {
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "FlickChick82",
+      "contents": "Interesting take on life",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "studioAT",
+      "contents": "A different sort of Rom-com",
+      "review_date": {
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Danny Yu",
+      "contents": "Brilliantly refreshing",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "isaaclaughter55",
+      "contents": "Liberal Arts",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "normancaleb1",
+      "contents": "well written, excellent film",
+      "review_date": {
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "Desertman84",
+      "contents": "Awakening Feelings Of Youth",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "gdemers",
+      "contents": "So very good.",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "prateek23317",
+      "contents": "Great ride.",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "p-stepien",
+      "contents": "Adults Growing Up",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Vikas Sinha",
+      "contents": "An incredible movie.",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "HandHStudios",
+      "contents": "Tasteful and Smart Film by Josh Radnor.",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "karthik-puvvula",
+      "contents": "Awesome movie... loved it..",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "G E",
+      "contents": "When You See It",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "FeatherlessBiped",
+      "contents": "Better than most movies I've seen lately",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "mzs321",
+      "contents": "Simple, Ironical, Brilliant and Romantic",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "Elizabeth Olsen proves she's not a one hit wonder",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "victorson-1",
+      "contents": "Awful. An agonizing watch",
+      "review_date": {
+        "year": 2017,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "canozer123",
+      "contents": "A Liberal Take on Liberal Arts",
+      "review_date": {
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Raghav Jain",
+      "contents": "It's one those films that makes you feel things and think about life,",
+      "review_date": {
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "Rishi Lecter",
+      "contents": "Liberal arts not Happythankyoumoreplease.",
+      "review_date": {
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Prismark10",
+      "contents": "Looking back",
+      "review_date": {
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "phochen",
+      "contents": "Something was noticeably absent",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "saraiik",
+      "contents": "Well developed film that is intelligent, classy, and humorous",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "TheDancingPanda-692-744536",
+      "contents": "Worth the wait",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Elizabeth Olsen MPDG",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "A thoughtful lesson not made into a lecture",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "phd_travel",
+      "contents": "Doesn't quite hit the mark",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "bob-790-196018",
+      "contents": "A Nice Little Movie about the Pitfalls of Reliving College Days",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "BreakawayDaily",
+      "contents": "Liberal Arts: You Are Never Finished Learing",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Shamir Towsif",
+      "contents": "A college movie for romantics",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "bryson1999",
+      "contents": "Enjoyable and a big dose of realism/",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "aimeebautistasuero",
+      "contents": "I was tremendously awful!",
+      "review_date": {
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "hys-420189749",
+      "contents": "Strange and mixed feeling",
+      "review_date": {
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Amy Adler",
+      "contents": "Very impressive, one should apply compliments liberally to this one",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "griffolyon12",
+      "contents": "A Smaller Scale Film That Is Totally Worth It",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "blobzr",
+      "contents": "Really? When does it end already?",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "perkypops",
+      "contents": "A refreshing opening soon goes flat",
+      "review_date": {
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "mutty-mcflea",
+      "contents": "Doesn't make much of an impression",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Avid Climber",
+      "contents": "Liberal Arts \u0097 Life is full of mistakes, what can we do about it?",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "yernelg",
+      "contents": "Age and Growth",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "Roland Jakobsson (rolandddd)",
+      "contents": "Shows promise",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Willie-12",
+      "contents": "Improvement For Radnor...Not Great But Has Its Moments",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Suyin Chang",
+      "contents": "No conflict and (virtually) no people of colour - what are the producers trying to say?",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "inspiredview",
+      "contents": "Predictable",
+      "review_date": {
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "johanschutten",
+      "contents": "Whole stupid movie changed in an instant.",
+      "review_date": {
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "dalydj-918-255175",
+      "contents": "Liberal Arts is dull and too intellectual for it's own good",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "turncapp-525-134756",
+      "contents": "Lame",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Rondob4",
+      "contents": "A prison is anyplace from which we cannot escape",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    }
+  ],
+  "release_month": null,
+  "genres": [
+    "comedy",
+    "drama",
+    "romance"
+  ],
+  "opening_weekend_screens": 4,
+  "name": "Liberal Arts",
+  "num_weekends": 10,
+  "release_day": null,
+  "critic_review_count": 153
 }

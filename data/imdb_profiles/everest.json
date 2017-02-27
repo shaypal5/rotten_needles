@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 9,
-    "year": 2015,
-    "day": 18,
-    "__type__": "datetime.date"
+  "release_day": 25,
+  "avg_rating_per_demo": {
+    "aged_45+": 7.0,
+    "top_1000_voters": 6.4,
+    "males_under_18": 7.3,
+    "imdb_staff": 7.1,
+    "males_aged_18-29": 7.1,
+    "imdb_users": 7.1,
+    "males_aged_45+": 7.0,
+    "aged_18-29": 7.2,
+    "us_users": 7.0,
+    "females_aged_30-44": 7.1,
+    "males": 7.0,
+    "females": 7.2,
+    "females_aged_45+": 7.2,
+    "non-us_users": 7.0,
+    "females_aged_18-29": 7.3,
+    "females_under_18": 7.9,
+    "aged_30-44": 7.0,
+    "aged_under_18": 7.4,
+    "males_aged_30-44": 7.0
   },
   "closing_date": {
     "month": 11,
@@ -11,82 +27,3027 @@
     "day": 20,
     "__type__": "datetime.date"
   },
-  "rating": 7.1,
-  "num_weekends": 7,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 965,
-    "2": 599,
-    "3": 1016,
-    "4": 2483,
-    "5": 7773,
-    "6": 24843,
-    "7": 54649,
-    "8": 37720,
-    "9": 11908,
-    "10": 8357
-  },
-  "avg_screens": 1319.2857142857142,
-  "budget": 55000000,
-  "budget_currency": "$",
-  "release_day": 25,
   "metascore": 64,
+  "num_weekends": 7,
+  "rating_count": 150407,
+  "gross_income": 43247140,
+  "max_screens": 3009,
+  "opening_weekend_screens": 545,
+  "screens_by_weekend": [
+    545,
+    3006,
+    3009,
+    2120,
+    225,
+    196,
+    134
+  ],
+  "opening_weekend_income": 7222035,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "No good guys, no bad guys, just the facts as they are known",
+      "score": 9,
+      "user": "thegreatape",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth watching but could have been lots better",
+      "score": 7,
+      "user": "fffuuuuu",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie, Great theatre experience",
+      "score": 8,
+      "user": "Jack Gradis",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Majestic! I had never experience anything like it.",
+      "score": 10,
+      "user": "www.ramascreen.com",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like climbing the famed mountain, watching \"Everest\" is a harrowing, but rewarding experience.",
+      "score": 8,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wish it were better",
+      "score": 6,
+      "user": "gmd4462-623-52926",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very immersive disaster movie.",
+      "score": 8,
+      "user": "valleyjohn",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flawed.",
+      "score": 6,
+      "user": "Incendid",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Top of the World looking down on creation",
+      "score": 7,
+      "user": "bob-the-movie-man",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "EverLASTING...",
+      "score": 3,
+      "user": "juliemaniglia",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How Many Everest 1996 Tragedy Movies Do We Really Need?",
+      "score": 2,
+      "user": "LemonLadyR",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Snow Job",
+      "score": 3,
+      "user": "villard",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tense and beautiful, but lacking fleshed-out characters.",
+      "score": 6,
+      "user": "Troy_Campbell",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A waste of Money",
+      "score": 2,
+      "user": "hanyo007",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a boring movie.....",
+      "score": 3,
+      "user": "adrian-m-miller",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gripping drama",
+      "score": 9,
+      "user": "kevjfarrell",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cold",
+      "score": 3,
+      "user": "Alanjackd",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "all rather boring",
+      "score": 3,
+      "user": "ellengee-34730",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Impressively Realistic",
+      "score": 7,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring",
+      "score": 4,
+      "user": "kamsander-12310",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "WOW - no where near the real story",
+      "score": 1,
+      "user": "daniel_harty",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews....",
+      "score": 6,
+      "user": "capone666",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More should have been brought out of it",
+      "score": 6,
+      "user": "Matthew Kays",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Visually Stunning Disaster Movie but Not the Best One ....",
+      "score": 5,
+      "user": "Suman Shakya",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Taller tales have been better told for shorter mountains",
+      "score": 5,
+      "user": "Dynamic Stardust",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Baltasar Korm\u00e1kur's disaster movie is a physical experience that will leave you breathless\u0097and possibly suffering vertigo.",
+      "score": 8,
+      "user": "nsharath009",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another bad Movie",
+      "score": 2,
+      "user": "antigravity-83779",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest: Cool shots, not much more",
+      "score": 4,
+      "user": "Evan Bachman",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointed",
+      "score": 6,
+      "user": "fill hellmuff",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not too good",
+      "score": 3,
+      "user": "asimgulzarjan",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Err..dunno",
+      "score": 3,
+      "user": "jonnytheshirt",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too many characters blunt Everest.",
+      "score": 6,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth Watching Just for its Cinematography and Effects and Pretty Much Nothing Else",
+      "score": 7,
+      "user": "DareDevilKid",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "don't have any sympathy with any of the character",
+      "score": 1,
+      "user": "asiandrama",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I actually fell asleep during this movie",
+      "score": 1,
+      "user": "dan_c99",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A desperately dull dud",
+      "score": 4,
+      "user": "MattyGibbs",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thrill seekers Beware!!",
+      "score": 5,
+      "user": "writeguyr",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A disappointing account which squanders its potential",
+      "score": 5,
+      "user": "Jonathan Roberts",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spectacular landscapes and good performances in the account of a true story.",
+      "score": 8,
+      "user": "psagray",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Cinematography, but inaccurate story",
+      "score": 4,
+      "user": "dale-51649",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "highly depressing",
+      "score": 4,
+      "user": "Daryl Kew",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's got more sting than one may think",
+      "score": 7,
+      "user": "Rickting",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, but hides the true horror",
+      "score": 6,
+      "user": "PhilmGuru",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anti Climatic, could of been much better then it was",
+      "score": 5,
+      "user": "swpsharpshooter",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "*Yawn*",
+      "score": 3,
+      "user": "Charles Demers",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "so so...",
+      "score": 5,
+      "user": "WoodBangers Entertainment",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bring the noise",
+      "score": 6,
+      "user": "Matt Roberts",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice visuals, weak character arc",
+      "score": 6,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not what I expected",
+      "score": 6,
+      "user": "martinramos1996",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lame at Best",
+      "score": 2,
+      "user": "Jonny",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Almost reaches the top",
+      "score": 7,
+      "user": "Lucas Versantvoort",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An emotional and physical climb",
+      "score": 8,
+      "user": "charleswjoke",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really, really boring with no redeeming quality",
+      "score": 4,
+      "user": "Alex van Beek",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My experience with this the movie.",
+      "score": 6,
+      "user": "Grant R. Cook",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Outstanding Performances save Poor Storytelling,",
+      "score": 8,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Mediocre Script Can Be Overlooked, by What This Film Has to Offer",
+      "score": 7,
+      "user": "kgaillard",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest definitely dares you to imagine what it must be like to be at the top of the world with everything around going horribly, horribly wrong.",
+      "score": 9,
+      "user": "Gangadharan Natarajan",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "On Top of the World",
+      "score": 7,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is what cinema was invented for",
+      "score": 8,
+      "user": "keirangtp",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Splendid mountaineering thriller is the best of its type",
+      "score": 8,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest Movie Review",
+      "score": 7,
+      "user": "tyingling7766",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perhaps a version of 1996 Everest tragedy. Good movie",
+      "score": 6,
+      "user": "Dhanya",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring and Annoying (possible spoiler alert)",
+      "score": 1,
+      "user": "sakulin",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "realistic, moving climbing movie",
+      "score": 7,
+      "user": "jb_campo",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tough to watch",
+      "score": 7,
+      "user": "santiagocosme",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Realistic and visually great",
+      "score": 6,
+      "user": "adamw25",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "compelling mountaineering",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Imperfect Storm.",
+      "score": 6,
+      "user": "Robert J. Maxwell (rmax304823@yahoo.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I won't try climbing that mountain, that's for sure.",
+      "score": 8,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Its a visually stunning but not so thrilling adventurous ride, realistically talking about the loss instead of any triumph achieved.",
+      "score": 6,
+      "user": "bobbysing",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good adventure film",
+      "score": 7,
+      "user": "alindsay-al",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "**",
+      "score": 4,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A docudrama made human",
+      "score": 7,
+      "user": "gradyharp",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Elavating spectacle. Tedious.",
+      "score": 7,
+      "user": "Michael O'Keefe",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Everest conquer.",
+      "score": 8,
+      "user": "Horrorliefhebber",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Adventure and Nightmare on the Mount Everest",
+      "score": 6,
+      "user": "Luigi Di Pilla",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Frigid suspense",
+      "score": 6,
+      "user": "Mhmd_Elgammal",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "1996, and Mother Nature's big mama is playing her hand again.",
+      "score": 8,
+      "user": "Spikeopath",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OK for one viewing",
+      "score": 7,
+      "user": "851222",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I felt like I was there...    with a bunch of people I didn't know unfortunately",
+      "score": 6,
+      "user": "witster18",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hope is A Wonderful Thing.",
+      "score": 5,
+      "user": "Rab Wright",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Although they believed in it, they couldn't move this mountain ...",
+      "score": 5,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the Mountain win",
+      "score": 9,
+      "user": "human Unit",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'd be shocked if not Oscar nominated.",
+      "score": 9,
+      "user": "superheromoviequestions",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I can't add anything to what has been said except...",
+      "score": 9,
+      "user": "Bryan Nilsen",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Climbing Everest - Removed from my Bucket List",
+      "score": 7,
+      "user": " (fvanwyktu)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A solid film despite its shortcomings.",
+      "score": 7,
+      "user": "Asadullah Khan",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intense and real",
+      "score": 8,
+      "user": "Radomir Ivanov",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "jason clarke...wow",
+      "score": 5,
+      "user": "steeledanton",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sunday Afternoon Watching",
+      "score": 6,
+      "user": "wembleyfm",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stars in the snow",
+      "score": 7,
+      "user": "Adam Parks",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Almost Scales Great Heights",
+      "score": 7,
+      "user": "JohnnyWeissmuller",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great although with unbalanced character developments",
+      "score": 7,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Probably the most accurate but least compelling account",
+      "score": 8,
+      "user": "michaeljbrown62",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Top of the world, Ma!",
+      "score": 8,
+      "user": "davidgee",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Top Notch True Story Adventure-Thriller!",
+      "score": 7,
+      "user": "MovieHoliks",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting, but not great",
+      "score": 8,
+      "user": "potato2",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest was hard to watch. It was kinda rocky & way too depressing. Still, the film was worth the climb",
+      "score": 7,
+      "user": "ironhorse_iv",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dat mountain",
+      "score": 6,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest",
+      "score": 7,
+      "user": "Alexa Bouhelier-Ruelle",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "7.5/10",
+      "score": 7,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A visually stunning film, but Everest has it's flaws.What could have been a epic film is still a great watch.",
+      "score": 7,
+      "user": "Jasrick Johal",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spectacular cinematography and gripping story",
+      "score": 8,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "EVEREST 3D | With breath taking visuals and a true insight to the power and beauty of Everest.",
+      "score": 8,
+      "user": "peter-eldon",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "thrilling and emotional but never could summit",
+      "score": 7,
+      "user": "Nick Gilmour",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The closest thing you can have to a meaningful life is a productive life.",
+      "score": 4,
+      "user": "thisseatofmars",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Impressive Combination Of Acting And Visuals",
+      "score": 8,
+      "user": "Shane Breen",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's Like a Real Experience of Climbing Everest",
+      "score": 8,
+      "user": "Michael Seng Wah",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply Straight Forward",
+      "score": 6,
+      "user": "Debra Hotmer",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice Movie Overall",
+      "score": 8,
+      "user": "Rohan Singh",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mind blowing movie, EPIC TRUE STORY",
+      "score": 9,
+      "user": "jasonsharma",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Breathtaking, Made For IMAX",
+      "score": 6,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest Review",
+      "score": 7,
+      "user": "keithlovesmovies",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wealthy/unlikeable vs Everest. How is this the first major motion picture about an Everest ascent?",
+      "score": 5,
+      "user": "holistic-5",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "because it's there",
+      "score": 5,
+      "user": " (gsygsy)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feedback",
+      "score": 6,
+      "user": "yadavgauravbiotech",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a cowardly missed opportunity",
+      "score": 6,
+      "user": "lasttimeisaw",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Believable",
+      "score": 1,
+      "user": "danws",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just like the mountain, this will kill you",
+      "score": 2,
+      "user": "helghanscum",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fails to provide a completely engaging experience.",
+      "score": 6,
+      "user": "Bradley Shea",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Visually Stunning but Comes at a High-Price\u0085An  Emotional Avalanche",
+      "score": 7,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just disappointing",
+      "score": 5,
+      "user": "David",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Because it's \u0085",
+      "score": 8,
+      "user": "tomsview",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some die, some survive",
+      "score": 5,
+      "user": "mrbarooee",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best mountaineering movies",
+      "score": 7,
+      "user": "ksb_23",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The story is brutal, but we're missing out.",
+      "score": 7,
+      "user": "hjbuhrkall",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a terrible movie to watch if you are expecting any action",
+      "score": 3,
+      "user": "Tarantulo",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that will satisfy the outdoor lovers and the occasional climber.",
+      "score": 9,
+      "user": "oragex",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite good summary of the events of 1996",
+      "score": 7,
+      "user": "Kiwi_Bloke",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Get through the disappointing first hour and you get an INTENSE and DRAMATIC movie",
+      "score": 6,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Suspenseful, Heart-Whelming and Entertaining",
+      "score": 8,
+      "user": "geo Tercero",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too Much Like A Documentary",
+      "score": 6,
+      "user": "AliceofX",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If watching grim adventure on the big screen is your thing\u0085",
+      "score": 7,
+      "user": "daveygandthekeyboard",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Towering achievement but a struggle to sit through --  Up mountain easy ~ Down mountain hard!",
+      "score": 9,
+      "user": "Alex Deleon",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Challenging Nature",
+      "score": 7,
+      "user": "aharmas",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The movie is about the true story that took place in 1996, about some people who tried to climb to the top of Everest.",
+      "score": 7,
+      "user": "klyoduba",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest's technical feats aren't matched by a subpar script by William Nicholson and Simon Beaufoy",
+      "score": 4,
+      "user": "Likes_Ninjas90",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just OK.",
+      "score": 6,
+      "user": "lois-lane33",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "With Efficient Storytelling and Eye-Catching Visual Effects, Everest Portrays One of The Worst Mount Everest's Tragedies",
+      "score": 7,
+      "user": "Vinicius Andrade",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Almost great, but not quite",
+      "score": 7,
+      "user": "emdeecee15",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful, slightly jarring film, true to history",
+      "score": 9,
+      "user": "Scott-101",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining enough.",
+      "score": 7,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hopeless Adventure Picture",
+      "score": 6,
+      "user": "swilliky",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Suspenseful and heart-pounding disaster thriller about survival",
+      "score": 9,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Must Watch!",
+      "score": 9,
+      "user": "Manoj Biswal",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was worth watching!!",
+      "score": 9,
+      "user": "schitru",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disaster movie that packs a emotional wallop",
+      "score": 9,
+      "user": "Paul Allaer",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A High Peak of Cinema",
+      "score": 8,
+      "user": "JohnWelles",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest",
+      "score": 8,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Climb for your Life!",
+      "score": 8,
+      "user": "ccorral419",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Thrilling Frost Bite",
+      "score": 6,
+      "user": "Sidd the Movie Slayer",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Top of the World....Big Graveyard",
+      "score": 7,
+      "user": "inioi",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Coldest Heights",
+      "score": 7,
+      "user": "Michael Radny",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Mountainous Voyage",
+      "score": 9,
+      "user": "coreyjdenford",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well researched and made !!!",
+      "score": 10,
+      "user": "Shashwat Adhikari (adhikari@religious.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A stunning breathless expedition",
+      "score": 9,
+      "user": "R J",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "EVEREST--The World's Tallest Mountain...And The Most Unforgiving, As Well",
+      "score": 10,
+      "user": "virek213",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An amazing and gripping edge of your seat real Life Drama",
+      "score": 9,
+      "user": "paul david",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An emotional & poignant true tale, that doesn't exaggerate any details.",
+      "score": 9,
+      "user": "Anurag-Shetty",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thin Air and Thin Characters",
+      "score": 6,
+      "user": "Clayton Davis (Claytondavis@awardscircuit.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stunning and immersive cinematic experience that takes you to the top of Everest",
+      "score": 8,
+      "user": "bartonj2410",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pure Adventure!",
+      "score": 7,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest has the last word.",
+      "score": 8,
+      "user": "Brendan de Vere",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful, but Not Powerful.",
+      "score": 7,
+      "user": "tjgoalie13",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exploitative, unfocused; it should have been a documentary",
+      "score": 4,
+      "user": "Zbigniew_Krycsiwiki",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Glorious and Grim Adventure",
+      "score": 8,
+      "user": "3xHCCH",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Everest' is intense as hell and reassures me that I'll never want to climb that mountain.",
+      "score": 8,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A gripping movie which has intelligent action, great visuals, and depth to the characters",
+      "score": 9,
+      "user": "Brian Berta",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest is as \u0084de facto\" as blockbuster can be.",
+      "score": 9,
+      "user": "Lolinna",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surviving Everest",
+      "score": 8,
+      "user": "Gianluca Marzano",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A beautiful piece of sentimental boredom",
+      "score": 5,
+      "user": "supatube",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Great Cinematic Experience",
+      "score": 8,
+      "user": "Adarsh Bohra",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "E as in Experience",
+      "score": 8,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "true story of one of life's biggest challenges...",
+      "score": 7,
+      "user": "MLDinTN",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thoroughly Enjoyable",
+      "score": 7,
+      "user": "David Arnold",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Glad I was able to see",
+      "score": 8,
+      "user": "haln8",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rising to Shambhala",
+      "score": 10,
+      "user": "psychedelicgirl",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What.A.Roller-coaster",
+      "score": 9,
+      "user": "iiijordaniii",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thrilling and full of intensity! 7/10",
+      "score": 7,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As expected, not even worth downloading",
+      "score": 5,
+      "user": "Eoghan McCarthy",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "...what?..no good or bad guys in the film...uhhhh...Sandy Pittman Hill...",
+      "score": 7,
+      "user": "bcheng93",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very good climbing movie...",
+      "score": 8,
+      "user": "Thanos Alfie",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Noble effort doesn't quite reach the top",
+      "score": 7,
+      "user": "Fluke_Skywalker",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the most realistically approached adventure movie based on the real.",
+      "score": 7,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Read, then watch",
+      "score": 9,
+      "user": "donb-519-335075",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The movie is exciting, gripping and emotional. This is more than a movie, its an experience.",
+      "score": 8,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "High-grade film",
+      "score": 9,
+      "user": "ohrid",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a DRAMA movie not an ACTION movie, people!",
+      "score": 8,
+      "user": "globalelite-39589",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Appropriately Striking, For Reasons Both Visual and Emotional",
+      "score": 8,
+      "user": "Sean Lamberger",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mindblown by the movie and human stupidity",
+      "score": 8,
+      "user": "palavitsinis",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A missed opportunity to tell a true story",
+      "score": 5,
+      "user": "David Elbaz",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth Watching 'Everest'",
+      "score": 7,
+      "user": "pranayjalvi",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Scenic but Disappointed",
+      "score": 5,
+      "user": "magical-kingdom",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful but difficult to follow, very narrow view point",
+      "score": 7,
+      "user": "tiinamalm",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shows how this dangerous sport can easily become a life or death situation for all those involved",
+      "score": 8,
+      "user": "MrDHWong (dhwong89@live.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Visually Stunning",
+      "score": 8,
+      "user": "indyally",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "With a great cast leading a tough climb and a sad end, Everest is true to it's hardship",
+      "score": 5,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Vanity or Vertigo",
+      "score": 5,
+      "user": "pg-tsinc",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth watching - in spite of the heavy heart.",
+      "score": 8,
+      "user": "AkelaLoneWolf",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Go and see it",
+      "score": 8,
+      "user": "katriinacaune",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty stunning visually",
+      "score": 7,
+      "user": "Andrew Marshall",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spectacular and suspenseful",
+      "score": 7,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Climax is Not the Summit",
+      "score": 9,
+      "user": "diet_koke",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of Everest",
+      "score": 8,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trouble at the top",
+      "score": 7,
+      "user": "jc-osms",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest As Intense As The Weather Surrounding The Mountain",
+      "score": 8,
+      "user": "patsworld",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Visceral engagement and visually absorbing",
+      "score": 9,
+      "user": "kunalkhandwala",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest is Beautiful and Heartbreaking",
+      "score": 9,
+      "user": "Awesome Movie Discussion",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film full of drama, which for the first time touches on the true cause of the tragedy, which up until recently had been kept from the public.",
+      "score": 7,
+      "user": "pmillican",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic film, but the same tired lack of non-white voices",
+      "score": 8,
+      "user": "sugarmack",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Devastating Survival Film",
+      "score": 7,
+      "user": "ctowyi",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Riveting",
+      "score": 8,
+      "user": " (blufrog49)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A heartbreaking true story",
+      "score": 8,
+      "user": "Adam Smith",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Edge of my seat",
+      "score": 8,
+      "user": "mmarrochello",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Epic tale of man vs mountain",
+      "score": 7,
+      "user": "bennington13",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome and Breathtaking!",
+      "score": 10,
+      "user": "Umar Mansoor Bajwa (umar_mansoor@yahoo.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Everest\" is surprisingly emotional and intense",
+      "score": 8,
+      "user": "horcrux2007",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Suffocating,Freezing,Exhausting: EVEREST Film Review",
+      "score": 7,
+      "user": "filmprof.net (mhikmetaltug)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A sobering experience about how determination is not enough",
+      "score": 8,
+      "user": "luke-a-mcgowan",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Regains it's balance",
+      "score": 8,
+      "user": "paul1622",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch Everest and experience the film. It is not the altitude, but the attitude matters.",
+      "score": 8,
+      "user": "binducherungath",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A true story of the fallen....So we never forget!",
+      "score": 7,
+      "user": "scottshak_111",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest (2015) - Review",
+      "score": 8,
+      "user": "Shane Ongley",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest is a spectacular audiovisual experience despite a somewhat underwhelming narration.",
+      "score": 7,
+      "user": "Lloyd Bayer",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest tugged at my heartstrings from 28,000 feet",
+      "score": 8,
+      "user": "Nick Osborne",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Delivers the exact emotion atmosphere",
+      "score": 10,
+      "user": "aitebuu",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful# Inspiring# Memorable#",
+      "score": 10,
+      "user": "Mike Bear",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "EVEREST deals primarily with the pollution problem . . .",
+      "score": 8,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A small window to summit.",
+      "score": 10,
+      "user": "Bo Atdrinks",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Never Let Go\" - It does not stay with you",
+      "score": 6,
+      "user": "Brandon Clarke",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good but not all that it's cracked up to be.",
+      "score": 8,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you love mountains or adventure, watch it.",
+      "score": 8,
+      "user": "aks xx",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Less appealing,Very Slippery but definitely watchable..",
+      "score": 6,
+      "user": "San T",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest - as it really is...",
+      "score": 6,
+      "user": "peggyatthemovies",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest is an inviting experience, one that is brilliant in its simplicity and deeply rich in its dramatic human relationship.",
+      "score": 8,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A visually breathtaking slow burn",
+      "score": 7,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An incredible, dramatic, truthful and adventurous movie based on an incredible, \"unfilmable\" true story",
+      "score": 10,
+      "user": "deventhakkar",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of time",
+      "score": 1,
+      "user": "Ismail Ahmed Ammar",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I felt the cold in the theatre!",
+      "score": 10,
+      "user": "Rawal Afzal",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "WOW.. not what I expected at all.",
+      "score": 10,
+      "user": "Westeire",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A well-document but spooky dream of every mountaineer.",
+      "score": 10,
+      "user": "Shubham Gupta",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "New Zealand and Everest",
+      "score": 8,
+      "user": "petercmd",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest is Exciting, Character-Driven Spectacle",
+      "score": 7,
+      "user": "gordonlukas62",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest was captivating and confronting.",
+      "score": 7,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why do people do this?",
+      "score": 1,
+      "user": "tfmiltz",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stronger on atmosphere than character, cold but grimly compelling.",
+      "score": 6,
+      "user": "jedi-jones (jedijones77@yahoo.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intense, Riveting and Quite Engaging",
+      "score": 10,
+      "user": "Bob Rutzel",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thoroughly Tear Jerking...Best Film I've seen in a long time",
+      "score": 10,
+      "user": "Philip Rattray",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing story telling & great acting!",
+      "score": 10,
+      "user": "catchkulbir",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest takes top tour-guides and has last word",
+      "score": 10,
+      "user": "stock-1",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I absolutely loved this movie",
+      "score": 10,
+      "user": "britrangergordon",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest is a Must See!!!",
+      "score": 10,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everest: On the Edge",
+      "score": 10,
+      "user": "kennethtownsend-97230",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spectacular!",
+      "score": 10,
+      "user": "ggmcheartagram",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful, Elegant, Moving and Beautiful..",
+      "score": 10,
+      "user": "Samad Abbasi (samadabbasi)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "2015's most gripping action thriller.",
+      "score": 10,
+      "user": "Maverick Wayne",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The summit is not just a goal, it's the peak of dedication",
+      "score": 10,
+      "user": "kari-lh",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply Stunning and deserving of all the awards coming its way",
+      "score": 10,
+      "user": "Ben Franklin",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A flawless 3D movie experience!",
+      "score": 10,
+      "user": "Hrannar Baldursson",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Breath- Taking yet Heart Breaking",
+      "score": 10,
+      "user": "nirajnarci",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intesting film",
+      "score": 8,
+      "user": "George Gales",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such an underrated movie.",
+      "score": 10,
+      "user": "kingfishfilmco",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Mountain With No Climax",
+      "score": 5,
+      "user": "SushiStoner103",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The books wins again...",
+      "score": 5,
+      "user": "rosbahmarsah",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dramatic, not truthful",
+      "score": 3,
+      "user": "colourbreeze",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Didn't quite hit the heights...",
+      "score": 4,
+      "user": "patbradley435",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a disaster movie",
+      "score": 1,
+      "user": "saran_nitin",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Most boring movie of 2015 - pointless, useless, waste of time and money",
+      "score": 1,
+      "user": "powerobject",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 121,
+  "votes_per_demo": {
+    "aged_45+": 9993,
+    "top_1000_voters": 405,
+    "males_under_18": 585,
+    "imdb_staff": 9,
+    "males_aged_18-29": 42308,
+    "imdb_users": 150407,
+    "males_aged_45+": 8273,
+    "aged_18-29": 53158,
+    "us_users": 13341,
+    "females_aged_30-44": 6872,
+    "males": 99571,
+    "females": 20393,
+    "females_aged_45+": 1535,
+    "non-us_users": 73480,
+    "females_aged_18-29": 10306,
+    "females_under_18": 165,
+    "aged_30-44": 49388,
+    "aged_under_18": 762,
+    "males_aged_30-44": 41768
+  },
   "genres": [
     "adventure",
     "biography",
     "drama"
   ],
-  "release_month": "September",
-  "avg_rating_per_demo": {
-    "aged_45+": 7.0,
-    "aged_18-29": 7.2,
-    "aged_30-44": 7.0,
-    "females": 7.2,
-    "top_1000_voters": 6.4,
-    "non-us_users": 7.0,
-    "females_under_18": 7.9,
-    "males_aged_30-44": 7.0,
-    "us_users": 7.0,
-    "imdb_users": 7.1,
-    "imdb_staff": 7.1,
-    "males_under_18": 7.3,
-    "females_aged_18-29": 7.3,
-    "males_aged_45+": 7.0,
-    "females_aged_30-44": 7.1,
-    "males": 7.0,
-    "males_aged_18-29": 7.1,
-    "females_aged_45+": 7.2,
-    "aged_under_18": 7.4
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Everest",
-  "gross_income": 43247140,
-  "user_review_count": 281,
-  "duration": 121,
-  "max_screens": 3009,
-  "votes_per_demo": {
-    "aged_45+": 9990,
-    "aged_18-29": 53139,
-    "aged_30-44": 49349,
-    "females": 20383,
-    "top_1000_voters": 405,
-    "non-us_users": 73438,
-    "females_under_18": 165,
-    "males_aged_30-44": 41736,
-    "us_users": 13333,
-    "imdb_users": 150313,
-    "imdb_staff": 9,
-    "males_under_18": 585,
-    "females_aged_18-29": 10304,
-    "males_aged_45+": 8270,
-    "females_aged_30-44": 6865,
-    "males": 99514,
-    "males_aged_18-29": 42291,
-    "females_aged_45+": 1535,
-    "aged_under_18": 762
+  "rating_freq": {
+    "1": 965,
+    "2": 599,
+    "3": 1018,
+    "4": 2483,
+    "5": 7780,
+    "6": 24860,
+    "7": 54684,
+    "8": 37741,
+    "9": 11912,
+    "10": 8365
   },
-  "rating_count": 150313,
+  "release_month": "September",
+  "budget": 55000000,
+  "budget_currency": "$",
+  "total_screens": 9235,
+  "year": 2015,
+  "rating": 7.1,
   "critic_review_count": 368,
-  "opening_weekend_income": 7222035
+  "opening_weekend_date": {
+    "month": 9,
+    "year": 2015,
+    "day": 18,
+    "__type__": "datetime.date"
+  },
+  "name": "Everest",
+  "user_review_count": 281,
+  "avg_screens": 1319.2857142857142
 }

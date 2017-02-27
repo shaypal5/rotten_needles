@@ -1,91 +1,740 @@
 {
-  "critic_review_count": 57,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2014,
-    "month": 1,
-    "day": 3
-  },
-  "release_month": "November",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 11,
-    "day": 15
-  },
-  "metascore": 59,
-  "max_screens": 2041,
-  "duration": 123,
-  "rating_count": 12038,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 5,
+  "release_day": 15,
   "avg_rating_per_demo": {
+    "aged_45+": 6.4,
+    "top_1000_voters": 5.2,
+    "males_under_18": 6.9,
+    "imdb_staff": 8.0,
+    "males_aged_18-29": 6.6,
+    "imdb_users": 6.7,
+    "males_aged_45+": 5.9,
+    "aged_18-29": 6.9,
+    "us_users": 6.9,
+    "females_aged_30-44": 7.2,
+    "males": 6.3,
+    "females": 7.3,
+    "females_aged_45+": 7.4,
     "non-us_users": 6.2,
     "females_aged_18-29": 7.2,
-    "females": 7.3,
-    "aged_45+": 6.3,
     "females_under_18": 8.0,
-    "imdb_users": 6.7,
-    "imdb_staff": 8.0,
-    "females_aged_30-44": 7.2,
-    "aged_under_18": 7.4,
-    "males_aged_30-44": 6.1,
-    "top_1000_voters": 5.2,
     "aged_30-44": 6.4,
-    "males_aged_18-29": 6.6,
-    "males": 6.3,
-    "females_aged_45+": 7.4,
-    "males_under_18": 6.9,
-    "us_users": 6.9,
-    "males_aged_45+": 5.9,
-    "aged_18-29": 6.9
+    "aged_under_18": 7.4,
+    "males_aged_30-44": 6.1
   },
-  "user_review_count": 64,
-  "rating_freq": {
-    "1": 442,
-    "2": 140,
-    "3": 240,
-    "4": 417,
-    "5": 903,
-    "6": 1687,
-    "7": 2560,
-    "8": 1847,
-    "9": 1117,
-    "10": 2685
+  "closing_date": {
+    "month": 1,
+    "year": 2014,
+    "day": 3,
+    "__type__": "datetime.date"
+  },
+  "metascore": 59,
+  "num_weekends": 5,
+  "rating_count": 12040,
+  "gross_income": 70492685,
+  "max_screens": 2041,
+  "opening_weekend_screens": 2024,
+  "screens_by_weekend": [
+    2024,
+    2041,
+    1717,
+    1577,
+    922
+  ],
+  "opening_weekend_income": 30107555,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "I'm Sure You Heard the Phrase, \"Grown Folk's  Business\"",
+      "score": 8,
+      "user": "day_dae",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Man Holiday delivers a dramedy which reminds you why the 90s/ early 00s were a renaissance for Black films.",
+      "score": 9,
+      "user": "Amari-Sali",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Christmas with friends",
+      "score": 7,
+      "user": "cinematic_aficionado (cinematokrisis@gmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "soap opera in a movie",
+      "score": 4,
+      "user": "frommetou35",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best man needs to write",
+      "score": 6,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Man holiday... get your Kleenex ready *spoilers*",
+      "score": 7,
+      "user": "Cyrus Thatcher Hill-Davis",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a great movie",
+      "score": 10,
+      "user": "kasabre28",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Ever!!  My new favorite of all time!",
+      "score": 10,
+      "user": "T Moses",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly funny and heartwarming.",
+      "score": 8,
+      "user": "judy",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Man Holiday Review",
+      "score": 8,
+      "user": "Dillon Schohr",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Don't Care If Your Black Or White, You Have To See This Movie ASAP!",
+      "score": 9,
+      "user": "JBlaze69",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "catching up",
+      "score": 6,
+      "user": "mcanallenrachel",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feels like time spent with old friends (****)",
+      "score": 8,
+      "user": "Film Fan Perspective (filmfanperspective@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Movie About Horrible People",
+      "score": 1,
+      "user": "Trudy Stillbottom",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More drama than comedy",
+      "score": 7,
+      "user": "scottyxl",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Has it really been 14 years???",
+      "score": 8,
+      "user": "max843",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I can't say how it compares to the first one but I really did enjoy this one. A better version of Why Did I Get Married.",
+      "score": 8,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Families and friends reunite for Christmas to catch up after 15 years",
+      "score": 9,
+      "user": "Quintreljuni",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic movie",
+      "score": 9,
+      "user": "Lara Anderson",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie",
+      "score": 10,
+      "user": "cdubb_inc",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Must See",
+      "score": 10,
+      "user": "T Keeton",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not funny enough to be a comedy, not dramatic enough to be a drama...",
+      "score": 3,
+      "user": "Thomas West",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrence Howard is my favorite actor in the thing.",
+      "score": 6,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Christmas Movie for Everyone (Over 21)",
+      "score": 9,
+      "user": "William Hooper",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect holiday film for adults",
+      "score": 10,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great down home movie",
+      "score": 10,
+      "user": "jsrnorris",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Holiday has everything you want in a classic sequel and more.",
+      "score": 8,
+      "user": "demetriocoffman",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great follow-up to the original.",
+      "score": 8,
+      "user": "David Nolley",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Man Holiday...A Delicious Yet Emotional Ride about Life!",
+      "score": 9,
+      "user": "Alana Sewell",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Haven't Laughed & Cried So Much In Years",
+      "score": 10,
+      "user": "jerrilynnbthomas",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In my opinion: The greatest movie I have ever seen, Period. Better bring a box of tissue.",
+      "score": 10,
+      "user": "kirewriter",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome!",
+      "score": 10,
+      "user": "Niasia Rouse",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie",
+      "score": 10,
+      "user": "blaxicanprincess .",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent",
+      "score": 8,
+      "user": "Stephanie Reese",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Emotional",
+      "score": 10,
+      "user": "dwheeler-843-241282",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Enjoyable Film",
+      "score": 10,
+      "user": "Mark  Peterson",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This was worth the wait...from an ALL STAR cast ..",
+      "score": 10,
+      "user": "dede dede",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic Follow-Up!",
+      "score": 8,
+      "user": "Jessica H",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Film!",
+      "score": 10,
+      "user": "Tmpthatsme",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The previews don't do it justice.",
+      "score": 10,
+      "user": "Huff Chick",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quality with no Quantity",
+      "score": 10,
+      "user": "sches26",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Greatest Comedy/Drama ever!",
+      "score": 10,
+      "user": "reggie803",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As someone who haven't seen the first",
+      "score": 9,
+      "user": " (ammabee@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sequel time",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exceptional",
+      "score": 8,
+      "user": "vincentlynch-moonoi",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A real look at relationship dynamic, this movie pulls at your heart strings.",
+      "score": 10,
+      "user": "Cconfehr",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been better",
+      "score": 4,
+      "user": "clearthinkernow",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved It",
+      "score": 10,
+      "user": "hisnamillion",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyed it",
+      "score": 8,
+      "user": "lqstallworth",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Buy or Rent this movie",
+      "score": 9,
+      "user": "countryshack",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow. Must See.",
+      "score": 10,
+      "user": "user-896-414195",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Man Holiday will make you ugly cry",
+      "score": 10,
+      "user": "jimelas-835-982916",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All the emotions",
+      "score": 10,
+      "user": "Angeleagle08",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Faith and Foul Language",
+      "score": 8,
+      "user": "Adam",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst Holiday Ever!!",
+      "score": 1,
+      "user": "mport-890-279471",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Typical urban romantic drama. 3/10",
+      "score": 3,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Every 12-year-old boy's fantasy . . .",
+      "score": 7,
+      "user": "Tad Pole",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "HORRIBLE script for GREAT actors",
+      "score": 2,
+      "user": "elanoredavis",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 123,
+  "votes_per_demo": {
+    "aged_45+": 1418,
+    "top_1000_voters": 137,
+    "males_under_18": 9,
+    "imdb_staff": 2,
+    "males_aged_18-29": 1800,
+    "imdb_users": 12040,
+    "males_aged_45+": 836,
+    "aged_18-29": 3377,
+    "us_users": 3329,
+    "females_aged_30-44": 1488,
+    "males": 5740,
+    "females": 4078,
+    "females_aged_45+": 566,
+    "non-us_users": 3626,
+    "females_aged_18-29": 1543,
+    "females_under_18": 11,
+    "aged_30-44": 4189,
+    "aged_under_18": 21,
+    "males_aged_30-44": 2651
   },
   "genres": [
     "comedy",
     "drama"
   ],
-  "budget": 17000000,
-  "rating": 6.7,
-  "name": "The Best Man Holiday",
-  "opening_weekend_income": 30107555,
-  "avg_screens": 1656.2,
-  "gross_income": 70492685,
-  "votes_per_demo": {
-    "non-us_users": 3625,
-    "females_aged_18-29": 1544,
-    "females": 4078,
-    "aged_45+": 1417,
-    "females_under_18": 11,
-    "imdb_users": 12038,
-    "imdb_staff": 2,
-    "females_aged_30-44": 1488,
-    "aged_under_18": 21,
-    "males_aged_30-44": 2650,
-    "top_1000_voters": 137,
-    "aged_30-44": 4188,
-    "males_aged_18-29": 1800,
-    "males": 5739,
-    "females_aged_45+": 565,
-    "males_under_18": 9,
-    "us_users": 3329,
-    "males_aged_45+": 836,
-    "aged_18-29": 3378
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 442,
+    "2": 140,
+    "3": 240,
+    "4": 417,
+    "5": 904,
+    "6": 1688,
+    "7": 2560,
+    "8": 1847,
+    "9": 1117,
+    "10": 2685
   },
-  "release_year": 2013,
+  "release_month": "November",
+  "budget": 17000000,
   "budget_currency": "$",
-  "release_day": 15
+  "total_screens": 8281,
+  "year": 2013,
+  "rating": 6.7,
+  "critic_review_count": 57,
+  "opening_weekend_date": {
+    "month": 11,
+    "year": 2013,
+    "day": 15,
+    "__type__": "datetime.date"
+  },
+  "name": "The Best Man Holiday",
+  "user_review_count": 64,
+  "avg_screens": 1656.2
 }

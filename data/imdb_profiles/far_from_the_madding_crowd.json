@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 5,
-    "year": 2015,
-    "day": 1,
-    "__type__": "datetime.date"
+  "release_day": 22,
+  "avg_rating_per_demo": {
+    "aged_45+": 7.2,
+    "top_1000_voters": 6.6,
+    "males_under_18": 7.1,
+    "imdb_staff": 7.0,
+    "males_aged_18-29": 7.0,
+    "imdb_users": 7.1,
+    "males_aged_45+": 7.1,
+    "aged_18-29": 7.2,
+    "us_users": 7.3,
+    "females_aged_30-44": 7.3,
+    "males": 6.9,
+    "females": 7.3,
+    "females_aged_45+": 7.6,
+    "non-us_users": 7.0,
+    "females_aged_18-29": 7.3,
+    "females_under_18": 8.0,
+    "aged_30-44": 7.0,
+    "aged_under_18": 7.5,
+    "males_aged_30-44": 6.8
   },
   "closing_date": {
     "month": 8,
@@ -11,81 +27,1347 @@
     "day": 7,
     "__type__": "datetime.date"
   },
-  "rating": 7.1,
-  "num_weekends": 11,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 264,
-    "2": 180,
-    "3": 337,
-    "4": 748,
-    "5": 1856,
-    "6": 5216,
-    "7": 10202,
-    "8": 8237,
-    "9": 3416,
-    "10": 2800
-  },
-  "avg_screens": 300.27272727272725,
-  "budget": null,
-  "budget_currency": null,
-  "release_day": 22,
   "metascore": 71,
+  "num_weekends": 11,
+  "rating_count": 33273,
+  "gross_income": 12229314,
+  "max_screens": 902,
+  "opening_weekend_screens": 10,
+  "screens_by_weekend": [
+    10,
+    99,
+    289,
+    865,
+    902,
+    610,
+    256,
+    153,
+    74,
+    27,
+    18
+  ],
+  "opening_weekend_income": 164985,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "X-rated for sheep",
+      "score": 9,
+      "user": "bob-the-movie-man",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "close to perfection",
+      "score": 9,
+      "user": "veronicammartin",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A decent adaptation of a problematic novel, which awkwardly tries to find a feminist angle where there isn't much of one to begin with.",
+      "score": 4,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very poor story telling with beautiful shots",
+      "score": 4,
+      "user": "k-bakhoda",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pick Me!",
+      "score": 7,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Languid, seductive and strongly feminist retelling of Hardy's epic tale.",
+      "score": 8,
+      "user": "markgorman",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Classic Drama/Romance",
+      "score": 9,
+      "user": "askJarv",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An entertaining 2 hours - but does it beat the 1967 version?",
+      "score": 6,
+      "user": "postmortem-books",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far from the Madding Crowd",
+      "score": 8,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A brilliant and sumptuous film that will stay with me a long time.",
+      "score": 10,
+      "user": "silverduckday",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An emotional, sensuous and passionate adaptation",
+      "score": 9,
+      "user": "Paul Evans",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exceptional and exquisite, go far and near to see it",
+      "score": 10,
+      "user": "Amy Adler",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "D.W. Griffith Would've Been Proud",
+      "score": 9,
+      "user": "Carl Schultz",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Wonderful Surprise",
+      "score": 10,
+      "user": "LA Carlson",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exquisitley filmed but lacks the energy of the first (1967) film",
+      "score": 7,
+      "user": "KateC49",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lifeless shadow of the 1967 John Schlesinger adaptation.",
+      "score": 4,
+      "user": "KEITH MICHAEL",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not far from Danielle Steele.",
+      "score": 2,
+      "user": "forestaa",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far and away the best film i've seen in a while",
+      "score": 7,
+      "user": "studioAT",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far From The Madding Crowd... Staring Matt Bellamy?",
+      "score": 9,
+      "user": "Allguns Allguns",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very watchable adaptation of Thomas Hardy's novel",
+      "score": 8,
+      "user": "steven-leibson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Sweeping Romantic Period Piece Film",
+      "score": 8,
+      "user": "eric262003",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gorgeous and solidly acted",
+      "score": 8,
+      "user": "David Bogosian",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exceptional & Powerful Drama",
+      "score": 9,
+      "user": "Larry Silverstein",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stanning",
+      "score": 10,
+      "user": "dijanavucenovic",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Let No Man Steal Your Thyme",
+      "score": 8,
+      "user": "rjsf96",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "cack-handed, desperately disappointing and ultimately laughable",
+      "score": 2,
+      "user": "dfwalls12",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid, well-made period drama- but not the definitive version",
+      "score": 7,
+      "user": "James Hitchcock",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"...equal...\"",
+      "score": 8,
+      "user": "Sindre Kaspersen",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Woman inherits farm and chooses from 3 suitors",
+      "score": 7,
+      "user": "maurice yacowar",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Excellent Film But.......",
+      "score": 6,
+      "user": "BirajKhosla",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shallow and lifeless TV adaptation",
+      "score": 5,
+      "user": "tjgreenesq",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A satisfying adaptation of this literary masterpiece.",
+      "score": 6,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "1967 vs 2015 versions",
+      "score": 8,
+      "user": "Martin Allen",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that 'Far' from 'Madding'",
+      "score": 7,
+      "user": "cnycitylady",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ask me, Gabriel, Ask Me",
+      "score": 9,
+      "user": "Stephan Quinland",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great visuals",
+      "score": 7,
+      "user": "Mohamad Al-Saddawy",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Moral Corruption",
+      "score": 6,
+      "user": "westsideschl",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good period piece",
+      "score": 6,
+      "user": "Thomas (filmreviews@web.de)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Comparison with the book and the 1998 version",
+      "score": 6,
+      "user": "StarDragyn",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty good adaptation",
+      "score": 7,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "7.5/10",
+      "score": 7,
+      "user": "Chisty  Lemire",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "565th Review - Looks very Merchant Ivory 1985, and honestly, the 1967 is way better...",
+      "score": 5,
+      "user": "intelearts",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thomas Hardy done well",
+      "score": 8,
+      "user": "pamma09",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superficial Film Adaptation of a Great Book",
+      "score": 3,
+      "user": "Susan F",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simplistic Plot",
+      "score": 6,
+      "user": "peyvandmhi-118-215466",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Three men like the three different seasons in a woman's life!",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do The Right Thing",
+      "score": 9,
+      "user": "victornunnally",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Different stories and playing fields",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An ode to the jilted!",
+      "score": 7,
+      "user": "scottshak_111",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far from the madding crowd",
+      "score": 8,
+      "user": "Paula G",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Captivating and wonderfully acted",
+      "score": 9,
+      "user": "Domingo Alvarez",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fans of period romances will lap this up",
+      "score": 7,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "High-class soap opera",
+      "score": 7,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Carey Mulligan classic performance",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big Mistakes of This Film",
+      "score": 3,
+      "user": "ant-stewart",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "***",
+      "score": 7,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exactly What You Want For a Romantic Period Drama",
+      "score": 9,
+      "user": "elizdere",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very enjoyable Sunday afternoon entertainment",
+      "score": 8,
+      "user": "Josh Friesen",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 7,
+      "user": "capone666",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feisty Feminist or Simpering Boy Band Follower?",
+      "score": 6,
+      "user": "Tim Meade",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Emotionally shallow!",
+      "score": 7,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dreamy Drama",
+      "score": 7,
+      "user": "melancholicmoon",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gone with the Whirlwind of Fate",
+      "score": 8,
+      "user": "tonyblass",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Full of Surprises",
+      "score": 8,
+      "user": "mgumsley",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mulligan takes a Mulligan or two.",
+      "score": 7,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow, just wow.",
+      "score": 10,
+      "user": "blehnny",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A double-bill of two film adaptations of Thomas Hardy's novel 1967 and 2015",
+      "score": 6,
+      "user": "lasttimeisaw",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A brilliant adaptation of the Hardy novel",
+      "score": 9,
+      "user": "Aficionada",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Decline and Fall of the British Empire . . .",
+      "score": 9,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excited but Unsatisfying",
+      "score": 3,
+      "user": "mjensen810",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A beautiful film.",
+      "score": 10,
+      "user": "alysgeorge",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Suffers from an abbreviated running time but a good version of the classic",
+      "score": 7,
+      "user": "jjnxn-1",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "mostly fine, but with a fatal flaw",
+      "score": 6,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful chick flick.",
+      "score": 3,
+      "user": "Hank Yank",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inadequate remake",
+      "score": 7,
+      "user": "John Downes",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Film of 2015 I've Seen!",
+      "score": 10,
+      "user": "JLRMovieReviews",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Schoenaerts and Mulligan captivate from the opening scene",
+      "score": 6,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good enough",
+      "score": 8,
+      "user": "phoenix 2",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally some romantic",
+      "score": 8,
+      "user": "janis urtans",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An exquisitely photographed period film which engages through its performances and classical storytelling",
+      "score": 7,
+      "user": "Likes_Ninjas90",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do what is right! Date night film of the year... so far!",
+      "score": 7,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Successful Adaptation",
+      "score": 7,
+      "user": "plewes-94772",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far from the Madding Crowd",
+      "score": 8,
+      "user": "Alexa Bouhelier-Ruelle",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Balm for the Movie-going Soul--Quiet Romance & Beautiful Setting",
+      "score": 9,
+      "user": "Victoria Weisfeld",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Truly Beautiful Movie (Raging Film Reviews)",
+      "score": 8,
+      "user": "scott johnson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the most enchanting films of the year",
+      "score": 9,
+      "user": "Howard Schumann",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A joy to watch",
+      "score": 9,
+      "user": "Figgy66-915-598470",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Leading on a man you do not care for is beneath you'",
+      "score": 10,
+      "user": "gradyharp",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"I am going to astonish you all\"... Carey Mulligan shines!",
+      "score": 8,
+      "user": "Paul Allaer",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Romantic Love Rectangle in 19th-Century Rural England",
+      "score": 10,
+      "user": "classicalsteve",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Really Outstanding Telling of the Hardy Novel!",
+      "score": 9,
+      "user": "Hitchcoc",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far From Hardy, but Entertaining...",
+      "score": 6,
+      "user": "taylor_king-890-815491",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful cinematic true love",
+      "score": 9,
+      "user": "paula regan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really good...well worth seeing...but should have been longer!",
+      "score": 8,
+      "user": "Melissa84",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Maybe not the best, but a worthy rendition",
+      "score": 8,
+      "user": "Michael Horton",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Was good for Me, even with a denim dress!",
+      "score": 7,
+      "user": "bLINDINZI",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just see the 1967 version first!",
+      "score": 3,
+      "user": "am-arruda",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A major disappointment",
+      "score": 6,
+      "user": "Martin Bradley (MOscarbradley@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Process of Elimination.",
+      "score": 6,
+      "user": "Robert J. Maxwell (rmax304823@yahoo.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gorgeous production but it's littered with cringeworthy false moments.",
+      "score": 6,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "From Schoenaerts to our Hearts",
+      "score": 10,
+      "user": "Jolene Hsu",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More lust will tell the story whole",
+      "score": 8,
+      "user": "cheer88",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An almost perfect adaptation of a very enjoyable and progressive novel.",
+      "score": 9,
+      "user": "Annie Shaw",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely Loved It",
+      "score": 8,
+      "user": "AliceofX",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Good Indie",
+      "score": 8,
+      "user": "GManfred",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful Period Movie",
+      "score": 10,
+      "user": "Vicki Hopkins (vicki@vickihopkins.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful adaptation of Hardy's novel--don't miss it!",
+      "score": 10,
+      "user": "Red-125",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Far From the Madding Crowd\" has inspired everyone from a Danish metal band to the writer of \"The Hunger Games\", but can it inspire the women of 2015?",
+      "score": 6,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "She needs Christian Grey to give her a smacking!",
+      "score": 7,
+      "user": "davidgee",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that longs to be more involved in itself",
+      "score": 6,
+      "user": "otoolejp",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quality Entertainment",
+      "score": 10,
+      "user": "mike harris",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Woman in Love (Far from the Wuthering Heights)",
+      "score": 8,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good shot of sheep.. but vacuous",
+      "score": 5,
+      "user": "Lauren Walker (laurenmwalker@hotmail.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why Remake Hardy if You're Going to Make Him Boring?",
+      "score": 5,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Made with a poker up everyone's nether regions",
+      "score": 4,
+      "user": "eyeintrees",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 119,
+  "votes_per_demo": {
+    "aged_45+": 4138,
+    "top_1000_voters": 251,
+    "males_under_18": 32,
+    "imdb_staff": 4,
+    "males_aged_18-29": 4285,
+    "imdb_users": 33273,
+    "males_aged_45+": 2674,
+    "aged_18-29": 11852,
+    "us_users": 4674,
+    "females_aged_30-44": 4580,
+    "males": 12939,
+    "females": 14277,
+    "females_aged_45+": 1398,
+    "non-us_users": 16335,
+    "females_aged_18-29": 7442,
+    "females_under_18": 59,
+    "aged_30-44": 10181,
+    "aged_under_18": 93,
+    "males_aged_30-44": 5431
+  },
   "genres": [
     "drama",
     "romance"
   ],
-  "release_month": "May",
-  "avg_rating_per_demo": {
-    "aged_45+": 7.2,
-    "aged_18-29": 7.2,
-    "aged_30-44": 7.0,
-    "females": 7.3,
-    "top_1000_voters": 6.6,
-    "non-us_users": 7.0,
-    "females_under_18": 8.0,
-    "males_aged_30-44": 6.8,
-    "us_users": 7.3,
-    "imdb_users": 7.1,
-    "imdb_staff": 7.0,
-    "males_under_18": 7.1,
-    "females_aged_18-29": 7.3,
-    "males_aged_45+": 7.1,
-    "females_aged_30-44": 7.3,
-    "males": 6.9,
-    "males_aged_18-29": 7.0,
-    "females_aged_45+": 7.6,
-    "aged_under_18": 7.5
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Far from the Madding Crowd",
-  "gross_income": 12229314,
-  "user_review_count": 124,
-  "duration": 119,
-  "max_screens": 902,
-  "votes_per_demo": {
-    "aged_45+": 4136,
-    "aged_18-29": 11846,
-    "aged_30-44": 10176,
-    "females": 14269,
-    "top_1000_voters": 251,
-    "non-us_users": 16329,
-    "females_under_18": 59,
-    "males_aged_30-44": 5430,
-    "us_users": 4671,
-    "imdb_users": 33256,
-    "imdb_staff": 4,
-    "males_under_18": 32,
-    "females_aged_18-29": 7439,
-    "males_aged_45+": 2673,
-    "females_aged_30-44": 4576,
-    "males": 12935,
-    "males_aged_18-29": 4283,
-    "females_aged_45+": 1397,
-    "aged_under_18": 93
+  "rating_freq": {
+    "1": 264,
+    "2": 180,
+    "3": 338,
+    "4": 747,
+    "5": 1858,
+    "6": 5222,
+    "7": 10206,
+    "8": 8242,
+    "9": 3415,
+    "10": 2801
   },
-  "rating_count": 33256,
+  "release_month": "May",
+  "budget": null,
+  "budget_currency": null,
+  "total_screens": 3303,
+  "year": 2015,
+  "rating": 7.1,
   "critic_review_count": 222,
-  "opening_weekend_income": 164985
+  "opening_weekend_date": {
+    "month": 5,
+    "year": 2015,
+    "day": 1,
+    "__type__": "datetime.date"
+  },
+  "name": "Far from the Madding Crowd",
+  "user_review_count": 124,
+  "avg_screens": 300.27272727272725
 }

@@ -1,91 +1,928 @@
 {
-  "critic_review_count": 148,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2014,
-    "month": 6,
-    "day": 13
-  },
-  "release_month": "July",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 6,
-    "day": 14
-  },
-  "metascore": 83,
-  "max_screens": 147,
-  "duration": 91,
-  "rating_count": 10020,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 28,
+  "release_day": 26,
   "avg_rating_per_demo": {
+    "aged_45+": 7.7,
+    "top_1000_voters": 7.0,
+    "males_under_18": 7.6,
+    "imdb_staff": 7.7,
+    "males_aged_18-29": 7.4,
+    "imdb_users": 7.4,
+    "males_aged_45+": 7.6,
+    "aged_18-29": 7.4,
+    "us_users": 7.6,
+    "females_aged_30-44": 7.5,
+    "males": 7.3,
+    "females": 7.6,
+    "females_aged_45+": 8.0,
     "non-us_users": 7.3,
     "females_aged_18-29": 7.5,
-    "females": 7.6,
-    "aged_45+": 7.7,
-    "females_under_18": 8.0,
-    "imdb_users": 7.4,
-    "imdb_staff": 7.7,
-    "females_aged_30-44": 7.5,
-    "aged_under_18": 7.7,
-    "males_aged_30-44": 7.2,
-    "top_1000_voters": 7.0,
+    "females_under_18": 7.0,
     "aged_30-44": 7.2,
-    "males_aged_18-29": 7.4,
-    "males": 7.3,
-    "females_aged_45+": 8.0,
-    "males_under_18": 7.6,
-    "us_users": 7.6,
-    "males_aged_45+": 7.6,
-    "aged_18-29": 7.4
+    "aged_under_18": 7.6,
+    "males_aged_30-44": 7.2
   },
-  "user_review_count": 79,
+  "closing_date": {
+    "month": 6,
+    "year": 2014,
+    "day": 13,
+    "__type__": "datetime.date"
+  },
+  "metascore": 83,
+  "num_weekends": 28,
+  "rating_count": 10027,
+  "gross_income": 4946250,
+  "max_screens": 147,
+  "opening_weekend_screens": 3,
+  "screens_by_weekend": [
+    3,
+    6,
+    44,
+    89,
+    131,
+    135,
+    147,
+    135,
+    112,
+    95,
+    70,
+    58,
+    30,
+    12,
+    9,
+    6,
+    10,
+    4,
+    3,
+    16,
+    12,
+    55,
+    40,
+    7,
+    4,
+    2,
+    2,
+    2
+  ],
+  "opening_weekend_income": 54596,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "20 Feet From Stardom - not accurately researched",
+      "score": 1,
+      "user": "Roger L. Chemel",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's Just a Shot Away",
+      "score": 8,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointed......and let me tell you why",
+      "score": 1,
+      "user": "Kathryn Wilde",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting documentary about unheralded singing stars",
+      "score": 7,
+      "user": "Red-Barracuda",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great documentary about not quite making the top",
+      "score": 9,
+      "user": "miffedone",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A treat for the ears and an education in the music business",
+      "score": 9,
+      "user": "mmonsor-1",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like most backup singers, good not great.",
+      "score": 6,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sweet Soulful Music",
+      "score": 9,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Okay, but not Oscar worthy",
+      "score": 4,
+      "user": "jakob-infuehr",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VH-1 Doc in Disguise",
+      "score": 4,
+      "user": "MichaelLupetin",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boy, do I feel cheated.",
+      "score": 3,
+      "user": "rooprect",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining if not incredibly insightful or informative",
+      "score": 7,
+      "user": "MassDistraction",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Behind The Music.",
+      "score": 6,
+      "user": "morrison-dylan-fan",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The hidden talents",
+      "score": 8,
+      "user": "cinematic_aficionado (cinematokrisis@gmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent, \"Must See\" for all aspiring singers.",
+      "score": 9,
+      "user": "robert-259-28954",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "fascinating behind the scene",
+      "score": 8,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An unabating bore",
+      "score": 4,
+      "user": "peternelson333",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews....",
+      "score": 7,
+      "user": "capone666",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inspirational about the love of music but no surprise",
+      "score": 6,
+      "user": "jonnytheshirt",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film is a must see for any music lover, as it is extremely entertaining and enlightening as a great untold story of the music business.",
+      "score": 10,
+      "user": "mdroel20",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loving tribute",
+      "score": 10,
+      "user": "lampic",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "These ladies are legends and stars - they are not 20 feet from it they are knee deep in it...",
+      "score": 10,
+      "user": "catherinetaormina",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice doc pipes in this one!",
+      "score": 8,
+      "user": "meeza (themeezaman@hotmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bitter-Sweet Documentary on Some of Music's Greatest Backing Singers",
+      "score": 7,
+      "user": "l_rawjalaurence",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "20 Feet from Stardom Review",
+      "score": 9,
+      "user": "dlmcd325",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good musical documentary",
+      "score": 7,
+      "user": "grantss",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting view into the lives of the people behind the people you usually hear about",
+      "score": 7,
+      "user": "Charles Herold (cherold)",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This documentary is at least 40 feet from stardom",
+      "score": 4,
+      "user": "Thomas (filmreviews@web.de)",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Short on credit and recognition, the story of the back up singer in the 60's, 70's and 80's.",
+      "score": 8,
+      "user": "Marc Israel",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I just found it a little to dull to have won the Oscar.",
+      "score": 6,
+      "user": "hazysistersunshine33",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting look at the music industry",
+      "score": 8,
+      "user": "monstermayhem32",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good but not Oscar worthy",
+      "score": 7,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Would have expected a bit more from the title",
+      "score": 6,
+      "user": "Bas Meijer",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sensational!",
+      "score": 7,
+      "user": " (ikeybabe)",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fascinating look into the world of back up singers, but not Oscar worthy",
+      "score": 7,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Getting Even",
+      "score": 7,
+      "user": "Edgar Soberon Torchia (estorchia@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, But A Missed Opportunity",
+      "score": 6,
+      "user": "Jacob Rosen (bix171@comcast.net)",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "much a crowder pleaser than an insider story about music biz",
+      "score": 6,
+      "user": "lasttimeisaw",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm Surprised It Won Best Documentary",
+      "score": 6,
+      "user": "Hitchcoc",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slightly disappointing",
+      "score": 7,
+      "user": "johntosh",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Looking at 2013's Best Documentary (According to the Academy)",
+      "score": 7,
+      "user": "gavin6942",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great documentary about the unsung heroes of the music world",
+      "score": 8,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the best music movie in years! Why the media ignores this kind of film",
+      "score": 10,
+      "user": "zken-1",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Transmformative",
+      "score": 10,
+      "user": "robkillian",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Starts out amazing, just to turn into total nonsense !!!",
+      "score": 4,
+      "user": "Hieblinger",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining, but reveals intriguing truths about fame and talent",
+      "score": 8,
+      "user": "Movie_Muse_Reviews",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some were meant to step forward; some not.",
+      "score": 8,
+      "user": "Michael O'Keefe",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How can you still be \"20 FEET FROM STARDOM\" . . .",
+      "score": 9,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Singing to Beat the Band",
+      "score": 7,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rock n Roll  University",
+      "score": 10,
+      "user": "cine-maum",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The forgotten sidekicks.",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Something you never notice until you watch this",
+      "score": 8,
+      "user": "sammmmmm100",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Frustrating and depressing to hear each one's story!",
+      "score": 8,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The role of the backup singer evolves as music evolves.",
+      "score": 8,
+      "user": "Ben Larson",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Whatever Happened to ?",
+      "score": 8,
+      "user": "ligonlaw",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "backup singers",
+      "score": 2,
+      "user": "C Heeky",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "now an Oscar winner (although I wouldn't have chosen it over \"Dirty Wars\")",
+      "score": 9,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful",
+      "score": 7,
+      "user": "joihargrove12",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thou Shalt Not Overlook Thy Backup Singer.",
+      "score": 8,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved It",
+      "score": 6,
+      "user": "delilahcarter85",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you want to sing out, sing out",
+      "score": 8,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful, fascinating, presents civil rights issues",
+      "score": 10,
+      "user": "AEBarschall",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Politically correct sour grapes, not musical history",
+      "score": 4,
+      "user": "bluesdoctor",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dedicated to all those who stand in the background and wait!",
+      "score": 8,
+      "user": "graupepillard",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Woo woo...!",
+      "score": 9,
+      "user": "okilloran",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The hearts of the hits",
+      "score": 8,
+      "user": "mixpix33",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Background singers are finally recognized in compelling pop music documentary",
+      "score": 8,
+      "user": "Turfseer",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Historic and satisfying",
+      "score": 9,
+      "user": "timbermisc",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Very Compelling Film",
+      "score": 9,
+      "user": "mfj932",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie",
+      "score": 10,
+      "user": "jmferris",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant on so many levels",
+      "score": 10,
+      "user": "nadeler",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good music",
+      "score": 7,
+      "user": "bbewnylorac",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite enjoyable.",
+      "score": 8,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 91,
+  "votes_per_demo": {
+    "aged_45+": 2221,
+    "top_1000_voters": 169,
+    "males_under_18": 11,
+    "imdb_staff": 11,
+    "males_aged_18-29": 1634,
+    "imdb_users": 10027,
+    "males_aged_45+": 1661,
+    "aged_18-29": 2395,
+    "us_users": 2879,
+    "females_aged_30-44": 833,
+    "males": 6507,
+    "females": 2184,
+    "females_aged_45+": 516,
+    "non-us_users": 4580,
+    "females_aged_18-29": 732,
+    "females_under_18": 2,
+    "aged_30-44": 3812,
+    "aged_under_18": 13,
+    "males_aged_30-44": 2926
+  },
+  "genres": [
+    "documentary",
+    "music"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 89,
     "2": 33,
     "3": 66,
     "4": 130,
     "5": 404,
-    "6": 1176,
-    "7": 2860,
-    "8": 3025,
-    "9": 1369,
-    "10": 868
+    "6": 1177,
+    "7": 2862,
+    "8": 3027,
+    "9": 1370,
+    "10": 869
   },
-  "genres": [
-    "documentary",
-    "music"
-  ],
+  "release_month": "July",
   "budget": 1000000,
-  "rating": 7.4,
-  "name": "20 Feet from Stardom",
-  "opening_weekend_income": 54596,
-  "avg_screens": 44.25,
-  "gross_income": 4946250,
-  "votes_per_demo": {
-    "non-us_users": 4578,
-    "females_aged_18-29": 732,
-    "females": 2181,
-    "aged_45+": 2220,
-    "females_under_18": 1,
-    "imdb_users": 10020,
-    "imdb_staff": 11,
-    "females_aged_30-44": 832,
-    "aged_under_18": 12,
-    "males_aged_30-44": 2925,
-    "top_1000_voters": 169,
-    "aged_30-44": 3810,
-    "males_aged_18-29": 1633,
-    "males": 6505,
-    "females_aged_45+": 515,
-    "males_under_18": 11,
-    "us_users": 2879,
-    "males_aged_45+": 1661,
-    "aged_18-29": 2394
-  },
-  "release_year": 2013,
   "budget_currency": "$",
-  "release_day": 26
+  "total_screens": 1239,
+  "year": 2013,
+  "rating": 7.4,
+  "critic_review_count": 148,
+  "opening_weekend_date": {
+    "month": 6,
+    "year": 2013,
+    "day": 14,
+    "__type__": "datetime.date"
+  },
+  "name": "20 Feet from Stardom",
+  "user_review_count": 79,
+  "avg_screens": 44.25
 }

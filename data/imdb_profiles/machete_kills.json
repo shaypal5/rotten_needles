@@ -1,92 +1,1829 @@
 {
-  "critic_review_count": 263,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 10,
-    "day": 25
-  },
-  "release_month": "October",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 10,
-    "day": 11
-  },
-  "metascore": 41,
-  "max_screens": 2538,
-  "duration": 107,
-  "rating_count": 61693,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 4,
+  "release_day": 11,
   "avg_rating_per_demo": {
+    "aged_45+": 5.6,
+    "top_1000_voters": 5.5,
+    "males_under_18": 5.3,
+    "imdb_staff": 7.2,
+    "males_aged_18-29": 5.7,
+    "imdb_users": 5.6,
+    "males_aged_45+": 5.6,
+    "aged_18-29": 5.7,
+    "us_users": 5.7,
+    "females_aged_30-44": 5.7,
+    "males": 5.6,
+    "females": 5.7,
+    "females_aged_45+": 5.8,
     "non-us_users": 5.6,
     "females_aged_18-29": 5.6,
-    "females": 5.7,
-    "aged_45+": 5.6,
     "females_under_18": 7.6,
-    "imdb_users": 5.6,
-    "imdb_staff": 7.2,
-    "females_aged_30-44": 5.7,
-    "aged_under_18": 5.6,
-    "males_aged_30-44": 5.6,
-    "top_1000_voters": 5.5,
     "aged_30-44": 5.6,
-    "males_aged_18-29": 5.7,
-    "males": 5.6,
-    "females_aged_45+": 5.8,
-    "males_under_18": 5.3,
-    "us_users": 5.7,
-    "males_aged_45+": 5.6,
-    "aged_18-29": 5.7
+    "aged_under_18": 5.6,
+    "males_aged_30-44": 5.6
   },
-  "user_review_count": 164,
-  "rating_freq": {
-    "1": 2928,
-    "2": 2138,
-    "3": 3443,
-    "4": 6228,
-    "5": 11437,
-    "6": 14380,
-    "7": 10655,
-    "8": 5112,
-    "9": 1857,
-    "10": 3515
+  "closing_date": {
+    "month": 10,
+    "year": 2013,
+    "day": 25,
+    "__type__": "datetime.date"
+  },
+  "metascore": 41,
+  "num_weekends": 4,
+  "rating_count": 61709,
+  "gross_income": 7268659,
+  "max_screens": 2538,
+  "opening_weekend_screens": 2538,
+  "screens_by_weekend": [
+    2538,
+    2538,
+    2538,
+    1253
+  ],
+  "opening_weekend_income": 3837183,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "Somehow even more ridiculous than its predecessor, but not quite as funny.",
+      "score": 7,
+      "user": "Andrew Gold",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Move over, Speedy Gonzales!",
+      "score": 8,
+      "user": "BA_Harrison",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So dumb and over the top.... EXACTLY what i paid for!",
+      "score": 8,
+      "user": "theWBohlken",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete kills. That's what he does.",
+      "score": 8,
+      "user": "starsandpopcorn (starsandpopcorn@gmail.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best thing at the cinema in years. Ignore the critics!",
+      "score": 10,
+      "user": "jimsin",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love the first one, I wanted to like this, but....",
+      "score": 4,
+      "user": "cafesmitty",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Transcendent",
+      "score": 10,
+      "user": "tamecenobite",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Machete don't fail\" the fans (and fans only) in \"Machete Kills\"",
+      "score": 8,
+      "user": "youjusz-900-80067",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Actually a bit too ridiculously over the top",
+      "score": 6,
+      "user": "p-jonsson",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ultra Cheesy! Viva Machete!",
+      "score": 9,
+      "user": "westside-surfer",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Haven't walked out of a movie in years until now.",
+      "score": 2,
+      "user": "Robborg2003",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I love this movie",
+      "score": 8,
+      "user": "pmdoyle50",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "And the line is crossed...",
+      "score": 4,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bad imitation, not a parody, of a genre that was already crazy to begin with",
+      "score": 1,
+      "user": "Likes_Ninjas90",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A total disaster",
+      "score": 1,
+      "user": "zainaldeen-ali",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wanted to like it",
+      "score": 3,
+      "user": "huntclan",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Does exactly what it says on the tin",
+      "score": 8,
+      "user": "chris-cody",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just as ridiculously hilarious as the first one",
+      "score": 9,
+      "user": "mistoppi",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More of the same",
+      "score": 5,
+      "user": "gridoon2016",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete Kills",
+      "score": 6,
+      "user": "Scarecrow-88",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really, Really Stupid!",
+      "score": 5,
+      "user": "callanvass",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A far too self aware and self indulgent romp that misses every mark.",
+      "score": 2,
+      "user": "Christian Perez",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really 6 out of 10??!!",
+      "score": 2,
+      "user": "Filmaniac123",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable",
+      "score": 7,
+      "user": "slightlymad22",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Machete Kills\" has no redeeming social value. It's just FUN!",
+      "score": 7,
+      "user": "Dave McClain (dave-mcclain@hotmail.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sometimes sharp, sometimes blunt...",
+      "score": 5,
+      "user": "henriklarsson-197-251712",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Grisly and Over-the-top!",
+      "score": 7,
+      "user": "g-bodyl",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete at it again",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It gives what it offers",
+      "score": 6,
+      "user": "sergio-arauzo",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Put your brain on hold and just enjoy",
+      "score": 8,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete Don't do Satire",
+      "score": 8,
+      "user": "masercot",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete kills it in this rip-roaring sequel.",
+      "score": 8,
+      "user": "Johnny Hollywood (jnatsis@iprimus.com.au)",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than the first one!",
+      "score": 10,
+      "user": "fraggy",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Possibly the film of the century",
+      "score": 9,
+      "user": "m-a-elsewhere",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just When I Thought The Art Had Died Out...",
+      "score": 10,
+      "user": "ikrani",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Ordinary Fare!",
+      "score": 5,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You can't help but laugh! 5/10",
+      "score": 5,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could Be Better.",
+      "score": 5,
+      "user": "Domingo Ortiz",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "HK Auteur Review - Machete Kills",
+      "score": 6,
+      "user": "hkauteur",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ohhhh... Just NO!",
+      "score": 2,
+      "user": "steveraw",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gloriously Ridiculous",
+      "score": 9,
+      "user": "James Wood",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another mediocre effort from Robert Rodriguez",
+      "score": 5,
+      "user": "utgard14",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete kicks more - but feels less bad- ass",
+      "score": 6,
+      "user": "roselaar",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insane and Awesome; a Perfect MACHETE Film",
+      "score": 8,
+      "user": "brando647",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insulting for cinema",
+      "score": 1,
+      "user": "docleano",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How to do a campy movie like a Boss!!",
+      "score": 8,
+      "user": "pallavfree",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I loved the opening",
+      "score": 6,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Same old. Nothing new.",
+      "score": 6,
+      "user": "Achyuta Ghosh",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Grindhouse \"Machete\" Sequel Has Fun Villains, Overlong Plot",
+      "score": 6,
+      "user": "britishdominion",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Star Wars meets Itchy & Scratchy",
+      "score": 8,
+      "user": "rbn_lrk-1",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny and Full of Action Cartoonish B-Movie",
+      "score": 7,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The only thing this film 'Kills' is your time",
+      "score": 2,
+      "user": "gregeichelberger",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete don't fail...",
+      "score": 7,
+      "user": "Paul Magne Haakonsen",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring, not funny",
+      "score": 1,
+      "user": "renwrp",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't let him make ....... in Space",
+      "score": 1,
+      "user": "Viking P",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Over the top in all the best ways",
+      "score": 9,
+      "user": "limeyabroad",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A more insane and wilder Machete of excessive proportions",
+      "score": 7,
+      "user": "videorama-759-859391",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad Sequel",
+      "score": 4,
+      "user": "billcr12",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Slice of Cinamatic Torture",
+      "score": 1,
+      "user": "cultfilmfreaksdotcom",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved the Original, Hated the Sequel!",
+      "score": 1,
+      "user": "Nitro Rino",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete Kills will kill you with boredom.",
+      "score": 4,
+      "user": "demetriocoffman",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh, Wow!  Just Wow!",
+      "score": 2,
+      "user": "dayspring-297-896587",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Machete don't tweet\" is just one of the hilarious lines uttered by Danny Trejo's iconic character, Machete Cortez, in this new fun-as-hell sequel from Robert Rodriguez.",
+      "score": 6,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Actually pretty funny!",
+      "score": 8,
+      "user": "blackdragoon_13 (blackdragoon_13@hotmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What to Expect: Machete Kills",
+      "score": 6,
+      "user": "Film Watchin Fool",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Action aplenty, but not as good as the first film.",
+      "score": 6,
+      "user": "suite92",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Carlos Estevez for presidente...",
+      "score": 7,
+      "user": "poe426",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "only watch if you don't like the first machete film",
+      "score": 5,
+      "user": "Amie Bennett",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The new dimension of trash films is here.",
+      "score": 3,
+      "user": "ernesti",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Machete happens.\"",
+      "score": 7,
+      "user": "bensonmum2",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "went for intentionally bad, came out unintentionally awful",
+      "score": 2,
+      "user": "Luke_was_a_terrorist",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Move over Quentin Tarantino",
+      "score": 9,
+      "user": "Mischief810",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete Kills",
+      "score": 4,
+      "user": "Phil Hubbs",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lazy meta exploitation",
+      "score": 4,
+      "user": "TheMarwood",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dire sequel that falls flat on it's face from the off set",
+      "score": 2,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete Kills More Make Believe Than Make Believe",
+      "score": 10,
+      "user": "radmanart",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Try not to be distracted by the cleavage and the hairspray. That's part of my cover.",
+      "score": 6,
+      "user": "Ben Larson",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Machete don't tweet.\"",
+      "score": 8,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "one of a kind in its own genre!",
+      "score": 4,
+      "user": "SC_Diezel",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OTT Joy & \"In Space\" to Come...Can't Wait!!!  Alexa Vega as \"BARBARELLA\" anyone?",
+      "score": 8,
+      "user": "RocketeerFlyer",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Go in with an open mind and have a blast!",
+      "score": 10,
+      "user": "gronningt",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incredibly disgusting",
+      "score": 2,
+      "user": "Raef  Mousheimish",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The magic is gone...",
+      "score": 2,
+      "user": "AlephCreates10",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "To Call Machete Kills Ridiculous Would be an Understatement",
+      "score": 5,
+      "user": "nebk",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As bonkers as you would expect....",
+      "score": 7,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mindless violence ad nauseam",
+      "score": 1,
+      "user": "Wizard-8",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It feels less like a sequel and more like a parody of the first one...",
+      "score": 1,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "sorry, this one doesn't quite cut it",
+      "score": 3,
+      "user": "dmuel",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete Kills is duller  than the original.",
+      "score": 6,
+      "user": "mm-39",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of best Robert Rodriguez films in a while",
+      "score": 9,
+      "user": "EverClear320",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm in the black hole of sophistication",
+      "score": 9,
+      "user": "Dietrich Schmied",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "oh wow...",
+      "score": 1,
+      "user": "craig stephen",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious",
+      "score": 7,
+      "user": "Voyou Nobodysbusiness",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Appreciated the effort, but still no payoff",
+      "score": 4,
+      "user": "MovieProductions",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautifully Outrageous... as Usual",
+      "score": 8,
+      "user": "rzajac",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pass the Popcorn review",
+      "score": 4,
+      "user": "PassPopcorn",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Machete Kills\" But Forgets Its Origins",
+      "score": 6,
+      "user": "D_Burke",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "better than the first film and ABSOLUTELY INSANE!!!!!!!!!!",
+      "score": 10,
+      "user": "darthsitkur",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "B movie meet -Z movie",
+      "score": 1,
+      "user": "mountainrose-817-50488",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesomely crazy! Took the good from the original & added more exploitation ridiculousness!",
+      "score": 8,
+      "user": "Jamie Lee (jaythejza)",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Almost perfect",
+      "score": 9,
+      "user": "Tomi Teikko",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insane and very Entertaining",
+      "score": 10,
+      "user": "AlexJKrug",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's good that the director and actors had fun making this film, because I sure didn't have fun watching it!",
+      "score": 3,
+      "user": "g-penman",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So many CAMEOS so LITTLE IMPACT",
+      "score": 1,
+      "user": "martin-alejandro",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete Died.",
+      "score": 3,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really want to like it...",
+      "score": 5,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More of the same",
+      "score": 3,
+      "user": "grantss",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Over-the-top in all the wrong ways",
+      "score": 5,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as strong as the original, but not bad",
+      "score": 5,
+      "user": "Adam Peters",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some good scenes but Gets Repetitive",
+      "score": 5,
+      "user": "Floated2",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some funny moments, but gets repetitive",
+      "score": 5,
+      "user": "rcolgan",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blade is back",
+      "score": 5,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining, but it's getting reeeeealy self-aware now",
+      "score": 7,
+      "user": "Sandcooler",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't waste your time crud.",
+      "score": 1,
+      "user": "ghosthurd",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful as hell.",
+      "score": 4,
+      "user": "william linares",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like the first one this was just too cheesy & really too much of everything for me to enjoy. If you liked first one try this.",
+      "score": 4,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Machette happens\" (quote from the movie)",
+      "score": 5,
+      "user": "Maleplatypus",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well it has more...",
+      "score": 5,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Once is enough",
+      "score": 4,
+      "user": "bravesfanc",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dear Robert Rodriguez, please stop!",
+      "score": 2,
+      "user": "Markus Emilio Robinson",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worse than awful.",
+      "score": 2,
+      "user": "laurenthoutent",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Airplane of Mexican movies",
+      "score": 7,
+      "user": "siderite",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rodriguez Continues Along The \"Cash-Grab\" Route",
+      "score": 2,
+      "user": "chernobylpants (chernobylpants@live.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So happy this genre still exists....",
+      "score": 10,
+      "user": "matthias-leu",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best So Far - Great!",
+      "score": 8,
+      "user": "pressboard",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Worthy Sequel",
+      "score": 7,
+      "user": "CowherPowerForever",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete!",
+      "score": 10,
+      "user": "wilson trivino",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The equivalent to that knock-knock joke that went around the playground circa first or second grade",
+      "score": 6,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This will be a waste of your life",
+      "score": 1,
+      "user": "Chris Jones",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "re: John Baggs' \"review\"",
+      "score": 6,
+      "user": "Richard-Noggin",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Playful violence and witty reasoning  - at the expense of credibility",
+      "score": 7,
+      "user": "Bene Cumb",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a new super hero, Machete, but sadly a stupid one",
+      "score": 6,
+      "user": "trashgang",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete, Mexico, Mel, Madmen, Moonraker, Guns, Gaga and G.I Joe: Two hours trapped in the disturbed mind of Robert Rodriguez",
+      "score": 6,
+      "user": "Sergio Campanale",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete don't act.",
+      "score": 2,
+      "user": "ArT_of_InSaNiTy",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews",
+      "score": 2,
+      "user": "capone666",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete overkills",
+      "score": 3,
+      "user": "wittmann73",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "1/10 Dumb... austin powers w/ violence but no jokes/fun",
+      "score": 1,
+      "user": "Gore",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ridiculous but fun",
+      "score": 7,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a bad movie",
+      "score": 2,
+      "user": "Benny Stormshine Bright",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Without merit",
+      "score": 1,
+      "user": "baron_genitalstrassen",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Armored El Camino!",
+      "score": 8,
+      "user": "coljam21",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What the hell",
+      "score": 1,
+      "user": "Flash Bye",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable but not as much as the first.",
+      "score": 6,
+      "user": "GLENN CRESPO",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Over-the-Top Sequel",
+      "score": 8,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tequila!",
+      "score": 10,
+      "user": "edwin bruner",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I do not recommend",
+      "score": 1,
+      "user": "andrei-cimbala",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Should of went straight to DVD..",
+      "score": 3,
+      "user": "A K",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Filmmaker Robert Rodriguez' gone-loco-in-la-cabeza gonzo sequel to the grind house off-shoot shoot 'em up",
+      "score": 7,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "fun movie,better then first one but in this too funny DON'T  WORRY  WATCH  MOVIE",
+      "score": 10,
+      "user": "nikola17",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A step down, but it's still okay.",
+      "score": 7,
+      "user": "zetes",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You are so not getting the joke",
+      "score": 8,
+      "user": "angela_cloud",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Machete Kills?  Yes.  Yes he does.",
+      "score": 8,
+      "user": "Big_D_Box_Office_Score",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's funnier and has hotter women!",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What did you expect",
+      "score": 8,
+      "user": "mohancraig",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite funny movie, lots of action and girls",
+      "score": 7,
+      "user": "ducati17-756-566692",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't judge a movie by its poster",
+      "score": 10,
+      "user": "SweetNut",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dope Film",
+      "score": 10,
+      "user": "Heavyequipmentjc",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 107,
+  "votes_per_demo": {
+    "aged_45+": 4507,
+    "top_1000_voters": 425,
+    "males_under_18": 88,
+    "imdb_staff": 4,
+    "males_aged_18-29": 19255,
+    "imdb_users": 61709,
+    "males_aged_45+": 4080,
+    "aged_18-29": 21479,
+    "us_users": 8041,
+    "females_aged_30-44": 1604,
+    "males": 49152,
+    "females": 4224,
+    "females_aged_45+": 342,
+    "non-us_users": 33744,
+    "females_aged_18-29": 2025,
+    "females_under_18": 18,
+    "aged_30-44": 25212,
+    "aged_under_18": 107,
+    "males_aged_30-44": 23301
   },
   "genres": [
     "action",
     "crime",
     "sci-fi"
   ],
-  "budget": 20000000,
-  "rating": 5.6,
-  "name": "Machete Kills",
-  "opening_weekend_income": 3837183,
-  "avg_screens": 2216.75,
-  "gross_income": 7268659,
-  "votes_per_demo": {
-    "non-us_users": 33735,
-    "females_aged_18-29": 2026,
-    "females": 4225,
-    "aged_45+": 4502,
-    "females_under_18": 18,
-    "imdb_users": 61693,
-    "imdb_staff": 4,
-    "females_aged_30-44": 1605,
-    "aged_under_18": 106,
-    "males_aged_30-44": 23292,
-    "top_1000_voters": 425,
-    "aged_30-44": 25204,
-    "males_aged_18-29": 19256,
-    "males": 49139,
-    "females_aged_45+": 341,
-    "males_under_18": 87,
-    "us_users": 8042,
-    "males_aged_45+": 4076,
-    "aged_18-29": 21481
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 2928,
+    "2": 2138,
+    "3": 3443,
+    "4": 6231,
+    "5": 11440,
+    "6": 14381,
+    "7": 10660,
+    "8": 5115,
+    "9": 1857,
+    "10": 3516
   },
-  "release_year": 2013,
+  "release_month": "October",
+  "budget": 20000000,
   "budget_currency": "$",
-  "release_day": 11
+  "total_screens": 8867,
+  "year": 2013,
+  "rating": 5.6,
+  "critic_review_count": 263,
+  "opening_weekend_date": {
+    "month": 10,
+    "year": 2013,
+    "day": 11,
+    "__type__": "datetime.date"
+  },
+  "name": "Machete Kills",
+  "user_review_count": 164,
+  "avg_screens": 2216.75
 }

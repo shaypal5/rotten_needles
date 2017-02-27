@@ -1,92 +1,605 @@
 {
-  "critic_review_count": 83,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 7,
-    "day": 19
-  },
-  "release_month": "February",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 2,
-    "day": 15
-  },
-  "metascore": 35,
-  "max_screens": 3353,
-  "duration": 89,
-  "rating_count": 21271,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 23,
+  "release_day": 15,
   "avg_rating_per_demo": {
+    "aged_45+": 5.9,
+    "top_1000_voters": 5.0,
+    "males_under_18": 5.8,
+    "imdb_staff": 7.0,
+    "males_aged_18-29": 6.0,
+    "imdb_users": 6.0,
+    "males_aged_45+": 5.9,
+    "aged_18-29": 6.1,
+    "us_users": 5.7,
+    "females_aged_30-44": 6.2,
+    "males": 5.9,
+    "females": 6.3,
+    "females_aged_45+": 6.5,
     "non-us_users": 5.9,
     "females_aged_18-29": 6.3,
-    "females": 6.3,
-    "aged_45+": 5.9,
     "females_under_18": 6.1,
-    "imdb_users": 6.0,
-    "imdb_staff": 7.0,
-    "females_aged_30-44": 6.2,
-    "aged_under_18": 5.9,
-    "males_aged_30-44": 5.8,
-    "top_1000_voters": 5.0,
     "aged_30-44": 5.8,
-    "males_aged_18-29": 6.0,
-    "males": 5.9,
-    "females_aged_45+": 6.5,
-    "males_under_18": 5.8,
-    "us_users": 5.7,
-    "males_aged_45+": 5.9,
-    "aged_18-29": 6.1
+    "aged_under_18": 5.9,
+    "males_aged_30-44": 5.8
   },
-  "user_review_count": 45,
-  "rating_freq": {
-    "1": 613,
-    "2": 393,
-    "3": 755,
-    "4": 1517,
-    "5": 3612,
-    "6": 5851,
-    "7": 4131,
-    "8": 1958,
-    "9": 796,
-    "10": 1645
+  "closing_date": {
+    "month": 7,
+    "year": 2013,
+    "day": 19,
+    "__type__": "datetime.date"
+  },
+  "metascore": 35,
+  "num_weekends": 23,
+  "rating_count": 21274,
+  "gross_income": 57011847,
+  "max_screens": 3353,
+  "opening_weekend_screens": 3288,
+  "screens_by_weekend": [
+    3288,
+    3353,
+    3110,
+    2549,
+    2211,
+    1494,
+    977,
+    432,
+    276,
+    240,
+    283,
+    257,
+    254,
+    693,
+    346,
+    268,
+    182,
+    151,
+    138,
+    101,
+    62,
+    55,
+    7
+  ],
+  "opening_weekend_income": 15891055,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "Average, but entertaining",
+      "score": 7,
+      "user": "bclaver1",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Escape from Planet Earth \u0097 Colorful animation and aliens for kids or simple entertainment",
+      "score": 6,
+      "user": "Avid Climber",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent cartoon!",
+      "score": 8,
+      "user": "DEBI BROWN",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good animation, but the humor overdoes itself.",
+      "score": 7,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If it's the worst animated film I'll see this year, I'll be quietly content; if it's the best I'll be concerned.",
+      "score": 6,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable, but nothing spectacular",
+      "score": 5,
+      "user": "Ghostninja",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chix Chat on Film Review: Great Sci-fi animation; not very engaging.",
+      "score": 3,
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Featherweight children's entertainment",
+      "score": 4,
+      "user": "Jonny 99",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable Movie",
+      "score": 6,
+      "user": "jezza248",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The whole Area 51 monster movie send-up is fun but that's about it.",
+      "score": 5,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply Entertaining",
+      "score": 7,
+      "user": "cultfilmfreaksdotcom",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Alien Smurfs or 7-11 Commercial?",
+      "score": 7,
+      "user": "cricket crockett",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A refreshingly simple family flick.",
+      "score": 6,
+      "user": "Troy_Campbell",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad being blue",
+      "score": 10,
+      "user": "wilson trivino",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, Original, and Exciting",
+      "score": 10,
+      "user": "jaredsemingson",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly Good",
+      "score": 7,
+      "user": "madalitso2020",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My son I loved this movie",
+      "score": 8,
+      "user": "Veronica Gray",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good",
+      "score": 7,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Low grade animated film",
+      "score": 3,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Underratted, for the Quality.",
+      "score": 10,
+      "user": "Sapphire383",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Blue Movie is Golden",
+      "score": 8,
+      "user": "brodsky_donna-1",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What this movie for amazing animation and graphics",
+      "score": 9,
+      "user": "Ataur Rahman",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much more appropriate for family than Titan AE.",
+      "score": 9,
+      "user": "OrionSiriusSagan",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decently done, but there's a whole lot better",
+      "score": 6,
+      "user": "bradenbk",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny as heck",
+      "score": 10,
+      "user": "trooper5783",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "first half OK",
+      "score": 4,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible!",
+      "score": 1,
+      "user": "cadenrudolph",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very lame animated movie!!!!!!!!!!!",
+      "score": 5,
+      "user": "rajatdahiyax",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great kid movie",
+      "score": 10,
+      "user": "dreichartz",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent animation, a few funny parts, but thats it...",
+      "score": 3,
+      "user": "Filvies144",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Escape From Mediocre Cinema",
+      "score": 6,
+      "user": "Rich Wright",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun for the family! 4/10",
+      "score": 4,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sibling rivalry and daring rescue missions.",
+      "score": 4,
+      "user": "Michael O'Keefe",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Escape from Planet Earth",
+      "score": 3,
+      "user": "Phil Hubbs",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Alright but nothing new",
+      "score": 4,
+      "user": " (k_lautenschlager)",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been so much better",
+      "score": 3,
+      "user": "Steeve McCauley (steeve.mccauley@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good concept, but too childish, couldn't keep it going",
+      "score": 6,
+      "user": "Van Der Saim",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Escape From Planet Rehash",
+      "score": 1,
+      "user": "Stephen Bourne",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of Money and Time",
+      "score": 1,
+      "user": "Lisa McKinley",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The visuals are beautiful, as a whole the film is forgettable",
+      "score": 5,
+      "user": "TheLittleSongbird",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very healthy comedy, nicely tailored for children.",
+      "score": 10,
+      "user": "Seyed Alireza Meraji",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A waste of time and money.",
+      "score": 2,
+      "user": "cwazywabbit_79",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty average",
+      "score": 6,
+      "user": "TheRetardedVacuum",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a leaden dud",
+      "score": 1,
+      "user": "GoUSN",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 89,
+  "votes_per_demo": {
+    "aged_45+": 1819,
+    "top_1000_voters": 220,
+    "males_under_18": 84,
+    "imdb_staff": 1,
+    "males_aged_18-29": 6079,
+    "imdb_users": 21274,
+    "males_aged_45+": 1487,
+    "aged_18-29": 7870,
+    "us_users": 3169,
+    "females_aged_30-44": 1293,
+    "males": 14618,
+    "females": 3622,
+    "females_aged_45+": 307,
+    "non-us_users": 10223,
+    "females_aged_18-29": 1718,
+    "females_under_18": 24,
+    "aged_30-44": 7578,
+    "aged_under_18": 109,
+    "males_aged_30-44": 6211
   },
   "genres": [
     "animation",
     "adventure",
     "comedy"
   ],
-  "budget": 40000000,
-  "rating": 6.0,
-  "name": "Escape from Planet Earth",
-  "opening_weekend_income": 15891055,
-  "avg_screens": 901.1739130434783,
-  "gross_income": 57011847,
-  "votes_per_demo": {
-    "non-us_users": 10223,
-    "females_aged_18-29": 1720,
-    "females": 3622,
-    "aged_45+": 1818,
-    "females_under_18": 24,
-    "imdb_users": 21271,
-    "imdb_staff": 1,
-    "females_aged_30-44": 1291,
-    "aged_under_18": 109,
-    "males_aged_30-44": 6210,
-    "top_1000_voters": 220,
-    "aged_30-44": 7575,
-    "males_aged_18-29": 6079,
-    "males": 14616,
-    "females_aged_45+": 307,
-    "males_under_18": 84,
-    "us_users": 3168,
-    "males_aged_45+": 1486,
-    "aged_18-29": 7872
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 614,
+    "2": 394,
+    "3": 755,
+    "4": 1517,
+    "5": 3612,
+    "6": 5851,
+    "7": 4131,
+    "8": 1959,
+    "9": 796,
+    "10": 1645
   },
-  "release_year": 2013,
+  "release_month": "February",
+  "budget": 40000000,
   "budget_currency": "$",
-  "release_day": 15
+  "total_screens": 20727,
+  "year": 2013,
+  "rating": 6.0,
+  "critic_review_count": 83,
+  "opening_weekend_date": {
+    "month": 2,
+    "year": 2013,
+    "day": 15,
+    "__type__": "datetime.date"
+  },
+  "name": "Escape from Planet Earth",
+  "user_review_count": 45,
+  "avg_screens": 901.1739130434783
 }

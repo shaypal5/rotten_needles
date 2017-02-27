@@ -1,92 +1,7370 @@
 {
-  "name": "Looper",
+  "budget": 30000000,
   "opening_weekend_income": 20801552,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 28,
+    "__type__": "datetime.date",
+    "month": 12
+  },
+  "budget_currency": "$",
+  "avg_screens": 1199.8333333333333,
+  "rating_freq": {
+    "1": 3140,
+    "2": 1924,
+    "3": 3611,
+    "4": 7155,
+    "5": 18419,
+    "6": 53307,
+    "7": 126400,
+    "8": 139147,
+    "9": 60963,
+    "10": 31867
+  },
+  "screens_by_weekend": [
+    2992,
+    2993,
+    2605,
+    2223,
+    1189,
+    696,
+    491,
+    214,
+    293,
+    280,
+    232,
+    190
+  ],
+  "rating_count": 445933,
+  "total_screens": 14398,
+  "max_screens": 2993,
+  "duration": 119,
+  "gross_income": 66468315,
+  "metascore": 84,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 745,
+    "imdb_users": 445933,
+    "us_users": 64710,
+    "aged_18-29": 172367,
+    "non-us_users": 221106,
+    "aged_45+": 29085,
+    "aged_30-44": 158546,
+    "males_aged_30-44": 136256,
+    "males_aged_18-29": 143291,
+    "males_aged_45+": 24480,
+    "aged_under_18": 908,
+    "imdb_staff": 43,
+    "males_under_18": 771,
+    "females_aged_30-44": 20117,
+    "females": 55319,
+    "females_under_18": 127,
+    "females_aged_45+": 4051,
+    "males": 323187,
+    "females_aged_18-29": 27299
+  },
+  "user_review_count": 681,
+  "rating": 7.4,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 7.1,
+    "imdb_users": 7.4,
+    "us_users": 7.6,
+    "aged_18-29": 7.6,
+    "non-us_users": 7.4,
+    "aged_45+": 7.2,
+    "aged_30-44": 7.3,
+    "males_aged_30-44": 7.3,
+    "males_aged_18-29": 7.6,
+    "males_aged_45+": 7.2,
+    "aged_under_18": 7.9,
+    "imdb_staff": 7.5,
+    "males_under_18": 7.9,
+    "females_aged_30-44": 7.3,
+    "females": 7.4,
+    "females_under_18": 7.6,
+    "females_aged_45+": 7.3,
+    "males": 7.4,
+    "females_aged_18-29": 7.5
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 28,
+    "__type__": "datetime.date",
+    "month": 9
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "David Jones",
+      "contents": "I wish the writer had finished the movie he started",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Calvin Evans",
+      "contents": "Badly Conceived.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "J Goron",
+      "contents": "A disappointing let down from start to finish - caused by bad plot",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "janus-20",
+      "contents": "Very clever, very original and very welcome.",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Turfseer",
+      "contents": "Terminator meets Twilight Zone, Season 3, Episode 8",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "Tom Gooderson-A'Court (tgooderson@hotmail.co.uk)",
+      "contents": "Intelligent  Science Fiction Thriller",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "haosstoposto",
+      "contents": "To quote the main character: \u0084It's messy.\"",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "markdroulston",
+      "contents": "Refreshingly original",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "luckynumchris",
+      "contents": "Unfortunate this movie is getting so many negative reviews and comments",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Stephen Wallace Byrne",
+      "contents": "Waste of time",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Zane Tinning",
+      "contents": "The Past In The Future.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Mek Torres",
+      "contents": "High Concept Intrigue",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Rollum",
+      "contents": "Not even close",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Ben Greenwood",
+      "contents": "A Disappointment",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "yernelg",
+      "contents": "Parenthood and Self-Sacrifice",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "\"Looper\" Is A Pooper!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "AshishPrasad",
+      "contents": "Hollywood trash at it's best",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "TheSquiss",
+      "contents": "This time travel crap; just fries your brain like an egg\u0085\"",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "hannelieh",
+      "contents": "Very predictable and extremely annoying",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "kendrick-w",
+      "contents": "Terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "almdemo",
+      "contents": "What might have been.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "indiedavid",
+      "contents": "Mediocre at best  (Spoilers)",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "talentedripples",
+      "contents": "Bored to Tears",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "vctesse",
+      "contents": "Mad Max Beyond Terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Paul Griffiths",
+      "contents": "Could have been better",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "trans_mauro",
+      "contents": "Blah!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Jason Godin",
+      "contents": "Very Decent, very clever",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "thunderhead",
+      "contents": "\"Science fiction\" for dummies",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "Luca",
+      "contents": "So bad, don't know where to start from",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "peter chambers",
+      "contents": "one of the crappiest films ever....due a raspberry award or 10 !!",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Mark",
+      "contents": "We need a Time Machine to Show Us how To Make these kinds of Movies!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "mumia-1",
+      "contents": "House of cards",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "aldhec",
+      "contents": "Disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Bradley Templeton",
+      "contents": "This is a very lazy film",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Eric Hamilton",
+      "contents": "terrible movie",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "o-kindberg",
+      "contents": "Should have been labeled fantasy for the lack of knowledge about time travel..",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "roystephen-81252",
+      "contents": "'Time travel is messy' \u0096 as is this poor excuse for a movie",
+      "review_date": {
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "abuse-this2",
+      "contents": "Entertaining but very poor story line.",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "redwoods",
+      "contents": "Made me become insane and violent.... And worse again...",
+      "review_date": {
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "Neil Bidle",
+      "contents": "Complete disappointment!",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "McDoldy",
+      "contents": "Looper: Great Idea, Horrible Outcome",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "aryafsharm",
+      "contents": "A disappointing cinema experience.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "mcreiner",
+      "contents": "My god, what is wrong with you people? Mediocre",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "spradley-3",
+      "contents": "Lots of hype - very disappointing!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Edgar Iv\u00c3\u00a1n H",
+      "contents": "Good Movie but makes no sense at all",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "viperine",
+      "contents": "Without a doubt one of the most stupid films I've ever seen.",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "abhishekjekte",
+      "contents": "Very bad movie. please give it a miss",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Manjul Jani",
+      "contents": "An idea went terribly wrong!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "henroid",
+      "contents": "Common sense did not prevail",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "whirlwind06",
+      "contents": "Looper is a thrill ride that has a nice blend of thrilling action and matters of the heart.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "David Arnold",
+      "contents": "Vastly Overrated",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Arshad Pahad",
+      "contents": "Not great, or maybe my memory is just fuzzy.",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "karlsaville",
+      "contents": "Entertaining but wrong",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "redrawn",
+      "contents": "Disappointing",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "WakenPayne",
+      "contents": "Completely the opposite to what I was expecting",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "JD Zander",
+      "contents": "An endless loop of disappointments",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "hugsie124",
+      "contents": "Sooooo BAD!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "doxxman5",
+      "contents": "A wonder-filled train wreck",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "mihaelstojanovic",
+      "contents": "Good, may be better",
+      "review_date": {
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "oOoBarracuda",
+      "contents": "Looper",
+      "review_date": {
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "tendought",
+      "contents": "Another time-travel failing",
+      "review_date": {
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "lou-45632",
+      "contents": "Weak plot",
+      "review_date": {
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "gonat",
+      "contents": "Nice movie until the climax!",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "dernstar666",
+      "contents": "Insipid, Unrealistic, LAME",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Maziun",
+      "contents": "Disappointing time travel movie from start to finish",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "thisisalbundy",
+      "contents": "The Looper Falls Short Of Expectations",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "LeonLouisRicci",
+      "contents": "Bend It, Shape It...This Is Nothing New",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "gorillapimping",
+      "contents": "error in continuity and fluff",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Sheilamoira33",
+      "contents": "Long and boring",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "PhilipVier",
+      "contents": "Surprisingly awful",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "msroz",
+      "contents": "Old Joe (Bruce Willlis) has a lot more charisma than young Joe (Joseph Gordon-Levitt)",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "zee",
+      "contents": "silly but entertaining enough",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "WatchedAllMovies",
+      "contents": "Full of paradoxes",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "zeluis tavares",
+      "contents": "Disappointment",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "davidgeller41",
+      "contents": "They lost me in the middle",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Ladybbird",
+      "contents": "Tried Hard To Stay Awake",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "martin-311-679945",
+      "contents": "Excellent 40mins in a 2hr movie",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "anders martini",
+      "contents": "tries to be clever, and almost, but not quite, succeeds.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "alvarhaggis",
+      "contents": "Poor and strange.",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "consciousgeometry",
+      "contents": "Embarrassingly ill conceived",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "garbage-66",
+      "contents": "One Loopy Looper",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "Chris Bird",
+      "contents": "It Got Worse And Worse",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "Despite the Paradoxes and Plot Holes, Looper is an Entertaining Adventure",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "chernobylpants (chernobylpants@live.com)",
+      "contents": "How Can It Be So Bad?",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "elmerflp",
+      "contents": "Gruesome dystopia",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "trulyjewelly",
+      "contents": "Plot less film made in plot less way for plot less reasons.",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Rishikar Krishna",
+      "contents": "Looper \u0096 Good concept, Bad script",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Brian Tucker",
+      "contents": "Brainless and moronic, it tries to do many things and fails fundamentally at them all.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "wes-139",
+      "contents": "Loopin the Loop",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "CharlieGreenCG",
+      "contents": "The is a perfect example of a science-fiction thriller movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "alon-tal",
+      "contents": "Disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "romouele",
+      "contents": "Dull and pedantic sleeping pill.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "kevbrookland",
+      "contents": "What the hell !!!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "mattkratz (themattk@hotmail.com)",
+      "contents": "good scifi",
+      "review_date": {
+        "year": 2017,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "MyWeb Presence",
+      "contents": "I loved it",
+      "review_date": {
+        "year": 2017,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Dan Leahey",
+      "contents": "Looper Is Worth The Watch",
+      "review_date": {
+        "year": 2017,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "maplelaneeli",
+      "contents": "Great concept makes up for flaws",
+      "review_date": {
+        "year": 2017,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "fraser-simons",
+      "contents": "Causality hurts so good",
+      "review_date": {
+        "year": 2017,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "adonis98-743-186503",
+      "contents": "Dumb and Full of Plot Holes..",
+      "review_date": {
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "chris",
+      "contents": "Fantastic Movie",
+      "review_date": {
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Screen_Blitz",
+      "contents": "Looper is very intelligent, superbly original, and boasts a thoughtful portrayal on time travel",
+      "review_date": {
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "J\u00c3\u0084nis Locis",
+      "contents": "Quite enjoyable, but fails at its own logic",
+      "review_date": {
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Dillon Harris",
+      "contents": "Reasinably Unique Sci-Fi, Despite Lackluster Effects,",
+      "review_date": {
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": " (ajvogtman)",
+      "contents": "pretty good action movie by today's standards",
+      "review_date": {
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Eddie Cantillo",
+      "contents": "Looper Review",
+      "review_date": {
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "RepublicofE",
+      "contents": "I liked it, but wasn't crazy about the little kid",
+      "review_date": {
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "RMS1949",
+      "contents": "Going back in time is just pure nonsense.",
+      "review_date": {
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "piimpone",
+      "contents": "A movie about  Temporal Causality, but in a simple fashion. Sorta?",
+      "review_date": {
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "MoviesMeow",
+      "contents": "Fun, Thought-Provoking",
+      "review_date": {
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Inception Report",
+      "contents": "The Way To Do Original Sci Fi",
+      "review_date": {
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "ConsistentlyFalconer",
+      "contents": "Cracking, Old fashioned Sci-fi!",
+      "review_date": {
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "John Vincent",
+      "contents": "I adore this film",
+      "review_date": {
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "hurricane_san",
+      "contents": "Pointless waste of time.",
+      "review_date": {
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "Grant Bullert",
+      "contents": "A Difficult Film to Understand",
+      "review_date": {
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "inspectors71",
+      "contents": "Even Wikipedia has its Limits",
+      "review_date": {
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "Shawn Watson",
+      "contents": "The Dolly Llama himself",
+      "review_date": {
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "vuntimas",
+      "contents": "Rian Johnson got lost in his own story",
+      "review_date": {
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "Jacobsnemesis",
+      "contents": "A Modern Masterpiece",
+      "review_date": {
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "allyatherton",
+      "contents": "A great movie ruined by trying to be too many things.",
+      "review_date": {
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Ole Sandbaek Joergensen",
+      "contents": "Greatly performed by primarily Joseph Gordon-Levitt and Bruce Willis",
+      "review_date": {
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Looping Past, Present, Future.",
+      "review_date": {
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "grantss",
+      "contents": "Good, but not great",
+      "review_date": {
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Kris McCarthy",
+      "contents": "What a ride and a bit of a mind screw",
+      "review_date": {
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "tamer_han",
+      "contents": "Good, but with plenty of disappointments.",
+      "review_date": {
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "tomosp1965",
+      "contents": "A bit of a 'Time' waster!",
+      "review_date": {
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Hoagie-Man",
+      "contents": "Entertaining, but kind of dumb",
+      "review_date": {
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Michael Hurricane",
+      "contents": "Not for logical folks",
+      "review_date": {
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "petarmatic",
+      "contents": "I did not particularly liked it.",
+      "review_date": {
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "view_and_review",
+      "contents": "One of the Better Time Travel Movies",
+      "review_date": {
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "joelsmith190",
+      "contents": "Looper: one of the worst movies of all time",
+      "review_date": {
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "asindt98",
+      "contents": "Great praise and adoration for 'Looper.'",
+      "review_date": {
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Helio Copter",
+      "contents": "Inconsistent Core Story",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "clambakejr",
+      "contents": "An Entertaining, if not logically consistent, sci fi thriller",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Farid_Hijab-Nadweed",
+      "contents": "Hollywood, Plagiarism is Thy Name...",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "cmv32261",
+      "contents": "\"No spoilers will be shown, in your wildest.\"",
+      "review_date": {
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "Guy",
+      "contents": "Loop the Loop",
+      "review_date": {
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "dwpeaker",
+      "contents": "Couldn't Get Through It.",
+      "review_date": {
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "David Holt (rawiri42)",
+      "contents": "Strange.....",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "jb_campo",
+      "contents": "Looper Fails to Excite",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "contle",
+      "contents": "Yet another one",
+      "review_date": {
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "Leofwine_draca",
+      "contents": "Not bad, but not as good as it thinks it is",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "dalejones22",
+      "contents": "An average and predictable action movie that could have been so much more",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "philip",
+      "contents": "where is time travel when you need it?",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "schf",
+      "contents": "Creepy eyes, bad prosthetic nose constantly reminds you this is a movie and not  reality",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "Marc Colten",
+      "contents": "Terrible from the get go",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "moviesrme10",
+      "contents": "Puts characters in right place, and looks good. Still not a big success story",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "John Smith",
+      "contents": "Loopy",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "ChristianUnchained",
+      "contents": "Weird yet original",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Gary170459",
+      "contents": "Time Will Tell",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "mkham6",
+      "contents": "Enjoyable character study  even if premise is dubious",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "kerangador",
+      "contents": "I enjoyed it",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "WalterSoprano",
+      "contents": "How was this not at the Oscars was definitely better than most of the movies this year",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "mistabobdobolina",
+      "contents": "A strong, but flawed, SF actioner.",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "mjk280",
+      "contents": "Had Potential",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Chris P",
+      "contents": "Critical-Thinking, Creative, Exciting",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "sgtking",
+      "contents": "More than just another summer blockbuster",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "thinker1691",
+      "contents": "\" Picture a dog chasing his tail. Now substitute a man for the dog \"",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "jc-osms",
+      "contents": "Loop the loop",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "kdtravis",
+      "contents": "Too Hard To Follow",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "dromasca",
+      "contents": "an intelligent sci-fi thriller",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "billion_mucks",
+      "contents": "Looper Spider",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Onno Smits",
+      "contents": "A reasonable and stylized movie, although ultimately somewhat forgettable",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Gin-ster",
+      "contents": "Preposterous and off-putting yet strangely moving",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "complications123",
+      "contents": "Not as Clever as You Think",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "piratecannon",
+      "contents": "It Doesn't Exactly Rewrite History",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Joe",
+      "contents": "Thrilling and intriguing sci-fi to ponder about....",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Carl Wong",
+      "contents": "Can be better",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": " #BigRonFilmReviews",
+      "contents": "Loopy, loopy nuts are we",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Tejas Nair",
+      "contents": "Brilliant Movie Told In A Snail-Paced Way!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "lasttimeisaw",
+      "contents": "a smart idea, but not well executed!",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "grumpy-3",
+      "contents": "i have to agree with all the negative reviews",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Cravos Vermelhos",
+      "contents": "have we lowered our standards this much?",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "Mustang92",
+      "contents": "Very Contrived!",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "cleary-joshua",
+      "contents": "One of the most watchable and enjoyable blockbusters I've seen recently...",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Papa-Poo-Poo-Pee-Pee-Shire",
+      "contents": "\"Face your future, fight your past\" - this film is amazing!",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "M H",
+      "contents": "I didn't like it, but you probably will.",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "overly complicated",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "tapio_hietamaki",
+      "contents": "A confused and generic action film",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "jacksherak",
+      "contents": "Good 'MINDLESS' action movie",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "dusksky",
+      "contents": "Takes an old idea and moves in an unexpected direction with it.",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "virindra",
+      "contents": "Not very good.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "hussein_hbk",
+      "contents": "Shallow ..",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "bron1701-747-365085",
+      "contents": "What a waste of potential",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "TyTanner",
+      "contents": "A senseless and irrational dream",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "kolrimes",
+      "contents": "Looper--Was it about time travel, steampunkery or telekinesis?",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "aecrim",
+      "contents": "Wow: Bruce Willis shooting kids and defenseless women?",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "geirknappen 1",
+      "contents": "logical flaws",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "chunky_dave",
+      "contents": "LOOPER!!!! Terrible product in a good package",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "secondtake",
+      "contents": "Fabulous and fantastic and flawed deep down, but enjoyable!",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "charlesbeutt",
+      "contents": "Lets do the Hollywood Checkoff List, Shall We?",
+      "review_date": {
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "daryl-moffat",
+      "contents": "needless killing of children for shock value",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Tomas_T",
+      "contents": "Entertaining time travel scifi",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "asleepfromday",
+      "contents": "Bad, full of flaws, violent",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "Campbell Brown",
+      "contents": "Incoherent nonsense",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "msbobbin",
+      "contents": "dreadful! disappointing! boring!",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "patterncatcher",
+      "contents": "Plot with more holes than a colander",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "troy-manatunga",
+      "contents": "I am stuck in this loop!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "Great movie, except for one big flaw...",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Chris L",
+      "contents": "Mixed feelings",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "Nico Viergever",
+      "contents": "Easily one of the worst films I've ever seen.",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "edwagreen",
+      "contents": "Looper A Real Blooper 0*",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "MATTHEW TANNER",
+      "contents": "New low in community moral sensibilities.",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "Iskren Iskren",
+      "contents": "a couple of original ideas otherwise pretty clich\u00e9",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": " (bob-rutzel-1)",
+      "contents": "Enjoyable. Clever",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Scott Baldwin (Meven_Stoffat)",
+      "contents": "Here we go with the 10/10 again!",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "imdb-535-265360",
+      "contents": "Wasted opportunity",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "dierregi",
+      "contents": "Several levels of implausibility and not a single likable character",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "phd_travel",
+      "contents": "Only partly successful - too loopy for my taste",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Muhannad Kalaji",
+      "contents": "uninteresting and lost !!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "judy",
+      "contents": "Dumb and excessively violent",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "yourwarmembrace",
+      "contents": "Sci-Fi or not, I draw the line at firing a gun at a child",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "justinstryker",
+      "contents": "Great at a Glance",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "sexygeek11",
+      "contents": "Boring",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Markus Emilio Robinson",
+      "contents": "\"Disney's The Kid\" Part 2",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "layish",
+      "contents": "Major disappointment",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "jakhello147",
+      "contents": "Yawn",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "andrewshieh0712",
+      "contents": "Cleverly-Written Script and Strong Performances",
+      "review_date": {
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Taylor Kingston",
+      "contents": "An interesting and slightly confusing movie...",
+      "review_date": {
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "KalKenobi83",
+      "contents": "Amazing Take on Time Loops",
+      "review_date": {
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "Prismark10",
+      "contents": "Cause and effect",
+      "review_date": {
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Teris Rogers",
+      "contents": "God, it was so good!",
+      "review_date": {
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Mr-Fusion",
+      "contents": "A clever time-travel movie. Its kinda rare.",
+      "review_date": {
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Rabh17",
+      "contents": "Gritty drama that hinges on Time Travel",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "juneebuggy",
+      "contents": "Unique, twisty time travel with a great first half",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Nicole C",
+      "contents": "Cool story and great acting but had too much unnecessary stuff.",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Tweekums",
+      "contents": "An enjoyable sci-fi thriller",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "bowmanblue",
+      "contents": "Wow - actually pretty good",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "jbirks106",
+      "contents": "all time-travel movies suffer",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "jjalon95",
+      "contents": "overall great movie",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "xaniver",
+      "contents": "Flawed but not without merit",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Brian Neumann",
+      "contents": "Excellent Film",
+      "review_date": {
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "begob",
+      "contents": "Good, a bit muddled",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "kgaillard",
+      "contents": "An Incredibly Original and Masterful Work of Art",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "jettaaaha3",
+      "contents": "the toddler will create the time machine",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Chris Allen",
+      "contents": "Novel ideas and strong themes delivered with precision; good solid sci-fi",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "classicsoncall",
+      "contents": "\"This time travel crap, just fries your brain like a egg...\"",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Lloyd Bayer",
+      "contents": "Even with its centrally themed time paradox, Looper is an original and enjoyable science fiction film that relies on logic to dictate the narrative.",
+      "review_date": {
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "contents": "A solid and entertaining SF",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Lomedin",
+      "contents": "Did they cast Willis because he has experience time travelling?",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "HandHStudios",
+      "contents": "An Annoying Plot Shift Ruins a Could've-Been 10/10 Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "robinski34",
+      "contents": "In The Loop",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "indal singh",
+      "contents": "people from 2075 have appointed the people called loppers for the disposal of the bodies for someone they want to kill",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Robbie Manders",
+      "contents": "Simply the best",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "justinnorris12",
+      "contents": "A Violent, Smart, Sometimes Funny Time Travel Tale",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "axel-koch",
+      "contents": "Actually one of the best sci-fi movies in recent years",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Tehmeh",
+      "contents": "So much potential. So much.",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Apu Garnesh",
+      "contents": "The last part especially sucked",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "p-jonsson",
+      "contents": "Proves that time-travel movies are difficult to make",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "kristendiangelo",
+      "contents": "A must see!",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "blanche-2",
+      "contents": "unusual time travel movie",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Jeffrey-Pugh",
+      "contents": "Good despite the gratuitous violence and the weird twist",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Chandru Bhojwani (cultjones@yahoo.com)",
+      "contents": "Super Looper",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Brett Chandler (Thunderbuck)",
+      "contents": "Thoughtful, character-driven...",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "evanston_dad",
+      "contents": "Strong Message Was Enough to Make Me Overlook Numerous Plot Weaknesses",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": " (quocanh80@hotmail.com)",
+      "contents": "Loopy",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Bevan Mortimer",
+      "contents": "Entertaining action movie",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "johnathan frost",
+      "contents": "A  excellent story of science fiction",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "praisehim-425-577701",
+      "contents": "Good idea with plot holes",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "cnycitylady",
+      "contents": "Very enjoyable action flick",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "plasticanimalz",
+      "contents": "Decent Enough",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "hkinney2011",
+      "contents": "Poorly Finished",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "sohansurag",
+      "contents": "Time Travel For Dummies!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "timvannieuwaal",
+      "contents": "Nice Saturday night movie",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "ron_capuccino",
+      "contents": "Average/Good Experienc",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "sof201051",
+      "contents": "Could have been an excellent movie",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "Kostas Chiotleis",
+      "contents": "Good film..based on a questionable Script",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Anirudh Jaura",
+      "contents": "Looper..runs too many circles and delivers nothing",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Mike Stolyarov",
+      "contents": "\"Inception\" For Dummies",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Floated2",
+      "contents": "Creative Sci-Fi Film That Falls Short towards the End",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Crazy ideas all jammed together somehow works",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Ben Larson",
+      "contents": "This time travel crap, just fries your brain like a egg...",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "helli0n",
+      "contents": "So good yet so bad...",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "bananaguy42",
+      "contents": "Bruce Willis kills some kids",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "Michael Jonas Murray (michaeljonasmurray@gmail.com)",
+      "contents": "I don't get all the bad reviews",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "Nick",
+      "contents": "Dull, Trite, Overrated",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Out of the Loop",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "doug_park2001",
+      "contents": "I Thoroughly Enjoyed LOOPER",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "flingebunt",
+      "contents": "Lame slow time travel movie",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "Al_The_Strange",
+      "contents": "\"The path is a circle, round and round.\"",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "paudie",
+      "contents": "Entertaining Time travel thriller",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "lilszoo2011",
+      "contents": "Fun soaked, tidy sci-fi...",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Rameshwar IN",
+      "contents": "Manages to stay afloat even after treading on prohibited territory abandoning the most desirable path.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "dgefroh",
+      "contents": "Looper throws YOU for a loop",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Anna G",
+      "contents": "Not A Time Cop Time travel is irrelevant in the scheme if things",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "tavm",
+      "contents": "Looper may not always be easy to understand, but it's still worth seeing",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Esa H",
+      "contents": "Enjoyable blockbuster science-fiction movie",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "davideo-2",
+      "contents": "Over the top sci-fi actioner that probably wouldn't even be better on a second viewing",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "Tamas",
+      "contents": "Decent, above average",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "amit_singh1084",
+      "contents": "A Sci-Fi Action with the pace of Godfather... Boooring",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Abdel Gulabkhan",
+      "contents": "This film is boring and makes u loopy",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Michael Kolokov",
+      "contents": "Original story, Great acting, great script, great direction. Go see this movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "Entertaining, but its screenplay could have been better polished",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "vicarious_tool",
+      "contents": "Tries to be more than it is.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "lagudafuad",
+      "contents": "Looper is fun to watch and it delivers on expectation",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Roger Burke",
+      "contents": "Where you wonder if you've been loopy to watch it",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "poj-man",
+      "contents": "More Clever Stupidity",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "George Seabrook",
+      "contents": "It's not perfect, but by God is it good.",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "brando647",
+      "contents": "An Incredibly Solid Action Film & Creative Bit of Sci-Fi",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "illbebackreviews",
+      "contents": "Looper has a lot of Blade Runner and Terminator feel to it but delivers a very good and a sort of unique movie",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "aequus314",
+      "contents": "Superb execution on a tired and old premise. Entertaining!",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "gradyharp",
+      "contents": "\"You're going to kill this guy, your own self?'",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "kdnor2011",
+      "contents": "An entertaining, smart sci-fi that isn't for everyone",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "westfield-john",
+      "contents": "Exceptional idea, poor realization",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "sachin_jans",
+      "contents": "Closing the loop ion a beautiful way...",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Mark Emerson",
+      "contents": "One of the most impressive films and casts of 2012.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "o-lahtinen",
+      "contents": "Boring unjustified violence",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "uttiyo-sarkar56",
+      "contents": "Extremely Unique and Thoughtful.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "ritera1",
+      "contents": "Bone in my throat",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "sueandscott50",
+      "contents": "Good, why all the criticism?",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "bobbyfitzgerald",
+      "contents": "Well done",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "ersinkdotcom",
+      "contents": "\"Looper\" is science fiction the way it was meant to be: intelligent, thought-provoking, and exciting",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "nexus-37",
+      "contents": "Really interesting plot, little confusing",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Rob_Taylor",
+      "contents": "Well, it was full of nonsense, but I enjoyed it.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "quickquirk",
+      "contents": "What the hell just happened....?",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Bharat Samra",
+      "contents": "Looper, or Blooper?",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Francesco  Loi",
+      "contents": "Looper or Looser ?",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "sljohnson12",
+      "contents": "Rian Johnson fails in his attempts to be the next Christopher Nolan in a film that tries too hard to be \"cool.\"",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Sally Warner",
+      "contents": "An awesome science fiction treat",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Ketan Gupta",
+      "contents": "Looper is surely an unique film like its trailer",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "KoreanPenguin",
+      "contents": "Looping back to the Future",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Galina",
+      "contents": "Then I saw it..",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "Iban Bamboo (c_you_there_at_home_with_blackrob@hotmail.com)",
+      "contents": "Clooper",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Snowgoat",
+      "contents": "Attempt at cerebral sci-fi let down by endless plot holes and a feather-headed lack of logic",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "GideonPope",
+      "contents": "If you don't think too hard, it's okay, otherwise . . .",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "baron_genitalstrassen",
+      "contents": "I liked it Better When it was Called \"2009: Lost Memories\" ...",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Kickass13",
+      "contents": "A sci fi masterpiece that combines heart, brains and excitement to make possibly the best film of the year",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": " (otto_schitburger@yahoo.com)",
+      "contents": "Original??? It's a remake.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Terra Dacktell",
+      "contents": "Hated it.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "LovePythons",
+      "contents": "I walked out!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "cabbit75",
+      "contents": "Spoiler Alert- Looper Sequel Storyline and Looper story reasoning",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "thefadingcam",
+      "contents": "Almost a cult classic, but ultimately forgetful",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "krisubbu",
+      "contents": "Loops you into the movie!",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Andy Steel",
+      "contents": "Good movie...",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "alecarranza",
+      "contents": "Looper movie review",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "hptish",
+      "contents": "Awesome film",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Holden Caine",
+      "contents": "Rip-roaring time travel epic- a flashback to the times when action films were still exciting...",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "How would you market this career at a job-fair?",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Maz Murdoch (asda-man)",
+      "contents": "Loopy great fun!",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Tara Lundrigan (tara@taralundrigan.com)",
+      "contents": "Looper - Realistic Time-Travel",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Maacaw",
+      "contents": "Good movie, don't knock it because you think you understand time travel",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "filmlvr76",
+      "contents": "Robbed of a nomination",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Bruce722",
+      "contents": "Fantastic movie.",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Ang L",
+      "contents": "The trouble with time travel",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Hamish Joy",
+      "contents": "Novel sci-fi action flick; not perfect, but very gripping",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "deera deera",
+      "contents": "Unexpected Ending, so so Story",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Joanna7890",
+      "contents": "Okay so this movie was basically...",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Treyroo",
+      "contents": "Good film",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "devesh pant",
+      "contents": "looper time traveler",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "mikess_nz-148-86998",
+      "contents": "Looper-An excellent movie",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "veit-woerndl",
+      "contents": "Diverse themes,great action with a twist",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Laakbaar",
+      "contents": "Gripping time-travel story",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "stella castella",
+      "contents": "Good Film - Don't think about time travel too technically, what was meant to be will",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "sid-j-dev",
+      "contents": "Not the greatest Sci-fi",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Darko Bogojevic",
+      "contents": "Time travel mash up!",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Bo Mars",
+      "contents": "It's good, but everything watched is put into question at the very end",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "mister-green7",
+      "contents": "almost unrecognisable Joseph Gordon-Levitt",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "grandmastersik",
+      "contents": "Nothing special but enjoyable enough while it lasted",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Jafar Iqbal",
+      "contents": "This is a good movie, not a great movie",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Bene Cumb",
+      "contents": "A decent sci-fi thriller, but not so special",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "georgep53",
+      "contents": "The Weird Business Of Time Travel",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "kunalkhandwala",
+      "contents": "Saving an inevitable future is intriguing...",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "kivancozsahin",
+      "contents": "Is it all about logic?",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "akasaka3",
+      "contents": "professional work",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Maya Kavanagh",
+      "contents": "A time-travel film that focuses on the past",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Nikhil Taneja",
+      "contents": "Looper review from the future!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Mike Keski",
+      "contents": "Very enjoyable, impeccable acting, interesting storyline.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "markgorman",
+      "contents": "Sliding Doors with Guns.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "jake-law123",
+      "contents": "Best film of 2012.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "uauaw",
+      "contents": "good but not great",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "grhgulhan",
+      "contents": "nice but has its LoopHoles",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Daniel Riley (tedari)",
+      "contents": "Missing an act",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Ryan_MYeah",
+      "contents": "It's hard to find movies as original as this one. You've never seen one like this before.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "steven-carter",
+      "contents": "Hard on the outside, soft on the inside",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "larry-411",
+      "contents": "Intriguing and enjoyable as long as you don't take it too seriously",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Amadio",
+      "contents": "Looper - surprisingly tedious SF",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "elmeeksio",
+      "contents": "Fricking AWESOME!",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "siderite",
+      "contents": "Bruce Willis saves the world BEFORE he was Bruce Willis",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Jack Dignan",
+      "contents": "Confusing but Surprisingly Good",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "evan_harvey",
+      "contents": "It's okay, but feels half-baked",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "douglas-colquitt",
+      "contents": "Solid and somewhat innovative time travel sci-fi",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Sergeant_Tibbs",
+      "contents": "\"Looper\" will be a strong contender for sci-fi movie of the decade.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "born-r",
+      "contents": "Great Sci-Fi Movie with a Intelligent Story",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "p-stepien",
+      "contents": "Time loops",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "quicksticks",
+      "contents": "Well-moulded time travel flick",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "silentman01",
+      "contents": "A lot of loopholes (no pun intended), but still pretty entertaining",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "Looper is a surprise scifi winner, not ambiguous like Prometheous",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "asjobner",
+      "contents": "Disappointed after putting in all the efforts to understand the details",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Sayan Deep",
+      "contents": "Spectacular",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "HelenMary",
+      "contents": "Not \"this year's Matrix\" and thankfully doesn't fry your brain like an egg",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Anurag-Shetty",
+      "contents": "The most unique sci-fi film I've watched in recent times.",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "Why Looper was amazing...and why it wasn't",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "PWNYCNY",
+      "contents": "One of the better movies of the sci-fi genre.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "blueyoke",
+      "contents": "good effort, don't get too hyped up for it though",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "dohickey37",
+      "contents": "Fun if you don't think about it too hard",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "danroy70",
+      "contents": "This movie just blows.",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "Big_River",
+      "contents": "Average Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Muti R Sufi (mutisufi)",
+      "contents": "It ain't Inception or 12 Monkeys",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "Robyn Nesbitt (nesfilmreviews)",
+      "contents": "Prepare yourself for an adventure",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "Jing LV",
+      "contents": "Two stories should become two films",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "thesar-2",
+      "contents": "Next Week on Looper\u0085",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Rick_Terminal",
+      "contents": "Not as original as it claims (and not as smart as it thinks it is)",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Carlota Martinho (carlota.martinho@gmail.com)",
+      "contents": "Looper - quick review",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Achyuta Ghosh",
+      "contents": "Brilliant scifi crime thriller",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "glenn_mcwhirter",
+      "contents": "Concept well handled. Must see for Sci Fi fans",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "nama chakravorty",
+      "contents": "Spell-Binding!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "TdSmth5",
+      "contents": "Excellent",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "dario_malic",
+      "contents": "To be, or not to be, that is the question",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "The_creator2010",
+      "contents": "A wonderful perspective of the relations between crime and time travel",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "JABstract",
+      "contents": "Great Movie (But don't take it too seriously)",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "ClutchandMikemovies",
+      "contents": "Good sci-fi film  loses grip towards the end",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "matej-trkanjec-133-920386",
+      "contents": "Technical perfection",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Jasraj Rajkhokar",
+      "contents": "A Real Big Disappointment!!!",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "pc95",
+      "contents": "Atrociously Bad",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "Meera Jayamohan",
+      "contents": "A must watch",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "JohnRayPeterson",
+      "contents": "You'll like it if you're prepared to think more than usual",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "asha-albert",
+      "contents": "One of the more original movies this year!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Mirko Serra",
+      "contents": "Funny but with holes",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "oztinseptember",
+      "contents": "spoiler: sex with my ...?",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Joao Rocha",
+      "contents": "Amazing movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Likes_Ninjas90",
+      "contents": "There are conventional elements at play that don't allow the film to free itself from the imprint of the modern studio system",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "sonic-shadow",
+      "contents": "Tragically mediocre",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Nicholas Casaletto",
+      "contents": "Thought provoking, time traveling, science fiction...Seriously!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "AlxP-64",
+      "contents": "Slow and self-inconsistent",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "Farid_Hijab_Nadweed",
+      "contents": "This movie should be called \"2009: Lost Memories 2: Electric Boogaloo.\"",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Neuenschwander9",
+      "contents": "118 minutes??! -- Is this thing going to be over soon?",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "peterfleminguk",
+      "contents": "Utter crap",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Luke N",
+      "contents": "Gripping, but confusing",
+      "review_date": {
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Miguel Oliveira",
+      "contents": "Looper",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "g-bodyl",
+      "contents": "Very Original Sci-Fi Film!",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "ROUS Reviews",
+      "contents": "Looper is big goofy sci-fi pulp",
+      "review_date": {
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Steve Schreiber",
+      "contents": "Is that the same pocket watch from Pulp Fiction?",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "PopCulturedwithMovieMike",
+      "contents": "A twisty sci-fi classic.",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Robert Thompson (justbob1982)",
+      "contents": "No Twelve Monkeys, but not far off",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Simon Blain",
+      "contents": "You shouldn't need my opinion to know this but...",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "bhusebye-734-848502",
+      "contents": "Looper can't stop watching it",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "dolphinsee",
+      "contents": "Confused",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "erglesnog",
+      "contents": "Excellent Movie: Interesting and Tense",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "raphaklopper",
+      "contents": "\"This time travel crap, just fries your brain like an egg\". Rian Johnson really make a point with this phrase!",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "colm-hearne365",
+      "contents": "Why was it not nominated for an Oscar?",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "Sopreeze",
+      "contents": "Don't watch this movie",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "Aarron Dixon",
+      "contents": "Don't do it for the Sci-Fi",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "simjohn",
+      "contents": "Poor reviews don't do this film justice",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Lucy_Rose84",
+      "contents": "Incredibly crafted, mind-bending thriller",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Ismail ER",
+      "contents": "It was good, but...",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "FSfilmblog",
+      "contents": "Twist your brain round this",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Ash-radford",
+      "contents": "Clever for the smart people",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "MrGoodMovie",
+      "contents": "Looping the Loop",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Tss5078",
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Omer Mohammed",
+      "contents": "Looper pulls you in quite well.",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "TheUnknown837-1",
+      "contents": "Second-hand action scenes prevent it from being a masterpiece, but Rian Johnson's film is appreciatively clever and packed with intricate details.",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "shoaib_me",
+      "contents": "My expectation was too high.....",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "tha_hawk",
+      "contents": "Fight your present, face your past, forget your future..?",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "noisy blocks",
+      "contents": "One of the best time-travel-themed movies",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "griffolyon12",
+      "contents": "Food for Thought",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Musty  Elbows",
+      "contents": "Looper isn't perfect but it is one great film",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "casablancakid",
+      "contents": "Hard to define, go watch it.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "tomgillespie2002",
+      "contents": "Simple and satisfying with a very human heart",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Samuel Cheng",
+      "contents": "Why so many negative reviews?",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Tivon",
+      "contents": "Don't over think it, just let it happen..",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "pepsicolasmileyface",
+      "contents": "Why do people hate on this movie",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "divinours",
+      "contents": "Time travel does not have to be overly complicated...",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Atif Unaldi",
+      "contents": "Great Fiction",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "lammersquarter",
+      "contents": "Tarantino meets twelve monkeys",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Sean Lamberger",
+      "contents": "An Effective, Captivating Tweak on One of Sci-Fi's Favorite Premises",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Ivan Petricevic",
+      "contents": "Very good film, interesting. Better than \"In time\", almost good as \"12 Monkeys\", not as good as \"Matrix\"",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "mhfirooz",
+      "contents": "You wouldn't expect a new good movie about time travel",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Manal S.",
+      "contents": "A Sci-fi Triumph.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "JoaoPovoaMarinheiro",
+      "contents": "Rian Johnson's storytelling abilities proceed. A strong and refreshing sci-fi thriller.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "kluseba",
+      "contents": "A consistent grower with an aborted ending",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Nafis Shahriyar",
+      "contents": "An ace sci-fi flick based on the theory of time travel and telekinesis",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "ffuuut",
+      "contents": "A frustratingly good ride",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "plpregent",
+      "contents": "Super satisfying action/sci-fi combo",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "sephev",
+      "contents": "Jaw-Droppingly Awesome",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "sharrison12",
+      "contents": "Clever concept, solid script, awesome special effects, fantastic characters",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "GibsonExplorer1976",
+      "contents": "A very good action movie with a premise that makes little sense",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "mithil293",
+      "contents": "Looper is one unique thrilling piece",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Prekajski",
+      "contents": "finally a good movie",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "michael11391",
+      "contents": "One of the already many best sci-fi flicks of the last 4 years along with The Adjustment Bureau, Source Code, District 9 & Inception.",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Vikram Johri",
+      "contents": "Avoid",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Dharmendra Singh",
+      "contents": "A time-travelling loop-the-loop",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "david-sarkies",
+      "contents": "One wild ride right to the end.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Iver Neset",
+      "contents": "This Is Going to Take a Long Time",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "muthink",
+      "contents": "Good, but with problems",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "TheGatsby",
+      "contents": "Dazzling",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "kruker123",
+      "contents": "Movie's about suicide",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "mojorisin7",
+      "contents": "Surprisingly good",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "sedition-1",
+      "contents": "Astoundingly average",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "thegame376",
+      "contents": "You guys wanted it.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "alternatenm",
+      "contents": "This movie is deep, y'all",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "contents": "Trippy Philip K.Dickian sci-fi mind-f*#ck of a flick",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "generalchong90",
+      "contents": "Spoilers. But the user review for this movie was horrible.... It was a movie about love... and how far people will go for it...or sacrifice for it",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Drew St. Pierre",
+      "contents": "Challenging but a great futuristic sci-fi film",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "januaryman-1",
+      "contents": "Well done!  A new classic.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "ishaan_gurung",
+      "contents": "Not a professional.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Catalin Florea",
+      "contents": "Nothing special",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "tzrjustbrowsing",
+      "contents": "Great acting",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Jamie Wenban",
+      "contents": "Un-original crap",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Alexia Verona (idontknowiknowthatidontknow)",
+      "contents": "Finally, a movie from Hollywood that's worth a damn!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "patrickwigington",
+      "contents": "All The Time in the World",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "davewright99",
+      "contents": "Highly Overrated",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "kandotom",
+      "contents": "a boring and mediocre movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "tlettl83",
+      "contents": "Really, 8.2? For what?",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "nicgld77",
+      "contents": "Good storyline, grotesque scenes--would not recommend.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "franklever1",
+      "contents": "Looper doe snot live up to it's rating or meta score. C'mon!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "DarthPaul85",
+      "contents": "I want to see the original script...",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "M_o_g_a_m_b_o (bollyjuice@hotmail.com)",
+      "contents": "this movie is copy of Korean movies with flaws",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "Ben_Horror",
+      "contents": "Loopy",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Drewgarden",
+      "contents": "This is not good",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "sawfish666",
+      "contents": "a sorrowful example of narrative resolution...",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "clarke-illmatical",
+      "contents": "Only works if you bite...",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "Well developed characters in a futuristic film",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "DimitryVanLaere",
+      "contents": "RaTKiN's Movie Rants: LOOPER",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "ohadlevy",
+      "contents": "Going to be Watching this movie in loops :)",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "jordan_heidendahl",
+      "contents": "Best movie of the year so far...",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "sandra-santagueda",
+      "contents": "Magnificent",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "igorsantagueda",
+      "contents": "A Classic",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "nowdays",
+      "contents": "brilliant",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "swanhatch77",
+      "contents": "Entertaining and thought provoking, even with the plot holes.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "mike-hejja",
+      "contents": "Not terrible, but not as good as reviews will lead you to believe",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "rebecca-ry",
+      "contents": "A future classic",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Philip Mackenzie",
+      "contents": "Not Bladerunner",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "Loved this Film!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "davidgee",
+      "contents": "Confusing, intricate, pacey",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Guy Stevens",
+      "contents": "Gun movie highlights what's wrong with America?",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "politically_incorrect204",
+      "contents": "Looper - Brilliantly Original",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "iditona",
+      "contents": "Very unique. Great film.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "I B",
+      "contents": "A thought-provoking and thrilling sci-fi action film with a dose of originality.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "dalibor-572-994641",
+      "contents": "Extremely poor writing!",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "John-The-Roman",
+      "contents": "Pure excellence in film making.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "MovieSonic",
+      "contents": "Wow",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "ethanthoren",
+      "contents": "One Of The Best Movies Ever Made!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Looper",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Luke Goldstein (goldwriting)",
+      "contents": "Let's agree to disagree (with myself)",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "kgprophet",
+      "contents": "Smart Script makes most of Time Travel Twist",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Breathtaking - literally",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "ekalcheff",
+      "contents": "Incredible. Best movie of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "AlienByChoice",
+      "contents": "Mediocre, over-hyped, and an insult to science-fiction fans",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "moonspinner55",
+      "contents": "Shades of \"The Terminator\"...",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "jove-492-342412",
+      "contents": "Plot Has Holes In It",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "weermoore",
+      "contents": "Who is this guy?",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "smerve2002",
+      "contents": "What is the right choice?",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "thunderpeng",
+      "contents": "Read full review 10/10!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "Alyssa Black (Aly200)",
+      "contents": "My Favorite JGL Film Ever",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "coiffuremixte",
+      "contents": "movie hallucination",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "bainst",
+      "contents": "Dick-ish (P.K., that is)",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Johnny Rapper",
+      "contents": "The head of a group of assassins is sending back into the past targets to be eliminated without a trace.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "dfle3",
+      "contents": "Too many ingredients in the narrative. 75%",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "MildInconvenienceMan",
+      "contents": "Brilliant twisted views as well as loops in your own mind, as well as the film.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Heavy Metal Mouth",
+      "contents": "Looper Review by Heavy Metal Mouth",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Plutos_Charm",
+      "contents": "Great",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Matt Landry",
+      "contents": "It's not a documentary about the space-time continuum. But that's okay.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "gavinayling",
+      "contents": "Too violent",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "yonatantan",
+      "contents": "best science fiction thriller since the sixth sense",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "bektaskonca",
+      "contents": "could have been this years hit",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "yam-doron",
+      "contents": "A must see one. Read inside.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "alex_mercer",
+      "contents": "Not an ordinary sci-fi",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Barry Cooper",
+      "contents": "Time travelling assassins run out of luck",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "zetes",
+      "contents": "Fun, but there wasn't enough thought put into its premise",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "portsea",
+      "contents": "Brilliant, Willis can't do wrong by me !",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "jbwalters-186-466845",
+      "contents": "A Unique, Clever Sci-Fi Film. Just about Pefect.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "IllusionOfLife",
+      "contents": "The Best Time Travel Film I've Seen in Years",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "e-1529",
+      "contents": "Boring and disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "LiquidLuke93",
+      "contents": "\"Looper\" was truly a work of art, I loved every second of the film.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Framescourer",
+      "contents": "The Matrix meets Goodfellas, via The Usual Suspects",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Sir_Cellophane_Beak",
+      "contents": "Awesome Remake of S.Korea's \"2009: Lost Memories\", Completely Uncredited Of Course, As Is The Wont In Hollywood These days....",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "Donnie_Quixotic",
+      "contents": "Looper Looper Party Pooper",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "Looper",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Astralan",
+      "contents": "Twisted",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Stuart Park",
+      "contents": "Where's Arnie?",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Kevin Redbeard McManstein Sanders",
+      "contents": "Solid Film",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "pk_nayar",
+      "contents": "A time-travelling, philosophical, intelligent mind-bender of a film",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "manboob80",
+      "contents": "understand time travel is not needed it will fry your brain like an egg.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Deckard-16",
+      "contents": "It was the best of Time & the worst of Time",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "See Ocean",
+      "contents": "The shape of your soul!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "jadepietro",
+      "contents": "In and Out of the Loop",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Dan Franzen (dfranzen70)",
+      "contents": "Super Looper",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "PipAndSqueak",
+      "contents": "Unbelievable",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "ThePadraigMoista",
+      "contents": "Highly overrated, but a fun time.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Fields201",
+      "contents": "Bruce Willis Is The Terminator",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "dvc5159",
+      "contents": "Time and Crime doesn't pay either way",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "il brutto",
+      "contents": "Talking about stupid movies.....",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "mirimin",
+      "contents": "Solid, entertaining, but predictable and somewhat mindless",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "familiar1985",
+      "contents": "Good Plot but lots of slow and boring filler",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "GoneWithTheTwins",
+      "contents": "The introduction of telekinesis is exasperating and works to distance the premise from believability.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Orson Scott Card",
+      "contents": "Smart, morally complicated sci-fi",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "jdennist",
+      "contents": "Extremely uneven; much to recommend, much to shake one's head over",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Will",
+      "contents": "Not entirely original but a smart sci-fi film!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Simon Hardy",
+      "contents": "Good film but some problems prevent it being a classic (some spoilers)",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film Review: A very creative loop.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Bollywood_Chewbacca (celebritylargeinflamation@hotmail.com)",
+      "contents": "Hollywood should try using original ideas",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "markgraham280",
+      "contents": "A nicely balanced Sci-Fi action film.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "tgformius",
+      "contents": "How it should be called:Blooper,or Looser",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Jeff Lee",
+      "contents": "It's Terminator revisited in this assassination-romance flick",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Twilight_Wraith",
+      "contents": "more like \"Blooper\"",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "susansusan888",
+      "contents": "You won't miss anything if you don't go watch it",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": " Aidiera",
+      "contents": "Time travel still needs some work.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Hellmant",
+      "contents": "If you like these types of movies you'll eat it up!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "foleymichael60",
+      "contents": "Looped In and liking it",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Pete McPhillips",
+      "contents": "Looper - A Successfully Executed Exploration of Time-Travel",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "3xHCCH",
+      "contents": "Reminded Me of \"The Terminator\"",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "a-ozornin",
+      "contents": "New standard in action movie storytelling",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "scifilucy",
+      "contents": "Entertaining enough",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": " (bucky_dude@hotmail.com)",
+      "contents": "Generational War Comes to a Head in Smart and Surprising Sci-fi/Noir",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Jake_Durr",
+      "contents": "Good but flawed",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "grafaelp",
+      "contents": "Finally a film worth seeing this year",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "tabuno",
+      "contents": "One of the Best Time Travel Thriller Dramas",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Adriel Shank",
+      "contents": "Great well done Action Sci-fi Flick. Lots of Surprises.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "bkoganbing",
+      "contents": "Speculative enterprise",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "contents": "The Bad Path is a Circle",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Austin B",
+      "contents": "A unique film",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "HollywoodJunket",
+      "contents": "Note To Self: Never Travel Back In Time To Myself!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "TheFilmDiscussion .com",
+      "contents": "\"Looper\" is the best time travel movie of all time",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "aharmas",
+      "contents": "Imagination is NOT dead!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Jezzascmezza",
+      "contents": "Definitely Recommended",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "minerva1961",
+      "contents": "More depth than I was expecting",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "daybarnes",
+      "contents": "Too Many Holes",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "eatfirst",
+      "contents": "Superior Time Travelling Thrills",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Sepideh Toobaie",
+      "contents": "Will throw you for a loop!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "basilisksamuk (sam.salt@gmail.com)",
+      "contents": "Bruce Willis is in it - what could possibly go wrong?",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "ben_robertson",
+      "contents": "Promising new writer-director's ambitious debut",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "anorz13",
+      "contents": "Best movie of the fall",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "shadowtramp",
+      "contents": "It is well worth seeing",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Murli",
+      "contents": "An excellent Sci-fi mind bender",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "johnnymacbest",
+      "contents": "The most original Sci-Fi film I've seen this year.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "julian-mumford",
+      "contents": "This is as good as it gets",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "Blade Runner meets The Terminator",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "jcson",
+      "contents": "best sci-fi film so far this year",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "BigWhiskers",
+      "contents": "The problem with Time Travel movies ,major spoilers",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "parallel_projection",
+      "contents": "An enthralling film, yet could've been better-developed",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Michael Donelly",
+      "contents": "On Second Thought - Not So Great",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "martinrobertson300482",
+      "contents": "Something original",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "rivertam26",
+      "contents": "Something new",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "schmittycat",
+      "contents": "Get the word correct- it is Reignmaker!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "chaz-28",
+      "contents": "Time travel can be confusing, but let Gordon-Levitt & Willis worry about that; you get to sit back & enjoy a great movie",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "San Toki",
+      "contents": "A fine addition to the sci-fi genre",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "dalydj-918-255175",
+      "contents": "Looper shows what you will do to save your live.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Probably my favorite sci-fi flick of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Kevin Bechaz (cinematic_randomness)",
+      "contents": "And exciting, unique, mind bending and clever modern science fiction thriller.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Matthew Thompson (m.a.thompson2010@gmail.com)",
+      "contents": "Bringing a futuristic style of the MOB...",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "contents": "More than a cool sci-fi concept; 'Looper' commits to a real story",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "theycallmemrglass",
+      "contents": "Great storyline but a missed opportunity to be something more",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Raul Rodriguez S",
+      "contents": "awesome excellent film",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "hantonr",
+      "contents": "A gritty future that actually makes some sense",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "rollieuk",
+      "contents": "Time travelling film that never loses the plot.",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "ZChrisJ1995",
+      "contents": "Best sci-fi film of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Ruddaga2",
+      "contents": "Enjoyable Action/Sci-Fi Popcorn Flick!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Troy_Campbell",
+      "contents": "Intelligently exhilarating.",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "bigcalkenobi",
+      "contents": "Looper is one of the most creative pieces of storytelling I've seen in a while  because of its very smart and clever concept and character driven core",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "AllanHy",
+      "contents": "Some idiots should not be allowed into theaters",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Catt Jones (cattjones@chixchatonfilm.com)",
+      "contents": "Looper is a Winner",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "A mother who would die for her child......",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "homerandbart10",
+      "contents": "So refreshingly original!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "dkranjec612",
+      "contents": "Surprisingly surprising...",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Isabelle Lai",
+      "contents": "Speechless",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "tbmforclasstsar",
+      "contents": "an incredibly ambitious, well executed sci-fi thriller that is as smart as it is exciting",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "idsmithers",
+      "contents": "Don't Be Fooled When You See Bruce Willis!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "bigmystery23",
+      "contents": "Rian Johnson...I love you",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "bshannon718",
+      "contents": "This Film Will Make You Think and Feel In a Way You Will Never See Coming",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Daniel Benham",
+      "contents": "An in-depth review of Looper",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    }
+  ],
+  "release_month": "September",
   "genres": [
     "action",
     "crime",
     "drama"
   ],
-  "rating": 7.4,
-  "rating_count": 445876,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 28,
-    "year": 2012,
-    "month": 9
-  },
-  "user_review_count": 681,
-  "rating_freq": {
-    "1": 3141,
-    "2": 1924,
-    "3": 3611,
-    "4": 7154,
-    "5": 18416,
-    "6": 53304,
-    "7": 126377,
-    "8": 139126,
-    "9": 60954,
-    "10": 31869
-  },
-  "release_day": 28,
-  "votes_per_demo": {
-    "males": 323149,
-    "females_aged_30-44": 20113,
-    "aged_under_18": 908,
-    "non-us_users": 221084,
-    "males_aged_18-29": 143295,
-    "aged_18-29": 172376,
-    "males_aged_30-44": 136228,
-    "aged_45+": 29074,
-    "imdb_users": 445876,
-    "aged_30-44": 158514,
-    "us_users": 64706,
-    "females": 55319,
-    "females_aged_18-29": 27304,
-    "top_1000_voters": 745,
-    "males_aged_45+": 24472,
-    "females_under_18": 127,
-    "females_aged_45+": 4049,
-    "imdb_staff": 43,
-    "males_under_18": 771
-  },
-  "avg_rating_per_demo": {
-    "males": 7.4,
-    "females_aged_30-44": 7.3,
-    "aged_under_18": 7.9,
-    "non-us_users": 7.4,
-    "males_aged_18-29": 7.6,
-    "aged_18-29": 7.6,
-    "males_aged_30-44": 7.3,
-    "aged_45+": 7.2,
-    "imdb_users": 7.4,
-    "aged_30-44": 7.3,
-    "us_users": 7.6,
-    "females": 7.4,
-    "females_aged_18-29": 7.5,
-    "top_1000_voters": 7.1,
-    "males_aged_45+": 7.2,
-    "females_under_18": 7.6,
-    "females_aged_45+": 7.3,
-    "imdb_staff": 7.5,
-    "males_under_18": 7.9
-  },
-  "avg_screens": 1199.8333333333333,
-  "release_month": "September",
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 84,
-  "gross_income": 66468315,
-  "critic_review_count": 590,
-  "budget_currency": "$",
-  "release_year": 2012,
+  "opening_weekend_screens": 2992,
+  "name": "Looper",
   "num_weekends": 12,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 28,
-    "year": 2012,
-    "month": 12
-  },
-  "duration": 119,
-  "budget": 30000000,
-  "max_screens": 2993
+  "release_day": 28,
+  "critic_review_count": 590
 }

@@ -1,92 +1,1383 @@
 {
+  "budget_currency": "$",
+  "total_screens": 254,
+  "rating_freq": {
+    "1": 915,
+    "2": 493,
+    "3": 811,
+    "4": 1602,
+    "5": 4166,
+    "6": 10078,
+    "7": 16319,
+    "8": 10663,
+    "9": 4254,
+    "10": 5550
+  },
+  "release_day": null,
   "genres": [
     "action",
     "biography",
     "crime"
   ],
+  "name": "Machine Gun Preacher",
+  "release_month": null,
+  "avg_screens": 28.22222222222222,
+  "imdb_user_reviews": [
+    {
+      "user": "yude201119",
+      "score": 10,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "An amazing story.. An amazing movie!!!"
+    },
+    {
+      "user": "Burma Reed Powell",
+      "score": 10,
+      "review_date": {
+        "day": 31,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Had to travel to Denver to see it, but it was worth it."
+    },
+    {
+      "user": "Anton Petrov",
+      "score": 10,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "WOAH! Incredible in every manner"
+    },
+    {
+      "user": "angeltriggs",
+      "score": 10,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Heart Wrenching and Poignant"
+    },
+    {
+      "user": "Berry Kee",
+      "score": 9,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "machine gun"
+    },
+    {
+      "user": "Claudio Carvalho",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Fantastic but Unfortunately not Well Known Biography"
+    },
+    {
+      "user": "annliebe",
+      "score": 6,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A very touchy movie"
+    },
+    {
+      "user": "ana b",
+      "score": 10,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "masterpiece"
+    },
+    {
+      "user": "Hayley Meadows",
+      "score": 10,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Incredible"
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "score": 5,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Hillbilly from Penn"
+    },
+    {
+      "user": "aleksradic",
+      "score": 9,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Excellent!"
+    },
+    {
+      "user": "Unbilled_Role",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Childers Story Holds Great Potential -- Lead Role Sadly Miscast -- Inconsistent Script"
+    },
+    {
+      "user": "darko ill",
+      "score": 2,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Just another Religiously filled movie"
+    },
+    {
+      "user": "alex-b-katzmann",
+      "score": 6,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Truth is it isn't a Great movie or a Bad one either"
+    },
+    {
+      "user": "sbutters-38214",
+      "score": 1,
+      "review_date": {
+        "day": 3,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Terrible Experience"
+    },
+    {
+      "user": "anon",
+      "score": 10,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "fantastic, worth seeing, but don't see it if you forgot your heart at home!"
+    },
+    {
+      "user": "Simon_Says_Movies",
+      "score": 7,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Documentary-lite but High on Energy"
+    },
+    {
+      "user": "Prismark10",
+      "score": 3,
+      "review_date": {
+        "day": 15,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "The cross and the switchblade"
+    },
+    {
+      "user": "Adam Peters",
+      "score": 5,
+      "review_date": {
+        "day": 23,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Morally suspect, yet watchable to the last"
+    },
+    {
+      "user": "honorhorror",
+      "score": 5,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "I've got mixed feelings for this movie."
+    },
+    {
+      "user": "Ishallwearpurple",
+      "score": 8,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Based on an auto-biography---"
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "score": 5,
+      "review_date": {
+        "day": 17,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Mediocre entertainment..."
+    },
+    {
+      "user": "masandaglinus123",
+      "score": 3,
+      "review_date": {
+        "day": 30,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Too emotionally vacant"
+    },
+    {
+      "user": "Raul Faust",
+      "score": 6,
+      "review_date": {
+        "day": 22,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "(Don't) have faith in me"
+    },
+    {
+      "user": "phoenix 2",
+      "score": 4,
+      "review_date": {
+        "day": 26,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Africa"
+    },
+    {
+      "user": "a-shouvik",
+      "score": 4,
+      "review_date": {
+        "day": 11,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "where ever there is a problem, there is a white American to get you out of the mess kinda movie"
+    },
+    {
+      "user": "Vihren Mitev",
+      "score": 5,
+      "review_date": {
+        "day": 30,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "My rating: 5"
+    },
+    {
+      "user": "p-stepien",
+      "score": 5,
+      "review_date": {
+        "day": 25,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Movie unworthy of the story"
+    },
+    {
+      "user": "Bene Cumb",
+      "score": 6,
+      "review_date": {
+        "day": 14,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Okay, not great though"
+    },
+    {
+      "user": "Jacquelin Melilli (info@jacqx.com)",
+      "score": 10,
+      "review_date": {
+        "day": 31,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "One hell of a fight!"
+    },
+    {
+      "user": "hukrisz1",
+      "score": 10,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Wonderful story with not intressted people in America?"
+    },
+    {
+      "user": "jimikaevans",
+      "score": 10,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Great movie"
+    },
+    {
+      "user": "jamuckley",
+      "score": 8,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Machine Gun Preacher is a true story of a modern day hero who fights for the defenseless in Sudan"
+    },
+    {
+      "user": "Mek Torres",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "One Man's Heart and the Violence Around Him"
+    },
+    {
+      "user": "intelearts",
+      "score": 7,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "497th Review: Powerful but way too melodramatic to really shine"
+    },
+    {
+      "user": "Guy",
+      "score": 6,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "God, Me and Africa"
+    },
+    {
+      "user": "zooz898",
+      "score": 1,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "I hate this movie"
+    },
+    {
+      "user": "yespis",
+      "score": 6,
+      "review_date": {
+        "day": 20,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Could have been much more than it was"
+    },
+    {
+      "user": "vcastilino",
+      "score": 7,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Right or Wrong? But good, for sure!"
+    },
+    {
+      "user": "KineticSeoul",
+      "score": 7,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Could have been better..."
+    },
+    {
+      "user": "Tcarts76",
+      "score": 8,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Really good movie with a cause"
+    },
+    {
+      "user": "phd_travel",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Worth a watch"
+    },
+    {
+      "user": "kosmasp",
+      "score": 6,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Kony 2012"
+    },
+    {
+      "user": "Lloyd Bayer",
+      "score": 8,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Watch and weep."
+    },
+    {
+      "user": "davideo-2",
+      "score": 7,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Interesting film with more than being a dumb action film at it's heart"
+    },
+    {
+      "user": "Otsile Phiri",
+      "score": 9,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Awe-Inspiring"
+    },
+    {
+      "user": "Samiam3",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Medium good drama (which could've been more)"
+    },
+    {
+      "user": "estebangonzalez10",
+      "score": 8,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "An unorthodox emotional action drama"
+    },
+    {
+      "user": "Nick Williams",
+      "score": 8,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "great film"
+    },
+    {
+      "user": "Hellmant",
+      "score": 7,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "An action film with a heart that's also informative!"
+    },
+    {
+      "user": "theMKlife",
+      "score": 10,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "A gritty portrayal of unimaginable brutality in the Sudan"
+    },
+    {
+      "user": "Argemaluco",
+      "score": 6,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Not bad, but not very satisfactory"
+    },
+    {
+      "user": "dhananjay pal",
+      "score": 8,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Its a masterpiece that gets unnoticed.."
+    },
+    {
+      "user": "ccthemovieman-1",
+      "score": 9,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Very Thought-Provoking"
+    },
+    {
+      "user": "pradhumnbhardwaj",
+      "score": 9,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "This is one of the most under rated movie."
+    },
+    {
+      "user": "mikejin2",
+      "score": 8,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "This movie is completely underrated"
+    },
+    {
+      "user": "DOGGETT_b",
+      "score": 10,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Oscar Performance! (Warning* There is one quote from the movie)"
+    },
+    {
+      "user": "dpexecute",
+      "score": 1,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Religious propaganda"
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 7,
+      "review_date": {
+        "day": 8,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "good with some problems"
+    },
+    {
+      "user": "Angie Garcia Martinez",
+      "score": 9,
+      "review_date": {
+        "day": 1,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "The story of Sam Childers, a non conventional preacher"
+    },
+    {
+      "user": "alindsay-al",
+      "score": 7,
+      "review_date": {
+        "day": 15,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A good solid emotional film"
+    },
+    {
+      "user": "PandoraProductions4",
+      "score": 6,
+      "review_date": {
+        "day": 17,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "bizarre"
+    },
+    {
+      "user": "Gabriel Rockman",
+      "score": 7,
+      "review_date": {
+        "day": 29,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Good, but flawed"
+    },
+    {
+      "user": "Josh Bullock",
+      "score": 7,
+      "review_date": {
+        "day": 26,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Decent"
+    },
+    {
+      "user": "lcthomas824",
+      "score": 8,
+      "review_date": {
+        "day": 19,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A moving commentary on subtle moral violations and travesty in the world"
+    },
+    {
+      "user": "Leofwine_draca",
+      "score": 6,
+      "review_date": {
+        "day": 14,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Good story, acceptable translation to the screen"
+    },
+    {
+      "user": "rajatdahiyax",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Tale of a blood-soaked missionary!!!"
+    },
+    {
+      "user": "WalterSoprano",
+      "score": 8,
+      "review_date": {
+        "day": 2,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Very touching story"
+    },
+    {
+      "user": "Eric J",
+      "score": 10,
+      "review_date": {
+        "day": 21,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Gripping, Motivating, A Cause For Self-Reflection"
+    },
+    {
+      "user": "flitz35",
+      "score": 10,
+      "review_date": {
+        "day": 31,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Gerard deserves an award!!!!!!"
+    },
+    {
+      "user": "Bruce722",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Butler leads the way in a very good movie."
+    },
+    {
+      "user": "conleytgwinn",
+      "score": 9,
+      "review_date": {
+        "day": 14,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Buy it or rent it - but SEE it!"
+    },
+    {
+      "user": "ivan2012",
+      "score": 6,
+      "review_date": {
+        "day": 14,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Worth Watching"
+    },
+    {
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Do The Ends Justify The Means?"
+    },
+    {
+      "user": "Ernesto  Aguillon",
+      "score": 8,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Action Movie with Heart!"
+    },
+    {
+      "user": "cth12",
+      "score": 10,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Amazing."
+    },
+    {
+      "user": "Jacob Horton",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Very good, maybe because of my low expectations, but I would definitely recommend to anyone!"
+    },
+    {
+      "user": "Josh Anderson",
+      "score": 10,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Life Changing Movie"
+    },
+    {
+      "user": "raisingd",
+      "score": 10,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A Film Like No Other, Amazing True Story."
+    },
+    {
+      "user": "JoaoPovoaMarinheiro",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Moral death and resurrection."
+    },
+    {
+      "user": "dii_rajneesh",
+      "score": 7,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Might contain Spoiler Alerts. Buts its a linear and good story."
+    },
+    {
+      "user": "XweAponX",
+      "score": 10,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Brutally, BRUTALLY Honest Movie"
+    },
+    {
+      "user": "pwmartuneac",
+      "score": 9,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Will make you take a look at yourself in the mirror"
+    },
+    {
+      "user": "anbei68",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Powerful movie inside out"
+    },
+    {
+      "user": "jaxbubba",
+      "score": 9,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Extrordinary and Riveting!!!!!"
+    },
+    {
+      "user": "blacey113",
+      "score": 10,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "DISGUSTINGLY Under-appreciated"
+    },
+    {
+      "user": "asjobner",
+      "score": 10,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Movie that inspire"
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "score": 10,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "The type of movie that could change things. If you were able to watch Hotel Rwanda then watch this one. I say A+"
+    },
+    {
+      "user": "Mark Gunston",
+      "score": 4,
+      "review_date": {
+        "day": 31,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A disappointment"
+    },
+    {
+      "user": "bbrekke",
+      "score": 10,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "An American voice"
+    },
+    {
+      "user": "amungiu",
+      "score": 10,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "brilliant"
+    },
+    {
+      "user": "nikdo77",
+      "score": 10,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Great movie about a topic everybody closes his eyes"
+    },
+    {
+      "user": "assour",
+      "score": 10,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "A wake up call to all those with a conscience and who love movies"
+    },
+    {
+      "user": "reedmomever",
+      "score": 10,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Intense, Riveting, Informative, and My Son Even Gives it 10 Stars."
+    },
+    {
+      "user": "Alistair Stone",
+      "score": 10,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "True Excellence"
+    },
+    {
+      "user": "draghicidorin",
+      "score": 8,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Very motivating story"
+    },
+    {
+      "user": "mj23007",
+      "score": 10,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Excellent Movie!! Heart Wrenching, Christian theme through and through..."
+    },
+    {
+      "user": "DrunkUniStudent",
+      "score": 5,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "1st hour of the film is too long and dull to make this a good film"
+    },
+    {
+      "user": "mustardman29",
+      "score": 8,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Seriously IMDb, your rating system must be broken."
+    },
+    {
+      "user": "fata_cutare",
+      "score": 10,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "a life changing movie"
+    },
+    {
+      "user": "liljon2961",
+      "score": 10,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "best movie i have ever seen"
+    },
+    {
+      "user": "riteshpase",
+      "score": 7,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "It is a brilliant dish with the after taste of an ordinary meal"
+    },
+    {
+      "user": "amedeia",
+      "score": 10,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "An amazing experience!"
+    },
+    {
+      "user": "cjmccracken",
+      "score": 2,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Why would you do this to us Gerard?"
+    },
+    {
+      "user": "flexdream-1",
+      "score": 10,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "I am still trying to come to terms with this amazing story"
+    },
+    {
+      "user": "M. Can ARBAZ",
+      "score": 1,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Really short sighted religion centric movie."
+    },
+    {
+      "user": "DICK STEEL",
+      "score": 8,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A Nutshell Review: Machine Gun Preacher"
+    },
+    {
+      "user": "marcmrnice",
+      "score": 5,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Religious propaganda"
+    },
+    {
+      "user": "Schuriken",
+      "score": 1,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "What a load of crap this is..."
+    },
+    {
+      "user": "thomasajjouri",
+      "score": 1,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Christian propaganda!"
+    },
+    {
+      "user": "abecambridge",
+      "score": 1,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "One of two films I have walked out on."
+    },
+    {
+      "user": "csobyrne",
+      "score": 2,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "A poor attempt at an educational and evocative movie, falling at every hurdle."
+    },
+    {
+      "user": "Raghavibaggy-Drawers",
+      "score": 4,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Excellent representation of one of Sudan's freedom fighters"
+    },
+    {
+      "user": " (kaliraijason)",
+      "score": 1,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Awful"
+    },
+    {
+      "user": "OperaTarte",
+      "score": 1,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Something Missing"
+    },
+    {
+      "user": "maltota",
+      "score": 1,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Worst movie ever seen"
+    }
+  ],
+  "release_year": null,
+  "max_screens": 93,
+  "screens_by_weekend": [
+    4,
+    33,
+    93,
+    43,
+    25,
+    13,
+    12,
+    12,
+    19
+  ],
+  "critic_review_count": 135,
   "num_weekends": 9,
-  "rating_freq": {
-    "1": 914,
-    "2": 493,
-    "3": 811,
-    "4": 1602,
-    "5": 4165,
-    "6": 10076,
-    "7": 16317,
-    "8": 10660,
-    "9": 4254,
-    "10": 5549
-  },
-  "budget": 30000000,
-  "votes_per_demo": {
-    "non-us_users": 31113,
-    "aged_45+": 4399,
-    "females_aged_45+": 704,
-    "imdb_staff": 6,
-    "females_under_18": 5,
-    "males_aged_45+": 3630,
-    "females_aged_18-29": 2337,
-    "males_aged_30-44": 20306,
-    "females": 5800,
-    "imdb_users": 54841,
-    "us_users": 6857,
-    "males_under_18": 38,
-    "top_1000_voters": 310,
-    "aged_under_18": 44,
-    "males": 42911,
-    "males_aged_18-29": 17303,
-    "females_aged_30-44": 2410,
-    "aged_30-44": 22968,
-    "aged_18-29": 19808
-  },
   "closing_date": {
-    "month": 11,
-    "__type__": "datetime.date",
     "day": 18,
-    "year": 2011
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 11
   },
-  "gross_income": 537580,
+  "opening_weekend_screens": 4,
+  "rating": 6.8,
+  "opening_weekend_income": 45130,
+  "user_review_count": 124,
+  "budget": 30000000,
+  "rating_count": 54851,
+  "metascore": 43,
+  "duration": 129,
   "avg_rating_per_demo": {
     "non-us_users": 6.8,
-    "aged_45+": 6.6,
-    "females_aged_45+": 7.3,
-    "imdb_staff": 5.3,
+    "aged_30-44": 6.7,
+    "top_1000_voters": 5.9,
+    "us_users": 6.8,
     "females_under_18": 6.5,
-    "males_aged_45+": 6.5,
-    "females_aged_18-29": 7.3,
     "males_aged_30-44": 6.7,
     "females": 7.2,
     "imdb_users": 6.8,
-    "us_users": 6.8,
-    "males_under_18": 7.3,
-    "top_1000_voters": 5.9,
-    "aged_under_18": 7.2,
+    "aged_45+": 6.6,
     "males": 6.8,
+    "females_aged_45+": 7.3,
+    "females_aged_18-29": 7.3,
+    "aged_under_18": 7.2,
+    "males_under_18": 7.3,
     "males_aged_18-29": 7.0,
     "females_aged_30-44": 7.0,
-    "aged_30-44": 6.7,
+    "males_aged_45+": 6.5,
+    "imdb_staff": 5.3,
     "aged_18-29": 7.1
   },
-  "opening_weekend_date": {
-    "month": 9,
-    "__type__": "datetime.date",
-    "day": 23,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 31118,
+    "aged_30-44": 22975,
+    "top_1000_voters": 310,
+    "us_users": 6857,
+    "females_under_18": 5,
+    "males_aged_30-44": 20314,
+    "females": 5801,
+    "imdb_users": 54851,
+    "aged_45+": 4402,
+    "males": 42916,
+    "females_aged_45+": 706,
+    "females_aged_18-29": 2337,
+    "aged_under_18": 44,
+    "males_under_18": 38,
+    "males_aged_18-29": 17299,
+    "females_aged_30-44": 2409,
+    "males_aged_45+": 3631,
+    "imdb_staff": 6,
+    "aged_18-29": 19804
   },
-  "budget_currency": "$",
-  "user_review_count": 124,
-  "metascore": 43,
-  "max_screens": 93,
-  "duration": 129,
-  "rating_count": 54841,
-  "release_day": null,
-  "release_month": null,
-  "release_year": null,
+  "gross_income": 537580,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 45130,
-  "critic_review_count": 135,
-  "rating": 6.8,
-  "avg_screens": 28.22222222222222,
-  "name": "Machine Gun Preacher",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 23,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 9
+  }
 }

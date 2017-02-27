@@ -1,91 +1,604 @@
 {
-  "critic_review_count": 60,
-  "year": 2012,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 1,
-    "day": 11
-  },
-  "release_month": "January",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 1,
-    "day": 11
-  },
-  "metascore": 41,
-  "max_screens": 8,
-  "duration": 90,
-  "rating_count": 13263,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 1,
+  "release_day": 11,
   "avg_rating_per_demo": {
+    "aged_45+": 5.9,
+    "top_1000_voters": 5.1,
+    "males_under_18": 7.4,
+    "imdb_staff": 5.5,
+    "males_aged_18-29": 6.4,
+    "imdb_users": 6.3,
+    "males_aged_45+": 5.7,
+    "aged_18-29": 6.6,
+    "us_users": 6.4,
+    "females_aged_30-44": 6.2,
+    "males": 6.1,
+    "females": 6.6,
+    "females_aged_45+": 6.6,
     "non-us_users": 6.2,
     "females_aged_18-29": 6.8,
-    "females": 6.6,
-    "aged_45+": 5.9,
     "females_under_18": 7.5,
-    "imdb_users": 6.3,
-    "imdb_staff": 5.5,
-    "females_aged_30-44": 6.2,
-    "aged_under_18": 7.5,
-    "males_aged_30-44": 5.8,
-    "top_1000_voters": 5.1,
     "aged_30-44": 5.9,
-    "males_aged_18-29": 6.4,
-    "males": 6.1,
-    "females_aged_45+": 6.6,
-    "males_under_18": 7.4,
-    "us_users": 6.4,
-    "males_aged_45+": 5.7,
-    "aged_18-29": 6.6
+    "aged_under_18": 7.5,
+    "males_aged_30-44": 5.8
   },
-  "user_review_count": 48,
-  "rating_freq": {
-    "1": 343,
-    "2": 221,
-    "3": 367,
-    "4": 773,
-    "5": 1484,
-    "6": 2525,
-    "7": 2741,
-    "8": 1703,
-    "9": 851,
-    "10": 2255
+  "closing_date": {
+    "month": 1,
+    "year": 2013,
+    "day": 11,
+    "__type__": "datetime.date"
+  },
+  "metascore": 41,
+  "num_weekends": 1,
+  "rating_count": 13262,
+  "gross_income": 22930,
+  "max_screens": 8,
+  "opening_weekend_screens": 8,
+  "screens_by_weekend": [
+    8
+  ],
+  "opening_weekend_income": 12940,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "random story but great",
+      "score": 7,
+      "user": "Swish ieee",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Highly Recommended",
+      "score": 9,
+      "user": "virginiacitygirl",
+      "review_date": {
+        "month": 10,
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not your average Teen movie",
+      "score": 8,
+      "user": "claire_smyth",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Colfer definitely outdid himself",
+      "score": 10,
+      "user": "Abir Mohammad",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insightful movie that addresses that High School is temporary",
+      "score": 8,
+      "user": "bigbookwrm1",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it.",
+      "score": 10,
+      "user": "Irena",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insightful and realistic lesson on life and growing up when Chris Colfer is not singing or dancing",
+      "score": 9,
+      "user": "carson-chow",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Struck by Lightning is funny with an unexpected start and ending",
+      "score": 8,
+      "user": "dalydj-918-255175",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing",
+      "score": 10,
+      "user": "vitadrottningen",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chris Colfer is just brilliant.",
+      "score": 8,
+      "user": "barendbkj",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uncommon but nice",
+      "score": 7,
+      "user": "melgarcia40",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "review",
+      "score": 10,
+      "user": "shalaunn",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Well Done!",
+      "score": 10,
+      "user": "checkitcheckitcheckitOUT",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I had different expectations for this movie, so it was a lot better on its second viewing.",
+      "score": 8,
+      "user": "Marie Land",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "shocked when I found out this is written by Chris Colfer",
+      "score": 7,
+      "user": "VALERIE Cheung",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "liked the film",
+      "score": 9,
+      "user": "bradfordconnolly",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enlightening, insightful, and a joy to watch from beginning to end",
+      "score": 8,
+      "user": "callanvass",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well done",
+      "score": 8,
+      "user": "guitarsinsteadofguns",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "pretty decent",
+      "score": 8,
+      "user": "fournsik1",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good start for Chris Colfer",
+      "score": 7,
+      "user": "djay782",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A truly personal account",
+      "score": 9,
+      "user": "hannahrenee56",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent Movie that hits High School on the Head",
+      "score": 9,
+      "user": "supernatural136-112-438827",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Being a teen ager isn't easy for every one.",
+      "score": 9,
+      "user": "krapriv",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Like This Take on Writing",
+      "score": 9,
+      "user": "thescribe7",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Your Usual Teen Movie",
+      "score": 7,
+      "user": "slightlymad22",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"High School Ends\"",
+      "score": 7,
+      "user": "John Willians",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lightening",
+      "score": 8,
+      "user": "merrilanil",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A heart-warming movie",
+      "score": 8,
+      "user": "sooriyah007",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Struck By Lightning\" - A film with good messages AND character development",
+      "score": 9,
+      "user": "inigodevliegher",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is this Glee?",
+      "score": 7,
+      "user": "oriolbm92",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great job Chris Colfer!!!!!",
+      "score": 8,
+      "user": "Ingrid Naimy",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Extremely underrated...",
+      "score": 7,
+      "user": "anonie96",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing",
+      "score": 2,
+      "user": "NJS",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Extremely Inspiring Movie",
+      "score": 9,
+      "user": "ggibson63",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great actors wasted on 2 dimensional characters",
+      "score": 5,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "struck by lightning, inspirational film about a boy who just wants to write and get out of a town where he feels trapped",
+      "score": 10,
+      "user": "cayla_k",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "average movie!",
+      "score": 8,
+      "user": "ishu_somebody",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie was better than I imagined!",
+      "score": 10,
+      "user": "Lacy Curtis",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horribly Upsetting film that ends just as the title says with a poor resolution.",
+      "score": 2,
+      "user": "moviesrme10",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "LOVE Chris Colfer!!!!!",
+      "score": 10,
+      "user": "magsleps",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tremdous First Wrting Effort By Chris Colfer",
+      "score": 8,
+      "user": "Steve B",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful film with a personal agenda",
+      "score": 1,
+      "user": "- -",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Couldn't even finish it",
+      "score": 1,
+      "user": "f_mino12",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Phony and Annoyingly Cynical Look at Teenage Life",
+      "score": 3,
+      "user": "Jason Buchholtz",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good story. Awful beginning and end",
+      "score": 7,
+      "user": "jolenesingh",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a personal agenda",
+      "score": 2,
+      "user": "oceansroar",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 90,
+  "votes_per_demo": {
+    "aged_45+": 772,
+    "top_1000_voters": 140,
+    "males_under_18": 25,
+    "imdb_staff": 2,
+    "males_aged_18-29": 2667,
+    "imdb_users": 13262,
+    "males_aged_45+": 563,
+    "aged_18-29": 6701,
+    "us_users": 2339,
+    "females_aged_30-44": 1062,
+    "males": 5506,
+    "females": 5625,
+    "females_aged_45+": 194,
+    "non-us_users": 5954,
+    "females_aged_18-29": 3945,
+    "females_under_18": 77,
+    "aged_30-44": 3138,
+    "aged_under_18": 102,
+    "males_aged_30-44": 2024
   },
   "genres": [
     "comedy",
     "drama"
   ],
-  "budget": null,
-  "rating": 6.3,
-  "name": "Struck by Lightning",
-  "opening_weekend_income": 12940,
-  "avg_screens": 8.0,
-  "gross_income": 22930,
-  "votes_per_demo": {
-    "non-us_users": 5955,
-    "females_aged_18-29": 3946,
-    "females": 5626,
-    "aged_45+": 772,
-    "females_under_18": 77,
-    "imdb_users": 13263,
-    "imdb_staff": 2,
-    "females_aged_30-44": 1062,
-    "aged_under_18": 102,
-    "males_aged_30-44": 2023,
-    "top_1000_voters": 140,
-    "aged_30-44": 3137,
-    "males_aged_18-29": 2669,
-    "males": 5507,
-    "females_aged_45+": 194,
-    "males_under_18": 25,
-    "us_users": 2340,
-    "males_aged_45+": 563,
-    "aged_18-29": 6704
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 343,
+    "2": 220,
+    "3": 367,
+    "4": 773,
+    "5": 1485,
+    "6": 2525,
+    "7": 2740,
+    "8": 1703,
+    "9": 851,
+    "10": 2255
   },
-  "release_year": 2013,
+  "release_month": "January",
+  "budget": null,
   "budget_currency": null,
-  "release_day": 11
+  "total_screens": 8,
+  "year": 2012,
+  "rating": 6.3,
+  "critic_review_count": 60,
+  "opening_weekend_date": {
+    "month": 1,
+    "year": 2013,
+    "day": 11,
+    "__type__": "datetime.date"
+  },
+  "name": "Struck by Lightning",
+  "user_review_count": 48,
+  "avg_screens": 8.0
 }

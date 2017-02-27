@@ -1,92 +1,583 @@
 {
-  "critic_review_count": 41,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 7,
-    "day": 12
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 7,
-    "day": 12
-  },
-  "metascore": 26,
-  "max_screens": 15,
-  "duration": 112,
-  "rating_count": 8911,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 1,
+  "release_day": null,
   "avg_rating_per_demo": {
+    "aged_45+": 6.1,
+    "top_1000_voters": 5.1,
+    "males_under_18": 7.5,
+    "imdb_staff": 4.0,
+    "males_aged_18-29": 6.0,
+    "imdb_users": 5.9,
+    "males_aged_45+": 6.1,
+    "aged_18-29": 5.9,
+    "us_users": 6.0,
+    "females_aged_30-44": 5.9,
+    "males": 5.9,
+    "females": 6.0,
+    "females_aged_45+": 6.6,
     "non-us_users": 5.9,
     "females_aged_18-29": 5.8,
-    "females": 6.0,
-    "aged_45+": 6.1,
     "females_under_18": 6.0,
-    "imdb_users": 5.9,
-    "imdb_staff": 4.0,
-    "females_aged_30-44": 5.9,
-    "aged_under_18": 7.4,
-    "males_aged_30-44": 5.9,
-    "top_1000_voters": 5.1,
     "aged_30-44": 5.9,
-    "males_aged_18-29": 6.0,
-    "males": 5.9,
-    "females_aged_45+": 6.6,
-    "males_under_18": 7.5,
-    "us_users": 6.0,
-    "males_aged_45+": 6.0,
-    "aged_18-29": 5.9
+    "aged_under_18": 7.4,
+    "males_aged_30-44": 5.9
   },
-  "user_review_count": 45,
-  "rating_freq": {
-    "1": 427,
-    "2": 255,
-    "3": 395,
-    "4": 627,
-    "5": 1287,
-    "6": 1939,
-    "7": 1881,
-    "8": 932,
-    "9": 391,
-    "10": 777
+  "closing_date": {
+    "month": 7,
+    "year": 2013,
+    "day": 12,
+    "__type__": "datetime.date"
+  },
+  "metascore": 26,
+  "num_weekends": 1,
+  "rating_count": 8913,
+  "gross_income": 4915,
+  "max_screens": 15,
+  "opening_weekend_screens": 15,
+  "screens_by_weekend": [
+    15
+  ],
+  "opening_weekend_income": 4915,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Not for those with cognitive challenges",
+      "score": 8,
+      "user": "painterdg",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Falls flat towards the end",
+      "score": 7,
+      "user": "Snaggletooth .",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A wonderful symbolic socio-religious/political look at America today",
+      "score": 10,
+      "user": "zif ofoz",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strange movie, but it's a good kind of strange.",
+      "score": 8,
+      "user": "janssuh-2",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, bizarre, pointless in a good way",
+      "score": 6,
+      "user": "statixsc",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a superb cast! They were all good!!!",
+      "score": 7,
+      "user": "JR Rosalez",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "lords of the ring",
+      "score": 7,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disturbingly entertaining",
+      "score": 8,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strange.",
+      "score": 8,
+      "user": "suross",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's sad that Kramer and Walker won't be able to work together again!",
+      "score": 8,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A darkly funny, entertaining and fun movie that I enjoyed. I love movies like this. One event affects strangers. I say B",
+      "score": 6,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "am disappointed",
+      "score": 9,
+      "user": "Iamowomizz",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Drug hazed dark comedy turns into horror and ends with a bad Elvis improv \u25c6\u2248\u22485.6/10\u2248\u2248\u25c6",
+      "score": 6,
+      "user": "J. Davis (horrorsession@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting, Original Concept, High Quality All Star Cast, Poorly Executed, Poor Timing",
+      "score": 5,
+      "user": "Allen Hoover (CptEeyore@aol.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Never Heard Of It But Glad I Discovered It",
+      "score": 9,
+      "user": "roseybaby63-59-43149",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chronically good",
+      "score": 8,
+      "user": "videorama-759-859391",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "NO SPOILERS -  For Once You Get You're Money's Worth with Pawn Shop Chronicles",
+      "score": 7,
+      "user": "Knox D Alford III (knoxiii)",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliantly Done, Terrific Cast",
+      "score": 8,
+      "user": "thirteenprime",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that kind of shop",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "God Bless America - Long live the King",
+      "score": 8,
+      "user": "OJT",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incredible Movie",
+      "score": 10,
+      "user": "solidabs",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the movie goes from one adventure to another while being funny",
+      "score": 7,
+      "user": "nik kostas",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it!!!! Yep, I did!!",
+      "score": 9,
+      "user": "William Tremblay",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved the Star Quality....The rest was So So",
+      "score": 7,
+      "user": "dannykalifornia",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thrown Together, Nonsensical and Pointless",
+      "score": 5,
+      "user": "Rob Wright",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Messed up but if you imagine it from a different angle it's OK.",
+      "score": 3,
+      "user": "Jesse Boland",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OMG!!!  Disgustingly Delitefull with a sprinkle of Crazy scattered throughout the experience.",
+      "score": 10,
+      "user": "Denis Leboeuf",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "surprisingly entertaining",
+      "score": 6,
+      "user": "copperchopper4",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a quirky, crazy tale",
+      "score": 5,
+      "user": "MLDinTN",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun movie in it's own way",
+      "score": 5,
+      "user": "mark-4522",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "90 Minutes of Pure White Trash Craziness",
+      "score": 7,
+      "user": "brando647",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pawn'd In",
+      "score": 5,
+      "user": "jesse-hitzroth",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Different doesn't mean good",
+      "score": 5,
+      "user": "Jimmy P",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Missing ring sets off a crazy chain of events in Pawn Shop Chronicles",
+      "score": 5,
+      "user": "rgblakey",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Completely uninspired film",
+      "score": 2,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pawn Shop Chronicles",
+      "score": 5,
+      "user": "tvmovienews",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A huge mess!",
+      "score": 4,
+      "user": "chrichtonsworld",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Generally terrible",
+      "score": 1,
+      "user": "adeviller",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liberal stupidity celebrated by good performances and a totally dumb movie",
+      "score": 2,
+      "user": "christiank7",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pawn Shop Chronicles.....WHAT?",
+      "score": 1,
+      "user": "yourlife",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yawn Chronicles",
+      "score": 5,
+      "user": "rogerb-391-111246",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a waste time!",
+      "score": 1,
+      "user": "jaraeez",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Celebration of Stupidity",
+      "score": 1,
+      "user": "themissingpatient",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "2 hours of your life you'll never get back.",
+      "score": 1,
+      "user": "cabras-325-169902",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 112,
+  "votes_per_demo": {
+    "aged_45+": 1137,
+    "top_1000_voters": 164,
+    "males_under_18": 10,
+    "imdb_staff": 1,
+    "males_aged_18-29": 1996,
+    "imdb_users": 8913,
+    "males_aged_45+": 949,
+    "aged_18-29": 2395,
+    "us_users": 1466,
+    "females_aged_30-44": 487,
+    "males": 6758,
+    "females": 1080,
+    "females_aged_45+": 171,
+    "non-us_users": 4628,
+    "females_aged_18-29": 365,
+    "females_under_18": 1,
+    "aged_30-44": 4040,
+    "aged_under_18": 11,
+    "males_aged_30-44": 3519
   },
   "genres": [
     "action",
     "comedy",
     "crime"
   ],
-  "budget": 5000000,
-  "rating": 5.9,
-  "name": "Pawn Shop Chronicles",
-  "opening_weekend_income": 4915,
-  "avg_screens": 15.0,
-  "gross_income": 4915,
-  "votes_per_demo": {
-    "non-us_users": 4627,
-    "females_aged_18-29": 365,
-    "females": 1080,
-    "aged_45+": 1136,
-    "females_under_18": 1,
-    "imdb_users": 8911,
-    "imdb_staff": 1,
-    "females_aged_30-44": 487,
-    "aged_under_18": 11,
-    "males_aged_30-44": 3519,
-    "top_1000_voters": 164,
-    "aged_30-44": 4040,
-    "males_aged_18-29": 1996,
-    "males": 6757,
-    "females_aged_45+": 171,
-    "males_under_18": 10,
-    "us_users": 1466,
-    "males_aged_45+": 948,
-    "aged_18-29": 2395
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 427,
+    "2": 255,
+    "3": 395,
+    "4": 627,
+    "5": 1287,
+    "6": 1942,
+    "7": 1880,
+    "8": 932,
+    "9": 391,
+    "10": 777
   },
-  "release_year": null,
+  "release_month": null,
+  "budget": 5000000,
   "budget_currency": "$",
-  "release_day": null
+  "total_screens": 15,
+  "year": 2013,
+  "rating": 5.9,
+  "critic_review_count": 41,
+  "opening_weekend_date": {
+    "month": 7,
+    "year": 2013,
+    "day": 12,
+    "__type__": "datetime.date"
+  },
+  "name": "Pawn Shop Chronicles",
+  "user_review_count": 45,
+  "avg_screens": 15.0
 }

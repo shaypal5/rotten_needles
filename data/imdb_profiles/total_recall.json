@@ -1,92 +1,5783 @@
 {
-  "num_weekends": 9,
-  "duration": 118,
+  "budget": 125000000,
+  "opening_weekend_income": 25577758,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 5,
+    "__type__": "datetime.date",
+    "month": 10
+  },
+  "budget_currency": "$",
+  "avg_screens": 1325.0,
   "rating_freq": {
     "1": 4048,
     "2": 3167,
     "3": 5850,
-    "4": 12232,
+    "4": 12231,
     "5": 26817,
-    "6": 53215,
-    "7": 56939,
-    "8": 27436,
-    "9": 8931,
+    "6": 53219,
+    "7": 56943,
+    "8": 27438,
+    "9": 8930,
     "10": 9961
   },
-  "release_year": 2012,
-  "budget_currency": "$",
-  "rating": 6.3,
-  "release_day": 3,
-  "budget": 125000000,
-  "votes_per_demo": {
-    "us_users": 28438,
-    "imdb_users": 208596,
-    "aged_30-44": 85234,
-    "males": 158277,
-    "males_aged_18-29": 59612,
-    "top_1000_voters": 594,
-    "females_aged_30-44": 8744,
-    "imdb_staff": 15,
-    "females": 22334,
-    "females_aged_45+": 2040,
-    "females_under_18": 56,
-    "aged_under_18": 291,
-    "aged_45+": 17586,
-    "females_aged_18-29": 10143,
-    "non-us_users": 110021,
-    "males_aged_45+": 15232,
-    "males_under_18": 229,
-    "aged_18-29": 70503,
-    "males_aged_30-44": 75297
-  },
-  "metascore": 43,
-  "avg_rating_per_demo": {
-    "us_users": 6.1,
-    "imdb_users": 6.3,
-    "aged_30-44": 6.1,
-    "males": 6.3,
-    "males_aged_18-29": 6.5,
-    "top_1000_voters": 5.7,
-    "females_aged_30-44": 6.2,
-    "imdb_staff": 5.0,
-    "females": 6.4,
-    "females_aged_45+": 6.4,
-    "females_under_18": 6.9,
-    "aged_under_18": 6.6,
-    "aged_45+": 6.2,
-    "females_aged_18-29": 6.5,
-    "non-us_users": 6.2,
-    "males_aged_45+": 6.2,
-    "males_under_18": 6.5,
-    "aged_18-29": 6.5,
-    "males_aged_30-44": 6.1
-  },
-  "rating_count": 208596,
-  "critic_review_count": 404,
-  "opening_weekend_income_currency": "$",
-  "name": "Total Recall",
-  "user_review_count": 543,
-  "avg_screens": 1325.0,
-  "release_month": "August",
-  "opening_weekend_date": {
-    "day": 3,
-    "month": 8,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "screens_by_weekend": [
+    3601,
+    3601,
+    2434,
+    756,
+    502,
+    303,
+    322,
+    239,
+    167
+  ],
+  "rating_count": 208604,
+  "total_screens": 11925,
   "max_screens": 3601,
+  "duration": 118,
   "gross_income": 58877969,
+  "metascore": 43,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 594,
+    "imdb_users": 208604,
+    "us_users": 28439,
+    "aged_18-29": 70497,
+    "non-us_users": 110023,
+    "aged_45+": 17592,
+    "aged_30-44": 85239,
+    "males_aged_30-44": 75301,
+    "males_aged_18-29": 59607,
+    "males_aged_45+": 15237,
+    "aged_under_18": 290,
+    "imdb_staff": 15,
+    "males_under_18": 229,
+    "females_aged_30-44": 8745,
+    "females": 22334,
+    "females_under_18": 55,
+    "females_aged_45+": 2041,
+    "males": 158282,
+    "females_aged_18-29": 10142
+  },
+  "user_review_count": 543,
+  "rating": 6.3,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 5.7,
+    "imdb_users": 6.3,
+    "us_users": 6.1,
+    "aged_18-29": 6.5,
+    "non-us_users": 6.2,
+    "aged_45+": 6.2,
+    "aged_30-44": 6.1,
+    "males_aged_30-44": 6.1,
+    "males_aged_18-29": 6.5,
+    "males_aged_45+": 6.2,
+    "aged_under_18": 6.6,
+    "imdb_staff": 5.0,
+    "males_under_18": 6.5,
+    "females_aged_30-44": 6.2,
+    "females": 6.4,
+    "females_under_18": 6.9,
+    "females_aged_45+": 6.4,
+    "males": 6.3,
+    "females_aged_18-29": 6.5
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 3,
+    "__type__": "datetime.date",
+    "month": 8
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "Vaughn Fry (Legendary_Badass)",
+      "contents": "No Mars, No Mutants, No soul",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Ben_times_10",
+      "contents": "I expected a semi-decent film, and that's what I got",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Danny G",
+      "contents": "Whoever Owns the Film Rights to Philip K. Dick's Stories Should Be Ashamed!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "dvc5159",
+      "contents": "Total Rehash",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "phd_travel",
+      "contents": "Total let down",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "Matthew Phlaum",
+      "contents": "Total Re-gurgitation",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "jacobconant",
+      "contents": "Takes away the good from the original, turns into a dime-a-dozen action flick",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Total Recall",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Catt Jones (cattjones@chixchatonfilm.com)",
+      "contents": "No Need to Recall",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "tiger86-2",
+      "contents": "Well...",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "J Montrose",
+      "contents": "Garbage on film!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "MM SS",
+      "contents": "totally entertaining!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "gsmith513",
+      "contents": "Horrible - All special effects, poor plot development",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "jimc-441-437929",
+      "contents": "Total Waste of My Time",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "snowman2k",
+      "contents": "Rekall here i come",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "dg135",
+      "contents": "Terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "Jeff Lee",
+      "contents": "Nothing new in this high-octane sci-fi flick, but Beckinsale rocks",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "GrimNirTheGreyGod",
+      "contents": "Brilliant action film with major plot holes",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Daniel Cumba",
+      "contents": "Is EXACTLY what its mean to be - a THRILL RIDE",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": " (Scorpionhl)",
+      "contents": "Terribly Boring",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "pjyellowtiger",
+      "contents": "My Heart Skipped a Beat",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "changx02",
+      "contents": "I liked it.  Not like the original, but that's why I liked it.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "The critics where being to harsh",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Kirk Hamilton",
+      "contents": "Worst Remake Ever",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "speeddefreeze",
+      "contents": "A Len Wiseman Special",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "tavm",
+      "contents": "This remake of Total Recall is a fine thriller in its own right",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Michael Kline",
+      "contents": "An Action Movie Smoothie",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "richcarter1962",
+      "contents": "Better Than I Expected",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "aero-windwalker",
+      "contents": "You have to understand that the whole movie is in the \"Recall\"...",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "xamtaro",
+      "contents": "Remake shows all the pros and cons of modern film making trends",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "reece young",
+      "contents": "Brilliant",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "haikallp",
+      "contents": "Don't compare it to the 1990 movie of the same name.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "alexm-3",
+      "contents": "Recall this film!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "abisio",
+      "contents": "A better than expected remake",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "nsoderi",
+      "contents": "Shame",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Lukin900",
+      "contents": "Don't see this movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "ac-156",
+      "contents": "It is what it is, and I liked what it is",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "anbei68",
+      "contents": "It's actually really good!! Great special effect, action and acting",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "sita_chez",
+      "contents": "amaze balls",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "chebs1",
+      "contents": "At last a reboot that doesn't just try to reshoot the original",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "riley-piley",
+      "contents": "Well worth the ticket price",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "med77_99",
+      "contents": "Very Very good, don't listen to the poor reviews",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "nobrun",
+      "contents": "You've seen this movie before",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "Amol Kolhe",
+      "contents": "Worst movie ever",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "danmankp37",
+      "contents": "Total Recall Remake is a Total Waste of Time",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "ghasl1",
+      "contents": "Why was this show Greenlighted, with such a poor script",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "trepessa",
+      "contents": "Reoccuring dreams, memory loss, reality check and action packed",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "StaceySellers33",
+      "contents": "Loved it!",
+      "review_date": {
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Al_The_Strange",
+      "contents": "\"The past is a construct of the mind. It blinds us.\"",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "bradley_walton1983",
+      "contents": "Worth a watch",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Laakbaar",
+      "contents": "Colin Farrell excels in high-tech futuristic shoot-out flick",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "razzo12",
+      "contents": "Not HALF as bad as people make out",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "merryone7103",
+      "contents": "The movie made me THINK.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "captaincameron",
+      "contents": "Worth the time; probably not worth watching twice in the theater",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "cm_fox",
+      "contents": "Enjoyable",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Lacks psychological thrills and emotions and is nothing really intelligent but still a entertaining popcorn flick",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "pandazqueen",
+      "contents": "A good stand alone film",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Deadwoodz",
+      "contents": "Boring",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "ndimeo09",
+      "contents": "A Homeless Man's Minority Report",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": " (mo@inet-media.co.za)",
+      "contents": "Total Recall Flop",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "dgefroh",
+      "contents": "Total waste of time",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Vishal P",
+      "contents": "What a total waste of time.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Mek Torres",
+      "contents": "Total Gloss",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "maddy_nov1978",
+      "contents": "Total Recall is entertaining!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Zulu42",
+      "contents": "Not worth it",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "anwarnajmi",
+      "contents": "Incredible!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Floated2",
+      "contents": "Solid entertaining action film",
+      "review_date": {
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "averystorm-54196",
+      "contents": "Decent Remake",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "ericrnolan",
+      "contents": "A quick review of \"Total Recall\" (2012)",
+      "review_date": {
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "David Arnold",
+      "contents": "Surprisingly Enjoyable",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Kren Wregget",
+      "contents": "it's all in the name...",
+      "review_date": {
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "John Saunders",
+      "contents": "Just Keep Repeating",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "J-bot6",
+      "contents": "A vast improvement over the 1990's film of the same name.",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "CMTiago",
+      "contents": "Good as a stand alone movie",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "hagan31904",
+      "contents": "Terrific movie - well done - meant to entertain and does",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "creativebanana1",
+      "contents": "A great movfe by it's own",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "antony-1",
+      "contents": "A vivid film, probably done a disservice by its Total Recall connection",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "tay-sedai",
+      "contents": "Average",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Raj Dee",
+      "contents": "Visual Orgasm",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Reality",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Fluke_Skywalker",
+      "contents": "'Recall' is forgettable",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Andy Steel",
+      "contents": "Better than I was led to believe...",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "gzmnuruzun",
+      "contents": "My views about the movie",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "canadian58",
+      "contents": "A major disappointment",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "c-kelsall",
+      "contents": "Where were all the Australians?",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "davidjemitus-534-606702",
+      "contents": "Good action scenes but disappointing",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "robin-broughton77",
+      "contents": "wish someone would rewrite my memories so I didn't think I'd seen this movie",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "alsation72",
+      "contents": "Arnold Schwarzenegger the more charismatic option. Never thought I'd type those words.",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "siderite",
+      "contents": "Not so total recall",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Troy_Campbell",
+      "contents": "Mind-numbing, bombastic fun.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "moorthyvlr",
+      "contents": "Better title would be \"Implant\" or \"Deleted\"",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "krycek19",
+      "contents": "Boring PG13 action",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "Matthew Walker",
+      "contents": "The prime example of a lazy action movie",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "Benjamin Black",
+      "contents": "Great action movie",
+      "review_date": {
+        "year": 2017,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Paul Scollon",
+      "contents": "Best of the unnecessary remakes",
+      "review_date": {
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Charles Herold (cherold)",
+      "contents": "Not as fun as the original, but has its moments",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "StationeryExplorer",
+      "contents": "Not as good as the original, but nowhere near as bad as I expected.",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Spikeopath",
+      "contents": "Reimaging suffers a Schizoid Embolism.",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "ilania_a",
+      "contents": "A Wonderful Screen Presence",
+      "review_date": {
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Bene Cumb",
+      "contents": "Externally impressive, internally shallow",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "duffy047",
+      "contents": "Good in its own way, but no masterpiece.",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "crimetex",
+      "contents": "Not exactly a remake.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "trashgang",
+      "contents": "the PG rating made it lame against the original",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Warren Marris",
+      "contents": "Pure all out action... But lacked a little something!",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Scott Weiss",
+      "contents": "The Recipe for Success",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Rich Wright",
+      "contents": "Meh",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "chewbaccawakka",
+      "contents": "Better than I expected, don't think of it as a remake of the 1990 classic.",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "satyamsuras",
+      "contents": "Good to look at, but not thought provoking enough",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "HelenMary",
+      "contents": "yet another reboot that outdoes in show but not in substance",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "m-a-elsewhere",
+      "contents": "RECALL 4 Dummies",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "mistaphill-1",
+      "contents": "Another remake that just makes you wish you were watching the original",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "gradyharp",
+      "contents": "'We are such stuff as dreams are made on, and our little life is rounded with a sleep.'",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": " (bob-rutzel-1)",
+      "contents": "Great Action Thriller. Terrific CGI",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "porches",
+      "contents": "Not as good as original",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "nama chakravorty",
+      "contents": "Entertaining & Visually Superior!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Rachel Gerstner",
+      "contents": "What about Mars?",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "paudie",
+      "contents": "Unrelenting but not much fun",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "davidgee",
+      "contents": "Fast and Furious - and confusing",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Gazzaboy17",
+      "contents": "something was missing from it",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "yanqui",
+      "contents": "Twice the action, half the story",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "edwardrevans",
+      "contents": "Arnies Totally better",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "jokexom",
+      "contents": "Colin Farrell is trying to be Arnold Schwarzenegger.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "blogurious",
+      "contents": "Different take",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "P B",
+      "contents": "Absolutely worthless!",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "jillvesta16",
+      "contents": "Total Ripoff",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "natcarr-74-27114",
+      "contents": "Bland rehash",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": " (wewilsons)",
+      "contents": "Not bad but compared to the original this wasn't good either",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "Wotan Movies",
+      "contents": "Total Recall 2012: or \"We can dumb it down for you wholesale\"",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "Manjul Jani",
+      "contents": "Total Recall- One of the best sci-fi genre movies!",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "movieLoader",
+      "contents": "Forgettable and dry",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "ilikeimdb",
+      "contents": "Rather boring, soulless -- all about the special effects",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "bennyhagen",
+      "contents": "I am genuinely amazed",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "TdSmth5",
+      "contents": "Interesting and entertaining",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "janes_petr",
+      "contents": "It's bad",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Maverick Wayne",
+      "contents": "Incomparable to the original. Boring version..",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "rowan-rishi",
+      "contents": "Disappointed.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "I B",
+      "contents": "A passable science-fiction film with impressive action sequences.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Emma",
+      "contents": "Worst film I've seen in a long time",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Amy Adler",
+      "contents": "Total letdown, but not because the cast was unworthy",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Danii  Disaster",
+      "contents": "Complete Rubbish. Not Worth Seeing.",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "dan evans",
+      "contents": "Not worth watching",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "thu-4",
+      "contents": "Not worth your time",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "filmfauxpas",
+      "contents": "You are not you...you are me!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "stermix501",
+      "contents": "Incomplete Recall",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "Average genre movie, all the way through.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "lees-karen58",
+      "contents": "Total recall 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "fracpa",
+      "contents": "Amazing Movie! I don't know what these other people saw...",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "ericzillazillo",
+      "contents": "A total blast I will not recall",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "darkraven_109",
+      "contents": "Mediocre at Best",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "jasonbarnettnz",
+      "contents": "Total waste of time and money",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "steve humphries",
+      "contents": "Floating cars, Robots and Futuristic Cities.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "stormfrog-595-992546",
+      "contents": "Horrible",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "nabysdad-16-363997",
+      "contents": "Better title: \"I Can't Recall\"",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "pressboard",
+      "contents": "Totally Recalled but now I remember why I forgot it",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Sultan_of_the_East",
+      "contents": "Total Brainless",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "dierregi",
+      "contents": "I hope I will forget",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "dacifu",
+      "contents": "pretty good...",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "RichardSRussell-1",
+      "contents": "Not Really a Remake, and That's Both Good and Bad",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "tieman64",
+      "contents": "We Can Remember It For You Wholesale",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "utahman1971",
+      "contents": "Rubbish Reviews",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "basilisksamuk (sam.salt@gmail.com)",
+      "contents": "Not a Terrible Film Shocker!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "jllomax2001",
+      "contents": "What a waste of time and money",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "axlastro2",
+      "contents": "A harsh review",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "Markus Emilio Robinson",
+      "contents": "I almost fell asleep.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "tronrontron",
+      "contents": "Bing Bang Boom - End of movie",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "Prince AJB",
+      "contents": "Energetic Sci-Fi Flick that is Forgettable",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Apurv Nagpal",
+      "contents": "They lost the plot and characters in the action, sets, gizmo's",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "olivierservant333",
+      "contents": "Total Recall an incredible movie !",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "drew_atreides",
+      "contents": "I will never again pay money for a Les Wiseman production..",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Peter Carlsson",
+      "contents": "Boooring!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "olliedeane2005",
+      "contents": "Total- Dirt!!",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "wook22",
+      "contents": "DO not see this POS- remake or not",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "tbmforclasstsar",
+      "contents": "buy the original twice over before ruining your week and watching this major dud of a remake",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "bheadher",
+      "contents": "Worser and worser...",
+      "review_date": {
+        "year": 2017,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "Imdbidia",
+      "contents": "Waste of money, get the original",
+      "review_date": {
+        "year": 2017,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "winopaul",
+      "contents": "Another action porn yawner",
+      "review_date": {
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Alan T",
+      "contents": "Total Re-Hash",
+      "review_date": {
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "freelancer2005",
+      "contents": "Meh",
+      "review_date": {
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "danren121",
+      "contents": "Plot spoilers....",
+      "review_date": {
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "stevecramer-27727",
+      "contents": "No Spoiler Here...Not Worthy and Zero Point to it",
+      "review_date": {
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "jb_campo",
+      "contents": "Average reboot. KateB kicks butt.",
+      "review_date": {
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Ole Sandbaek Joergensen",
+      "contents": "I remember and like the classic film with Arnold",
+      "review_date": {
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Ferrell Wimps Out to Beckinsale.",
+      "review_date": {
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "breakdownthatfilm-blogspot-com",
+      "contents": "It's well made production wise but is quite generic",
+      "review_date": {
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "ramseycheese",
+      "contents": "Not that bad",
+      "review_date": {
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "cmv32261",
+      "contents": "Only habitable environments to men being the British Isles",
+      "review_date": {
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "James Wood",
+      "contents": "Best Movie Ever, Well #2 Favourite",
+      "review_date": {
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "Dillon Harris",
+      "contents": "Exactly what you would Expect from a Remake, Mediocrity,",
+      "review_date": {
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "ShootingShark",
+      "contents": "Enjoyable But Muted Remake Of Sci-Fi Spy Classic",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "Adam Peters",
+      "contents": "Plenty of action, not much else",
+      "review_date": {
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "willcundallreview",
+      "contents": "Remake that fails to step up",
+      "review_date": {
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "stephen7272",
+      "contents": "Better than I had expected",
+      "review_date": {
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "bowmanblue",
+      "contents": "A good film, only flawed by the original",
+      "review_date": {
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "jan-marc",
+      "contents": "Have mercy!",
+      "review_date": {
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "b-b-boven",
+      "contents": "Not better than the original. But good enough for good fun.",
+      "review_date": {
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Sperry23",
+      "contents": "Did Anyone Connected With This Film Actually Read the Source Material?",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "K B",
+      "contents": "what happened to the art of story telling?",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Thomas Haegin",
+      "contents": "Loud, Boring and Forgettable",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "Leofwine_draca",
+      "contents": "A soulless, hollow viewing experience",
+      "review_date": {
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Uberkills",
+      "contents": "Absolute disgrace, Highly boring",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "dodsonjosh",
+      "contents": "Not even close",
+      "review_date": {
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "jshreckhise",
+      "contents": "Reimagination is not a bad thing",
+      "review_date": {
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "cggochas",
+      "contents": "Very disappointing remake",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "view_and_review",
+      "contents": "Totall Recall 2.0 Should Have been Recalled",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "Knowmansoul",
+      "contents": "Mr. Wiseman took the story too seriously",
+      "review_date": {
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "juneebuggy",
+      "contents": "Good (taken on its own merit) but not great",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Stadium_Hot",
+      "contents": "Who takes classic Art, burns it and puts it into a pretty golden urn? Oh, this guy did...",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "utgard14",
+      "contents": "\"What can I say? I give good wife.\"",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Romeo Garcia",
+      "contents": "\"Don't EVER touch the originals\"",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "keith-moyes-656-481491",
+      "contents": "Frustration",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Kim Sikoryak",
+      "contents": "Pointless, uninteresting remake of what was originally a clever story.",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "gorn9146",
+      "contents": "You can't remake a Schwarzenegger classic.",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "charlesbeutt",
+      "contents": "Every scene is full of cgi and mouth breathing.",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "Cesario Santos",
+      "contents": "Entertaining but not that good",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Helio Copter",
+      "contents": "Watchable",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "januaryman-1",
+      "contents": "Good movie gone frenetic",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "nightchrome",
+      "contents": "Unfortunate",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Tehmeh",
+      "contents": "Passable. No match for Verhoeven's original.",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Rachel Pierson",
+      "contents": "You've Seen It All Before",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "OK action film",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Corpus_Vile",
+      "contents": "Surprisingly enjoyable.",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "rockchester",
+      "contents": "Remaking Recall",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Chetan Chauhan",
+      "contents": "Awesome movie if you go in with no preconceptions",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Stuart Park",
+      "contents": "Actually not bad",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "unclefil",
+      "contents": "Not quite like the original, but still pretty decent action flick",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "Total Recall a time-pass action bonanza",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "deatman9",
+      "contents": "Somewhat like the first but just not good.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Barry Cooper",
+      "contents": "You've been here before...",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "FilmStallion",
+      "contents": "Total Recall...2.5 out of 4 Skittles",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Reverend-Trigga",
+      "contents": "Minor Changes To The Original",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "huy huy (eragonshurtugal@yahoo.com)",
+      "contents": "so so",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Clint Wardley",
+      "contents": "Grown up on mediocre television.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "vivietta5",
+      "contents": "\"Total Recall\" Provides Action, Little Else",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "tomimt",
+      "contents": "Soulless exercise",
+      "review_date": {
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "mgruebel",
+      "contents": "Total Remake",
+      "review_date": {
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "petra_ste",
+      "contents": "Forgettable",
+      "review_date": {
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "jessegehrig",
+      "contents": "so Hanna called, said to me, its not as good as the first EP",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Ahmed-Anssaien",
+      "contents": "This remake is epic! It's not even worth calling a remake!",
+      "review_date": {
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "James_Flops",
+      "contents": "action packed, beautiful to the eye yet still predictable and cringe worthy",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Tri Cao",
+      "contents": "Unrealistic",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "ajrcvr",
+      "contents": "Illogical, with Holes!",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "brentadsley-717-3657",
+      "contents": "Not as good as the original",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Lloyd Bayer",
+      "contents": "Total Rehash",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Red Queen",
+      "contents": "Total Recall or The Bourne Identity?",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Gareth Wrigley",
+      "contents": "terrible remake, OK stand alone film.",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "action, action, more action, till we're numb",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "keremgo",
+      "contents": "Brilliant! Brilliant! Brilliant!",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "freemantle_uk",
+      "contents": "A poor remake and as an a sci-fi film in its own right",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "J Ferguson",
+      "contents": "Pleasing to the Eyes......Brain not so much",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "rbstern",
+      "contents": "Disappointing remake",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "anthonymaw",
+      "contents": "Not as good as the 1990 version",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Joe Bob Jones",
+      "contents": "Quaid two point oh...",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "sophie_summerfield",
+      "contents": "Not worth remembering",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Casper Jansen",
+      "contents": "Anonymous action film beautifully gift wrapped",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Jeremy Elgin",
+      "contents": "Nice reinvention of the original film",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Iver Neset",
+      "contents": "A Remake That Had No Chance of Topping the Original",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Mark  Simmons",
+      "contents": "Mark Simmons- the UK's 3rd worst movie reviewer",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "TypedbyTara",
+      "contents": "An Oreo without the Filling",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "metalrage666",
+      "contents": "Totally worth seeing",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "jdkraus",
+      "contents": "An effort that pales in comparison to the original",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Stevie Sulaiman",
+      "contents": "Could've been a lot better with an improved script",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "ian_span",
+      "contents": "Total Recall 1/2",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "newguy85",
+      "contents": "Only in name",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "deltaforce7",
+      "contents": "Awful, empty shell of a remake",
+      "review_date": {
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "Sherazade",
+      "contents": "Even with all that action, it's still a snooze-fest",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "AlexGrant83",
+      "contents": "A so-so remake of a film which didn't need remaking",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "nikola17",
+      "contents": "worst movie i ever saw in my life and no one can Replace Arnold Schwarzengger",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "mutty-mcflea",
+      "contents": "No match for the original",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "masonbarge",
+      "contents": "Stinker",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "LeonLouisRicci",
+      "contents": "Nothing Memorable",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "RNMorton",
+      "contents": "Enough already",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "davideo-2",
+      "contents": "I do wonder if it was ever going to stand a chance with me, but, original aside, it's still a pretty feeble ride",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "David",
+      "contents": "Woeful Reballs",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "vailsy",
+      "contents": "severely lacking in a number of areas",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "traderneal-630-442604",
+      "contents": "Best Sci-Fi Action Movie In A Long Time",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "johnnyboyz",
+      "contents": "What, no Johnny Cab?",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "richieandsam",
+      "contents": "Not as good as the original...",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Bob Stein, VisiBone (stein@visibone.com)",
+      "contents": "2012 Effects, Age 12 script.",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "Convictions",
+      "contents": "Totally Mediocre",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "L\u00c3\u00a9opold M.",
+      "contents": "Total wreck-all",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Rob_Taylor",
+      "contents": "The Elephant in the room....",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "atreus_4971",
+      "contents": "Not what I hoped",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "thekyles99",
+      "contents": "Watch the Verhoeven version",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "TheSquiss",
+      "contents": "You'll need wine to get through it.  Lots and lots of wine.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "bluloa",
+      "contents": "Total Recall? Same name different film!",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Danielramos16",
+      "contents": "Total Recall.... Totally unnecessary.",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "kostie",
+      "contents": "Stellar waste of what should have been a fantastic cast.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "bdgill12",
+      "contents": "Adequate and That is All",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "G Ant",
+      "contents": "Why film it in the first place?",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "chaodong-he",
+      "contents": "It is a good movie",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "JoeB131",
+      "contents": "Total Pointlessness",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "Diet Bacon Cola",
+      "contents": "Most under-appreciated Movie of the Year",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "mewmewmint-1",
+      "contents": "How about some original ideas??",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "Brad Manning",
+      "contents": "Totally worth it...",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "juliank-smith",
+      "contents": "Could have been so much better!",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "feather7707",
+      "contents": "I have just one question. Where the hell is Richter??",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Pulkit G",
+      "contents": "Good time-pass if you don't compare to the Original",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "jeremyhwernli",
+      "contents": "It's very different from the original but is it truer to Dick's book?",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Shae Sterling",
+      "contents": "A whole lot of money gone to waste",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "virindra",
+      "contents": "Don't remake if it's not going to be better.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "lauluisa",
+      "contents": "A sad and pointless remake of a great movie",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Malcolm Taylor",
+      "contents": "Total regret",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Isee-stupid-people",
+      "contents": "was excited to see what I thought would be a better remake",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "houghtonetet",
+      "contents": "Stylish remake",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "martinrobertson300482",
+      "contents": "Forget about the other movie",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Itakel Phoenix",
+      "contents": "It's a good action film",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "azim5431",
+      "contents": "A good game ooops..... Movie(!)",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "Brian T. Whitlock (GOWBTW)",
+      "contents": "This remake is a total shock to the system!",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "domagojtg",
+      "contents": "Mommy mommy i have nightmares",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "isaackiernan",
+      "contents": "Not Bad.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "adrongardner",
+      "contents": "Can't Totally Recall...",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Ganesh Subramanian",
+      "contents": "Not so great ReKall but still interesting enough",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "peterpain",
+      "contents": "Absolutely Amazing",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Cyrus Swire",
+      "contents": "Can't remember the story!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "georgep53",
+      "contents": "\"Total Recall\" Revisited",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Sinan Canan",
+      "contents": "Underrated, for sure...",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "selarom-yar",
+      "contents": "There is no Mars!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "plasticanimalz",
+      "contents": "Ugh, What a Bummer",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "GoneWithTheTwins",
+      "contents": "The ceaseless adventure has such a consistent tone that no particular sequence stands out.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "iam legend7",
+      "contents": "Total Recall(2012) The BEST ACTION movie Of Summer 2012.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "rgblakey",
+      "contents": "Find out what is real and what is Total Recall",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "yunusitboss",
+      "contents": "Total Recall (U/A)------------Rating: 1.5/5     POOR",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "bigcalkenobi",
+      "contents": "Total Recall is a movie plagued with a script with some cool ideas that are never realized or developed",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "mechagoji",
+      "contents": "MGM would've remade it, not Kurt Wimmer and Sony Pictures",
+      "review_date": {
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Guy",
+      "contents": "I recall...a better movie",
+      "review_date": {
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "johnbridger",
+      "contents": "Don't waste your time",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "pedromoreno-447-971942",
+      "contents": "Total Lens Flare",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "alanjermy6",
+      "contents": "OK-ish",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "g-bodyl",
+      "contents": "Too Harshly Judged!",
+      "review_date": {
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "peter-martin-899-161468",
+      "contents": "loved it",
+      "review_date": {
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Jerghal",
+      "contents": "Hasn't got the good stuff",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Philippe Rousseau",
+      "contents": "total blast of action and sci-F",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Christopher Smith",
+      "contents": "Decent enough for what it is",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "JamesMitchell451",
+      "contents": "A fun remake",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Abhishek Bharadwaj",
+      "contents": "A pretty good entertainer",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "sanu-rooney",
+      "contents": "A very complicated ride through a simplistic future world",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "m_atkins",
+      "contents": "I enjoyed this version as much as the first one from 1990",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "aleo81190",
+      "contents": "Excellent movie . . . Food for thought",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "sarahmutzig",
+      "contents": "Just another action thriller",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "stephen-whipp",
+      "contents": "Not as good as the original",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Jasraj Rajkhokar",
+      "contents": "A Good Movie. Must Watch.",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "plex",
+      "contents": "Great FX cant save the monotony",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "jlgosnow",
+      "contents": "Food for Thought",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "Metacognizant",
+      "contents": "If you want to review the original, review the original.",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "The_Film_Anorak",
+      "contents": "The Blade Minority",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "jshee76",
+      "contents": "OK film if you have not seen ARNIE do it better!!",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "thesar-2",
+      "contents": "Totally Recall the Original was Better",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "ryansassy1",
+      "contents": "Good looking and plenty o' action, but only Cranston gave it any character.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "gaborzeller",
+      "contents": "Hey that actually wasn't bad",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "albrechtcm",
+      "contents": "So-So",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "Not as bad as I was expecting. A decent remake but not nearly as good as the original. I still think it's worth seeing. I say B",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "johnnyrj",
+      "contents": "Shampoo Commercial/Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "ASouthernHorrorFan",
+      "contents": "My Review Of \"Total Recall\"",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Maleplatypus",
+      "contents": "Not even partial recall",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "Jimmy Collins",
+      "contents": "Visually amazing.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "HollywoodJunket",
+      "contents": "Reinvention of Better Sci-Fi Movies",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "Bharat Samra",
+      "contents": "You will not Totally Recall it after a month or so",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "alex_serious",
+      "contents": "Totally Rekall the original being better.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Nilsosmar-2",
+      "contents": "Nice design, but a disappointing story.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "Total Recall: Just another unnecessary remake",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "David Moncoeur",
+      "contents": "Saddening Remake Can Only Lose Money",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "spruehsahne",
+      "contents": "...no second blade runner, neither a total recall of the 21. century!",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "mwtkn",
+      "contents": "Looked great....but",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "aargenis",
+      "contents": "Could be better",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "A mediocre and forgettable, but moderately entertaining, experience",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Tony Pape",
+      "contents": "No way does this deserve such low scores..",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "sonofhades",
+      "contents": "Not really my cup of tea",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "galet09",
+      "contents": "What a waste of time!",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "doc-hollywood81",
+      "contents": "A construction worker in the future discovers that his life is just an implanted memory and finds himself on the run after he discovers he's really an undercover spy.",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Taylor_Gillen",
+      "contents": "Nice CGI, but very Hollywood",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "juan gonzalez",
+      "contents": "I thought it was amazing",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "CVL TGM",
+      "contents": "Boring",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "p-stepien",
+      "contents": "Poor Dick",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "jamestheklein",
+      "contents": "Pleasantly  surprised",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "BombVark",
+      "contents": "I'm stunned by the negative reviews (somewhat)",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "dreamdemon-1",
+      "contents": "A barely entertaining swiss cheese",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "myleslgpower",
+      "contents": "A compendium of films!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Matthew Nguyen",
+      "contents": "People need to stop hatin",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "mac_martino",
+      "contents": "Utterly disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "lagudafuad",
+      "contents": "wait till the car chase scene is available on YouTube, that is all you need to see about from this movie",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "Dharmendra Singh",
+      "contents": "Total Nonsense",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "blackmamba99971",
+      "contents": "A unique change of pace",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "UberGoober1411",
+      "contents": "The 90\u2032s film receives a facelift, but with little meaning",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "adamray101",
+      "contents": "Take this thing out of the case and stick it up your nose...",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "Bezenby",
+      "contents": "Scrotal recall",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Animus",
+      "contents": "Facepalms galore!",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "cablooie",
+      "contents": "Why a remake if you want to destroy the story? Call it X System and you are good to go.",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "c-conley90",
+      "contents": "Total Crap",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "John J. Zich",
+      "contents": "Total Eclipse of the Mind",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "Kevin Dockendorf (dockendorf1@hotmail.com)",
+      "contents": "Horrible reboot with cool special effects, but bad acting",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "John Simmons",
+      "contents": "Not so good",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "patrickmmc",
+      "contents": "Total Waste",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "mister-green7",
+      "contents": "don't fix it if its not broken...",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "bob  peeters",
+      "contents": "Fell asleep 2 days in a row, finished it the 3rd day",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "adhipar",
+      "contents": "Total....ly Different",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Aaron@ iBay-LTD",
+      "contents": "Not even worth downloading\u0085",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "haosstoposto",
+      "contents": "Nothing special \u0096 Paul Verhoevens movie is better",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "Michael Ntalakos",
+      "contents": "This BAD, even for a remake...",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "t g",
+      "contents": "He should have gotten a lobotomy!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "ryan mcdaniel",
+      "contents": "Are you kidding me?",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "bigmouthmike",
+      "contents": "what a turd of a movie",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "Gruphenio",
+      "contents": "If you've seen the original - you'll only be disappointed!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "finraziel",
+      "contents": "Couldn't believe how bad this is...",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "John Sim",
+      "contents": "In isolation a very good film.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "zacpower361",
+      "contents": "This movie did not live up to the original",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "claudiu_condurache",
+      "contents": "A remark for a remake",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "dioditto",
+      "contents": "Total Rubbish",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "trnjamesbond (trnjamesbond@aol.com)",
+      "contents": "Comfirmed as trash!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "lattiman",
+      "contents": "total and utter crap",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Matthew Egan",
+      "contents": "An Action Filled Triple-Breasted 2 Hours",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "ThePadraigMoista",
+      "contents": "If you're looking for a good action film, see this.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Martin Aramis",
+      "contents": "Excellent gritty film that concentrates on a few strong performances",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "George Someone",
+      "contents": "I give it 9/10",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "premium90",
+      "contents": "iRobot? Or did the director lose it?",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "manunderyourbed",
+      "contents": "My take on what could have been a lot better.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "3xHCCH",
+      "contents": "This Does NOT Recall the 1990 Original Very Well",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "edwards_trina-560-690634",
+      "contents": "Good but not as good as the 1st",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "robi_1",
+      "contents": "repetitive cgi action",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "sreedy-208-2675",
+      "contents": "If you loved the original don't watch this one.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "mvpictures-2",
+      "contents": "Awfully Awful",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "Jezzibel",
+      "contents": "Great Action Film",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Al von Staffenburgen",
+      "contents": "An Unfortunate Misuse of Potential",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "vicarious_tool",
+      "contents": "Entertaining.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Michael Obrofta",
+      "contents": "Better Than Reported",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "Outrageous Recall",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Dave Diz",
+      "contents": "A Good Action Film Actually",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Drew St. Pierre",
+      "contents": "Not as bad as people are saying, but still not all that good",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "adonis98-743-186503",
+      "contents": "OK Reboot the first one is better!!!",
+      "review_date": {
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "rick_trautman",
+      "contents": "Better than original",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "ani-for-prez",
+      "contents": "Expected far worse after all the reviews",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "A remake that was actually worth the effort...",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Faisal Khatib",
+      "contents": "I'd put this down as a huge disappointment and honestly I think I would have preferred watching the original again instead.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "Get your ass to the colony.....",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Film Flare",
+      "contents": "Not actually as bad as you assume it will be.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "furtunadincarpati",
+      "contents": "Released prematurely",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "kate8277",
+      "contents": "If only it hadn't been a \"remake\"!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "david-sarkies",
+      "contents": "Wiseman should have distanced himself more from the original film",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "This will be more enjoyable if you have never seen the 1990 version - it's good but unoriginal",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Peter Gedye (peter_gedye)",
+      "contents": "this new movie has nothing to do with the book",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "markdroulston",
+      "contents": "The next unnecessary remake",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "Half-Bake Head Games",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "Total Recall",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "evk311",
+      "contents": "SF at its best",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "D G",
+      "contents": "movie is bad, like onion in trash after a week.",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "frank-dm001",
+      "contents": "More Hollywood anti English tosh. Spoilers.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "Paradox-Warrior",
+      "contents": "Don't Worry About Comparing To The Original",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "crackcocan",
+      "contents": "uninteresting",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "WatchedAllMovies",
+      "contents": "Not as good as the original",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "g-lampropoulos",
+      "contents": "Fun enough.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "richy1024",
+      "contents": "Futuristic remake makes a buyout impression!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Ayal Oren",
+      "contents": "Another unavoidable comparison",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "AGood",
+      "contents": "Very Poor - 4/10",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "nexus-37",
+      "contents": "Total Recall but 97% different movie totally still watchable",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "jokullenn99",
+      "contents": "Good film over-ally, But the acting wasn't so good",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Jack Traven",
+      "contents": "Another Total Recall movie",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "TheUnknown837-1",
+      "contents": "In an era where the only safe bets for box office seem to be reinventing old favorites, this Total Recall can be regarded with a certain level of respect.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Lacks a presence like Arnold Schwarzenegger!",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Filmbrewer",
+      "contents": "A revisit to the short story",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "liam-darby",
+      "contents": "Incredible remake of a sci-fi classic.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "Darko Bogojevic",
+      "contents": "Total brain damage!",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "rob o'cop",
+      "contents": "Wow, what an utter mess!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "horst69",
+      "contents": "saving at the wrong end",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "Drew Peacock",
+      "contents": "Don't waste your time",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "warith-niallah",
+      "contents": "Too much of a departure",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "dannykalifornia",
+      "contents": "Better Than The Elitist Say....",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "zumrat2000",
+      "contents": "Total Ripoff",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Paul Denton",
+      "contents": "Absolute Garbage",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "Acks King",
+      "contents": "Total recall - The futility of being in the future.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "gbatmarx",
+      "contents": "one of the best sci-fi movies",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "kim-tully79",
+      "contents": "Good but not great remake of a classic",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "I'm Surprised, I liked it!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Achyuta Ghosh",
+      "contents": "Total Recall review- Enjoyable popcorn actioner.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "italianabella42",
+      "contents": "Loved The Movie! A must see",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": " (themoviemark@themoviemark.com)",
+      "contents": "Gunfights, shoot outs, and eye candy, oh my!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "rgkarim",
+      "contents": "Is What The Trailer Promised Real or Just A Dream?",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "jaguiar313",
+      "contents": "Nice action and a bad ass Kate Beckinsale in a been there done that remake.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Victor Bailey",
+      "contents": "Worst story line then the 1st one, and no Schwarzenegger!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "WakenPayne",
+      "contents": "A remake not as good as the original but nevertheless okay",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Good/Bad Reviews",
+      "contents": "Bad/Good Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "Callum Brodie",
+      "contents": "Action Packed good story line",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "schf",
+      "contents": "A Good Action movie but not science fiction",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Peter Collins",
+      "contents": "Superior in cast and action with some good ideas",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Alexander Ivanchev",
+      "contents": "An OK, but banal sci-fi derivative",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "clements-nicholas",
+      "contents": "More Lens Flares!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "Chloe1251",
+      "contents": "Amazing, for all the wrong reasons.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "Benton Phillips (Benton_Phillips)",
+      "contents": "Partial Recall - Not as I remembered it",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "George Dragomir",
+      "contents": "Decent for a modern remake",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "helmutty",
+      "contents": "Entertaining for someone who've not watched the original",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "angie g",
+      "contents": "Spectacular!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "tabuno",
+      "contents": "An Action Packed Sci Fi Thriller",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "butcher20",
+      "contents": "I don't know",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "Savo",
+      "contents": "A largely unrealized film that ultimately delivers on enjoyment",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "abgkasjlkasjla",
+      "contents": "Ironically unmemorable, and giving it a chance only confirms that we've already been there",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "matthew-17-721107",
+      "contents": "A terrific sci-fi/action extravaganza.",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Likes_Ninjas90",
+      "contents": "Excruciatingly dull and visually derivative, more intent on being a video game instead of a film, but unlikely to have the faintest impact on the most seasoned gamer",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "Grumpy",
+      "contents": "It Could Have Been So Much Better. But It Wasn't.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "benjisry",
+      "contents": "Worst movie I've ever seen",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Fadu-K7",
+      "contents": "Great Action (Well Executed) - Great Story (Poorly Executed)",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "briangcb",
+      "contents": "A decent sci-fi action flick but nothing spectacular.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "dmhughes-448-695102",
+      "contents": "I RECALL Seeing This Movie Before...Except That One Was Terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Andi (showem)",
+      "contents": "Copies a lot of other films but still entertaining & better than the original.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "cadillac20",
+      "contents": "Kinetic, Entertaining Reboot",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "slayerjmk95",
+      "contents": "Welcome to REKALL...",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "grains500",
+      "contents": "Saw it loved it!  Created as a homage to Blade Runner, Total Recall  etc. not a substitute!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Dan Brusstar",
+      "contents": "Good adaptation of the original, NOT a remake!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "jonathanabsolute",
+      "contents": "The only review you need to read",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Avishek Chowdhury",
+      "contents": "Better Than What I Expected",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Bruce722",
+      "contents": "Far better than the original!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "If Memory Serves....",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film Review: Could have easily been Total Recall Two.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": " (eric@elcmedia.com)",
+      "contents": "Not as bad as many reviews suggest",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "sgtking",
+      "contents": "Not groundbreaking, just good fun",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Raghavibaggy-Drawers",
+      "contents": "Failed the Hype.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "nyshrink",
+      "contents": "Fun; Not as Good as Original",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "bcaldeira1709",
+      "contents": "Brilliant",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    }
+  ],
+  "release_month": "August",
   "genres": [
     "action",
     "adventure",
     "mystery"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 5,
-    "month": 10,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 25577758
+  "opening_weekend_screens": 3601,
+  "name": "Total Recall",
+  "num_weekends": 9,
+  "release_day": 3,
+  "critic_review_count": 404
 }

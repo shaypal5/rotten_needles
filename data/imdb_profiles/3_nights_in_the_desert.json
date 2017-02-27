@@ -1,9 +1,23 @@
 {
-  "opening_weekend_date": {
-    "month": 2,
-    "year": 2015,
-    "day": 6,
-    "__type__": "datetime.date"
+  "release_day": null,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 4.3,
+    "males_under_18": 10.0,
+    "aged_45+": 4.3,
+    "imdb_users": 5.9,
+    "males_aged_45+": 4.2,
+    "aged_18-29": 6.7,
+    "females_aged_30-44": 6.9,
+    "males_aged_18-29": 6.5,
+    "males": 5.5,
+    "females": 6.6,
+    "females_aged_45+": 4.6,
+    "non-us_users": 4.9,
+    "females_aged_18-29": 7.1,
+    "us_users": 7.4,
+    "aged_30-44": 6.0,
+    "aged_under_18": 10.0,
+    "males_aged_30-44": 5.6
   },
   "closing_date": {
     "month": 4,
@@ -11,9 +25,99 @@
     "day": 3,
     "__type__": "datetime.date"
   },
-  "rating": 5.9,
+  "metascore": null,
   "num_weekends": 2,
+  "rating_count": 1910,
+  "gross_income": 1279,
+  "max_screens": 2,
+  "opening_weekend_screens": 2,
+  "screens_by_weekend": [
+    2,
+    2
+  ],
+  "opening_weekend_income": 234,
   "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Horrible Movie!",
+      "score": 1,
+      "user": "zubinster",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sort of a strange",
+      "score": 4,
+      "user": "zif ofoz",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If this teaches kids not to believe in themselves the movie might win.",
+      "score": 3,
+      "user": "guitarplayinglegend",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heartfelt movie on old friendships",
+      "score": 10,
+      "user": "chrisheaney",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad for a slow movie.",
+      "score": 5,
+      "user": "Joel Waite (JoelW2U@GMail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 90,
+  "votes_per_demo": {
+    "top_1000_voters": 70,
+    "males_under_18": 1,
+    "aged_45+": 206,
+    "imdb_users": 1910,
+    "males_aged_45+": 173,
+    "aged_18-29": 547,
+    "females_aged_30-44": 253,
+    "males_aged_18-29": 382,
+    "males": 1256,
+    "females": 455,
+    "females_aged_45+": 31,
+    "non-us_users": 540,
+    "females_aged_18-29": 163,
+    "us_users": 1041,
+    "aged_30-44": 941,
+    "aged_under_18": 1,
+    "males_aged_30-44": 683
+  },
+  "genres": [
+    "drama"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 95,
     "2": 57,
@@ -26,61 +130,20 @@
     "9": 331,
     "10": 464
   },
-  "avg_screens": 2.0,
+  "release_month": null,
   "budget": null,
   "budget_currency": null,
-  "release_day": null,
-  "metascore": null,
-  "genres": [
-    "drama"
-  ],
-  "release_month": null,
-  "avg_rating_per_demo": {
-    "aged_45+": 4.3,
-    "aged_18-29": 6.7,
-    "aged_30-44": 6.0,
-    "females": 6.6,
-    "top_1000_voters": 4.3,
-    "non-us_users": 4.9,
-    "us_users": 7.4,
-    "males_aged_30-44": 5.6,
-    "imdb_users": 5.9,
-    "males_under_18": 10.0,
-    "females_aged_18-29": 7.1,
-    "males_aged_45+": 4.2,
-    "females_aged_30-44": 6.9,
-    "males": 5.5,
-    "males_aged_18-29": 6.5,
-    "females_aged_45+": 4.6,
-    "aged_under_18": 10.0
-  },
-  "opening_weekend_income_currency": "$",
+  "total_screens": 4,
   "year": 2014,
-  "name": "3 Nights in the Desert",
-  "gross_income": 1279,
-  "user_review_count": 5,
-  "duration": 90,
-  "max_screens": 2,
-  "votes_per_demo": {
-    "aged_45+": 206,
-    "aged_18-29": 547,
-    "aged_30-44": 941,
-    "females": 455,
-    "top_1000_voters": 70,
-    "non-us_users": 540,
-    "us_users": 1041,
-    "males_aged_30-44": 683,
-    "imdb_users": 1910,
-    "males_under_18": 1,
-    "females_aged_18-29": 163,
-    "males_aged_45+": 173,
-    "females_aged_30-44": 253,
-    "males": 1256,
-    "males_aged_18-29": 382,
-    "females_aged_45+": 31,
-    "aged_under_18": 1
-  },
-  "rating_count": 1910,
+  "rating": 5.9,
   "critic_review_count": 3,
-  "opening_weekend_income": 234
+  "opening_weekend_date": {
+    "month": 2,
+    "year": 2015,
+    "day": 6,
+    "__type__": "datetime.date"
+  },
+  "name": "3 Nights in the Desert",
+  "user_review_count": 5,
+  "avg_screens": 2.0
 }

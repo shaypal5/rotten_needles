@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 7,
-    "year": 2015,
-    "day": 17,
-    "__type__": "datetime.date"
+  "release_day": 17,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.3,
+    "top_1000_voters": 5.8,
+    "males_under_18": 6.5,
+    "imdb_staff": 7.4,
+    "males_aged_18-29": 6.3,
+    "imdb_users": 6.3,
+    "males_aged_45+": 6.2,
+    "aged_18-29": 6.4,
+    "us_users": 6.6,
+    "females_aged_30-44": 6.5,
+    "males": 6.2,
+    "females": 6.5,
+    "females_aged_45+": 6.5,
+    "non-us_users": 6.1,
+    "females_aged_18-29": 6.4,
+    "females_under_18": 6.8,
+    "aged_30-44": 6.2,
+    "aged_under_18": 6.6,
+    "males_aged_30-44": 6.1
   },
   "closing_date": {
     "month": 10,
@@ -11,82 +27,3439 @@
     "day": 9,
     "__type__": "datetime.date"
   },
-  "rating": 6.3,
-  "num_weekends": 12,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 3939,
-    "2": 2137,
-    "3": 3194,
-    "4": 5823,
-    "5": 12366,
-    "6": 23780,
-    "7": 27206,
-    "8": 14589,
-    "9": 5157,
-    "10": 4924
-  },
-  "avg_screens": 1488.8333333333333,
-  "budget": 35000000,
-  "budget_currency": "$",
-  "release_day": 17,
   "metascore": 75,
+  "num_weekends": 12,
+  "rating_count": 103147,
+  "gross_income": 110008260,
+  "max_screens": 3171,
+  "opening_weekend_screens": 3158,
+  "screens_by_weekend": [
+    3158,
+    3171,
+    2960,
+    2525,
+    1998,
+    1333,
+    957,
+    738,
+    539,
+    240,
+    144,
+    103
+  ],
+  "opening_weekend_income": 30097040,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Nothing new here",
+      "score": 1,
+      "user": "Eric",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply Not Funny",
+      "score": 3,
+      "user": "aharmas",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad",
+      "score": 4,
+      "user": "Andreas Boldt",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I walked out after 1 1/2 hours!",
+      "score": 1,
+      "user": "SquirePM",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unfunny, unoriginal, unbelievably boring.",
+      "score": 1,
+      "user": "jambon75",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More annoying than funny!!",
+      "score": 2,
+      "user": "loueymc",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mostly Unfunny, unredeemingly ugly, and a bit boring really.",
+      "score": 5,
+      "user": "rob o'cop",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Name for the Film!!",
+      "score": 3,
+      "user": "blairparkinson",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing",
+      "score": 3,
+      "user": "sadako11",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worse, much worse than one would think",
+      "score": 1,
+      "user": "keenast",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "is Well Named",
+      "score": 1,
+      "user": "adrossan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awkward Handling of an Unlikable Drunk",
+      "score": 5,
+      "user": "Danusha_Goska Save Send Delete",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly Hilarious",
+      "score": 7,
+      "user": "Nuri Lena Krones",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film is an insult!",
+      "score": 1,
+      "user": "Evgeny Kumanov",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a confused romantic comedy",
+      "score": 4,
+      "user": "Zaffy-1",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not keen on the length of the film!",
+      "score": 2,
+      "user": "Irishmoviereviewer",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An awful tale of sick and confused attitudes toward love and sex.",
+      "score": 1,
+      "user": "davidkuffa",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fooled Again",
+      "score": 1,
+      "user": "SteveNY",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Trailer Oversold the Movie",
+      "score": 5,
+      "user": "mattyhowe-36-484102",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really was a trainwreck.  Not at all what I expected. *spoilers*",
+      "score": 3,
+      "user": "bloodhazel3650",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is Amy Shumer supposed to be funny?",
+      "score": 3,
+      "user": "jim_flowers",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck is an apt title for this film",
+      "score": 1,
+      "user": "mcblee",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hey Redbox,  I want my $1.60 back for renting this rabid dog.....",
+      "score": 1,
+      "user": "e_blastman",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "awful",
+      "score": 1,
+      "user": "edmh-73961",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely garbage",
+      "score": 1,
+      "user": "mary-wilkinson1",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just Awful",
+      "score": 1,
+      "user": "Mohit Singh",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lame movie-making at its best",
+      "score": 1,
+      "user": "chuckpw",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst movie ever",
+      "score": 1,
+      "user": "devanirg",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rubish",
+      "score": 1,
+      "user": "shani_dayo",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How to ruin the summer",
+      "score": 1,
+      "user": "hidariryuI",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Film That Amy Schumer Fans Will Enjoy",
+      "score": 7,
+      "user": "Jacob Wood",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "this film was a...",
+      "score": 4,
+      "user": "witster18",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What?",
+      "score": 3,
+      "user": "ttrabue-106-208742",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "WTF-Amy?",
+      "score": 2,
+      "user": "plex",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck",
+      "score": 6,
+      "user": "Jackson Booth-Millard",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really sweet, honest and funny movie",
+      "score": 8,
+      "user": "elizrug",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty funny movie, maybe not the best thing ever, but I liked it!",
+      "score": 7,
+      "user": "emilyaschubert",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great comedic timing from Any Schumer and a hilarious supporting cast",
+      "score": 7,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Raunchy and Do NOT understand the love for Schumer",
+      "score": 2,
+      "user": "kymoviepro",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hopeful, but my hopes were dashed!",
+      "score": 3,
+      "user": "Jim T",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Generic chick flick pretending to be something else.",
+      "score": 1,
+      "user": "leonthesleepy",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How this was nominated for a golden globe is beyond me",
+      "score": 6,
+      "user": "thedivinewingsoftragedy",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Occasionally derails",
+      "score": 6,
+      "user": "Joseph Kearny",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring for the most part, extremely slow for the rest.",
+      "score": 4,
+      "user": "mad_mike1211",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Super funny movie with a great cast",
+      "score": 9,
+      "user": "gtylerpayne",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A less satirical but still entertaining Schumer",
+      "score": 7,
+      "user": "Charles Herold (cherold)",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ugh.  Named Appropriately",
+      "score": 2,
+      "user": "schuster_mark",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "new fun game: every time you hear the word \"LIKE\", drink",
+      "score": 2,
+      "user": "bzsofi047",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did we see the same film?",
+      "score": 10,
+      "user": "liznav",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just a wreck",
+      "score": 1,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Movie is CRAP",
+      "score": 1,
+      "user": "lexxel_01",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amy Schumer is the new foul-mouthed queen of Hollywood",
+      "score": 7,
+      "user": "bartonj2410",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not interested to watch again",
+      "score": 6,
+      "user": "neda-bagheri",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watched this movie in 30 min",
+      "score": 1,
+      "user": "Ron Pat",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A return to form for Judd Apatow.",
+      "score": 7,
+      "user": "drawlife",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow, this was unbearably bad",
+      "score": 1,
+      "user": "jas82",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not good enough",
+      "score": 2,
+      "user": "phoenix 2",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Despite the usual Apatow frustrations, Amy Schumer rises above the flaws to deliver a great debut",
+      "score": 7,
+      "user": "diac228 (diac1987@netscape.net)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "50 Parades of Bad Lays",
+      "score": 1,
+      "user": "carter-drewj",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring, dry, and forgettable.",
+      "score": 2,
+      "user": "ptcarr",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great film, but the story gets off the rails in the second half and goes in the rom-com clich\u00e9 direction. Amy Schumer is just breathtakingly talented.",
+      "score": 7,
+      "user": "fabiolpinheiro1993",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocre and infuriating",
+      "score": 1,
+      "user": "hirako-67284",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring!   Boring!!   Boring!!!",
+      "score": 1,
+      "user": "Carycomic",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Starts Strong, Ultimately Devolves into Apatow's Lengthy Sentimentality Fests",
+      "score": 5,
+      "user": "drewsterwang",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tame and tedious",
+      "score": 6,
+      "user": "JoshuaDysart",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Regular solid formula movie.",
+      "score": 7,
+      "user": "jkd15-1",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not good except for the acting",
+      "score": 5,
+      "user": "Imdbidia",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "absolute waste of time",
+      "score": 3,
+      "user": "rachael-85288",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you like Amy You'll like this",
+      "score": 6,
+      "user": "Simply-Red",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, smart, and has a heart.",
+      "score": 8,
+      "user": "runamokprods",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Haven't we seen this many times before?",
+      "score": 2,
+      "user": "wootenwriter",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "TRAINWRECK is serviceable at its very best, and the elephant-in-the-room is that has Judd Apatow lost his mojo at this point of his career?",
+      "score": 6,
+      "user": "lasttimeisaw",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Real Life Going",
+      "score": 8,
+      "user": "lia00027",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I laughed out loud all the way through",
+      "score": 9,
+      "user": "KohakuAmber",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm confused by how much hate this movie got on these user reviews",
+      "score": 8,
+      "user": "Jay_Murphy33",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too much of nothing",
+      "score": 3,
+      "user": "thstefanis",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of time",
+      "score": 3,
+      "user": "Dev Alok",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Stellar Comedic Cast with a Talent for Improvising make this a Winner,",
+      "score": 8,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Funny...and very very boring......and very very long.....Why?",
+      "score": 2,
+      "user": "jmsantana",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible, tries too hard to make cheap gender-points.",
+      "score": 2,
+      "user": "A K",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Accurate Title",
+      "score": 5,
+      "user": "Jerique (kris.hopson@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful childish movie....",
+      "score": 3,
+      "user": "english_artist",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A serial dater finds true love.",
+      "score": 5,
+      "user": "Jua-Mari Malan",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointment",
+      "score": 4,
+      "user": "Samara Morgan (soggydeadgirl)",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Has its moments but mostly quite dull",
+      "score": 4,
+      "user": "grantss",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "EWWW Amy!",
+      "score": 1,
+      "user": "snuzhatsabrina",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumpy but \"do-able\" blonde finds love, then doesn't know what to do with it",
+      "score": 5,
+      "user": "dale-51649",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dating Queen",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amy Schumer Vechicle Highlights How Not Funny Amy Schumer Is",
+      "score": 6,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dirty humor",
+      "score": 8,
+      "user": "Mhmd_Elgammal",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mehhh...",
+      "score": 5,
+      "user": "Chris Ober",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible movie",
+      "score": 1,
+      "user": "Arkadios Kofidis",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"I don't care what y'all are thinking'/I ain't drunk, I'm just drinkin'!\"",
+      "score": 6,
+      "user": "The_late_Buddy_Ryan",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "UGH! Forced to suffer through this...",
+      "score": 2,
+      "user": "thecrux-1",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappy Watched: Trainwreck",
+      "score": 7,
+      "user": "Chappy Watched",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I really like Amy Schumer...but I DO NOT like this movie",
+      "score": 1,
+      "user": "SalKott",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Less radical than you've heard",
+      "score": 6,
+      "user": "Jonny 99",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck",
+      "score": 6,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Copycat here:  This is an overrated yawnfest",
+      "score": 5,
+      "user": "ottoinct",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny but predictable! 5/10",
+      "score": 5,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny , at times",
+      "score": 5,
+      "user": "Bob Rutzel",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny at moments, but not that great.",
+      "score": 4,
+      "user": "cblazo",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rehash, but it's no Trainwreck",
+      "score": 5,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was surprised, in a good way.",
+      "score": 5,
+      "user": "silversalver",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wrong Vehicle for a Great Comedian",
+      "score": 5,
+      "user": "Mickey Z",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ultimately not very funny",
+      "score": 6,
+      "user": "Charlie Picart",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tries to be straightforward and parody itself simultaneously...and fails",
+      "score": 5,
+      "user": "Lucas Versantvoort",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a train wreck but certainly not a slam dunk",
+      "score": 4,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty much your average Judd Apatow comedy-fare",
+      "score": 6,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The same old romance formula, but a woman's version.",
+      "score": 5,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews....",
+      "score": 6,
+      "user": "capone666",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Raunchy Take on the \"Chick Flick\" that Mostly Succeeds",
+      "score": 7,
+      "user": "pfogertyca",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lives up to its name. Sheesh!",
+      "score": 1,
+      "user": "poorni pillai",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ho-Hum!!!",
+      "score": 1,
+      "user": "Dalbert Pringle",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly Funny",
+      "score": 7,
+      "user": "briggswolf",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More romance than comedy",
+      "score": 4,
+      "user": "smatysia (feldene@comcast.net)",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "just not that funny",
+      "score": 3,
+      "user": "jdeskins",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A 'Trainwreck' indeed",
+      "score": 1,
+      "user": "jimigrill",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "First Time I Walked Out On a Movie",
+      "score": 1,
+      "user": "Calvin Hobbes",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such a waste of time",
+      "score": 2,
+      "user": "emily-583",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "5/10",
+      "score": 5,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A comedy in the old fashion way - in the sense that it actually made me laugh, and in the \"modern\" way - with too much sex stuff",
+      "score": 7,
+      "user": "Melania Marianu",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great humor especially at the first half",
+      "score": 7,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Enough Novelty",
+      "score": 5,
+      "user": "Mek Torres",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the complete package",
+      "score": 5,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't believe all that negative reviews, it's a funny movie",
+      "score": 8,
+      "user": "Erik Stuborn",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyed this movie and got the BluRay",
+      "score": 10,
+      "user": "johncorosz-24484",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you want to fall asleep watch this",
+      "score": 1,
+      "user": "mofobuss",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film flooded with celebrities to mask the amateur writing",
+      "score": 5,
+      "user": "ryan-bfd",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Got Hype?",
+      "score": 2,
+      "user": "charlestontracy",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Formulaic, sophomoric schlock",
+      "score": 2,
+      "user": "pittorium",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amy Schumer is just not funny.",
+      "score": 4,
+      "user": "Bruce722",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm Sorry but this Film was Very UNFunny.",
+      "score": 4,
+      "user": " (HorrorFanForever)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Doesn't live up to expectations...missed the target by a mile!",
+      "score": 3,
+      "user": "lahel",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It is what it says on the tin.",
+      "score": 3,
+      "user": "joeyjl",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Im a bigtime Amy Schumer fan-This movie wasn't funny enough.",
+      "score": 5,
+      "user": "roguecritic42",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This sure is not funny",
+      "score": 6,
+      "user": "Razvan Costache",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The biography of Schumer's life...a trainwreck",
+      "score": 3,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Once again, women aren't funny.",
+      "score": 3,
+      "user": "robb-barrett",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious and heartwarming - I loved this movie",
+      "score": 10,
+      "user": "jfarnsy-35574",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big Surprise...",
+      "score": 10,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst.Movie.Ever",
+      "score": 1,
+      "user": "C D",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This was neither a romance or a comedy",
+      "score": 1,
+      "user": "rcwcfa63",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This \"Train Wreck\" is aptly named",
+      "score": 1,
+      "user": "derek2",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This score needs to drop",
+      "score": 1,
+      "user": "kypierce-28-171925",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The title is accurate",
+      "score": 2,
+      "user": "moviegoer69 yes",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Way better than I thought it would be",
+      "score": 10,
+      "user": "mywakinglife01",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Semi-watchable comedy",
+      "score": 7,
+      "user": "euphoria2150",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why is post production audio so bad???",
+      "score": 5,
+      "user": "steve-73990",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amy Schumer plays Amy from Inside Amy Schumer who plays Amy Schumer",
+      "score": 6,
+      "user": "Nika Gigashvili (www.running-reel.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fellow teenagers, for your own sake, please don't watch this film with your Mum or Dad.",
+      "score": 5,
+      "user": "Nathan Fegan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you like amy you like this movie",
+      "score": 7,
+      "user": "siva-janakiram",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Formulaic, sophomoric schlock",
+      "score": 2,
+      "user": "pittorium",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the most unlikable movie I think i've ever seen",
+      "score": 1,
+      "user": "jondiamond-45566",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "20 minutes in and ...meh",
+      "score": 2,
+      "user": "sanman-08234",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I love Amy Schumer",
+      "score": 3,
+      "user": "Lrbc84",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "another flop for Judd Apatow which is unfortunate",
+      "score": 3,
+      "user": "Mikey Lee Smith",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Doctors And Curses",
+      "score": 5,
+      "user": "writers_reign",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Trainwreck in the opposite direction",
+      "score": 6,
+      "user": "jonnytheshirt",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too many cameos from unrecognisable sportsmen.",
+      "score": 6,
+      "user": "valleyjohn",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not worth the trouble",
+      "score": 4,
+      "user": "DreMat",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film is an absolute train wreck.",
+      "score": 1,
+      "user": "Kevin McCormick",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amy Schumer is cute but need to improve the acting skill",
+      "score": 4,
+      "user": "sfyalek",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is unlikeable",
+      "score": 1,
+      "user": "Tim Richard",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A rude-n-crude version of MIRANDA",
+      "score": 6,
+      "user": "davidgee",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Long Sub-Standard Grouping of Schumer Routines",
+      "score": 6,
+      "user": "AudioFileZ",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far too long, and far too good for it's plot.",
+      "score": 6,
+      "user": "MikeM1984",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyed first half, but at the end, feel like 2hrs wasted",
+      "score": 2,
+      "user": "tonghua2005",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertain via real life issues",
+      "score": 6,
+      "user": "blackBee2.0 ver",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not what I expected",
+      "score": 7,
+      "user": "liss24",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck: Good performances hindered by bland plot line",
+      "score": 6,
+      "user": "Joseph Skerritt",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Starts sharp, turns dull.",
+      "score": 6,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Annoying female lead, but not a bad movie.",
+      "score": 7,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too raunchy but some very good acting",
+      "score": 1,
+      "user": "churchillca",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amy Schumer & Judd Apatow are the Perfect Combo",
+      "score": 8,
+      "user": "brando647",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious move - family loved it",
+      "score": 10,
+      "user": "TiffanyGerik",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a masterpiece, but Lebron rules!",
+      "score": 6,
+      "user": "palavitsinis",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Mess, but a Hilarious One (Review for Unrated version)",
+      "score": 8,
+      "user": "tgrock",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not exactly weighing on a plot, but it's damn funny!",
+      "score": 7,
+      "user": "scottshak_111",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amy is great",
+      "score": 7,
+      "user": "biancajones",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Had everything going for it---but---",
+      "score": 7,
+      "user": "ritera1",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really funny for a long time",
+      "score": 7,
+      "user": "joshoreilly24",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Trainwreck\" Schumer and funny, irreverent first half devolve into typical rom-com territory past the midpoint",
+      "score": 5,
+      "user": "Turfseer",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A nice predictable comedy.",
+      "score": 2,
+      "user": "pwook",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is a Trainwreck so its not just a clever name.",
+      "score": 5,
+      "user": "JonnyCampo",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Risky title for a Judd \"35 mins too long\" Apatow movie.",
+      "score": 6,
+      "user": "Ben Parker (ben.cheshire@optusnet.com.au)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Full of witty jokes",
+      "score": 8,
+      "user": "HeijnMandarijn",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ignore the Bad Reviews.",
+      "score": 10,
+      "user": "powermandan",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wrecking up the laughs!! Loved it!!",
+      "score": 10,
+      "user": "meeza (themeezaman@hotmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Delightfully entertaining NYC romantic comedy with realistic characters we can identify with.",
+      "score": 8,
+      "user": "lmitrani",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "At last a movie that deserves its name",
+      "score": 4,
+      "user": "adi_2002",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck is a great Rom-Com/Comedy.",
+      "score": 8,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a smart and sharp romantic comedy that does a clever gimmick but keeps it real",
+      "score": 8,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's funny, but Trainwreck is far from a train wreck in a good way. It didn't go off the rails, enough.",
+      "score": 6,
+      "user": "ironhorse_iv",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slightly flawed, but many hilarious moments",
+      "score": 8,
+      "user": "Gino Cox",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck made me laugh",
+      "score": 10,
+      "user": "samykae",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Apt title.....",
+      "score": 3,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck surprises overall",
+      "score": 10,
+      "user": "richinsports",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you like Amy ...",
+      "score": 7,
+      "user": "abe shainberg",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "more a chick flick... NOT BAD REALLY",
+      "score": 7,
+      "user": "Mr RASSman",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "SPOILER: First 2/3 of movie good, but the last 1/3 killed momentum",
+      "score": 6,
+      "user": "vzxvxzc zxvxcvxzc",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like Schumer's stand up, moment of hilarity but a personal narrative",
+      "score": 7,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Great Romantic-Comedy from Judd Apatow!",
+      "score": 9,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Doesn't quite break the rom-com mould but it's subversive where it counts.",
+      "score": 7,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fresh and breezy rom com, was enjoyable, but nothing too novel.",
+      "score": 6,
+      "user": "Jasrick Johal",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of Trainwreck",
+      "score": 6,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really great",
+      "score": 8,
+      "user": "bbewnylorac",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Schumer shines in totally formulaic yet freshly atypical rom-com",
+      "score": 8,
+      "user": "Movie_Muse_Reviews",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not worth it",
+      "score": 3,
+      "user": "Jazz Clark",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Raunchy rom-com starring Amy Schumer at the top of her game",
+      "score": 8,
+      "user": "Paul Allaer",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great sex scenes",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For fans of Amy Schumer, her comedy delivers",
+      "score": 8,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "live however you can",
+      "score": 8,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious!",
+      "score": 8,
+      "user": "sydneynbrandt",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck",
+      "score": 8,
+      "user": "Alexa Bouhelier-Ruelle",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All Aboard!",
+      "score": 7,
+      "user": "dcarsonhagy",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the straight laugh-out-loud comedy I was expecting but I did like it. As a side note, John Cena is hilarious in this movie",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You could do a lot worse in this genre",
+      "score": 7,
+      "user": "Jerghal",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chcik Flick with Apatow spin",
+      "score": 7,
+      "user": "Matthew cope (joe-cope-74-826665)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Apatow The Maestro",
+      "score": 8,
+      "user": "peter-stead-740-486963",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "ABSOLUTELY Hilarious!",
+      "score": 9,
+      "user": "Amy S.",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "With a name like Trainwreck...",
+      "score": 3,
+      "user": "pcernea-1",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sad Attempt at Comedy",
+      "score": 3,
+      "user": "Brooke J",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "awful no other word to describe it",
+      "score": 3,
+      "user": "peterchapman-76310",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny only the 1st 20 min",
+      "score": 5,
+      "user": "Seemp deHond",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent start, predictable ending",
+      "score": 5,
+      "user": "davids-05120",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "To much nudity.",
+      "score": 1,
+      "user": "loveonebreakup",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Judd Apatow strikes again with a likable, if not uneven, romantic comedy.",
+      "score": 7,
+      "user": "themadmovieman",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Was is supposed to be funny ???",
+      "score": 1,
+      "user": "legend-is-alive",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is no \"Bridesmaids\"",
+      "score": 4,
+      "user": "nellis-208-107449",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Sucked - I felt violated.",
+      "score": 1,
+      "user": "bradcamis-885-984365",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "KCERWNIART watch this one backwards",
+      "score": 2,
+      "user": "ellwood-98361",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crass Class",
+      "score": 7,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's not that Trainwreck isn't sweet or funny; it's simply boring",
+      "score": 4,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Funny, but not Great",
+      "score": 8,
+      "user": "Challenger2013",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amy Schumer and Judd Apatow's Trainwreck is a very funny adult comedy",
+      "score": 9,
+      "user": "tavm",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How to make a romantic comedy right",
+      "score": 8,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "R rating is a lie! This is NC 17!",
+      "score": 1,
+      "user": "jsanchez-83839",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Winningly Subversive Romantic Comedy",
+      "score": 8,
+      "user": "Blake Peterson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great coming out party for Amy Schumer",
+      "score": 8,
+      "user": "bonekeep",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amy Schumer is just incredible in 'Trainwreck'. Recommended!",
+      "score": 7,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Very Smart Film",
+      "score": 9,
+      "user": "Michael Radny",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "WOW! This was brilliant,",
+      "score": 10,
+      "user": "Markyajv",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rom-Com Stereotypes Flipped",
+      "score": 8,
+      "user": "sticks901",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Definitely a can't-miss, despite the usual Apatow movie flaws.",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I liked it",
+      "score": 7,
+      "user": "Johnny-113",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An extremely funny comedy with a good message",
+      "score": 8,
+      "user": "mcgregorrowland",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Raunchy Comedy That's Actually Funny",
+      "score": 8,
+      "user": "Arthur Linguini",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best romantic comedy i've seen in a while",
+      "score": 9,
+      "user": "851222",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "loved it 10 out of 10",
+      "score": 10,
+      "user": "lovele-49875",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best movie ever!!!",
+      "score": 10,
+      "user": "katieklikk",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Think I Fell In Love with Amy Schumer By the End...",
+      "score": 9,
+      "user": "jonathanhigh5-1",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The title says it all",
+      "score": 4,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth Your Time",
+      "score": 10,
+      "user": "beccaneidinger",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not A Typical Rom Com",
+      "score": 7,
+      "user": "statuskuo",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exceeded my expectations by far",
+      "score": 9,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent, fun rom-com we have all been waiting for",
+      "score": 7,
+      "user": "Scott Mathis",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck Review",
+      "score": 6,
+      "user": "Allen Shepherd",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "surprisingly good",
+      "score": 7,
+      "user": "cordenw",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Story Gets Trashed",
+      "score": 2,
+      "user": "Philipe14",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shockingly good!",
+      "score": 8,
+      "user": "radmac",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yet another disappointing comedy.",
+      "score": 5,
+      "user": "newemailforfacebook",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Trainwreck' Turns Amy Schumer Into a Movie Star",
+      "score": 8,
+      "user": "Robert Yaniz Jr.",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than expected",
+      "score": 7,
+      "user": "Christopher Anderson",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not very funny Amy Schumer miscast",
+      "score": 4,
+      "user": "mrginlatvia",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Conventional rom-com, neither train wreck nor triumph",
+      "score": 6,
+      "user": "rcastl2335",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clich\u00e9, but hilarious",
+      "score": 7,
+      "user": "bravesfanc",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Save your money,. Just watch Amy Schumers stuff on comedy central",
+      "score": 3,
+      "user": "j-w-b-concepts",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm not really a big Amy Schumer fan in the first place",
+      "score": 6,
+      "user": "zetes",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chick Flick",
+      "score": 5,
+      "user": "srsd300",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Highly offensive, too much nudity, too much vulgar language",
+      "score": 1,
+      "user": "Diamond Sapphire",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not worth Half Price Admission - Wait for Red Box rental",
+      "score": 4,
+      "user": "katosubzero",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Different But Funny Rom-Com",
+      "score": 7,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really surprised me",
+      "score": 9,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "WOW!  What a debut!",
+      "score": 10,
+      "user": "Brandon Maynard",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A star on the rise",
+      "score": 9,
+      "user": "moviewizguy",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Monogamy isn't realistic?",
+      "score": 10,
+      "user": "chuwawah-919-385097",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck - A Reel Snippet Review",
+      "score": 9,
+      "user": "Colin Eldred-Cohen",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I found the movie laugh out loud funny.",
+      "score": 7,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck not a train wreck.  Entertaining movie.",
+      "score": 8,
+      "user": "plc333999",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funnier and smarter than the average comedy",
+      "score": 8,
+      "user": "Sidd the Movie Slayer",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Schumer Wrecked.",
+      "score": 10,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "thank god it was free",
+      "score": 2,
+      "user": "anymouse2",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"TRAINWRECK\" - Comedy GOLD",
+      "score": 8,
+      "user": "peggyatthemovies",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Familiar Rom-Com Stacked With Humor",
+      "score": 7,
+      "user": "FilmMuscle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hardened girl learns to accept emotions and commitment",
+      "score": 8,
+      "user": "maurice yacowar",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "very funny",
+      "score": 8,
+      "user": "jsharma",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funniest Film Of The Year",
+      "score": 8,
+      "user": "MediaPanther",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A score!",
+      "score": 9,
+      "user": "Michael Fargo",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really funny",
+      "score": 10,
+      "user": "Jupiter Cadence",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow start - great finish!",
+      "score": 8,
+      "user": "htmunster",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A strong comedic vehicle amidst some lesser elements",
+      "score": 7,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's hard to say whether TRAINWRECK is more like . . .",
+      "score": 9,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck!",
+      "score": 8,
+      "user": "Alicja Johnson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow A Keeper",
+      "score": 10,
+      "user": "tnkaplan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck",
+      "score": 9,
+      "user": "keithlovesmovies",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Trainwreck' makes a star of Schumer but also John Cena and LeBron James",
+      "score": 7,
+      "user": "Clayton Davis (Claytondavis@awardscircuit.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazingly impressive and never goes dull.",
+      "score": 9,
+      "user": "matt spellman",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Liked this movie, and think it's a great start for Amy Schumer",
+      "score": 9,
+      "user": "territerri",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best movie of the summer. Meet Hollywood's new \"it girl\"",
+      "score": 10,
+      "user": "ajadran32993",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow.",
+      "score": 10,
+      "user": "prettyplainjo",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You be you Amy Schu!",
+      "score": 7,
+      "user": "Jaclyn Gardner (jaclyn@yourturntopick.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Say Hello to Movie Star, Amy Schumer",
+      "score": 7,
+      "user": "Anthony Iessi",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "She Can't Love You Back",
+      "score": 8,
+      "user": " (clintz323@gmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trainwreck Delivers a Full Force Crushingly Funny Comedy",
+      "score": 7,
+      "user": "Matt Wyatt (Matt@yourturntopick.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 125,
+  "votes_per_demo": {
+    "aged_45+": 8128,
+    "top_1000_voters": 434,
+    "males_under_18": 208,
+    "imdb_staff": 27,
+    "males_aged_18-29": 22702,
+    "imdb_users": 103147,
+    "males_aged_45+": 6237,
+    "aged_18-29": 36554,
+    "us_users": 22375,
+    "females_aged_30-44": 8063,
+    "males": 57844,
+    "females": 25208,
+    "females_aged_45+": 1749,
+    "non-us_users": 41183,
+    "females_aged_18-29": 13403,
+    "females_under_18": 156,
+    "aged_30-44": 33892,
+    "aged_under_18": 369,
+    "males_aged_30-44": 25338
+  },
   "genres": [
     "comedy",
     "drama",
     "romance"
   ],
-  "release_month": "July",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.3,
-    "aged_18-29": 6.4,
-    "aged_30-44": 6.2,
-    "females": 6.5,
-    "top_1000_voters": 5.8,
-    "non-us_users": 6.1,
-    "females_under_18": 6.8,
-    "males_aged_30-44": 6.1,
-    "us_users": 6.6,
-    "imdb_users": 6.3,
-    "imdb_staff": 7.4,
-    "males_under_18": 6.5,
-    "females_aged_18-29": 6.4,
-    "males_aged_45+": 6.2,
-    "females_aged_30-44": 6.5,
-    "males": 6.2,
-    "males_aged_18-29": 6.3,
-    "females_aged_45+": 6.5,
-    "aged_under_18": 6.6
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Trainwreck",
-  "gross_income": 110008260,
-  "user_review_count": 322,
-  "duration": 125,
-  "max_screens": 3171,
-  "votes_per_demo": {
-    "aged_45+": 8124,
-    "aged_18-29": 36550,
-    "aged_30-44": 33877,
-    "females": 25202,
-    "top_1000_voters": 434,
-    "non-us_users": 41169,
-    "females_under_18": 156,
-    "males_aged_30-44": 25327,
-    "us_users": 22370,
-    "imdb_users": 103115,
-    "imdb_staff": 27,
-    "males_under_18": 208,
-    "females_aged_18-29": 13402,
-    "males_aged_45+": 6234,
-    "females_aged_30-44": 8059,
-    "males": 57824,
-    "males_aged_18-29": 22699,
-    "females_aged_45+": 1748,
-    "aged_under_18": 369
+  "rating_freq": {
+    "1": 3942,
+    "2": 2138,
+    "3": 3195,
+    "4": 5824,
+    "5": 12370,
+    "6": 23792,
+    "7": 27212,
+    "8": 14594,
+    "9": 5157,
+    "10": 4923
   },
-  "rating_count": 103115,
+  "release_month": "July",
+  "budget": 35000000,
+  "budget_currency": "$",
+  "total_screens": 17866,
+  "year": 2015,
+  "rating": 6.3,
   "critic_review_count": 344,
-  "opening_weekend_income": 30097040
+  "opening_weekend_date": {
+    "month": 7,
+    "year": 2015,
+    "day": 17,
+    "__type__": "datetime.date"
+  },
+  "name": "Trainwreck",
+  "user_review_count": 323,
+  "avg_screens": 1488.8333333333333
 }

@@ -1,92 +1,7481 @@
 {
-  "name": "Snow White & the Huntsman",
+  "budget": 170000000,
   "opening_weekend_income": 56217700,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 31,
+    "__type__": "datetime.date",
+    "month": 8
+  },
+  "budget_currency": "$",
+  "avg_screens": 1543.7692307692307,
+  "rating_freq": {
+    "1": 5670,
+    "2": 4441,
+    "3": 7942,
+    "4": 16050,
+    "5": 34187,
+    "6": 59537,
+    "7": 55905,
+    "8": 27931,
+    "9": 10506,
+    "10": 14918
+  },
+  "screens_by_weekend": [
+    3773,
+    3777,
+    3701,
+    2919,
+    2337,
+    1152,
+    677,
+    409,
+    355,
+    309,
+    273,
+    244,
+    143
+  ],
+  "rating_count": 237087,
+  "total_screens": 20069,
+  "max_screens": 3777,
+  "duration": 127,
+  "gross_income": 155111815,
+  "metascore": 57,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 607,
+    "imdb_users": 237087,
+    "us_users": 36288,
+    "aged_18-29": 92504,
+    "non-us_users": 114777,
+    "aged_45+": 17405,
+    "aged_30-44": 83307,
+    "males_aged_30-44": 61491,
+    "males_aged_18-29": 55955,
+    "males_aged_45+": 12972,
+    "aged_under_18": 750,
+    "imdb_staff": 13,
+    "males_under_18": 304,
+    "females_aged_30-44": 20582,
+    "females": 64960,
+    "females_under_18": 433,
+    "females_aged_45+": 4138,
+    "males": 137519,
+    "females_aged_18-29": 35467
+  },
+  "user_review_count": 713,
+  "rating": 6.1,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 5.9,
+    "imdb_users": 6.1,
+    "us_users": 6.2,
+    "aged_18-29": 6.1,
+    "non-us_users": 6.0,
+    "aged_45+": 6.3,
+    "aged_30-44": 6.0,
+    "males_aged_30-44": 6.0,
+    "males_aged_18-29": 6.0,
+    "males_aged_45+": 6.3,
+    "aged_under_18": 6.5,
+    "imdb_staff": 6.3,
+    "males_under_18": 6.2,
+    "females_aged_30-44": 6.3,
+    "females": 6.4,
+    "females_under_18": 6.9,
+    "females_aged_45+": 6.6,
+    "males": 6.0,
+    "females_aged_18-29": 6.4
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 1,
+    "__type__": "datetime.date",
+    "month": 6
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "xalterax-mc",
+      "contents": "Bad casting killed this one for me...",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "marcia-varaschin",
+      "contents": "Who told Kristen Stewart she could be an actress?",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Thoroughly Disappointed",
+      "contents": "Entertaining but weak plot",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "robtolboom",
+      "contents": "All in all a big disappointment!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "darth-tobe",
+      "contents": "So much potential ... down the tubes",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Theedg3",
+      "contents": "Don't believe the hype - This ones a snoozefest.  Stiff acting, very bad pacing.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "M K",
+      "contents": "epically bad",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Magellan86",
+      "contents": "Big Disappointment!!! - MAY CONTAIN SPOILERS!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "zack_wall",
+      "contents": "Worth it",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "San Toki",
+      "contents": "Snow White: Good but not great",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "thetweedledumb18",
+      "contents": "The Snow White story, except she ends up becoming a trained warrior...and there's a happily ever after, as always.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Joshua Brown",
+      "contents": "Anything good has been done better before.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "enddetour",
+      "contents": "See it for the visuals, not for the story",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Jes Wolfe",
+      "contents": "I wanted my money back",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Mek Torres",
+      "contents": "Visually Generic",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "madbeast",
+      "contents": "A Dreadful Performance by Kristen Stewart",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "Wonderful Dark Adaptation of the Classic Fairytale",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "rockitoutwithmusic",
+      "contents": "Fail!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "LeijonaSisu",
+      "contents": "The dumbest reviews I've read, on the worst movie I've ever seen...",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "kt-smith",
+      "contents": "Beautiful set, terrible terrible film.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Dark Happenings",
+      "contents": "Snow White and The Huntsman is no poison apple",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "jacobs_cabin23",
+      "contents": "Not Cool, Universal",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "japonesa17",
+      "contents": "Horrible from start to end...",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Alef",
+      "contents": "Bad acting and rushed plot.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "HelenMary",
+      "contents": "Snow White and the Seven Dwarfs (yes count them) reboot",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Savoul Pelister",
+      "contents": "Well done movie..",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "David W",
+      "contents": "Fairest of them all",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "portunhol_26",
+      "contents": "An Artful Analysis of Femininity, Not a Bed Time Story",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "carmen-lori",
+      "contents": "Great Movie! Trust me!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "gawayne7",
+      "contents": "Much better than I expected",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "Filmfanatic11",
+      "contents": "Great interpretation of the Snow White fairy tale",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "alfredsetian402",
+      "contents": "Snow White is the catalyst that will bring hope and happiness to her festering Kingdom.",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "nama chakravorty",
+      "contents": "A Visual Masterstroke!",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "xnonamex-3",
+      "contents": "Keep in mind that it is a fairy-tale",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "pcrandallfinance",
+      "contents": "Really Good Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "mer_dancer",
+      "contents": "Good film, good actors",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "anessa-gant",
+      "contents": "Amazing Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Dory_Darko",
+      "contents": "Snow White 2.0",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Roland Deschain",
+      "contents": "Music and animation of the end title was actually the best",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "adonis98-743-186503",
+      "contents": "Better than Mirror Mirror",
+      "review_date": {
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Better Than Mirror Mirror.",
+      "review_date": {
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Manya086",
+      "contents": "A Darker Take of Snow White",
+      "review_date": {
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "WoodBangers Entertainment",
+      "contents": "beautiful work",
+      "review_date": {
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "user-991-483048",
+      "contents": "Kind of disappointing *spoiler*",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Jeffrey Roegner",
+      "contents": "An interesting take on the classic story, beautifully shot",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "soger",
+      "contents": "Snow White's 100th version",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "breakdownthatfilm-blogspot-com",
+      "contents": "Fun when you're in the mood",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Ryan_MYeah",
+      "contents": "This tale takes Snow White to a dark road. One that thrills and enchants.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "henrik150693",
+      "contents": "Watch it!! Forget Kristen Stewart ever being in twilight, and you'll be fine!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "WatchedAllMovies",
+      "contents": "A dark version of the tale",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "kdnor2011",
+      "contents": "A good, if flawed flick.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "kubliakhan",
+      "contents": "Great Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Lonehawk1",
+      "contents": "A Medieval Fantasy Pleasure",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "j-steel",
+      "contents": "Pretty to look at but no real substance. Kind of like Snow White",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "r_wind0300",
+      "contents": "Best Snow White version ever in history...",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "siderite",
+      "contents": "Finally a Snow White I can like",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "bazmitch23",
+      "contents": "Lame",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "simplynewt",
+      "contents": "An Epic Twist",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "catshouse634",
+      "contents": "Definitely worth watching.",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "lsagemidgorden",
+      "contents": "Strong Images, Characters and Symbolism abound",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "egonzales6482",
+      "contents": "Here is the deal...",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Tcarts76",
+      "contents": "The Evil Queen and The Huntsman.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "MovieReviews101",
+      "contents": "It Was Actually Great",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Doha Film",
+      "contents": "More Than the Sum of Its Parts",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "steve-390-291391",
+      "contents": "More fantasy of this kind, please!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Biont el'Quambas",
+      "contents": "A Wonderful Tale",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "iloveUGA123",
+      "contents": "I was planning on not watching this movie, but I am happy I did watch it!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "Not as Bad as critics say it is",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "kevintempel",
+      "contents": "Great remake of an old fairy tale",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "vincentlynch-moonoi",
+      "contents": "Nicely done!",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "victoriahamilton10",
+      "contents": "Great visual film which makes the hobbit look cheap",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "bmihaylova",
+      "contents": "Great!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "complexityrules",
+      "contents": "dark and enchanted",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Horses rule Calip",
+      "contents": "Snow White and the huntsman rules",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "ayuneska",
+      "contents": "Snow White and The Huntsman",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "earien_4",
+      "contents": "Surprisingly good fantasy",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Vladimir Morales S\u00c3\u00a1nchez",
+      "contents": "Awesome movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "myspecialparadise",
+      "contents": "Loved It",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "blackberrybabe",
+      "contents": "Great interpretation of a classic!",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Leeway-C-95",
+      "contents": "One of the Best Movies of the Summer so far!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "dragonbabezee",
+      "contents": "Unexpectedly interesting",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Laakbaar",
+      "contents": "Who's the fairest of them all?",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "contents": "Excellent revisionistic take on the childhood classic",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "lordjord96",
+      "contents": "Breathtaking effects, acting at the closest drama to the book I've ever seen.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Scrugulus",
+      "contents": "Good entertainment and absolutely solid movie",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Al_The_Strange",
+      "contents": "\"Is there no end to your power and beauty?\"",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "guy-nicholas",
+      "contents": "Finally, a GOOD movie with Kristen Stewart.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Ste Brown",
+      "contents": "Had great potential, still a very good watch...",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Marcel Urena",
+      "contents": "Snow White and the Huntsman",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "tiffjanis",
+      "contents": "Pleasantly surprised me!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "argeltamargo",
+      "contents": "Just like a fairy tale....",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Cynthia Soroka",
+      "contents": "Great Film for this Genre",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "gkeith_1",
+      "contents": "Exciting Movie 10/10",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "vee-jop",
+      "contents": "I did Like it!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Icy-eyes",
+      "contents": "A beautiful film visually.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Sean Jump",
+      "contents": "Fresh but Faithful Retelling of the Fairy Tale We All Know and Love",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "chrismailat",
+      "contents": "Pleasant surprise!  Really Amazing ! We loved it :)",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "tony-563",
+      "contents": "Snow White and Dark Venus",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "blogurious",
+      "contents": "Return of the good telling",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "crazybtch13",
+      "contents": "Fantastic!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Schwarz Crepsley",
+      "contents": "One of the worst ever seen.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "Jin Maruhashi",
+      "contents": "Vibrant acting poisoned by a wan portrayal of events",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "smcgilli-2",
+      "contents": "So Disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "faazil786",
+      "contents": "a diamond in the hands lost due to bad acting and a bad script",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "kokojie",
+      "contents": "One of the worst movies I have seen",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "rarouff",
+      "contents": "Dark Take on Classic Tale",
+      "review_date": {
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "xristoff93",
+      "contents": "Another mindless Hollywood eye candy",
+      "review_date": {
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "Miguel Neto",
+      "contents": "an acceptable adaptation of Snow White",
+      "review_date": {
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Andy Casper",
+      "contents": "Kristen Stewart Who the hell made you an actress !!",
+      "review_date": {
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Mintroll",
+      "contents": "pretty good story",
+      "review_date": {
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Stuart Whyte",
+      "contents": "An evocative and beautiful expansion on an old story",
+      "review_date": {
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Nikita Wannenburgh",
+      "contents": "Good action and Theron is excellent",
+      "review_date": {
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "dragonslayer-87950",
+      "contents": "Should Have Gave My Money To A Stray Dog......",
+      "review_date": {
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "mwcrunner",
+      "contents": "OK but its a little bit paced",
+      "review_date": {
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Davis P",
+      "contents": "Boredom",
+      "review_date": {
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "Thomas Drufke",
+      "contents": "Visually Pleasing, Narratively Exhausting",
+      "review_date": {
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "RavenGlamDVDCollector",
+      "contents": "Snow White's not right this way",
+      "review_date": {
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "onqgraphicdesign-745-246427",
+      "contents": "Good, but not Great",
+      "review_date": {
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "Zsofia Sproule",
+      "contents": "Alternative version of Snow White's fairytale.",
+      "review_date": {
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "t_asa_g",
+      "contents": "Good movie in general",
+      "review_date": {
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "eryui",
+      "contents": "Well deserved awards and Oscar nominations",
+      "review_date": {
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "nicholls_les",
+      "contents": "Good but could have been so much better",
+      "review_date": {
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "Always Shana",
+      "contents": "I had my doubts...",
+      "review_date": {
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "jc-osms",
+      "contents": "Off-white",
+      "review_date": {
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "stephenlovelette",
+      "contents": "Another helping of Hemsworth, please.",
+      "review_date": {
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "grantss",
+      "contents": "Incredibly bad, and not just because the cast includes Kristen Stewart",
+      "review_date": {
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "bowmanblue",
+      "contents": "Much better than I expected",
+      "review_date": {
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Benjamin",
+      "contents": "Isn't snow white supposed to by pretty and innocent?",
+      "review_date": {
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "WonderWomanNYC",
+      "contents": "I can not wait for part 2",
+      "review_date": {
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "g-bodyl",
+      "contents": "A Darker Take On A Classic Fairy Tale!",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "azn_3004-865-192938",
+      "contents": "Snow White and the Huntsman - A Success",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "audrulyte",
+      "contents": "Could have been good",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Teresa Williams",
+      "contents": "Not that bad",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Raul Faust",
+      "contents": "Beauty and a beat",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "nicolajohnson-501-194165",
+      "contents": "A Good Fairy Tale",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "thedaver500",
+      "contents": "Solid Fantasy Film!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Gay Aida Dumaguing",
+      "contents": "Worth to Watch - especially for people who grew up knowing the story of Snow White",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "AMButterfly",
+      "contents": "Quite good",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "beetlejuice82008",
+      "contents": "It had Problem's but it was still Good.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "Well I'll be darned...",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Samiam3",
+      "contents": "Entertaining up to a point",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Readnought",
+      "contents": "The courage to be lackluster (commercially uncommitted storytelling)",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Ayal Oren",
+      "contents": "A rare case when comparison is a must",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "RHewison",
+      "contents": "Snow White was just alright",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "TaliannaEllis",
+      "contents": "Love this movie",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "SanteeFats",
+      "contents": "Good stuff",
+      "review_date": {
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "vitalogyrocks",
+      "contents": "brilliant, dark and emotive fantasy",
+      "review_date": {
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "N_animator",
+      "contents": "Surprisingly good",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Mr. Carr",
+      "contents": "Dark and Enchanted",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "dingismaximus",
+      "contents": "Could have been better.",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "lmarkow682",
+      "contents": "3 and half stars - see it",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "Treyroo",
+      "contents": "Easily better than \"Mirror Mirror\"",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "PhilipGHarris",
+      "contents": "An excellent, if slightly verbose, retelling",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Cherie jones",
+      "contents": "Not bad. not bad at all",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "Surprisingly GOOD!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "alfiecycling",
+      "contents": "Snow White is the catalyst that will bring hope and happiness to her festering Kingdom.",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "chmpgnrose",
+      "contents": "A Modern Snow White",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "thinker1691",
+      "contents": "\"  It is True, you be fair, But look closer, for another More Beautiful be There \"",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "CelesteChere",
+      "contents": "\"Snow White: A Tale of Terror\" did it better...a LOT better...",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "arrowhead12272",
+      "contents": "Great slant on Snow White",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Christian_Dimartino",
+      "contents": "It's a little uneven, but it works.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "pbothra-09",
+      "contents": "Average Movie, could have been better",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "RTTerry",
+      "contents": "A fantastic movie about a princess and step-mother determined to kill the other!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "roni_arg",
+      "contents": "Worth watching only for the Evil Queen, but the rest is good too",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Chalice_Of_Evil",
+      "contents": "Not a movie about Snow White and a spider...",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Bruno Wang",
+      "contents": "Visually Stunning",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Buffy_2012",
+      "contents": "A stunning, epic masterpiece with a stellar cast",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "abgkasjlkasjla",
+      "contents": "One of the fairest of them all",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "goro301",
+      "contents": "Not Flawless but still pretty damn good",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "Gothic horror fairy tale",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "rollfjr",
+      "contents": "easy to watch, good time for the $$$",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "ez_addict",
+      "contents": "Better than the Reviews",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "J J",
+      "contents": "Snow White and the Huntsman",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Jessica",
+      "contents": "This movie was AMAZING!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "jaemiewaters",
+      "contents": "Snow White and the Huntsman",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Anaksunamen",
+      "contents": "A very rich and beautiful adaptation.....",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "carla-rob",
+      "contents": "breathtaking",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "ravenlll",
+      "contents": "Everything I Expected .. and MORE!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "soulretreat",
+      "contents": "Excellet Revised Story",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "amike-35-32602",
+      "contents": "Wow shocked by the beauty and..... acting?",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "dinaa1",
+      "contents": "Worth to be seen",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "craiginhouston",
+      "contents": "Very Entertaining",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Prince AJB",
+      "contents": "Who Knew Snow White Could Be This Bad-Ass?",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "moviexclusive",
+      "contents": "Dark and unrelentingly Grimm take on the beloved fairy tale, but one that is visually astounding and grippingly paced",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "workingclasshero",
+      "contents": "Modern take on a classic story, great but not perfect.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "davewheatley-41853",
+      "contents": "Rubbish",
+      "review_date": {
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "s-21112",
+      "contents": "This is the worst!",
+      "review_date": {
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Adam Peters",
+      "contents": "One of 2012's nicest surprises",
+      "review_date": {
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Crystal",
+      "contents": "Good, but something is missing",
+      "review_date": {
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Ruud Moret",
+      "contents": "Woody Allen preferred the wicked queen; I liked neither of them",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Stephen McMullen",
+      "contents": "A good film",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Leofwine_draca",
+      "contents": "One of the better fairy tale adaptations",
+      "review_date": {
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Wee Jock",
+      "contents": "Shame about Snow.",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "dbjneedham",
+      "contents": "Put that home theater to the test!",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Lindsay Brinks",
+      "contents": "Thumbs up for the \"C\"s, big fat thumbs down for \"KS\"",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "pageau",
+      "contents": "Great villain",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "horsegrlforever223-580-932545",
+      "contents": "7/10 - but not because of Kristen Stewart's acting",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "trashgang",
+      "contents": "Charlize carries this movie",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Parks",
+      "contents": "Theron vs Stewart",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "dianemo",
+      "contents": "I've been waiting for this movie to come out and I was not disappointed",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "michaelstasica",
+      "contents": "Simply Great Retelling of a Great Adaption by Walt",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "shibaev-alex",
+      "contents": "Bella and John Carter",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Marc Davis",
+      "contents": "Not Your Average Children's Tale!",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "babybluz131",
+      "contents": "obviously this is a fantasy..because that is the only place Stewart could EVER outshine Theron!",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Zackiepoo",
+      "contents": "It's not Awful...But not wonderful.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": " (bob-rutzel-1)",
+      "contents": "This Was Okay",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "FilmStallion",
+      "contents": "Snow White and the Huntsman...3 out of 4 Skittles",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Ketan Gupta",
+      "contents": "A film high on quality and low on content.However , it is visually appealing which makes it a decent watch.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Helena_SPS",
+      "contents": "Could've been better if Snow White was someone else",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "nishant",
+      "contents": "Why Kirsten Stewart??",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "SnakesOnAnAfricanPlain",
+      "contents": "Snow White and the Huntsman (2012)",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "carry-92",
+      "contents": "Interesting spin on the fairy tales inspiration",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "room102 (plasmapool@gmail.com)",
+      "contents": "Good production design, boring movie",
+      "review_date": {
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "phoenix 2",
+      "contents": "not good enough",
+      "review_date": {
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "Emanuela Marsigliani",
+      "contents": "Snow Brown and the Huntsman",
+      "review_date": {
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "Terence Frederick",
+      "contents": "Ravenna, Dwarfs, Costumes and CGI saves SNOW WHITE AND THE HUNTS MAN",
+      "review_date": {
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "roberjruiz",
+      "contents": "One of the stars is brighter",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "lindee",
+      "contents": "Entertaining,but need to understand",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "julian-mumford",
+      "contents": "Cautiously recommended",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Gabriel Aquilina",
+      "contents": "A Nice twist on a Fairy-tale that just misses to become Fairest of them all!",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "mozoloman",
+      "contents": "Snow White and Huntsman Review",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "ThatPerson17",
+      "contents": "Slow to start but still a good film",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "kenny-kuni",
+      "contents": "interesting story but a little bit bland",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "MC1-Bjornson",
+      "contents": "Snow White and the Kingdom of the Crystall Skull -- NOT!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Carl M",
+      "contents": "Film OK but I wouldn't sit through it a second time.....",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "ellisalter",
+      "contents": "Exciting Overall",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "EchoSky112",
+      "contents": "SWATH is good",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "PartialMovieViewer",
+      "contents": "An Interesting Take with One Brilliant Performance",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Danielle Harris",
+      "contents": "Where's the 3D?",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "sweetlilly12",
+      "contents": "Great film!!!!",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "edwagreen",
+      "contents": "Mirror, Mirror on the Wall...Snow White & Huntsman ***",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "brando647",
+      "contents": "It's About What I Expected...Semi-Epic and Enjoyable",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "just a person",
+      "contents": "This movie wasn't bad...",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "doubletap187",
+      "contents": "Another awful stab ans slash",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "wireless_emotions",
+      "contents": "Kristen doesn't ruin this",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Karen Dyck",
+      "contents": "Worth an evening in",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Rachel Cobleigh",
+      "contents": "Unexpectedly Compelling",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "mike48128",
+      "contents": "Better than Expected!  A \"Lord of the Rings\"-Style  Adaptation",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "margotsaites",
+      "contents": "Despite Kristen Stewart...",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Nbrayton17",
+      "contents": "At least it's better than the other Snow White movie this year",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "iatola_asahola1",
+      "contents": "Decent Renter",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Brigitta Falcini",
+      "contents": "Average",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "preppy-3",
+      "contents": "VERY dark and adult",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "MikePA1012",
+      "contents": "Snow White and the Huntsman",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Anurag-Shetty",
+      "contents": "A dark take on a classic fairy tale.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "heidirst",
+      "contents": "Tries to explain itself and then quits",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Shanker R",
+      "contents": "It's Theron acting that's wooden...and over the top...",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "TheGatsby",
+      "contents": "A promising, if flawed debut from Rupert Sanders",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "phoenix0879-1",
+      "contents": "An acceptable retelling of an old tale",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "patsworld",
+      "contents": "Don't Look For The Snow White Of Old Here",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Stewart isn't nearly as physically gorgeous as Theron but she does posses a quality that works for a movie like this",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Pamela Thomas",
+      "contents": "Snow White and the Huntsman, a new twist on an old tale",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "rgkarim",
+      "contents": "Beautiful Presentation, Though Shortsighted on a lot of other things",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "LeahJayne",
+      "contents": "KStew will surprise you!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Tina Smith",
+      "contents": "Promising, but sacrifices substance for style",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Ravalessa",
+      "contents": "Pretty good",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Megan Jarvis",
+      "contents": "Must Watch Film!",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Jessie L",
+      "contents": "This is good if you are a thoughtful viewer.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Adam S.",
+      "contents": "Snow White and the Huntsman Review by Adam",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "samkan",
+      "contents": "This Is A Good Film",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "n_peart_2112",
+      "contents": "why so much hate?",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "Surprisingly good to watch.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Nesdon Booth",
+      "contents": "Spectacular fusion of action, myth and character",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "sgtking",
+      "contents": "Does for Snow White what 'Ever After' did for Cinderella",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "jaguiar313",
+      "contents": "Surprisingly good fantasy adventure with a surprisingly good Kristen Stewart",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "rbensonwa",
+      "contents": "Awesome Retelling!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "david-sarkies",
+      "contents": "Not a fairy tale but a full blown fantasy movie",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "houghtonetet",
+      "contents": "Impressive retelling of a favourite fairy-tale",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "inna_slavova",
+      "contents": "nice",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "contents": "Snow White and the Huntsman (2012) - Snow White is Bella! The Huntsman is Thor! The Evil Queen is the Monster!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "PanamaVeggie",
+      "contents": "Goes Above and Beyond",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": " (syrikarutherford)",
+      "contents": "Intensely Great Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "A Classic Fairytale with Modern Sensibilities",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Snow White and the Huntsman",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "jrparz",
+      "contents": "Snow White and the Huntsman - Pure Magic!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "user-153-969934",
+      "contents": "Chris hemsworth is really hot",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "awhimsicalhappenstance",
+      "contents": "Thwarted potential due to casting Stewart.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "socrates99",
+      "contents": "Pearls before swine, I guess, is the only plausible explanation",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "DavidTL",
+      "contents": "Snow White and the Darker Side of the Story",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "joanne lamley",
+      "contents": "Great movie",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "tricialynn75",
+      "contents": "Breathtaking Beyond Words....",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "EdnaMode48",
+      "contents": "Studio Ghibli should demand royalties for 'borrowed' ideas",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "MIKE WATTS",
+      "contents": "laughable",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "  (tfjaketf)",
+      "contents": "Good reviews written by studio execs",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "TheLittleSongbird",
+      "contents": "Wildly uneven- looks great but fails to engage narratively",
+      "review_date": {
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "pabrucks",
+      "contents": "Ruined By Bad Acting",
+      "review_date": {
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Jack Su",
+      "contents": "It is a poisoned apple!",
+      "review_date": {
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "MissSimonetta",
+      "contents": "Lifeless beauty",
+      "review_date": {
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "Calendar Calendar",
+      "contents": "Dwarfs offer hope...",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "Rachel Lee",
+      "contents": "Worst Snow White (or any Disney princess) EVER!!",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "Sherazade",
+      "contents": "Charlize and Chris were awesome but...",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "Ben Larson",
+      "contents": "Men use women. They ruin us and when they are finished with us they toss us to the dogs like scraps.",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Andy Steel",
+      "contents": "Could have (and should have) been better...",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "LeonLouisRicci",
+      "contents": "Grim Fairy Tale",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Rikki Stevens",
+      "contents": "Not a movie for movie lovers",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "phd_travel",
+      "contents": "Good casting but tedious screenplay",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Bruce722",
+      "contents": "Good movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "alex_serious",
+      "contents": "Snow White and The Fourth Wheel.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews...",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "vetteparty",
+      "contents": "Entertaining but many small errors",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "irishdancegirl96",
+      "contents": "Snow White, the princess, tries to take her kingdom back from the evil queen",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "tabuno",
+      "contents": "Glimpses of Brilliance but Over-reached Itself",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "freemantle_uk",
+      "contents": "Mirror mirror on the wall, who chews the scenery most of all?",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "schorschi100",
+      "contents": "Snow white meets Joan of Arc",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "kdorsey321",
+      "contents": "Vintage Snow White, well sought of",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Ross622",
+      "contents": "Just plain terrible",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "denny",
+      "contents": "Tried to enjoy it but couldn't",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "shiel60",
+      "contents": "Excellent Except for One Thing",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "bitwave",
+      "contents": "despite of Kristen Stewart's lack of acting abilities - a very good movie",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Same but different",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "vlangrehr",
+      "contents": "Tripod?",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Jakemcclake",
+      "contents": "Snow White - The Hunted and The Survivor",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "TheUnknown837-1",
+      "contents": "Snow White and the Huntsman seems to have lost its ambition after the planning stage",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": " (themoviemark@themoviemark.com)",
+      "contents": "You lost me at \"Kristen Stewart is fairer than Charlize Theron\"",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "MBunge",
+      "contents": "FX bonanza that leans heavily on its actors",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "fieryred23",
+      "contents": "I want my two hours back.",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "contents": "The script undoes all its epic visual strengths",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "moonspinner55",
+      "contents": "Perhaps too 'Grimm'...some startling visuals but poorly-directed and edited",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "phatbeatz",
+      "contents": "what a waste of money...",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "Tino Pecchia",
+      "contents": "What could have been a disaster is saved",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "ryansassy1",
+      "contents": "A heart could have saved this movie",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Jimmy Collins",
+      "contents": "Mostly disappointing considering the trailer was so promising.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "Christian Tsoutsouvas",
+      "contents": "That breathtaking Evil Queen makes this a must-see!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Twodude Review",
+      "contents": "Theron truly is the fairest of them all",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "champjohnson29",
+      "contents": "Charlize stole the show.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Laura Siddons",
+      "contents": "Creepy witch, and Nevous snow white",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "isen_river",
+      "contents": "Heeeiiiigh Hooo",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "James Hitchcock",
+      "contents": "Owes More to Tolkien and Jackson than to Grimm and Disney",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "ecurtisdesigns",
+      "contents": "A Different Take",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "happy-berry",
+      "contents": "Is it just me or was the queen prettier than Snow White?",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "xeuton-mojukai",
+      "contents": "A Trip you Probably Didn't Expect...  (maybe spoilers? No plot spoilers, but definitely some general details)",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "jdo82",
+      "contents": "Looks like......",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "carly_hope",
+      "contents": "Visually Breathtaking though story wise all over too many places",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "truthnbeauty",
+      "contents": "Unusual and enchanting...a fairy tale that takes itself seriously!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "haven1406",
+      "contents": "I would like to see a sequel!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "jadepietro",
+      "contents": "Queen to Knight: Opposites Detract",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "ryanapearce",
+      "contents": "The trailer was my favorite part",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "ss64691",
+      "contents": "left wanting more ....more story line that is",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "blubberyickything",
+      "contents": "Kristen Stewart (KS) ruined it.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Bill Sims",
+      "contents": "Mostly suitably dark, especially Theron, let down by a generic and often boring inconsistency",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Tracy Klein Sterbcow",
+      "contents": "I'll be brief: Don't waste your money.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Licah Lo",
+      "contents": "Story line was disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "Y. M.",
+      "contents": "Very far from what I expected it to be...",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "BarbaraEvans",
+      "contents": "It depends on what you like",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "incognito4884",
+      "contents": "I nearly walked out.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "fraqtl",
+      "contents": "Ugh",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "liaml_11",
+      "contents": "Exceptionally Unexceptional; this is a renter folks",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "emilysnider77",
+      "contents": "Skip this movie if you enjoy a plot",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "schwabbeldiwauwau",
+      "contents": "\"fantasy-action-epic-piece-of-art\" that is supposed to entertain everybody",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film Review: Another Snow White tale.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Apurv Nagpal",
+      "contents": "Visually stunning and I liked the story too",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "funkyfuzzmonkey-190-620619",
+      "contents": "Avoid if you like having a brain",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Mohammad Husain",
+      "contents": "The Confounded tale of Depressing Snow White and the Confused Huntsman",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "K Mc",
+      "contents": "Much better than I thought - and I thought it would be pretty good!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "hypnopotamus",
+      "contents": "The Worst Movie Ever!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Kristine (kristinedrama14@msn.com)",
+      "contents": "Mirror Mirror on the wall, who has the most under and over acted performances of all?",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Robin Stubbe",
+      "contents": "yeah not really",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "kukhus",
+      "contents": "Cry me a river",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Sergio Campanale",
+      "contents": "The fairy tale becomes a solid Sword and Sorcery epic with brains AND brawn",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "jackward84",
+      "contents": "Awful movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "misterandmisdemeanor",
+      "contents": "It was pretty...",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "betweenclass",
+      "contents": "Could have been a great movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "david parkes",
+      "contents": "what were they thinking.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "ryanwoz",
+      "contents": "If not for Charlize and fantasy world, this would have really sucked",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "jon.h.ochiai (jochiai@socal.rr.com)",
+      "contents": "Is it the Kiss?",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "superspaceman1",
+      "contents": "I almost cried, for the 5 dollars I spent.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "drmeggie",
+      "contents": "Not good...",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Sheffield_Dallas",
+      "contents": "A review mainstream critics won't give you.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "gregeichelberger",
+      "contents": "The Mirror falls off the wall long before the final credits",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "Anirudh Bhatnagar",
+      "contents": "Avoidable at best!!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "btm1",
+      "contents": "Pretty bad, except for special effects",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "jimmerw",
+      "contents": "Weak and predictable.",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Uno Rosengren",
+      "contents": "This movie sucked.",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Sad and dour experience",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "MOVIELOVER1234 :D",
+      "contents": "Bad!",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "IndustriousAngel",
+      "contents": "Partly beautiful, but unsatisfying",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Jeff Chen",
+      "contents": "Kristen Stewart kills again",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "ugh_jacob",
+      "contents": "If you do a classic, keep some of the classic parts",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "chasrhodes2000",
+      "contents": "Not so good",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "livyatnair",
+      "contents": "Disappointing story",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "qubit01",
+      "contents": "Like much of anything from Hollywood- just OK.",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "danishdonjuan",
+      "contents": "Great potential, great disappointment",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "sort of blah",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "max-roy",
+      "contents": "Well, Glad Redbox Only Costs a Dollar.",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "dpatel13",
+      "contents": "Wish the focus was on the characters",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "greenwoodair",
+      "contents": "Great visual effects compensate the poor story and terrible leading actress",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Mark Gunston",
+      "contents": "Uneven but visually stunning",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "gavin6942",
+      "contents": "A Decent Fairy Tale, But Nothing More",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "redterror75",
+      "contents": "What a let down",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "darkangel2544",
+      "contents": "entertaining waste of time",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Ramoon Mar",
+      "contents": "Good story goes wrong",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "jchucky",
+      "contents": "Horror Story",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "Sarah Hook",
+      "contents": "Charlize Rocked! Stewart Did Not!",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Laure Thomas",
+      "contents": "Don't waste your time with it...",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "Sonia Renthlei",
+      "contents": "Not tight enough",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Fahad Liaquat",
+      "contents": "Evil Queen was better appealing to me than the Snow White",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Thatguy Withtheface",
+      "contents": "Not quite the fairest in the land.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "HOllydawnhewlett (HOllydawnhewlett@gmail.com)",
+      "contents": "Glad it was on Redbox for only a $1.25",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Derek Smith",
+      "contents": "Spoiled by poor acting",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Pratima Bhatt",
+      "contents": "Beautiful visuals..a feel good ride...with bad acting",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "JohnRayPeterson",
+      "contents": "Don't let the title mislead you...",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "shadowtramp",
+      "contents": "The scenery is definitely good",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Rob_Taylor",
+      "contents": "Where do I start?",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Priss CE",
+      "contents": "Where is her beauty?",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Juno Blue",
+      "contents": "Bad but not horrible",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "breglund-kawe",
+      "contents": "Don't see it if you like dwarfs",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "leomanish",
+      "contents": "Nah.... Doesn't fulfill expectations......",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "qnihilism",
+      "contents": "Is the mirror blind?",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Elaine Millson",
+      "contents": "A little on the bland side",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "jas_webb",
+      "contents": "oh so nearly but not quite..",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "antoniotierno",
+      "contents": "visually OK but the rest leaves a little to be desired",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "pauladan",
+      "contents": "Could have been so much better",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Rose Bolger",
+      "contents": "Didn't get it.",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Russell Claus",
+      "contents": "Disappointment",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "kgprophet",
+      "contents": "Needless Connection to Kids Fable belies Quality Production",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "leplatypus",
+      "contents": "Magic mirror, tell me which is the best adaptation? The Disney one without doubt (web)",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "richcarter1962",
+      "contents": "This Girl Cannot Act",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "reb-warrior",
+      "contents": "Not entirely boring, tho not entirely interesting either",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Rich Wright",
+      "contents": "Same old, same old...",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "vailsy",
+      "contents": "Snow White was good.. shame about The Huntsman",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "evanston_dad",
+      "contents": "A Fairy Tale without Charm or Fun",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "meimei1728",
+      "contents": "For the love of God Kristen Stewart! Have a heart!",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "Akira-36",
+      "contents": "Promising premise mired by leading actor and an Uwe Bolean direction",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "gradyharp",
+      "contents": "'I shall give this wretched world the queen it deserves.'",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "cita-putra",
+      "contents": "just lack",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "Helio Copter",
+      "contents": "Surprisingly Forgettable",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "bc022",
+      "contents": "I don't typically judge harsh but...",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "3xHCCH",
+      "contents": "Is This Movie Going to Be Kristin Stewart's Career Downfall?",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "dinalt10",
+      "contents": "Disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Hamish Joy",
+      "contents": "Fizzling disappointment. Does not work.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Smacki",
+      "contents": "Kristen Stuart ruins this movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "callahans20",
+      "contents": "It's okay.  Just okay.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "emjay911",
+      "contents": "Bad casting and a weak story.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Matt Daly",
+      "contents": "Poor on all fronts.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "ashleykelaita",
+      "contents": "I was not impressed",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Marishka Vladimirescu",
+      "contents": "Dark, strong take of the fairy-tale classic. Fascinating.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Antony Carthy",
+      "contents": "Really badly put together",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "Troy_Campbell",
+      "contents": "A missed opportunity.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "xyzthedude",
+      "contents": "Boring most of the time",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Very narrow and generic direction for this fairy tale",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "kluseba",
+      "contents": "Enchanting effects and images despite a couple of flaws",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "demetrius11",
+      "contents": "Worst Snowhite Ever, but Best Evil Queen Ever too !",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Tracey (kneazles)",
+      "contents": "Was this \"Snow White\" or a mash-up of other films?",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "emjo24",
+      "contents": "Hope to see an Unrated version of this movie",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Jeff",
+      "contents": "Pretty good",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Lloyd Bayer",
+      "contents": "Singh versus Sanders? No point comparing.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "gigglymimi",
+      "contents": "Kristen Stewart shouldn't have stared in this.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Rohit",
+      "contents": "She must take the ring to Mordor and choose between the Wolf and the Vampire...",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Aaron Toponce",
+      "contents": "Timid, but overall, well done",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Daniel Villena",
+      "contents": "Good VS Bad",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "As if Tim Burton met Snow White",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Patryk Czekaj",
+      "contents": "Still not Disney, but better than 'the other Snow White picture' in cinemas out now",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Fields201",
+      "contents": "The Most Average Of Them All",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Em Walker",
+      "contents": "The Queen totally carried the film",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Europeancinema",
+      "contents": "A little weird",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "jk_edwards",
+      "contents": "Worst movie I've seen in a while",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "Jo Cassidy",
+      "contents": "Little bit of everything lame",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "mary brownsmith",
+      "contents": "Please no Kristen Stewart in the second movie!",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "Ard Enpt",
+      "contents": "Terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "griffolyon12",
+      "contents": "A Bad Interpretation",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "ohodneland",
+      "contents": "well...",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "djs8",
+      "contents": "Spare Yourself",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "romberna",
+      "contents": "embarrassing",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "Doddi (doddijonsson@gmail.com)",
+      "contents": "Probably among the worst movies I've seen!",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "Saphira Greene",
+      "contents": "Such high expectations, such a great disappointment",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "Diwali-Jumbonads",
+      "contents": "the Best , Perhaps, of the Princess Mononoke Rip-Offs ..",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "enelleranden-415-278551",
+      "contents": "Kristin Stewart took away at least 6 stars from me",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "september_90",
+      "contents": "Disappointing!",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "virindra",
+      "contents": "What a waste...",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "Ang L",
+      "contents": "A Muddled Mess Despite Potential",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "paulomars",
+      "contents": "Still a movie for children",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "dermant77",
+      "contents": "OMG Don't KNOW What Happened",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "Mike Stolyarov",
+      "contents": "What a frightful bore!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "horst69",
+      "contents": "Incredible",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "You cannot have my heart......",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "nikolobg",
+      "contents": "So Beautiful and Empty",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "quyenlt",
+      "contents": "I lost 2 hours of my life and you should not repeat that",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "kajencik",
+      "contents": "great CGI and sets, some very bad acting",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "schmitt-jaime",
+      "contents": "Great movie, with a few minor changes",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "Jonathon Dabell (barnaby.rudge@hotmail.co.uk)",
+      "contents": "Middle-of-the-road re-imagining of the Snow White story, not helped by a lifeless main performance.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Masha Neko",
+      "contents": "Copied Princess Mononoke?",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "andrewgills",
+      "contents": "Disappointing - I felt like I was watching The Never Ending Story",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "loco_73",
+      "contents": "Snow White And The Constipation",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "radeburger2000",
+      "contents": "The simple review",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "mangroveENTRY",
+      "contents": "commendable effort but it falls short of expectations",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "khfan250",
+      "contents": "Dark, Sadistic Take on the Classic Tale.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "misdemeanor_miss",
+      "contents": "Fairy tale with a twist and lots of RIP OFF",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "melancholicmoon",
+      "contents": "Ugly Gold Disk On The Wall, Stewart can't possibly be fairer than Theron, right ?",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "hurricanepolymer",
+      "contents": "Fairy Tale for Adult",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "martin lane (martylee13045burlsink342@yahoo.com)",
+      "contents": "Mirror,  mirror images....",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Greg Smith",
+      "contents": "It's Charlize Theron's movie",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "simonximenes",
+      "contents": "Flat Story...",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "erynnfitzgerald",
+      "contents": "Worth seeing despite Stewart's terrible performance",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Animus",
+      "contents": "Pretty good film with only a couple of problems",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "hari prasad",
+      "contents": "Worth to be seen...",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": " (rock_chic89@yahoo.com)",
+      "contents": "One bad apple spoils the bunch",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "maggie-thomas3",
+      "contents": "Another great story...",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "merinaamos",
+      "contents": "If only it weren't Kristen Stewart...",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "reelchip",
+      "contents": "Kristen Stewart is weak link in chain",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "mickran",
+      "contents": "Tiresome and silly",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "frank-comment117",
+      "contents": "Disappointing in so many ways !",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "tofindx",
+      "contents": "Kristen Stewart Ruins It",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "secondtake",
+      "contents": "Painfully beautiful and disappointing--weak acting, so-so writing",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "dcbryan80",
+      "contents": "Almost walked out it was so boring",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "ballums",
+      "contents": "Interesting concept, poor execution",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "tigerbean",
+      "contents": "Brought down by the Snow White",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "jesper andersson",
+      "contents": "Why did they bother?",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "EchoMaRinE",
+      "contents": "What a waste",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Greg F",
+      "contents": "Casting and plot..",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "gareth-91",
+      "contents": "Hmm",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Ricardo Martinez Aeschlimann",
+      "contents": "I almost fall asleep!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "judy",
+      "contents": "A real missed opportunity",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "simstmjr",
+      "contents": "Terrible movie, unless you are tripping.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "FlamboyantN",
+      "contents": "It could've been great",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Brent Trafton",
+      "contents": "Hooray for the Evil Queen",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "Farzan Sewani",
+      "contents": "A horribly written movie created solely for Visual Effects",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "jayendran-suresh",
+      "contents": "Could have been better",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "kenpery",
+      "contents": "Hollywood screws it up again!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Neo Liu",
+      "contents": "Don't Bother",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "stephaine jackson (sdip711)",
+      "contents": "the hot huntsman made this movie. A little spoiler not much",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Everdeen O'Sullivan",
+      "contents": "Severely disappointed",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "anitaksong",
+      "contents": "Doesn't even compare with Alice in Wonderland..thumbs down",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "thesar-2",
+      "contents": "Hi, Ho, Off to Work She Went",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "David Werwolf (Primus_Gladius)",
+      "contents": "Had potential id did not deliver",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "elastica1",
+      "contents": "awul\u00b2",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "sweetnsexy2030",
+      "contents": "Save Your Time..Not worth two hours of your life",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "nr1213",
+      "contents": "Awful",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "emeliew",
+      "contents": "Please trust me on this, you can spend your two hours of life better",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "kuncheitra",
+      "contents": "Disappointed!",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "aura",
+      "contents": "as bad as i expected",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "mishaone-964-75139",
+      "contents": "Not Even for Curiosity's Sake",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "irene-vnv",
+      "contents": "Totally not worth the money",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "verolaruiz",
+      "contents": "Pretty bad",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "bnaomik",
+      "contents": "I'm going to start writing movies",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "celenity7",
+      "contents": "Seriously, what do you expect going to see a movies starring Kristen Stewart?",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "jire0006",
+      "contents": "Snow White is no longer the star of Snow White",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "rcvilau",
+      "contents": "Snow White gets her bloody vengeance",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "petsteph1",
+      "contents": "Disappointing dog's breakfast",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "luisdeita",
+      "contents": "A HUGE let down...",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "mmccord9126",
+      "contents": "Left a lot to be desired",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "ultra429",
+      "contents": "All the elements, no soul",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "jsmky",
+      "contents": "A boring excursion in a beautiful dream scape.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "chinthub",
+      "contents": "Kristen Stewart ruined the whole movie",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "anoopvic",
+      "contents": "Duh, It's bad",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "bilal hassan",
+      "contents": "Kristen Stewart shouldn't be allowed to act anymore",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "David Allison (dasweege)",
+      "contents": "Utter garbage",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Rozhbaiany",
+      "contents": "below awful",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "dsynister",
+      "contents": "Terrible excuse for a film",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Armando Jimenez III",
+      "contents": "Boring and acting was B class",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "betty_88_88",
+      "contents": "Wanted to scoop my eyeballs out with a spoon.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "johnnyxp64",
+      "contents": "Do NOT see this movie even if they pay you the ticket!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "cookooclock10",
+      "contents": "great concept but terrible production",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "boxer111",
+      "contents": "Poor show - needs reediting",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "raging_demon-1",
+      "contents": "crap",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "isabelle_lacerda",
+      "contents": "Fascinating version of a fairy tale.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "summeriris",
+      "contents": "Kind of blah",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "johnboyjunior",
+      "contents": "Decent Movie but lacked depth",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Capt Awesome",
+      "contents": "Total Crap",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "tomkaren1994",
+      "contents": "What a disappointment",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "T-T-Timmeh",
+      "contents": "Sick and tired of all the haters!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "yunusitboss",
+      "contents": "Snow White And The Huntsman (U/A)-----------------------Rating: 5/5",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Jgordon96",
+      "contents": "Absolutely fantastic! I was blown away!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "ga-bsi",
+      "contents": "Absolutely brilliant",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "bachneri",
+      "contents": "Snow white and the huntsman.....",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "rbatzer",
+      "contents": "watch the trailer, not the movie",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "klaukipi",
+      "contents": "Extremely disappointed",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "Matt Yates",
+      "contents": "Stewart wasn't the problem as much as Theron",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "Jay P",
+      "contents": "132 minutes of wtf",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "ericsanaranico",
+      "contents": "Snow White killed the movie, while the Huntsman almost saved it",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "alkis",
+      "contents": "Actually quite boring",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "ke_linda_14",
+      "contents": "Good but then there is Kristen Stewart",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "mornamsnt",
+      "contents": "Decent, but Kirsten needs to practice her smiling",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Iver Neset",
+      "contents": "Snow White & the Sexually Confused Huntsman",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "megzasaurusrex",
+      "contents": "Snow White, Least Fairest of them All",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "opal_41",
+      "contents": "Oh. Lord.",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Lev TV",
+      "contents": "I feel ...  betrayed  !",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "Rebecca Bradeen",
+      "contents": "I wouldn't waste my time",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "tommmk",
+      "contents": "Not the Worst Movie of 2012, but Pretty Close",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "mariaraluka",
+      "contents": "mediocre movie",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "filmchaser",
+      "contents": "The British Accent Needs Work",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "rocketspire",
+      "contents": "Kirsten Stewart, the emotional range of a turnip.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "yekaterina",
+      "contents": "Horrible",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "Dave Anderson",
+      "contents": "Bella Swan does a Disney Classic",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": " (Bmore1984)",
+      "contents": "Everything But The Story...",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "bheiam-525-706159 (bheiam@gmail.com)",
+      "contents": "Snow White and the Huntsman",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "Snow White and the Huntsman",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "pelegosto264",
+      "contents": "big budget, lousy cast",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "Jerry",
+      "contents": "Not so two thumbs up",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "mustafa-elkysarly",
+      "contents": "had a lot of potential",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "realomar_x",
+      "contents": "As usual Kristen Stewart destroys another movie",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "kascarpati",
+      "contents": "Could have been great",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "evan_harvey",
+      "contents": "Only just above average",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "josh_youngbwfc",
+      "contents": "Huntsman Reigns Supreme in Snow White's Origin Story",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "jadakiss602",
+      "contents": "OK film.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "aridmoen",
+      "contents": "Tedious mishmash",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "mm-39",
+      "contents": "The movie Troy meets Disney!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "quinnox-1",
+      "contents": "Great music and visuals, but also a very wooden Kristen Stewart",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Jay Johnson",
+      "contents": "Charlize Theron makes the film, Kristen Stewart almost breaks it.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "troy-manatunga",
+      "contents": "A fairy tale that is enjoyable",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "joshh83-283-171837",
+      "contents": "Good but not Great........",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "user-507-674069",
+      "contents": "Interesting But Absolutely Ruined",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "goyubarigo",
+      "contents": "Visually appealing, audible torture",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "andrefunfree",
+      "contents": "A complete waste of time. Except for a couple of things, but not worthy enough.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "mynameisnat",
+      "contents": "So close, but yet so far",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "kisaky2012",
+      "contents": "Well done !",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Chlea Smith",
+      "contents": "A case of \"void acting\"",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "www.ramascreen.com",
+      "contents": "The queen this wretched world deserves",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "BJ W",
+      "contents": "Kristen Stewart ruined another good movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "WoodLyn",
+      "contents": "This movie teaches the wrong message!",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "regchivas",
+      "contents": "Holy Cheese Huntsman!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "jpach34",
+      "contents": "A Classic Fairy Tale with A Dark Twist",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Dallon Thorup",
+      "contents": "Gave it 10 out of 10 cause it did not disappoint",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": " (yannigk)",
+      "contents": "Excellent retake on the classic, but miscast",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "debjones08",
+      "contents": "This show didn't make the grade for me.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "CumClarity",
+      "contents": "Horrible action, horrible romance, nice CGI, acting was meh.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "a-ozornin",
+      "contents": "Worth watching, but definitely not a masterpiece",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "A mediocre experience",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Valerie Nobody",
+      "contents": "Great concept but poorly executed",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "nyshrink",
+      "contents": "The Characters Deserved More",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Greenwade",
+      "contents": "Great Potential, Poor Execution",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "G.C. Bendixen",
+      "contents": "Fairy Tale Fading",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Nynny G",
+      "contents": "Coulda been but wasn't...",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "manuscriptna",
+      "contents": "First-time director has partial success",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "lothos-370-690020",
+      "contents": "Good effects, poor acting",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Diana Artemis",
+      "contents": "At times so bad it's hilarious!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "rotary_tuner",
+      "contents": "Not perfect but pretty good",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "lyricalchrist",
+      "contents": "Rather stab myself in the face than watch this crap again",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "magnus-fury",
+      "contents": "Bella and the Huntsman",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "nmaurok",
+      "contents": "Snowhite in a mediocre drama movie",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "Hassan_Scarborough",
+      "contents": "A review without giving the movie away, Great movie for DVD-only",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Neds the boring bits cut out",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "richard-dugan2011",
+      "contents": "First rate revision of an old classic",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "raizil_87",
+      "contents": "don't watch it",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "Stephanie Taylor",
+      "contents": "Snow White and the Seven Reasons to Skip It",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Gage Yakovich",
+      "contents": "Extraordinary Odyssey Of The Snow White Legend",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "cxw1065",
+      "contents": "I hope Chris Hemsworth and Charlize Theron were well paid",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "kr_004",
+      "contents": "A stunning version of a classic fairy tale.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Belinda Jones",
+      "contents": "Pure of heart, not Dull of heart",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "devinparker-attorney",
+      "contents": "That girl cannot act",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "alfons-butler",
+      "contents": "Its a costume movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "jrandall_trex",
+      "contents": "Kristen Stewart ruined this movie",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "jacklmauro",
+      "contents": "Yes, Yes, Charlize! No, No, Snow.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "meggy_t",
+      "contents": "Very clich\u00e9, not much that I hadn't seen before.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "insane_D",
+      "contents": "Team William vs. Team huntsman",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "LostKaleb",
+      "contents": "What a bad bad movie...",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Catt Jones (cattjones@chixchatonfilm.com)",
+      "contents": "Great CGI; Same ole story",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "cmoulding33",
+      "contents": "Rough to sit through.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "scifiactionfan",
+      "contents": "expected good and was disappointed",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "takedname",
+      "contents": "My First and Giant Review: Part 1/3",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "tina-175",
+      "contents": "Stunning visuals, slow story & a horrible Snow White",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Dark Knight",
+      "contents": "100 reasons why not to watch the movie",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Natalie Goodman",
+      "contents": "A retelling of the tale of Snow White in a more grown up telling of the story.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "phanatic1989",
+      "contents": "Beautifully Epic!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "hardikvjoshi",
+      "contents": "It's OK to watch...killed the story by lame performance",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "strigliariko",
+      "contents": "Snow White melted",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Jaybird248",
+      "contents": "Thud",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "ociopia",
+      "contents": "Visionary and deeply stirring. Breathtaking.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "julieqcao",
+      "contents": "The movie was good, go see it, don't let others preventing you from having fun!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Drew St. Pierre",
+      "contents": "I don't know what most critics are talking about; Snow White and the Huntsman is a fantastical adventure, which is A LOT better than Mirror, Mirror.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "centava99",
+      "contents": "Just so-so",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "danyupu",
+      "contents": "good movie , bad acting",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "nyers-26-933708",
+      "contents": "Most beautiful Ravenna ever VS. ugliest/boy-like Snow White ever",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "thankyouforbeingafriend",
+      "contents": "so so",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "Sam Marklew",
+      "contents": "Short Review!",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "filmcritic3",
+      "contents": "Thor meets Eddie Valiant in the woods",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "changmoh",
+      "contents": "Derivative, Overstreteched But Still Watchable",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "singh-n",
+      "contents": "How could someone like this movie!!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "Ton van der Velden",
+      "contents": "Horrible, horrible, horrible !! NOT a fairytale",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "duluca",
+      "contents": "Solid albeit a little slow and at parts plain cheesy",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Eivissa44",
+      "contents": "Snow White and the Huntsman - Film of two halves",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    }
+  ],
+  "release_month": "June",
   "genres": [
     "action",
     "adventure",
     "drama"
   ],
-  "rating": 6.1,
-  "rating_count": 237058,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 1,
-    "year": 2012,
-    "month": 6
-  },
-  "user_review_count": 713,
-  "rating_freq": {
-    "1": 5671,
-    "2": 4441,
-    "3": 7943,
-    "4": 16048,
-    "5": 34183,
-    "6": 59525,
-    "7": 55898,
-    "8": 27927,
-    "9": 10506,
-    "10": 14916
-  },
-  "release_day": 1,
-  "votes_per_demo": {
-    "males": 137507,
-    "females_aged_30-44": 20577,
-    "aged_under_18": 752,
-    "non-us_users": 114769,
-    "males_aged_18-29": 55963,
-    "aged_18-29": 92508,
-    "males_aged_30-44": 61480,
-    "aged_45+": 17399,
-    "imdb_users": 237058,
-    "aged_30-44": 83291,
-    "us_users": 36284,
-    "females": 64953,
-    "females_aged_18-29": 35464,
-    "top_1000_voters": 608,
-    "males_aged_45+": 12966,
-    "females_under_18": 435,
-    "females_aged_45+": 4138,
-    "imdb_staff": 13,
-    "males_under_18": 303
-  },
-  "avg_rating_per_demo": {
-    "males": 6.0,
-    "females_aged_30-44": 6.3,
-    "aged_under_18": 6.5,
-    "non-us_users": 6.0,
-    "males_aged_18-29": 6.0,
-    "aged_18-29": 6.1,
-    "males_aged_30-44": 6.0,
-    "aged_45+": 6.3,
-    "imdb_users": 6.1,
-    "aged_30-44": 6.0,
-    "us_users": 6.2,
-    "females": 6.4,
-    "females_aged_18-29": 6.4,
-    "top_1000_voters": 5.9,
-    "males_aged_45+": 6.3,
-    "females_under_18": 6.9,
-    "females_aged_45+": 6.6,
-    "imdb_staff": 6.3,
-    "males_under_18": 6.2
-  },
-  "avg_screens": 1543.7692307692307,
-  "release_month": "June",
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 57,
-  "gross_income": 155111815,
-  "critic_review_count": 420,
-  "budget_currency": "$",
-  "release_year": 2012,
+  "opening_weekend_screens": 3773,
+  "name": "Snow White & the Huntsman",
   "num_weekends": 13,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 31,
-    "year": 2012,
-    "month": 8
-  },
-  "duration": 127,
-  "budget": 170000000,
-  "max_screens": 3777
+  "release_day": 1,
+  "critic_review_count": 420
 }

@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 6,
-    "year": 2015,
-    "day": 5,
-    "__type__": "datetime.date"
+  "release_day": 5,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.9,
+    "top_1000_voters": 6.4,
+    "males_under_18": 7.6,
+    "imdb_staff": 7.6,
+    "males_aged_18-29": 7.1,
+    "imdb_users": 7.1,
+    "males_aged_45+": 6.8,
+    "aged_18-29": 7.2,
+    "us_users": 7.1,
+    "females_aged_30-44": 7.3,
+    "males": 6.9,
+    "females": 7.4,
+    "females_aged_45+": 7.4,
+    "non-us_users": 6.9,
+    "females_aged_18-29": 7.5,
+    "females_under_18": 8.1,
+    "aged_30-44": 6.9,
+    "aged_under_18": 7.7,
+    "males_aged_30-44": 6.8
   },
   "closing_date": {
     "month": 10,
@@ -11,82 +27,4432 @@
     "day": 2,
     "__type__": "datetime.date"
   },
-  "rating": 7.1,
-  "num_weekends": 15,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 3234,
-    "2": 1355,
-    "3": 2256,
-    "4": 4144,
-    "5": 10739,
-    "6": 28189,
-    "7": 55609,
-    "8": 44105,
-    "9": 17461,
-    "10": 16368
-  },
-  "avg_screens": 1318.6,
-  "budget": 65000000,
-  "budget_currency": "$",
-  "release_day": 5,
   "metascore": 75,
+  "num_weekends": 15,
+  "rating_count": 183546,
+  "gross_income": 110822419,
+  "max_screens": 3711,
+  "opening_weekend_screens": 3711,
+  "screens_by_weekend": [
+    3711,
+    3175,
+    3558,
+    3194,
+    2387,
+    1457,
+    939,
+    375,
+    306,
+    209,
+    169,
+    127,
+    106,
+    49,
+    17
+  ],
+  "opening_weekend_income": 29085719,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "James Bond, Jane Bond, and Jason Statham - a lethal combo for laughter",
+      "score": 8,
+      "user": "Andrew Gold",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another example of the destruction of creativity.",
+      "score": 1,
+      "user": "barryweir",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely dreadful",
+      "score": 1,
+      "user": "Steven Moore",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Really Bad Movie.........",
+      "score": 1,
+      "user": "paulnbrowne",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is this the worst film ever?",
+      "score": 1,
+      "user": "colin_sayers",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "18 minutes is all I could take...",
+      "score": 1,
+      "user": "Harhaluulo54",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very funny movie; would highly recommend",
+      "score": 8,
+      "user": "Ethan Jones",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst movie I've seen",
+      "score": 1,
+      "user": "andrei_b773",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crude to the core",
+      "score": 1,
+      "user": "adminrbc",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A total waste of time",
+      "score": 1,
+      "user": "luis-afonso",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some Brief Humorous bits surrounded by a surprisingly bad movie (based on the reviews)",
+      "score": 1,
+      "user": "jkeith77-1",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad Movie",
+      "score": 1,
+      "user": "amurray-58608",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really cheap attempt to make people laugh",
+      "score": 1,
+      "user": "Michael Kucher",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Agonizing to watch!!!",
+      "score": 1,
+      "user": "samjulian88",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Live and Let this Spy movie die with the quickness. Two thumbs down, way down.",
+      "score": 1,
+      "user": "KATO-SUBZERO",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "#1 winner in the new genre \"Swearing Comedy Action",
+      "score": 1,
+      "user": "rafaelos-15298",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A kingswoman that fails miserably",
+      "score": 1,
+      "user": "Raphael Ittongar",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film for pubescent teens",
+      "score": 1,
+      "user": "pgrieves",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Family Guy of Spy Movies",
+      "score": 1,
+      "user": "themissingpatient",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "an epic fail",
+      "score": 1,
+      "user": "WoodBangers Entertainment",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really funny",
+      "score": 9,
+      "user": "elenaphysics",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What were you on, Mr. Travers?",
+      "score": 2,
+      "user": "vishalsudhir",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Grossly overrated and a tragic comical disaster",
+      "score": 2,
+      "user": "Mike Stormson",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of time, and a TERRIBLE omen for the Ghostbusters remake",
+      "score": 1,
+      "user": "Rat_27",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "America - Land of the ignorant Filmmakers",
+      "score": 1,
+      "user": "scooterman1967",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Huge Disappointment",
+      "score": 1,
+      "user": "basdahl",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste",
+      "score": 1,
+      "user": "pippyskipy-01991",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How the hell can this get over 7?",
+      "score": 1,
+      "user": "Joar Guttormsen",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another \"I'm fat so I'm funny\" movie",
+      "score": 1,
+      "user": "martinsosadias",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best comedy in years",
+      "score": 10,
+      "user": " (bexleydrivevintage)",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Witless With Self-Referential Fat Jokes and Relentless Vulgarity",
+      "score": 2,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Confuses, as well as Disappoints...",
+      "score": 2,
+      "user": "Bravo501",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I gave up after 15 minutes",
+      "score": 2,
+      "user": "bigbopacker",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely pathetic, the worst film of 2015",
+      "score": 1,
+      "user": "Rocketeer_Raccoon",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jason Statham? Why?",
+      "score": 1,
+      "user": "Nick Carney",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very good piece of crap",
+      "score": 1,
+      "user": "MitsG",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fieg and McCarthy hit comedy gold yet again",
+      "score": 7,
+      "user": "ReganRebecca",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Knew from the trailer, nothing worth being made",
+      "score": 1,
+      "user": "supertrunks2",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unfunny and Scattershot.",
+      "score": 2,
+      "user": "Deadpan_venture",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cookie Cutter Movie Humor:",
+      "score": 2,
+      "user": "cdennis39",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "WTF was this?!",
+      "score": 2,
+      "user": "ppnj4",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst movie of 2015.",
+      "score": 1,
+      "user": "barivinia",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Formulaic, unfunny, pandering garbage",
+      "score": 1,
+      "user": "Ran",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Utter trash",
+      "score": 2,
+      "user": "notafanof",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "She's gonna pump that s*** until it pops...",
+      "score": 2,
+      "user": "moonspinner55",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "PG 12 ?!!!! There are closeups of penises in this movie.",
+      "score": 1,
+      "user": "c",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plenty of energy but not enough laughs",
+      "score": 4,
+      "user": "jimbo-53-186511",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was funny,",
+      "score": 7,
+      "user": "vanaussi",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "License to be unimpressive",
+      "score": 3,
+      "user": "Karl Self",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quick on a downhill slide",
+      "score": 3,
+      "user": "Tony Brown (abrown-81280)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "is cursing and anatomy reveals the only way to get a laugh now a days?",
+      "score": 1,
+      "user": "Cosmic EdTech",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not terrible, give it a chance",
+      "score": 6,
+      "user": "ICWeiner",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great combination of comedy into action",
+      "score": 8,
+      "user": "rajatshanu64",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ran out of jokes",
+      "score": 3,
+      "user": "Stephen Depillo",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was honestly very surprised.  Shockingly bad dialog.  VERY poorly (or hastily) written.  Like many others have said before me, truly AWFUL...",
+      "score": 3,
+      "user": "lathe-of-heaven",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "very very silly",
+      "score": 3,
+      "user": "Aditya Nambiar",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Extremely disappointing",
+      "score": 2,
+      "user": "dirtphelia",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Charming but repetitive",
+      "score": 6,
+      "user": "michael-3204",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a bad Spy, but not brilliant!",
+      "score": 7,
+      "user": "meeza (themeezaman@hotmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than I expected!",
+      "score": 7,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Missed Opportunity",
+      "score": 3,
+      "user": "bkrauser-81-311064",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome.. can watch it in a loop",
+      "score": 8,
+      "user": "swagoobwa",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious",
+      "score": 6,
+      "user": "Lola A",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy",
+      "score": 4,
+      "user": "Phil Hubbs",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Highly Overrated and Over-hyped, but not 1/10",
+      "score": 4,
+      "user": "Dirk-McThermot",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprised? You bet I was.",
+      "score": 4,
+      "user": "Bogdan Gheorghe",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tries too hard to be funny, but ultimately stumbles",
+      "score": 4,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Super Spy Laughs",
+      "score": 10,
+      "user": "kunoichi5",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "God never laughed so hard in a long time!!",
+      "score": 8,
+      "user": "mihil",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Secret Agent spoof! Funny or awfully funny?",
+      "score": 4,
+      "user": "Michael O'Keefe",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "*truffle shuffle* I'VE SEEN IT MORE THAN ONCE!",
+      "score": 7,
+      "user": "Crapbabble",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I really enjoyed it, well made and very funny.",
+      "score": 8,
+      "user": "Paul Evans",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fair Movie",
+      "score": 5,
+      "user": "davidjanuzbrown",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining Comedy",
+      "score": 7,
+      "user": "alex Turner",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Fun Parody of the Spy Genre,",
+      "score": 7,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "BRIDESMAIDS Director Brings His Comedy Chops to Skewer Secret Agents",
+      "score": 8,
+      "user": "brando647",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It made me laugh",
+      "score": 8,
+      "user": "afortiorama",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feig and McCarthy keep 'Spy' from getting too silly/stupid, and even make it occasionally smart",
+      "score": 7,
+      "user": "Movie_Muse_Reviews",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "65m for this ?",
+      "score": 4,
+      "user": "darko-cepic",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring with repetitively themed jokes",
+      "score": 1,
+      "user": "johnpww",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well, that was fun",
+      "score": 8,
+      "user": "OneEightNine Media",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent comedy",
+      "score": 6,
+      "user": "amylbour",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "if you like bad language in a comedy...",
+      "score": 7,
+      "user": "MLDinTN",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring movie",
+      "score": 3,
+      "user": "cqqppa",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No matter how many fat chicks you show me, this is boring",
+      "score": 1,
+      "user": "the_Fappinator",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Spy who shrugged me",
+      "score": 5,
+      "user": "Fluke_Skywalker",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "***",
+      "score": 7,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Goofy and Fun",
+      "score": 6,
+      "user": "Mopkin TheHopkin",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sunday nap background noise",
+      "score": 5,
+      "user": "hannelieh",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movie Review 'Spy'",
+      "score": 7,
+      "user": "Michael_Telvi",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Statham steals the show",
+      "score": 7,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not for me",
+      "score": 4,
+      "user": "Andrew Marshall",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved It!",
+      "score": 9,
+      "user": "evilpinklolita",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "some big laughs",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a bad movie funnier then I thought it would be .",
+      "score": 10,
+      "user": "feakes",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally I Can Laugh Until My Stomach Hurts",
+      "score": 10,
+      "user": "Eka Herlyanti",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "embarrassing",
+      "score": 2,
+      "user": "simonpcpearson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Writer/Director Paul Feig tried too hard to push Ms. McCarthy's natural comedic talent",
+      "score": 5,
+      "user": "Ed-Shullivan",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I guess we got a lot of paid reviews here",
+      "score": 9,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not very good",
+      "score": 5,
+      "user": "mmmK-Ultra",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you want to see all the comedy moments just watch the trailer!",
+      "score": 7,
+      "user": "edd-d",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious action fun",
+      "score": 10,
+      "user": "burties5",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Aldo,Rick, you deserve a movie of your own!",
+      "score": 7,
+      "user": "templar77099",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun movie, supporting cast far outshines the star",
+      "score": 7,
+      "user": "TheMadWolf",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A win for full figured women and a delight for all who watch!",
+      "score": 8,
+      "user": "jmanger85",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "good enough",
+      "score": 6,
+      "user": "phoenix 2",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What happened in the middle?",
+      "score": 5,
+      "user": "kyleliseno",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Statham could be funny?",
+      "score": 7,
+      "user": "Mohamed Fouda",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious",
+      "score": 6,
+      "user": "yukinokourei",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly good, if not great",
+      "score": 6,
+      "user": "peternelson333",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly funny!",
+      "score": 8,
+      "user": "libertinemac",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining",
+      "score": 6,
+      "user": "rickandjane",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious -- I'm still laughing.",
+      "score": 10,
+      "user": "Freddy",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I haven't LOL at a movie for a long while and I hit GOLD with Spy.",
+      "score": 9,
+      "user": "Lord Of Crows",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad!",
+      "score": 8,
+      "user": "aucetboy",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OK some funny parts but also full on pornography and not suitable for family",
+      "score": 5,
+      "user": "bobby bobingtonson",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Five Word Review: Often Hilarious, Sometimes Enjoyably Clich\u00e9-defying",
+      "score": 8,
+      "user": "Bill Sims",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa's best comedy so far. It was funny but not 100% on point.",
+      "score": 7,
+      "user": "Ashley Lee",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Live and Let Laugh",
+      "score": 7,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy on McCarthy.",
+      "score": 8,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny throughout! 7/10",
+      "score": 7,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Comedy has a new name and its Jason",
+      "score": 8,
+      "user": "HDardamax2001",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It is worth it!",
+      "score": 9,
+      "user": "Theo Gs",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly good action comedy - not for everyone though",
+      "score": 8,
+      "user": "Bene Cumb",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So funny...way above expectations...very inappropriate",
+      "score": 9,
+      "user": "Joe Connolly",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing to see here... move along. Move along very quickly!",
+      "score": 5,
+      "user": "Rob_Taylor",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Actually Hilarious",
+      "score": 8,
+      "user": "almbuggy",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Spy' is another victory for the Feig and McCarthy team.",
+      "score": 8,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's more than you would expect",
+      "score": 7,
+      "user": "palavitsinis",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Does he know its a lake?.....",
+      "score": 7,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "good funny movie",
+      "score": 7,
+      "user": "simon browne",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny; Worth Seeing",
+      "score": 7,
+      "user": "Danusha_Goska Save Send Delete",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty good, but a bit too \"try hard\" in the middle",
+      "score": 8,
+      "user": "henrycat125",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "SPY is Hilarious!",
+      "score": 8,
+      "user": "THEWRITEGUY-1",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "8/10",
+      "score": 8,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Rip-Roaring Good Time",
+      "score": 8,
+      "user": "DareDevilKid",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lot of laughs. A lot of fun.",
+      "score": 7,
+      "user": "lschouder-329-467894",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa McCarthy at her best",
+      "score": 9,
+      "user": "chrislef21",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you love Bruce Willis's RED you're gonna like SPY",
+      "score": 8,
+      "user": "Pla Net",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa McCarthy as a spy",
+      "score": 6,
+      "user": "blanche-2",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly fresh and funny",
+      "score": 8,
+      "user": "Gustavo Schroeder A",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spicy Spy",
+      "score": 8,
+      "user": "Amy Edwards",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny in parts",
+      "score": 7,
+      "user": "bonnyjaitly",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining",
+      "score": 8,
+      "user": "flikey",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa McCarthy has found her calling.",
+      "score": 9,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too Many F's Spoil the Plot",
+      "score": 5,
+      "user": "wembleyfm",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very entertaining",
+      "score": 8,
+      "user": "vlajko1-359-322365",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very solid action, spoof comedy",
+      "score": 9,
+      "user": "851222",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Silly Fun",
+      "score": 7,
+      "user": "Freidrich Werner",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An entertaining, impeccably balanced film",
+      "score": 9,
+      "user": "barryb911",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy Hard Laughing",
+      "score": 9,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Deeply Undercover, My Arse !!",
+      "score": 5,
+      "user": "usaamaansarii",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Take off your gloves comedy...anything goes!",
+      "score": 8,
+      "user": "secondtake",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In the ear",
+      "score": 6,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A redefined wonderful spy movie.",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jude Law, Jason Statham and . . . Melissa McCarthy!?!?",
+      "score": 9,
+      "user": "Mikey Lee Smith",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The most underrated movie of the year, Totally worth watching",
+      "score": 8,
+      "user": "Bharanidaran ramani",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A hilarious return to form for Melissa McCarthy",
+      "score": 9,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ignore all the poo pooers",
+      "score": 9,
+      "user": "Rob Bailie",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a satire of James Bond/all other action hero movies -",
+      "score": 8,
+      "user": "bdl7431",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great fun",
+      "score": 9,
+      "user": "lampic",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Serious Spy Spoof",
+      "score": 9,
+      "user": "Ruca Ashraf",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely Brilliant",
+      "score": 9,
+      "user": "Had Enough",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You will laugh unexpectedly",
+      "score": 8,
+      "user": "manansalareivyn",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the funniest movies of the year",
+      "score": 9,
+      "user": "Lewis Alexander",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bravo, what a fun ride",
+      "score": 8,
+      "user": "Kris McCarthy",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Contender for Best Comedy of 2015",
+      "score": 9,
+      "user": "Blake Peterson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Action, Comedy done right",
+      "score": 8,
+      "user": "Shane Breen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inane and vulgar",
+      "score": 2,
+      "user": "lavendergirl-38819",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Doesn't work altogether as a movie, but generally does its job as a comedy",
+      "score": 7,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews....",
+      "score": 7,
+      "user": "capone666",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Childish but funny.",
+      "score": 9,
+      "user": "thekarmicnomad",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I would say alright at best",
+      "score": 6,
+      "user": "Ben Davis",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just Another Secret Agent Movie, but Still Funny",
+      "score": 6,
+      "user": "SquigglyCrunch",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uneven, meandering, at times childish but countered by decent performances",
+      "score": 6,
+      "user": "Abby Watts",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "4/5",
+      "score": 8,
+      "user": "IsaacSage",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Limp-d*ck unicorn",
+      "score": 7,
+      "user": "pyrocitor",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A standard McCarthy movie that is starting to lose it magic. Worth seeing but I'm glad I didn't pay theater prices for it.",
+      "score": 6,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty good, a tad overrated, The Heat was funnier.",
+      "score": 7,
+      "user": "trooper5783",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well oiled comedy machine",
+      "score": 7,
+      "user": "Ole Sandbaek Joergensen",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great film if you want to watch something at lunch time",
+      "score": 8,
+      "user": "kirstythompson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beginning kind of draws you off but the mid-movie until the end wasn't bad at all",
+      "score": 7,
+      "user": "guttersnipe-24720",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "i liked this spy girl",
+      "score": 8,
+      "user": "AMAR GUPTA",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Actually pretty good",
+      "score": 7,
+      "user": "jess987",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bond Spoof that Works",
+      "score": 7,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny",
+      "score": 7,
+      "user": "feredennis",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better than expected",
+      "score": 7,
+      "user": "ramoo jonas",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa McCarthy Undercover",
+      "score": 7,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The bad reviews are funnier than the movie",
+      "score": 7,
+      "user": "Chris White",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not to be missed",
+      "score": 8,
+      "user": "David Griffin",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It seems McCarthy needs Feig to direct all her movies",
+      "score": 7,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My name is Susan... Susan Cooper",
+      "score": 8,
+      "user": "Niki Kefala",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly, very good",
+      "score": 7,
+      "user": "Eoghan McCarthy",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Way More Fun Than I Thought it Would be.",
+      "score": 8,
+      "user": "JoshuaDysart",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining movie with an outstanding supporting cast",
+      "score": 7,
+      "user": "debramorey52",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Top Notch Action Romp",
+      "score": 8,
+      "user": "davewoodhouse",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy",
+      "score": 7,
+      "user": "ApproximatelyHandsome",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good comedy for an easy afternoon",
+      "score": 8,
+      "user": "mackohazy",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great way to make Jason Statham a cartoon...",
+      "score": 7,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A brilliant, polished parody impaired by a clumsy, ham-fisted feminist theme",
+      "score": 8,
+      "user": "Gino Cox",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny - if you look through the spy movie tackiness and facade",
+      "score": 8,
+      "user": "AkelaLoneWolf",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shaken Up and Stirred",
+      "score": 6,
+      "user": "Anthony Iessi",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We Have Seen Peak McCarthy, And It Is Quite a Thrill",
+      "score": 8,
+      "user": "diac228 (diac1987@netscape.net)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great fun with some honest laughs.",
+      "score": 9,
+      "user": "Brian Johnson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Spy\" Does It's Job",
+      "score": 8,
+      "user": "Devin Pickett Jr",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very entertaining, but not for the easily offended",
+      "score": 9,
+      "user": "yellowgixxer750",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very enjoyable and funny action flick",
+      "score": 7,
+      "user": "jackmeat",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cutely funny...",
+      "score": 9,
+      "user": "coastdaze",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious movie with surprisingly good action",
+      "score": 8,
+      "user": "just_for_movies",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious! Hadn't laughed this hard for a long time...",
+      "score": 9,
+      "user": "archo75",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great comedy that really had me laughing",
+      "score": 8,
+      "user": "alindsay-al",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Feig - the next big comedy director?",
+      "score": 9,
+      "user": "mattiasflgrtll6",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just plain fun",
+      "score": 9,
+      "user": "perlcat",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flat Out Hilarious!",
+      "score": 9,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great comedy!",
+      "score": 7,
+      "user": "Mai Nguyen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The amount of humor doesn't make up for the cheesy acting",
+      "score": 5,
+      "user": "bballaAG",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Action-Comedy flushes well. Don't take your children to this one...it insults our intelligence.",
+      "score": 3,
+      "user": "dennissiers",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not my sort of humour",
+      "score": 6,
+      "user": "Laakbaar",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the feminist comedy people say",
+      "score": 6,
+      "user": "MattTheNoble",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Can't a comedy just be a comedy",
+      "score": 5,
+      "user": "adlion944",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Giggled til I cried, gotta watch again with mom",
+      "score": 9,
+      "user": "bikepaddlesing",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Film is Very Funny.",
+      "score": 8,
+      "user": " (HorrorFanForever)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy",
+      "score": 7,
+      "user": "Jackson Booth-Millard",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "DHKR: Spy- \"McCarthy Magnum Opus\"",
+      "score": 8,
+      "user": "Clayton Holloway (Darkhorse_Knight)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Funniest Movie I've Ever Seen",
+      "score": 10,
+      "user": "paulo_vic13",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh No!",
+      "score": 1,
+      "user": "rickdumais",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent comedy, but too long",
+      "score": 6,
+      "user": "Lucas Versantvoort",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mamma Mia!",
+      "score": 6,
+      "user": "Secret Svice",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy",
+      "score": 6,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "spy gold not spy bomb",
+      "score": 9,
+      "user": "koconnor-188-558535",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If this is Paul Feig's sneaky audition to the world that he's ready and willing to take on action films, then lets embrace it!",
+      "score": 8,
+      "user": "luke-a-mcgowan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious high-concept action comedy vehicle for McCarthy who gives the funny!",
+      "score": 9,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy",
+      "score": 9,
+      "user": "Alexa Bouhelier-Ruelle",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Who James Bond?",
+      "score": 6,
+      "user": "Vikesh Mirchandani",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocre at best...",
+      "score": 6,
+      "user": "bonekeep",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It contains a lot of offensive words !",
+      "score": 4,
+      "user": "Shams Waleed Alshikhly",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Friggin Hilarious!",
+      "score": 10,
+      "user": "Jo Moo Moo",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best comedy I have seen in years",
+      "score": 10,
+      "user": "jgolebiewska",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Review from a Paul Feig hater",
+      "score": 4,
+      "user": "Markus Emilio Robinson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Perfect Comic Vehicle for Melissa McCarthy. Begs a Sequel",
+      "score": 10,
+      "user": "steven-leibson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feig handles comedy better than action, but McCarthy is surprisingly great at both.",
+      "score": 6,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious flick",
+      "score": 7,
+      "user": "scottshak_111",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best comedy - action movie ever created",
+      "score": 10,
+      "user": "Antonis Christodoulou",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Melissa McCarthy film about Melissa McCarthy being a Spy",
+      "score": 6,
+      "user": "Zane Garrett (zaneage)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My favorite movie in years!",
+      "score": 10,
+      "user": "mleighs-88269",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious",
+      "score": 10,
+      "user": "Alise_shenle",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy",
+      "score": 10,
+      "user": "o-fosnes",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One more hilarious one of Melissa Mccarthy",
+      "score": 10,
+      "user": "adilbadshah",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funniest Film ever!",
+      "score": 10,
+      "user": "johnmgmt",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious!",
+      "score": 10,
+      "user": "kbenko",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent film",
+      "score": 10,
+      "user": "driverdesign",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is the movie hilarious!  Yes, it is!",
+      "score": 10,
+      "user": "Jewel Dj",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you like parodies, you will love this movie",
+      "score": 10,
+      "user": "bent-mathiesen",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great spy spoof",
+      "score": 8,
+      "user": "celestemekent",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A comedy that made me laugh to tears.",
+      "score": 10,
+      "user": "pikachoose",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "10/10",
+      "score": 10,
+      "user": "nataliewatson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Great Movie",
+      "score": 10,
+      "user": "legendarywt",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious",
+      "score": 10,
+      "user": "GemmaLouiseSharman",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing actresses and brilliant writing.",
+      "score": 10,
+      "user": "Jaloba97",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Delightfully hilarious!",
+      "score": 10,
+      "user": "andremerlotti",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well... it's a movie.",
+      "score": 6,
+      "user": "Brent Hankins",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good comedy, People should take it more lightly",
+      "score": 10,
+      "user": "gipmail",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The funniest action movie ever!",
+      "score": 10,
+      "user": "fluffset",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious!",
+      "score": 10,
+      "user": "Anna Laura",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Battled In Bond",
+      "score": 5,
+      "user": "writers_reign",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great film",
+      "score": 10,
+      "user": "jennarrosej",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than most of the recent James Bond flicks . . .",
+      "score": 9,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly thrilling action comedy.",
+      "score": 8,
+      "user": "snehanaik",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feministic in a traditional man-hating way",
+      "score": 4,
+      "user": "pontus-randen",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Serious script issues",
+      "score": 5,
+      "user": "alexa_fm13",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious!!!!",
+      "score": 9,
+      "user": "mcgregorrowland",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely Hilarious!",
+      "score": 10,
+      "user": "ginzagal",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A missed opportunity.",
+      "score": 5,
+      "user": "EasyThere Pilgrim",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bored, James Bored",
+      "score": 1,
+      "user": "Nick Whiting",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious, if you are fat ...",
+      "score": 10,
+      "user": "myth_irfm",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jason Statham in Comic Role, Totally Unexpected n Surprised",
+      "score": 8,
+      "user": "Yagya Sharma",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa McCarthy's Best Movie Yet",
+      "score": 8,
+      "user": "IoreksDaemon",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heck of a good time",
+      "score": 10,
+      "user": "sarahferraro",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Didn't stop laughing",
+      "score": 9,
+      "user": "kathryn morton",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "directors first big budget movie - shows his lack of talent.",
+      "score": 6,
+      "user": "duncan-gordon11",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crazy Funny...Nothing More, Nothing Less",
+      "score": 7,
+      "user": "Matt Greene",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious!",
+      "score": 10,
+      "user": "sucindymom",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movie without a heart.",
+      "score": 5,
+      "user": "Nisachar kabial",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is unrealistic",
+      "score": 3,
+      "user": "Stefan Petrovic",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absurd",
+      "score": 2,
+      "user": "omnimog",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Get through the first 20 minutes and you have a fun action comedy",
+      "score": 8,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tons of Action and Plenty of Comedy",
+      "score": 9,
+      "user": "aharmas",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "better see Archer",
+      "score": 5,
+      "user": "nomizw-84767",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rapid-fire Bond parody with constant hilarity throughout",
+      "score": 8,
+      "user": "themadmovieman",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it!!!",
+      "score": 10,
+      "user": "anniewong3",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Melissa McCarthy",
+      "score": 6,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "2015 is Going to Have a Lot of Spy Movies Isn't It",
+      "score": 8,
+      "user": "kgaillard",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "McCarthy's Role of a Lifetime!!!",
+      "score": 9,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is MY KIND of McCarthyism!",
+      "score": 10,
+      "user": "DJAkin (Donjakin1988@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Never laughed so hard so often",
+      "score": 10,
+      "user": "Hopstimop",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie was hilarious. I'm really getting sick of all the people hating Melissa because they think she is \"Fat\".",
+      "score": 10,
+      "user": "SweetOOgaBOOga",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Laughed from start to finish",
+      "score": 10,
+      "user": "Figgy66-915-598470",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of The Best Comedies of 2015 So Far.",
+      "score": 8,
+      "user": "Jacob Wood",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too violent to be funny.",
+      "score": 3,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "unfortunate",
+      "score": 1,
+      "user": "fuzzybutt59",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I see what they were doing but it tries too hard",
+      "score": 7,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "McCarthy ranks up there with comedy greats",
+      "score": 10,
+      "user": "vato7959",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jane Bond?",
+      "score": 7,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Movie I Have Ever Seen in My Life",
+      "score": 10,
+      "user": "PartialMovieViewer",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Over-dependent on unnecessary profanity",
+      "score": 6,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "McCarthy, Statham, and Byrne are hilarious together",
+      "score": 7,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A brilliant crafted film with a lot to say and that showcases just how brilliant McCarthy is.",
+      "score": 10,
+      "user": "fabiolpinheiro1993",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious!  Incredible!  One of the BEST action comedies of all time!",
+      "score": 10,
+      "user": "Jeff",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious - most I've laughed in a long time!",
+      "score": 10,
+      "user": "patricia-smith-409-374706",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fabulously Funny!",
+      "score": 10,
+      "user": "Mamabird67",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This surprised me... IT WAS FUNNY!",
+      "score": 7,
+      "user": "mn2114",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "HILARIOUS!  McCarthy Does It Again. My Cheeks Hurt!",
+      "score": 10,
+      "user": "SusanVette",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy*** 8 out of 10*** Possible Extremely Minor Spoilers",
+      "score": 8,
+      "user": "Psy33",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very funny spy spoof",
+      "score": 10,
+      "user": "mikeolliffe",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Top Secret: Operation Clean-Skin",
+      "score": 10,
+      "user": "Bo Atdrinks",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny But Weak",
+      "score": 5,
+      "user": "AliceofX",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meh with a few chuckles.",
+      "score": 5,
+      "user": "drea_me_3000",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shallow, but McCarthy steals the show.",
+      "score": 5,
+      "user": "sukhmanjitcheema (sukhmanjitcheema@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun but could have been better",
+      "score": 7,
+      "user": "kathrynlet",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Interesting Uneven, Ragged Comedy Spy Thriller",
+      "score": 7,
+      "user": "tabuno",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Profane, but hilarious, great Bond spoof",
+      "score": 8,
+      "user": "Philipe14",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul, You have done it once more!",
+      "score": 7,
+      "user": "Connor Dillon",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of those movies that is clich\u00e9, but it's still fun!",
+      "score": 7,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious but Not So Perfect",
+      "score": 7,
+      "user": "dreamtakers",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't underestimate McCarthy",
+      "score": 7,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Spy\" is an above-average comedy which makes good use of its stars, settings and set-up.",
+      "score": 8,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I really did laugh out loud...often.",
+      "score": 9,
+      "user": "joekanuck",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Guaranteed To Make You Laugh",
+      "score": 7,
+      "user": "Lord moo_23",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa Mccarthy is funny again!",
+      "score": 8,
+      "user": "Kieran Battams",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "James Bond and Jason Bourne have got nothing on Susan Cooper",
+      "score": 8,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What's up with all the hate?",
+      "score": 7,
+      "user": "shadowyx12",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally, we have a competent female agent to rule the box-office",
+      "score": 7,
+      "user": "lasttimeisaw",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Same Melissa, Different Story",
+      "score": 7,
+      "user": "MattBirk",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "And McCarthy is back in the game!!!!",
+      "score": 7,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Raunchy comedy with a dab of slapstick",
+      "score": 8,
+      "user": "cynthiazimmerman",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good comedy for a night out",
+      "score": 7,
+      "user": "Vesislava Todorova",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A funny and thoroughly entertaining comedy with a phenomenal cast.",
+      "score": 8,
+      "user": "trublu215",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny. A bit raunchy in the language. Need I say more.",
+      "score": 8,
+      "user": "rcuttill",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "McCarthy at her best!",
+      "score": 7,
+      "user": "sunraider",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Comedy of the Year so Far",
+      "score": 8,
+      "user": "Raz Abrahamyan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny and serious...kind of",
+      "score": 8,
+      "user": "bravesfanc",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I expected less but got more",
+      "score": 8,
+      "user": "Kurt Mason",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly fresh not a clich\u00e9, laugh out loud funny",
+      "score": 9,
+      "user": "ssvishs",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We laughed all the way through it",
+      "score": 8,
+      "user": "bima55",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid date-night comedy",
+      "score": 8,
+      "user": "rinblu",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Your Mission, Should You Choose to Accept it",
+      "score": 7,
+      "user": "Drive-in_Zeppelin",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A true mccarthy movie",
+      "score": 7,
+      "user": "Vinay Sital",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Formula breeding contempt",
+      "score": 4,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy - Review: Why so Gullible",
+      "score": 1,
+      "user": "parleon-thedon",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great script, acting and action.",
+      "score": 9,
+      "user": "Nicole C",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shaken and Stirred",
+      "score": 8,
+      "user": "moviescoundrel",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy is a James Bond parody with action, wit, and endless laughs",
+      "score": 8,
+      "user": "ronfrancisco",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "CIA female clerk becomes anti-convention spy",
+      "score": 8,
+      "user": "maurice yacowar",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy was quite an entertaining espionage thriller-comedy",
+      "score": 8,
+      "user": "tavm",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a enjoyable comedy",
+      "score": 6,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best laugh of 2015 so far",
+      "score": 8,
+      "user": "Darren Reid",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well done Melissa McCarthy & Paul Feig",
+      "score": 8,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Laugh out loud funny",
+      "score": 8,
+      "user": "annie-groeninger",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "James Bond Out of Control!",
+      "score": 9,
+      "user": "dcarsonhagy",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's not always funny, but when it is, it's downright hilarious.",
+      "score": 7,
+      "user": "Troy_Campbell",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An impressive addition to McCarthy, Feig and Statham's resumes!",
+      "score": 8,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hitchens Was Right - Women Are So Not Funny",
+      "score": 5,
+      "user": "Theo Robertson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I don't even like comedy",
+      "score": 7,
+      "user": "damian5000",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gender wars",
+      "score": 8,
+      "user": "PipAndSqueak",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "007 has gone wild",
+      "score": 8,
+      "user": "katelynmanning",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jason Statham won't be cast as James Bond now, but he has a bright future in comedy",
+      "score": 7,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spy takes plenty of hits at all the spy clich\u00e8s with enough wit and laughs to recommend",
+      "score": 8,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Melissa McCarthy Marvels!",
+      "score": 8,
+      "user": "3xHCCH",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flawed But Strong: SPY is A Bloody Comedy with Non-Stop Action",
+      "score": 8,
+      "user": "prospectus_capricornium",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lots of Potential -- Doesn't Deliver",
+      "score": 3,
+      "user": "scottroulier-534-229899",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bring On A Sequel But Please Lose The Foul Language",
+      "score": 8,
+      "user": "patsworld",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You never know what happens next in MM film",
+      "score": 8,
+      "user": "wowj99",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny Movie - Melissa McCarthy Shines",
+      "score": 9,
+      "user": "Ace 531",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious",
+      "score": 9,
+      "user": "alexbrown-38045",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In a nutshell....",
+      "score": 8,
+      "user": "JEN JEN",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilariously Non-Stop Comedy Movie",
+      "score": 9,
+      "user": "lia00027",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too long",
+      "score": 3,
+      "user": "eudamidas",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing undercover about this film - it's an outright hit.",
+      "score": 8,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly funny",
+      "score": 8,
+      "user": "fordmodelt Ford",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Continuously hilarious",
+      "score": 7,
+      "user": "navtaz",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Best Femalecentric Spy Thriller",
+      "score": 8,
+      "user": "Michael Seng Wah",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Even funnier than 'Bridesmaids', Melissa McCarthy reteams with writer-director Paul Feig for a riotous send-up of every clich\u00e9 and stereotype you've had of the spy movie genre",
+      "score": 8,
+      "user": "moviexclusive",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We get it, you are fat, so we are supposed to laugh at you.",
+      "score": 1,
+      "user": "mscherlen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another cool James Bond spoof",
+      "score": 8,
+      "user": "david-sarkies",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sneak Peek of SPY ...SO GOOD",
+      "score": 9,
+      "user": "mercurys",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny at times, but to much Profanity",
+      "score": 4,
+      "user": "katosubzero",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How Disappointing",
+      "score": 4,
+      "user": "chaitov",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Roseanne Blart: Spy Cop",
+      "score": 1,
+      "user": "Tariq Sheikh",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dull, clich\u00e9, and unintellectual",
+      "score": 1,
+      "user": "djw-45735",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Undercover hasn't been this much fun!!",
+      "score": 9,
+      "user": "kshirad",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reminiscent of a failed stand-up performance: ups and downs",
+      "score": 3,
+      "user": "Niklas Pivic",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Maybe the worst movie of the century yet",
+      "score": 1,
+      "user": "Rob Killian",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Move Over 007, No Kingsmen Required: Susan in the Field",
+      "score": 8,
+      "user": " (clintz323@gmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bond girl",
+      "score": 4,
+      "user": "rooee",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you saw the trailer, then you've seen this film",
+      "score": 3,
+      "user": "med77_99",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 119,
+  "votes_per_demo": {
+    "aged_45+": 12564,
+    "top_1000_voters": 515,
+    "males_under_18": 836,
+    "imdb_staff": 28,
+    "males_aged_18-29": 50177,
+    "imdb_users": 183546,
+    "males_aged_45+": 9812,
+    "aged_18-29": 69606,
+    "us_users": 23451,
+    "females_aged_30-44": 10154,
+    "males": 110575,
+    "females": 34465,
+    "females_aged_45+": 2547,
+    "non-us_users": 80871,
+    "females_aged_18-29": 18638,
+    "females_under_18": 404,
+    "aged_30-44": 53319,
+    "aged_under_18": 1254,
+    "males_aged_30-44": 42417
+  },
   "genres": [
     "action",
     "comedy",
     "crime"
   ],
-  "release_month": "June",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.9,
-    "aged_18-29": 7.2,
-    "aged_30-44": 6.9,
-    "females": 7.4,
-    "top_1000_voters": 6.4,
-    "non-us_users": 6.9,
-    "females_under_18": 8.1,
-    "males_aged_30-44": 6.8,
-    "us_users": 7.1,
-    "imdb_users": 7.1,
-    "imdb_staff": 7.6,
-    "males_under_18": 7.6,
-    "females_aged_18-29": 7.5,
-    "males_aged_45+": 6.8,
-    "females_aged_30-44": 7.3,
-    "males": 6.9,
-    "males_aged_18-29": 7.1,
-    "females_aged_45+": 7.4,
-    "aged_under_18": 7.7
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Spy",
-  "gross_income": 110822419,
-  "user_review_count": 416,
-  "duration": 119,
-  "max_screens": 3711,
-  "votes_per_demo": {
-    "aged_45+": 12561,
-    "aged_18-29": 69596,
-    "aged_30-44": 53284,
-    "females": 34449,
-    "top_1000_voters": 515,
-    "non-us_users": 80841,
-    "females_under_18": 405,
-    "males_aged_30-44": 42394,
-    "us_users": 23443,
-    "imdb_users": 183460,
-    "imdb_staff": 28,
-    "males_under_18": 836,
-    "females_aged_18-29": 18633,
-    "males_aged_45+": 9809,
-    "females_aged_30-44": 10143,
-    "males": 110534,
-    "males_aged_18-29": 50172,
-    "females_aged_45+": 2547,
-    "aged_under_18": 1255
+  "rating_freq": {
+    "1": 3236,
+    "2": 1356,
+    "3": 2258,
+    "4": 4145,
+    "5": 10746,
+    "6": 28211,
+    "7": 55629,
+    "8": 44126,
+    "9": 17466,
+    "10": 16373
   },
-  "rating_count": 183460,
+  "release_month": "June",
+  "budget": 65000000,
+  "budget_currency": "$",
+  "total_screens": 19779,
+  "year": 2015,
+  "rating": 7.1,
   "critic_review_count": 368,
-  "opening_weekend_income": 29085719
+  "opening_weekend_date": {
+    "month": 6,
+    "year": 2015,
+    "day": 5,
+    "__type__": "datetime.date"
+  },
+  "name": "Spy",
+  "user_review_count": 416,
+  "avg_screens": 1318.6
 }

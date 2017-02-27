@@ -1,92 +1,1318 @@
 {
-  "critic_review_count": 303,
-  "year": 2012,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 4,
-    "day": 5
-  },
-  "release_month": "January",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 1,
-    "day": 25
-  },
-  "metascore": 53,
-  "max_screens": 19,
-  "duration": 99,
-  "rating_count": 31068,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 10,
+  "release_day": 25,
   "avg_rating_per_demo": {
+    "aged_45+": 6.3,
+    "top_1000_voters": 5.7,
+    "males_under_18": 7.2,
+    "imdb_staff": 6.8,
+    "males_aged_18-29": 6.6,
+    "imdb_users": 6.4,
+    "males_aged_45+": 6.3,
+    "aged_18-29": 6.6,
+    "us_users": 6.6,
+    "females_aged_30-44": 6.4,
+    "males": 6.4,
+    "females": 6.5,
+    "females_aged_45+": 6.5,
     "non-us_users": 6.3,
     "females_aged_18-29": 6.6,
-    "females": 6.5,
-    "aged_45+": 6.3,
     "females_under_18": 6.0,
-    "imdb_users": 6.4,
-    "imdb_staff": 6.8,
-    "females_aged_30-44": 6.4,
-    "aged_under_18": 7.2,
-    "males_aged_30-44": 6.4,
-    "top_1000_voters": 5.7,
     "aged_30-44": 6.4,
-    "males_aged_18-29": 6.6,
-    "males": 6.4,
-    "females_aged_45+": 6.5,
-    "males_under_18": 7.2,
-    "us_users": 6.6,
-    "males_aged_45+": 6.3,
-    "aged_18-29": 6.6
+    "aged_under_18": 7.2,
+    "males_aged_30-44": 6.4
   },
-  "user_review_count": 113,
-  "rating_freq": {
-    "1": 793,
-    "2": 638,
-    "3": 1002,
-    "4": 1759,
-    "5": 3298,
-    "6": 6030,
-    "7": 7676,
-    "8": 5270,
-    "9": 2208,
-    "10": 2394
+  "closing_date": {
+    "month": 4,
+    "year": 2013,
+    "day": 5,
+    "__type__": "datetime.date"
+  },
+  "metascore": 53,
+  "num_weekends": 10,
+  "rating_count": 31073,
+  "gross_income": 141307,
+  "max_screens": 19,
+  "opening_weekend_screens": 2,
+  "screens_by_weekend": [
+    2,
+    9,
+    10,
+    17,
+    15,
+    19,
+    13,
+    10,
+    2,
+    4
+  ],
+  "opening_weekend_income": 12467,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "Pure Genius",
+      "score": 10,
+      "user": "KM_391",
+      "review_date": {
+        "month": 2,
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just went to the Boston Premier at the Brattle",
+      "score": 10,
+      "user": "justinmbrooks",
+      "review_date": {
+        "month": 3,
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I expected it to be weird...",
+      "score": 8,
+      "user": "sinsecticide",
+      "review_date": {
+        "month": 5,
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More fun than a box of elephants.",
+      "score": 10,
+      "user": "squelcho",
+      "review_date": {
+        "month": 10,
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A cross between NAKED LUNCH and BILL AND TEDS EXCELLENT ADVENTURE.",
+      "score": 7,
+      "user": "Michael 'Hallows Eve' Smillie",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "From book to screen",
+      "score": 9,
+      "user": "Gama Xul",
+      "review_date": {
+        "month": 4,
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great casting but rushed plot",
+      "score": 7,
+      "user": "Peter Anargirou",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An ambitious mess",
+      "score": 5,
+      "user": "Fluke_Skywalker",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Frustratingly Fractured Plot but It's Got Some Laughs",
+      "score": 6,
+      "user": "brando647",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun and delightfully weird book adaptation from Don Coscarelli",
+      "score": 7,
+      "user": "jaguiar313",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hope dies in the middle",
+      "score": 2,
+      "user": "Seb",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Guess I don't do enough drugs...",
+      "score": 1,
+      "user": "imapotato1975",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A sorry mess",
+      "score": 1,
+      "user": "oecobius",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It runs of out steam after a good start",
+      "score": 5,
+      "user": "zentist-563-976986",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mall of the Dead",
+      "score": 6,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You could live without viewing this film",
+      "score": 6,
+      "user": "necromancer-cm",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Expected more",
+      "score": 6,
+      "user": "eric_ems",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It had potential, only to collapse into the standard fare of Hollywood",
+      "score": 6,
+      "user": "david-sarkies",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not complaining that it's not like the book, but it still fell short.",
+      "score": 6,
+      "user": "Kirbi Williams",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Random.",
+      "score": 7,
+      "user": "riziger",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just...Well...Stupid",
+      "score": 3,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty Poor",
+      "score": 4,
+      "user": "ziggy-stardust33",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a great film but highly enjoyable",
+      "score": 7,
+      "user": "The Hawk",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Strange and Wonderful adventure",
+      "score": 7,
+      "user": "okiejory",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wait to Pay .99 at Red Box",
+      "score": 4,
+      "user": "plasticanimalz",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Had so much potential",
+      "score": 4,
+      "user": "Kyle Sanford",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Aw Man!!!",
+      "score": 4,
+      "user": "Osric Patton",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Drug induced hallucinations dominate this inchoate pile of steaming nonsense.",
+      "score": 4,
+      "user": "suite92",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As pointless as the book",
+      "score": 1,
+      "user": "Der_Schnibbler",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All of the \"style\" with none of the \"substance\"...",
+      "score": 6,
+      "user": "Andrew Christman",
+      "review_date": {
+        "month": 10,
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "trip down a rabbit hole of sorts",
+      "score": 7,
+      "user": "NateWatchesCoolMovies",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Man, I really need to read the book.",
+      "score": 9,
+      "user": "Elvan-Lady",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Underrated Film: \"John Dies at the End\" (2012)",
+      "score": 9,
+      "user": "Joshua H.",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spoiler:John Dies at the End!",
+      "score": 7,
+      "user": "morrison-dylan-fan",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Deserves a Second Viewing...",
+      "score": 6,
+      "user": "gavin6942",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wild and crazy effort but somewhat flawed",
+      "score": 7,
+      "user": "GL84",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bizarre, unusual, fairly entertaining, and worth watching",
+      "score": 7,
+      "user": "edenney01",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great ideas collapses from story overload",
+      "score": 6,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Over borrowing",
+      "score": 6,
+      "user": "westside-surfer",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun venture into the surreal",
+      "score": 7,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of Those Strange Films",
+      "score": 7,
+      "user": "tabuno",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A unique, funny, and flawed adaption",
+      "score": 8,
+      "user": "mcfjr42",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "High Young Men Gonna Love this Movie",
+      "score": 5,
+      "user": "Fortune_Sparkles",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a mind-bending film with gores, craziness, laughs, and loads of bizarreness // instagram: moviesmaniax",
+      "score": 9,
+      "user": "moviesmaniax",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strange horror movie! 3/10",
+      "score": 3,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that I want to love (and I did love at first) but has some MAJOR issues",
+      "score": 4,
+      "user": "rickystickyman",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Evacuate all brain matter",
+      "score": 10,
+      "user": "peterpants66",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews",
+      "score": 4,
+      "user": "capone666",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "6 bout of 10 (Only because I read the book)",
+      "score": 6,
+      "user": "mojo42x",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie. Disappointed.",
+      "score": 10,
+      "user": "laballatician",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The movie died at the beginning",
+      "score": 1,
+      "user": "Tristan Brunsdon",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quintessentially Quirky",
+      "score": 6,
+      "user": "stegor",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Subtle Art of Forwarning Clich\u00e9...",
+      "score": 6,
+      "user": "Jacob Wade",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lot of fun.",
+      "score": 7,
+      "user": "punishmentpark",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well shaped up movie with two unknowns",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dave's WONG (so John's WITE?) - on the book and the film",
+      "score": 8,
+      "user": "Zachar_Laskewicz",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spoiler Alert?",
+      "score": 8,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ridiculous, funny, philosophical, disgusting and messy \u0096 a true comedy-horror film",
+      "score": 6,
+      "user": "napierslogs",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gonzo-out-there-cult-classic/midnight movie in the making sci-fi comedy",
+      "score": 7,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cult movie making 101",
+      "score": 8,
+      "user": "thekarmicnomad",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The slapstick horror/scifi legacy happens to be in good hands!",
+      "score": 7,
+      "user": "CleeborpTheRetard",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insane fun for everyone (well maybe not everyone...)",
+      "score": 10,
+      "user": "meandmy bigmouth",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Army of Darkness Meets Inception Meets Ghostbusters Meets Naked Lunch",
+      "score": 8,
+      "user": "Charles Herold (cherold)",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best film ever!",
+      "score": 10,
+      "user": "hoytyhoyty",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just don't go thinking that death is the end, cause for Joe it is only the beginning.",
+      "score": 9,
+      "user": "Jesse Boland",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What the hell did I just watch?",
+      "score": 5,
+      "user": "BA_Harrison",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I still don't know if I liked it, but it was definitely worth watching.",
+      "score": 8,
+      "user": "siderite",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A truly mind befuddling ride!",
+      "score": 9,
+      "user": "Thatfilmchap",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Surprisingly Good Adaption",
+      "score": 8,
+      "user": "just_an_oli87",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don Coscarelli does it again",
+      "score": 10,
+      "user": "peterfleenor-1",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally a movie I could not take my eyes off the screen, those come around only so often.",
+      "score": 10,
+      "user": "ninja-monkeyz",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "496 Pages crammed into 1 hour and 48 minutes",
+      "score": 10,
+      "user": "darkmooninc",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of time",
+      "score": 2,
+      "user": "pedro taquelim",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "who is giving this movie a bad review?",
+      "score": 10,
+      "user": "juicymeatybeefy",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Weirdest movie I've ever seen",
+      "score": 8,
+      "user": "mistoppi",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Criminally Underrated; A Superbly Made Film.",
+      "score": 8,
+      "user": "drathbone667",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just before the film begins, turn off your brain....",
+      "score": 7,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insanely Entertaining !!!",
+      "score": 10,
+      "user": "helenmoore8",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just quirky enough to work.",
+      "score": 7,
+      "user": "Scott LeBrun (Hey_Sweden)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Phantastical Phun...",
+      "score": 10,
+      "user": "poe426",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strange",
+      "score": 6,
+      "user": "atinder",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm not entirely sure what I just watched (but I'd probably watch it again)",
+      "score": 7,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good adaptation of a terrific novel",
+      "score": 7,
+      "user": "SzamarCsacsi",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No need to leave your brain at the door on this one.",
+      "score": 8,
+      "user": "schizoidplaza",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrifying to watch under influence.",
+      "score": 8,
+      "user": "stonerwood",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In my opinion Coscarelli's films aren't perfect but they deserve almost as many points for ambition and effort.",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "John Dies At The End is a post-modernist, demented devil spawn of a film vomited sporadically upon an unsuspecting screen",
+      "score": 6,
+      "user": "Rave Child",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This will need a few viewings...",
+      "score": 7,
+      "user": "The_After_Movie_Diner",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant",
+      "score": 10,
+      "user": "aelursadgod",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Read Da Book!",
+      "score": 3,
+      "user": "David  Bloom",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another mind bending, trippy tale from Don Coscarelli",
+      "score": 8,
+      "user": "culturedleftpeg",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie, but not what JDatE deserved!",
+      "score": 5,
+      "user": "Playbahnosh",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bizarre amalgam of genius and Friedberg/Seltzer-style rubbish",
+      "score": 6,
+      "user": "rzajac",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crap pothead movie",
+      "score": 1,
+      "user": "Magnimus Stryker",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You're patient and like weird? Go watch this NOW!",
+      "score": 9,
+      "user": "Kevin Shields",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Extremely fun and entertaining. A movie that isn't for everyone but I loved it and laughed all the way through. I say B+",
+      "score": 8,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible Movie",
+      "score": 1,
+      "user": "Jennifer oooo",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Didn't want it to end",
+      "score": 10,
+      "user": "Rob Horst",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cut the stereotypical reviews! It's an average dark comedy!",
+      "score": 5,
+      "user": "Tejas Nair",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Decent Attempt to Cover an Amazing Book",
+      "score": 10,
+      "user": "Rory Ramos",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Instant Cult Classic!",
+      "score": 10,
+      "user": "tyrone-the-man",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Get ready for a ride on the soy sauce train",
+      "score": 9,
+      "user": "danpehl",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Life is like a new movie. You cant expect much",
+      "score": 5,
+      "user": "hfdfguitarist8",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beware the soy sauce in John Dies At The End",
+      "score": 10,
+      "user": "rgblakey",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "With twists and dick jokes around every corner, \"John Dies At The End\" is a wild ride.",
+      "score": 7,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 10,
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good if You Read The Book",
+      "score": 10,
+      "user": "RodneyKashmir",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great book and OK movie",
+      "score": 9,
+      "user": "Arjuun",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Same old sh..t with new \"CGI\"",
+      "score": 2,
+      "user": "chrisbri",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sorry....this is a bomb",
+      "score": 1,
+      "user": "mixmasterj22",
+      "review_date": {
+        "month": 1,
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply awful",
+      "score": 1,
+      "user": "Andreas Carlbom",
+      "review_date": {
+        "month": 2,
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 99,
+  "votes_per_demo": {
+    "aged_45+": 3309,
+    "top_1000_voters": 314,
+    "males_under_18": 31,
+    "imdb_staff": 6,
+    "males_aged_18-29": 7397,
+    "imdb_users": 31073,
+    "males_aged_45+": 2902,
+    "aged_18-29": 8887,
+    "us_users": 7986,
+    "females_aged_30-44": 1482,
+    "males": 24278,
+    "females": 3344,
+    "females_aged_45+": 340,
+    "non-us_users": 15147,
+    "females_aged_18-29": 1381,
+    "females_under_18": 1,
+    "aged_30-44": 14839,
+    "aged_under_18": 32,
+    "males_aged_30-44": 13187
   },
   "genres": [
     "comedy",
     "horror",
     "sci-fi"
   ],
-  "budget": null,
-  "rating": 6.4,
-  "name": "John Dies at the End",
-  "opening_weekend_income": 12467,
-  "avg_screens": 10.1,
-  "gross_income": 141307,
-  "votes_per_demo": {
-    "non-us_users": 15145,
-    "females_aged_18-29": 1382,
-    "females": 3343,
-    "aged_45+": 3307,
-    "females_under_18": 1,
-    "imdb_users": 31068,
-    "imdb_staff": 6,
-    "females_aged_30-44": 1480,
-    "aged_under_18": 32,
-    "males_aged_30-44": 13187,
-    "top_1000_voters": 314,
-    "aged_30-44": 14837,
-    "males_aged_18-29": 7395,
-    "males": 24275,
-    "females_aged_45+": 340,
-    "males_under_18": 31,
-    "us_users": 7986,
-    "males_aged_45+": 2900,
-    "aged_18-29": 8886
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 793,
+    "2": 638,
+    "3": 1002,
+    "4": 1759,
+    "5": 3298,
+    "6": 6033,
+    "7": 7676,
+    "8": 5272,
+    "9": 2208,
+    "10": 2394
   },
-  "release_year": 2013,
+  "release_month": "January",
+  "budget": null,
   "budget_currency": null,
-  "release_day": 25
+  "total_screens": 101,
+  "year": 2012,
+  "rating": 6.4,
+  "critic_review_count": 303,
+  "opening_weekend_date": {
+    "month": 1,
+    "year": 2013,
+    "day": 25,
+    "__type__": "datetime.date"
+  },
+  "name": "John Dies at the End",
+  "user_review_count": 113,
+  "avg_screens": 10.1
 }

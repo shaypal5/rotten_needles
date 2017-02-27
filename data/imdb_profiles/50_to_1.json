@@ -1,71 +1,661 @@
 {
-  "metascore": 37,
+  "release_day": null,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 5.2,
+    "aged_45+": 6.7,
+    "imdb_users": 6.6,
+    "males_aged_45+": 6.3,
+    "aged_18-29": 6.5,
+    "females_aged_30-44": 7.4,
+    "males_aged_18-29": 6.4,
+    "males": 6.2,
+    "females": 7.6,
+    "females_aged_45+": 8.1,
+    "non-us_users": 6.2,
+    "females_aged_18-29": 6.8,
+    "us_users": 6.7,
+    "aged_30-44": 6.2,
+    "males_aged_30-44": 5.9
+  },
   "closing_date": {
+    "month": 10,
     "year": 2014,
     "day": 10,
-    "month": 10,
     "__type__": "datetime.date"
   },
-  "release_month": null,
-  "release_year": null,
-  "gross_income": 1063723,
-  "duration": 110,
-  "release_day": null,
-  "max_screens": 133,
-  "opening_weekend_date": {
-    "year": 2014,
-    "day": 28,
-    "month": 3,
-    "__type__": "datetime.date"
-  },
-  "rating": 6.6,
+  "metascore": 37,
   "num_weekends": 14,
+  "rating_count": 1483,
+  "gross_income": 1063723,
+  "max_screens": 133,
+  "opening_weekend_screens": 18,
+  "screens_by_weekend": [
+    18,
+    133,
+    95,
+    56,
+    23,
+    16,
+    11,
+    2,
+    12,
+    12,
+    7,
+    4,
+    10,
+    7
+  ],
+  "opening_weekend_income": 39638,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Fabulous surprise!",
+      "score": 9,
+      "user": "Deborah Munroe",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Little Movie That Could About The Little Horse That Did",
+      "score": 10,
+      "user": "Kyle R Pierson",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing film, heartfelt and inspirational",
+      "score": 10,
+      "user": "kmvillnow",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "50to1",
+      "score": 10,
+      "user": "megan-2007",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rousing good horse play!",
+      "score": 10,
+      "user": "Bunyip0009",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heartwarming, especially for us underdogs!",
+      "score": 9,
+      "user": "lindsayw739",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Family Friendly Movie",
+      "score": 10,
+      "user": "tweetiecat777",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"50 to 1\" is such a fun movie for the whole family!!",
+      "score": 10,
+      "user": "Jeannean Sword",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent movie!",
+      "score": 10,
+      "user": "angela_turner",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What's so bad about feeling good?",
+      "score": 8,
+      "user": "robram0760",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smokey and The Bandit meets Seabiscuit",
+      "score": 5,
+      "user": "ddm-08558",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "50 to 1 around the family",
+      "score": 10,
+      "user": "wolf-kin-flight",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just As Good As Seabiscuit",
+      "score": 9,
+      "user": "flasomeday",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome family movie!",
+      "score": 10,
+      "user": "florindaclark",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent movie",
+      "score": 10,
+      "user": "Carol Preflatish",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feel Good Movie!",
+      "score": 10,
+      "user": "msdaiza",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent Movie fun for the whole family",
+      "score": 10,
+      "user": "jimmiemary",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heartwarming story of 2009 Kentucky Derby winner Mine That Bird",
+      "score": 10,
+      "user": "teachershark",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing Movie!!",
+      "score": 10,
+      "user": "alisonkien",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "50 to 1 is a Must See!!!",
+      "score": 10,
+      "user": "soquilii",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Cinderella Story",
+      "score": 10,
+      "user": "Michele Clark",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome movie!!",
+      "score": 10,
+      "user": "Sandra Andersson",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "See this movie!!",
+      "score": 10,
+      "user": "dsunstrum",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "50 to 1 the movie review",
+      "score": 10,
+      "user": "binjured",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a true story told in a heart-warming & funny way",
+      "score": 10,
+      "user": "Heike Jansen",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really Enjoyable",
+      "score": 8,
+      "user": "danielshumway",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyed the movie",
+      "score": 8,
+      "user": "sounddogs_dot_com",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sketchy, but Calvin Borel Saves it",
+      "score": 5,
+      "user": "Bob Rutzel",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horse racing movie with wide appeal ....",
+      "score": 7,
+      "user": "merklekranz",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic!",
+      "score": 10,
+      "user": " (bridgem76@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Underdog horse Mine That Bird wins the Kentucky Derby",
+      "score": 8,
+      "user": "maryboatrightcom",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Feel-Good Film",
+      "score": 10,
+      "user": "sheryden",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Movie I've seem in a long time! Well written",
+      "score": 10,
+      "user": "robinmynatt",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Heartwarming Movie",
+      "score": 10,
+      "user": "jhembrook529",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really Great Fun Movie",
+      "score": 10,
+      "user": "waddickf9406",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very exciting movie",
+      "score": 10,
+      "user": "mykila",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful Movie with Great Heart and Fun",
+      "score": 10,
+      "user": "pandab-62342",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good family movie.. Enjoyed watching",
+      "score": 10,
+      "user": "malain-97635",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "50 to 1 - Never Tell me the Odds",
+      "score": 10,
+      "user": "jlc4310",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant Movie...the kind we need to see more of!",
+      "score": 10,
+      "user": "lorrainedellbridge",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Might work as a miniseries",
+      "score": 3,
+      "user": "pausegaupe-1",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I have really liked Seabiscuit, Secretariat, and even The Cup. I would add this movie to the list as well.",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun movie",
+      "score": 10,
+      "user": "lilisant",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful for the whole family.",
+      "score": 10,
+      "user": "Gina Miller",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "50 - 1 is worth the wait !",
+      "score": 10,
+      "user": "kmaskew78",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How will it possibly end?",
+      "score": 5,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All bets be hedged",
+      "score": 3,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great family show but will capture all who watch",
+      "score": 10,
+      "user": "lisa king",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fabulous Family Movie",
+      "score": 10,
+      "user": "lambypie25",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best of 2014",
+      "score": 10,
+      "user": "karengarcia778",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not As Enjoyable As I Would Have Hoped",
+      "score": 7,
+      "user": "maxskyfan-9",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Totally worth the wait!",
+      "score": 9,
+      "user": "swdwfs",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It could have been so much better...",
+      "score": 5,
+      "user": "jirrera",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 110,
+  "votes_per_demo": {
+    "top_1000_voters": 48,
+    "aged_45+": 533,
+    "imdb_users": 1483,
+    "males_aged_45+": 290,
+    "aged_18-29": 174,
+    "females_aged_30-44": 147,
+    "males_aged_18-29": 117,
+    "males": 747,
+    "females": 457,
+    "females_aged_45+": 235,
+    "non-us_users": 480,
+    "females_aged_18-29": 55,
+    "us_users": 405,
+    "aged_30-44": 456,
+    "males_aged_30-44": 306
+  },
   "genres": [
     "drama"
   ],
-  "avg_screens": 29.0,
-  "opening_weekend_income": 39638,
-  "year": 2014,
   "opening_weekend_income_currency": "$",
-  "rating_count": 1482,
-  "votes_per_demo": {
-    "females": 457,
-    "males_aged_30-44": 306,
-    "top_1000_voters": 48,
-    "females_aged_30-44": 147,
-    "females_aged_45+": 235,
-    "aged_45+": 533,
-    "aged_30-44": 456,
-    "us_users": 405,
-    "males_aged_18-29": 117,
-    "females_aged_18-29": 55,
-    "imdb_users": 1482,
-    "males": 747,
-    "non-us_users": 480,
-    "aged_18-29": 174,
-    "males_aged_45+": 290
-  },
-  "avg_rating_per_demo": {
-    "females": 7.6,
-    "males_aged_30-44": 5.9,
-    "top_1000_voters": 5.2,
-    "females_aged_30-44": 7.4,
-    "females_aged_45+": 8.1,
-    "aged_45+": 6.7,
-    "aged_30-44": 6.2,
-    "us_users": 6.7,
-    "males_aged_18-29": 6.4,
-    "females_aged_18-29": 6.8,
-    "imdb_users": 6.6,
-    "males": 6.2,
-    "non-us_users": 6.2,
-    "aged_18-29": 6.5,
-    "males_aged_45+": 6.3
-  },
-  "critic_review_count": 8,
-  "user_review_count": 55,
   "rating_freq": {
-    "1": 36,
+    "1": 37,
     "2": 25,
     "3": 38,
     "4": 56,
@@ -76,7 +666,20 @@
     "9": 92,
     "10": 433
   },
-  "name": "50 to 1",
+  "release_month": null,
+  "budget": 10000000,
   "budget_currency": "$",
-  "budget": 10000000
+  "total_screens": 406,
+  "year": 2014,
+  "rating": 6.6,
+  "critic_review_count": 8,
+  "opening_weekend_date": {
+    "month": 3,
+    "year": 2014,
+    "day": 28,
+    "__type__": "datetime.date"
+  },
+  "name": "50 to 1",
+  "user_review_count": 55,
+  "avg_screens": 29.0
 }

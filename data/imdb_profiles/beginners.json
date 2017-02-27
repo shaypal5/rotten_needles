@@ -1,92 +1,1463 @@
 {
-  "genres": [
-    "comedy",
-    "drama",
-    "romance"
-  ],
-  "num_weekends": 12,
+  "budget_currency": "$",
+  "total_screens": 1108,
   "rating_freq": {
     "1": 975,
     "2": 564,
     "3": 925,
     "4": 1729,
-    "5": 4043,
-    "6": 10361,
-    "7": 21861,
-    "8": 20161,
+    "5": 4044,
+    "6": 10360,
+    "7": 21864,
+    "8": 20162,
     "9": 9418,
-    "10": 6145
+    "10": 6148
   },
-  "budget": 3200000,
-  "votes_per_demo": {
-    "non-us_users": 43592,
-    "aged_45+": 6931,
-    "females_aged_45+": 1709,
-    "imdb_staff": 11,
-    "females_under_18": 49,
-    "males_aged_45+": 5106,
-    "females_aged_18-29": 11508,
-    "males_aged_30-44": 20467,
-    "females": 21580,
-    "imdb_users": 76182,
-    "us_users": 13451,
-    "males_under_18": 81,
-    "top_1000_voters": 456,
-    "aged_under_18": 132,
-    "males": 46184,
-    "males_aged_18-29": 19310,
-    "females_aged_30-44": 7651,
-    "aged_30-44": 28559,
-    "aged_18-29": 31167
-  },
+  "release_day": null,
+  "genres": [
+    "comedy",
+    "drama",
+    "romance"
+  ],
+  "name": "Beginners",
+  "release_month": null,
+  "avg_screens": 92.33333333333333,
+  "imdb_user_reviews": [
+    {
+      "user": "adri_wholivesathome",
+      "score": 10,
+      "review_date": {
+        "day": 13,
+        "year": 2010,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A Beautiful Film"
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "The History of Sadness"
+    },
+    {
+      "user": "jrwygant",
+      "score": 10,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "wonderfully complex"
+    },
+    {
+      "user": "Rockwell_Cronenberg",
+      "score": 10,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "A deeply original and profound piece."
+    },
+    {
+      "user": "Allison Lyzenga (MyFilmHabit)",
+      "score": 7,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Not Too Late"
+    },
+    {
+      "user": "M. J Arocena",
+      "score": 8,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Humanity is the thing"
+    },
+    {
+      "user": "estebangonzalez10",
+      "score": 8,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "The beauty is in the performance"
+    },
+    {
+      "user": "meeza (themeezaman@hotmail.com)",
+      "score": 8,
+      "review_date": {
+        "day": 31,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "On your mark, get set, go! Here is my take on \"Beginners\""
+    },
+    {
+      "user": "Tiff Kim",
+      "score": 2,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Couldn't wait for 'Beginners' to end..."
+    },
+    {
+      "user": "BILLYBOY-10",
+      "score": 5,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Trudging along"
+    },
+    {
+      "user": "rollerqueen",
+      "score": 3,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Sooo Depressing and Dreary."
+    },
+    {
+      "user": "LilyDaleLady",
+      "score": 1,
+      "review_date": {
+        "day": 10,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Unbelievably boring and twee"
+    },
+    {
+      "user": "skullislandsurferdotcom",
+      "score": 4,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Art-house Abundance"
+    },
+    {
+      "user": "Danny Blankenship",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A late life discovery. A love story that transforms and it's memorable even though different it's comparable."
+    },
+    {
+      "user": "secondtake",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Sharply seen and acted and written, and that's all I need in a movie"
+    },
+    {
+      "user": "Davalon-Davalon",
+      "score": 2,
+      "review_date": {
+        "day": 15,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "I don't get it."
+    },
+    {
+      "user": "mark-a-cunningham",
+      "score": 1,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "The Dog Was Good"
+    },
+    {
+      "user": "arthurpotts",
+      "score": 1,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Complete Waste of Time!"
+    },
+    {
+      "user": "Joel Sloane",
+      "score": 1,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "An Exercise in Self-Indulgence"
+    },
+    {
+      "user": "slinkoff",
+      "score": 4,
+      "review_date": {
+        "day": 11,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Not Cinema"
+    },
+    {
+      "user": "georg-60",
+      "score": 1,
+      "review_date": {
+        "day": 9,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A sad and boring film for sad and boring people"
+    },
+    {
+      "user": "Bene Cumb",
+      "score": 8,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Pleasant sad comedy - with great performers"
+    },
+    {
+      "user": "rddj05",
+      "score": 3,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Scattered and Unfocused film with Quality Performance"
+    },
+    {
+      "user": "Hashimuri",
+      "score": 1,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Nothing can redeem this indie turd"
+    },
+    {
+      "user": "grantss",
+      "score": 5,
+      "review_date": {
+        "day": 6,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Some good comedic and dramatic moments but generally quite dull"
+    },
+    {
+      "user": "luke-a-mcgowan",
+      "score": 4,
+      "review_date": {
+        "day": 8,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Strong opening, weak film"
+    },
+    {
+      "user": "jlinamen1229",
+      "score": 10,
+      "review_date": {
+        "day": 26,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "It will change you."
+    },
+    {
+      "user": "donwc1996",
+      "score": 2,
+      "review_date": {
+        "day": 7,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Just Awful"
+    },
+    {
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "It's never too late to change"
+    },
+    {
+      "user": "siderite",
+      "score": 9,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Nice emotional art movie, teaching a silent sadness to the viewer"
+    },
+    {
+      "user": "Steven Reilly",
+      "score": 8,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Beginners Shows Originality & Heart"
+    },
+    {
+      "user": "Hitchcoc",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "It Gets Tangled Up in Its Own Feet"
+    },
+    {
+      "user": "jotix100",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Father and son"
+    },
+    {
+      "user": "evanston_dad",
+      "score": 6,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Are There Cheerier People Somewhere to Hang Out With?"
+    },
+    {
+      "user": "winterslacker",
+      "score": 4,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Something Different"
+    },
+    {
+      "user": "G. N.",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Beginners is a delicate and charming, at times poetic, here and there quite funny speculation on life, love, and the hard matter of human relationships"
+    },
+    {
+      "user": "Fotodude",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Fresh and warm"
+    },
+    {
+      "user": "jameskenny1972",
+      "score": 1,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Note to the Production Team: You owe me 2 hours of my life back!"
+    },
+    {
+      "user": "Claudio Carvalho",
+      "score": 6,
+      "review_date": {
+        "day": 21,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Disappointing Romantic Comedy"
+    },
+    {
+      "user": "diego-09091",
+      "score": 9,
+      "review_date": {
+        "day": 30,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "An indie film about life and memory."
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "score": 8,
+      "review_date": {
+        "day": 29,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "It may be a little messy, but 'Beginners' is undeniably genuine and moving"
+    },
+    {
+      "user": "ElMaruecan82",
+      "score": 8,
+      "review_date": {
+        "day": 16,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Just when you think it's too late, well, think again..."
+    },
+    {
+      "user": "danielsanchezmendoza",
+      "score": 7,
+      "review_date": {
+        "day": 20,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "We find happiness where we know this."
+    },
+    {
+      "user": "wasiimabbas",
+      "score": 7,
+      "review_date": {
+        "day": 28,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "One really sad movie"
+    },
+    {
+      "user": "Michael Ballard (mballardc32)",
+      "score": 7,
+      "review_date": {
+        "day": 8,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "A Unique Indie Journey, but a little Overrated"
+    },
+    {
+      "user": "gavin6942",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Really Fun Story"
+    },
+    {
+      "user": "aryafsharm",
+      "score": 5,
+      "review_date": {
+        "day": 10,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A Collection of Modern Clich\u00e9s"
+    },
+    {
+      "user": "shivamt25",
+      "score": 7,
+      "review_date": {
+        "day": 17,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "This is what love feels like...."
+    },
+    {
+      "user": "ironhorse_iv",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Let's begin, for Beginner's sake. I will just state out, that this movie was just alright."
+    },
+    {
+      "user": "rajatdahiyax",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "A quietly moving romantic drama!!!!!!!"
+    },
+    {
+      "user": "juneebuggy",
+      "score": 9,
+      "review_date": {
+        "day": 25,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A quiet, beautiful movie with a great dog"
+    },
+    {
+      "user": "ICanNeverThinkOfAGoodUsername",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "One word - real."
+    },
+    {
+      "user": "linus-nohl",
+      "score": 10,
+      "review_date": {
+        "day": 5,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Brilliant! sad, funny, excellent actors!"
+    },
+    {
+      "user": "Connie Lane",
+      "score": 9,
+      "review_date": {
+        "day": 27,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Good photography! also moving"
+    },
+    {
+      "user": "willcundallreview",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "A humorous but warm filling film"
+    },
+    {
+      "user": "blanche-2",
+      "score": 8,
+      "review_date": {
+        "day": 16,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "a father and son approach life in different ways"
+    },
+    {
+      "user": "Tejas Nair",
+      "score": 8,
+      "review_date": {
+        "day": 3,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Psychologically Powerful. \u2666 76%"
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Great performances"
+    },
+    {
+      "user": "Girish Gowda",
+      "score": 8,
+      "review_date": {
+        "day": 15,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A deep sadness underlying the humour and a hope underneath the sadness"
+    },
+    {
+      "user": "durlov",
+      "score": 9,
+      "review_date": {
+        "day": 18,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Creative & Out of the Box"
+    },
+    {
+      "user": "Felix Martinsson",
+      "score": 7,
+      "review_date": {
+        "day": 17,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Beautiful film!"
+    },
+    {
+      "user": "sergepesic",
+      "score": 8,
+      "review_date": {
+        "day": 31,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Intelligent"
+    },
+    {
+      "user": "thesar-2",
+      "score": 6,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Never Too Late"
+    },
+    {
+      "user": "steve freeman",
+      "score": 7,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "If serious is funny, then this is f**king hilarious"
+    },
+    {
+      "user": "Hellmant",
+      "score": 7,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Plummer is good in his Oscar winning role, despite the fact that he probably didn't deserve an Oscar for it!"
+    },
+    {
+      "user": "moonspinner55",
+      "score": 6,
+      "review_date": {
+        "day": 15,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Waiting for the lion"
+    },
+    {
+      "user": "tavm",
+      "score": 9,
+      "review_date": {
+        "day": 7,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "I highly admired Beginners and Christopher Plummer's Oscar-winning performance in it"
+    },
+    {
+      "user": "phd_travel",
+      "score": 3,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Listless story but Christopher Plummer finally got his Oscar"
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "score": 5,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Beginners"
+    },
+    {
+      "user": "Christine Dreyer",
+      "score": 7,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A happy-heartbreaking story. Truly Precious."
+    },
+    {
+      "user": "writers_reign",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Starter For Ten"
+    },
+    {
+      "user": "Jim Gilligan",
+      "score": 7,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "This is a movie about emotions"
+    },
+    {
+      "user": "Agniv Sen",
+      "score": 8,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Beautifully Complicated"
+    },
+    {
+      "user": "thegodfathersaga",
+      "score": 8,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "an intimate, warm, indie film"
+    },
+    {
+      "user": "kosmasp",
+      "score": 7,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "State of mind"
+    },
+    {
+      "user": "Gaston Bacquet",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "New Beginnings"
+    },
+    {
+      "user": "Arthur Cowlard",
+      "score": 9,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "The film follows Oliver as he tries to make sense of his feelings towards his gay father, his new boyfriend and the realisation that he has left everyone he has ever loved."
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "score": 6,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Beginners (2010-11) - Christopher Plummer's Lifetime Achievement Signature!"
+    },
+    {
+      "user": "ThreeGuysOneMovie",
+      "score": 9,
+      "review_date": {
+        "day": 18,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Not Arty for the Sake of Being Arty"
+    },
+    {
+      "user": "Rick James",
+      "score": 2,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "What is this movie about?"
+    },
+    {
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "score": 4,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Excessively Sombre & Sad"
+    },
+    {
+      "user": "drpakmanrains",
+      "score": 3,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Major Disappointment"
+    },
+    {
+      "user": "Michael Goldfield (mgoldfield@sbcglobal.net)",
+      "score": 5,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Highly recommended for insomniacs"
+    },
+    {
+      "user": "AzizalSaqr",
+      "score": 10,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "What a wonderful film!"
+    },
+    {
+      "user": "bmennen",
+      "score": 4,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "You know a movie's in trouble when the dog gets the best lines..."
+    },
+    {
+      "user": "Cary Barney",
+      "score": 2,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "What a waste!"
+    },
+    {
+      "user": "cheer88",
+      "score": 7,
+      "review_date": {
+        "day": 22,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Light fairs to a complicated life"
+    },
+    {
+      "user": "Finbar-1",
+      "score": 4,
+      "review_date": {
+        "day": 12,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Not Ewen's Best"
+    },
+    {
+      "user": "Nic_Rey_Marling",
+      "score": 8,
+      "review_date": {
+        "day": 3,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A sweet journey."
+    },
+    {
+      "user": "Boris Todorov (boris_todorov@hotmail.com)",
+      "score": 4,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "a tribute to dullness"
+    },
+    {
+      "user": "Chris L",
+      "score": 2,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Pointless"
+    },
+    {
+      "user": "roastbeefcurtains",
+      "score": 9,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "refreshing and truthful modern romance"
+    },
+    {
+      "user": "Boba_Fett1138",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Liked it good enough."
+    },
+    {
+      "user": "Steve Pulaski",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Straight or gay, seize the day"
+    },
+    {
+      "user": "room102 (plasmapool@gmail.com)",
+      "score": 6,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "The History of Sadness"
+    },
+    {
+      "user": "tombrookes2007 (tombrookes2007@hotmail.co.uk)",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "I thoroughly enjoyed this quirky but at times magical  and human love story."
+    },
+    {
+      "user": "khan2705",
+      "score": 8,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Wonderful and utterly charming movie."
+    },
+    {
+      "user": "stensson",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Begin the start"
+    },
+    {
+      "user": "Ed Uyeshima",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Heartfelt Account of Finding Love at Life's Unexpected Moments"
+    },
+    {
+      "user": "preppy-3",
+      "score": 2,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Way too disjointed"
+    },
+    {
+      "user": "Edd-N-Furter",
+      "score": 9,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Love for beginners (not for dummies)"
+    },
+    {
+      "user": "lasttimeisaw",
+      "score": 6,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Beginners"
+    },
+    {
+      "user": "bandw",
+      "score": 6,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Interesting premise is underdeveloped"
+    },
+    {
+      "user": "zif ofoz",
+      "score": 2,
+      "review_date": {
+        "day": 9,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "NOT Beginners but ENDERS !!!"
+    },
+    {
+      "user": "Ryan_MYeah",
+      "score": 9,
+      "review_date": {
+        "day": 18,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A perfect blend of sadness and humor, with an excellent cast to boot."
+    },
+    {
+      "user": "jsharma",
+      "score": 10,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Beginners-Oscar worthy"
+    },
+    {
+      "user": "alek-dj",
+      "score": 10,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "wonderful - must watch"
+    },
+    {
+      "user": "nama chakravorty",
+      "score": 6,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "An Honest Film..."
+    },
+    {
+      "user": "Jamie Ward",
+      "score": 8,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Giraffes and Lions."
+    },
+    {
+      "user": "Moustafa_Q",
+      "score": 5,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "An evening on beach"
+    },
+    {
+      "user": "DICK STEEL",
+      "score": 10,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A Nutshell Review: Beginners"
+    },
+    {
+      "user": "edwagreen",
+      "score": 4,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Beginners for Losers **"
+    },
+    {
+      "user": "Turfseer",
+      "score": 6,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Superb Plummer performance of out of the closet elderly father tempered by downbeat son's bond with troubled paramour"
+    },
+    {
+      "user": "napierslogs",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "The relationships of life told with drama, humour, subtlety and thoughtfulness"
+    },
+    {
+      "user": "Daniel Stuckey",
+      "score": 4,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Annoyed like so many others"
+    },
+    {
+      "user": "nobby burden (stevespeedy)",
+      "score": 1,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "vapid narcissism"
+    },
+    {
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "score": 9,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "accepting family life"
+    },
+    {
+      "user": "Laura",
+      "score": 8,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Humorous, bittersweet, thoughtful.. and there's a little dog too!"
+    },
+    {
+      "user": "David Traversa",
+      "score": 5,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Bad...,  bad, bad, bad..."
+    },
+    {
+      "user": "Quietb-1",
+      "score": 9,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Finding happy in sad"
+    },
+    {
+      "user": "Jake Kring-Schreifels (jakekringschreifels@comcast.net)",
+      "score": 8,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "A telepathic terrier and a gay father"
+    },
+    {
+      "user": "Howard Schumann",
+      "score": 8,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Marred by artifice and mannerisms"
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "score": 10,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "The Best Film of The Year (so far) I Urge You All To See ASAP; Oscar worthy McGregor & Plummer!"
+    }
+  ],
+  "release_year": null,
+  "max_screens": 170,
+  "screens_by_weekend": [
+    5,
+    19,
+    73,
+    155,
+    170,
+    157,
+    147,
+    126,
+    103,
+    69,
+    50,
+    34
+  ],
+  "critic_review_count": 261,
+  "num_weekends": 12,
   "closing_date": {
-    "month": 9,
-    "__type__": "datetime.date",
     "day": 2,
-    "year": 2011
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 9
   },
-  "gross_income": 5776314,
+  "opening_weekend_screens": 5,
+  "rating": 7.2,
+  "opening_weekend_income": 141340,
+  "user_review_count": 145,
+  "budget": 3200000,
+  "rating_count": 76189,
+  "metascore": 81,
+  "duration": 105,
   "avg_rating_per_demo": {
     "non-us_users": 7.1,
-    "aged_45+": 6.9,
-    "females_aged_45+": 7.2,
-    "imdb_staff": 7.3,
+    "aged_30-44": 7.1,
+    "top_1000_voters": 6.1,
+    "us_users": 7.3,
     "females_under_18": 7.5,
-    "males_aged_45+": 6.8,
-    "females_aged_18-29": 7.5,
     "males_aged_30-44": 7.0,
     "females": 7.4,
     "imdb_users": 7.2,
-    "us_users": 7.3,
-    "males_under_18": 7.4,
-    "top_1000_voters": 6.1,
-    "aged_under_18": 7.4,
+    "aged_45+": 6.9,
     "males": 7.1,
+    "females_aged_45+": 7.2,
+    "females_aged_18-29": 7.5,
+    "aged_under_18": 7.4,
+    "males_under_18": 7.4,
     "males_aged_18-29": 7.3,
     "females_aged_30-44": 7.2,
-    "aged_30-44": 7.1,
+    "males_aged_45+": 6.8,
+    "imdb_staff": 7.3,
     "aged_18-29": 7.4
   },
-  "opening_weekend_date": {
-    "month": 6,
-    "__type__": "datetime.date",
-    "day": 3,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 43596,
+    "aged_30-44": 28568,
+    "top_1000_voters": 456,
+    "us_users": 13452,
+    "females_under_18": 49,
+    "males_aged_30-44": 20473,
+    "females": 21580,
+    "imdb_users": 76189,
+    "aged_45+": 6933,
+    "males": 46190,
+    "females_aged_45+": 1709,
+    "females_aged_18-29": 11505,
+    "aged_under_18": 132,
+    "males_under_18": 81,
+    "males_aged_18-29": 19308,
+    "females_aged_30-44": 7654,
+    "males_aged_45+": 5108,
+    "imdb_staff": 11,
+    "aged_18-29": 31162
   },
-  "budget_currency": "$",
-  "user_review_count": 145,
-  "metascore": 81,
-  "max_screens": 170,
-  "duration": 105,
-  "rating_count": 76182,
-  "release_day": null,
-  "release_month": null,
-  "release_year": null,
+  "gross_income": 5776314,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 141340,
-  "critic_review_count": 261,
-  "rating": 7.2,
-  "avg_screens": 92.33333333333333,
-  "name": "Beginners",
-  "year": 2010
+  "year": 2010,
+  "opening_weekend_date": {
+    "day": 3,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 6
+  }
 }

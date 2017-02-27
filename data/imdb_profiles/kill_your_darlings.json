@@ -1,92 +1,810 @@
 {
-  "critic_review_count": 191,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2014,
-    "month": 2,
-    "day": 21
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 10,
-    "day": 18
-  },
-  "metascore": 65,
-  "max_screens": 74,
-  "duration": 104,
-  "rating_count": 27617,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 8,
+  "release_day": null,
   "avg_rating_per_demo": {
+    "aged_45+": 6.3,
+    "top_1000_voters": 5.7,
+    "males_under_18": 7.5,
+    "imdb_staff": 5.5,
+    "males_aged_18-29": 6.5,
+    "imdb_users": 6.5,
+    "males_aged_45+": 6.2,
+    "aged_18-29": 6.8,
+    "us_users": 6.5,
+    "females_aged_30-44": 6.5,
+    "males": 6.3,
+    "females": 7.0,
+    "females_aged_45+": 6.9,
     "non-us_users": 6.4,
     "females_aged_18-29": 7.1,
-    "females": 7.0,
-    "aged_45+": 6.3,
     "females_under_18": 7.8,
-    "imdb_users": 6.5,
-    "imdb_staff": 5.5,
-    "females_aged_30-44": 6.5,
-    "aged_under_18": 7.7,
-    "males_aged_30-44": 6.0,
-    "top_1000_voters": 5.7,
     "aged_30-44": 6.1,
-    "males_aged_18-29": 6.5,
-    "males": 6.3,
-    "females_aged_45+": 6.9,
-    "males_under_18": 7.5,
-    "us_users": 6.5,
-    "males_aged_45+": 6.2,
-    "aged_18-29": 6.8
+    "aged_under_18": 7.7,
+    "males_aged_30-44": 6.0
   },
-  "user_review_count": 70,
-  "rating_freq": {
-    "1": 624,
-    "2": 336,
-    "3": 564,
-    "4": 1150,
-    "5": 2659,
-    "6": 5816,
-    "7": 7325,
-    "8": 4615,
-    "9": 1957,
-    "10": 2571
+  "closing_date": {
+    "month": 2,
+    "year": 2014,
+    "day": 21,
+    "__type__": "datetime.date"
+  },
+  "metascore": 65,
+  "num_weekends": 8,
+  "rating_count": 27626,
+  "gross_income": 1029949,
+  "max_screens": 74,
+  "opening_weekend_screens": 8,
+  "screens_by_weekend": [
+    8,
+    19,
+    74,
+    72,
+    7,
+    2,
+    4,
+    3
+  ],
+  "opening_weekend_income": 53452,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Absolutely amazing.",
+      "score": 10,
+      "user": "Jessica Hinrichs",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The beat generation misses a beat",
+      "score": 3,
+      "user": "drjgardner",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It may skip a couple of beats, but this is still a pretty great number.",
+      "score": 8,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shapeless (minor spoiler)",
+      "score": 3,
+      "user": "Pete-230",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unsteady Beat",
+      "score": 4,
+      "user": "cultfilmfreaksdotcom",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slightly Muddled Tale of the Beat Generation",
+      "score": 6,
+      "user": "l_rawjalaurence",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Beats Live On",
+      "score": 9,
+      "user": "Jack Howell",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Getting to know the Beat Generation",
+      "score": 6,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'The New Vision': The Beginnings of the Beat Generation",
+      "score": 9,
+      "user": "gradyharp",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cherish Your Darlings",
+      "score": 6,
+      "user": "bluerider521",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Review: Kill Your Darlings/Night Film Reviews www.nightfilmreviews.com",
+      "score": 6,
+      "user": "lucasnochez",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "young playful, yet dark  love, seductively emotional",
+      "score": 8,
+      "user": "abby_of_firefly",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Madness and Insanity",
+      "score": 7,
+      "user": "Thaneevuth Jankrajang",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kill this movie...",
+      "score": 1,
+      "user": "hughman55",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "powerful debut from John Krokidas",
+      "score": 7,
+      "user": "lasttimeisaw",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Homage",
+      "score": 7,
+      "user": "Laakbaar",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Beat Generation deserves more empathy",
+      "score": 8,
+      "user": "Dr Jacques COULARDEAU",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superb",
+      "score": 10,
+      "user": "stevenjlowe82",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better then On The Road This movie made me want to watch that one again now that I know more about the relationships.",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oddly bloodless, but some might well like it",
+      "score": 6,
+      "user": "patrick powell",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Respectable effort not quite up to the inherent interest of the subject  matter",
+      "score": 6,
+      "user": "Alex Deleon (Barev2013@gmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Allen In Wonderland.",
+      "score": 6,
+      "user": "Robert J. Maxwell (rmax304823@yahoo.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A not so obvious movie with Radcliffe in a a bold and admirable part.",
+      "score": 5,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Allen in Wonderland",
+      "score": 6,
+      "user": "Thomas (filmreviews@web.de)",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "DeHaan is great and Radcliffe is pretty good too",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Harry Potter meets \"Six Feet Under\" in a look at rejection of society's mores",
+      "score": 8,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love awakens a writer, while his love interest seeks to destroy, and push away, everything he has.",
+      "score": 8,
+      "user": "Amari-Sali",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Conventional film about unconventional people",
+      "score": 4,
+      "user": "Ruben Mooijman",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Manages to be both pretentious and uninteresting",
+      "score": 3,
+      "user": "horrymain14",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uninspired",
+      "score": 3,
+      "user": "Chris L",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Offbeat Enough",
+      "score": 5,
+      "user": "soerenbruns",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "John Krokidas tackles this story and knocks it out of the park with his jazzy, drug-induced opus called 'Kill Your Darlings'.",
+      "score": 7,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I loved it. Was beautifully done.",
+      "score": 9,
+      "user": "Kena Medeiros",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very dark and poetic film...",
+      "score": 9,
+      "user": "Irishmoviereviewer",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"What even IS Kill Your Darlings? I mean, really.\"",
+      "score": 8,
+      "user": "Sarah Kenny",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "6 or 7",
+      "score": 7,
+      "user": "Bob An",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "On So Many Different Levels, This Movie Is Stupendously Awful",
+      "score": 1,
+      "user": "Dan1863Sickles",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disturbing but Intriguing",
+      "score": 7,
+      "user": "blogzillla",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spectacular acting",
+      "score": 8,
+      "user": "line-schulz",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Find where love hides--Live, share, lose\"",
+      "score": 9,
+      "user": "doug_park2001",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The story of Allen Ginsberg during some of his more interesting years",
+      "score": 9,
+      "user": "napierslogs",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring, unbelievable characters - except Radcliffe's Ginsberg",
+      "score": 4,
+      "user": "jm10701",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Birth of the Beat Generation",
+      "score": 7,
+      "user": "ligonlaw",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dexter vs. Harry Potter vs. Harry Osborn",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kill Your Darlings (Originally on TFR Online)",
+      "score": 5,
+      "user": "Donie O Se (donieose)",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good young actors but very poor chemistry, somehow convinced",
+      "score": 7,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic!",
+      "score": 9,
+      "user": "CharlieGreenCG",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A clich\u00e9d, stylish, romanticized coming-of-age story...",
+      "score": 6,
+      "user": "Maksim Nikiforovski",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "On the Road (2010)...Now This\u0085Maybe Someday",
+      "score": 6,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There are better songs worth singing...",
+      "score": 5,
+      "user": "bob_bear",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "score": 4,
+      "user": "Tss5078",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Elizabeth Olsen Is The Only Good Thing In This Film",
+      "score": 4,
+      "user": "M MALIK",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing",
+      "score": 8,
+      "user": "naryuki",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kill this movie!",
+      "score": 2,
+      "user": "f-rabit",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Almost never have I felt that way after a movie..",
+      "score": 9,
+      "user": "spoonfailure7",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "appropriately sophomoric",
+      "score": 4,
+      "user": "jds10011",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "College years of famous writers and their tumultuous relationships visualized very well",
+      "score": 8,
+      "user": "JvH48",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coming-Of-Age Blackhole",
+      "score": 4,
+      "user": "HerbsReviews",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "disappointment",
+      "score": 3,
+      "user": "luxraver",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Concept! 4/10",
+      "score": 4,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hogwarts finally comes out of the closet . . .",
+      "score": 7,
+      "user": "Tad Pole",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Daniel Radcliffe's ON THE WATERFRONT? Maybe. Maybe not.",
+      "score": 6,
+      "user": "davidgee",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Adventures of SuperPoet When He Was a Boy--fantastic!",
+      "score": 10,
+      "user": "Alan Jacobs (alanjj@gmail.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "And I thought this was going to be good...",
+      "score": 5,
+      "user": "lukehere99",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 104,
+  "votes_per_demo": {
+    "aged_45+": 2163,
+    "top_1000_voters": 240,
+    "males_under_18": 46,
+    "imdb_staff": 4,
+    "males_aged_18-29": 6850,
+    "imdb_users": 27626,
+    "males_aged_45+": 1704,
+    "aged_18-29": 13023,
+    "us_users": 3740,
+    "females_aged_30-44": 1807,
+    "males": 14266,
+    "females": 8802,
+    "females_aged_45+": 415,
+    "non-us_users": 13894,
+    "females_aged_18-29": 5982,
+    "females_under_18": 98,
+    "aged_30-44": 6876,
+    "aged_under_18": 146,
+    "males_aged_30-44": 4975
   },
   "genres": [
     "biography",
     "drama",
     "romance"
   ],
-  "budget": null,
-  "rating": 6.5,
-  "name": "Kill Your Darlings",
-  "opening_weekend_income": 53452,
-  "avg_screens": 23.625,
-  "gross_income": 1029949,
-  "votes_per_demo": {
-    "non-us_users": 13887,
-    "females_aged_18-29": 5981,
-    "females": 8800,
-    "aged_45+": 2161,
-    "females_under_18": 98,
-    "imdb_users": 27617,
-    "imdb_staff": 4,
-    "females_aged_30-44": 1806,
-    "aged_under_18": 146,
-    "males_aged_30-44": 4975,
-    "top_1000_voters": 240,
-    "aged_30-44": 6875,
-    "males_aged_18-29": 6845,
-    "males": 14259,
-    "females_aged_45+": 415,
-    "males_under_18": 46,
-    "us_users": 3740,
-    "males_aged_45+": 1702,
-    "aged_18-29": 13017
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 624,
+    "2": 336,
+    "3": 564,
+    "4": 1150,
+    "5": 2659,
+    "6": 5818,
+    "7": 7327,
+    "8": 4617,
+    "9": 1957,
+    "10": 2574
   },
-  "release_year": null,
+  "release_month": null,
+  "budget": null,
   "budget_currency": null,
-  "release_day": null
+  "total_screens": 189,
+  "year": 2013,
+  "rating": 6.5,
+  "critic_review_count": 191,
+  "opening_weekend_date": {
+    "month": 10,
+    "year": 2013,
+    "day": 18,
+    "__type__": "datetime.date"
+  },
+  "name": "Kill Your Darlings",
+  "user_review_count": 70,
+  "avg_screens": 23.625
 }

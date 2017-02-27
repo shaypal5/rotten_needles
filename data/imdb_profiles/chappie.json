@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 3,
-    "year": 2015,
-    "day": 6,
-    "__type__": "datetime.date"
+  "release_day": 6,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.5,
+    "top_1000_voters": 6.1,
+    "males_under_18": 7.1,
+    "imdb_staff": 6.9,
+    "males_aged_18-29": 7.0,
+    "imdb_users": 6.9,
+    "males_aged_45+": 6.5,
+    "aged_18-29": 7.0,
+    "us_users": 6.7,
+    "females_aged_30-44": 6.8,
+    "males": 6.8,
+    "females": 6.9,
+    "females_aged_45+": 6.6,
+    "non-us_users": 6.8,
+    "females_aged_18-29": 7.1,
+    "females_under_18": 7.7,
+    "aged_30-44": 6.8,
+    "aged_under_18": 7.2,
+    "males_aged_30-44": 6.8
   },
   "closing_date": {
     "month": 5,
@@ -11,82 +27,7043 @@
     "day": 1,
     "__type__": "datetime.date"
   },
-  "rating": 6.9,
-  "num_weekends": 8,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 3503,
-    "2": 2441,
-    "3": 4100,
-    "4": 7004,
-    "5": 14504,
-    "6": 29120,
-    "7": 49056,
-    "8": 39512,
-    "9": 18022,
-    "10": 16837
-  },
-  "avg_screens": 1333.0,
-  "budget": 49000000,
-  "budget_currency": "$",
-  "release_day": 6,
   "metascore": 41,
+  "num_weekends": 8,
+  "rating_count": 184176,
+  "gross_income": 31569268,
+  "max_screens": 3201,
+  "opening_weekend_screens": 3201,
+  "screens_by_weekend": [
+    3201,
+    3201,
+    2429,
+    1002,
+    329,
+    280,
+    137,
+    85
+  ],
+  "opening_weekend_income": 13346782,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Way better than the critics want you to believe",
+      "score": 9,
+      "user": "samwturner",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't let critics reviews put you off.",
+      "score": 10,
+      "user": "m_westgarth",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shame on Metacritic and others",
+      "score": 10,
+      "user": "zoltankiss-38727",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why the hate?",
+      "score": 9,
+      "user": "Matthew Weissenborn",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great visuals, completely ludicrous plot",
+      "score": 3,
+      "user": "joazito",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie. Reviewers are way off with this.",
+      "score": 9,
+      "user": "bugeboy",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Rare Entertaining AND Technologically Honest SciFi",
+      "score": 10,
+      "user": "I Have My Standards",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply put - it is beautifully stupid",
+      "score": 3,
+      "user": "antonio_b-1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mixed thoughts on this one: Much more intelligent than the average flick, but not really good",
+      "score": 6,
+      "user": "rickystickyman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great FX, but lacks in storyline",
+      "score": 4,
+      "user": "samslaydon",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, Violent, Heart-warming, Heart-wrenching, Thought-provoking story",
+      "score": 9,
+      "user": "ianferrell08",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Excellent Movie with a few rough edges",
+      "score": 9,
+      "user": "joe young",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Raise your hand if you were paid to provide a thumbs up!",
+      "score": 1,
+      "user": "Mike Costello (mcwriter@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the worst films I've seen",
+      "score": 1,
+      "user": "laughinggiraffe0",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crappie",
+      "score": 1,
+      "user": "Thorn495-1",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a typical Sci-fi, thats what makes it great",
+      "score": 9,
+      "user": "mahantktiwari",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very worth watching...",
+      "score": 9,
+      "user": "Thomas Hutegger",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good versus evil .... without the 'good' = awful!",
+      "score": 1,
+      "user": "stevepat99",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "very enjoyable",
+      "score": 8,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A new low for scifi trash",
+      "score": 1,
+      "user": "christopher-akritidis",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The story failed the new concept of police robot.",
+      "score": 3,
+      "user": "kweeky thompson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really stupid",
+      "score": 3,
+      "user": "taz1004",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overall the worst movie I have ever seen",
+      "score": 1,
+      "user": "pachl",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Catering to the lowest common denominator",
+      "score": 1,
+      "user": "DJRMewzique",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great premise but just a huge music video",
+      "score": 5,
+      "user": "peter charles",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So Bad, it's Bad",
+      "score": 3,
+      "user": "David McDonald-Payne",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Promising story brought down by Die Antwoord",
+      "score": 3,
+      "user": "enjikaka",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible script",
+      "score": 1,
+      "user": "admin-01276",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "District 9 meets Dumb and Dumber",
+      "score": 4,
+      "user": "myl  kavas",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "7.2 IMDb user rating? Are you kidding me?!",
+      "score": 2,
+      "user": "ritera1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A poor sci-film set for the scrap heap.",
+      "score": 1,
+      "user": "bsbulldogs",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie with potential....but it's up as a failure.",
+      "score": 3,
+      "user": "dylanr2015",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "crappiest acting ever",
+      "score": 4,
+      "user": "itay_bia",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Funny Thing Happened on the way to this review",
+      "score": 1,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An abomination of all kinds",
+      "score": 2,
+      "user": "Ray (mr_iceman)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful.",
+      "score": 3,
+      "user": "sangabriel72",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie is a shameful waste of time and money",
+      "score": 3,
+      "user": "mike-4046",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nonsensical movie with nothing new to add to genre",
+      "score": 2,
+      "user": "Donna Zeff",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie is crappy.",
+      "score": 2,
+      "user": "workingclasshero",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ridiculous",
+      "score": 3,
+      "user": "Dan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "TL:DR Movie is freaking bad. Had high hopes, thought i would love it based on the theme and setting of it.",
+      "score": 3,
+      "user": "Tiago Jesus",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "brilliant and quite moving",
+      "score": 10,
+      "user": "petecurran",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Movie that Fails to Deliver",
+      "score": 3,
+      "user": "james1844",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny and serious",
+      "score": 9,
+      "user": "someone756",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neill Blomkamp-a-great-director-of-one-movie",
+      "score": 4,
+      "user": "filmaxter",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well-meaning but vapid eye-candy",
+      "score": 3,
+      "user": "Grismar",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "RoboFlop",
+      "score": 4,
+      "user": "pyrocitor",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I really thought it might get better",
+      "score": 2,
+      "user": "terryshilo",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An obnoxious and irritating movie to watch.",
+      "score": 3,
+      "user": "baguilar074",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just don't do it...",
+      "score": 2,
+      "user": "mlm-46302",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flawed, but Entertaining",
+      "score": 7,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too high an expectation",
+      "score": 2,
+      "user": "stefanie_peacock",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Poor Retelling and Fusion of Short Circuit and Robo-Cop",
+      "score": 2,
+      "user": "patrickmmc",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The critics are right!",
+      "score": 3,
+      "user": "MarvelRebootedSpidey (melman0916@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film was total trash!!  And not in the \"fun\" kind of way either...",
+      "score": 1,
+      "user": "David Stanton Miller",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A hate-less review",
+      "score": 7,
+      "user": "marjancek",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It could have been so much better",
+      "score": 6,
+      "user": "WakenPayne",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blockbuster Demands",
+      "score": 6,
+      "user": "Mek Torres",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stupid things are made by stupid people",
+      "score": 4,
+      "user": "Michael Angell",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as good as the trailers",
+      "score": 2,
+      "user": "Daniel Barth",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why would you bother",
+      "score": 4,
+      "user": "bLINDINZI",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My Equation: District 9 + I, Robot = Chappie",
+      "score": 8,
+      "user": "marcvalenzuela",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clever Film..Wonderful Character Realisation. Yay",
+      "score": 10,
+      "user": "myforvm",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Weak Writing; Chappie is the Only Real Fun in CHAPPIE",
+      "score": 6,
+      "user": "brando647",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lot of potential, but little of it used",
+      "score": 4,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poor characters are the reason for this movie's failure",
+      "score": 3,
+      "user": "Charlie Picart",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "annoying gang",
+      "score": 3,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "stupid movie",
+      "score": 1,
+      "user": "skus-1",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst film I have seen in a long time",
+      "score": 3,
+      "user": "sascha-1",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A trashy cyber spectacle with flashy action, a comfortable pace and fine SE's which make Chappie's look lifelike.",
+      "score": 7,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In a word, terrible.",
+      "score": 2,
+      "user": "joshua kit",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie missed the ship in District 9!",
+      "score": 6,
+      "user": "thuvan-96",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "CGI far better than the story",
+      "score": 5,
+      "user": "Adam",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "stupid, derivative rubbish",
+      "score": 4,
+      "user": "etheesdad",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Chappie' finds beating heart in artificial intelligence",
+      "score": 8,
+      "user": "visforhendrix23",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very good film!",
+      "score": 10,
+      "user": "derangedxzombie",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely worth watching",
+      "score": 10,
+      "user": "ritaelizabetholah",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Robotic Miseducation",
+      "score": 7,
+      "user": "3xHCCH",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well done, recommended for fans of District 9.",
+      "score": 8,
+      "user": "Sean Nollen",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More science-fiction that inserts the necessary emotions to make a terrific outcome",
+      "score": 9,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mixed",
+      "score": 7,
+      "user": "abgkasjlkasjla",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blomkamp's most underrated film",
+      "score": 7,
+      "user": "GODZILLA_Alpha_Predator",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun movie",
+      "score": 9,
+      "user": "candy1387",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As a Die Antwoord fan, I loved this movie!",
+      "score": 10,
+      "user": "Veronica McGovern",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A brilliantly convoluted rip-off of I, Robot (2004) meets Robocop (1987)",
+      "score": 4,
+      "user": "H. Martin (~AleXa~)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blomkamp dropped the ball on this one",
+      "score": 4,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "although I liked chappie i was ultimately disappointed",
+      "score": 5,
+      "user": "Thefilmhead65411",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Got the ingredients of a good movie, not a good movie",
+      "score": 5,
+      "user": "Denis Mysenko",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is Blomkamp A One Hit Wonder",
+      "score": 6,
+      "user": "Theo Robertson",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's awful dusty in here...",
+      "score": 10,
+      "user": "TheReal DL",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Revival From Blomkamp",
+      "score": 10,
+      "user": "bluerage11-993-163758",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Give it a chance, I'm glad that I did",
+      "score": 8,
+      "user": "Paynebyname",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Failed by plot",
+      "score": 4,
+      "user": "hollyholly",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "8 out of 10 kinda deal but rounding up to offset the ravers",
+      "score": 10,
+      "user": "OneEightNine Media",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Piece of crap, but it didn't have to be.",
+      "score": 4,
+      "user": "Skonzi",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Please ignore the desperate paid positive reviews!",
+      "score": 1,
+      "user": "Cinefan",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie (2015)",
+      "score": 7,
+      "user": "Angelika_New_York",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, entertaining and thought-provoking",
+      "score": 7,
+      "user": "Imdbidia",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wasted potential.",
+      "score": 7,
+      "user": "Dominick",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hidden Gem -  mistakenly thought this was a kids movie",
+      "score": 9,
+      "user": "John M",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Believable",
+      "score": 4,
+      "user": "weaselhouse",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "RE: Definitely AVOID!",
+      "score": 1,
+      "user": "monsterjazzlicks",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I see a trend in Blomkamp's movies: down",
+      "score": 8,
+      "user": "AlbusMilitis",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Tale of Two Halves",
+      "score": 8,
+      "user": "witster18",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A more-than-fantastic movie",
+      "score": 10,
+      "user": "Chau Tran",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Way better than I expected",
+      "score": 9,
+      "user": "meltdownmonk",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An infantile remix of \"robot\" movies with bad acting and bad plot",
+      "score": 1,
+      "user": "deltaforce7",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Critics are way off with this one.",
+      "score": 9,
+      "user": "doomhealer",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hokey",
+      "score": 2,
+      "user": "heihnandco",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "hearth breaking.",
+      "score": 7,
+      "user": "alarconmariasoledad",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Sci fi flick that tries to answer questions of what makes something conscious",
+      "score": 8,
+      "user": "Barmy Bram",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did not expect much - very pleasantly surprised",
+      "score": 9,
+      "user": "johnbirch-2",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unexpectedly surprised",
+      "score": 8,
+      "user": "psyloid",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A True Disappointment, I Expected A Lot More Considering Who Was Involved",
+      "score": 3,
+      "user": "CANpatbuck3664",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is it so hard to have some fun with a mess of a movie?",
+      "score": 7,
+      "user": "John Plocar",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Where suspension of disbelief dare\"",
+      "score": 6,
+      "user": "Graf Schmidt",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie The Crappie",
+      "score": 4,
+      "user": "Munir Shan",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie's accent made him sound like a total IDIOT",
+      "score": 2,
+      "user": "Negative Reviews",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie Worth watching more than once",
+      "score": 8,
+      "user": "gypsymoonlover",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch RoboCop instead",
+      "score": 5,
+      "user": "tomofsweden",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A kids movie for adults",
+      "score": 5,
+      "user": "Stevie Parmentier",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing, but not too bad",
+      "score": 5,
+      "user": "rdinislobo",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Chappie",
+      "score": 8,
+      "user": "Donnie_Quixotic",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "i'll buy that for a dollar",
+      "score": 6,
+      "user": "jcallows",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Attempt",
+      "score": 7,
+      "user": "shreekara-1995",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Very Happy Chappie",
+      "score": 7,
+      "user": "Rob_Taylor",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Impact",
+      "score": 8,
+      "user": "Brandon Driesen",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Its a sci-fi age and robot rules.",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the 'maker' is remade by the maker's 'makie'!",
+      "score": 8,
+      "user": "varuna12",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointed it got that bad.",
+      "score": 5,
+      "user": "Jenia",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When the there is only one good guy in a movie and he's not even the main character...",
+      "score": 5,
+      "user": "andrewshieh0712",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intriguing concept that would be much better without the violence.",
+      "score": 6,
+      "user": "Nicole C",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A serviceable film with some shortcomings that keeps it from being great.",
+      "score": 6,
+      "user": "Jacques Ciesla",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nowhere near as good as District 9 (until the last 30 minutes)",
+      "score": 5,
+      "user": "gorguruga",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Annoying with brief moments",
+      "score": 6,
+      "user": "jansett-683-84030",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie",
+      "score": 8,
+      "user": "Horrorliefhebber",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Interesting Idea, Made Into A Decent Film!",
+      "score": 6,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An oversimplified version of a story you've seen before...",
+      "score": 6,
+      "user": "Jason Torres",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The problem with having expectations",
+      "score": 7,
+      "user": "andrednz",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Delivers the required thrills and spills, but little else",
+      "score": 6,
+      "user": "tomgillespie2002",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie Review",
+      "score": 6,
+      "user": "Nick Retzlaff",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not worth watching",
+      "score": 2,
+      "user": "vandalz",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OK. Really?",
+      "score": 2,
+      "user": "james-allen72",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A new and more ruddy step into the AI story",
+      "score": 9,
+      "user": "ewhishaw",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Active And Brute Picture Of Future Law Enforcement",
+      "score": 6,
+      "user": "getyourdander",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I've seen it twice now, and it was even more affecting the second time",
+      "score": 10,
+      "user": "Fearless Freep",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a perfect film, but fun none-the-less.",
+      "score": 7,
+      "user": "mockfilmsblog",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"RoboCop\" meets \"Short Circuit\"",
+      "score": 7,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining robot-like film",
+      "score": 7,
+      "user": "jb_campo",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie might change your life...",
+      "score": 9,
+      "user": "randolphpat",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gave me goosebumps. Very rarely does a movie do that.",
+      "score": 8,
+      "user": "manuelasaez",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm glad that I watched this movie despite the unreasonable reviews that rated this \"1\"",
+      "score": 8,
+      "user": "Young-jin Choi",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movie with an interesting question.",
+      "score": 8,
+      "user": "Alanrad",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I love this movie",
+      "score": 10,
+      "user": "Nosheen Aslam",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as bad as most are saying",
+      "score": 7,
+      "user": "rrrooodddrrriiigggooo",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the most disappointing movies i have ever seen...",
+      "score": 3,
+      "user": "Sebastianostlund",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Emotionally moved.",
+      "score": 10,
+      "user": "useyourmind",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lovely tale!",
+      "score": 9,
+      "user": "Tord S Eriksson",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Enjoyable Two Hours with a Lovable Lead,",
+      "score": 7,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "After District 9 and Elysium, this is another film I enjoyed.",
+      "score": 7,
+      "user": "spydruler",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Interesting",
+      "score": 6,
+      "user": "MrAwesome1022",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth not giving up on it too quickly!",
+      "score": 7,
+      "user": "sunlit_dreams",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like a two hour Die Antwoord music video - aka awesomesauce!",
+      "score": 7,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Die Antwoord is da sh*t!",
+      "score": 8,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Underrated and a must-see",
+      "score": 7,
+      "user": "Ivan Cherganski",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shame",
+      "score": 2,
+      "user": "okeys7",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blomkamp does robocop and does it well.",
+      "score": 8,
+      "user": "TdSmth5",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie, your friendly robot.",
+      "score": 9,
+      "user": "southpoint45680",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Glad I watched it!",
+      "score": 9,
+      "user": "info-6-485649",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you watched District 9, you'll love this",
+      "score": 8,
+      "user": "yincognyto",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Engaging, fast moving, and complex tale",
+      "score": 9,
+      "user": "dutchs-1",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie wants to live !",
+      "score": 8,
+      "user": "ZULFIQAR RAJA (zulfbookz@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The rating Doesn't mean anything",
+      "score": 10,
+      "user": " (okg101@yahoo.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Politacally Wrong",
+      "score": 5,
+      "user": "osapeg",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "don't miss this film it's a gem",
+      "score": 9,
+      "user": "wdter",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "fantastic movie",
+      "score": 9,
+      "user": "shaun-85729",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's Okay",
+      "score": 6,
+      "user": "Molly Jay",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blomkamp perhaps took a bit of a risk here, but it was definitely a risk worth taking",
+      "score": 9,
+      "user": "jimbo-53-186511",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Work form the District 9 Team",
+      "score": 9,
+      "user": "rcvip-67101",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If It Only Had a Brain",
+      "score": 2,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome movie - Ignore the haters!",
+      "score": 10,
+      "user": "o_pekdemir",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fresh and thoughtful on many levels --- a total success!",
+      "score": 9,
+      "user": "lhunt-9",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "While it is not Blomkamp's best offering, Chappie is an enjoyable dark sci-fi fairy tale that should satisfy those who are children at heart.",
+      "score": 9,
+      "user": "mhol111964-754-567942",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Movie Ever! Must Watch",
+      "score": 10,
+      "user": "adnanareeb",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such a misunderstood movie!",
+      "score": 8,
+      "user": "Chris Blachewicz",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Original Idea, Great Story, Poor Ending, Mediocre Acting",
+      "score": 8,
+      "user": "speedy-droid",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What were the haters smoking?",
+      "score": 8,
+      "user": "AStormOfSwords13",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Half marks for a half-good movie",
+      "score": 5,
+      "user": "fung0",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Entertaining",
+      "score": 2,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "very potential story, but worst direction.",
+      "score": 4,
+      "user": "Pratik Rai",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"You gave me a retarded robot.\"",
+      "score": 7,
+      "user": "utgard14",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "hate film critics.. brilliant film",
+      "score": 10,
+      "user": "charleeze",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't want to go to watch it? Well you will miss something really good...",
+      "score": 10,
+      "user": "pirecnikboris",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie the blank slate",
+      "score": 8,
+      "user": "Liam Blackburn",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Has it all!  Great movie!",
+      "score": 10,
+      "user": "naultr6",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Veryheartwarming, no doubt",
+      "score": 9,
+      "user": "Georgian Stanescu",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie is funny, entertaining and emotional but not very deep.",
+      "score": 9,
+      "user": "jpkwolf",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie is wonderful movie from the genius behind District 9",
+      "score": 10,
+      "user": "Curtis Dieno",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the most beautiful, emotional, scientific movie I have ever seen.",
+      "score": 10,
+      "user": "Singh Gurbir",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining, but very simple, and too much product placement",
+      "score": 6,
+      "user": "jimlacy2003",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The humor is so fresh, fun and simple, it's free of bitter irony.",
+      "score": 10,
+      "user": "Felipe Narbona",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strange, and inexplicably engaging",
+      "score": 9,
+      "user": "Gin-ster",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stick with it and just get past that first hour...",
+      "score": 8,
+      "user": "LincolnSixEko",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An instant classic, joining \"Robocop\" and \"Terminator 2\" as best of the genre",
+      "score": 10,
+      "user": "Bob-45",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great sci-fi film...screw the critics",
+      "score": 8,
+      "user": "Noah Tall",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "simply amazing!",
+      "score": 10,
+      "user": "WoodBangers Entertainment",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome. Different then most",
+      "score": 10,
+      "user": "joe_cheppie",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is really bad...",
+      "score": 1,
+      "user": "levdr",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Only Cynics are Cynics",
+      "score": 9,
+      "user": "Austin Fritzke",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Falls short of potential",
+      "score": 5,
+      "user": "Vikesh Mirchandani",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not very original",
+      "score": 4,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than Ex Machina",
+      "score": 8,
+      "user": "Edward Lui",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a below average film that left me bitterly disappointed",
+      "score": 4,
+      "user": "alindsay-al",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely beautiful movie!",
+      "score": 10,
+      "user": "dfp-98827",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice one, Chaps.",
+      "score": 7,
+      "user": "wrightiswright",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Severely underrated",
+      "score": 8,
+      "user": "darkrai426",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For people giving this 10 of 10 stars.",
+      "score": 6,
+      "user": "jmandracchia",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent Sci-Fi picture, I don't get the harsh reviews",
+      "score": 8,
+      "user": "Jacobhemphill96",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plot holes sure, bad movie not so much",
+      "score": 10,
+      "user": "adiabloa",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A little bit of RoboCop with some touches of Short Circuit and I, Robot.",
+      "score": 8,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing more than an OK sci-fi action movie",
+      "score": 6,
+      "user": "hvafaen",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Is Sci-Fi",
+      "score": 8,
+      "user": "Dan Ashley (DanLives1980)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Infantile attempt at making a movie",
+      "score": 2,
+      "user": "dioditto",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "FoK Chappie",
+      "score": 5,
+      "user": "clarkmick33",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If your a normal person read this review",
+      "score": 9,
+      "user": "phelectric",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally something different!! Not your typical Hollywood bore",
+      "score": 8,
+      "user": " Bohemian81",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining & enjoyable movie",
+      "score": 10,
+      "user": "jvw08",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A human story of exploration, love and survival",
+      "score": 9,
+      "user": "Wendy Yd New Style",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just like life itself: weird, exciting, sad, funny - and real.",
+      "score": 9,
+      "user": "adamduhaf",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The critics were so wrong.",
+      "score": 9,
+      "user": "pseidel125",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's actually quite good!",
+      "score": 8,
+      "user": "sweetemotion2",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Emotional Look at A.I.",
+      "score": 8,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie Has a Voice",
+      "score": 8,
+      "user": "ferlie_burns",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An awesome sci-fi spectacle that is more heart than it is brawn",
+      "score": 8,
+      "user": "trublu215",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great premise, but could have been executed better",
+      "score": 7,
+      "user": "Gorillaboi",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie hit home for me",
+      "score": 10,
+      "user": "talentedfunoutgoing",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie blew my CPU",
+      "score": 10,
+      "user": "immmoo123",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful movie worth watching",
+      "score": 10,
+      "user": "oceanman1995",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great FX but the story doesn't make any sense",
+      "score": 3,
+      "user": "joehawash",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ambitious and intelligent.",
+      "score": 8,
+      "user": "Troy_Campbell",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't let the critics scare you away from this movie. It's great!!",
+      "score": 9,
+      "user": "cassicouture",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Haters hate, but the movie is good.",
+      "score": 8,
+      "user": "spartanf26",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lot of missed opportunities, but enjoyable",
+      "score": 7,
+      "user": "Ryan Prince",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not For the Kiddies",
+      "score": 7,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice complete package of entertainment in a SciFi drama",
+      "score": 7,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing CGI, Bad Writing",
+      "score": 5,
+      "user": "room102 (plasmapool@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Critics are Useless",
+      "score": 10,
+      "user": "nickspiropulos",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the most original thing you'll ever see, but done with enough care and depth to wash over this",
+      "score": 7,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Under-appreciated already but truly a brilliant sci-fi flick",
+      "score": 9,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't Listen To \"Film Critics\"",
+      "score": 10,
+      "user": "Michael Van Damme",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Learn how to be gangsta with Chappie!",
+      "score": 9,
+      "user": "Amthermandes",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow.  I LOVED this movie! I loved the story, I loved the cast, I loved the robots.  It had me captivated from start to finish.",
+      "score": 9,
+      "user": "Bow Miya",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing Film",
+      "score": 9,
+      "user": "gofigure8787",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OK there's maybe one thing to complain about",
+      "score": 9,
+      "user": "socrates99",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly entertaining",
+      "score": 9,
+      "user": "M_Natas",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Emotional, Entertaining, but has it's Flaws",
+      "score": 8,
+      "user": "AmbushBug26",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie is one of the most endearing movies I have ever seen",
+      "score": 9,
+      "user": "shootingstar358",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's cool to see such an excessively violent (R rated) kid's movie!",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neill Blomkamp is a genius - bad reviewers missed the point!!!",
+      "score": 9,
+      "user": "Montgomery Scott",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining & visually interesting",
+      "score": 10,
+      "user": "wayindie",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful",
+      "score": 10,
+      "user": "Jim-reviews-film",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie definitely worth watching",
+      "score": 10,
+      "user": "Topper S",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Critics may have to eat their words back...",
+      "score": 8,
+      "user": "rksh-69808 (rksh0020@humbermail.ca)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "CHAPPiE The Nr.1 Gangsta Robot from Jo'Burg is youthful and innocent, caring and emotional.",
+      "score": 9,
+      "user": "peter-eldon",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing film, I highly recommend.",
+      "score": 10,
+      "user": "csec",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Go Into Chappie With an Open Mind",
+      "score": 9,
+      "user": "grantrichard",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Future Shock at its best !",
+      "score": 9,
+      "user": "raveon6969",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Deeper than what it seems",
+      "score": 10,
+      "user": "Koray Y.",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exceeded my expectations! WOW",
+      "score": 10,
+      "user": "stargirl-17007",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bizarre and Touching",
+      "score": 10,
+      "user": "Jared Deckard",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An incredible original mix of sci-fi, sweet moments and extremely violent scenes",
+      "score": 9,
+      "user": "abisio",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Film Review: Chappie",
+      "score": 10,
+      "user": "lucasnochez",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Robot Gangsta #1 has serious heart.",
+      "score": 10,
+      "user": "Marc d'Entremont",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't listen to the critics",
+      "score": 8,
+      "user": "Gianluca Marzano",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious",
+      "score": 9,
+      "user": "a0121536",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie was Brilliant!",
+      "score": 10,
+      "user": "gvickers-79050",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "On a Whole... A Fun Movie That Brings the LOL's",
+      "score": 8,
+      "user": "jolly bean",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing movie full of heart, a must see.",
+      "score": 10,
+      "user": "Ducati September",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dark look at how much humanity sucks, Blomkamp returns",
+      "score": 7,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't trust reviews on internet!",
+      "score": 10,
+      "user": "Rudolf Ravbar",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blomkamp's Best By Far",
+      "score": 10,
+      "user": "Baron Weeren",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fitting continuation of the District 9 finesse.",
+      "score": 10,
+      "user": "Tejaswy Nalam",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant idea 4 a Human 2 become Immortal (live forever) Bad Reviews? Shmad reviews",
+      "score": 10,
+      "user": "Pablo MisterRager Morillo",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An exploration of human consciousness",
+      "score": 9,
+      "user": "david-sarkies",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Underrated Movie of The Century",
+      "score": 10,
+      "user": "Stephanie Smith",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stop reading this review and watch the film.",
+      "score": 9,
+      "user": "Alex shuffell",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Johnny 5 is Alive",
+      "score": 3,
+      "user": "Craig Anderson",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "District 9 has Competition",
+      "score": 10,
+      "user": "Josiah Bayly",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumb yet enjoyable",
+      "score": 7,
+      "user": "waheed_zuhair",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Its eclecticism ultimately becomes its downfall",
+      "score": 5,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun movie!",
+      "score": 7,
+      "user": "Felipe Rossette",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Visually effective, but shaky plot and unvaried characters",
+      "score": 6,
+      "user": "Bene Cumb",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An unpredictable blend of emotions",
+      "score": 10,
+      "user": "thomasgreen-69250",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bottom-Of-The-Barrel Sci-Fi",
+      "score": 1,
+      "user": "roddekker",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "truly amazing",
+      "score": 10,
+      "user": "patelreetesh",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Phoned in performances and rubbish script.",
+      "score": 2,
+      "user": "zorrek",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An emotionally distressing exploration of artificial intelligence and notions of existence",
+      "score": 10,
+      "user": "Klaus Ming",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Questions are good",
+      "score": 9,
+      "user": "goldencut",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What if we created such soldiers?",
+      "score": 8,
+      "user": "muvi-fan-73",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great story",
+      "score": 4,
+      "user": "Ana Vigo",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible film!",
+      "score": 1,
+      "user": "boxrick",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a decent movies for those who likes to cry.",
+      "score": 4,
+      "user": "Caroline Chua",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All that in a usb drive",
+      "score": 5,
+      "user": "DreadfulA",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A thinly veiled Sympathy Piece",
+      "score": 5,
+      "user": "piimpone",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie",
+      "score": 6,
+      "user": "ApproximatelyHandsome",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plenty of Heart but Could Use Some Insight and Intelligence",
+      "score": 7,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Under The Shadow Of District 9(2009).",
+      "score": 5,
+      "user": "Vivekmaru45",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie's Got Loads of Spunk and Stunning Technical Tricks, But Little Else",
+      "score": 5,
+      "user": "Sean Lamberger",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing",
+      "score": 5,
+      "user": "PedroLagoa",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved the robot but the acting was awful!",
+      "score": 6,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a melding of Short Circuit & Robocop",
+      "score": 5,
+      "user": "sevenfingers2001",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lost potential",
+      "score": 5,
+      "user": "larspsandersen",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like District 9; fresh movie, not worth to re-watch.",
+      "score": 6,
+      "user": "virindra",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Robot from the Hood",
+      "score": 5,
+      "user": "dcarsonhagy",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Similar territory to Blompkamp's other efforts, but a solid film nonetheless",
+      "score": 7,
+      "user": "MortalKombatFan1",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "10/10 visuals but 0.5/10 on the plot (CLICH\u00c9, CLICH\u00c9 EVERYWHERE)",
+      "score": 4,
+      "user": "TheReziser",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a disappointment...",
+      "score": 4,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well-intentioned, but messy -- only scrapes the surface of its interesting themes",
+      "score": 7,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Idea, Bad implementation...",
+      "score": 6,
+      "user": "Achiko Arjevanidze",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Don't Understand Why People Hate This Film",
+      "score": 7,
+      "user": "Jacob Wood",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Chappie' is like Die Antwoord: many will not like it, but deserves respect for daring to be what it is",
+      "score": 8,
+      "user": "DrLex",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 5,
+      "user": "capone666",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I didn't really like this as much as I expected to. If you liked District 9 you will like this as well.",
+      "score": 5,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "*****Chappie*****6 out of 10***** Some minor spoilers",
+      "score": 6,
+      "user": "Psy33",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "text saying copying consciousness should be moving consciousness",
+      "score": 9,
+      "user": "Sanjeev Kumar",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Weird, but enjoyable",
+      "score": 7,
+      "user": "bravesfanc",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some quirks and bad plot points keeps it from being GREAT",
+      "score": 7,
+      "user": "Asadullah Khan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Number 5, sorry 22, is ALIVE!!!!!!",
+      "score": 6,
+      "user": "tomosp1965",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Catching up to Cyberpunk",
+      "score": 8,
+      "user": "in1984",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "B++ movie",
+      "score": 8,
+      "user": "Maya Peoples (mayap239@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neill Blomkamp, Former Film School Flunky?",
+      "score": 1,
+      "user": "Dalbert Pringle",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How could you not like this movie??",
+      "score": 10,
+      "user": "ajd4",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How could you not like this movie??",
+      "score": 10,
+      "user": "ajd4",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There's A New Guy In Town...His Name's Chappie",
+      "score": 7,
+      "user": "paul-heys-im",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible film",
+      "score": 1,
+      "user": "garciaruben223",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie is genius",
+      "score": 10,
+      "user": "hooliganstreetpictures",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining BUT .. a modern cheesy Australian Robocop",
+      "score": 1,
+      "user": "Avid_Movie_Viewer",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Most disappointing film of the decade so far",
+      "score": 1,
+      "user": "raoulduke333",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Comparing",
+      "score": 8,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is now my favorite movie of all time!",
+      "score": 10,
+      "user": "Matt Messex",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Was more of a kids movie",
+      "score": 3,
+      "user": "randall-shimizu",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not quite good considering its sci-fi from Blomkamp",
+      "score": 4,
+      "user": "Akshay Hegde",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Certainly not what visionary Neill Bloomkamp could have delivered",
+      "score": 5,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just an \"Okay\" Movie and Lacks Realism in Regards to AI",
+      "score": 5,
+      "user": "Robert M Twardowski",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad Robot",
+      "score": 5,
+      "user": "Rod Critic",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An odd SF effort that feels like it was made in New Delhi but probably wasn't.",
+      "score": 4,
+      "user": "lois-lane33",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An imperfect, yet underrated true-sci-fi gem",
+      "score": 6,
+      "user": "Gimly Monocle (firstruleofmethclub)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "one of the dumbest, most annoying flicks I've ever seen",
+      "score": 1,
+      "user": "twelvegames",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So disappointing",
+      "score": 1,
+      "user": "witneyl",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Where is my mind?",
+      "score": 4,
+      "user": "logadof",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One Word: Awesome",
+      "score": 10,
+      "user": "star_rosado",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So so bad.",
+      "score": 1,
+      "user": "drummer303",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If there was a rating lower than 0 this movie would earn it.",
+      "score": 1,
+      "user": "kilda jones",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "3rd outing for Blomkamp, and it's just as bad as the others.",
+      "score": 1,
+      "user": "Ryan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Two hours of \"Die Antwoord\"",
+      "score": 8,
+      "user": "fvwyk1-804-458094",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fantastic mix of dark comedy and science fiction.",
+      "score": 9,
+      "user": "ExplodIngNinja",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What is the world coming to if people don't like CHAPPiE OMG!",
+      "score": 8,
+      "user": "Striker Eureka",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Biased Critics",
+      "score": 7,
+      "user": "allenandginter",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The movie, Chappie is indeed artificial indifferent for some people. It was a robot flop.",
+      "score": 7,
+      "user": "ironhorse_iv",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as bad as the critics say, but not as good as it could have been",
+      "score": 7,
+      "user": "drbreakfastmachine",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dreadful, atrocious rubbish",
+      "score": 1,
+      "user": "jmvscotland",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Remember \"Simple Jack\" from the movie Tropical Thunder?",
+      "score": 1,
+      "user": "Pining-For-The-Fjords",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pathetic, Rape of A.I. at worst possible way!",
+      "score": 1,
+      "user": "abhishek_logic",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crappie would be a more appropriate title.",
+      "score": 1,
+      "user": "keith-samsel",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Money and Time both wasted..",
+      "score": 1,
+      "user": "fezarfz",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Totally Non creative !",
+      "score": 1,
+      "user": "awesomekhan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fair is Foul and Foul is Fair: finding God in a Sci-Fi Movie. A Review of Humandroid, directed by Neill Blomkamp",
+      "score": 10,
+      "user": "germanamaciocci",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Critics",
+      "score": 10,
+      "user": "xavier-rico",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best 'fan film' ever (***1/2)",
+      "score": 7,
+      "user": "Film Fan Perspective (filmfanperspective@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny and Emotional",
+      "score": 9,
+      "user": "Sam Lynn",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie delivers entertainment and will make you feel. Some bits may have been a bit of overkill but it is still a great, memorable film.",
+      "score": 10,
+      "user": "ermac-05844",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do some of you out there know the definition of a comedy?",
+      "score": 10,
+      "user": "Barry Soetoro",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It has some flaws but is also fun, thoughtful and touching",
+      "score": 8,
+      "user": "mrpinbert",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Flawed but visually stunning TransHumanism Picture",
+      "score": 8,
+      "user": "Ryoma-Nagare",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "CHAPPiE is a very mind-boggling film - its elements include science fiction, fantasy, action and all sorts.",
+      "score": 7,
+      "user": "The_Riddler_1948",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a masterpiece, but an entertaining blockbuster full of character",
+      "score": 8,
+      "user": "ivica83",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "CHAPPiE: Flawed But Fun",
+      "score": 7,
+      "user": "obiwan400",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This robot makes us care!!!!",
+      "score": 8,
+      "user": "Figgy66-915-598470",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent if you consider it a B-movie",
+      "score": 7,
+      "user": "IndustriousAngel",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Accidentally challenges you",
+      "score": 10,
+      "user": "slavman",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hands down horrible movie",
+      "score": 1,
+      "user": "mmgette",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of time, Big Robotics Advertisement, No science, Offensive kids level script",
+      "score": 1,
+      "user": "kdotcdot",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "so the movie sucked",
+      "score": 1,
+      "user": "Crip-Dawg",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad bad chappie",
+      "score": 1,
+      "user": "jmkaep",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a journey of an AI robot growing up.",
+      "score": 10,
+      "user": "Wen Zhao",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't tell me how it ends... or do... i don't care",
+      "score": 3,
+      "user": "Trevor Jess",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not really any good",
+      "score": 2,
+      "user": "simonetti-33557",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ten Stars? Did You Actually Watch It?",
+      "score": 1,
+      "user": "Terry Melvin",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Misunderstood",
+      "score": 8,
+      "user": " (anthonyjlangford@yahoo.com.au)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie for SciFi fans. Reading the professional Reviews.. i mean..WTF?",
+      "score": 10,
+      "user": "Tax Alex",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Robots | British Gangsters | Police",
+      "score": 10,
+      "user": "r-grant-jr-122193",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't let bad reviews fool you! Amazing amazing movie!!",
+      "score": 10,
+      "user": "babyblue11004",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't listen to the critics, watch it and make up your own mind.",
+      "score": 10,
+      "user": "Shannon Apple",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Robocop + Short Circuit = Chappie",
+      "score": 8,
+      "user": "Montybunny423",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film will have the same fate as Blade Runner",
+      "score": 10,
+      "user": "Kirk09",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie got right what District 9 and Transformers couldn't",
+      "score": 10,
+      "user": "facebook-688-234620",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Does this movie really deserve a 28% in ROTTEN****S??",
+      "score": 8,
+      "user": "jojifrey",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another good premise from Blomkamp that falls flat on its face",
+      "score": 6,
+      "user": "themadmovieman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Baba blacksheep have you any wool",
+      "score": 2,
+      "user": "dhingana",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A touching, entertaining and bold sci-fi movie",
+      "score": 8,
+      "user": "oshakka",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A programmer figures out how to code consciousness and see's the affects on a robot.",
+      "score": 9,
+      "user": "Benjamin Gutman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Closer to Elysium than District 9 but still manages to entertain despite its flaws.",
+      "score": 6,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Adventures of Gangsta Robot",
+      "score": 7,
+      "user": "fawn_jane",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chumppie",
+      "score": 1,
+      "user": "waynemalynyk",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Truly the worst movie ever made",
+      "score": 1,
+      "user": "bluefalcon1993",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just stupid",
+      "score": 1,
+      "user": "Mariano Coria",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So so bad.",
+      "score": 1,
+      "user": "drummer303",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The scriptwriter is a stupid f***k!!! The scriptwriter never went to or graduated from university I guess.",
+      "score": 1,
+      "user": "reygoal",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Should have been and could have been, but sadly it fails....",
+      "score": 2,
+      "user": "johnnyinmtl",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Been using IMDb for like 20 years and never cared to review until...",
+      "score": 10,
+      "user": "daniel-193-621913",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A few rough spots, but I can forgive those because of the ideas present",
+      "score": 8,
+      "user": "Adam Foidart",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pinocchio with an assault rifle",
+      "score": 6,
+      "user": "Andrew Scott",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "3.5/10",
+      "score": 3,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A waste of my time",
+      "score": 3,
+      "user": "meezer3",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the best of Neill so far in 2015 or the best film I've seen in 2015",
+      "score": 10,
+      "user": "franklinlapaz",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ridiculous from every turn and every side.",
+      "score": 1,
+      "user": "Joel Bloch",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shocked to discover it's rating on Rotten Tomatoes",
+      "score": 10,
+      "user": "niamhxo-258-101159",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely fantastic film",
+      "score": 10,
+      "user": "Tommy Ellery",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie is a Masterpiece, and better than District 9",
+      "score": 10,
+      "user": "carrot_butter",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You must experience this pain",
+      "score": 10,
+      "user": "actuatedgear",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So bad it hurt!",
+      "score": 1,
+      "user": "Vim Fuego",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Un-artificial un-intelligence that lowers your IQ by 100",
+      "score": 1,
+      "user": "pasa-2 (pasa@lib.hu)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pure crap.. Don't waste your time and money watching this.",
+      "score": 1,
+      "user": "springs37923",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So Bad",
+      "score": 1,
+      "user": "jonathanmark-77048",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Had a lot of potential, but it fell apart at the end.",
+      "score": 6,
+      "user": "Paul Ashraf Waheeb Doss",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Robotic acting, a mechanical script - basically its a dead battery.",
+      "score": 1,
+      "user": "kuuk3",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In short, \"Chappie\" is pretty crappie. But read on. I'll actually have some intelligent reasons to back up that rhyming pun.",
+      "score": 1,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hijacked by bad choices....Neil what happened?",
+      "score": 2,
+      "user": "jay-90125",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Was I supposed to laugh throughout?",
+      "score": 5,
+      "user": "Tyler Piponu",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Needs more fookin' prawns",
+      "score": 5,
+      "user": "Sankari_Suomi",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ummm Surprisingly good for me",
+      "score": 10,
+      "user": "Wayne Chen",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie",
+      "score": 6,
+      "user": "Jackson Booth-Millard",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Robot has a Heart!!!! Awesome movie!!!",
+      "score": 8,
+      "user": "rajatdahiyax",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A new touch and angle to AI! LOVED IT!!!",
+      "score": 7,
+      "user": "Garvit Nangia",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "tgchan says YES!!  /  www.tgchan.pl",
+      "score": 8,
+      "user": "tgchan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unrealistic average A.I movie",
+      "score": 6,
+      "user": "gagan brar",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie",
+      "score": 7,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "World stupidest AI robot",
+      "score": 5,
+      "user": "tine bres",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How to train your robot",
+      "score": 5,
+      "user": "Semisonic",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reply to joazito",
+      "score": 8,
+      "user": "alessio andreani",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Drama Movie But Not Science Fiction",
+      "score": 6,
+      "user": "kupukupumu",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of Chappie",
+      "score": 6,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a mess",
+      "score": 4,
+      "user": "mpf101",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolute Rubbish",
+      "score": 1,
+      "user": "Arshad Pahad",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "boring and stupid",
+      "score": 1,
+      "user": "chad-anna",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "what a trainwreck",
+      "score": 5,
+      "user": "alexandra-mestanza",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neill Blomkamp is a visionary and Chappie will get it's credit someday!",
+      "score": 10,
+      "user": "darragh608",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sunday night really good movie",
+      "score": 7,
+      "user": "Ricardo Marques",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Robot lives...",
+      "score": 10,
+      "user": "Hakuryuu White-Hurricane",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A important message for us all",
+      "score": 9,
+      "user": "theshiptons",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Short Circuit meets Robocop",
+      "score": 8,
+      "user": "xhysteriax",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "FRESH and Stylish SCI-FI flick! Watched OVER AND OVER!",
+      "score": 10,
+      "user": "PinkValek",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Despite some holes in the plot, this Sci Fi film is quite good",
+      "score": 9,
+      "user": "Andres Salama",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite Enjoyable",
+      "score": 9,
+      "user": "Steviereno",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This didn't make me a happy Chappie",
+      "score": 4,
+      "user": "valleyjohn",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent Movie of 2015",
+      "score": 10,
+      "user": "Muhammad Izhaaq (izhaaq.eagle996@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "About the movie",
+      "score": 5,
+      "user": "kidweak",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh, little Chappie you conquered my heart with your little, smart and",
+      "score": 8,
+      "user": "chpaessler",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "shame on you for giving low rating",
+      "score": 10,
+      "user": "troy voltun",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Be my samurai !",
+      "score": 8,
+      "user": "abhishekghsh8",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Grade: B-",
+      "score": 7,
+      "user": "bschultz_the_pally",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as Memorable as Elysium but Better Than District 9",
+      "score": 8,
+      "user": "KalKenobi83",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie forgives you!!!",
+      "score": 8,
+      "user": "urthpainter",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie steal the show",
+      "score": 7,
+      "user": "yehgoodone",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Protagonist Chappie deserves a better story than what Blomkamp serves up",
+      "score": 6,
+      "user": "Shane Breen",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Existential Zefness and Transhumanism in a Dystopian South Africa",
+      "score": 7,
+      "user": "Ruaan-Van-Rooyen",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie...meet Crappie!",
+      "score": 6,
+      "user": "loco_73",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing for Blomkamp.. but better than you're led to believe",
+      "score": 7,
+      "user": "Kieran Battams",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A not very original yet effective movie about Artificial Intelligence.",
+      "score": 8,
+      "user": "Anurag-Shetty",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wall-E, White Rappers, Johannesburg...",
+      "score": 8,
+      "user": "Victreebong",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Realistic expectations",
+      "score": 8,
+      "user": "shortstorybliss-50869",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Critics are Half Right",
+      "score": 7,
+      "user": "jakekannemeyer",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better Than Expected",
+      "score": 7,
+      "user": "mike3386",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A 2 hour long Die Antwoord video-clip if you ask me",
+      "score": 7,
+      "user": "jmorel33",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An good and entertaining movie from director Neill Blomkamp",
+      "score": 7,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In CHAPPiE, Sony Corporation imagines a world . . .",
+      "score": 6,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Criminal WALL-E",
+      "score": 6,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The lack of originality and occasional stupidity of some of the characters hinder your overall enjoyment of the film--though it IS entertaining",
+      "score": 5,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "ChappieMannia",
+      "score": 10,
+      "user": "gimitheodore",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining, but also thoughtful movie - defying common stereotypes",
+      "score": 8,
+      "user": "opinionated-alchemist",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A sci-fi that makes us realize humanity.......",
+      "score": 10,
+      "user": "arnabringiton",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sci fi at its best",
+      "score": 10,
+      "user": "s3276169",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "CHAPPIE is a unique film with so much to offer the audience.",
+      "score": 6,
+      "user": "Harvey Penson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Maybe (meta)critics have seen a different movie...",
+      "score": 9,
+      "user": "Lele (rvalente@iol.it)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gunplay, good theology and lazy plotting",
+      "score": 7,
+      "user": "david-meldrum",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't watch the misleading trailers before watching the movie",
+      "score": 10,
+      "user": "jedilr (jedilr@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lose yourself to chappie.",
+      "score": 10,
+      "user": "TheGameCubeMaster (TheGameCubeMaster@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved this movie!!!",
+      "score": 8,
+      "user": "tony minute",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good but could have been better",
+      "score": 7,
+      "user": "tinovalkki",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fresh, Ballsy, Confident & Entertaining",
+      "score": 8,
+      "user": "dgirwin1",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Original and funny, yet lacking some character development and realistic value.",
+      "score": 7,
+      "user": "Mejoking",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "robocop meets Short Circuit",
+      "score": 6,
+      "user": "dragon_nightfire",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A whole heap of fun, despite its varied flaws",
+      "score": 7,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blomkamp gets a misfit target audience flick, of what could have been great.",
+      "score": 7,
+      "user": "Navaf",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't listen to the critics!!!!!!!!!",
+      "score": 10,
+      "user": "minekiller",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Movie is Amazing",
+      "score": 9,
+      "user": "frody1111",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"I think, therefore I am\".",
+      "score": 10,
+      "user": "Bo Atdrinks",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Short Circuit meets Wall-E meets Robocop?",
+      "score": 9,
+      "user": "simonantonyhull",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow...how this has rated a 7 I'll never know...",
+      "score": 2,
+      "user": "emailpablosanchez",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Derivative and Unengaging",
+      "score": 2,
+      "user": "arfdawg-1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why does this film have positive reviews?",
+      "score": 2,
+      "user": "ramirez13-2",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hopeless movie",
+      "score": 2,
+      "user": "Siddhartha Usham",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A worthy successor to District 9",
+      "score": 9,
+      "user": "siderite",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cant trust the reviews in IMDb",
+      "score": 4,
+      "user": "rahuljose",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Despite the interesting concepts presented here, the story is just a mess.",
+      "score": 6,
+      "user": "shadowyx12",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neill Blomkamp has done it...or has he?",
+      "score": 7,
+      "user": "kurtsinteff",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sad, but not in a good way",
+      "score": 3,
+      "user": "Niklas Pivic",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the Worst, but ...",
+      "score": 5,
+      "user": "frellebay-29-238690",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie. Critics failed to realize the movie plot is in the title.",
+      "score": 9,
+      "user": "Andrew Wang",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A reasonable 'mish-mash' of other films",
+      "score": 7,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just terrible...",
+      "score": 1,
+      "user": "Marco Madruga",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fell Asleep Half-Way Through",
+      "score": 1,
+      "user": "CharlieHound",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The most underrated film in a long time. CHAPPiE is incredible",
+      "score": 8,
+      "user": "Daniel Isaac",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Still Not a DISTRICT 9 Sequel",
+      "score": 4,
+      "user": "Mahmoud-Buttrumps",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Every SCI-FI clich\u00e9",
+      "score": 3,
+      "user": "m c",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film is a mess",
+      "score": 4,
+      "user": "Iorec",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Keeps up the momentum of District 9 and Elysium.",
+      "score": 8,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "These 7-10 star reviews are as fictional/unbelievable as the movie.",
+      "score": 3,
+      "user": "tyou32",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Half the viewers walked out.",
+      "score": 1,
+      "user": "Barclays Bainc",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plot holes big enough to drive a Moose through",
+      "score": 5,
+      "user": "Imaculata",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sorry, really big disappointment",
+      "score": 1,
+      "user": "zimi_jd",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really good but feels slightly disappointing when compared to Blomkamp's past work",
+      "score": 8,
+      "user": "Omar Tarbush",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible Story!!!",
+      "score": 2,
+      "user": "jec-enterprises",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Are you kidding me?",
+      "score": 1,
+      "user": "Jesus M Diaz",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Truly, TRULY the singular worst movie I have seen in 34 years of existence.  Why did the other reviewers do this to me?",
+      "score": 1,
+      "user": "Jeremy Jobe",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "came on showtime",
+      "score": 3,
+      "user": "christinemartinez1976",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "6.9 ... again 6.9 out of 160k+ people? Go buy yourselves a pair of new glasses!",
+      "score": 10,
+      "user": "Ivan Caravanio",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent movie, another platinum master piece from the director of District 9 and Elysium",
+      "score": 10,
+      "user": "nightstalker-7",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "revenge on haters",
+      "score": 10,
+      "user": "skipro37",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Underrated Jem (Very Minor Spoilers With Warning Before)",
+      "score": 8,
+      "user": "Robert Kessler",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just watch it. Then think about it",
+      "score": 9,
+      "user": "zeroja2",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film is amazing",
+      "score": 10,
+      "user": "suzie767",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie is cool!",
+      "score": 8,
+      "user": " (lukehiggs)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not perfect but why does everyone expect every film to be?",
+      "score": 8,
+      "user": "fredf-67149",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Robot lives...",
+      "score": 10,
+      "user": "Hakuryuu White-Hurricane",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bit more then just a SciFi Action flick",
+      "score": 9,
+      "user": "851222",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not impressed",
+      "score": 6,
+      "user": "orionschwert",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Johnny 5 meets Robocop. Fun movie all round.",
+      "score": 7,
+      "user": "Marcus James",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just Brilliant",
+      "score": 10,
+      "user": "rajat-khatri",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "this movie mainly targeted nerds",
+      "score": 10,
+      "user": "Muhannad Alduraywish",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Huge potential, huge disappointment",
+      "score": 6,
+      "user": "Steven Dong",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Expected more",
+      "score": 5,
+      "user": "Ronald Henderson",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No originality what so ever.",
+      "score": 6,
+      "user": "S. Naghway",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie is crappy",
+      "score": 1,
+      "user": "James Smith",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "better movie than it looks like",
+      "score": 10,
+      "user": "dontlikeblur",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you enjoyed District 9",
+      "score": 10,
+      "user": "madsthiel",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is an excellent \"robocop - puppetmaster\" hybrid movie....",
+      "score": 8,
+      "user": "theromanempire-1",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In Chappie he tests the audiences patience, in spending an inordinate amount of time with a number of unlikable characters.",
+      "score": 5,
+      "user": "SConIrish",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sad portrayal of a a Sci-Fi Robot.",
+      "score": 4,
+      "user": "ahbindare",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't laugh, I'm being cool.",
+      "score": 5,
+      "user": "CowherPowerForever",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scrappie",
+      "score": 5,
+      "user": "seshasai-tris",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Thing About Chappie is...Well Chappie",
+      "score": 5,
+      "user": "kgaillard",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie the ass-hole robot.",
+      "score": 4,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than the critics says",
+      "score": 6,
+      "user": "amanda_wagner-244-535973",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Utterly stupid...",
+      "score": 1,
+      "user": "floyd beck",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well... no.",
+      "score": 3,
+      "user": "Michal Kolan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was rooting for hugh jackman to shoot all of them",
+      "score": 1,
+      "user": "eymaslacker",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just an annoying movie",
+      "score": 5,
+      "user": "Edgaras Anisimenko",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Shame",
+      "score": 4,
+      "user": "neilireson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not happening",
+      "score": 3,
+      "user": "Anyanwu",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent",
+      "score": 10,
+      "user": "rmcrow-58937",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meh...",
+      "score": 5,
+      "user": "joekanuck",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Completely unoriginal, but good for kids.",
+      "score": 4,
+      "user": "easybullet3",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Avoid this film like the plague!",
+      "score": 4,
+      "user": "cahalmcquillan",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Extended music video for obscure SA rap group, with robots",
+      "score": 4,
+      "user": "Stephan Jones (Proactivity)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An odd blend of Robocop and Short Circuit and",
+      "score": 5,
+      "user": "a_sad_cow",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gangster robots, violence, bad hair choices and life's bigger questions",
+      "score": 5,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A jumbled pile of wasted ideas",
+      "score": 5,
+      "user": "Lucas Versantvoort",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I usually don't write reviews, but this just wasn't good.",
+      "score": 4,
+      "user": "Wayne Duda Ramadi",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hey CHAPPiE Boom Boom, hit me with the Ching-ching",
+      "score": 6,
+      "user": "Critomaton",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "i understand the hate",
+      "score": 2,
+      "user": "elfinspace23",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful - skip it",
+      "score": 3,
+      "user": "aniruddha-72574",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible",
+      "score": 1,
+      "user": "PuddlesGalore",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a review about the AI technology in the film",
+      "score": 8,
+      "user": "blossoms-733-387580",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film was a good idea that failed in execution.",
+      "score": 4,
+      "user": "Ian Johnson",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch Number 5 Lives instead (all of them)",
+      "score": 5,
+      "user": "thempk",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful",
+      "score": 3,
+      "user": "keith-blowes",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It will not end up a classic merely because of its odd lack of depth in covering a common philosophical questions with a not so original depiction",
+      "score": 4,
+      "user": "wpedmonson",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So So",
+      "score": 3,
+      "user": "wehillusa",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie Review",
+      "score": 3,
+      "user": "Nathaniel Jones",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did I Really Just Pay To See This??",
+      "score": 3,
+      "user": "Lance Gibson",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't be fooled!",
+      "score": 2,
+      "user": "Bitoque",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Needs soul.dat",
+      "score": 1,
+      "user": "tommyk1287",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a film for children",
+      "score": 4,
+      "user": "jonnithomas",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not impressed.  I'm done with Blomkamp",
+      "score": 6,
+      "user": "Rat_27",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bit draggy",
+      "score": 4,
+      "user": "ang-cheekeong",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A vapid plot drowns Chappie",
+      "score": 6,
+      "user": "scottshak_111",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Disappointing Film on Many Levels",
+      "score": 5,
+      "user": "wrbones",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie Doesn't Compute",
+      "score": 5,
+      "user": "Matt Greene",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "While not an entirely brainless experiment, too many scrap parts in the script lead Chappie and its cast astray",
+      "score": 5,
+      "user": "Likes_Ninjas90",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Utterly Non-Distinct",
+      "score": 5,
+      "user": "Callum Hofler",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Expected better",
+      "score": 5,
+      "user": "coljam21",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great idea, disappointing plot",
+      "score": 5,
+      "user": "blackdragone",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A missed opportunity",
+      "score": 5,
+      "user": "TDeMona",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie is crappy",
+      "score": 1,
+      "user": "James Smith",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Will keep you engaged 100% of the entire movie",
+      "score": 10,
+      "user": "mikeelp23",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "theatrical experience left me in tears",
+      "score": 9,
+      "user": "dantonstl",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Critics should be banned from watching movies",
+      "score": 9,
+      "user": "James Callahan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I hate critics who can't judge a movie like Chappie.",
+      "score": 10,
+      "user": "Abhinav Sureka",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been Terrific, but for some Writing",
+      "score": 3,
+      "user": "wayne-689-733260",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crappy Chappie",
+      "score": 3,
+      "user": "headly66",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really Unoriginal",
+      "score": 5,
+      "user": "tjgoalie13",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Skip this one",
+      "score": 5,
+      "user": "Laakbaar",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Peculiar But Worth Watching",
+      "score": 8,
+      "user": "Nikolas Robinson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Short circuit remake",
+      "score": 1,
+      "user": "suedenim-15856",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a very dangerous movie",
+      "score": 1,
+      "user": "rains01",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thee worst movie I've ever seen Jackman in and Weaver",
+      "score": 1,
+      "user": "lainemoeke",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The worst movie ever!",
+      "score": 1,
+      "user": "tim-k-1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie the Crappy",
+      "score": 1,
+      "user": "tibi_tm2004",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Disappointing Effort From Neil Blomkamp",
+      "score": 5,
+      "user": " (Pulpthatsfiction)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Chappie' Boasts Interesting Ideas But Is Ultimately A Familiar and Derivative Sci-Fi Adventure",
+      "score": 5,
+      "user": "rjsf96",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Still not quite there Neill Blomkamp, I know you can make a masterpiece",
+      "score": 7,
+      "user": "jdkraus",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bad version of GTA: San Andreas",
+      "score": 2,
+      "user": "schmatzler",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I am disappointed!",
+      "score": 4,
+      "user": "petarmatic",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hollow and misguided but still intriguing",
+      "score": 5,
+      "user": "Hint523",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Implausible. Annoying.",
+      "score": 5,
+      "user": "Mike Bell",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poorly executed...",
+      "score": 4,
+      "user": "Louis Gur",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"RoboCop\" meets \"Frankenstein\" by way of \"E.T\".  A winning combo of whimsy and wow!",
+      "score": 9,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie the robot wants to live, but Chappie the movie is more like a violent gun crazy kid on too much sugar",
+      "score": 4,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A hopefully tragic misstep in the career of an immensely talented director",
+      "score": 4,
+      "user": "Tom Orrow",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inane Script, Inane Characters, Inane Plot, and Scurrying Patel Only Makes It Lots Worse",
+      "score": 3,
+      "user": "ken558",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible movie",
+      "score": 4,
+      "user": "AngusMcK",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movie consisting of Plot-holes",
+      "score": 4,
+      "user": "Guderian2 .",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointment.",
+      "score": 6,
+      "user": "ataturkman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocre film...Horrible ending!!!",
+      "score": 3,
+      "user": "halldavidh",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "just bad",
+      "score": 3,
+      "user": "golf-89394",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Replace the \"h\" with an \"r\"",
+      "score": 3,
+      "user": "MediaPanther",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Frenetic, overblown, and yet under-developed, this mash-up of 'Robocop' and 'Short Circuit' is a jumbled mess made from recycled parts of much better sci-fi equivalents",
+      "score": 4,
+      "user": "moviexclusive",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Questionable Underlying Theme...",
+      "score": 4,
+      "user": "danirindge",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Black Sheep",
+      "score": 4,
+      "user": "omnimog",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappie is far away from District 9",
+      "score": 5,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too Much \"Consciousness\" (Minor spoilers)",
+      "score": 7,
+      "user": "austonian77",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kids completely knocked out!!!",
+      "score": 2,
+      "user": "dantharpe",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 120,
+  "votes_per_demo": {
+    "aged_45+": 11818,
+    "top_1000_voters": 476,
+    "males_under_18": 635,
+    "imdb_staff": 18,
+    "males_aged_18-29": 54909,
+    "imdb_users": 184179,
+    "males_aged_45+": 10173,
+    "aged_18-29": 64646,
+    "us_users": 18410,
+    "females_aged_30-44": 6413,
+    "males": 131949,
+    "females": 18286,
+    "females_aged_45+": 1410,
+    "non-us_users": 88709,
+    "females_aged_18-29": 8987,
+    "females_under_18": 128,
+    "aged_30-44": 65232,
+    "aged_under_18": 768,
+    "males_aged_30-44": 57803
+  },
   "genres": [
     "action",
     "crime",
     "drama"
   ],
-  "release_month": "March",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.5,
-    "aged_18-29": 7.0,
-    "aged_30-44": 6.8,
-    "females": 6.9,
-    "top_1000_voters": 6.1,
-    "non-us_users": 6.8,
-    "females_under_18": 7.7,
-    "males_aged_30-44": 6.8,
-    "us_users": 6.7,
-    "imdb_users": 6.9,
-    "imdb_staff": 6.9,
-    "males_under_18": 7.1,
-    "females_aged_18-29": 7.1,
-    "males_aged_45+": 6.5,
-    "females_aged_30-44": 6.8,
-    "males": 6.8,
-    "males_aged_18-29": 7.0,
-    "females_aged_45+": 6.6,
-    "aged_under_18": 7.2
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Chappie",
-  "gross_income": 31569268,
-  "user_review_count": 649,
-  "duration": 120,
-  "max_screens": 3201,
-  "votes_per_demo": {
-    "aged_45+": 11813,
-    "aged_18-29": 64629,
-    "aged_30-44": 65204,
-    "females": 18277,
-    "top_1000_voters": 476,
-    "non-us_users": 88678,
-    "females_under_18": 128,
-    "males_aged_30-44": 57778,
-    "us_users": 18399,
-    "imdb_users": 184099,
-    "imdb_staff": 18,
-    "males_under_18": 635,
-    "females_aged_18-29": 8981,
-    "males_aged_45+": 10168,
-    "females_aged_30-44": 6410,
-    "males": 131907,
-    "males_aged_18-29": 54899,
-    "females_aged_45+": 1410,
-    "aged_under_18": 769
+  "rating_freq": {
+    "1": 3504,
+    "2": 2444,
+    "3": 4100,
+    "4": 7009,
+    "5": 14513,
+    "6": 29134,
+    "7": 49078,
+    "8": 39530,
+    "9": 18026,
+    "10": 16841
   },
-  "rating_count": 184099,
+  "release_month": "March",
+  "budget": 49000000,
+  "budget_currency": "$",
+  "total_screens": 10664,
+  "year": 2015,
+  "rating": 6.9,
   "critic_review_count": 375,
-  "opening_weekend_income": 13346782
+  "opening_weekend_date": {
+    "month": 3,
+    "year": 2015,
+    "day": 6,
+    "__type__": "datetime.date"
+  },
+  "name": "Chappie",
+  "user_review_count": 649,
+  "avg_screens": 1333.0
 }

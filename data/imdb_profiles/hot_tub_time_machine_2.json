@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 2,
-    "year": 2015,
-    "day": 20,
-    "__type__": "datetime.date"
+  "release_day": 20,
+  "avg_rating_per_demo": {
+    "aged_45+": 4.6,
+    "top_1000_voters": 4.4,
+    "males_under_18": 5.5,
+    "imdb_staff": 4.3,
+    "males_aged_18-29": 5.3,
+    "imdb_users": 5.1,
+    "males_aged_45+": 4.6,
+    "aged_18-29": 5.3,
+    "us_users": 5.2,
+    "females_aged_30-44": 4.8,
+    "males": 5.1,
+    "females": 5.0,
+    "females_aged_45+": 4.7,
+    "non-us_users": 5.0,
+    "females_aged_18-29": 5.2,
+    "females_under_18": 6.6,
+    "aged_30-44": 4.9,
+    "aged_under_18": 5.6,
+    "males_aged_30-44": 4.9
   },
   "closing_date": {
     "month": 3,
@@ -11,81 +27,1121 @@
     "day": 20,
     "__type__": "datetime.date"
   },
-  "rating": 5.1,
-  "num_weekends": 5,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 1579,
-    "2": 1569,
-    "3": 2530,
-    "4": 4184,
-    "5": 6890,
-    "6": 6679,
-    "7": 3629,
-    "8": 1416,
-    "9": 491,
-    "10": 1120
-  },
-  "avg_screens": 1384.4,
-  "budget": 14000000,
-  "budget_currency": "$",
-  "release_day": 20,
   "metascore": 29,
+  "num_weekends": 5,
+  "rating_count": 30096,
+  "gross_income": 12282677,
+  "max_screens": 2901,
+  "opening_weekend_screens": 2880,
+  "screens_by_weekend": [
+    2880,
+    2901,
+    900,
+    136,
+    105
+  ],
+  "opening_weekend_income": 5963324,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Grosser than its predecessor and unfortunately shorter on laughs.",
+      "score": 5,
+      "user": "Andrew Gold",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heartless mess",
+      "score": 4,
+      "user": "swaldyn",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I left the theater asking myself \"What was that\"?",
+      "score": 3,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a good thing when the only real laughs come in the closing credits",
+      "score": 3,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste",
+      "score": 1,
+      "user": "J. Best",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yea, Sure it's terrible. It's still funny.",
+      "score": 7,
+      "user": "chipdfctoo",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolute garbage",
+      "score": 2,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I thought this was supposed to be a comedy",
+      "score": 2,
+      "user": "brain smasher",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Waste of Time (Travel)",
+      "score": 1,
+      "user": "SeamusMacDuff",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Seriously, literally, the worst major release I've ever seen",
+      "score": 2,
+      "user": "kevrhon-1",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I love goof-ball comedies, but this one's sucking on the bottom of the Mariana Trench.",
+      "score": 1,
+      "user": "George Richman",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why All The Hate? There's Lots To Love!",
+      "score": 8,
+      "user": "Steve Christensen (steveisfree4eva@yahoo.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boy, what a sequel. I say with heavy sarcasm",
+      "score": 2,
+      "user": "nukeman-00359",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful and best avoided",
+      "score": 2,
+      "user": "kingdaviduk",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Worst Comedy Ever? Possibly",
+      "score": 1,
+      "user": "rjsf96",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I thought it was OK/good, and made me giggle",
+      "score": 8,
+      "user": "startroopers",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An average silly comedy",
+      "score": 5,
+      "user": "alindsay-al",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not sure why I'm even giving it a 2",
+      "score": 2,
+      "user": "OneEightNine Media",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful jokes with a terrible storyline! 1/10",
+      "score": 1,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Watched Under The Influence",
+      "score": 7,
+      "user": "A K",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "From the \"Sequels We Didn't Need Department\"",
+      "score": 3,
+      "user": "aesgaard41",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stupid, Waste of Time",
+      "score": 1,
+      "user": "jdragonforce",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Plot is weak ,, to be fair, there were some laughs and giggles here and there ,, but not sure that was enough to save some of the movie's dignity...",
+      "score": 4,
+      "user": "Aktham Tashtush",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Has a few laughs...",
+      "score": 6,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Landing in a wrong timeline!",
+      "score": 5,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you loved the first one than you will love this one too:)",
+      "score": 8,
+      "user": "bird1515",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Come for the Performances, Leave for the Story",
+      "score": 5,
+      "user": "Jake-60",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Doesn't compare to the original",
+      "score": 3,
+      "user": "Floated2",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hot Tub Time Mreh-chine",
+      "score": 5,
+      "user": "dana-charter",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hot  Tub  Time  Machine  2",
+      "score": 4,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lackluster sequel",
+      "score": 5,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad.",
+      "score": 2,
+      "user": "cristi_u",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Benefits from repeat viewings",
+      "score": 7,
+      "user": "Christopher Smith",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Honey I Shrunk the Kids Met Revenge of the Nerds",
+      "score": 7,
+      "user": "pjbhaumik",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cusak wisely got out while the tub was hot.",
+      "score": 3,
+      "user": "witster18",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Couldn't even finish it.",
+      "score": 2,
+      "user": "martin-busek",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well, if anything, it makes the first one better by comparison...",
+      "score": 2,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful Complete Garbage of a Movie",
+      "score": 1,
+      "user": "davidfarad",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 3,
+      "user": "capone666",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not funny at all. A blatant cash-grab.",
+      "score": 1,
+      "user": "Thomas Vanhoutte",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Even worth the price of admission....",
+      "score": 2,
+      "user": "Thomas West",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better but just as crude",
+      "score": 6,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "jolly good fun from start to finish",
+      "score": 8,
+      "user": "ologyism",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hot Tub Time Machine 2' delivers the laughs often, even if many things don't make sense or play out.",
+      "score": 6,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hot Tub Time Machine 2 may become a forgettable movie but it's a fun ride",
+      "score": 8,
+      "user": "Mikey Lee Smith",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't put it on a pedestal",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as good, but still worth the trip",
+      "score": 6,
+      "user": "Fluke_Skywalker",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't think about the the plot holes or your head might explode",
+      "score": 8,
+      "user": "smsetayesh",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't Even Bother",
+      "score": 1,
+      "user": "dewittra2",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Funny",
+      "score": 10,
+      "user": "russrcaldwell-49076",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "hateful Lou overpowers chemistry",
+      "score": 3,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not very funny, (but OK), sequel, about a bunch of losers landing in hot water, (again).",
+      "score": 6,
+      "user": "Bo Atdrinks",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Painfully awful, unfunny sequel to the original",
+      "score": 1,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A rare sequel that I thought was better then the original. I liked it much more than I expected to.",
+      "score": 6,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unwatchable",
+      "score": 1,
+      "user": "filmtravel101",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's got huge balls, literally!",
+      "score": 8,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such a disappointment",
+      "score": 1,
+      "user": "Ted Nothnagle (ted@tnothnagle.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hot Tub Horrible",
+      "score": 3,
+      "user": "Henry Goodrow",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flatter and as tasteless as tap water",
+      "score": 3,
+      "user": "NN GG",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Travel to the future to change the past now I've seen it all.  Forget this one.",
+      "score": 3,
+      "user": "InsideABanSheesMind",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inevitable, but also inevitably well below the standards of the first film",
+      "score": 4,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Late review (Sorry)",
+      "score": 4,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's mildly amusing, a watchable comedy",
+      "score": 4,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why no Cusack?",
+      "score": 6,
+      "user": "mohancraig",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wish I could go back in time and not watch it!",
+      "score": 2,
+      "user": "Christopher Wilson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Come to expect this from sequels",
+      "score": 3,
+      "user": "cammymadden",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "HTTM2 is about the same as the first",
+      "score": 5,
+      "user": "marlene-harkcom",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why do comedies keep getting bad reviews on IMDb? This movie was great and got a 5!!?!??!",
+      "score": 10,
+      "user": "misterphilipj",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't watch Hot Tub Time Machine 2",
+      "score": 1,
+      "user": "nikosafer",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "59 Minutes",
+      "score": 6,
+      "user": "CowherPowerForever",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cincinatti anyone???",
+      "score": 7,
+      "user": "drazeus1",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not nearly as bad as I feared",
+      "score": 7,
+      "user": "Ryan",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Vile, foul, repugnant -- a total departure from the first film.",
+      "score": 3,
+      "user": "MovieAddict2016",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If Al Einstein and Steve-O Hawking . . .",
+      "score": 6,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A wasted opportunity",
+      "score": 5,
+      "user": "Mark Brooks",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "First Time ever",
+      "score": 1,
+      "user": "Alanjackd",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Master piece",
+      "score": 1,
+      "user": "issachar",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cusack Is Winning",
+      "score": 4,
+      "user": "callanvass",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Hot Tub Time Machine 2\"goes too far with the gleeful naughtiness that made the first film work.",
+      "score": 3,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of Hot Tub Time Machine 2",
+      "score": 6,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Movie I Waited 5 Long Years to See!!!",
+      "score": 8,
+      "user": "Pumpkin_Man",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "pg 13",
+      "score": 8,
+      "user": "dantonstl",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not nearly as great as the first movie.",
+      "score": 5,
+      "user": "xMartyMcFlyx",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie was so much better than I thought",
+      "score": 8,
+      "user": "Thefilmhead65411",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you object to Comedies being too long, you should stick to music videos.",
+      "score": 4,
+      "user": "db-beurylaw",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not your grandma's time travel movie",
+      "score": 5,
+      "user": "Drive-in_Zeppelin",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'd rather see Streeping it Real....",
+      "score": 2,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very funny!!",
+      "score": 9,
+      "user": "gretebest",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The continuing exploration of one of cinema's wackiest contemporary ideas",
+      "score": 7,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hot Tub Scalding with stupidity and laughs",
+      "score": 6,
+      "user": "visforhendrix23",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, but not as funny as the first.",
+      "score": 6,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not As Good As The First One",
+      "score": 5,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Freakin' hilarious!",
+      "score": 10,
+      "user": "www.ramascreen.com",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Whoa whoa whoa!!! It\"s funny and it\"s good slow down !",
+      "score": 8,
+      "user": "marinkojason",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Had To Google The Jokes To Understand Them",
+      "score": 3,
+      "user": "Theo Robertson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 93,
+  "votes_per_demo": {
+    "aged_45+": 1958,
+    "top_1000_voters": 244,
+    "males_under_18": 94,
+    "imdb_staff": 3,
+    "males_aged_18-29": 9582,
+    "imdb_users": 30096,
+    "males_aged_45+": 1713,
+    "aged_18-29": 11005,
+    "us_users": 5665,
+    "females_aged_30-44": 980,
+    "males": 22791,
+    "females": 2683,
+    "females_aged_45+": 208,
+    "non-us_users": 13895,
+    "females_aged_18-29": 1303,
+    "females_under_18": 13,
+    "aged_30-44": 11297,
+    "aged_under_18": 107,
+    "males_aged_30-44": 10185
+  },
   "genres": [
     "comedy",
     "sci-fi"
   ],
-  "release_month": "February",
-  "avg_rating_per_demo": {
-    "aged_45+": 4.6,
-    "aged_18-29": 5.3,
-    "aged_30-44": 4.9,
-    "females": 5.0,
-    "top_1000_voters": 4.4,
-    "non-us_users": 5.0,
-    "females_under_18": 6.6,
-    "males_aged_30-44": 4.9,
-    "us_users": 5.2,
-    "imdb_users": 5.1,
-    "imdb_staff": 4.3,
-    "males_under_18": 5.5,
-    "females_aged_18-29": 5.2,
-    "males_aged_45+": 4.6,
-    "females_aged_30-44": 4.8,
-    "males": 5.1,
-    "males_aged_18-29": 5.3,
-    "females_aged_45+": 4.7,
-    "aged_under_18": 5.6
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Hot Tub Time Machine 2",
-  "gross_income": 12282677,
-  "user_review_count": 98,
-  "duration": 93,
-  "max_screens": 2901,
-  "votes_per_demo": {
-    "aged_45+": 1958,
-    "aged_18-29": 11006,
-    "aged_30-44": 11290,
-    "females": 2682,
-    "top_1000_voters": 244,
-    "non-us_users": 13892,
-    "females_under_18": 12,
-    "males_aged_30-44": 10178,
-    "us_users": 5663,
-    "imdb_users": 30087,
-    "imdb_staff": 3,
-    "males_under_18": 94,
-    "females_aged_18-29": 1303,
-    "males_aged_45+": 1713,
-    "females_aged_30-44": 980,
-    "males": 22785,
-    "males_aged_18-29": 9583,
-    "females_aged_45+": 208,
-    "aged_under_18": 106
+  "rating_freq": {
+    "1": 1579,
+    "2": 1570,
+    "3": 2531,
+    "4": 4186,
+    "5": 6892,
+    "6": 6682,
+    "7": 3629,
+    "8": 1415,
+    "9": 492,
+    "10": 1120
   },
-  "rating_count": 30087,
+  "release_month": "February",
+  "budget": 14000000,
+  "budget_currency": "$",
+  "total_screens": 6922,
+  "year": 2015,
+  "rating": 5.1,
   "critic_review_count": 110,
-  "opening_weekend_income": 5963324
+  "opening_weekend_date": {
+    "month": 2,
+    "year": 2015,
+    "day": 20,
+    "__type__": "datetime.date"
+  },
+  "name": "Hot Tub Time Machine 2",
+  "user_review_count": 98,
+  "avg_screens": 1384.4
 }

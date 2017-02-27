@@ -1,90 +1,1542 @@
 {
-  "num_weekends": 5,
-  "duration": 98,
+  "budget": null,
+  "opening_weekend_income": 6526650,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 30,
+    "__type__": "datetime.date",
+    "month": 3
+  },
+  "budget_currency": null,
+  "avg_screens": 1231.4,
   "rating_freq": {
     "1": 2135,
     "2": 1843,
     "3": 3142,
     "4": 6546,
-    "5": 13195,
+    "5": 13194,
     "6": 16973,
     "7": 11123,
     "8": 4654,
     "9": 1690,
-    "10": 2544
+    "10": 2545
   },
-  "release_year": 2012,
-  "budget_currency": null,
-  "rating": 5.6,
-  "release_day": 24,
-  "budget": null,
-  "votes_per_demo": {
-    "us_users": 13458,
-    "imdb_users": 63845,
-    "aged_30-44": 26330,
-    "males": 40013,
-    "males_aged_18-29": 14635,
-    "top_1000_voters": 369,
-    "females_aged_30-44": 6207,
-    "imdb_staff": 14,
-    "females": 16264,
-    "females_aged_45+": 1120,
-    "females_under_18": 30,
-    "aged_under_18": 58,
-    "aged_45+": 5307,
-    "females_aged_18-29": 8098,
-    "non-us_users": 31880,
-    "males_aged_45+": 4104,
-    "males_under_18": 27,
-    "aged_18-29": 22951,
-    "males_aged_30-44": 19811
-  },
-  "metascore": 53,
-  "avg_rating_per_demo": {
-    "us_users": 5.9,
-    "imdb_users": 5.6,
-    "aged_30-44": 5.5,
-    "males": 5.6,
-    "males_aged_18-29": 5.7,
-    "top_1000_voters": 5.1,
-    "females_aged_30-44": 5.6,
-    "imdb_staff": 5.3,
-    "females": 5.7,
-    "females_aged_45+": 5.7,
-    "females_under_18": 6.0,
-    "aged_under_18": 6.2,
-    "aged_45+": 5.5,
-    "females_aged_18-29": 5.7,
-    "non-us_users": 5.5,
-    "males_aged_45+": 5.5,
-    "males_under_18": 6.4,
-    "aged_18-29": 5.7,
-    "males_aged_30-44": 5.5
-  },
+  "screens_by_weekend": [
+    2002,
+    2002,
+    1220,
+    698,
+    235
+  ],
   "rating_count": 63845,
-  "critic_review_count": 162,
-  "opening_weekend_income_currency": "$",
-  "name": "Wanderlust",
-  "user_review_count": 139,
-  "avg_screens": 1231.4,
-  "release_month": "February",
-  "opening_weekend_date": {
-    "day": 24,
-    "month": 2,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "total_screens": 6157,
   "max_screens": 2002,
+  "duration": 98,
   "gross_income": 17225675,
+  "metascore": 53,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 369,
+    "imdb_users": 63845,
+    "us_users": 13457,
+    "aged_18-29": 22946,
+    "non-us_users": 31880,
+    "aged_45+": 5307,
+    "aged_30-44": 26335,
+    "males_aged_30-44": 19814,
+    "males_aged_18-29": 14632,
+    "males_aged_45+": 4104,
+    "aged_under_18": 58,
+    "imdb_staff": 14,
+    "males_under_18": 27,
+    "females_aged_30-44": 6209,
+    "females": 16264,
+    "females_under_18": 30,
+    "females_aged_45+": 1120,
+    "males": 40013,
+    "females_aged_18-29": 8096
+  },
+  "user_review_count": 139,
+  "rating": 5.6,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 5.1,
+    "imdb_users": 5.6,
+    "us_users": 5.9,
+    "aged_18-29": 5.7,
+    "non-us_users": 5.5,
+    "aged_45+": 5.5,
+    "aged_30-44": 5.5,
+    "males_aged_30-44": 5.5,
+    "males_aged_18-29": 5.7,
+    "males_aged_45+": 5.5,
+    "aged_under_18": 6.2,
+    "imdb_staff": 5.3,
+    "males_under_18": 6.4,
+    "females_aged_30-44": 5.6,
+    "females": 5.7,
+    "females_under_18": 6.0,
+    "females_aged_45+": 5.7,
+    "males": 5.6,
+    "females_aged_18-29": 5.7
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 24,
+    "__type__": "datetime.date",
+    "month": 2
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "jrragan",
+      "contents": "Random, vulgar, and uncomfortable.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "JaniceNicole",
+      "contents": "Tries too hard",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Not good.  Don't see it.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Wayne Anderson",
+      "contents": "Wanderlust No Spoilers",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "andiam-1",
+      "contents": "POINTLESS SATIRE (spoiler alert, if anyone cares)",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "A. newbroom",
+      "contents": "I laughed, I cried, I got angry, but mostly I laughed!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Ines Witherspoon",
+      "contents": "Confused at the negative reviews.....",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "james-395-551090",
+      "contents": "I don't understand the hate..",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "jhartman1-2",
+      "contents": "Horrid!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Ary Monteiro",
+      "contents": "I truly enjoyed this",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Guy Stevens",
+      "contents": "Flawed but funny, edgy comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "TheTruthDoor",
+      "contents": "10 Minutes of Funny - ** Definitely Not For Children **",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "the guy on the couch (themoviecouch.blogspot.com)",
+      "contents": "My face hurts!",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Susan Stewart",
+      "contents": "Hilarious is you remember the late 1960's",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Paul Anthony",
+      "contents": "Uncomfortable to watch, Ridiculous and WEIRD!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "amshotwell",
+      "contents": "Loved it and I really laughed but may not be for everyone",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Christian_Dimartino",
+      "contents": "The funniest movie since Bridesmaids.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "seagem",
+      "contents": "Sophomoric Softie",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "Heidi Standell",
+      "contents": "Not a bad movie, but can Aniston ever not act \"Aniston\"?",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Massimiliano Masetti",
+      "contents": "Offensive to brain owners",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "thesar-2",
+      "contents": "No One Would Lust Over This",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "rossangela",
+      "contents": "Mirror Scene Makes the Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "waldo621",
+      "contents": "I understand if people don't like this movie but I really enjoyed it.",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Twins65",
+      "contents": "A 2nd rate attempt at a \"Lost In America\" update, minus the consistent humor",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "fischfin",
+      "contents": "I don't get the negative reviews. I thought it was hilarious.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "brando647",
+      "contents": "A Lazy, Disappointing Comedy of Hippie Clich\u00e9s",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "are hippies funny...",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Fearinahandfullofdust",
+      "contents": "What a piece of garbage",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "Terrible and Unfunny Silliness",
+      "review_date": {
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "headstocki",
+      "contents": "Surprisingly Disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Samer b",
+      "contents": "Stupidest movie I watched in the last decade!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "Dreadful,...",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "Wanderlust",
+      "review_date": {
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "dierregi",
+      "contents": "Occasionally funny, never intentionally so",
+      "review_date": {
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "bp Smith",
+      "contents": "unfunny, sexist, direct-to-streaming tripe",
+      "review_date": {
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "mgulev",
+      "contents": "Not bad but not a winner in the long run",
+      "review_date": {
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Aniston Non Nude Tripe.",
+      "review_date": {
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Josh",
+      "contents": "Average, doesn't deserve all the hate",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "David Holt (rawiri42)",
+      "contents": "Not great - but not rubbish either.",
+      "review_date": {
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Prismark10",
+      "contents": "Wanderful life",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "g-bodyl",
+      "contents": "Funny, But Could Have Been Funnier!",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "cablooie",
+      "contents": "Stay away, Jennifer Aniston is kissing goodbye her career...",
+      "review_date": {
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "latinohabanero",
+      "contents": "Not worth it, only 2 mins of comedy",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "Jacob Rosen (bix171@comcast.net)",
+      "contents": "Wanderlust",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "Marijan Nikic",
+      "contents": "Not worth watching",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "sandyb0802",
+      "contents": "Hilarious!",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Gimplet",
+      "contents": "Fun time not for the faint of heart",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Jayson Smith",
+      "contents": "Great, funny film!",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Rameshwar IN",
+      "contents": "Avoid, there are a 100 better movies whichever way you look",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "scstroh",
+      "contents": "Lighthearted entertainment",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "aliciadipesto",
+      "contents": "What a laugh!!",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "TxMike",
+      "contents": "Just a nasty, offbeat comedy that is just a bit too dirty to be good.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "george2015",
+      "contents": "Below Belt Flop",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Comedy is a funny thing",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "movieman_kev",
+      "contents": "Wonder how this film got green lighted",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Ace Rawrman",
+      "contents": "Waste of Time",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "zetes",
+      "contents": "Really funny. I have no idea what film critics and audiences saw, but it wasn't this one.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "A very funny comedy that is not for the easily offended. Rudd has great line delivery as always. Cast is hilarious. I say B+",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Quietb-1",
+      "contents": "Plenty of wander not much lust.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "makara79",
+      "contents": "Unpredictable and hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "soko355",
+      "contents": "If you were a fan of The State, and are a fan of irreverent humor in general, you'll like it",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "It just never really gets any good.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "frauhicks-1",
+      "contents": "Farming is simple",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "chrismsawin",
+      "contents": "Raunchy, vulgar, disgusting, and downright hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "IzEvents",
+      "contents": "Let's wear flowers in your hair",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "callist",
+      "contents": "A mixed pleasure",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Dan Franzen (dfranzen70)",
+      "contents": "Steady comedy fare, and nothing more",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "oncel_ilhan",
+      "contents": "Funny and entertaining :)",
+      "review_date": {
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "ty_lattimore2007",
+      "contents": "Laughing Good Time",
+      "review_date": {
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Rodenmm",
+      "contents": "Hippies and Yuppies--both realistic",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "cjaii714",
+      "contents": "good lazy Sunday movie",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Roberta Reppy",
+      "contents": "Not for kids... but very funny",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "kspeis",
+      "contents": "A couple is forced to choose between living under the rules of the open community they love, and forgo their materialistic ways, or, resort back to their normal lives.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "A mediocre, but not boring, comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Anton Thomas",
+      "contents": "And the answer is NO.. you don't see them.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Justin Theroux, in my opinion, steals the show!",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "MC1-Bjornson",
+      "contents": "Wander Where?",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "ieatdogsforbreakfast",
+      "contents": "C*ck Soup",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "m-afrodith",
+      "contents": "Jennifer, stop making movies!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "tiredoftry",
+      "contents": "This could have been a good movie",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "jimmybeachbum",
+      "contents": "wtf",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "jnova20",
+      "contents": "Funny!!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "Welcome to Elysium...",
+      "review_date": {
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "tieman64",
+      "contents": "I drink the nourishment that Gaia is feeding me through her cloud teats",
+      "review_date": {
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Jennifer Aniston should stop making rom-coms",
+      "review_date": {
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Obnoxious but not all that funny",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Roedy Green",
+      "contents": "Utterly Predictable",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "Robert G. Small, MD",
+      "contents": "Good acting but screen writing not great",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "phd_travel",
+      "contents": "Funny parts throughout",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "WatchedAllMovies",
+      "contents": "a pointless movie",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "CumClarity",
+      "contents": "Not to shabby, but not Kevin smith funny",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Justine Goodwin",
+      "contents": "Utter Rubbish",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "jsorenson777",
+      "contents": "quite bad at best",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "moonspinner55",
+      "contents": "City couple gets stuck in the sticks with the Bohemian hicks...the pits!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "bdgill12",
+      "contents": "Not a Whole Lot Worth Noting",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "mikeld369",
+      "contents": "Save your money!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "peace5491",
+      "contents": "Just awful!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "flakfan",
+      "contents": "Is anyone here tired of Jennifer Anniston yet?",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "GoneWithTheTwins",
+      "contents": "An abundance of crude ruses overpowers the eccentricities of the characters.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "Ron Mike Gehret (toanman)",
+      "contents": "An actually funny comedy, refreshing LOL",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "treeskier802",
+      "contents": "Let's Join A Commune!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "simplynewt",
+      "contents": "Not So Good",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "pocky fdadada",
+      "contents": "Not terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "lagudafuad",
+      "contents": "Go see another movie",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Colin Douglas Brackenridge",
+      "contents": "Funny and wildly inappropriate (in a good way)",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Josh Broudy",
+      "contents": "One of the dirtiest Rated R Movies I've Ever Seen",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Jake Coffey",
+      "contents": "Wanderlust",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "estimatedprophet-301-118446",
+      "contents": "Dry humor at its best",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Hollywoodshack",
+      "contents": "Awkward blend of sitcom and film",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "Eh, another Judd Apatow Rom-Com!!!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "armanut86",
+      "contents": "you wanna know why you should see this movie OK read this",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "contents": "Frequently hilarious fish-out-of water, high-concept comedy; Rudd & Aniston shine",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "cultfilmfreaksdotcom",
+      "contents": "Grief Or Madness",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Steven",
+      "contents": "This was hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Mandy Creighton",
+      "contents": "Intentional Community gives me hope for a sustainable future",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "napierslogs",
+      "contents": "Good people living with hippies with no intelligent thoughts or humour",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "loco_73",
+      "contents": "When Paul Rudd ruled the Earth...",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "DoctorRabbit",
+      "contents": "Never Lives Up To It's Full Potential",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "reneemsm",
+      "contents": "One big \"meh\"",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "Richard Reilly (FFman@comcast.net)",
+      "contents": "Aniston Ruins a Good Idea",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "thomas green",
+      "contents": "This movie is why i created an IMDb account",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "patsworld",
+      "contents": "Tacky Is As Tacky Does",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "ccbernese",
+      "contents": "Michaela Watkins is a hysterical! You will enjoy this Film! =Funny!",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "kwalker159",
+      "contents": "I've Just Seen This On DVD",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Padraig Walsh (DiSTuRBeDx)",
+      "contents": "I'm gonna get it all up in you.",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "anthonymarinelli98",
+      "contents": "an 8 for filming it",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "The Jokes start to wear thin quickly.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "contents": "'Wanderlust' overcomes meandering plot with quirky characters and organic humor",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "PWNYCNY",
+      "contents": "Before you go to a nudist colony, watch this movie first.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "MBunge",
+      "contents": "Julia Roberts doesn't take roles like this",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "simplerlife-1",
+      "contents": "Lingers positively in my Psyche...looking forward to Within Reach \"the Real\" wanderlust story",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    }
+  ],
+  "release_month": "February",
   "genres": [
     "comedy"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 30,
-    "month": 3,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 6526650
+  "opening_weekend_screens": 2002,
+  "name": "Wanderlust",
+  "num_weekends": 5,
+  "release_day": 24,
+  "critic_review_count": 162
 }

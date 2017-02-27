@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 7,
-    "year": 2015,
-    "day": 17,
-    "__type__": "datetime.date"
+  "release_day": 17,
+  "avg_rating_per_demo": {
+    "aged_45+": 7.3,
+    "top_1000_voters": 6.9,
+    "males_under_18": 7.8,
+    "imdb_staff": 7.2,
+    "males_aged_18-29": 7.4,
+    "imdb_users": 7.3,
+    "males_aged_45+": 7.3,
+    "aged_18-29": 7.4,
+    "us_users": 7.5,
+    "females_aged_30-44": 7.3,
+    "males": 7.3,
+    "females": 7.4,
+    "females_aged_45+": 7.5,
+    "non-us_users": 7.2,
+    "females_aged_18-29": 7.5,
+    "females_under_18": 8.1,
+    "aged_30-44": 7.2,
+    "aged_under_18": 7.9,
+    "males_aged_30-44": 7.2
   },
   "closing_date": {
     "month": 12,
@@ -11,82 +27,6042 @@
     "day": 11,
     "__type__": "datetime.date"
   },
-  "rating": 7.3,
-  "num_weekends": 19,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 3037,
-    "2": 1522,
-    "3": 2400,
-    "4": 4694,
-    "5": 13549,
-    "6": 41856,
-    "7": 105410,
-    "8": 108894,
-    "9": 41513,
-    "10": 30880
-  },
-  "avg_screens": 1338.578947368421,
-  "budget": 130000000,
-  "budget_currency": "$",
-  "release_day": 17,
   "metascore": 64,
+  "num_weekends": 19,
+  "rating_count": 354016,
+  "gross_income": 180191634,
+  "max_screens": 3868,
+  "opening_weekend_screens": 3856,
+  "screens_by_weekend": [
+    3856,
+    3868,
+    3322,
+    2910,
+    2306,
+    2016,
+    1690,
+    1527,
+    1354,
+    977,
+    477,
+    195,
+    139,
+    181,
+    161,
+    146,
+    131,
+    106,
+    71
+  ],
+  "opening_weekend_income": 57225526,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Better than I thought it would be",
+      "score": 8,
+      "user": "Dana Sibilsky",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was not expecting this... Brilliant addition to the MCU.",
+      "score": 9,
+      "user": " (lukehiggs)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant Man is astonishing.",
+      "score": 10,
+      "user": "Hal Aje",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mammoth in its Tiniest Form",
+      "score": 8,
+      "user": "prospectus_capricornium",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's f-ant-astic.",
+      "score": 8,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Great Change From Marvel's Previous Movies",
+      "score": 9,
+      "user": "Ben Schwarz",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Ant-Man', Marvel's little hero",
+      "score": 8,
+      "user": "TheFilmReviewer",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best superhero movies yet",
+      "score": 9,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "2 legs bad; 6 legs better",
+      "score": 8,
+      "user": "bob-the-movie-man",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How could anyone who's seen more than 100 movies in their life, find this awesome?(minimal spoilers)",
+      "score": 1,
+      "user": "Cirja Onisim",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable,funny but weak villain yet again.",
+      "score": 8,
+      "user": "rbmaclachlan",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lot for so little....",
+      "score": 2,
+      "user": "s3276169",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It is funny, it is action-packed, it makes not much sense",
+      "score": 6,
+      "user": "tenshi_ippikiookami",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly enjoyable",
+      "score": 8,
+      "user": "p-jonsson",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Point At Which I Stop Watching This Infantile Product",
+      "score": 2,
+      "user": "sparkytb",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Deserves to be crushed under a shoe",
+      "score": 1,
+      "user": "bob_bear",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disintegration!",
+      "score": 8,
+      "user": "OneEightNine Media",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Odd, but good",
+      "score": 7,
+      "user": "dsalouk",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel did it again..",
+      "score": 9,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Rudd saves otherwise perfectly average B-movie",
+      "score": 5,
+      "user": "sonofhades",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant man funny!",
+      "score": 8,
+      "user": "yoranalflat",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Usual Marvel fare, but not as polished",
+      "score": 6,
+      "user": "Mr-Fusion",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Mission: Impossible\" + \"Ocean's Eleven\" + the MCU = \"Ant-Man\" (2015)",
+      "score": 8,
+      "user": "dee.reid",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Delectable Kid's Movie",
+      "score": 8,
+      "user": "sammy",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An interesting movie.",
+      "score": 8,
+      "user": "Umesh Kelso",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Antastic And It's About Time",
+      "score": 8,
+      "user": "getyourdander",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Light and fun",
+      "score": 7,
+      "user": "Miguel Neto",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Greatest film since the Sistine Chapel",
+      "score": 6,
+      "user": "tieman64",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A minor character with a major movie success",
+      "score": 8,
+      "user": "Hot Rog",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yugosalvia",
+      "score": 8,
+      "user": "Store Kahan Ahooouja",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "AWEsome movie!",
+      "score": 10,
+      "user": "ravenhair702",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Will Anthony (the ant) ever get a new wing or what?",
+      "score": 10,
+      "user": "pmgeorgini-255-674247",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good things come in small packages",
+      "score": 7,
+      "user": "jimbo-53-186511",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Thrilling Hero",
+      "score": 9,
+      "user": "Muhammad_ND",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Minor Marvel, but still good Marvel",
+      "score": 7,
+      "user": "TheLittleSongbird",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumb but reasonably entertaining",
+      "score": 6,
+      "user": "Charles Herold (cherold)",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "tgchan says YES~! / www.tgchan.pl",
+      "score": 6,
+      "user": "tgchan",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "highly disappointing",
+      "score": 3,
+      "user": "darksyde-63508",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ridiculous Plot full of holes, and lacks substance, not worth watching IMO !!",
+      "score": 2,
+      "user": "emberain",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel is the bomb, not a literal bomb of course....",
+      "score": 10,
+      "user": "Movieandtvlover",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Ant-Man\"-  A fantastically entertaining entry in the ever-growing Marvel Universe, even if it is a slave to formula...",
+      "score": 8,
+      "user": "MaximumMadness",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gross-attimes",
+      "score": 6,
+      "user": "Lola A",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finds a splendid balance between humour and action....",
+      "score": 7,
+      "user": "simon-psykolog",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Small hero, big courage...",
+      "score": 7,
+      "user": "Paul Magne Haakonsen",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Go to the ant, thou sluggard...",
+      "score": 8,
+      "user": "higherall7",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "contorted into child friendly comedy and shrunk down to superficial super heroics with no sense of peril or tension.",
+      "score": 6,
+      "user": "xamtaro",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wasn't expecting such an awesome film",
+      "score": 8,
+      "user": "michaellittle21",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "better than the trailers",
+      "score": 8,
+      "user": "christinemartinez1976",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My Favorite in the Series (So Far)",
+      "score": 8,
+      "user": "gavin6942",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spectacularly  Entertaining!  Bravo!  Bravo!",
+      "score": 10,
+      "user": "Idiot-Deluxe",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-man bursts onto the big screen, then shrinks...",
+      "score": 9,
+      "user": "Aaron1375",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappy Watched: Ant-Man",
+      "score": 9,
+      "user": "Chappy Watched",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Et Al Paul Rudd ... Sex Symbolizer2themax.. ish... :D",
+      "score": 8,
+      "user": "raster_gfx",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Small hero, big fun.",
+      "score": 8,
+      "user": "BA_Harrison",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "for some reason it under performed at the box office,",
+      "score": 9,
+      "user": "disdressed12",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heroes don't get any bigger.",
+      "score": 9,
+      "user": "Gavin Henderson",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the better Marvel movies",
+      "score": 8,
+      "user": "Goran Poposki",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great addition to the mcu",
+      "score": 9,
+      "user": "Joe Huckstep",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "exciting",
+      "score": 7,
+      "user": "Mintroll",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Rudd's Ant-Man is a Welcome Addition to the MCU",
+      "score": 8,
+      "user": "brando647",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sharply written and more of a comedy than anything else",
+      "score": 8,
+      "user": "Blazehgehg",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Five-Word Review: Breezy, Funny, Exciting, Good Fun",
+      "score": 8,
+      "user": "Bill Sims",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Rudd never disappoints!",
+      "score": 9,
+      "user": "jamieleeackerman",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Silly, crazy, without a doubt improbable...",
+      "score": 9,
+      "user": "Joe Dompierre",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "fun small-size superhero movie",
+      "score": 8,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Following the constant high-stakes scenarios in every MCU movie, Ant-Man is a breath of fresh air to the franchise.",
+      "score": 8,
+      "user": "zlymbo97",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's Those Little Things That Count!",
+      "score": 8,
+      "user": "Hitchcoc",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"I think our first move should be calling the Avengers.\"",
+      "score": 9,
+      "user": "classicsoncall",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Antastic fun!",
+      "score": 8,
+      "user": "Sarah O'Connell",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun and Interesting, Surpassed my Expectations",
+      "score": 8,
+      "user": "SquigglyCrunch",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A pleasant surprise, might even get me in to watching more of this stuff.",
+      "score": 7,
+      "user": "David Martin",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My 2 Cents",
+      "score": 8,
+      "user": "Merlin-Darkon",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Ridiculous Superhero Name, Cool Movie",
+      "score": 7,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is a nice change from what we are used to.",
+      "score": 8,
+      "user": "Dylan Hernandez",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The MCU does it again!",
+      "score": 9,
+      "user": "superheromoviequestions",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious and fun",
+      "score": 7,
+      "user": "Hassan_Scarborough",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is Ant-Fun",
+      "score": 7,
+      "user": "pc95",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Rudd graduated from Phoebe's husband and took a free Avenger ride into great daddy",
+      "score": 7,
+      "user": "Glynnis Kim",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An action-packed, light-hearted superhero movie.",
+      "score": 7,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man (2015): Movie Review",
+      "score": 8,
+      "user": "Rarrlow",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Size doesn't matter if he's a superhero who committed to save the world.",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Pocket Rocket.",
+      "score": 8,
+      "user": "Spikeopath",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did not see that coming, literally!",
+      "score": 8,
+      "user": "palavitsinis",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Antastic!",
+      "score": 10,
+      "user": "chuwawah-919-385097",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic all around and definitely going to watch it again!",
+      "score": 10,
+      "user": "thierry-arnaud63",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-icipation is over. I Love You, Ant-Man.",
+      "score": 10,
+      "user": "misterembryo",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Astonishing Ant-Man",
+      "score": 10,
+      "user": "lukecage616",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man Review",
+      "score": 10,
+      "user": "Eddie Cantillo",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst than I thought it would be",
+      "score": 3,
+      "user": "Floated2",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love it!",
+      "score": 10,
+      "user": "bucksbeaut26",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice story with some action",
+      "score": 7,
+      "user": "furious john",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "how can it get rated so low",
+      "score": 9,
+      "user": "zackktome",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "super hero movie with some comedy",
+      "score": 7,
+      "user": "MLDinTN",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tiny hero with a big heart",
+      "score": 7,
+      "user": "MrChunks",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man Man-ups",
+      "score": 7,
+      "user": " (Richie@RanRightRealty.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smaller than other Marvel movies.",
+      "score": 6,
+      "user": "Pheeke",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable! 7/10",
+      "score": 7,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fits nicely into Marvel's Cinematic Universe while maintaining a low-key feel",
+      "score": 7,
+      "user": "tomgillespie2002",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice flick",
+      "score": 8,
+      "user": "851222",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It could be better",
+      "score": 6,
+      "user": "f_festeves",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You have to turn off some switches",
+      "score": 7,
+      "user": "kanenasanonas",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What Could Have Been?",
+      "score": 6,
+      "user": "Matt_Layden",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A delightful Experience",
+      "score": 9,
+      "user": "Sir. Sherlock  Conan",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-thony",
+      "score": 6,
+      "user": "sharky_55",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than expected",
+      "score": 8,
+      "user": "pranayjalvi",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great movie",
+      "score": 9,
+      "user": "dylanjtaylordt",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not my favorite",
+      "score": 8,
+      "user": "Michael W. Fisher",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feels more like a heist film rather than a superhero film.",
+      "score": 10,
+      "user": "Andrew Miller",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Engaging and Fun",
+      "score": 8,
+      "user": "prichards12345",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man, a new Marvel superhero",
+      "score": 8,
+      "user": "Dee Phan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What's Good Is Great, But Could It Have Been Better?",
+      "score": 7,
+      "user": "George Roots (GeorgeRoots)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly well done.",
+      "score": 8,
+      "user": "switchboard85",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My son and I loved the humor and comic spirit",
+      "score": 7,
+      "user": "Ole Sandbaek Joergensen",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great visuals and acting, but awkward screenplay.",
+      "score": 6,
+      "user": "Nicole C",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man",
+      "score": 3,
+      "user": "dukeakasmudge",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Small but Mighty",
+      "score": 7,
+      "user": "jdhatefi",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel takes a big chance with a small character.",
+      "score": 7,
+      "user": "mockfilmsblog",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A funny movie",
+      "score": 7,
+      "user": "Dragos Carabet",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another superhero, nice to watch though",
+      "score": 7,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-man is Cool!",
+      "score": 8,
+      "user": "jb_campo",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ladies and gentlemen,excellent in my opinion !",
+      "score": 10,
+      "user": "Konstantinos Plt",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The most fun I've had with a Marvl movie",
+      "score": 8,
+      "user": "Dr_Aristotle",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very entertaining and family-friendly heist film from marvel!!",
+      "score": 8,
+      "user": "superzachary94",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-tastic! (Sorry)",
+      "score": 7,
+      "user": "wrightiswright",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very enjoyable",
+      "score": 7,
+      "user": "olasnah-97-475221",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Antman is definitely one of Marvels best outings in their ever expanding Cinematic Universe.",
+      "score": 10,
+      "user": "srepolt",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A SMALL surprise.",
+      "score": 7,
+      "user": "hennyxu",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A superhero version of Honey I Shrunk The Kids. Paul Rudd was the perfect choice for this role.",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing special",
+      "score": 7,
+      "user": "matej-trkanjec-133-920386",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Small man BIG Movie! a GOOD quirky addition to the Marvel Universe",
+      "score": 8,
+      "user": "RocketeerFlyer",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Phase 3 in the Marvel Franchise has taken a new attempt that should be applauded for, even if it doesn't pack the best performances.",
+      "score": 9,
+      "user": "sanjayvjr",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funnier and lighter than most Marvel films",
+      "score": 8,
+      "user": "Jerghal",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A 'small' surprise!",
+      "score": 7,
+      "user": "mukherjeesubham93",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man: El Hombre Hormiga (Medell\u00edn)",
+      "score": 10,
+      "user": "Al1899",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "it's about how you tell the story",
+      "score": 8,
+      "user": "Alabumba S",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Action",
+      "score": 7,
+      "user": "billcr12",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "That shrinking feeling",
+      "score": 6,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a small,small world...marvel style.",
+      "score": 7,
+      "user": "djangozelf-12351",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's not the best Marvel movie, but one of the better ones.",
+      "score": 7,
+      "user": "Jack Munson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scott Lang finds his way to become the Ant-Man. ANT-MAN",
+      "score": 5,
+      "user": "SlothwithMe",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel continues to shine",
+      "score": 10,
+      "user": "gentm2013",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For my money, Best Super-hero Movie Ever",
+      "score": 10,
+      "user": "siltom1962",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Refreshing!",
+      "score": 10,
+      "user": "Jose Carlos Domingos",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Tales to Astonish\"",
+      "score": 8,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie, One Scientific Mistake",
+      "score": 9,
+      "user": "Travis Jackson",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "couldn't watch it",
+      "score": 5,
+      "user": "bzsofi047",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is fantastic",
+      "score": 10,
+      "user": "borism07",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel  Curse at work",
+      "score": 6,
+      "user": "lukehoward-18881",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Proof that Marvel can't get everything right",
+      "score": 6,
+      "user": "siderite",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel delivers yet again, though not on the same scale",
+      "score": 8,
+      "user": "Nikhil Hirani",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining and yet underwhelming with a side of predictability",
+      "score": 7,
+      "user": "H. Martin (~AleXa~)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "cat burglar becomes ant superhero",
+      "score": 8,
+      "user": "maurice yacowar",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Thrilling Hero",
+      "score": 10,
+      "user": "aharmas",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You'll Believe A Man Can Shrink",
+      "score": 8,
+      "user": "coolmojo2",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Last Michael Douglas Film I Saw Was David Fincher's The Game(1997).",
+      "score": 7,
+      "user": "Vivekmaru45",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great fun, Great addition to the MCU",
+      "score": 9,
+      "user": "jaceodemedici",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you've always been a marvel movie fan, then you will like this one as well!",
+      "score": 8,
+      "user": "Sheng Liu",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the most important movies in the MCU",
+      "score": 10,
+      "user": " (peacreekpages)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man: Not a little hero!",
+      "score": 8,
+      "user": "DarkTraveller45",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 8,
+      "user": "capone666",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The movie was to drawn out",
+      "score": 4,
+      "user": "Kyle Edward Roberts",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Rudd is the wrong person for Ant-Man",
+      "score": 3,
+      "user": "averyparris",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Rudd keeps the film afloat, barely",
+      "score": 5,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Autistic Reviewers opinion on this movie.",
+      "score": 8,
+      "user": "autisticreviewers",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fitting conclusion to Phase 2 of the Marvel Cinematic Universe",
+      "score": 8,
+      "user": "MrDHWong (dhwong89@live.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great fun and entertaining Marvel film",
+      "score": 7,
+      "user": "HelenMary",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Tastic!!!",
+      "score": 8,
+      "user": "tmoneyfosure",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My new favorite MCU superhero",
+      "score": 9,
+      "user": "Matei Popescu",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All in all, Ant-Man may be little but he sure as hell packs a big punch! Go for it and please stay for the post-credits scene.",
+      "score": 8,
+      "user": "alphabravomovies (alphabravomovies@gmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Marvel Militainment Machine marches on...",
+      "score": 2,
+      "user": "poe-48833",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Highly Entertaining Adventure",
+      "score": 8,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We want a Sequel !!!",
+      "score": 10,
+      "user": "DeVil Dare",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel surprises again...",
+      "score": 9,
+      "user": "dwlaboy-919-754036",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It's Not a Keychain!\"",
+      "score": 10,
+      "user": "XweAponX",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "nicely done",
+      "score": 8,
+      "user": "WoodBangers Entertainment",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's official Marvel turns everything it touches to gold",
+      "score": 9,
+      "user": "Tripmoh",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such a finely balanced film is hard to come by",
+      "score": 9,
+      "user": "Ayal Oren",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is a surprisingly entertaining romp with a stellar script and stellar cast",
+      "score": 9,
+      "user": "diac228 (diac1987@netscape.net)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The weakest of the Marvel Franchise but hear me out",
+      "score": 6,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far more fun than expected, \"Ant-Man\" is an easy Marvel hero to root for",
+      "score": 8,
+      "user": "Movie_Muse_Reviews",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Go for it! Ant-Man is a different, exciting superhero movie!",
+      "score": 9,
+      "user": "mayank-s-dwivedi",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too fast and good.",
+      "score": 6,
+      "user": "Daniel Isair Rg",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was sh1t.",
+      "score": 1,
+      "user": "fredrico-20450",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Fantastic effort",
+      "score": 9,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Movie with a case of Hollywood-Science syndrome.",
+      "score": 8,
+      "user": "jonothanharbert",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Way Way better than I thought it would be",
+      "score": 8,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel does it again.",
+      "score": 10,
+      "user": "Bill-166",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is Fantastic",
+      "score": 10,
+      "user": "ethanthoren",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fun, funny, action packed heist film, oh, and a Marvel film",
+      "score": 8,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is Team Work",
+      "score": 8,
+      "user": "jagsggk",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wasn't Marvel's Best",
+      "score": 6,
+      "user": "ddoyle2017",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Size Does Not Matter",
+      "score": 9,
+      "user": "3xHCCH",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lighter on the theme and scale, Ant-Man carries robust size of comedy and charm",
+      "score": 8,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A refreshing Marvel movie",
+      "score": 10,
+      "user": "Adam Smith",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Best Installments",
+      "score": 10,
+      "user": "SneakyViking",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A light-hearted adventure.",
+      "score": 6,
+      "user": "Troy_Campbell",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When it comes to Unbridled, Unabashed, Frothy, Light-Hearted Superhero Fun, Only \"The Avengers\" and \"Guardians of the Galaxy\" Rival this",
+      "score": 9,
+      "user": "DareDevilKid",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Middle Aged Dad Was Wrong - Loved This Flick",
+      "score": 9,
+      "user": "George Tsiolis",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Let's get small.",
+      "score": 7,
+      "user": "Justin Firestone",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bursting with Personality",
+      "score": 8,
+      "user": "Mek Torres",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fine comic movie",
+      "score": 6,
+      "user": "Que no me toque un alto delante",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A delightfully entertaining Marvel superhero movie that you'll enjoy from beginning to end, thanks to leading man Paul Rudd's slacker dude charm",
+      "score": 8,
+      "user": "moviexclusive",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Underrated Marvel gem...",
+      "score": 7,
+      "user": "justin-fencsak",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nostalgic",
+      "score": 8,
+      "user": "Chris Ober",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "very good but last half hour turns into Disney farce",
+      "score": 5,
+      "user": "s_imdb-623",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unexpected performances shine through.",
+      "score": 6,
+      "user": "kcp-32124",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A gorgeous mess.",
+      "score": 7,
+      "user": "Prinny Chu",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not for men of a certain age (I suppose)",
+      "score": 6,
+      "user": "Son-of-WRA",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No ant was harmed in the filming of this movie",
+      "score": 8,
+      "user": "RNMorton",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow! I was blown away!",
+      "score": 9,
+      "user": "martinlutherfan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man proves that sometimes smaller is better!",
+      "score": 7,
+      "user": "William O. Tyler",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Origin Story of Ant-Man AKA Tiny Iron Man",
+      "score": 5,
+      "user": "BouttoGoDown",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Straight to a Point\u0097Article Definitely Disposable",
+      "score": 6,
+      "user": "bcr43",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Underdog Of A Film Fails To Disappoint",
+      "score": 8,
+      "user": "ptcarr",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Ant-Man\" Dares to Be Different",
+      "score": 8,
+      "user": "horcrux2007",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "tries to hard",
+      "score": 3,
+      "user": "adamsfamilyfan",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Please stop wasting money on a crap movie like this.",
+      "score": 4,
+      "user": "crossingsymmetry",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Looking forward to this movie for years and it somehow exceeded my expectations! 10 out of 10!",
+      "score": 10,
+      "user": "Darth_Sneville",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice",
+      "score": 10,
+      "user": "Matthew Fennell",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's not how you ride the ant, it's how you pull off the heist.",
+      "score": 8,
+      "user": "Kevin Jackson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great, Humorous Super Installment In The Marvel Franchise",
+      "score": 8,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Refrshingly Small",
+      "score": 8,
+      "user": "reviewsbycaleb",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointment",
+      "score": 2,
+      "user": "michibuzuk",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Size doesn't matter for a superhero",
+      "score": 8,
+      "user": "mubeen710",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is a Funny and Enjoyable Film and It Brings Another Great Character to the MCU",
+      "score": 8,
+      "user": "Vinicius Andrade",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tales to Astonish",
+      "score": 9,
+      "user": "SpoodermanDerp",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man:  A Family Movie",
+      "score": 5,
+      "user": "atlassub34",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not for me",
+      "score": 4,
+      "user": "selena-71096",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An elegANT movie",
+      "score": 8,
+      "user": "asher-luberto",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Maybe I'd enjoy it more if I hadn't seen Iron Man",
+      "score": 6,
+      "user": "David Radi",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big surprises come in small packages",
+      "score": 8,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant music - uh, uh, uh, uh, uh, uh, uh, uh, uh, uh!...",
+      "score": 7,
+      "user": "Chalice_Of_Evil",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel crawls over familiar ground in this by-the-numbers blockbuster.",
+      "score": 5,
+      "user": "Johnny Hollywood (jnatsis@iprimus.com.au)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel's movie formula reaches it's breaking point",
+      "score": 5,
+      "user": "lens-flares",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A refreshing and incredible addition to the MCU",
+      "score": 9,
+      "user": "michaelsharples96 (michaelsharples96@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unable to adhere to their own rules.",
+      "score": 4,
+      "user": "Darren Wolf",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cut movie",
+      "score": 7,
+      "user": "mediumllama",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"A Surprise\"",
+      "score": 9,
+      "user": "Artem Savochkin",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man, a fun and slightly different MCU movie.",
+      "score": 7,
+      "user": "jon k\u00c3\u00a4ll",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Physics runs amok in ANT-MAN . . .",
+      "score": 8,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie and pretty perfectly made",
+      "score": 9,
+      "user": "gauravg-us",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good things come in small packages",
+      "score": 7,
+      "user": "Fluke_Skywalker",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big Action On a Small Scale",
+      "score": 7,
+      "user": "rcolgan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scant Man",
+      "score": 3,
+      "user": "TDeMona",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ridiculous",
+      "score": 4,
+      "user": "metogamed",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ho-Hum",
+      "score": 5,
+      "user": "jeomo",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "vaguely watchable!",
+      "score": 5,
+      "user": "Little Man",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining, but annoying",
+      "score": 5,
+      "user": "Miha Kusar",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie!",
+      "score": 10,
+      "user": "Tom Fitzgerald",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "6.5/10",
+      "score": 6,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is fun if you don't want anything groundbreaking",
+      "score": 6,
+      "user": "luke-a-mcgowan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The amazing Ant-Man",
+      "score": 10,
+      "user": "coreyjdenford",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun, light-hearted Marvel adventure",
+      "score": 8,
+      "user": "film127",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There's nothing wrong with a smaller adventure as Ant-Man fills his small stature with plenty of the Marvel wit",
+      "score": 8,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Small Size, Big Hero",
+      "score": 9,
+      "user": "nick-sultana",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A \"small\" movie with a big punch......",
+      "score": 8,
+      "user": "Safcinexile",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Same formula as Iron man, Fun and great CGI",
+      "score": 8,
+      "user": "farsh2007",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"I want you to go into a place and steal some sh*t\"",
+      "score": 9,
+      "user": "RyanTesone",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man",
+      "score": 8,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Family level fun",
+      "score": 7,
+      "user": "tim-vanlaere",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just Another Superhero Cartoon",
+      "score": 5,
+      "user": "Mickey Z",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best-Worst Movie of All Time",
+      "score": 5,
+      "user": "RhoDaZZ",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A clich\u00e9d, goofy mess",
+      "score": 5,
+      "user": "kharnikhal",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man - An Unexpected Success From Marvel",
+      "score": 8,
+      "user": "cgweinstein",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as action packed as I predicted but great",
+      "score": 9,
+      "user": "bigcd57",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some great superhero movies come in small packages.",
+      "score": 8,
+      "user": "kevinxirau",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If You Were Worried About this Marvel Film, then Don't Be",
+      "score": 9,
+      "user": "kgaillard",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another decent marvel film",
+      "score": 7,
+      "user": "Andrew Anandarajah",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very unexpected",
+      "score": 8,
+      "user": "Itsach Figueroa (itsachfigueroa68)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unexpectedly Good Movie",
+      "score": 8,
+      "user": "millerian-55",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Takes the idea of a shrinking formula, and comedy, to new heights",
+      "score": 8,
+      "user": "aesylvia",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great movie adaptation  for a character named ant-man",
+      "score": 10,
+      "user": "anishsatyakkd",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant Man",
+      "score": 8,
+      "user": "jeffreyhillen-364-945381",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Tale to Astonish indeed!",
+      "score": 9,
+      "user": "peterhill-84900",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"This is not some cute tech like the Iron Man suit!\"",
+      "score": 8,
+      "user": "bensonmum2",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly fun and entertaining. Better than Age of Ultron",
+      "score": 8,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Cheesy Good Blast That's Reminiscent of the Old School Comic Book Movies!!!",
+      "score": 8,
+      "user": "Pumpkin_Man",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A new breed of Superhero",
+      "score": 8,
+      "user": "Christian Nelson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "one of the better superhero flicks I've seen so far",
+      "score": 9,
+      "user": "trashgang",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "score": 9,
+      "user": "Tss5078",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely Brilliant",
+      "score": 7,
+      "user": "Hajer Elhaj",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Small Package Packs a Lot of Punch",
+      "score": 8,
+      "user": "Sean Lamberger",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Marching Start for The Next Wave",
+      "score": 8,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable",
+      "score": 6,
+      "user": "Andrew Marshall",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Small Talk About Marvel's Big Hearted Change of Pace",
+      "score": 8,
+      "user": "FloodClearwater",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great ton of fun, for a tiny hero!",
+      "score": 10,
+      "user": "dnel-s",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kinda enjoyable watch",
+      "score": 6,
+      "user": "poisonlotus",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Small Hero, Bigger Universe",
+      "score": 7,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel continues to deliver entertaining films into the superhero genre.",
+      "score": 7,
+      "user": "Jacques Ciesla",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smaller is better",
+      "score": 9,
+      "user": "bunkie-94657",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is a must see",
+      "score": 10,
+      "user": "ericwoodard84",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid entry in the Marvel catalogue",
+      "score": 8,
+      "user": "drew_atreides",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In comparison to previous Marvel films, Ant-Man is an engaging reiteration that less can be more.",
+      "score": 8,
+      "user": "Lloyd Bayer",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nonsense",
+      "score": 6,
+      "user": "Blurviewer",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The most unconventional superhero movie ever made.",
+      "score": 10,
+      "user": "Anurag-Shetty",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "First half of the movie was a 2, Second half was an 8!",
+      "score": 5,
+      "user": "Tar Zan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Okay, but not great -",
+      "score": 5,
+      "user": "J Newman",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Oversaturation Is Real",
+      "score": 5,
+      "user": "mjk280",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too cute for its own good...",
+      "score": 5,
+      "user": "Charlie Picart",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad",
+      "score": 7,
+      "user": "Tyrone Kendall",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A breath of much needed fresh air for the super hero genre",
+      "score": 7,
+      "user": "Adam Peters",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun! - But missing something...",
+      "score": 7,
+      "user": "NickMullins",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't judge it by its trailers.",
+      "score": 8,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sweet Ride.......",
+      "score": 8,
+      "user": " (khushboorajvanshi)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie and pretty perfectly made",
+      "score": 9,
+      "user": "gauravg-us",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Marvel Movie",
+      "score": 8,
+      "user": "Louis",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun, action-packed Marvel adventure",
+      "score": 8,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Ant-Man' is proof that Marvel Studios still know how to tell a good origin story.",
+      "score": 7,
+      "user": "shadowyx12",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Grade: B-",
+      "score": 7,
+      "user": "bschultz_the_pally",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smaller, More Character Driven, Marvel Film that Delights,",
+      "score": 9,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sometimes, a movie is a pleasant surprise.",
+      "score": 9,
+      "user": "Fludlerk",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sweet taste of a good movie",
+      "score": 8,
+      "user": "Keno Forest (greenoliver18@yahoo.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Small Heroes Deliver Big",
+      "score": 8,
+      "user": "mr_bickle_the_pickle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "small Marvel movie with Heist element attach to it",
+      "score": 7,
+      "user": "Yagya Sharma",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man",
+      "score": 6,
+      "user": "Jackson Booth-Millard",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun movie that's good for the sake of entertainment",
+      "score": 7,
+      "user": "dyllon_jeng",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Better than Avengers:Age of Ultron\"",
+      "score": 7,
+      "user": "Romeo Garcia",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrific fun.",
+      "score": 8,
+      "user": "sean73267326",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good things do come in Small Sizes",
+      "score": 8,
+      "user": "shihaan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Film! Spectacular!",
+      "score": 9,
+      "user": "mcclellandl",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A breath of fresh air",
+      "score": 8,
+      "user": "SugarandIce",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant man is epic",
+      "score": 10,
+      "user": "ollyajetblue",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Rudd vs. The Marvel Formula",
+      "score": 6,
+      "user": "FilmMuscle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Antastic!",
+      "score": 10,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another fun Marvel Adventure!",
+      "score": 9,
+      "user": " (dawgpen71@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "First superhero movie worth seeing this year!",
+      "score": 10,
+      "user": "Vinzz",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superbly Entertaining",
+      "score": 9,
+      "user": "griffolyon12",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome And Funny",
+      "score": 8,
+      "user": "Otaku_Critic",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A solid twelfth entry for the MCU.",
+      "score": 7,
+      "user": "drawlife",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great addition to the Marvel Universe!",
+      "score": 7,
+      "user": "Eliott-Smith",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man : Big Entertainment in small packing ~ Loved this movie!",
+      "score": 9,
+      "user": "nj_kinny",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I believe I can fly... with Ant-Man",
+      "score": 9,
+      "user": "mat-dragonfire",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun Like a 1950's Pop-Sci-Fi Fantasy",
+      "score": 8,
+      "user": "ryandannar",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smallest superhero with super-size fun",
+      "score": 8,
+      "user": "Amitash Balekar (amitashb803@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of Ant-Man",
+      "score": 6,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bigger Is Always Better? Not for Antman!",
+      "score": 9,
+      "user": "DoubleOscar",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man was one that took a while to get into but I managed to have a very good time by the very end!",
+      "score": 8,
+      "user": "tavm",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pleasantly Surprised",
+      "score": 6,
+      "user": "Alicja Johnson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "F.Ant.Astic",
+      "score": 9,
+      "user": "Reuben Cherian",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing!",
+      "score": 9,
+      "user": "miaalex-41817",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "F-ant-astic",
+      "score": 8,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A rather silly movie",
+      "score": 6,
+      "user": "david-sarkies",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the Smaller the Heroes, the Bigger the Fun!",
+      "score": 8,
+      "user": "Gerald Bastian",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oops! Marvel did it again",
+      "score": 8,
+      "user": "macedones",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unadulterated entertainer minus all the darkness of a superhero",
+      "score": 8,
+      "user": "kunalkhandwala",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, but A Little Generic",
+      "score": 8,
+      "user": "tjgoalie13",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some fresh air in the Marvel Universe",
+      "score": 7,
+      "user": "JesseCuster76",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An enjoyable Marvel movie for a change",
+      "score": 8,
+      "user": "Laakbaar",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A dip in quality for Marvel, but still a damn good time",
+      "score": 6,
+      "user": "Terrell Howell (KnightsofNi11)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fun superhero heist film",
+      "score": 8,
+      "user": "bruinjoe96",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far better than expected - from a non-Marvel fan",
+      "score": 9,
+      "user": "xmonn",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great addition to the MCU",
+      "score": 9,
+      "user": "lerev-arthur",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great addition to the MCU",
+      "score": 8,
+      "user": "k-b-ego",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly Done Well... but...",
+      "score": 8,
+      "user": "cubsckc",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable yet simple",
+      "score": 6,
+      "user": "joeybweiss",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Skippable",
+      "score": 4,
+      "user": "AliceofX",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is a huge piece of poop",
+      "score": 4,
+      "user": "lschouder-329-467894",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't judge a film by it's title...",
+      "score": 8,
+      "user": "rabyisabelle1",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A solid and fun entry into the MCU",
+      "score": 7,
+      "user": "Daniel Ross",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprised how good it was",
+      "score": 8,
+      "user": "blakerogers2015",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A worthy entry to the MCU",
+      "score": 9,
+      "user": "boyznick",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"hahaha!\"",
+      "score": 8,
+      "user": "Irfo 114",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice touch of heist movie flavor",
+      "score": 7,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A teeny tiny little bit too safe...",
+      "score": 8,
+      "user": "dave118118",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel Studios' films like this, could be even better; if they actually had some balls!",
+      "score": 8,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tiny hero, big fun.",
+      "score": 8,
+      "user": "Fred Schaefer",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man isn't pants man!",
+      "score": 8,
+      "user": "Jackson Presto",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Impressive.",
+      "score": 8,
+      "user": "mattslim333",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great and fun film",
+      "score": 9,
+      "user": "danmooney-57655",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do Marvel deliver in their smallest movie to date...",
+      "score": 9,
+      "user": "Christopher Wilson",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Iron Man Reduced (Redux)",
+      "score": 6,
+      "user": "michaelchiav",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Bug's Heist",
+      "score": 8,
+      "user": "pablo2896",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "<15",
+      "score": 6,
+      "user": "InsignificantReviews",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anty Maim",
+      "score": 7,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An-Man Review",
+      "score": 8,
+      "user": "keithlovesmovies",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad, not bad at all.",
+      "score": 9,
+      "user": "Oliver Rendchen",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bigger things",
+      "score": 8,
+      "user": "abgkasjlkasjla",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The little super hero movie that could",
+      "score": 8,
+      "user": "Foal24",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smaller Scale but Promising",
+      "score": 8,
+      "user": "Michael Seng Wah",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun, Exciting, but most of all...surprising",
+      "score": 9,
+      "user": "Gustavo Schroeder A",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A reminder to why we see superhero films in the first place",
+      "score": 9,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Ant-Man' has it's flaws, but it's so fun you can't help but get sucked in",
+      "score": 9,
+      "user": "Austin S. Russell (arussell23)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A little slow at first but keeps getting better and better as each minute goes by",
+      "score": 8,
+      "user": "mcgregorrowland",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man: \"It's great. Not Iron Man great, but great.\"",
+      "score": 8,
+      "user": "letthemagicmoveyou",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best movie we have seen in a long time!",
+      "score": 10,
+      "user": "Paul Martin",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun heist/superhero movie",
+      "score": 10,
+      "user": "skoobydoo6789",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Are you not ENTERTAINED?\"",
+      "score": 9,
+      "user": "clerdonna",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Fun New Addition to the MCU",
+      "score": 9,
+      "user": "Steven",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Minuscule is size, yet large in entertainment.",
+      "score": 10,
+      "user": "soonerfan0127",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect Blend of Comedy and Action",
+      "score": 10,
+      "user": "seth-goodwin23",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Witty, Charming and Immensely Fun",
+      "score": 9,
+      "user": "taranpannu01",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect break for Paul Rudd",
+      "score": 9,
+      "user": "Sujan Kumar (sujanfaster)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the astonishing ant-man",
+      "score": 8,
+      "user": "Jonathan Esposito",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing epic, but enjoyable",
+      "score": 8,
+      "user": "Placibo Incognito",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Opposite of a complaint",
+      "score": 9,
+      "user": "Daniel Natzke",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A for Ant-Man",
+      "score": 9,
+      "user": "Kevin Forbes",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a thrill",
+      "score": 8,
+      "user": "templar77099",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't count this superhero out",
+      "score": 8,
+      "user": "Sam Grodnitzky",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Where does 'Ant-Man' stand in the Marvel Cinematic Universe? Find Out Here!!",
+      "score": 6,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man Review",
+      "score": 7,
+      "user": "Allen Shepherd",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie",
+      "score": 8,
+      "user": "Akshay Sonthalia",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite good, fun, fresh, awesome cast, but what a film it could have been.",
+      "score": 8,
+      "user": "fabiolpinheiro1993",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just WOW!",
+      "score": 10,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another winner from Marvel Studios",
+      "score": 9,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is a fun and successful MCU entry",
+      "score": 10,
+      "user": "MarvelRebootedSpidey (melman0916@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man was kinda marvelous.",
+      "score": 8,
+      "user": "ironhorse_iv",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Entertainment",
+      "score": 6,
+      "user": "philipmagnier",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A solid, enjoyable and entertaining film",
+      "score": 8,
+      "user": "Paynebyname",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel Embraces Comedy While Ignoring Science",
+      "score": 7,
+      "user": "Gray Remnant",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is it too late to change the name?",
+      "score": 10,
+      "user": "Gianluca Marzano",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "7---A flawed but fun superhero movie.",
+      "score": 7,
+      "user": "alexgarcia732805",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant Man's likable performances and visual ingenuity are hampered by limp direction and overall predictability",
+      "score": 7,
+      "user": "joeravioli",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Ant-Man' Features Fun Visuals But a Mediocre Story",
+      "score": 7,
+      "user": "Robert Yaniz Jr.",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a thrilling ride....",
+      "score": 9,
+      "user": "Naeem Ahmad Sabir",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel Does It Again!",
+      "score": 9,
+      "user": "darthmig-1",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally a Marvel movie that is completely enjoyable",
+      "score": 9,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Astonishing Chapter in the Marvel Cinematic Universe",
+      "score": 9,
+      "user": "caseynicholson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow to start but overall GREAT MOVIE",
+      "score": 10,
+      "user": "babforest",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's ANTmazing!",
+      "score": 8,
+      "user": "Mr. Potato Movies",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Keep them coming, Marvel, because I am loving them!",
+      "score": 10,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Phase 3 of the MCU goes off with a bang!",
+      "score": 9,
+      "user": "regula1",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "one of the standing pillars of MARVEL CINEMATIC UNIVERSE",
+      "score": 10,
+      "user": "Ethihas Battlemech",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Should be R rated: PARENTS BEWARE!",
+      "score": 3,
+      "user": "amharych",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another successful entry in the MCU",
+      "score": 8,
+      "user": "CheeseKnees",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not up to the hype but...",
+      "score": 6,
+      "user": "omorg-pub",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "That's one messed up dog......",
+      "score": 8,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is highly enjoyable and a lot of fun",
+      "score": 9,
+      "user": "jpkwolf",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Actually Very Funny",
+      "score": 8,
+      "user": "Rob Starzec",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel Has done it Again This was a Cool movie.",
+      "score": 8,
+      "user": " (HorrorFanForever)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Exciting Addition to the Avengers Crew",
+      "score": 8,
+      "user": "thelunaticfringe",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable, exciting and hilarious!",
+      "score": 9,
+      "user": "thorhildur98",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man - Marvels smallest hero for all to see",
+      "score": 8,
+      "user": "Mark ODonnell",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big Things in Small Packages ! 9.2/10",
+      "score": 9,
+      "user": "gysrules",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "ANT-tastic! Don't Belittle This Marvel Giant!",
+      "score": 9,
+      "user": "ronm07",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Has it's weak spots, but enjoyable nonetheless",
+      "score": 7,
+      "user": "Munro P",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Pack Punch Marvel can throw in.",
+      "score": 7,
+      "user": "Nikhil Nihal (ubi.theprophet@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun and Light Marvel Offering",
+      "score": 7,
+      "user": "Matt Greene",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A solid superhero movie",
+      "score": 7,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very beautiful made,and original.",
+      "score": 7,
+      "user": "virindra",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's pretty rare nowadays...",
+      "score": 9,
+      "user": "Jack Banister",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just a Fun Movie",
+      "score": 8,
+      "user": "Shawn Mulligan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unreal",
+      "score": 10,
+      "user": "Michael Carlson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't judge just because it's Ant-man.",
+      "score": 10,
+      "user": "KJ Lao",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What an amazing foundation - solid future ahead...",
+      "score": 9,
+      "user": "Movie/TV watcher",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't listen to all the haters",
+      "score": 9,
+      "user": "tannerbrown-97210",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "f-ANT-tastic",
+      "score": 9,
+      "user": "davevij",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Pick on Someone Your Own Size\"",
+      "score": 9,
+      "user": "sgholbrook",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man",
+      "score": 9,
+      "user": "Alexa Bouhelier-Ruelle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a fun, well-made B movie from Marvel",
+      "score": 7,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel has done it once again!",
+      "score": 8,
+      "user": "Connor Dillon",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing, Funny, 10/10",
+      "score": 10,
+      "user": "jamesgair",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A departure from Marvel's usual fare, but still quality entertainment",
+      "score": 7,
+      "user": "MortalKombatFan1",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I've got a great idea ...Why don't we call the Avengers?  Terrific Fun but not for MTV heads.",
+      "score": 8,
+      "user": "cosmorados",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Think Big; Getting' Small with a game Rudd in a mix of fun and wow visuals that are simply \"Marvel\" ous!",
+      "score": 9,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie!",
+      "score": 8,
+      "user": "Bruce722",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Surprise of the Year",
+      "score": 9,
+      "user": "Atli Hafsteinsson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An unexpectedly awesome addition to the MCU",
+      "score": 8,
+      "user": "dumbidoom",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Superhero Movie",
+      "score": 7,
+      "user": "JonnyCampo",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One Of My Favorite Marvel Movies To Date",
+      "score": 10,
+      "user": "cameron-dennis",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reading this review means you're either on the brink of watching it and need confirmation that it will be good or you have seen it and are insecure about your own opinion.",
+      "score": 7,
+      "user": "Nathan Fegan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant Man is Something You Haven't Seen Before and You'll Be Greatly Surprised STAY TILL THE END DAMN GOOD MOVIE~Non-Spoiler",
+      "score": 10,
+      "user": "Rachel Wilson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Small but Powerful",
+      "score": 9,
+      "user": "JackGunnerstone",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An enjoyable romp",
+      "score": 9,
+      "user": "rcuttill",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Greatest Marvel MOVIE EVER!!!!",
+      "score": 10,
+      "user": "nasrimonster",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smaller scale but heroes.. and films, don't get any bigger!",
+      "score": 10,
+      "user": "Kieran Battams",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far exceeded my expectations!  ABSOLUTELY NO SPOILERS HERE!!!",
+      "score": 10,
+      "user": "nfifig",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the first avenger rules",
+      "score": 10,
+      "user": "Paul Wycherley",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As always, the real supervillains = the guys with the MBAs",
+      "score": 5,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie, didn't need to be PG-13",
+      "score": 8,
+      "user": "nordmanbp",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If only we had Edger Wrights version",
+      "score": 6,
+      "user": "Taylor Burns",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The decline of the Marvel Movies continues",
+      "score": 5,
+      "user": "d-mcpeake",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining superhero movie FULL of plot holes",
+      "score": 6,
+      "user": "gtylerpayne",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mildly entertaining and flippantly violent",
+      "score": 3,
+      "user": "Glenn Soltes",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A surprising and entertaining entry in the Marvel franchise",
+      "score": 8,
+      "user": "jpx400",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Near-Perfect, But Worthy Marvel Film",
+      "score": 9,
+      "user": "justinjettkwon",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very well done, lots of comical features,",
+      "score": 9,
+      "user": "Georgian Stanescu",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Doesn't do better than when it starts, but still one of the better comic book films",
+      "score": 7,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "ANT-MAN should be a staple of the Avengers ensemble and function far more critical than a comic relief",
+      "score": 7,
+      "user": "lasttimeisaw",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good but not great!!!",
+      "score": 7,
+      "user": "yashrajs536",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining !",
+      "score": 6,
+      "user": "alredgreagory",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Welcome Change for Marvel",
+      "score": 7,
+      "user": "Blake Peterson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Ant-i Ultron",
+      "score": 7,
+      "user": "Helio Copter",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why is Anthony gone forgotten?",
+      "score": 8,
+      "user": "Yoshitha Vidanagamage",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man is a Small Gem of a Movie",
+      "score": 8,
+      "user": "daveygandthekeyboard",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Super Sized Fun",
+      "score": 10,
+      "user": "GomezAddams666",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel shows the best things come in small packages",
+      "score": 9,
+      "user": "Terryfan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "SPOILERS INCLUDED  -  Subatomic Beauty",
+      "score": 8,
+      "user": "matzernstmatzernst",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I've never been so convinced in my life that a movie is OK.",
+      "score": 6,
+      "user": "jakobgf-95",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Little hero, Big surprise",
+      "score": 8,
+      "user": "Kim Phan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Quantum Surprise",
+      "score": 9,
+      "user": "David Duran",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel goes small scale",
+      "score": 8,
+      "user": "MovieGuyGrimmy",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The perfect ANTidote",
+      "score": 8,
+      "user": "RockerJarvis",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty Good",
+      "score": 8,
+      "user": "Ryan Bulger",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man: Heroes Don't Get Any Bigger",
+      "score": 9,
+      "user": "Justin Brock",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a joyride from beginning to end",
+      "score": 10,
+      "user": "antonredglare",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "little giant man",
+      "score": 9,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel's best movie of the year",
+      "score": 9,
+      "user": "sir_kerfy",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "7.2, It's actually pretty good",
+      "score": 7,
+      "user": "d_spych",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great addition to the marvel universe",
+      "score": 8,
+      "user": "alindsay-al",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stellar Movie for the Summer",
+      "score": 10,
+      "user": "Matthew Ober",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The movie was a delight to have seen, I greatly recommend it.",
+      "score": 9,
+      "user": "Brandon Manary (brandon_shinigami)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great gags, but not enough",
+      "score": 7,
+      "user": "peefyn",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Perfect Ending To The MCU Phase Two",
+      "score": 10,
+      "user": "Ryan Wu",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Action packed and family fun",
+      "score": 10,
+      "user": "dkeitho",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Excellent Movie",
+      "score": 10,
+      "user": "cameron-59-297793",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediorce, good rating just because it's a marvel movie .",
+      "score": 7,
+      "user": "Adity123",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun but nothing special",
+      "score": 6,
+      "user": "utgard14",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I get that it's Ant-man, but couldn't they get a taller actor?",
+      "score": 9,
+      "user": "Hezekiah Pabico",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not so great",
+      "score": 6,
+      "user": "vivek_k47",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is Marvel getting kind of bland?",
+      "score": 5,
+      "user": "charleswjoke",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "B-class Marvel production",
+      "score": 5,
+      "user": "tinovalkki",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Chick Flick?",
+      "score": 5,
+      "user": "Kaz21",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overrated",
+      "score": 4,
+      "user": "Anders_S_Christensen",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Way too much forced comedy and not enough action or fight scenes",
+      "score": 2,
+      "user": "jmcd88",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incredible Marvel",
+      "score": 8,
+      "user": "Luciano Pena",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite some fun- but surprisingly mediocre",
+      "score": 6,
+      "user": "opinionated-alchemist",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My new favorite Marvel superhero movie",
+      "score": 10,
+      "user": "trueninjapandaproductions",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Man Movie Review: Comedians do make good Super-Heroes",
+      "score": 8,
+      "user": "sticks901",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious and intense fun for the whole family!!!!",
+      "score": 10,
+      "user": "trooper5783",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvel does it again",
+      "score": 10,
+      "user": "Figgy66-915-598470",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Honey I Shrunk the Kids meets Iron Man",
+      "score": 10,
+      "user": "Jonathan Rosas",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "rANT",
+      "score": 5,
+      "user": "Alanjackd",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The better of the marvel movies in 2015.",
+      "score": 7,
+      "user": "nixon carmichael",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "ANTiclimactic: dull and predictable",
+      "score": 5,
+      "user": "james-29039",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scott Shrinkage",
+      "score": 5,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant Hill Out of A Mole Hill",
+      "score": 4,
+      "user": "galahad58-1",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It happened...",
+      "score": 5,
+      "user": "knoxfan2008",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Something's not Wright here\u0085",
+      "score": 3,
+      "user": "pyrocitor",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Ant-Man\" doesn't stand very tall compared to other Marvel superhero movies.",
+      "score": 5,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tedious, lame, poor plot, not enough action, and forget any Science",
+      "score": 1,
+      "user": "Laura Wildish",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "we finally see people realize that this is the end of good movies",
+      "score": 3,
+      "user": "dimbost",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ant-Meh",
+      "score": 2,
+      "user": "Mogambo2",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Ant-Man' is a minor hero for Minors; Paul Rudd a dud-dud",
+      "score": 1,
+      "user": "tseybrat",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "B Movie with feature film special effects",
+      "score": 1,
+      "user": "shumate87",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a disappointment",
+      "score": 2,
+      "user": "christinaarmada",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Its lack of original action sequences is its Achilles' heal.",
+      "score": 2,
+      "user": "Mahmoud-Buttrumps",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superhero movie for babies",
+      "score": 2,
+      "user": "Arun P T",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Once more MARVEL fails to marvel with a boring snooze fest.",
+      "score": 2,
+      "user": "Dr Moo",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big disappointment",
+      "score": 1,
+      "user": "yorksmummy",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Small being the operative word...",
+      "score": 3,
+      "user": "patbradley435",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Batman & Robin of The Marvel Cinematic Universe",
+      "score": 3,
+      "user": "KalKenobi83",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 117,
+  "votes_per_demo": {
+    "aged_45+": 18718,
+    "top_1000_voters": 629,
+    "males_under_18": 2439,
+    "imdb_staff": 39,
+    "males_aged_18-29": 107618,
+    "imdb_users": 354016,
+    "males_aged_45+": 15927,
+    "aged_18-29": 130596,
+    "us_users": 42629,
+    "females_aged_30-44": 11270,
+    "males": 230302,
+    "females": 39366,
+    "females_aged_45+": 2455,
+    "non-us_users": 144262,
+    "females_aged_18-29": 21564,
+    "females_under_18": 575,
+    "aged_30-44": 98177,
+    "aged_under_18": 3041,
+    "males_aged_30-44": 85469
+  },
   "genres": [
     "action",
     "adventure",
     "comedy"
   ],
-  "release_month": "July",
-  "avg_rating_per_demo": {
-    "aged_45+": 7.3,
-    "aged_18-29": 7.4,
-    "aged_30-44": 7.2,
-    "females": 7.4,
-    "top_1000_voters": 6.9,
-    "non-us_users": 7.2,
-    "females_under_18": 8.1,
-    "males_aged_30-44": 7.2,
-    "us_users": 7.5,
-    "imdb_users": 7.3,
-    "imdb_staff": 7.2,
-    "males_under_18": 7.8,
-    "females_aged_18-29": 7.5,
-    "males_aged_45+": 7.3,
-    "females_aged_30-44": 7.3,
-    "males": 7.3,
-    "males_aged_18-29": 7.4,
-    "females_aged_45+": 7.5,
-    "aged_under_18": 7.9
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Ant-Man",
-  "gross_income": 180191634,
-  "user_review_count": 564,
-  "duration": 117,
-  "max_screens": 3868,
-  "votes_per_demo": {
-    "aged_45+": 18703,
-    "aged_18-29": 130533,
-    "aged_30-44": 98097,
-    "females": 39342,
-    "top_1000_voters": 629,
-    "non-us_users": 144174,
-    "females_under_18": 576,
-    "males_aged_30-44": 85405,
-    "us_users": 42602,
-    "imdb_users": 353755,
-    "imdb_staff": 39,
-    "males_under_18": 2436,
-    "females_aged_18-29": 21558,
-    "males_aged_45+": 15913,
-    "females_aged_30-44": 11257,
-    "males": 230139,
-    "males_aged_18-29": 107565,
-    "females_aged_45+": 2454,
-    "aged_under_18": 3041
+  "rating_freq": {
+    "1": 3038,
+    "2": 1522,
+    "3": 2400,
+    "4": 4700,
+    "5": 13554,
+    "6": 41909,
+    "7": 105497,
+    "8": 108973,
+    "9": 41531,
+    "10": 30892
   },
-  "rating_count": 353755,
+  "release_month": "July",
+  "budget": 130000000,
+  "budget_currency": "$",
+  "total_screens": 25433,
+  "year": 2015,
+  "rating": 7.3,
   "critic_review_count": 529,
-  "opening_weekend_income": 57225526
+  "opening_weekend_date": {
+    "month": 7,
+    "year": 2015,
+    "day": 17,
+    "__type__": "datetime.date"
+  },
+  "name": "Ant-Man",
+  "user_review_count": 565,
+  "avg_screens": 1338.578947368421
 }

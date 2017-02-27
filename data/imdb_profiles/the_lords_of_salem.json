@@ -1,91 +1,1883 @@
 {
-  "critic_review_count": 239,
-  "year": 2012,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 5,
-    "day": 10
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 4,
-    "day": 19
-  },
-  "metascore": 57,
-  "max_screens": 355,
-  "duration": 101,
-  "rating_count": 21694,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 4,
+  "release_day": null,
   "avg_rating_per_demo": {
+    "aged_45+": 4.9,
+    "top_1000_voters": 4.7,
+    "males_under_18": 4.8,
+    "imdb_staff": 8.0,
+    "males_aged_18-29": 5.4,
+    "imdb_users": 5.1,
+    "males_aged_45+": 4.9,
+    "aged_18-29": 5.3,
+    "us_users": 5.3,
+    "females_aged_30-44": 4.9,
+    "males": 5.1,
+    "females": 4.9,
+    "females_aged_45+": 4.9,
     "non-us_users": 5.0,
     "females_aged_18-29": 5.0,
-    "females": 4.9,
-    "aged_45+": 4.9,
     "females_under_18": 4.6,
-    "imdb_users": 5.1,
-    "imdb_staff": 8.0,
-    "females_aged_30-44": 4.9,
-    "aged_under_18": 4.8,
-    "males_aged_30-44": 5.1,
-    "top_1000_voters": 4.7,
     "aged_30-44": 5.0,
-    "males_aged_18-29": 5.4,
-    "males": 5.1,
-    "females_aged_45+": 4.9,
-    "males_under_18": 4.8,
-    "us_users": 5.3,
-    "males_aged_45+": 4.9,
-    "aged_18-29": 5.3
+    "aged_under_18": 4.8,
+    "males_aged_30-44": 5.1
   },
-  "user_review_count": 168,
-  "rating_freq": {
-    "1": 2042,
-    "2": 1426,
-    "3": 1985,
-    "4": 2753,
-    "5": 3516,
-    "6": 3352,
-    "7": 2803,
-    "8": 1708,
-    "9": 718,
-    "10": 1391
+  "closing_date": {
+    "month": 5,
+    "year": 2013,
+    "day": 10,
+    "__type__": "datetime.date"
+  },
+  "metascore": 57,
+  "num_weekends": 4,
+  "rating_count": 21704,
+  "gross_income": 1163508,
+  "max_screens": 355,
+  "opening_weekend_screens": 355,
+  "screens_by_weekend": [
+    355,
+    280,
+    50,
+    15
+  ],
+  "opening_weekend_income": 642000,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "A throwback to Classic 70s Horror",
+      "score": 7,
+      "user": "ZombiGurl",
+      "review_date": {
+        "month": 9,
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The lords of boredom...",
+      "score": 3,
+      "user": "Paul Magne Haakonsen",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great premise and cast, but it all fizzles out in the end...",
+      "score": 5,
+      "user": "KnatLouie",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Satanic witch movie I always wanted to see",
+      "score": 9,
+      "user": "jerrybermann",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ambitious, wildly referential art house horror; meandering but fascinating",
+      "score": 8,
+      "user": "Mr_Ectoplasma",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rob Zombie's \"Lords of Salem\": An Atmospheric, Trippy 70's Mash-Up",
+      "score": 7,
+      "user": "Paul Dabrowski",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rob Zombie = Good Ideas - Bad Films",
+      "score": 3,
+      "user": "Tony Bush",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sometimes stylish, nearly entirely forgettable",
+      "score": 4,
+      "user": "Shane Waters",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Complete trash",
+      "score": 1,
+      "user": "Davis Jones",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Witchless",
+      "score": 1,
+      "user": "cultfilmfreaksdotcom",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Total piece of crap",
+      "score": 1,
+      "user": "washeem",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Complete Crap",
+      "score": 1,
+      "user": "Domingo Ortiz",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rob Zombie's predictable and pointless story of witches & Satan, etc.",
+      "score": 2,
+      "user": "John austin",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst Horror film I've ever seen, Rob Zombie disappoints with this one",
+      "score": 1,
+      "user": "abhisheksaha-619",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A swing and a miss...",
+      "score": 4,
+      "user": "sal10851",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fear and loathing in Salem",
+      "score": 6,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rob's Zombies best film yet!",
+      "score": 10,
+      "user": "Doug1986",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Most Mature Rob Zombie Film Yet",
+      "score": 6,
+      "user": "Greg (gregmoroberts@yahoo.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Setting the mood... and nothing else",
+      "score": 4,
+      "user": "Jack Higginbotham",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Contrived, boring, drawn out...YAWN.",
+      "score": 1,
+      "user": "thebogofeternalstench",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Only Reason I Watched This Was Deleted...",
+      "score": 2,
+      "user": "EllenStokes",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meant to complement the book",
+      "score": 8,
+      "user": " (adamsherf@yahoo.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant, retro, captures 40 years of avant garde horror",
+      "score": 9,
+      "user": "dedboy23-804-215590",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Zombie Meets Lovecraft",
+      "score": 8,
+      "user": "mrstephenpike",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Proverbial Jewel in Zombie's Crown",
+      "score": 10,
+      "user": "hollispierman",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If your into self gratifying demonic pornos this is your movie!",
+      "score": 1,
+      "user": "JarJar Binks",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trippy and Weird",
+      "score": 6,
+      "user": "Craig Peters",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "1970's Satanism Flashback",
+      "score": 7,
+      "user": "Joseph Brando",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that was actually better then I expected. More disturbing then true horror. Horror fans will like this a lot. I say B-",
+      "score": 6,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the worst movies I've ever seen",
+      "score": 1,
+      "user": "rogerhenrik",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unbelievably bad",
+      "score": 1,
+      "user": "roger gray",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disturbing Silliness...Rob Zombie's Best Movie To Date",
+      "score": 7,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Salem rocks!",
+      "score": 9,
+      "user": "dworldeater",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This time... the devil rules.",
+      "score": 9,
+      "user": "TDeMona",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Bored of Salem",
+      "score": 4,
+      "user": "Adam_West_as_Batdan",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What just happened?",
+      "score": 6,
+      "user": "tinusa007",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "From 'Pretty Good' to 'What the Crap Did I Just Watch' in 30 Minutes or Less",
+      "score": 5,
+      "user": "moonmonday",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spooky, atmospheric and a nice low key departure for Rob Zombie",
+      "score": 8,
+      "user": "NateWatchesCoolMovies",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rob Zombie's best film so far. And it's terrible",
+      "score": 3,
+      "user": "ExpendableMan",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie belongs in the WTF-league ...",
+      "score": 3,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good imagery ....bad storyline...scary midget? Lol",
+      "score": 5,
+      "user": "dr_strange1",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We serve the butchers....",
+      "score": 8,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Zombie has been studying Argento's \"Mothers\" Trilogy",
+      "score": 4,
+      "user": "omgllc2012",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well shot, poorly written",
+      "score": 6,
+      "user": "themissingpatient",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yes, the other reviewers were right..this one sucked",
+      "score": 2,
+      "user": "med77_99",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A headache inducing throwback to the 70's. I was bored to tears!",
+      "score": 2,
+      "user": "callanvass",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "God hates the Lords of Salem ... And, unfortunately, so do I.",
+      "score": 3,
+      "user": "Coventry",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A modern retro film that rocks the devil out of the box",
+      "score": 9,
+      "user": "lizblue",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing Original Here.......",
+      "score": 1,
+      "user": "runttwah",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "score": 2,
+      "user": "Tss5078",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why even waste the time",
+      "score": 1,
+      "user": "Nicholletta",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good film",
+      "score": 8,
+      "user": "Sam Chambers",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Leave it to Rob Zombie to always entertain us with his amazing sense of style and filmography.",
+      "score": 10,
+      "user": "AudiDubber",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So much better than expected ... Zombie grows up almost",
+      "score": 9,
+      "user": "Boyd",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A welcome witch picture by Rob Zombie",
+      "score": 8,
+      "user": "renchloctc",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good looking, but self-indulgent gibberish",
+      "score": 3,
+      "user": "ritera1",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "disturbing imagery without much scare",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Suspenseful, hardcore horror.",
+      "score": 6,
+      "user": "Michael O'Keefe",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Say Lem Lords",
+      "score": 5,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not even Barbara Crampton made this worth viewing",
+      "score": 1,
+      "user": "jadzia92",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you like Rob Zombie's movies . . .",
+      "score": 9,
+      "user": "Kevin Bannigan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lords: not your average recent horror",
+      "score": 9,
+      "user": "gjoslin09",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such a hard movie to rate",
+      "score": 9,
+      "user": "Jordan Hageman",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Engrossing and highly entertaining",
+      "score": 9,
+      "user": "GL84",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "High Art in Low Art a la Russell or Fresh Horror Cinema",
+      "score": 8,
+      "user": "briandoering86",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect user rating for once on IMDb .....",
+      "score": 5,
+      "user": "PimpinAinttEasy",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heart rate never got above resting",
+      "score": 4,
+      "user": "jtindahouse",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The lords of meh!",
+      "score": 5,
+      "user": "James Larocca",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Zombie Still Has Visual Talent, but LORDS is a Bit Too Dull",
+      "score": 6,
+      "user": "brando647",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gotta LOVE some B-movie GOODNESS",
+      "score": 8,
+      "user": "Shae Chevalier",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Almost",
+      "score": 6,
+      "user": "utgard14",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rob Zombie evolves...",
+      "score": 6,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In a certain mindset this is one disturbing film.",
+      "score": 7,
+      "user": "Tehmeh",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Lords of Salem is like Cronenberg and Kubrick had a baby then Rob Zombie and Sherri Moon Zombie adopted and raised it... Not bad!",
+      "score": 6,
+      "user": "CasketCoffinsky",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rob Zombie's psychedelic Crucible",
+      "score": 6,
+      "user": "Branton Anderson",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Now I can Take Rob Zombie seriously",
+      "score": 10,
+      "user": "joeywyss",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The True Anti-Christ Movie",
+      "score": 2,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mr. Zombie",
+      "score": 9,
+      "user": "alyssawheeler",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Certainly not for everyone...",
+      "score": 10,
+      "user": "itsfreakingmeout",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crap, utter crap.",
+      "score": 2,
+      "user": "gregmacknass2",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not up to par",
+      "score": 2,
+      "user": "Rod Strider",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews",
+      "score": 4,
+      "user": "capone666",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you've Seen a Rob Zombie film Give This One a Miss",
+      "score": 3,
+      "user": "facebook-664-938403",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stupidest movie I have ever seen",
+      "score": 1,
+      "user": "poker-slut",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A god-awful mess",
+      "score": 2,
+      "user": "mattbaxter72",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just awful",
+      "score": 1,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Holy horrible movies, Batman!",
+      "score": 1,
+      "user": "Timothy Shaffer",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty boring and I didn't like the acting",
+      "score": 3,
+      "user": "Fernando Romero",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally off the remake wagon",
+      "score": 7,
+      "user": "Rob Taylor",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Err....",
+      "score": 4,
+      "user": "jonnytheshirt",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Witches Gone Wild",
+      "score": 4,
+      "user": "Markus Emilio Robinson",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Continuing disappointment along Zombie's directorial decline.",
+      "score": 1,
+      "user": "Daniel Radcliffe",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth a look for open minded horror fans (contains spoilers)",
+      "score": 6,
+      "user": "rdekoch",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Low Budget Quality - Not That Good",
+      "score": 1,
+      "user": "scott-conley85",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The worst Rob Zombie movie to date!",
+      "score": 2,
+      "user": "Michael 'Hallows Eve' Smillie",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "childish imagery and poorly realised",
+      "score": 2,
+      "user": "last request",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A disturbing masterpiece that packs a royal punch!",
+      "score": 10,
+      "user": "Bollywood_Chewbacca (celebritylargeinflamation@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "it was hopeful",
+      "score": 5,
+      "user": "WoodBangers Entertainment",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm sorry Rob.",
+      "score": 3,
+      "user": "Matt Shults",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that made me want to scream, \"Wash your hair!\"",
+      "score": 3,
+      "user": "Aaron1375",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Geeky Randy's summary",
+      "score": 5,
+      "user": "Geeky Randy",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Huge Departure for Zombie from His Previous Movies",
+      "score": 7,
+      "user": "TheRedDeath30",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Satan! Come to us! We are ready! Satan! Come to us! We are ready! Satan! Come to us! We are ready!",
+      "score": 7,
+      "user": "Ben Larson",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tribute to Argento",
+      "score": 7,
+      "user": "dunnypop",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good movie... just not the typical from Rob Zombie.",
+      "score": 7,
+      "user": "richieandsam",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Zombie once again does a good job of depicting nightmare like imagery.",
+      "score": 7,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movie Review: THE LORDS OF SALEM (2013)",
+      "score": 10,
+      "user": "Brandon Stephens",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Someone stop Zombie before he films again!",
+      "score": 3,
+      "user": "Paul Sack",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unfortunately, the best part of this movie, is when the credits roll...",
+      "score": 2,
+      "user": "Petrinidesign",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "classic cult horror film one of the best all time films",
+      "score": 10,
+      "user": "cashiesbigbird",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A step in the right direction for Rob Zombie",
+      "score": 7,
+      "user": "Charles Camp",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Zombie's Best Movie",
+      "score": 9,
+      "user": "Christopher Maltauro",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Pleasant Surprise",
+      "score": 8,
+      "user": "Joshua Kho",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cheesy and Disappointing make from Zombie",
+      "score": 2,
+      "user": "redkev4581",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Satan, come to us. We are ready.",
+      "score": 7,
+      "user": "Scott LeBrun (Hey_Sweden)",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent Plot, Poor Execution.",
+      "score": 4,
+      "user": "hyperzephyrian",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A unique vision",
+      "score": 8,
+      "user": "TdSmth5",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Weird, Creepy and Disturbing Beyond Words!!!",
+      "score": 8,
+      "user": "Pumpkin_Man",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bored of Salem!",
+      "score": 3,
+      "user": "thejman1916",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One giant leap forward for Zombie",
+      "score": 8,
+      "user": "Professor Wagstaff",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A miss for Mr Zombie",
+      "score": 6,
+      "user": "robert haynes",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hmmm , not the best",
+      "score": 4,
+      "user": "fernandloathing",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie was pure evil and so awful.",
+      "score": 1,
+      "user": "careyrhondak",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Film for the right viewer",
+      "score": 8,
+      "user": "rweeks",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "70s Horror Fans Will Like It",
+      "score": 6,
+      "user": "notthatana",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rob Zombie's best film yet",
+      "score": 10,
+      "user": "horror2",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "art house seventies throw-back horror",
+      "score": 7,
+      "user": "trashgang",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hidden gem",
+      "score": 8,
+      "user": "William Bertram",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Zombie Shuffles Along",
+      "score": 2,
+      "user": "Matt Shafer (beornmatt@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Don't Understand All the Hate",
+      "score": 8,
+      "user": "jjjdnmls",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The thought of having to watch it again is SCARY",
+      "score": 2,
+      "user": "in1984",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Starts out interesting then fizzles out in a black hole of artistic FAIL",
+      "score": 3,
+      "user": "scottmannen1",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Usual Zombie",
+      "score": 8,
+      "user": "Harry Waterman",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gibberish",
+      "score": 2,
+      "user": "backus1611-1",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rob Zombie... where have you gone???",
+      "score": 2,
+      "user": "targe1314",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprising!",
+      "score": 8,
+      "user": "Colin Christian",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Salem is not in Texas, and this isn't House of 1000 Corpses, MA",
+      "score": 8,
+      "user": "bOOjum2010",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I like where Zombie is going with this",
+      "score": 6,
+      "user": "ghisallo2003",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Visually Stunning A Bit Slow",
+      "score": 7,
+      "user": "sofaqueen",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting",
+      "score": 8,
+      "user": "matmazel_didem",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An extended adolescent metal video without the bite.",
+      "score": 2,
+      "user": "Belle Ijerant",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Attention Rob Zombie!!! You are NOT Stanley Kubrick!",
+      "score": 2,
+      "user": "jimbeamlean",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Even worse than his Halloween remake if you can believe it.",
+      "score": 1,
+      "user": "blakeblueblood",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's perfect, sorry.",
+      "score": 10,
+      "user": "akelemen90",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "its horrible",
+      "score": 2,
+      "user": " (octahexx)",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rob Zombie has lost his mind!",
+      "score": 1,
+      "user": "tonyhurleypro",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rob Zombie just doesn't have it anymore",
+      "score": 1,
+      "user": "Eightiesjunkie",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An old school WTF?",
+      "score": 8,
+      "user": "Steve Christensen (steveisfree4eva@yahoo.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What The Trash is this?",
+      "score": 1,
+      "user": "utahman1971",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OK What the Fudge Was That?",
+      "score": 4,
+      "user": "chicagopoetry",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You have never seen anything like this",
+      "score": 7,
+      "user": "rivertam26",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant occult",
+      "score": 9,
+      "user": "rpgaddict86",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Didn't Suck!",
+      "score": 6,
+      "user": "ihearthorrorfilm",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent Film, But Not Zombie's Best",
+      "score": 6,
+      "user": "Slasher_Lover23",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horror Trunk Review: Cords of the Lords",
+      "score": 5,
+      "user": "Katie Bonham",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not What You Expect",
+      "score": 5,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the lords of Salem sick",
+      "score": 8,
+      "user": "John Ferrera",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly good",
+      "score": 8,
+      "user": "zetes",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Zombie-fied homage to Satanic/witchcraft subgenre horror films is a nice try effort",
+      "score": 8,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rob Zombie's latest is an enjoyable head trip horror.",
+      "score": 7,
+      "user": "jaguiar313",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Roman Polanski's MACBETH still the tops all time . . .",
+      "score": 6,
+      "user": "Tad Pole",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst movie i've ever seen, i mean it",
+      "score": 2,
+      "user": "santidia",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 101,
+  "votes_per_demo": {
+    "aged_45+": 2133,
+    "top_1000_voters": 276,
+    "males_under_18": 21,
+    "imdb_staff": 1,
+    "males_aged_18-29": 4739,
+    "imdb_users": 21704,
+    "males_aged_45+": 1807,
+    "aged_18-29": 6086,
+    "us_users": 5769,
+    "females_aged_30-44": 1422,
+    "males": 15692,
+    "females": 3185,
+    "females_aged_45+": 286,
+    "non-us_users": 9309,
+    "females_aged_18-29": 1279,
+    "females_under_18": 5,
+    "aged_30-44": 9930,
+    "aged_under_18": 26,
+    "males_aged_30-44": 8381
   },
   "genres": [
     "horror",
     "thriller"
   ],
-  "budget": 2500000,
-  "rating": 5.1,
-  "name": "The Lords of Salem",
-  "opening_weekend_income": 642000,
-  "avg_screens": 175.0,
-  "gross_income": 1163508,
-  "votes_per_demo": {
-    "non-us_users": 9306,
-    "females_aged_18-29": 1280,
-    "females": 3185,
-    "aged_45+": 2133,
-    "females_under_18": 5,
-    "imdb_users": 21694,
-    "imdb_staff": 1,
-    "females_aged_30-44": 1421,
-    "aged_under_18": 26,
-    "males_aged_30-44": 8378,
-    "top_1000_voters": 276,
-    "aged_30-44": 9926,
-    "males_aged_18-29": 4736,
-    "males": 15685,
-    "females_aged_45+": 286,
-    "males_under_18": 21,
-    "us_users": 5769,
-    "males_aged_45+": 1807,
-    "aged_18-29": 6084
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 2042,
+    "2": 1427,
+    "3": 1987,
+    "4": 2754,
+    "5": 3518,
+    "6": 3354,
+    "7": 2803,
+    "8": 1709,
+    "9": 718,
+    "10": 1392
   },
-  "release_year": null,
+  "release_month": null,
+  "budget": 2500000,
   "budget_currency": "$",
-  "release_day": null
+  "total_screens": 700,
+  "year": 2012,
+  "rating": 5.1,
+  "critic_review_count": 239,
+  "opening_weekend_date": {
+    "month": 4,
+    "year": 2013,
+    "day": 19,
+    "__type__": "datetime.date"
+  },
+  "name": "The Lords of Salem",
+  "user_review_count": 168,
+  "avg_screens": 175.0
 }

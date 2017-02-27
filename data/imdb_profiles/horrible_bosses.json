@@ -1,91 +1,3490 @@
 {
-  "genres": [
-    "comedy",
-    "crime"
-  ],
-  "num_weekends": 16,
+  "budget_currency": "$",
+  "total_screens": 18152,
   "rating_freq": {
     "1": 3104,
     "2": 2854,
     "3": 5084,
-    "4": 10581,
-    "5": 27138,
-    "6": 69418,
-    "7": 119819,
-    "8": 75231,
-    "9": 27511,
+    "4": 10582,
+    "5": 27141,
+    "6": 69421,
+    "7": 119833,
+    "8": 75241,
+    "9": 27513,
     "10": 23652
   },
-  "budget": 35000000,
-  "votes_per_demo": {
-    "non-us_users": 180706,
-    "aged_45+": 18945,
-    "females_aged_45+": 3415,
-    "imdb_staff": 30,
-    "females_under_18": 226,
-    "males_aged_45+": 15230,
-    "females_aged_18-29": 38787,
-    "males_aged_30-44": 98912,
-    "females": 68172,
-    "imdb_users": 364392,
-    "us_users": 60641,
-    "males_under_18": 696,
-    "top_1000_voters": 659,
-    "aged_under_18": 930,
-    "males": 244936,
-    "males_aged_18-29": 118652,
-    "females_aged_30-44": 22272,
-    "aged_30-44": 122697,
-    "aged_18-29": 158964
-  },
+  "release_day": 8,
+  "genres": [
+    "comedy",
+    "crime"
+  ],
+  "name": "Horrible Bosses",
+  "release_month": "July",
+  "avg_screens": 1134.5,
+  "imdb_user_reviews": [
+    {
+      "user": "Tony Richens",
+      "score": 8,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "I didn't think anyone could write a decent comedy these days , I WAS WRONG"
+    },
+    {
+      "user": "joshyu85",
+      "score": 7,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Hilarious all the way"
+    },
+    {
+      "user": "andyudis",
+      "score": 10,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "First Rate Comedy"
+    },
+    {
+      "user": "diac228 (diac1987@netscape.net)",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "I'll take my comedy raw, blackened, with a side of crazy please."
+    },
+    {
+      "user": "evanston_dad",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Stop the Presses! A Funny Comedy for Adults"
+    },
+    {
+      "user": "melseele",
+      "score": 10,
+      "review_date": {
+        "day": 18,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Hilarious!"
+    },
+    {
+      "user": "MovieBuff26",
+      "score": 10,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Must See!"
+    },
+    {
+      "user": "TourettesPersonal",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Humorous Crimes"
+    },
+    {
+      "user": "zachornsey",
+      "score": 9,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Horrible Bosses Is Easily The Best Comedy Of The Year!"
+    },
+    {
+      "user": "Mowika Buff",
+      "score": 2,
+      "review_date": {
+        "day": 20,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Horrible Humor"
+    },
+    {
+      "user": "Ul Ko",
+      "score": 1,
+      "review_date": {
+        "day": 9,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "truly one of the worst comedies I have ever seen"
+    },
+    {
+      "user": "jeffreytull1960",
+      "score": 1,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Horrible Bosses? ...More like \"Horrible Hangover\""
+    },
+    {
+      "user": "whistlerspa",
+      "score": 1,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Just ... Horrible"
+    },
+    {
+      "user": "John Jacobson",
+      "score": 2,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Childish Humor for the Immature Adult Simpleton"
+    },
+    {
+      "user": "tefan57",
+      "score": 1,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Avoid this pointless and unfunny movie"
+    },
+    {
+      "user": "taupo19",
+      "score": 1,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "terrible movie - thank God I didn't pay to see it."
+    },
+    {
+      "user": "Alex Vojacek",
+      "score": 1,
+      "review_date": {
+        "day": 29,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Horrible bosses, disgusting script, lame jokes..."
+    },
+    {
+      "user": "Jason Doty (jdawg2103@yahoo.com)",
+      "score": 10,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Best comedy I have seen in a long time!"
+    },
+    {
+      "user": "greeneyedellen",
+      "score": 10,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "We laughed so hard our stomachs hurt!"
+    },
+    {
+      "user": "abundidi1184",
+      "score": 3,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Major Disappointment"
+    },
+    {
+      "user": "Andrew Korcsmaros (Tulan)",
+      "score": 10,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Great cast makes a good comedy"
+    },
+    {
+      "user": "AimSabSmoke-1",
+      "score": 10,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "A terrific movie!"
+    },
+    {
+      "user": "Krag",
+      "score": 10,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Trumps other comedies this year"
+    },
+    {
+      "user": "dcanwade",
+      "score": 2,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "good actors wasted on a less then funny film"
+    },
+    {
+      "user": "Jonny 99",
+      "score": 4,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Another work-themed disappointing outing from Jason Bateman"
+    },
+    {
+      "user": "Mark Zuyas",
+      "score": 10,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "How does someone not like this movie?"
+    },
+    {
+      "user": "Ahmed Dawod",
+      "score": 10,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Amazing Movie"
+    },
+    {
+      "user": "max-850",
+      "score": 2,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "So Much Promise completely falls apart"
+    },
+    {
+      "user": "arneskod",
+      "score": 2,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Star cast - worst script ever"
+    },
+    {
+      "user": "MartianTom",
+      "score": 1,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "???"
+    },
+    {
+      "user": "RandomViewer",
+      "score": 1,
+      "review_date": {
+        "day": 31,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "hopeless"
+    },
+    {
+      "user": "Bonesnap",
+      "score": 2,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Stupid movie"
+    },
+    {
+      "user": "Rubens Junior",
+      "score": 2,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Horrible movie."
+    },
+    {
+      "user": "mandywill70",
+      "score": 1,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Horrible bosses ho hum"
+    },
+    {
+      "user": "peopleofthisworld",
+      "score": 1,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "\"horrible\" is the right word for this movie"
+    },
+    {
+      "user": "rockymountainerica",
+      "score": 1,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "terrible"
+    },
+    {
+      "user": "totopsgr (totopsgr@yahoo.gr)",
+      "score": 6,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Not as funny as expected..watchable but not memorable"
+    },
+    {
+      "user": "flakfan",
+      "score": 1,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "The title should be Horrible Movie"
+    },
+    {
+      "user": "CiccioButcher",
+      "score": 1,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "US humor"
+    },
+    {
+      "user": "samsearth",
+      "score": 1,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "bad bad movie"
+    },
+    {
+      "user": "bending_spoons2000",
+      "score": 1,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "An insult to human intelligence"
+    },
+    {
+      "user": "kuehl",
+      "score": 1,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Nothing redeeming in this one"
+    },
+    {
+      "user": "kramsac",
+      "score": 1,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Stale and predictable."
+    },
+    {
+      "user": "SVU14_1",
+      "score": 1,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Easily The Worst Movie I Have Ever Seen."
+    },
+    {
+      "user": "Marthian80",
+      "score": 6,
+      "review_date": {
+        "day": 15,
+        "year": 2017,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Some good jokes but overall a bit dull"
+    },
+    {
+      "user": "Harry Lags",
+      "score": 8,
+      "review_date": {
+        "day": 12,
+        "year": 2017,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Great comedy, doesn't disappoint, Hilarious!"
+    },
+    {
+      "user": "mistoppi",
+      "score": 4,
+      "review_date": {
+        "day": 21,
+        "year": 2017,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Average dark comedy, not necessarily worth seeing"
+    },
+    {
+      "user": "Imdbidia",
+      "score": 7,
+      "review_date": {
+        "day": 7,
+        "year": 2017,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "It made me laugh"
+    },
+    {
+      "user": "blanche-2",
+      "score": 6,
+      "review_date": {
+        "day": 14,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "some excellent acting, some funny sequences"
+    },
+    {
+      "user": "AliceofX",
+      "score": 6,
+      "review_date": {
+        "day": 9,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Bumbling Idiots And Cartoonish Villains"
+    },
+    {
+      "user": "Thomas (filmreviews@web.de)",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Delightful watch, quite funny"
+    },
+    {
+      "user": "batbhai",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A good one time watch"
+    },
+    {
+      "user": "grantss",
+      "score": 7,
+      "review_date": {
+        "day": 24,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Great fun"
+    },
+    {
+      "user": "Davis P",
+      "score": 6,
+      "review_date": {
+        "day": 9,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Just alright, nothing all that special"
+    },
+    {
+      "user": "Python Hyena",
+      "score": 9,
+      "review_date": {
+        "day": 29,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Not Horrible."
+    },
+    {
+      "user": "Akshay Hegde",
+      "score": 6,
+      "review_date": {
+        "day": 23,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Good enough fun"
+    },
+    {
+      "user": "morrison-dylan-fan",
+      "score": 8,
+      "review_date": {
+        "day": 14,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Horrible Bosses:The theatrical cut."
+    },
+    {
+      "user": "Taylor Kingston",
+      "score": 10,
+      "review_date": {
+        "day": 5,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "No bosses were hurt in the making of this movie..."
+    },
+    {
+      "user": "Rickting",
+      "score": 7,
+      "review_date": {
+        "day": 18,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Unoriginal, but well played and often funny"
+    },
+    {
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "score": 9,
+      "review_date": {
+        "day": 8,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "misery's no life, but it makes for a hilarious movie"
+    },
+    {
+      "user": "Rob Starzec",
+      "score": 6,
+      "review_date": {
+        "day": 12,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "It Was Hilarious the First Time..."
+    },
+    {
+      "user": "bowmanblue",
+      "score": 8,
+      "review_date": {
+        "day": 2,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "How would you kill yours?"
+    },
+    {
+      "user": "hall895",
+      "score": 7,
+      "review_date": {
+        "day": 5,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A comedy that's far from horrible"
+    },
+    {
+      "user": "jbend14",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "hilarious"
+    },
+    {
+      "user": "Abin S Raj",
+      "score": 7,
+      "review_date": {
+        "day": 18,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Standard comedy"
+    },
+    {
+      "user": "Botsu",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "In-your-face Comedy Exceeds Expectations"
+    },
+    {
+      "user": "richieandsam",
+      "score": 8,
+      "review_date": {
+        "day": 16,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "A really funny comedy."
+    },
+    {
+      "user": "seansworks",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Comedy in pure crazy, silly, gross form"
+    },
+    {
+      "user": "Geeky Randy",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Bateman/Spacey conflict easily better than the other stories."
+    },
+    {
+      "user": "dierregi",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Best comedy of the year"
+    },
+    {
+      "user": "tieman64",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Recession Sugar"
+    },
+    {
+      "user": "FlashCallahan",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "'Some Ethan Hawke Movie?'......"
+    },
+    {
+      "user": "xJags",
+      "score": 7,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Horribly original and enjoyable!"
+    },
+    {
+      "user": "warriors_fan",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Definitely worth a watch"
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Killer concept and comic chemistry make for far from \"Horrible\""
+    },
+    {
+      "user": "samuel5",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Pleasant Surprise"
+    },
+    {
+      "user": "rparham",
+      "score": 7,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Funny, falling a bit short of hilarity"
+    },
+    {
+      "user": "Vinegaroon3",
+      "score": 7,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Over the top....but FUNNY.  Worth seeing."
+    },
+    {
+      "user": "KJJenkins",
+      "score": 6,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A fun and silly comedy"
+    },
+    {
+      "user": "Jay Johnson",
+      "score": 6,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "An often amusing and fun comedy, that with a bit more spark could have been hilarious"
+    },
+    {
+      "user": "zardoz-13",
+      "score": 8,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Politically Incorrect But Above-Average Hilarity"
+    },
+    {
+      "user": "danjama",
+      "score": 8,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "'Horrible Bosses' is the best comedy in recent memory."
+    },
+    {
+      "user": "sugaryspice14",
+      "score": 8,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Entertaining and funny... definitely worth a watch"
+    },
+    {
+      "user": "zentertainmentweeklydotcom",
+      "score": 6,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Horrible Bosses - ZentertainmentWeekly - http://wp.me/p1AJJT-sM"
+    },
+    {
+      "user": "Jamie Ward",
+      "score": 7,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Filthy Fun."
+    },
+    {
+      "user": "Ar23035",
+      "score": 8,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A fun time at the movies"
+    },
+    {
+      "user": "loco_73",
+      "score": 8,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "I wish my dentist looked like Jennifer Aniston!"
+    },
+    {
+      "user": "D_Burke",
+      "score": 8,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Everyone's Had A Bad Boss, & Everyone's Had That Fantasy"
+    },
+    {
+      "user": "johnmiddleton12",
+      "score": 8,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A View To A Kill or Two"
+    },
+    {
+      "user": "treeskier802",
+      "score": 7,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Fresh Spin On This Comedy"
+    },
+    {
+      "user": "itsmyreview",
+      "score": 8,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Wonderful Sexy Comedy Delight"
+    },
+    {
+      "user": "Nuz_Reviews",
+      "score": 8,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "2011 Comedy of the Summer"
+    },
+    {
+      "user": "kilmeedyman",
+      "score": 9,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "The funniest movie I've seen in ages"
+    },
+    {
+      "user": "emilybutler66",
+      "score": 9,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Absolutely hilarious"
+    },
+    {
+      "user": "sreeya-wiesner",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Hilarious comedy!"
+    },
+    {
+      "user": "Greg Smith",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "The Three Stooges meet Hitchcock in the 21st century"
+    },
+    {
+      "user": "paperandbooks",
+      "score": 9,
+      "review_date": {
+        "day": 24,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "So much FUN!"
+    },
+    {
+      "user": "Bilal Ahmed",
+      "score": 8,
+      "review_date": {
+        "day": 14,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A good comedy movie!"
+    },
+    {
+      "user": "Geremias Correa",
+      "score": 4,
+      "review_date": {
+        "day": 4,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Could be much better"
+    },
+    {
+      "user": "stephenpaultaylor",
+      "score": 5,
+      "review_date": {
+        "day": 9,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "I Laughed Once... Maybe Twice"
+    },
+    {
+      "user": "Pedro Monteiro",
+      "score": 8,
+      "review_date": {
+        "day": 18,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Entertaining, funny and smart"
+    },
+    {
+      "user": "Theodore  Keating",
+      "score": 9,
+      "review_date": {
+        "day": 17,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A Rape-Free Work Environment"
+    },
+    {
+      "user": "Dillon Harris",
+      "score": 9,
+      "review_date": {
+        "day": 12,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Unexpectedly Hilarious and Original Comedy,"
+    },
+    {
+      "user": "Suyodhana",
+      "score": 8,
+      "review_date": {
+        "day": 17,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "One of the Funniest movies I have seen"
+    },
+    {
+      "user": "silentslayer18",
+      "score": 8,
+      "review_date": {
+        "day": 15,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Excellent"
+    },
+    {
+      "user": "Liam Duncan",
+      "score": 9,
+      "review_date": {
+        "day": 13,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Hilarious!!"
+    },
+    {
+      "user": "Scott-101",
+      "score": 8,
+      "review_date": {
+        "day": 7,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Kind of rushed but pretty fun. Great chemistry"
+    },
+    {
+      "user": "dbkubie611",
+      "score": 8,
+      "review_date": {
+        "day": 6,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Always the perfect movie to see any day"
+    },
+    {
+      "user": " (sylviastel@aol.com)",
+      "score": 5,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Could Have Been Better! A disappoint overall!"
+    },
+    {
+      "user": "sribornagain-394-460163",
+      "score": 7,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Enjoyable"
+    },
+    {
+      "user": "shannonmykayla",
+      "score": 6,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A little too much and not quite enough"
+    },
+    {
+      "user": "Siobhan Miller",
+      "score": 5,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "A horrible conventional comedy!"
+    },
+    {
+      "user": "bkrauser-81-311064",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Whose the Boss Now?"
+    },
+    {
+      "user": "jp0379",
+      "score": 9,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "VERY funny....."
+    },
+    {
+      "user": "Film Watchin Fool",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Horrible Bosses, Exceptional Movie"
+    },
+    {
+      "user": "SylvainSivori",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "More or less a series of sketches built into an unbelievable storyline, funny enough though."
+    },
+    {
+      "user": "melissacoxmusic",
+      "score": 8,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Hilarious, they don't make comedies like this anymore"
+    },
+    {
+      "user": "Polaris_DiB",
+      "score": 8,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Funnier than expected"
+    },
+    {
+      "user": "galileo3",
+      "score": 6,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Horrible Bosses suffers from an inconsistent and relatively superficial screenplay, but packs just about enough laughs for a recommendation"
+    },
+    {
+      "user": "JackMayhauf",
+      "score": 6,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Not as funny as I thought"
+    },
+    {
+      "user": "Fields201",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Almost Like The Hangover Without The Hangover"
+    },
+    {
+      "user": "onyxxtreme",
+      "score": 9,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Funny as !@$&"
+    },
+    {
+      "user": "ariadiva13",
+      "score": 10,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Hilarity ensues..."
+    },
+    {
+      "user": "chrismsawin",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A breath of fresh air to the R-rated comedy genre"
+    },
+    {
+      "user": "thesar-2",
+      "score": 6,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "9 2 5 2"
+    },
+    {
+      "user": "mm-39",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Not a bad movie!"
+    },
+    {
+      "user": "Alabama Al",
+      "score": 3,
+      "review_date": {
+        "day": 1,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Not that good a movie either"
+    },
+    {
+      "user": "jwhittier16",
+      "score": 8,
+      "review_date": {
+        "day": 17,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Horrible Bosses Review"
+    },
+    {
+      "user": "Maniac-9",
+      "score": 6,
+      "review_date": {
+        "day": 20,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Mildly entertaining but fairly forgettable"
+    },
+    {
+      "user": "Martin de Lusenet",
+      "score": 4,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Tedious. Getting bored after 30 minutes"
+    },
+    {
+      "user": "badumtssh",
+      "score": 4,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "'Horrible Bosses': A Performance Review"
+    },
+    {
+      "user": "h_darden",
+      "score": 4,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Not what I hoped for."
+    },
+    {
+      "user": "ayca erinc",
+      "score": 5,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Horrible \"Boss Movie\""
+    },
+    {
+      "user": "jcallows",
+      "score": 3,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "As Dull As The Hangover"
+    },
+    {
+      "user": "usman_ali442",
+      "score": 8,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Nice Movie"
+    },
+    {
+      "user": "lewiskendell",
+      "score": 7,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "And you thought your boss was bad."
+    },
+    {
+      "user": "Binoy Santhakumar (bonzybino)",
+      "score": 7,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Boisterous and hilarious.."
+    },
+    {
+      "user": "studioAT",
+      "score": 1,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Crewd but strangely enjoyable"
+    },
+    {
+      "user": "paulespie",
+      "score": 9,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Where did this gem come from?"
+    },
+    {
+      "user": "peter-sweeney",
+      "score": 6,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Come on! Unfunny and Unimaginative piece of work"
+    },
+    {
+      "user": "dan wade",
+      "score": 8,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "The film the hangover part 2 should of been!"
+    },
+    {
+      "user": "steve_ford53",
+      "score": 5,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Funny Enough"
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "score": 10,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Puts The Hangover to shame."
+    },
+    {
+      "user": "kismit",
+      "score": 6,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Decent but probably not worthy of the cast."
+    },
+    {
+      "user": "GoneWithTheTwins",
+      "score": 7,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "The basic plot is just clever enough to win over the few missteps."
+    },
+    {
+      "user": "deana_lisi",
+      "score": 1,
+      "review_date": {
+        "day": 26,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Vulgar and Filthy"
+    },
+    {
+      "user": "Bradley Baum",
+      "score": 1,
+      "review_date": {
+        "day": 16,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Black? Yes! Funny? Not in the slightest!"
+    },
+    {
+      "user": "Chris L",
+      "score": 2,
+      "review_date": {
+        "day": 15,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Boring"
+    },
+    {
+      "user": "Craig Powell",
+      "score": 2,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Over-hyped"
+    },
+    {
+      "user": "pc95",
+      "score": 2,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Vulgar and Unfunny"
+    },
+    {
+      "user": "pynn307",
+      "score": 3,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Please DON'T waste your time....."
+    },
+    {
+      "user": "Jon Mathias",
+      "score": 3,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Hollywod Just Can't Do Comedy"
+    },
+    {
+      "user": "Daniel F-P",
+      "score": 3,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Well, I almost laughed once or twice"
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "score": 4,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "What was all the hype about?..."
+    },
+    {
+      "user": "Likes_Ninjas90",
+      "score": 5,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "The first quarter of this film is diabolically unfunny"
+    },
+    {
+      "user": "Terrell Howell (KnightsofNi11)",
+      "score": 5,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "More generic brand comedy"
+    },
+    {
+      "user": "napierslogs",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Adding crude and sexual content to make a plot-rich story funny"
+    },
+    {
+      "user": "robertscott1949",
+      "score": 2,
+      "review_date": {
+        "day": 10,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "American Slapstick Comedy"
+    },
+    {
+      "user": "wezel2",
+      "score": 1,
+      "review_date": {
+        "day": 23,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Lame"
+    },
+    {
+      "user": "Max Bax",
+      "score": 1,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "I wanted to kill the guys..."
+    },
+    {
+      "user": "julian-mumford",
+      "score": 5,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "A middling comedy with a lackluster script"
+    },
+    {
+      "user": "Anshuman Singh",
+      "score": 2,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Bad movie with an amazing Cast. What a waste."
+    },
+    {
+      "user": "FrostyChud",
+      "score": 5,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Another \"Castrated Schlub\" comedy"
+    },
+    {
+      "user": "robbelothe",
+      "score": 5,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Don't pay full price -- better yet, watch it \"on demand\" from your cable/satellite provider."
+    },
+    {
+      "user": "leningrad-cowboy",
+      "score": 1,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "horrible"
+    },
+    {
+      "user": "mattarnott",
+      "score": 1,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Please save your time and money"
+    },
+    {
+      "user": "Jimmy Collins",
+      "score": 2,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Jennifer is EXCELLENT. The rest is lame!!!!!"
+    },
+    {
+      "user": "rogerdob",
+      "score": 4,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Wears thin after awhile"
+    },
+    {
+      "user": "secondtake",
+      "score": 7,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Fast and crazy hilarity"
+    },
+    {
+      "user": "MacacoBanditi",
+      "score": 1,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Horrible in every possible way"
+    },
+    {
+      "user": "John",
+      "score": 2,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "The most overrated movie of this year"
+    },
+    {
+      "user": "woitek",
+      "score": 2,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "bad, bad film"
+    },
+    {
+      "user": "jonnyhavey",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Balanced Casting: Bosses Better Be Nice!"
+    },
+    {
+      "user": "gigadragon12",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Word of Mouth Review: Horrible Bosses"
+    },
+    {
+      "user": "chatless46",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "100% More Laughs"
+    },
+    {
+      "user": "Stephen Cook",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A fun and creative comedy, but a lot of wasted potential!"
+    },
+    {
+      "user": "PWNYCNY",
+      "score": 9,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A laugh-producing machine."
+    },
+    {
+      "user": "st-shot",
+      "score": 4,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Horrible leads can's Bosses."
+    },
+    {
+      "user": "Terry Roehrig II",
+      "score": 9,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "It's \"9 to 5\" meets \"Strangers on a Train\"..... and it's hilarious..."
+    },
+    {
+      "user": "lawrenceconwayvulcan",
+      "score": 9,
+      "review_date": {
+        "day": 10,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "All too true"
+    },
+    {
+      "user": "BA_Harrison",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Consistently amusing throughout."
+    },
+    {
+      "user": "Tayla Halford",
+      "score": 8,
+      "review_date": {
+        "day": 4,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Need to see HB 2!"
+    },
+    {
+      "user": "Phil Hubbs",
+      "score": 10,
+      "review_date": {
+        "day": 16,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Horrible Bosses"
+    },
+    {
+      "user": "taikung1",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Great date movie"
+    },
+    {
+      "user": "LeonLouisRicci",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Raunchy Comedy That is Actually Funny at Times"
+    },
+    {
+      "user": "Andr\u00c3\u00a9s Doudchitzky",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Horrible Bosses Review"
+    },
+    {
+      "user": "Floated2",
+      "score": 5,
+      "review_date": {
+        "day": 3,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Over the top and Forced Comedy"
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Some stupid hilarity"
+    },
+    {
+      "user": "Prismark10",
+      "score": 7,
+      "review_date": {
+        "day": 8,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Employees of the month"
+    },
+    {
+      "user": "Thanos Alfie",
+      "score": 6,
+      "review_date": {
+        "day": 24,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Nice comedy..."
+    },
+    {
+      "user": "m1xer",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "The three Bosses were more entertaining then the three leads..."
+    },
+    {
+      "user": "g-bodyl",
+      "score": 9,
+      "review_date": {
+        "day": 2,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Hilarious!"
+    },
+    {
+      "user": "apenney87",
+      "score": 8,
+      "review_date": {
+        "day": 23,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Fun and not expected"
+    },
+    {
+      "user": "thepotatoHasEyes",
+      "score": 8,
+      "review_date": {
+        "day": 13,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "horrible bosses is somehow shockingly funny in its humor"
+    },
+    {
+      "user": "Bevan Mortimer",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Much funnier than I was lead to believable"
+    },
+    {
+      "user": "dunmore_ego",
+      "score": 6,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Hitchcock\u0085 Hitch-Not"
+    },
+    {
+      "user": "hani_78696",
+      "score": 8,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Dean \"MF\" Jones,the name is enough to make us laugh"
+    },
+    {
+      "user": "edwardcking2001",
+      "score": 9,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Absolutely Hilarious - Almost the Perfect Comedy"
+    },
+    {
+      "user": "Treyroo",
+      "score": 8,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Hilarious"
+    },
+    {
+      "user": "deatman9",
+      "score": 7,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Good movie but I wish it had more funny moments."
+    },
+    {
+      "user": "Diorafan05",
+      "score": 6,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Genuinely funny"
+    },
+    {
+      "user": "aesgaard41",
+      "score": 8,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Horribly Entertaining"
+    },
+    {
+      "user": "richy1024",
+      "score": 7,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Do not notify your supervisor you've watched this one!"
+    },
+    {
+      "user": "kotenzekotenze",
+      "score": 7,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Unexpectedly but Thoroughly Funny"
+    },
+    {
+      "user": "axlrhodes",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Same tone as The Hangover, funny though."
+    },
+    {
+      "user": "thekarmicnomad",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "More than Nine to Five"
+    },
+    {
+      "user": "t_aydin",
+      "score": 9,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Commit a Crime in A Funny Way"
+    },
+    {
+      "user": "Daniel Hollis",
+      "score": 6,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Fun, But Flawed"
+    },
+    {
+      "user": "Ryan_MYeah",
+      "score": 6,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Witty for what it is. Just don't expect a comedy of total hysteria."
+    },
+    {
+      "user": "Agatha666",
+      "score": 5,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Predictable but funny"
+    },
+    {
+      "user": "chunkybuttsam",
+      "score": 6,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "It works better than its trailer would lead you to believe"
+    },
+    {
+      "user": "SnakesOnAnAfricanPlain",
+      "score": 8,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Horrible Bosses (2011)"
+    },
+    {
+      "user": "guy-nicholas",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "This movie is crazy, hilarious, everything you could want."
+    },
+    {
+      "user": "bman342",
+      "score": 9,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Absolutely Hilarious"
+    },
+    {
+      "user": "navinder-j-singh",
+      "score": 6,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A good time pass for all those who fed up with their bosses dream to smash 'Em"
+    },
+    {
+      "user": "abhitaliyan",
+      "score": 7,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Horrible Bosses: FlickyFriday Review"
+    },
+    {
+      "user": "zetes",
+      "score": 6,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Uneven, but Day and Aniston are hilarious"
+    },
+    {
+      "user": "brando647",
+      "score": 8,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "One of the Few Good 2011 Comedies"
+    },
+    {
+      "user": "Brandon Blackwell",
+      "score": 8,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "\"Ever wish your boss were dead?\""
+    },
+    {
+      "user": "girllovesmovies27",
+      "score": 7,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Charlie Day made this film funny"
+    },
+    {
+      "user": "Benjamin Oaks",
+      "score": 9,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "funniest movie since step brothers"
+    },
+    {
+      "user": "Anmol Rawat",
+      "score": 8,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Outstanding"
+    },
+    {
+      "user": "rockthearts-against",
+      "score": 7,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Very Funny! Don't watch with relatives!!!"
+    },
+    {
+      "user": "Ken Syme (pghfilmcritic@gmail.com)",
+      "score": 9,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Horrible Bosses: Hysterical"
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "score": 9,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Horrible Bosses (2011) - I Really Hate My Boss So Much!"
+    },
+    {
+      "user": "JohnRayPeterson",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Contemporary subject, wishful thinking and a great cast = fun."
+    },
+    {
+      "user": "david-sarkies",
+      "score": 6,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Probably worth seeing for some decent laughs"
+    },
+    {
+      "user": "IheartCali5882",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Very good story, very good actors."
+    },
+    {
+      "user": "TheAlbinoRhino",
+      "score": 9,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "A Comedy to Remember"
+    },
+    {
+      "user": "estebangonzalez10",
+      "score": 8,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "One of the best comedies of the year!"
+    },
+    {
+      "user": "Rockwell_Cronenberg",
+      "score": 6,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "The funniest movie in a long time."
+    },
+    {
+      "user": "leplatypus",
+      "score": 7,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Not a horrible movie (screen)"
+    },
+    {
+      "user": "Christian_Dimartino",
+      "score": 9,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "The actors really make this shine."
+    },
+    {
+      "user": "Argemaluco",
+      "score": 7,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Not very memorable, but entertaining"
+    },
+    {
+      "user": "adam-scrivner",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Best film of the summer"
+    },
+    {
+      "user": "gdrenfrew",
+      "score": 4,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Funny? You're joking?"
+    },
+    {
+      "user": "dashjoe20",
+      "score": 9,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "One of the best pick for comedy!"
+    },
+    {
+      "user": "khan2705",
+      "score": 7,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "a good and funny comedy. i enjoyed it."
+    },
+    {
+      "user": "movieaddict-115-210155",
+      "score": 9,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Surprisingly Good!!"
+    },
+    {
+      "user": "bryan-mendoza13",
+      "score": 9,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "it was simply funny beginning to end"
+    },
+    {
+      "user": "janetki-imdb",
+      "score": 4,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "In one word: MEH."
+    },
+    {
+      "user": "alia alhashimi",
+      "score": 10,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "too funny!"
+    },
+    {
+      "user": "troy-manatunga",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Maybe fall short of 10 spine cracking laughs but clearly and firmly will stand at number 2 for a long time!"
+    },
+    {
+      "user": "philipmater",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Not Horrible"
+    },
+    {
+      "user": "coltsfan18288",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A new Classic"
+    },
+    {
+      "user": "elevengood92",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "(Enjoyable) Bosses"
+    },
+    {
+      "user": "Hellmant",
+      "score": 5,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "'HORRIBLE BOSSES' isn't horrible but it isn't that good either."
+    },
+    {
+      "user": "thedavidrowley",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Sudeikis and Foxx are great in new comedy Horrible Bosses"
+    },
+    {
+      "user": "jimbo-53-186511",
+      "score": 6,
+      "review_date": {
+        "day": 27,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Whilst not exactly 'laugh out loud' funny, Horrible Bosses is still a generally amusing film that can be easily related to"
+    },
+    {
+      "user": "rps-2",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "*****in Mother****** of a C*******er Film"
+    },
+    {
+      "user": "val Donovan",
+      "score": 8,
+      "review_date": {
+        "day": 31,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Really funny Movie"
+    },
+    {
+      "user": "Jim Gilligan",
+      "score": 8,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "More than funny enough"
+    },
+    {
+      "user": "Invister D",
+      "score": 10,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "decent comedy"
+    },
+    {
+      "user": "Matthew",
+      "score": 4,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Sporadic, Stupid, Not Funny Enough"
+    },
+    {
+      "user": "scunnerish",
+      "score": 6,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Horrible...no just disappointing"
+    },
+    {
+      "user": "Scott Baldwin (Meven_Stoffat)",
+      "score": 10,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Nothing \"horrible\" here"
+    },
+    {
+      "user": "meeza (themeezaman@hotmail.com)",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "You be the boss, but I thought it was pretty good, though not great."
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A fun dark comedy that gives you what you'd expect"
+    },
+    {
+      "user": "lasttimeisaw",
+      "score": 5,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Horrible Bosses"
+    },
+    {
+      "user": "Scotty",
+      "score": 2,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "In A Word:  Horrible"
+    },
+    {
+      "user": "bergeba",
+      "score": 4,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Stupid"
+    },
+    {
+      "user": "DJ Graham",
+      "score": 4,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Awful film with a corrupt IMDb rating"
+    },
+    {
+      "user": "junk-1657",
+      "score": 4,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "a vacation film for the actors, an enormous waste of time for the viewers"
+    },
+    {
+      "user": "Claudio Carvalho",
+      "score": 6,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A Silly Comedy that Occasionally Makes the Viewer Laugh"
+    },
+    {
+      "user": "gina-marie-93-996582",
+      "score": 9,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Hilarious"
+    },
+    {
+      "user": "ramseyspianos",
+      "score": 10,
+      "review_date": {
+        "day": 2,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Wow!"
+    },
+    {
+      "user": "Johan Dondokambey",
+      "score": 5,
+      "review_date": {
+        "day": 9,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Quite unpredictable for the kind of premise it brings"
+    },
+    {
+      "user": "mattkratz (themattk@hotmail.com)",
+      "score": 9,
+      "review_date": {
+        "day": 24,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "hilarious"
+    },
+    {
+      "user": "Michael O'Keefe",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Hasn't everyone wished harm to a horrible boss?"
+    },
+    {
+      "user": "nama chakravorty",
+      "score": 7,
+      "review_date": {
+        "day": 25,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Wickedly Entertaining!"
+    },
+    {
+      "user": "Austin Takahashi",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Horrible Bosses - 3.5 Stars"
+    },
+    {
+      "user": "perkypops",
+      "score": 6,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "The good moments are very funny but it is so uneven"
+    },
+    {
+      "user": "dbgeorge",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Predictable, but still funny..."
+    },
+    {
+      "user": "ted_leanse",
+      "score": 8,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Really Funny."
+    },
+    {
+      "user": "MLDinTN",
+      "score": 7,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "a comedy about murder...."
+    },
+    {
+      "user": "edwagreen",
+      "score": 7,
+      "review_date": {
+        "day": 18,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Horrible is Funny Here-Horrible Bosses ***"
+    },
+    {
+      "user": "Dan Franzen (dfranzen70)",
+      "score": 7,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "A hot Jennifer Aniston with a potty mouth? Sign me up"
+    },
+    {
+      "user": "Wilder Movie Reviews",
+      "score": 9,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Easily my favourite comedy of 2011"
+    },
+    {
+      "user": "serracinar",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Really Enjoyed"
+    },
+    {
+      "user": "Jin Maruhashi",
+      "score": 8,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Twisted fun"
+    },
+    {
+      "user": "M De Storm (marcusdestorm@gmail.com)",
+      "score": 8,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "If I had a boss like that..."
+    },
+    {
+      "user": "GandLNY",
+      "score": 8,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Perfect movie for some of us"
+    },
+    {
+      "user": "kosmasp",
+      "score": 8,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Over the top"
+    },
+    {
+      "user": "getyourdander",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Getting Back To Business"
+    },
+    {
+      "user": "Kratos666",
+      "score": 9,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Compared to all other comedies done lately, this is a masterpiece!"
+    },
+    {
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "score": 6,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Very Crude But Often Amusing"
+    },
+    {
+      "user": "Tss5078",
+      "score": 7,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com"
+    },
+    {
+      "user": "galvanekps",
+      "score": 8,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A Rare Product From Hollywood: Real Comedy."
+    },
+    {
+      "user": "Sean Lamberger",
+      "score": 7,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Bosses, Though Horrible, Effortlessly Steal the Show"
+    },
+    {
+      "user": "3xHCCH",
+      "score": 5,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "This is Jennifer Aniston's Best Work!"
+    },
+    {
+      "user": "Kristine (kristinedrama14@msn.com)",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Hmmm, this movie gave me a very bad idea"
+    },
+    {
+      "user": "beresfordjd",
+      "score": 4,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Only Bridesmaids is worse"
+    },
+    {
+      "user": "KineticSeoul",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Probably the best comedy for summer 2011"
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "score": 5,
+      "review_date": {
+        "day": 24,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Horrible Bosses"
+    },
+    {
+      "user": "arinkleff-725-861016",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "satire of modern American culture"
+    },
+    {
+      "user": "franciscoraposo72",
+      "score": 10,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "The Best Movie I've seen since The Hangover"
+    },
+    {
+      "user": "Abhi Now",
+      "score": 8,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A laugh riot from beginning to end"
+    },
+    {
+      "user": "Steven",
+      "score": 9,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A funny movie that goes into darker grounds"
+    },
+    {
+      "user": "moviewizguy",
+      "score": 7,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Ever wish your boss were dead?"
+    },
+    {
+      "user": "dotunolas",
+      "score": 9,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Having a Horrible Boss who is Sent from Hell."
+    },
+    {
+      "user": "TheLittleSongbird",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Great cast and premise in a very well done film"
+    },
+    {
+      "user": "Rneco2010",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Horrible Bosses"
+    },
+    {
+      "user": "Jordan Lowrey (JLow1864)",
+      "score": 10,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Horribly Fantastic"
+    },
+    {
+      "user": "DICK STEEL",
+      "score": 10,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "A Nutshell Review: Horrible Bosses"
+    },
+    {
+      "user": "Danny Blankenship",
+      "score": 9,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A title that rings true for many of us!, yet it would be nice to have a wild and funny crazy sexy time just like these disgruntled workers did!"
+    },
+    {
+      "user": "jessie-39",
+      "score": 10,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "As funny as hangover. Pee in pants funny"
+    },
+    {
+      "user": "loufalce",
+      "score": 1,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Horrible Movie-Can't Say Anything Else!"
+    }
+  ],
+  "release_year": 2011,
+  "max_screens": 3134,
+  "screens_by_weekend": [
+    3040,
+    3134,
+    3104,
+    2510,
+    2025,
+    1338,
+    755,
+    465,
+    422,
+    503,
+    44,
+    313,
+    222,
+    142,
+    85,
+    50
+  ],
+  "critic_review_count": 341,
+  "num_weekends": 16,
   "closing_date": {
-    "month": 10,
-    "__type__": "datetime.date",
     "day": 21,
-    "year": 2011
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 10
   },
-  "gross_income": 117528646,
+  "opening_weekend_screens": 3040,
+  "rating": 6.9,
+  "opening_weekend_income": 28302165,
+  "user_review_count": 391,
+  "budget": 35000000,
+  "rating_count": 364425,
+  "metascore": 57,
+  "duration": 98,
   "avg_rating_per_demo": {
     "non-us_users": 6.8,
-    "aged_45+": 6.6,
-    "females_aged_45+": 6.6,
-    "imdb_staff": 6.9,
+    "aged_30-44": 6.8,
+    "top_1000_voters": 6.4,
+    "us_users": 7.0,
     "females_under_18": 7.6,
-    "males_aged_45+": 6.6,
-    "females_aged_18-29": 6.9,
     "males_aged_30-44": 6.8,
     "females": 6.8,
     "imdb_users": 6.9,
-    "us_users": 7.0,
-    "males_under_18": 7.3,
-    "top_1000_voters": 6.4,
-    "aged_under_18": 7.4,
+    "aged_45+": 6.6,
     "males": 6.9,
+    "females_aged_45+": 6.6,
+    "females_aged_18-29": 6.9,
+    "aged_under_18": 7.4,
+    "males_under_18": 7.3,
     "males_aged_18-29": 7.0,
     "females_aged_30-44": 6.7,
-    "aged_30-44": 6.8,
+    "males_aged_45+": 6.6,
+    "imdb_staff": 6.9,
     "aged_18-29": 7.0
   },
-  "opening_weekend_date": {
-    "month": 7,
-    "__type__": "datetime.date",
-    "day": 8,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 180716,
+    "aged_30-44": 122722,
+    "top_1000_voters": 659,
+    "us_users": 60648,
+    "females_under_18": 226,
+    "males_aged_30-44": 98932,
+    "females": 68176,
+    "imdb_users": 364425,
+    "aged_45+": 18951,
+    "males": 244952,
+    "females_aged_45+": 3416,
+    "females_aged_18-29": 38784,
+    "aged_under_18": 929,
+    "males_under_18": 695,
+    "males_aged_18-29": 118644,
+    "females_aged_30-44": 22277,
+    "males_aged_45+": 15235,
+    "imdb_staff": 30,
+    "aged_18-29": 158953
   },
-  "budget_currency": "$",
-  "user_review_count": 391,
-  "metascore": 57,
-  "max_screens": 3134,
-  "duration": 98,
-  "rating_count": 364392,
-  "release_day": 8,
-  "release_month": "July",
-  "release_year": 2011,
+  "gross_income": 117528646,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 28302165,
-  "critic_review_count": 341,
-  "rating": 6.9,
-  "avg_screens": 1134.5,
-  "name": "Horrible Bosses",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 8,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 7
+  }
 }

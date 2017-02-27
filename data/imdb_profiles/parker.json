@@ -1,92 +1,1593 @@
 {
-  "critic_review_count": 224,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 3,
-    "day": 29
-  },
-  "release_month": "January",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 1,
-    "day": 25
-  },
-  "metascore": 42,
-  "max_screens": 2238,
-  "duration": 118,
-  "rating_count": 94114,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 10,
+  "release_day": 25,
   "avg_rating_per_demo": {
+    "aged_45+": 6.3,
+    "top_1000_voters": 5.7,
+    "males_under_18": 7.0,
+    "imdb_staff": 6.5,
+    "males_aged_18-29": 6.4,
+    "imdb_users": 6.2,
+    "males_aged_45+": 6.3,
+    "aged_18-29": 6.4,
+    "us_users": 6.1,
+    "females_aged_30-44": 6.1,
+    "males": 6.2,
+    "females": 6.3,
+    "females_aged_45+": 6.4,
     "non-us_users": 6.2,
     "females_aged_18-29": 6.4,
-    "females": 6.3,
-    "aged_45+": 6.3,
     "females_under_18": 6.9,
-    "imdb_users": 6.2,
-    "imdb_staff": 6.5,
-    "females_aged_30-44": 6.1,
-    "aged_under_18": 7.0,
-    "males_aged_30-44": 6.1,
-    "top_1000_voters": 5.7,
     "aged_30-44": 6.1,
-    "males_aged_18-29": 6.4,
-    "males": 6.2,
-    "females_aged_45+": 6.4,
-    "males_under_18": 7.0,
-    "us_users": 6.1,
-    "males_aged_45+": 6.3,
-    "aged_18-29": 6.4
+    "aged_under_18": 7.0,
+    "males_aged_30-44": 6.1
   },
-  "user_review_count": 144,
-  "rating_freq": {
-    "1": 1175,
-    "2": 940,
-    "3": 1910,
-    "4": 4552,
-    "5": 12631,
-    "6": 28105,
-    "7": 25069,
-    "8": 10143,
-    "9": 3408,
-    "10": 6181
+  "closing_date": {
+    "month": 3,
+    "year": 2013,
+    "day": 29,
+    "__type__": "datetime.date"
+  },
+  "metascore": 42,
+  "num_weekends": 10,
+  "rating_count": 94139,
+  "gross_income": 17609982,
+  "max_screens": 2238,
+  "opening_weekend_screens": 2224,
+  "screens_by_weekend": [
+    2224,
+    2238,
+    2004,
+    705,
+    212,
+    51,
+    34,
+    92,
+    55,
+    36
+  ],
+  "opening_weekend_income": 7008222,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "Every other Jason Statham film ever made",
+      "score": 4,
+      "user": "m-atanasoff",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A 'must see' for Jason Statham fans...",
+      "score": 8,
+      "user": "bmennen",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Statham Makes a Great Parker",
+      "score": 8,
+      "user": "boblipton",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Statham Doing What He Does Best - Kick Ass",
+      "score": 7,
+      "user": "A K",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crime thriller which keeps its schizophrenia under control",
+      "score": 7,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I really wanted to like it",
+      "score": 6,
+      "user": "siderite",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Captures the essence of the \"Parker\" character",
+      "score": 8,
+      "user": "brendonm",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Action Thriller",
+      "score": 7,
+      "user": " (bob-rutzel-1)",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Vengeance seeking Statham propels this swell slice of pulp fiction",
+      "score": 8,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too long and predictable, but no flop",
+      "score": 7,
+      "user": "Bene Cumb",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a love story",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent action thriller!",
+      "score": 8,
+      "user": "manusanchez90",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No one will expect much from a Jason Statham movie released in January, but \"Parker\" is still surprisingly disappointing.",
+      "score": 2,
+      "user": "GoneWithTheTwins",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Engrossing Escape",
+      "score": 8,
+      "user": "Larry Silverstein",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful",
+      "score": 10,
+      "user": "Cesare Roma",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Parker delivers action-entertainment-fun",
+      "score": 8,
+      "user": "dgefroh",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An excellent down to Earth thriller!",
+      "score": 10,
+      "user": "josephanthonytaylor",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kick-Ass!",
+      "score": 7,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ethics and Action, but Mostly Action",
+      "score": 7,
+      "user": "anitalansing",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Class guy that Parker!",
+      "score": 8,
+      "user": "Ed-Shullivan",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jennifer Lopez pays the director to be in this film",
+      "score": 1,
+      "user": "imdb-45",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Good Movie",
+      "score": 10,
+      "user": "mikeholliday51",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining and Typical Jason Statham movie",
+      "score": 7,
+      "user": "Ranbud",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Nothing but bills . . .\"",
+      "score": 8,
+      "user": "Hot 888 Mama",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Classic Jason Statham",
+      "score": 4,
+      "user": "Ole Sandbaek Joergensen",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For me, Stratham is the perfect Parker!",
+      "score": 8,
+      "user": "deacon_blues-3",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Live by your principles",
+      "score": 8,
+      "user": "Kris",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Standard Statham Vehicle, Entertaining",
+      "score": 7,
+      "user": "sean-cowan1",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jason Statham fare, like we sort of want secretly",
+      "score": 6,
+      "user": "JohnRayPeterson",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "this film has been harshly treated",
+      "score": 8,
+      "user": "christopher-underwood",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lots of fun",
+      "score": 10,
+      "user": "TdSmth5",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting Movie ... but nothing to do with Parker",
+      "score": 7,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Nutshell Review: Parker",
+      "score": 7,
+      "user": "DICK STEEL",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's above average",
+      "score": 7,
+      "user": "Curtis Jackson",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lot of action, yet the story is to good to be true, still good eye candy in the form of J. Lo!",
+      "score": 8,
+      "user": "Danny Blankenship",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring yawn fest with horrible acting",
+      "score": 3,
+      "user": "Marthian80",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Had potential to be better.....",
+      "score": 5,
+      "user": "Davis P",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another version of the Hunter",
+      "score": 6,
+      "user": "simpsonhb",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent revenge thriller for Statham fans",
+      "score": 8,
+      "user": "juneebuggy",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie, fast-paced and engrossing.",
+      "score": 7,
+      "user": "Jeff Wilson",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like watching a \"Grand Theft Auto\" video game",
+      "score": 5,
+      "user": "nerfball_king",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brief excitement from the two leads and some action sequences, although the material drags too long for its own good",
+      "score": 6,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you've seen one Statham movie...",
+      "score": 6,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining but hardly anything brilliant",
+      "score": 6,
+      "user": "Adam Peters",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If You're A Jason Statham Fan.....",
+      "score": 8,
+      "user": "g-bodyl",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Standard Statham Action Film",
+      "score": 8,
+      "user": "Floated2",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everyone steals, Leslie. Some people admit it to themselves, some don't. It's what human beings do.",
+      "score": 6,
+      "user": "Ben Larson",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Skillfully executed despite a faltering last third",
+      "score": 7,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stick with \"Point Blank\" and \"Payback\". This one's pretty lifeless.",
+      "score": 5,
+      "user": "Mr-Fusion",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocre with some pluses.",
+      "score": 6,
+      "user": "cinematic_aficionado (cinematokrisis@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Revenge with Honor",
+      "score": 8,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lacks essence",
+      "score": 5,
+      "user": "virtue_srb",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pay Back is better!",
+      "score": 6,
+      "user": "mm-39",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good film if you're a Statham fan",
+      "score": 6,
+      "user": "msr31684",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "score": 8,
+      "user": "Tss5078",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A revamp of Eastwood's the Gauntlet.",
+      "score": 6,
+      "user": "baracuda_hemi",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable",
+      "score": 5,
+      "user": "Chris L",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Typical Statham Movie!",
+      "score": 7,
+      "user": "ShelbyTMItchell",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a bad choice just to pass time..",
+      "score": 6,
+      "user": "Balu Vyamajala",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Way back before . . .",
+      "score": 4,
+      "user": "inspectors71",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Parker",
+      "score": 5,
+      "user": "Jackson Booth-Millard",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable but typical Statham flick!",
+      "score": 6,
+      "user": "George Clarke",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love Jason Statham as Parker",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Better Than Point Blank (1967) or Payback (1999)...But Very Good",
+      "score": 7,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good action, 20 minutes too long",
+      "score": 6,
+      "user": "curtis martin",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Typically Statham!",
+      "score": 7,
+      "user": "der_mimo",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jennifer Lopez Saved This Movie",
+      "score": 6,
+      "user": "lracosta",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Okay at best",
+      "score": 5,
+      "user": "SanteeFats",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Payback",
+      "score": 3,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the sort of adaptation we would have hoped for, as plastic action and rushed storytelling dominate.",
+      "score": 5,
+      "user": "johnnyboyz",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining, but not extraordinary...",
+      "score": 5,
+      "user": "Paul Magne Haakonsen",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neither Statham or Lopez has the range to pull this off.",
+      "score": 5,
+      "user": "carbuff",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Park-er Somewhere Else!",
+      "score": 2,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of my time",
+      "score": 2,
+      "user": "arunak-1",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I am disappointed!",
+      "score": 3,
+      "user": "petarmatic",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Undemanding fun",
+      "score": 7,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Looks Like It Was Fabricated. \u2666 57%",
+      "score": 6,
+      "user": "Tejas Nair",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Failed to Grip",
+      "score": 5,
+      "user": "ganapathy51",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just lots of bills.....",
+      "score": 7,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cinematic drivel worthy of a snooze.",
+      "score": 2,
+      "user": "belowglide",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Steal from the thieves who took your money",
+      "score": 6,
+      "user": "adi_2002",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plain simple",
+      "score": 5,
+      "user": "tomigarciap",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"I don't steal from anyone who can't afford it, and I don't hurt anyone who doesn't deserve it.\"",
+      "score": 6,
+      "user": "gradyharp",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Statham's best movie in awhile. Not quite another Transporter movie but it's nothing that new either. Worth seeing once. I say B-",
+      "score": 6,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rather than Parker, this film should be titled Statham",
+      "score": 4,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It has it's moments, but not very memorable",
+      "score": 5,
+      "user": "Adam Foidart",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring plot & characters",
+      "score": 3,
+      "user": "breakdownthatfilm-blogspot-com",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Parker suffers from a disappointing script and a tapered ending that not even Oscar-winning director Taylor Hackford can fix.",
+      "score": 4,
+      "user": "Lloyd Bayer",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fall asleep every time...",
+      "score": 3,
+      "user": "flitz35",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring Thriller",
+      "score": 3,
+      "user": "HawkHerald",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Jason Statham Film",
+      "score": 5,
+      "user": "Moriasi JJ",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Would have been better as another forgettable Statham movie, which says it all",
+      "score": 2,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "statham=cardboard Lopez=plastic, script=dumb ! made in china?",
+      "score": 1,
+      "user": "midnight_cinephile",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring and predictable.",
+      "score": 2,
+      "user": "Max N",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good but routine Jason Statham action flick and it's definitely no 'PAYBACK'!",
+      "score": 7,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amusing, but nothing real awesome",
+      "score": 7,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Casey's Movie Mania: PARKER (2013)",
+      "score": 4,
+      "user": "caseymoviemania",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hollywood doing what it does best",
+      "score": 1,
+      "user": "rps-2",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yet more typical Statham fare.",
+      "score": 6,
+      "user": "Rob_Taylor",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tim and Eric direct Jason Statham in....",
+      "score": 8,
+      "user": "alan-51-111974",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A thoroughly routine vehicle for Jason Statham, and dare I say dull?",
+      "score": 4,
+      "user": "callanvass",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jennifer Lopez Steals The Show",
+      "score": 6,
+      "user": "didonatope",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Typical Statham Movie. 3/10",
+      "score": 3,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jason's worst movie since in the Name of The King",
+      "score": 2,
+      "user": "Michael Lee Yingling",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a waste of good talent and scenery",
+      "score": 2,
+      "user": "Robin Thompson Duehring",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I don't know how this movie made it into theaters",
+      "score": 3,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the stupidest films he's made",
+      "score": 3,
+      "user": "starcraftbw88",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible, slow, and boring",
+      "score": 1,
+      "user": "Thomas Tingey",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "sometimes very good, and sometimes not.",
+      "score": 6,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's your typical Jason Statham film",
+      "score": 5,
+      "user": "jaxbubba",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's just like a Jason Statham movie",
+      "score": 5,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Positively terrible.",
+      "score": 1,
+      "user": "gabes-8",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Particularly hard to watch to the end",
+      "score": 2,
+      "user": "Ryan Murphy",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Its THE STAFE 'nuff said.",
+      "score": 5,
+      "user": "Buscatcher",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Ballad of J Lo's Butt",
+      "score": 4,
+      "user": "Markus Emilio Robinson",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jason Statham - boring",
+      "score": 1,
+      "user": "gabbiemurphy1985",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a cocktail created by the producers",
+      "score": 3,
+      "user": "dragokin",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Parker Can Lose",
+      "score": 3,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Didn't This Star  Lee Marvin ?",
+      "score": 5,
+      "user": "Theo Robertson",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews",
+      "score": 4,
+      "user": "capone666",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Had potential",
+      "score": 3,
+      "user": "Patrick Lockett",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Silly Stath, smash things",
+      "score": 4,
+      "user": "octopusluke",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Parker a clunker",
+      "score": 2,
+      "user": "Stephen Bourne",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jason Statham's Weakest Film Yet",
+      "score": 2,
+      "user": "Rebel_With_A_Cause_94",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "JLo must wish she's acting with Clooney rather than static Statham",
+      "score": 4,
+      "user": "Jeff Lee",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Parker Review",
+      "score": 5,
+      "user": "Ibrahim Rizwan",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Standardized, homogenized, McStatham Movie",
+      "score": 3,
+      "user": "Die Cycle",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable, but not worth watching",
+      "score": 5,
+      "user": "Bruno Youn",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Statham seeks payback in Parker",
+      "score": 4,
+      "user": "rgblakey",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Title should be: Parker and his giant Texas hat",
+      "score": 2,
+      "user": "mihai751",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very disappointing",
+      "score": 3,
+      "user": "erinirelandgirl",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Parker is Predictable",
+      "score": 3,
+      "user": "Catt Jones (cattjones@chixchatonfilm.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Same old, same old",
+      "score": 4,
+      "user": "martinrobertson300482",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "awful",
+      "score": 1,
+      "user": "adiadr",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is nonsense",
+      "score": 3,
+      "user": "lagudafuad",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 118,
+  "votes_per_demo": {
+    "aged_45+": 8090,
+    "top_1000_voters": 443,
+    "males_under_18": 158,
+    "imdb_staff": 4,
+    "males_aged_18-29": 30802,
+    "imdb_users": 94139,
+    "males_aged_45+": 7052,
+    "aged_18-29": 34999,
+    "us_users": 10131,
+    "females_aged_30-44": 3045,
+    "males": 71769,
+    "females": 8528,
+    "females_aged_45+": 894,
+    "non-us_users": 49381,
+    "females_aged_18-29": 3874,
+    "females_under_18": 27,
+    "aged_30-44": 33055,
+    "aged_under_18": 186,
+    "males_aged_30-44": 29611
   },
   "genres": [
     "action",
     "crime",
     "romance"
   ],
-  "budget": 35000000,
-  "rating": 6.2,
-  "name": "Parker",
-  "opening_weekend_income": 7008222,
-  "avg_screens": 765.1,
-  "gross_income": 17609982,
-  "votes_per_demo": {
-    "non-us_users": 49376,
-    "females_aged_18-29": 3874,
-    "females": 8524,
-    "aged_45+": 8085,
-    "females_under_18": 27,
-    "imdb_users": 94114,
-    "imdb_staff": 4,
-    "females_aged_30-44": 3042,
-    "aged_under_18": 186,
-    "males_aged_30-44": 29604,
-    "top_1000_voters": 443,
-    "aged_30-44": 33045,
-    "males_aged_18-29": 30804,
-    "males": 71757,
-    "females_aged_45+": 893,
-    "males_under_18": 158,
-    "us_users": 10128,
-    "males_aged_45+": 7048,
-    "aged_18-29": 35001
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 1176,
+    "2": 939,
+    "3": 1910,
+    "4": 4553,
+    "5": 12635,
+    "6": 28116,
+    "7": 25076,
+    "8": 10145,
+    "9": 3407,
+    "10": 6182
   },
-  "release_year": 2013,
+  "release_month": "January",
+  "budget": 35000000,
   "budget_currency": "$",
-  "release_day": 25
+  "total_screens": 7651,
+  "year": 2013,
+  "rating": 6.2,
+  "critic_review_count": 224,
+  "opening_weekend_date": {
+    "month": 1,
+    "year": 2013,
+    "day": 25,
+    "__type__": "datetime.date"
+  },
+  "name": "Parker",
+  "user_review_count": 144,
+  "avg_screens": 765.1
 }

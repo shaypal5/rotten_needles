@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 3,
-    "year": 2015,
-    "day": 27,
-    "__type__": "datetime.date"
+  "release_day": 27,
+  "avg_rating_per_demo": {
+    "aged_45+": 5.5,
+    "top_1000_voters": 4.8,
+    "males_under_18": 5.4,
+    "imdb_staff": 6.0,
+    "males_aged_18-29": 5.4,
+    "imdb_users": 5.4,
+    "males_aged_45+": 5.5,
+    "aged_18-29": 5.5,
+    "us_users": 5.1,
+    "females_aged_30-44": 5.4,
+    "males": 5.3,
+    "females": 5.6,
+    "females_aged_45+": 5.7,
+    "non-us_users": 5.4,
+    "females_aged_18-29": 5.6,
+    "females_under_18": 6.2,
+    "aged_30-44": 5.3,
+    "aged_under_18": 5.8,
+    "males_aged_30-44": 5.2
   },
   "closing_date": {
     "month": 5,
@@ -11,81 +27,890 @@
     "day": 8,
     "__type__": "datetime.date"
   },
-  "rating": 5.4,
-  "num_weekends": 5,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 857,
-    "2": 598,
-    "3": 1066,
-    "4": 2213,
-    "5": 4236,
-    "6": 4743,
-    "7": 2758,
-    "8": 1208,
-    "9": 431,
-    "10": 1145
-  },
-  "avg_screens": 20.2,
-  "budget": 30000000,
-  "budget_currency": "$",
-  "release_day": 27,
   "metascore": 36,
+  "num_weekends": 5,
+  "rating_count": 19267,
+  "gross_income": 176305,
+  "max_screens": 59,
+  "opening_weekend_screens": 59,
+  "screens_by_weekend": [
+    59,
+    32,
+    6,
+    2,
+    2
+  ],
+  "opening_weekend_income": 100090,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "The Movie that sank a Film Studio",
+      "score": 1,
+      "user": "Pwincess-ChocOw-Viet",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "holy mother of crap ....",
+      "score": 1,
+      "user": "Sir_Cellophane_Beak",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "3/10",
+      "score": 3,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You took 18 months to do about 2 months work producers!",
+      "score": 3,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing adaptation:",
+      "score": 4,
+      "user": "CharlieGreenCG",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ouch!",
+      "score": 1,
+      "user": "tomie-39-621315",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Astounding Downfall",
+      "score": 4,
+      "user": "Mek Torres",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly Bad.",
+      "score": 2,
+      "user": "Jason_Stinnett",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Serena is a ferociously sloppy film that's misfires on all fronts.",
+      "score": 4,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The film that bankrupt an entire Danish film studio.",
+      "score": 1,
+      "user": "chernobylpants (chernobylpants@live.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did they read the book first?",
+      "score": 2,
+      "user": "BarbNY814",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I laughed and I cried -  becauce I watched the darn thing!",
+      "score": 3,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Even when celebrity fails",
+      "score": 5,
+      "user": "Omer Dexterous",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Urrrgh disgusting - needed a shower!",
+      "score": 1,
+      "user": "xXBoss-EbertXx",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "From hard shot of Appalachian shine into Mountain Dew",
+      "score": 1,
+      "user": "josie-73768",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Bewitching",
+      "score": 3,
+      "user": "rcastl2335",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Its like a",
+      "score": 4,
+      "user": "nedroj68",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Misfire of being a great movie",
+      "score": 4,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insulting.",
+      "score": 1,
+      "user": "summerinertia",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stupid film",
+      "score": 3,
+      "user": "oreliaxo",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I wouldn't say it was Horrendous,, it's just a movie that deserved 4/10 out of pity.",
+      "score": 4,
+      "user": "Aktham Tashtush",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Emotionless ..",
+      "score": 4,
+      "user": "matthew scot",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dreary and Depressing",
+      "score": 4,
+      "user": "keiranh-205-354645",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Every Book Should be Turned into a Movie",
+      "score": 4,
+      "user": "Paco",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Looser",
+      "score": 1,
+      "user": "bb555657-894-748315",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Serena is Sad Sad Sad for a Number of Reasons",
+      "score": 4,
+      "user": "twilliams76",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What were they thinking? I mean, everybody. SPOILERS!",
+      "score": 4,
+      "user": "mardermj",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too good to last forever",
+      "score": 8,
+      "user": " (Filmfastic)",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "emotionally detached",
+      "score": 3,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Garbage on a stick",
+      "score": 1,
+      "user": "riekondoh-116-326404",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It leaves the audience wondering how such production only bears mediocre drama, instead of actually investing on its inconsistent plot.",
+      "score": 4,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A promising combination of cast and director, undone by a bland script that seems to care little for its characters.",
+      "score": 4,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst Cooper - Lawrence Movie Ever!!",
+      "score": 4,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dark",
+      "score": 6,
+      "user": "Lola A",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big Epic Movie. Big Stars. Delivers Bigger than Big!",
+      "score": 10,
+      "user": "wmcg001",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An iconic field that diverges from Hollywood formulas",
+      "score": 10,
+      "user": "Blackbird013-1",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "tin linings playbook",
+      "score": 4,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very poor",
+      "score": 5,
+      "user": "rawadk",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie sucked like a Swedish whore",
+      "score": 1,
+      "user": "ThaniaLez",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "beautifully boring",
+      "score": 5,
+      "user": "flynhi",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a rush! What a payoff in the end!",
+      "score": 10,
+      "user": "morganakastevesmith",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Choppy, Rushed",
+      "score": 5,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strong and remarkable",
+      "score": 8,
+      "user": "Predrag",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There will be wood.",
+      "score": 6,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Should have been so much better...",
+      "score": 5,
+      "user": "kyle-sharp",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Maybe a little spoiler: The ending in the novel is better",
+      "score": 6,
+      "user": "eminebayram01",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "1D Characters in a beautiful looking film.",
+      "score": 5,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as bad as some people think!",
+      "score": 5,
+      "user": "Rick-34 (rick_desper@yahoo.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lumbering film that needs some help.",
+      "score": 5,
+      "user": "Michael O'Keefe",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smoky Mountains soap opera...",
+      "score": 5,
+      "user": "moonspinner55",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some fine acting and pretty scenery can't help this melodrama",
+      "score": 5,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How did they manage to make it a SnoozeFest",
+      "score": 5,
+      "user": "Rahul Patil",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Barren Women are Doomed to Misery?",
+      "score": 8,
+      "user": "skeptic skeptical",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Stars Of The Movie Were The Production Values Instead Of Lawrence And Cooper",
+      "score": 5,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mad in Love",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Definitely underrated",
+      "score": 8,
+      "user": "svilence",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dull shambles",
+      "score": 6,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good film just ruined by the writing",
+      "score": 6,
+      "user": "Ryan Prince",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie, I think",
+      "score": 5,
+      "user": "Bj Shepherd",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Deserves better reputation",
+      "score": 10,
+      "user": "minik_ha",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Saw Serena yesterday at the LLF",
+      "score": 7,
+      "user": "layladenison",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Serena\" is a somewhat interesting story in an uninteresting setting.",
+      "score": 5,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Panther Methaphor",
+      "score": 6,
+      "user": "fabiofm",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good job acting-wise but less developed story",
+      "score": 6,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Film festival showing",
+      "score": 7,
+      "user": "Connbee",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been Lawrence's 'BLACK SWAN' moment!",
+      "score": 8,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly kept low key but a decent movie! 6/10",
+      "score": 6,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Entertaining and Enjoyable Film to Watch",
+      "score": 7,
+      "user": "paul david",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lumber baron meets match in wife with other-worldly power",
+      "score": 8,
+      "user": "maurice yacowar",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow start",
+      "score": 6,
+      "user": "Tatiana Maranhao",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nature Vs Civilization",
+      "score": 7,
+      "user": "ajquintela-pb",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stunning \"Serena\"",
+      "score": 9,
+      "user": "jmtrapp",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "NO SPOILERS - JLAW Steals the Lead, Showing a Rainbow of Emotive Acting.",
+      "score": 7,
+      "user": "Knox D Alford III (knoxiii)",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jennifer Lawrence Stuns!!!",
+      "score": 9,
+      "user": "Yellow Power",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 109,
+  "votes_per_demo": {
+    "aged_45+": 1864,
+    "top_1000_voters": 218,
+    "males_under_18": 32,
+    "imdb_staff": 2,
+    "males_aged_18-29": 3547,
+    "imdb_users": 19267,
+    "males_aged_45+": 1353,
+    "aged_18-29": 7093,
+    "us_users": 2312,
+    "females_aged_30-44": 2019,
+    "males": 9357,
+    "females": 6445,
+    "females_aged_45+": 479,
+    "non-us_users": 9118,
+    "females_aged_18-29": 3457,
+    "females_under_18": 47,
+    "aged_30-44": 6004,
+    "aged_under_18": 79,
+    "males_aged_30-44": 3887
+  },
   "genres": [
     "drama",
     "romance"
   ],
-  "release_month": "March",
-  "avg_rating_per_demo": {
-    "aged_45+": 5.5,
-    "aged_18-29": 5.5,
-    "aged_30-44": 5.3,
-    "females": 5.6,
-    "top_1000_voters": 4.8,
-    "non-us_users": 5.4,
-    "females_under_18": 6.2,
-    "males_aged_30-44": 5.2,
-    "us_users": 5.1,
-    "imdb_users": 5.4,
-    "imdb_staff": 6.0,
-    "males_under_18": 5.4,
-    "females_aged_18-29": 5.6,
-    "males_aged_45+": 5.5,
-    "females_aged_30-44": 5.4,
-    "males": 5.3,
-    "males_aged_18-29": 5.4,
-    "females_aged_45+": 5.7,
-    "aged_under_18": 5.8
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2014,
-  "name": "Serena",
-  "gross_income": 176305,
-  "user_review_count": 77,
-  "duration": 109,
-  "max_screens": 59,
-  "votes_per_demo": {
-    "aged_45+": 1862,
-    "aged_18-29": 7090,
-    "aged_30-44": 6000,
-    "females": 6441,
-    "top_1000_voters": 218,
-    "non-us_users": 9114,
-    "females_under_18": 47,
-    "males_aged_30-44": 3885,
-    "us_users": 2311,
-    "imdb_users": 19255,
-    "imdb_staff": 2,
-    "males_under_18": 32,
-    "females_aged_18-29": 3455,
-    "males_aged_45+": 1351,
-    "females_aged_30-44": 2017,
-    "males": 9352,
-    "males_aged_18-29": 3546,
-    "females_aged_45+": 479,
-    "aged_under_18": 79
+  "rating_freq": {
+    "1": 857,
+    "2": 599,
+    "3": 1066,
+    "4": 2213,
+    "5": 4242,
+    "6": 4745,
+    "7": 2760,
+    "8": 1210,
+    "9": 429,
+    "10": 1146
   },
-  "rating_count": 19255,
+  "release_month": "March",
+  "budget": 30000000,
+  "budget_currency": "$",
+  "total_screens": 101,
+  "year": 2014,
+  "rating": 5.4,
   "critic_review_count": 135,
-  "opening_weekend_income": 100090
+  "opening_weekend_date": {
+    "month": 3,
+    "year": 2015,
+    "day": 27,
+    "__type__": "datetime.date"
+  },
+  "name": "Serena",
+  "user_review_count": 77,
+  "avg_screens": 20.2
 }

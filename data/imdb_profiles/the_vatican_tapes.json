@@ -1,9 +1,24 @@
 {
-  "opening_weekend_date": {
-    "month": 7,
-    "year": 2015,
-    "day": 31,
-    "__type__": "datetime.date"
+  "release_day": null,
+  "avg_rating_per_demo": {
+    "aged_45+": 4.8,
+    "top_1000_voters": 4.3,
+    "males_under_18": 4.6,
+    "males_aged_18-29": 4.4,
+    "imdb_users": 4.6,
+    "males_aged_45+": 4.8,
+    "aged_18-29": 4.4,
+    "us_users": 4.7,
+    "females_aged_30-44": 4.7,
+    "males": 4.5,
+    "females": 4.7,
+    "females_aged_45+": 5.0,
+    "non-us_users": 4.5,
+    "females_aged_18-29": 4.6,
+    "females_under_18": 6.5,
+    "aged_30-44": 4.5,
+    "aged_under_18": 5.0,
+    "males_aged_30-44": 4.5
   },
   "closing_date": {
     "month": 8,
@@ -11,79 +26,677 @@
     "day": 7,
     "__type__": "datetime.date"
   },
-  "rating": 4.6,
+  "metascore": 37,
   "num_weekends": 2,
+  "rating_count": 8337,
+  "gross_income": 1712111,
+  "max_screens": 427,
+  "opening_weekend_screens": 427,
+  "screens_by_weekend": [
+    427,
+    52
+  ],
+  "opening_weekend_income": 321464,
   "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Made by imitating tapes of old exorcism movies.",
+      "score": 4,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Certainly not the worst movie about possession like some want to make us believe",
+      "score": 7,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent and Underrated Horror Film",
+      "score": 6,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Limited due to it's rating.",
+      "score": 5,
+      "user": "Somewhere Somehow",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I enjoyed this flick for what it is",
+      "score": 7,
+      "user": "851222",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A man of the cloth saves the day\u0085 talk about tired remakes.",
+      "score": 3,
+      "user": "supatube",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible",
+      "score": 1,
+      "user": "docdo2",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yes, indeed, another Exorcism movie",
+      "score": 7,
+      "user": "cliometrician",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The  Vatican  Tapes",
+      "score": 5,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Vatican Tapes\" is Just Another Exorcism Movie",
+      "score": 5,
+      "user": "horcrux2007",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Possibly, the worse horror film about exorcism I've ever seen.",
+      "score": 5,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Mediocre Possession Movie",
+      "score": 5,
+      "user": "David Arnold",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Arrival Of The Anti-Christ",
+      "score": 5,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Congrats",
+      "score": 9,
+      "user": "radicjosip",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing",
+      "score": 3,
+      "user": "jackstupidjack",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible",
+      "score": 1,
+      "user": "cdmbdm",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What 'possessed' them to make this?....",
+      "score": 3,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watered-Down Version Of The Exorcist",
+      "score": 4,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "And the winner is....",
+      "score": 1,
+      "user": "Dorjee Wangyel",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a possession movie",
+      "score": 7,
+      "user": "justroxy93",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One will come to mimic the Christ...",
+      "score": 2,
+      "user": "thelastblogontheleft",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "RE: Definitely AVOID!",
+      "score": 1,
+      "user": "monsterjazzlicks",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vatican Sex Tape. Do I have your attention? Good, because this film isn't as bas as some people may think.",
+      "score": 6,
+      "user": "Boogie Buddha",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No!",
+      "score": 2,
+      "user": "Solen",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great acting, not a great film. Still worth a shot!",
+      "score": 6,
+      "user": "Nitzan Havoc",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Different beast",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pointless but ends strong",
+      "score": 4,
+      "user": "TdSmth5",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An attempt to establish a continued to film",
+      "score": 6,
+      "user": "Horrorliefhebber",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The movie is watchable but it doesn't do anything amazing to set itself apart from every other movie in this genre.",
+      "score": 5,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incomplete and unexciting",
+      "score": 5,
+      "user": "darkxpyder (darkxpyder@gmail.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Below average",
+      "score": 4,
+      "user": "wiselifelover",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another comedy movie under the horror category",
+      "score": 2,
+      "user": "Mikka R",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Full of cheap thrills, and laughable acting.",
+      "score": 5,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely horrible attempt at a horror movie",
+      "score": 1,
+      "user": "sussal1311",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What in the what?!! Why?",
+      "score": 2,
+      "user": "Angel Whisenant",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thin on all the buildup and Unsatisfactory on the climax",
+      "score": 4,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow Burn to Evil",
+      "score": 7,
+      "user": "Mek Torres",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm getting tired of the Catholic approach to Exorcisms",
+      "score": 4,
+      "user": "manuelasaez",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "WORST horror movie",
+      "score": 1,
+      "user": "zabdolbunga",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What's with these boring possession flicks?",
+      "score": 3,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that entertaining! 2/10",
+      "score": 2,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Let me help you not to waste your time...",
+      "score": 2,
+      "user": "sunlit_dreams",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A mediocre assembly of things we've seen 100 times.",
+      "score": 2,
+      "user": "TheBarleyGuy",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "yet another possession movie",
+      "score": 1,
+      "user": "nicky plum",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pathetic",
+      "score": 1,
+      "user": "Xwioch",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another classic tale of Michael Par\u00e9 vs. Evil.",
+      "score": 2,
+      "user": "Bloodmarsh Krackoon",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "thriller but too gloomy!",
+      "score": 6,
+      "user": "zoomamk",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a good take on a exorcism of an ordinary girl.",
+      "score": 9,
+      "user": "clairechance",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie Christians will understand more",
+      "score": 7,
+      "user": "doofuspoofus",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very good style and acting",
+      "score": 9,
+      "user": "bolaman",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The only Anti Christ here is the director of this film",
+      "score": 2,
+      "user": "Avi Bluestein",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "NINE.  It's really good.",
+      "score": 9,
+      "user": "josegrappa",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My Review of Screening",
+      "score": 10,
+      "user": "trevliams",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Our Generation's Exorcist",
+      "score": 9,
+      "user": "wankmuller",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Only Horror Movie I've Ever Loved",
+      "score": 10,
+      "user": "amason628",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 91,
+  "votes_per_demo": {
+    "aged_45+": 842,
+    "top_1000_voters": 123,
+    "males_under_18": 20,
+    "males_aged_18-29": 1710,
+    "imdb_users": 8337,
+    "males_aged_45+": 702,
+    "aged_18-29": 2466,
+    "us_users": 1002,
+    "females_aged_30-44": 576,
+    "males": 5230,
+    "females": 1552,
+    "females_aged_45+": 126,
+    "non-us_users": 3853,
+    "females_aged_18-29": 732,
+    "females_under_18": 9,
+    "aged_30-44": 3110,
+    "aged_under_18": 29,
+    "males_aged_30-44": 2490
+  },
+  "genres": [
+    "horror",
+    "thriller"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 700,
     "2": 610,
     "3": 995,
-    "4": 1469,
-    "5": 1764,
-    "6": 1272,
+    "4": 1470,
+    "5": 1765,
+    "6": 1271,
     "7": 693,
     "8": 331,
     "9": 152,
     "10": 350
   },
-  "avg_screens": 239.5,
+  "release_month": null,
   "budget": 8000000,
   "budget_currency": "$",
-  "release_day": null,
-  "metascore": 37,
-  "genres": [
-    "horror",
-    "thriller"
-  ],
-  "release_month": null,
-  "avg_rating_per_demo": {
-    "aged_45+": 4.8,
-    "aged_18-29": 4.4,
-    "aged_30-44": 4.5,
-    "females": 4.7,
-    "top_1000_voters": 4.3,
-    "non-us_users": 4.5,
-    "females_under_18": 6.5,
-    "males_aged_30-44": 4.5,
-    "us_users": 4.7,
-    "imdb_users": 4.6,
-    "males_under_18": 4.7,
-    "females_aged_18-29": 4.6,
-    "males_aged_45+": 4.8,
-    "females_aged_30-44": 4.7,
-    "males": 4.5,
-    "males_aged_18-29": 4.4,
-    "females_aged_45+": 5.0,
-    "aged_under_18": 5.1
-  },
-  "opening_weekend_income_currency": "$",
+  "total_screens": 479,
   "year": 2015,
-  "name": "The Vatican Tapes",
-  "gross_income": 1712111,
-  "user_review_count": 57,
-  "duration": 91,
-  "max_screens": 427,
-  "votes_per_demo": {
-    "aged_45+": 842,
-    "aged_18-29": 2466,
-    "aged_30-44": 3110,
-    "females": 1552,
-    "top_1000_voters": 123,
-    "non-us_users": 3853,
-    "females_under_18": 9,
-    "males_aged_30-44": 2490,
-    "us_users": 1002,
-    "imdb_users": 8336,
-    "males_under_18": 20,
-    "females_aged_18-29": 732,
-    "males_aged_45+": 702,
-    "females_aged_30-44": 576,
-    "males": 5229,
-    "males_aged_18-29": 1710,
-    "females_aged_45+": 126,
-    "aged_under_18": 29
-  },
-  "rating_count": 8336,
+  "rating": 4.6,
   "critic_review_count": 92,
-  "opening_weekend_income": 321464
+  "opening_weekend_date": {
+    "month": 7,
+    "year": 2015,
+    "day": 31,
+    "__type__": "datetime.date"
+  },
+  "name": "The Vatican Tapes",
+  "user_review_count": 57,
+  "avg_screens": 239.5
 }

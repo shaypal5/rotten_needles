@@ -1,90 +1,489 @@
 {
-  "critic_review_count": 53,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 12,
-    "day": 13
-  },
-  "release_month": "September",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 9,
-    "day": 27
-  },
-  "metascore": 34,
-  "max_screens": 2230,
-  "duration": 96,
-  "rating_count": 7378,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 8,
+  "release_day": 27,
   "avg_rating_per_demo": {
+    "aged_45+": 4.7,
+    "top_1000_voters": 4.0,
+    "males_under_18": 8.0,
+    "imdb_staff": 4.5,
+    "males_aged_18-29": 4.8,
+    "imdb_users": 5.1,
+    "males_aged_45+": 4.4,
+    "aged_18-29": 5.3,
+    "us_users": 5.0,
+    "females_aged_30-44": 5.3,
+    "males": 4.6,
+    "females": 5.6,
+    "females_aged_45+": 5.6,
     "non-us_users": 4.9,
     "females_aged_18-29": 5.7,
-    "females": 5.6,
-    "aged_45+": 4.7,
     "females_under_18": 6.8,
-    "imdb_users": 5.1,
-    "imdb_staff": 4.5,
-    "females_aged_30-44": 5.3,
-    "aged_under_18": 7.2,
-    "males_aged_30-44": 4.6,
-    "top_1000_voters": 4.0,
     "aged_30-44": 4.8,
-    "males_aged_18-29": 4.8,
-    "males": 4.6,
-    "females_aged_45+": 5.6,
-    "males_under_18": 8.0,
-    "us_users": 5.0,
-    "males_aged_45+": 4.4,
-    "aged_18-29": 5.3
+    "aged_under_18": 7.2,
+    "males_aged_30-44": 4.6
   },
-  "user_review_count": 41,
+  "closing_date": {
+    "month": 12,
+    "year": 2013,
+    "day": 13,
+    "__type__": "datetime.date"
+  },
+  "metascore": 34,
+  "num_weekends": 8,
+  "rating_count": 7379,
+  "gross_income": 21564616,
+  "max_screens": 2230,
+  "opening_weekend_screens": 2027,
+  "screens_by_weekend": [
+    2027,
+    2230,
+    1320,
+    1320,
+    594,
+    294,
+    42,
+    42
+  ],
+  "opening_weekend_income": 9031102,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "To predictable, to corny and just too bad.",
+      "score": 2,
+      "user": "demetriocoffman",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absurd Premise Too Ridiculous To Get Past",
+      "score": 4,
+      "user": "Larry Silverstein",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A waste of a movie for such good talent!",
+      "score": 1,
+      "user": "kayceeroy",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A weak story resting heavily on weak humour",
+      "score": 3,
+      "user": "Jono Hermitt",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Girl Remeets Boys",
+      "score": 8,
+      "user": " (superwomanproductions)",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cheesy story but shows girls mentality and their life style very well",
+      "score": 3,
+      "user": "Bobby",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OK IT WAS PREDICTABLE but i dint want 2 see a serious movie",
+      "score": 6,
+      "user": "mikevonbach",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's the 21st century. No one needs a man or a woman to define them.",
+      "score": 5,
+      "user": "ja-191-280465",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Baggage Claim\" can claim the baggage of many other rom-coms, but the journey is still enjoyable.",
+      "score": 6,
+      "user": "Dave McClain (dave-mcclain@hotmail.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stereotypical",
+      "score": 4,
+      "user": "Tildon Katz",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Derek Luke is strong, and the film's only real asset",
+      "score": 6,
+      "user": "vincentlynch-moonoi",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty bad...though a beautiful cast.",
+      "score": 2,
+      "user": "aprilhaynes",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch it for the eye candy that's Paula Patton.",
+      "score": 6,
+      "user": "Danny Blankenship",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "3.8/10",
+      "score": 3,
+      "user": "Chisty  Lemire",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Porno? *** Spoiler ***",
+      "score": 3,
+      "user": "David DaSilva",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "fly, fly away",
+      "score": 6,
+      "user": "wilson trivino",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movie with laughs but familiar romantic comedy premise",
+      "score": 7,
+      "user": "monstermayhem32",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad leading Lady, but good movie.",
+      "score": 5,
+      "user": "jsrnorris",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Baggage Claim teeter totters between your usual romantic comedy and trying to stand out a bit. The end product though has it be the usual rom-com, but with a black cast.",
+      "score": 7,
+      "user": "Amari-Sali",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "why the title?",
+      "score": 4,
+      "user": "dragokin",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stake a claim for this one when you can, its a nice, funny romcom",
+      "score": 7,
+      "user": "Amy Adler",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful Movie",
+      "score": 9,
+      "user": "ausety11",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No one will claim this lost baggage of a movie",
+      "score": 1,
+      "user": "zif ofoz",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Baggage Claim Reminds Us That We All Have Some",
+      "score": 8,
+      "user": "Notorious  Spinks",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why is this being slammed by critics?",
+      "score": 10,
+      "user": "ErinDLindsey",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movie Rating",
+      "score": 10,
+      "user": "alycia-woods",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "be more independent...",
+      "score": 5,
+      "user": "MLDinTN",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictable Yet Fun Movie",
+      "score": 8,
+      "user": "the_remixer08",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Is What It Is!",
+      "score": 5,
+      "user": "champjohnson29",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is way too predictable & when you know the outcome 5 minutes in the movie becomes a little boring and loses magic.",
+      "score": 4,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "excellent movie about what is really and ultimately important in a relationship",
+      "score": 9,
+      "user": "onelivingstone",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Black version of What's your number",
+      "score": 5,
+      "user": "minamesmain",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "blah blah blah",
+      "score": 4,
+      "user": "adonnia-jen",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uplifting Movie",
+      "score": 10,
+      "user": "judeapp",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie",
+      "score": 10,
+      "user": "paolagonzalez625",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 96,
+  "votes_per_demo": {
+    "aged_45+": 848,
+    "top_1000_voters": 118,
+    "males_under_18": 3,
+    "imdb_staff": 2,
+    "males_aged_18-29": 969,
+    "imdb_users": 7379,
+    "males_aged_45+": 571,
+    "aged_18-29": 2444,
+    "us_users": 1708,
+    "females_aged_30-44": 939,
+    "males": 3210,
+    "females": 2908,
+    "females_aged_45+": 266,
+    "non-us_users": 2810,
+    "females_aged_18-29": 1446,
+    "females_under_18": 15,
+    "aged_30-44": 2399,
+    "aged_under_18": 18,
+    "males_aged_30-44": 1432
+  },
+  "genres": [
+    "comedy"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 557,
     "2": 368,
     "3": 556,
     "4": 918,
-    "5": 1466,
-    "6": 1347,
+    "5": 1467,
+    "6": 1346,
     "7": 847,
     "8": 453,
     "9": 226,
-    "10": 640
+    "10": 641
   },
-  "genres": [
-    "comedy"
-  ],
+  "release_month": "September",
   "budget": 8500000,
-  "rating": 5.1,
-  "name": "Baggage Claim",
-  "opening_weekend_income": 9031102,
-  "avg_screens": 983.625,
-  "gross_income": 21564616,
-  "votes_per_demo": {
-    "non-us_users": 2810,
-    "females_aged_18-29": 1446,
-    "females": 2907,
-    "aged_45+": 848,
-    "females_under_18": 15,
-    "imdb_users": 7378,
-    "imdb_staff": 2,
-    "females_aged_30-44": 939,
-    "aged_under_18": 18,
-    "males_aged_30-44": 1432,
-    "top_1000_voters": 118,
-    "aged_30-44": 2399,
-    "males_aged_18-29": 969,
-    "males": 3210,
-    "females_aged_45+": 266,
-    "males_under_18": 3,
-    "us_users": 1708,
-    "males_aged_45+": 571,
-    "aged_18-29": 2444
-  },
-  "release_year": 2013,
   "budget_currency": "$",
-  "release_day": 27
+  "total_screens": 7869,
+  "year": 2013,
+  "rating": 5.1,
+  "critic_review_count": 53,
+  "opening_weekend_date": {
+    "month": 9,
+    "year": 2013,
+    "day": 27,
+    "__type__": "datetime.date"
+  },
+  "name": "Baggage Claim",
+  "user_review_count": 41,
+  "avg_screens": 983.625
 }

@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 5,
-    "year": 2015,
-    "day": 15,
-    "__type__": "datetime.date"
+  "release_day": 15,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.2,
+    "top_1000_voters": 5.4,
+    "males_under_18": 6.9,
+    "imdb_staff": 6.9,
+    "males_aged_18-29": 6.4,
+    "imdb_users": 6.5,
+    "males_aged_45+": 6.1,
+    "aged_18-29": 6.5,
+    "us_users": 6.5,
+    "females_aged_30-44": 6.5,
+    "males": 6.3,
+    "females": 6.7,
+    "females_aged_45+": 6.5,
+    "non-us_users": 6.3,
+    "females_aged_18-29": 6.7,
+    "females_under_18": 7.5,
+    "aged_30-44": 6.2,
+    "aged_under_18": 7.2,
+    "males_aged_30-44": 6.1
   },
   "closing_date": {
     "month": 7,
@@ -11,81 +27,2114 @@
     "day": 17,
     "__type__": "datetime.date"
   },
-  "rating": 6.5,
-  "num_weekends": 8,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 2345,
-    "2": 1281,
-    "3": 2272,
-    "4": 4868,
-    "5": 11471,
-    "6": 24256,
-    "7": 27191,
-    "8": 15261,
-    "9": 6771,
-    "10": 9957
-  },
-  "avg_screens": 2530.25,
-  "budget": 29000000,
-  "budget_currency": "$",
-  "release_day": 15,
   "metascore": 63,
+  "num_weekends": 8,
+  "rating_count": 105725,
+  "gross_income": 183436380,
+  "max_screens": 3660,
+  "opening_weekend_screens": 3473,
+  "screens_by_weekend": [
+    3473,
+    3560,
+    3660,
+    3403,
+    2677,
+    2146,
+    1061,
+    262
+  ],
+  "opening_weekend_income": 70300000,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "I loved all of these women.",
+      "score": 10,
+      "user": "cikamikiriki",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Irresistible Women And A Perfect Number 1 Movie All Around The World.",
+      "score": 10,
+      "user": "avirariva",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hollywood loves pointless remakes AND sequels",
+      "score": 3,
+      "user": "doofuspoofus",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pitch Perfect 2",
+      "score": 10,
+      "user": "Alexa Bouhelier-Ruelle",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Your sweat smells like cinnamon . . . \"",
+      "score": 10,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie amazingly hilarious!!!",
+      "score": 10,
+      "user": "rayansaadi",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect. Good Soundtrack as expected.",
+      "score": 10,
+      "user": "harmainmalik",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent sequel with a touching message",
+      "score": 10,
+      "user": "Caroline McNeal",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pure Perfection",
+      "score": 10,
+      "user": "Keno Forest (greenoliver18@yahoo.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant! Better than the Original",
+      "score": 10,
+      "user": "Alfie Case",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny perfect follow up to the original",
+      "score": 9,
+      "user": "peterchapman-76310",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Misunderstood and actually brilliant!",
+      "score": 10,
+      "user": "Chris0184",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Musical Movie ever.",
+      "score": 10,
+      "user": "lyderzzevansvlogs",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The greatest musical ever",
+      "score": 10,
+      "user": "Sharif West",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really Great LMFAO movie! A must watch for this summer!",
+      "score": 10,
+      "user": "T Vang",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Keeps all the charm and fun of the original",
+      "score": 9,
+      "user": "jtindahouse",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All-time favorite musical comedy, non-stop replaying.",
+      "score": 10,
+      "user": "quinchen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It just got better!!",
+      "score": 9,
+      "user": "ryanalexandernoakes",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "They're back, Pitches! And they're still awesome!!!",
+      "score": 9,
+      "user": "www.ramascreen.com",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Higgins and Banks are again amazing as the announcers. Not as good as the original, but not a significant drop off either.",
+      "score": 8,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pitching Perfect",
+      "score": 8,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that didn't need a sequel gets a fortunately solid one",
+      "score": 8,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "DHKR: Pitch Perfect 2- \"A Great Film to Those Who Love Music and Who Hate Pentatonix\"",
+      "score": 8,
+      "user": "Clayton Holloway (Darkhorse_Knight)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Sensation for the Ears and the Heart!",
+      "score": 9,
+      "user": "Ryan Wu",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I look forward to the third installment!",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "After a humiliating performance at the Lincoln Centre, the Barden Bellas have to battle for their rights to perform.",
+      "score": 8,
+      "user": "Elliot Dyer",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No nodes present",
+      "score": 9,
+      "user": "flippensweet88",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I nominate this movie for academy award, movie of the year.",
+      "score": 10,
+      "user": "Dmitriy Levitin",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "They Pitch Slapped Me!",
+      "score": 10,
+      "user": "erland-day",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such An Amazing Movie",
+      "score": 10,
+      "user": "David_Lay",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect!",
+      "score": 10,
+      "user": "awesomefilmreviewer11",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anchorman/High School Musical Lovechild?",
+      "score": 9,
+      "user": "Plezsno",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, entertaining and utterly stunning.",
+      "score": 10,
+      "user": "masonbingley2000",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than the first.",
+      "score": 10,
+      "user": " (ammabee@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A-ca-believe they did it again.",
+      "score": 8,
+      "user": "Alaina Neal",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plenty of entertainment",
+      "score": 7,
+      "user": "Ole Sandbaek Joergensen",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable, but the tensions between the German team and the Bellas is just unnecessary",
+      "score": 8,
+      "user": "aleksandar-todorovic-157-67954",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pitch Perfect rock again!",
+      "score": 8,
+      "user": "ratharian",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pitch Perfect 2",
+      "score": 8,
+      "user": "ApproximatelyHandsome",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Pitches return in this fun, energetic sequel",
+      "score": 8,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The return of the bellas",
+      "score": 8,
+      "user": "monstermayhem32",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More of the same - which is not a bad thing",
+      "score": 8,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Aca-Awesome Sequel, Though Lacking in Some Areas",
+      "score": 8,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Same old Tune, but hey, what's  not to like in a song that puts you in a LSS mode?",
+      "score": 8,
+      "user": "prospectus_capricornium",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not worth it",
+      "score": 6,
+      "user": "Lo G",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, But Not Perfect",
+      "score": 8,
+      "user": "Mandirenfroe",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Pitches Are Back With A Worthy Sequel",
+      "score": 8,
+      "user": "ahmed mohamed",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good as the first!",
+      "score": 10,
+      "user": "joshuadrake-39480",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny and Charming",
+      "score": 7,
+      "user": "tjgoalie13",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Girl Power!",
+      "score": 7,
+      "user": "Denise Ang",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pitch  Perfect  2",
+      "score": 7,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The laughs continue",
+      "score": 7,
+      "user": "A C",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "awesome nerds come back",
+      "score": 7,
+      "user": "rasooli-amir",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fabulous music, weak character developments",
+      "score": 7,
+      "user": "andrewshieh0712",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Retains the interesting parts from the original movie and added something new",
+      "score": 7,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Pitch Perfect 2\"-  Though never quite as fresh as the outstanding original, the great cast shines and good humor continues in this very worthy sequel.",
+      "score": 8,
+      "user": "MaximumMadness",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How can you NOT rate it a 9 or 10???",
+      "score": 10,
+      "user": "dboyd7022001",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pitch Perfect 2 Review",
+      "score": 8,
+      "user": "Eddie Cantillo",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fairly good movie sequel to the 2012 original of the same name",
+      "score": 7,
+      "user": "lisafordeay",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not What Expected",
+      "score": 5,
+      "user": "manuelwinchester",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A shadow of the first movie",
+      "score": 2,
+      "user": "kianclarence",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Off-pitch",
+      "score": 6,
+      "user": "Mr-Fusion",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty funny here",
+      "score": 7,
+      "user": "mwcrunner",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappy Watched: Pitch Perfect 2",
+      "score": 6,
+      "user": "Chappy Watched",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The sequel isn't off key, but it's not exactly an original melody",
+      "score": 5,
+      "user": "Movie_Muse_Reviews",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Humorless fiasco",
+      "score": 3,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uninspired and repetitive",
+      "score": 4,
+      "user": "Thomas (filmreviews@web.de)",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not perfect but silly, girly fun with enchanting vocal performances",
+      "score": 7,
+      "user": "Amy Adler",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The first is better, the second is funnier.",
+      "score": 7,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's the Kennedy Center..",
+      "score": 7,
+      "user": "emmalcekaren",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pitch Perfect 2:They're Back",
+      "score": 7,
+      "user": "John Kristofer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dosen't Hit Quite as Many High Notes as the First, but it's a Very Worthy Sequel,",
+      "score": 8,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Same Old, Same Old but it most definitely brings in the fun",
+      "score": 7,
+      "user": "Connor Dillon",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Aca-Okay",
+      "score": 7,
+      "user": "Mac Benitez",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Characters with personality encapsulated in a film that has enough of its own to effectively capture it",
+      "score": 7,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funnier, bigger and more Fat Amy in it!",
+      "score": 7,
+      "user": "Aizat Jak",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great songs, good acting and funny.",
+      "score": 8,
+      "user": "Nicole C",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"aca-wedersehen, b*tches\"... the gang is back and better than ever",
+      "score": 8,
+      "user": "Paul Allaer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The music is just as good as the first film.\"",
+      "score": 7,
+      "user": "Paige Wilcox",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Pitches are back and they're gonna make you say who run the world...",
+      "score": 10,
+      "user": "Liane Gabriel Ibarra",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Aca-Average",
+      "score": 6,
+      "user": "Nick Hemming",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did it get dumber?",
+      "score": 6,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bit disappointing",
+      "score": 7,
+      "user": "chantalroxanne",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Singing competition? Anyday!",
+      "score": 7,
+      "user": "Julien Tagnon",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing",
+      "score": 6,
+      "user": "katarinamandic3",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictable, but Enjoyable",
+      "score": 7,
+      "user": "juliamichael99",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I liked it, but didn't love it as much as I did the first one!",
+      "score": 7,
+      "user": "Annie Palone",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "enjoyable",
+      "score": 7,
+      "user": "nataliewatson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An aca-awesome sequel that doesn't quite live up to its predecessor",
+      "score": 7,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Aca-great",
+      "score": 7,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The singing dancing and laughter was a great combo for this flick.",
+      "score": 7,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than the first",
+      "score": 7,
+      "user": "ddoyle2017",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Sequel",
+      "score": 7,
+      "user": "info-15837",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Punch-Packing Pitches",
+      "score": 7,
+      "user": "3xHCCH",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Guilty Pleasure!",
+      "score": 7,
+      "user": "invernessmovieclub",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, Enjoyable but Dis-aca-ppointing Sequel",
+      "score": 7,
+      "user": " (be_kwa)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good sequel",
+      "score": 7,
+      "user": "Gianluca Marzano",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Pitch Perfect 2\" isn't perfect, but its pitch is every bit as good as the original.",
+      "score": 7,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pitches continued unlike part 1!!!",
+      "score": 6,
+      "user": "rajatdahiyax",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hearbreakingly Disappointing",
+      "score": 6,
+      "user": "Andrada Tomoni",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing",
+      "score": 6,
+      "user": "xsophietaylorx",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Pitch Perfect but Pretty Funny.",
+      "score": 6,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movie about Becca and her crew's-the Barden Bellas- journey to the World  A Capella competition against a ferocious German team.",
+      "score": 6,
+      "user": "Emma T",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hmmm...",
+      "score": 6,
+      "user": "Bob An",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I like it better than the first one",
+      "score": 6,
+      "user": "Tom C",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was OK.",
+      "score": 6,
+      "user": "auroral",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing",
+      "score": 5,
+      "user": "Josh Murphy",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not all that good, Still Impressive in its own way...",
+      "score": 7,
+      "user": "Bud Donahue",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Weak pitch",
+      "score": 4,
+      "user": "Laine K",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The stakes are higher, but the jokes recycled",
+      "score": 6,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too Many Exaggerated Moments.",
+      "score": 6,
+      "user": "cactus1305",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad",
+      "score": 1,
+      "user": "pigzcatz",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews....",
+      "score": 5,
+      "user": "capone666",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Felt Like a Foul Ball: High Hopes at First but Missed the Mark",
+      "score": 5,
+      "user": "pigwidgeonal",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "5-word review: Ear-pleasing, frequently witty, predictably empty",
+      "score": 7,
+      "user": "Bill Sims",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "6.3/10",
+      "score": 6,
+      "user": "Chisty  Lemire",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Okay, but not as good as the first",
+      "score": 6,
+      "user": "jsmn-kane",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Barden Bellas' are back, higher pitched than before, and with less irritating personalities than before.",
+      "score": 7,
+      "user": "Harvey Penson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Aca-fun time!",
+      "score": 7,
+      "user": "Kieran Battams",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing to sing about.",
+      "score": 4,
+      "user": "Matflix",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic feel-good musical comedy of the year",
+      "score": 9,
+      "user": "Adam Spencer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Imperfectly Pitched. Three Women Grossly Mocking Fat Women",
+      "score": 5,
+      "user": "Sorin",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Weirdly weird and unfunny",
+      "score": 5,
+      "user": "mediumllama",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "2.5/5",
+      "score": 5,
+      "user": "IsaacSage",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hysterical!",
+      "score": 10,
+      "user": "yestfl",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Sequel",
+      "score": 2,
+      "user": "Leo Lein",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictable!! A big NO, NO!!:(",
+      "score": 4,
+      "user": "anagnostouzoe",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not worth the time",
+      "score": 4,
+      "user": "mlinde-07934",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's not over until the fat lady sings",
+      "score": 4,
+      "user": "bent-mathiesen",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much preferred the first movie. 4/10",
+      "score": 4,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow",
+      "score": 4,
+      "user": "rebeccajanecraig",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not perfect but good enough.",
+      "score": 7,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Second verse, same as the first - just your average chick flick comedy, sigh....",
+      "score": 6,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pitch Perfect was almost as good as its predecessor",
+      "score": 6,
+      "user": "tavm",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Completely Lacks the Magic of the First One",
+      "score": 4,
+      "user": "rocketrider231",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Acha-entertaining, but Pitch Perfect 2's story is very acha-familiar",
+      "score": 6,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So much potential wasted",
+      "score": 2,
+      "user": "kuuk3",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Out of Tune",
+      "score": 4,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There's a very good 90 minute movie spread throughout the 115 minute runtime",
+      "score": 6,
+      "user": "Jonny 99",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing Sequel",
+      "score": 3,
+      "user": "drshores",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really?",
+      "score": 3,
+      "user": "elizabethnightingalesmith",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Acapella",
+      "score": 3,
+      "user": "simon_cubisteven",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More painful than funny and the music is just mediocre",
+      "score": 3,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "aca-scuse me, where did all the fun go?",
+      "score": 4,
+      "user": "alimac2",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not good enough",
+      "score": 3,
+      "user": "phoenix 2",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "They kinda missed the note on that one",
+      "score": 5,
+      "user": "paul_3-960-896774",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blah",
+      "score": 2,
+      "user": "Rainbowboys22",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Excruciatingly Bad Film",
+      "score": 2,
+      "user": "christopher-r-brewster",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No.",
+      "score": 5,
+      "user": "chloeb63",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Personally, I was disappointed.",
+      "score": 5,
+      "user": "abbiefrancessmith",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "See Pitch Perfect 2 out on Netflix I predict very soon.......",
+      "score": 5,
+      "user": "craig-340-777546",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "just OK",
+      "score": 5,
+      "user": "bravesfanc",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really, really disappointing.",
+      "score": 5,
+      "user": "ja-160",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spoiler Alert - sh*t movie",
+      "score": 1,
+      "user": "abgriffiths",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not worth the hype",
+      "score": 5,
+      "user": "clarissagetigan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lacking a lot - MANY spoilers",
+      "score": 5,
+      "user": "AngusH",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Misses All the Notes",
+      "score": 5,
+      "user": "Jacob Harvey",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A little disappointing",
+      "score": 5,
+      "user": "felicia-yap",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Aca-middling",
+      "score": 5,
+      "user": "bob-the-movie-man",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stills from this movie are in the dictionary next to the word \"Cringeworthy\"",
+      "score": 4,
+      "user": "d-j-dekok",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An insult to the audience's intelligence: I feel dumb after watching this",
+      "score": 1,
+      "user": "thewhoopiepie",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Huge disappointment",
+      "score": 1,
+      "user": "poszy",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unfunny and Generally Boring with a Poorly Executed Plot",
+      "score": 4,
+      "user": "jolene791",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Death of Cinema",
+      "score": 2,
+      "user": "Billy Moir",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Won't Miss This When It's Gone",
+      "score": 4,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This will not be remembered as the first movie will...",
+      "score": 3,
+      "user": "Irishmoviereviewer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than the first but far from being a good movie",
+      "score": 4,
+      "user": "abisio",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If it was Russian, it would definitely be 10x better",
+      "score": 3,
+      "user": "Petrov Putinlover",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad, Bad, Bad, and more bad",
+      "score": 1,
+      "user": "Rob Killian",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Embarrassing chauvinistic clich\u00e9s and stupid jokes.",
+      "score": 3,
+      "user": "Martin Graupner",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ridiculously boring",
+      "score": 3,
+      "user": "erichedlund1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A derivative Pitch Perfect without the heart of the original",
+      "score": 4,
+      "user": "LiquidEcho",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "average at best",
+      "score": 4,
+      "user": "jimpatto",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Phony \"Singers\" and the Green Bay Packers?",
+      "score": 3,
+      "user": "cnickels13",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Where a cappella singers sing with music from instruments everywhere",
+      "score": 3,
+      "user": "bdionysus",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Musical\" genre under attack.....",
+      "score": 2,
+      "user": "Philipe14",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not what I expected",
+      "score": 3,
+      "user": "yoitsjaydee77",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Set feminists back at least 40 years",
+      "score": 2,
+      "user": "milococcia",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Serious hot garbage",
+      "score": 2,
+      "user": "K Kr",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you liked \"Pitch Perfect,\" Don't Waste Your Time",
+      "score": 2,
+      "user": "gbtbag",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible comedy sinks the sequel",
+      "score": 1,
+      "user": "thecheesyhero-373-245037",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Aca-Awful",
+      "score": 1,
+      "user": "KayCee 4711",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Mess of Pandering and Pop",
+      "score": 1,
+      "user": "Sarah Kovalev",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Racist, homophobic and sexist.",
+      "score": 1,
+      "user": "jimmart32-100-363917",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not good as expected",
+      "score": 1,
+      "user": "vovocats",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 115,
+  "votes_per_demo": {
+    "aged_45+": 4918,
+    "top_1000_voters": 344,
+    "males_under_18": 499,
+    "imdb_staff": 17,
+    "males_aged_18-29": 23802,
+    "imdb_users": 105725,
+    "males_aged_45+": 3497,
+    "aged_18-29": 45106,
+    "us_users": 16792,
+    "females_aged_30-44": 7717,
+    "males": 47862,
+    "females": 33468,
+    "females_aged_45+": 1336,
+    "non-us_users": 40691,
+    "females_aged_18-29": 20778,
+    "females_under_18": 746,
+    "aged_30-44": 24645,
+    "aged_under_18": 1258,
+    "males_aged_30-44": 16583
+  },
   "genres": [
     "comedy",
     "music"
   ],
-  "release_month": "May",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.2,
-    "aged_18-29": 6.5,
-    "aged_30-44": 6.2,
-    "females": 6.7,
-    "top_1000_voters": 5.4,
-    "non-us_users": 6.3,
-    "females_under_18": 7.5,
-    "males_aged_30-44": 6.1,
-    "us_users": 6.5,
-    "imdb_users": 6.5,
-    "imdb_staff": 6.9,
-    "males_under_18": 6.9,
-    "females_aged_18-29": 6.7,
-    "males_aged_45+": 6.1,
-    "females_aged_30-44": 6.5,
-    "males": 6.3,
-    "males_aged_18-29": 6.4,
-    "females_aged_45+": 6.5,
-    "aged_under_18": 7.2
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Pitch Perfect 2",
-  "gross_income": 183436380,
-  "user_review_count": 189,
-  "duration": 115,
-  "max_screens": 3660,
-  "votes_per_demo": {
-    "aged_45+": 4917,
-    "aged_18-29": 45094,
-    "aged_30-44": 24632,
-    "females": 33449,
-    "top_1000_voters": 344,
-    "non-us_users": 40674,
-    "females_under_18": 748,
-    "males_aged_30-44": 16576,
-    "us_users": 16785,
-    "imdb_users": 105673,
-    "imdb_staff": 17,
-    "males_under_18": 498,
-    "females_aged_18-29": 20766,
-    "males_aged_45+": 3497,
-    "females_aged_30-44": 7711,
-    "males": 47851,
-    "males_aged_18-29": 23802,
-    "females_aged_45+": 1335,
-    "aged_under_18": 1259
+  "rating_freq": {
+    "1": 2346,
+    "2": 1281,
+    "3": 2273,
+    "4": 4870,
+    "5": 11477,
+    "6": 24268,
+    "7": 27208,
+    "8": 15264,
+    "9": 6776,
+    "10": 9962
   },
-  "rating_count": 105673,
+  "release_month": "May",
+  "budget": 29000000,
+  "budget_currency": "$",
+  "total_screens": 20242,
+  "year": 2015,
+  "rating": 6.5,
   "critic_review_count": 226,
-  "opening_weekend_income": 70300000
+  "opening_weekend_date": {
+    "month": 5,
+    "year": 2015,
+    "day": 15,
+    "__type__": "datetime.date"
+  },
+  "name": "Pitch Perfect 2",
+  "user_review_count": 189,
+  "avg_screens": 2530.25
 }

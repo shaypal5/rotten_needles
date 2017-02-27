@@ -1,92 +1,2397 @@
 {
+  "budget_currency": "$",
+  "total_screens": 500,
+  "rating_freq": {
+    "1": 1321,
+    "2": 885,
+    "3": 1311,
+    "4": 2302,
+    "5": 4994,
+    "6": 11580,
+    "7": 21785,
+    "8": 17608,
+    "9": 8118,
+    "10": 5832
+  },
+  "release_day": null,
   "genres": [
     "drama",
     "romance",
     "sci-fi"
   ],
+  "name": "Another Earth",
+  "release_month": null,
+  "avg_screens": 45.45454545454545,
+  "imdb_user_reviews": [
+    {
+      "user": "jesus-100-984521",
+      "score": 9,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Suspend disbelief, and love this movie"
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "score": 7,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "This Me or That Me?"
+    },
+    {
+      "user": "ix-viii-ix",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Rather beautiful and sad"
+    },
+    {
+      "user": "Howard Schumann",
+      "score": 9,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "A quietly powerful work of art"
+    },
+    {
+      "user": "chaz-28",
+      "score": 9,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Deep Introspection Joins with Otherwordly Exploration"
+    },
+    {
+      "user": "ash-389",
+      "score": 10,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Truly Amazing"
+    },
+    {
+      "user": "TheInvisibleCar",
+      "score": 9,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "The big thing a lot of viewers didn't figure out..."
+    },
+    {
+      "user": "adams137",
+      "score": 1,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A lifeless series of stills that drift from one scene to the next."
+    },
+    {
+      "user": "Lloyd Bayer",
+      "score": 8,
+      "review_date": {
+        "day": 29,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Another Work of Art"
+    },
+    {
+      "user": "Yukon Cornelius",
+      "score": 1,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "More Holes then Swiss Cheese"
+    },
+    {
+      "user": "Michael Thompson",
+      "score": 1,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "This is NOT a Science Fiction Movie."
+    },
+    {
+      "user": "alexart-1",
+      "score": 8,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Two Can Be as Bad as One; It's the Loneliest Number Since One"
+    },
+    {
+      "user": "Dechilo",
+      "score": 2,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Not for me."
+    },
+    {
+      "user": "szulc-adam",
+      "score": 3,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "another mediocre drama"
+    },
+    {
+      "user": "WEAPON OF CHOICE",
+      "score": 8,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Can a movie suck massively, and yet be frighteningly Awesome? Why is this my first review?"
+    },
+    {
+      "user": "Claudio Carvalho",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Melancholic, Sad and Thought Provoking"
+    },
+    {
+      "user": "bienfait",
+      "score": 1,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Another stinker of a movie to get sucked into by tasteless morons"
+    },
+    {
+      "user": "Andy Devine",
+      "score": 2,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "I want my two hours back."
+    },
+    {
+      "user": "ZenaeFilmZ",
+      "score": 4,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Another Disappointment"
+    },
+    {
+      "user": "Mike Nyby",
+      "score": 1,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "One lifeless scene after another."
+    },
+    {
+      "user": "icdrgon",
+      "score": 1,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Another Hour and a Half Wasted!"
+    },
+    {
+      "user": "poolshark2860",
+      "score": 1,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Terrible movie"
+    },
+    {
+      "user": "henk321",
+      "score": 9,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "This is a allegorical movie about human kind."
+    },
+    {
+      "user": "vinnipags",
+      "score": 1,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "This was the worst movie I have seen in the longest time. I actually signed up to let everyone know."
+    },
+    {
+      "user": "tim-arnold777",
+      "score": 3,
+      "review_date": {
+        "day": 23,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "7 out of 10? Really?"
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "score": 4,
+      "review_date": {
+        "day": 27,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Another Earth"
+    },
+    {
+      "user": "Jacuk",
+      "score": 2,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Horrible slow movie filled with bad acting and plot wholes the size of earth"
+    },
+    {
+      "user": "grumpy-3",
+      "score": 1,
+      "review_date": {
+        "day": 12,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "could not make it to the end"
+    },
+    {
+      "user": "Eric Murphy",
+      "score": 1,
+      "review_date": {
+        "day": 26,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Just a drama movie"
+    },
+    {
+      "user": "elmajo69",
+      "score": 1,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Totally boring"
+    },
+    {
+      "user": "Nusrat Howard-Moore",
+      "score": 1,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A nerd's wet dream"
+    },
+    {
+      "user": "admatha-767-524200",
+      "score": 2,
+      "review_date": {
+        "day": 17,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Yikes, boring."
+    },
+    {
+      "user": "michaeldartnell",
+      "score": 5,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "boring"
+    },
+    {
+      "user": "tigerfish50",
+      "score": 1,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Orbiting the black hole of purgatory"
+    },
+    {
+      "user": "dreamsofyou707",
+      "score": 1,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "An Awful Movie, Waste of Time, Have nothing to do with the title"
+    },
+    {
+      "user": "Daniel Lee",
+      "score": 1,
+      "review_date": {
+        "day": 17,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Never explores the concept of the other Earth, not a sci-fi film"
+    },
+    {
+      "user": "david252",
+      "score": 2,
+      "review_date": {
+        "day": 22,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Dull"
+    },
+    {
+      "user": "Derek Blanchard",
+      "score": 10,
+      "review_date": {
+        "day": 15,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Look in the mirror. Now say something."
+    },
+    {
+      "user": "RevRonster",
+      "score": 6,
+      "review_date": {
+        "day": 19,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "The one unique aspect takes a backseat to generic drama..."
+    },
+    {
+      "user": "basscadet75",
+      "score": 6,
+      "review_date": {
+        "day": 22,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Interesting concept, great performances, flawed writing and directing"
+    },
+    {
+      "user": "Arne Bosma",
+      "score": 5,
+      "review_date": {
+        "day": 11,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "I guess it depends on your expectations"
+    },
+    {
+      "user": "Moviegoer2331",
+      "score": 4,
+      "review_date": {
+        "day": 6,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Not Sci Fi, Predictable in all other areas"
+    },
+    {
+      "user": "Vipul Juneja",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Not Sci-fi, but not bad.."
+    },
+    {
+      "user": "Fabio Baldan",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Could have been more"
+    },
+    {
+      "user": "Lindsay Thompson",
+      "score": 1,
+      "review_date": {
+        "day": 4,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Awful!!"
+    },
+    {
+      "user": "ahmadshah2370",
+      "score": 2,
+      "review_date": {
+        "day": 14,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A very boring and non sci-fi movie"
+    },
+    {
+      "user": "Enrique Rivero",
+      "score": 7,
+      "review_date": {
+        "day": 23,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Two almost-made movies"
+    },
+    {
+      "user": "chandra sekhar",
+      "score": 3,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Aother mediocre movie...."
+    },
+    {
+      "user": "joker-scar",
+      "score": 7,
+      "review_date": {
+        "day": 31,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "worth watching. Invest the hour and a half."
+    },
+    {
+      "user": "dinhwood",
+      "score": 5,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Not as clever as you (or the filmmakers) think"
+    },
+    {
+      "user": "chuckfresh",
+      "score": 3,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Warning: This is NOT A SCI-FI MOVIE."
+    },
+    {
+      "user": "geekroad",
+      "score": 3,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Slow Art Film"
+    },
+    {
+      "user": "hansonj",
+      "score": 5,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Very frustrating film (spoilers)"
+    },
+    {
+      "user": "juneebuggy",
+      "score": 1,
+      "review_date": {
+        "day": 29,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Low budget indie character drama NOT a sci-fi"
+    },
+    {
+      "user": "Andrew Heard",
+      "score": 8,
+      "review_date": {
+        "day": 6,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Another Earth Review: If you had the chance, would you go to Another Earth?"
+    },
+    {
+      "user": "rparham",
+      "score": 7,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Small drama with big ideas underneath"
+    },
+    {
+      "user": "Dan Franzen (dfranzen70)",
+      "score": 9,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "A philosophical dandy with a top-notch lead performance"
+    },
+    {
+      "user": "Luis Dias",
+      "score": 9,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Probably the only sci-fi movie worth seeing"
+    },
+    {
+      "user": "Oana Dorobantu",
+      "score": 1,
+      "review_date": {
+        "day": 23,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "The Junk Food of SciFi"
+    },
+    {
+      "user": "CubeRic9000",
+      "score": 3,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Just Another Earth"
+    },
+    {
+      "user": "markhorneyuk",
+      "score": 1,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Rubbish, be warned, it's not a sci-fi movie as the trailer make you think."
+    },
+    {
+      "user": "Steve Pulaski",
+      "score": 5,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Take a picture, it won't last as long"
+    },
+    {
+      "user": "bdehler",
+      "score": 1,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Don't waste your time"
+    },
+    {
+      "user": "hangallpoliticans",
+      "score": 1,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "worst film of 2011 by far"
+    },
+    {
+      "user": "man_of_myth7",
+      "score": 2,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Don't watch if you're looking for a SciFi Movie."
+    },
+    {
+      "user": "bdgill12",
+      "score": 1,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "So Very Many Stupid Plot Points"
+    },
+    {
+      "user": "OZFlyBoy",
+      "score": 1,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Don't bother to watch this one!"
+    },
+    {
+      "user": "Pay ME",
+      "score": 1,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "The most overrated film of the year"
+    },
+    {
+      "user": "Thomas Funke",
+      "score": 5,
+      "review_date": {
+        "day": 5,
+        "year": 2017,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "It was OK..."
+    },
+    {
+      "user": "adamw25",
+      "score": 4,
+      "review_date": {
+        "day": 17,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A dull love story with a misleading title"
+    },
+    {
+      "user": "R S",
+      "score": 9,
+      "review_date": {
+        "day": 13,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Cosmic Dissonance"
+    },
+    {
+      "user": "Daithi Mac",
+      "score": 7,
+      "review_date": {
+        "day": 7,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Why am i writing this?"
+    },
+    {
+      "user": "tempguy-43714",
+      "score": 1,
+      "review_date": {
+        "day": 17,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "review of another earth, may contain nuts, but no spoilers"
+    },
+    {
+      "user": "Gustav",
+      "score": 10,
+      "review_date": {
+        "day": 2,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "feel it"
+    },
+    {
+      "user": "maat-33737",
+      "score": 10,
+      "review_date": {
+        "day": 11,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Great movie with something special about our inner person"
+    },
+    {
+      "user": "Brian Reese",
+      "score": 4,
+      "review_date": {
+        "day": 29,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "couldn't deliver"
+    },
+    {
+      "user": "FreakRenegade",
+      "score": 8,
+      "review_date": {
+        "day": 3,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Sublime"
+    },
+    {
+      "user": "incubus67983",
+      "score": 8,
+      "review_date": {
+        "day": 30,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Smart Premise, Very Good Acting"
+    },
+    {
+      "user": "Dragonsouls",
+      "score": 7,
+      "review_date": {
+        "day": 25,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Deep, thought provoking film about self-discovery"
+    },
+    {
+      "user": "Mr-Fusion",
+      "score": 5,
+      "review_date": {
+        "day": 25,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Not for me, but there's some great acting here"
+    },
+    {
+      "user": "don2507",
+      "score": 5,
+      "review_date": {
+        "day": 9,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Another Earth: A Potential Sequel"
+    },
+    {
+      "user": "851222",
+      "score": 9,
+      "review_date": {
+        "day": 29,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Good movie"
+    },
+    {
+      "user": "santiagocosme",
+      "score": 7,
+      "review_date": {
+        "day": 24,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Another surprising movie!"
+    },
+    {
+      "user": "dramafreak42",
+      "score": 5,
+      "review_date": {
+        "day": 23,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Terrific Premise Hampered by a Despicable Lead"
+    },
+    {
+      "user": "WakenPayne",
+      "score": 8,
+      "review_date": {
+        "day": 2,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "It's a very interesting premise but am I the only one who thought that the most interesting thing in the movie was the last 10 minutes?"
+    },
+    {
+      "user": "bob-790-196018",
+      "score": 4,
+      "review_date": {
+        "day": 22,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "It's not as bad, or as good, as some say it is"
+    },
+    {
+      "user": "Basim2022",
+      "score": 6,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "not that good"
+    },
+    {
+      "user": "TheMrAdriaX",
+      "score": 7,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Another Earth My Crazy Review"
+    },
+    {
+      "user": "KineticSeoul",
+      "score": 6,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "More drama than sci-fi but still good"
+    },
+    {
+      "user": "jmillerdp",
+      "score": 6,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Mixed Bag"
+    },
+    {
+      "user": "http://jonnyfendi.blogspot.com",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Large-Scale Metaphor of Life"
+    },
+    {
+      "user": "Sandcooler",
+      "score": 6,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Well thought-out, but sorta boring"
+    },
+    {
+      "user": "TheFilmGuy1",
+      "score": 6,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Wasn't as good as it should have been."
+    },
+    {
+      "user": "mystic_sage_1791",
+      "score": 5,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Average movie, good music and cinematography"
+    },
+    {
+      "user": "Death (sovik.jana@gmail.com)",
+      "score": 9,
+      "review_date": {
+        "day": 28,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Amazing portrayal of depression"
+    },
+    {
+      "user": "jefferysnoles",
+      "score": 9,
+      "review_date": {
+        "day": 8,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Wow.  This movie changed the way I think."
+    },
+    {
+      "user": "lcassady",
+      "score": 8,
+      "review_date": {
+        "day": 7,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Riveting, lyrical, and intelligent movie."
+    },
+    {
+      "user": "zangza",
+      "score": 10,
+      "review_date": {
+        "day": 4,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Thank you for this movie"
+    },
+    {
+      "user": "jim-crayne-710-544075",
+      "score": 10,
+      "review_date": {
+        "day": 11,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Tragic sojourn into Plato's cave"
+    },
+    {
+      "user": "planktonrules",
+      "score": 5,
+      "review_date": {
+        "day": 12,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Far less sci-fi than you might expect....and ultimately less than satisfying."
+    },
+    {
+      "user": "virindra",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Sceincefiction with minimum special effects."
+    },
+    {
+      "user": "aboood343-472-267778",
+      "score": 10,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Well ... I have another ending scenario in my mind ;-)"
+    },
+    {
+      "user": "vintkd",
+      "score": 8,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Clever and contemplative movie for clever people."
+    },
+    {
+      "user": "Turfseer",
+      "score": 3,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "First-time Indie director serves up angst-ridden characters, implausible as 'another earth' up in the sky"
+    },
+    {
+      "user": "Argemaluco",
+      "score": 8,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A very interesting drama"
+    },
+    {
+      "user": "xsammyx09",
+      "score": 8,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Very good..."
+    },
+    {
+      "user": "KiTech",
+      "score": 9,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "This is what science-fiction SHOULD be"
+    },
+    {
+      "user": "loco_73",
+      "score": 9,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Would you go to another earth?"
+    },
+    {
+      "user": "Sayed Ahmed",
+      "score": 9,
+      "review_date": {
+        "day": 18,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "If you have feels inside of u.....u would like it......Brit marling is awesome..."
+    },
+    {
+      "user": "steva-4",
+      "score": 3,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Piece of crap"
+    },
+    {
+      "user": "spazmodeus",
+      "score": 3,
+      "review_date": {
+        "day": 31,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "When dumb people want to see an \"intelligent\" film"
+    },
+    {
+      "user": "jack-7223",
+      "score": 1,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Awful"
+    },
+    {
+      "user": "commentsafe",
+      "score": 5,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Key Common Sense Premise Ignored"
+    },
+    {
+      "user": "toocrazyforlife",
+      "score": 3,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Predictable. Very, very predictable."
+    },
+    {
+      "user": "ihadacatonce",
+      "score": 3,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Required taste, far from a Sci-Fi thriller."
+    },
+    {
+      "user": "owenandowen",
+      "score": 3,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Worst movie of the year?"
+    },
+    {
+      "user": "lickermuchly",
+      "score": 4,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Another Earth/Another You - So What"
+    },
+    {
+      "user": "julesette",
+      "score": 9,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Tragey, love and consequences"
+    },
+    {
+      "user": "tovareeshmakc",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Great script, great acting, weird shooting"
+    },
+    {
+      "user": "RichardSRussell-1",
+      "score": 4,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "OK Drama Ruined by Bolting on Bad SF"
+    },
+    {
+      "user": "Hussam Khalaf",
+      "score": 10,
+      "review_date": {
+        "day": 10,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Unbelievable, Matchless Masterpiece!!!!!!!"
+    },
+    {
+      "user": "dragokin",
+      "score": 5,
+      "review_date": {
+        "day": 29,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "a nice little movie"
+    },
+    {
+      "user": "Aaron Smith",
+      "score": 10,
+      "review_date": {
+        "day": 7,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "The most thoughtful, stirring, beautiful film of the year, and of many years!"
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Intriguing concept wrapped around a humanist story"
+    },
+    {
+      "user": "narulagaurav",
+      "score": 7,
+      "review_date": {
+        "day": 13,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Commendable"
+    },
+    {
+      "user": "lasttimeisaw",
+      "score": 8,
+      "review_date": {
+        "day": 30,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "a real gem!"
+    },
+    {
+      "user": "rubn0",
+      "score": 9,
+      "review_date": {
+        "day": 17,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Not as simple as it seems (my view) (SPOILER MARKED INSIDE)"
+    },
+    {
+      "user": "scottshak_111",
+      "score": 8,
+      "review_date": {
+        "day": 30,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Another Earth....Another You!"
+    },
+    {
+      "user": "siderite",
+      "score": 10,
+      "review_date": {
+        "day": 20,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Great indie film, philosophical rather than sci-fi"
+    },
+    {
+      "user": "ickyTeQ",
+      "score": 10,
+      "review_date": {
+        "day": 9,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Not really a Sci-Fi, but a VERY PLEASANT SURPRISE!"
+    },
+    {
+      "user": "WilliamCKH",
+      "score": 9,
+      "review_date": {
+        "day": 21,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Stunning Film"
+    },
+    {
+      "user": "thesar-2",
+      "score": 7,
+      "review_date": {
+        "day": 26,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Another Melancholia"
+    },
+    {
+      "user": "charles-r-p",
+      "score": 9,
+      "review_date": {
+        "day": 26,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Beautiful"
+    },
+    {
+      "user": "callejaiglesias",
+      "score": 8,
+      "review_date": {
+        "day": 28,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Beauty and fantastic simplicity"
+    },
+    {
+      "user": "itamarscomix",
+      "score": 8,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "An allegory"
+    },
+    {
+      "user": "Sindre Kaspersen",
+      "score": 8,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "\"Inventive, lyrical and atmospheric...\""
+    },
+    {
+      "user": "CountZero313",
+      "score": 7,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "atmospheric and intriguing"
+    },
+    {
+      "user": "stormwings",
+      "score": 4,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "This film ends at the moment it should start"
+    },
+    {
+      "user": "Rameshwar IN",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "A humble yet impossible science fiction if can be called that"
+    },
+    {
+      "user": "Amey Sharma",
+      "score": 10,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "'Another Earth' is a masterpiece and leaves a solid impact"
+    },
+    {
+      "user": "Tenbones190",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Well written, beautiful story ...except for one thing"
+    },
+    {
+      "user": "macgregors2",
+      "score": 10,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Incredible"
+    },
+    {
+      "user": "ward_ja",
+      "score": 9,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "An Art Film That Happens To Be SF"
+    },
+    {
+      "user": "lord woodburry (deanofrpps@aol.com)",
+      "score": 8,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "A Crack in the Mirror"
+    },
+    {
+      "user": "alan-51-111974",
+      "score": 3,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Lazy Claptrap"
+    },
+    {
+      "user": "Michael Mcgee",
+      "score": 4,
+      "review_date": {
+        "day": 18,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "So much for quantum decoherence!"
+    },
+    {
+      "user": "Spiked! spike-online.com",
+      "score": 8,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Another Earth: sci-fi mimics reality"
+    },
+    {
+      "user": "Patryk Czekaj",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Another Earth = another successful indie film"
+    },
+    {
+      "user": "patypatz",
+      "score": 3,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "It could've been better"
+    },
+    {
+      "user": "LeonLouisRicci",
+      "score": 4,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Woefully Wanting"
+    },
+    {
+      "user": "antoniotierno",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "central performances and impressive ideas, it comes off"
+    },
+    {
+      "user": "Maverick Wayne",
+      "score": 3,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Such a waste of an interesting Synopsis !"
+    },
+    {
+      "user": "Tom Gooderson-A'Court (tgooderson@hotmail.co.uk)",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Bold Debut"
+    },
+    {
+      "user": "domunited",
+      "score": 10,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A treat!"
+    },
+    {
+      "user": "Jin Maruhashi",
+      "score": 7,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "\"Another Earth\" awakens the curiosity for another life"
+    },
+    {
+      "user": " (bob-rutzel-1)",
+      "score": 7,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Sketchy, but Quite Good"
+    },
+    {
+      "user": "Joshua Brenner",
+      "score": 8,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "went to far"
+    },
+    {
+      "user": "David Jones",
+      "score": 7,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "And Another thing. . ."
+    },
+    {
+      "user": "Josh Anderson",
+      "score": 6,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Expectations Not Met"
+    },
+    {
+      "user": "scottwallvashon",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "My Evidence that Science Fiction is not about Special Effects"
+    },
+    {
+      "user": "Neil Welch",
+      "score": 6,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Hmmm"
+    },
+    {
+      "user": "PapyJason",
+      "score": 5,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Another Chance"
+    },
+    {
+      "user": "JRmf",
+      "score": 5,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Half good"
+    },
+    {
+      "user": "Philip Borrington",
+      "score": 10,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Breathtaking"
+    },
+    {
+      "user": "michaelj108",
+      "score": 10,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A diamond in the rough"
+    },
+    {
+      "user": "popcornbanned",
+      "score": 10,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Another Earth (2011) - Interview with Myself"
+    },
+    {
+      "user": "MsMovie",
+      "score": 5,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Don't watch this if you're a sci-fi fan - it's not really that genre."
+    },
+    {
+      "user": "randall-50",
+      "score": 4,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "disappointing"
+    },
+    {
+      "user": "tabuno",
+      "score": 10,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Easily Among if Not The Most Powerful and Fascinating of Movies"
+    },
+    {
+      "user": "Julia Scott",
+      "score": 7,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "It is a good drama- sci fi is the after though"
+    },
+    {
+      "user": "Iliketea007",
+      "score": 9,
+      "review_date": {
+        "day": 31,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "\"Maybe the most mysterious of all is neither the small nor the large: it's us, up close.\""
+    },
+    {
+      "user": "mrmac-1",
+      "score": 9,
+      "review_date": {
+        "day": 31,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Steal this review"
+    },
+    {
+      "user": "Don Shroyer",
+      "score": 8,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Very Good - Would watch it again and again."
+    },
+    {
+      "user": "hback77",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Don't Be Stupid"
+    },
+    {
+      "user": "frankboltzmann",
+      "score": 10,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Not what I expected... better!"
+    },
+    {
+      "user": "jimvalko",
+      "score": 7,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Finally an Indie with a message"
+    },
+    {
+      "user": "Chaplin-Renaissance",
+      "score": 9,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "My mind could not stop thinking from the first scene of this movie."
+    },
+    {
+      "user": "jkdfjkdfjkdfjkd",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Beauty is in the eye of the beholder"
+    },
+    {
+      "user": "juanmlleras",
+      "score": 10,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A beautiful and rare film about redemption"
+    },
+    {
+      "user": "freemantle_uk",
+      "score": 9,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A very bold and intelligent film"
+    },
+    {
+      "user": "Nic_Rey_Marling",
+      "score": 10,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Incomplete until the last shot."
+    },
+    {
+      "user": "archiecm",
+      "score": 9,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Tell me: Did they or didn't  they?"
+    },
+    {
+      "user": "lyxeri",
+      "score": 2,
+      "review_date": {
+        "day": 6,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "After Earth. A film that has nothing to do with it."
+    },
+    {
+      "user": "rayok",
+      "score": 10,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "A Must See Film, Enigmatic and Beguiling"
+    },
+    {
+      "user": "Ginger Van Es",
+      "score": 8,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Great performances, but a couple of things I question"
+    },
+    {
+      "user": "Taliezin Aneirin",
+      "score": 10,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Most ingenious story ever"
+    },
+    {
+      "user": "Ziegfeldman",
+      "score": 10,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Astonishing, provocative, intelligent- A Must See!"
+    },
+    {
+      "user": "KalKenobi83",
+      "score": 10,
+      "review_date": {
+        "day": 26,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "One Of The Best Indie Science Fiction with a Real world Edge"
+    },
+    {
+      "user": "jlthornb51",
+      "score": 10,
+      "review_date": {
+        "day": 8,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Masterpiece"
+    },
+    {
+      "user": "perkypops",
+      "score": 10,
+      "review_date": {
+        "day": 13,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Stylish, beautifully shot and unravelled story with sci-fi element"
+    },
+    {
+      "user": "zetes",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Flawed, but quite good"
+    },
+    {
+      "user": "troy-manatunga",
+      "score": 5,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "If you're adamant on watching this beauty, then I advise you, NOT to watch the trailer"
+    },
+    {
+      "user": "Dharmendra Singh",
+      "score": 6,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "How would you be if you could live your life again?"
+    },
+    {
+      "user": "napierslogs",
+      "score": 3,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "College know-it-all hippies talking about life, on Earth, man"
+    },
+    {
+      "user": "sean_swanepoel",
+      "score": 10,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "An absolute MUST SEE !!"
+    },
+    {
+      "user": "fedor8",
+      "score": 8,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Even MC Escher would struggle to illustrate the paradoxical conundrum which the ending offers."
+    },
+    {
+      "user": "trevixarama",
+      "score": 10,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Earth moving"
+    },
+    {
+      "user": "Aatish Gopichand",
+      "score": 10,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Simply innovative, evoking strong emotions every second."
+    },
+    {
+      "user": "Jon-mann",
+      "score": 10,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Brilliant Movie"
+    },
+    {
+      "user": "Emma_Rampling",
+      "score": 10,
+      "review_date": {
+        "day": 14,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "One of a kind and the best of the year"
+    },
+    {
+      "user": "innocuous",
+      "score": 3,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "I paid money to watch this, so I may not be reliable."
+    },
+    {
+      "user": "Rockwell_Cronenberg",
+      "score": 7,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "A real stunner that stays with you."
+    },
+    {
+      "user": "cderip",
+      "score": 10,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Thank You Brit and Mike"
+    },
+    {
+      "user": "Edwin Estrella",
+      "score": 7,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "More Here Than Meets The Eye"
+    },
+    {
+      "user": "FilmRap",
+      "score": 6,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Grabs you from the beginning and leads you into a unique premise"
+    },
+    {
+      "user": "Paul McComas",
+      "score": 10,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "This is as good as cinema gets -- on our or ANY Earth."
+    },
+    {
+      "user": "christopherjarvis",
+      "score": 1,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "The Worst Film Ever Made (in this universe or any other)"
+    },
+    {
+      "user": "erdoc2803",
+      "score": 10,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A truly compelling film"
+    }
+  ],
+  "release_year": null,
+  "max_screens": 94,
+  "screens_by_weekend": [
+    4,
+    20,
+    55,
+    82,
+    87,
+    94,
+    71,
+    41,
+    17,
+    14,
+    15
+  ],
+  "critic_review_count": 244,
   "num_weekends": 11,
-  "rating_freq": {
-    "1": 1321,
-    "2": 885,
-    "3": 1310,
-    "4": 2300,
-    "5": 4994,
-    "6": 11579,
-    "7": 21784,
-    "8": 17604,
-    "9": 8118,
-    "10": 5832
-  },
-  "budget": 100000,
-  "votes_per_demo": {
-    "non-us_users": 43485,
-    "aged_45+": 7660,
-    "females_aged_45+": 1131,
-    "imdb_staff": 6,
-    "females_under_18": 31,
-    "males_aged_45+": 6397,
-    "females_aged_18-29": 6627,
-    "males_aged_30-44": 26473,
-    "females": 13387,
-    "imdb_users": 75727,
-    "us_users": 10999,
-    "males_under_18": 58,
-    "top_1000_voters": 381,
-    "aged_under_18": 90,
-    "males": 53379,
-    "males_aged_18-29": 18865,
-    "females_aged_30-44": 5128,
-    "aged_30-44": 32079,
-    "aged_18-29": 25768
-  },
   "closing_date": {
-    "month": 9,
-    "__type__": "datetime.date",
     "day": 30,
-    "year": 2011
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 9
   },
-  "gross_income": 1316074,
+  "opening_weekend_screens": 4,
+  "rating": 7.0,
+  "opening_weekend_income": 77740,
+  "user_review_count": 234,
+  "budget": 100000,
+  "rating_count": 75736,
+  "metascore": 66,
+  "duration": 92,
   "avg_rating_per_demo": {
     "non-us_users": 7.0,
-    "aged_45+": 6.8,
-    "females_aged_45+": 7.2,
-    "imdb_staff": 5.9,
+    "aged_30-44": 6.9,
+    "top_1000_voters": 6.1,
+    "us_users": 7.1,
     "females_under_18": 7.4,
-    "males_aged_45+": 6.8,
-    "females_aged_18-29": 7.3,
     "males_aged_30-44": 6.9,
     "females": 7.2,
     "imdb_users": 7.0,
-    "us_users": 7.1,
-    "males_under_18": 7.0,
-    "top_1000_voters": 6.1,
-    "aged_under_18": 7.2,
+    "aged_45+": 6.8,
     "males": 6.9,
+    "females_aged_45+": 7.2,
+    "females_aged_18-29": 7.3,
+    "aged_under_18": 7.2,
+    "males_under_18": 7.0,
     "males_aged_18-29": 7.1,
     "females_aged_30-44": 7.2,
-    "aged_30-44": 6.9,
+    "males_aged_45+": 6.8,
+    "imdb_staff": 5.9,
     "aged_18-29": 7.1
   },
-  "opening_weekend_date": {
-    "month": 7,
-    "__type__": "datetime.date",
-    "day": 22,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 43488,
+    "aged_30-44": 32084,
+    "top_1000_voters": 381,
+    "us_users": 11002,
+    "females_under_18": 31,
+    "males_aged_30-44": 26476,
+    "females": 13389,
+    "imdb_users": 75736,
+    "aged_45+": 7663,
+    "males": 53383,
+    "females_aged_45+": 1131,
+    "females_aged_18-29": 6627,
+    "aged_under_18": 90,
+    "males_under_18": 58,
+    "males_aged_18-29": 18863,
+    "females_aged_30-44": 5130,
+    "males_aged_45+": 6400,
+    "imdb_staff": 6,
+    "aged_18-29": 25766
   },
-  "budget_currency": "$",
-  "user_review_count": 234,
-  "metascore": 66,
-  "max_screens": 94,
-  "duration": 92,
-  "rating_count": 75727,
-  "release_day": null,
-  "release_month": null,
-  "release_year": null,
+  "gross_income": 1316074,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 77740,
-  "critic_review_count": 244,
-  "rating": 7.0,
-  "avg_screens": 45.45454545454545,
-  "name": "Another Earth",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 22,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 7
+  }
 }

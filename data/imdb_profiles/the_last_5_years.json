@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 2,
-    "year": 2015,
-    "day": 20,
-    "__type__": "datetime.date"
+  "release_day": null,
+  "avg_rating_per_demo": {
+    "aged_45+": 5.5,
+    "top_1000_voters": 4.9,
+    "males_under_18": 7.4,
+    "imdb_staff": 4.5,
+    "males_aged_18-29": 6.1,
+    "imdb_users": 5.9,
+    "males_aged_45+": 5.4,
+    "aged_18-29": 6.1,
+    "us_users": 6.2,
+    "females_aged_30-44": 5.8,
+    "males": 5.7,
+    "females": 6.0,
+    "females_aged_45+": 5.8,
+    "non-us_users": 5.6,
+    "females_aged_18-29": 6.1,
+    "females_under_18": 7.1,
+    "aged_30-44": 5.4,
+    "aged_under_18": 7.3,
+    "males_aged_30-44": 5.3
   },
   "closing_date": {
     "month": 2,
@@ -11,82 +27,536 @@
     "day": 27,
     "__type__": "datetime.date"
   },
-  "rating": 5.9,
-  "num_weekends": 2,
-  "release_year": null,
-  "rating_freq": {
-    "1": 302,
-    "2": 195,
-    "3": 352,
-    "4": 506,
-    "5": 1004,
-    "6": 1310,
-    "7": 1282,
-    "8": 811,
-    "9": 467,
-    "10": 758
-  },
-  "avg_screens": 30.5,
-  "budget": null,
-  "budget_currency": null,
-  "release_day": null,
   "metascore": 60,
+  "num_weekends": 2,
+  "rating_count": 6993,
+  "gross_income": 137945,
+  "max_screens": 36,
+  "opening_weekend_screens": 36,
+  "screens_by_weekend": [
+    36,
+    25
+  ],
+  "opening_weekend_income": 38677,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "A Heavy, Heart-Wrenching, Heavenly Movie",
+      "score": 9,
+      "user": "James N. O'Sullivan",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sunset to Sunrise, and back again",
+      "score": 5,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was surprised how much I liked this film",
+      "score": 6,
+      "user": "dangerous penguin",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting concept, highly recommended",
+      "score": 8,
+      "user": "Sal D'Souza",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A story in song",
+      "score": 10,
+      "user": "zif ofoz",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great fun for fans of the show",
+      "score": 9,
+      "user": "tobyfathom",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better sung than visualized",
+      "score": 9,
+      "user": "jasobres",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie will appeal to viewers who already adore musicals but will not win over any new fans to the genre.",
+      "score": 4,
+      "user": "wpedmonson",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anna Kendrick makes it worth it, in all honesty.",
+      "score": 7,
+      "user": "Ryan Prince",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anna Kendrick gives a knock out performance",
+      "score": 4,
+      "user": "studioAT",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Indecisive opinion.",
+      "score": 6,
+      "user": "Alannah Purslow",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliantly translated to the big screen",
+      "score": 7,
+      "user": "dananielsen-00085",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing Songs with Questionable Story",
+      "score": 7,
+      "user": "allieml",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heartbreaking, Emotional - One of the best musical",
+      "score": 10,
+      "user": "recruiterlady",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, not great.  Especially considering the talented vocalists.",
+      "score": 6,
+      "user": "wesleyjnixon",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One for the stage nerds.",
+      "score": 10,
+      "user": "Hopdeep Derperson",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Give it a chance, will amaze you even after you know.",
+      "score": 9,
+      "user": "Miriam Ramirez",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent Adaption",
+      "score": 10,
+      "user": "Peter Schmid",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "lights and shadows",
+      "score": 7,
+      "user": "charlie morrison",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I wish the director was smarter!",
+      "score": 5,
+      "user": "ree-bee103",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Last 5 Years is a must see for musical fans.",
+      "score": 9,
+      "user": "lyssboxer",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good for what it is, nearly impossible for new viewers.",
+      "score": 7,
+      "user": "kurokotsu",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply Amazing!!",
+      "score": 9,
+      "user": "Liane Gabriel Ibarra",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watchable thanks to Anna Kendrick's beautiful voice",
+      "score": 5,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incredible",
+      "score": 10,
+      "user": "BeccaH098",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Last Five Years: poorly entertaining.",
+      "score": 5,
+      "user": "niutta-enrico",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lovely, rich, utterly human gem of a musical about life, love and loss.",
+      "score": 8,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Fixation for Fans in the Broadway Universe",
+      "score": 8,
+      "user": "mrturk182",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love Hurts...One Way or Another",
+      "score": 7,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best musicals I've seen",
+      "score": 10,
+      "user": "mgfayek",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There will be some people that really enjoy this and will absolutely love it. As for me, it was a big struggle to get through",
+      "score": 4,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Obnoxious and shallow",
+      "score": 1,
+      "user": "Lorace Dem",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uplifting, confirmation that Anna Kendrick is set for great things",
+      "score": 9,
+      "user": "Andy Hill",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kind of like 500 Days of Summer....but less wittier and with less charm.",
+      "score": 7,
+      "user": "mr_bickle_the_pickle",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anna Kendrick is the star of this musical",
+      "score": 10,
+      "user": "abajax",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great as a musical, doesn't quite translate as a film",
+      "score": 6,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It lasts only for five minutes!",
+      "score": 3,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Off and On Pitch",
+      "score": 6,
+      "user": "frizzysemonsoni",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anna Kendrick continues to be great",
+      "score": 6,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The  Last  Five  Years",
+      "score": 9,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "See the play instead",
+      "score": 5,
+      "user": "SuzyCayenne",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nope SPOILERS",
+      "score": 3,
+      "user": "Frank Dudley Berry, Jr. (fdber@yahoo.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 94,
+  "votes_per_demo": {
+    "aged_45+": 458,
+    "top_1000_voters": 94,
+    "males_under_18": 23,
+    "imdb_staff": 2,
+    "males_aged_18-29": 1240,
+    "imdb_users": 6993,
+    "males_aged_45+": 349,
+    "aged_18-29": 3091,
+    "us_users": 1678,
+    "females_aged_30-44": 683,
+    "males": 2797,
+    "females": 2841,
+    "females_aged_45+": 102,
+    "non-us_users": 2578,
+    "females_aged_18-29": 1813,
+    "females_under_18": 40,
+    "aged_30-44": 1744,
+    "aged_under_18": 63,
+    "males_aged_30-44": 1041
+  },
   "genres": [
     "comedy",
     "drama",
     "musical"
   ],
-  "release_month": null,
-  "avg_rating_per_demo": {
-    "aged_45+": 5.5,
-    "aged_18-29": 6.1,
-    "aged_30-44": 5.4,
-    "females": 6.0,
-    "top_1000_voters": 4.9,
-    "non-us_users": 5.6,
-    "females_under_18": 7.1,
-    "males_aged_30-44": 5.3,
-    "us_users": 6.3,
-    "imdb_users": 5.9,
-    "imdb_staff": 4.5,
-    "males_under_18": 7.4,
-    "females_aged_18-29": 6.1,
-    "males_aged_45+": 5.4,
-    "females_aged_30-44": 5.8,
-    "males": 5.7,
-    "males_aged_18-29": 6.1,
-    "females_aged_45+": 5.8,
-    "aged_under_18": 7.3
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2014,
-  "name": "The Last 5 Years",
-  "gross_income": 137945,
-  "user_review_count": 44,
-  "duration": 94,
-  "max_screens": 36,
-  "votes_per_demo": {
-    "aged_45+": 458,
-    "aged_18-29": 3090,
-    "aged_30-44": 1742,
-    "females": 2838,
-    "top_1000_voters": 94,
-    "non-us_users": 2577,
-    "females_under_18": 40,
-    "males_aged_30-44": 1041,
-    "us_users": 1677,
-    "imdb_users": 6987,
-    "imdb_staff": 2,
-    "males_under_18": 23,
-    "females_aged_18-29": 1812,
-    "males_aged_45+": 349,
-    "females_aged_30-44": 681,
-    "males": 2797,
-    "males_aged_18-29": 1240,
-    "females_aged_45+": 102,
-    "aged_under_18": 63
+  "rating_freq": {
+    "1": 302,
+    "2": 195,
+    "3": 352,
+    "4": 507,
+    "5": 1005,
+    "6": 1311,
+    "7": 1283,
+    "8": 812,
+    "9": 468,
+    "10": 758
   },
-  "rating_count": 6987,
+  "release_month": null,
+  "budget": null,
+  "budget_currency": null,
+  "total_screens": 61,
+  "year": 2014,
+  "rating": 5.9,
   "critic_review_count": 81,
-  "opening_weekend_income": 38677
+  "opening_weekend_date": {
+    "month": 2,
+    "year": 2015,
+    "day": 20,
+    "__type__": "datetime.date"
+  },
+  "name": "The Last 5 Years",
+  "user_review_count": 44,
+  "avg_screens": 30.5
 }

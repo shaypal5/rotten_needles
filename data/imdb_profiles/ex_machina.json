@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 4,
-    "year": 2015,
-    "day": 10,
-    "__type__": "datetime.date"
+  "release_day": 24,
+  "avg_rating_per_demo": {
+    "aged_45+": 7.6,
+    "top_1000_voters": 7.4,
+    "males_under_18": 8.1,
+    "imdb_staff": 8.1,
+    "males_aged_18-29": 7.9,
+    "imdb_users": 7.7,
+    "males_aged_45+": 7.6,
+    "aged_18-29": 7.9,
+    "us_users": 7.9,
+    "females_aged_30-44": 7.4,
+    "males": 7.8,
+    "females": 7.5,
+    "females_aged_45+": 7.4,
+    "non-us_users": 7.7,
+    "females_aged_18-29": 7.6,
+    "females_under_18": 7.8,
+    "aged_30-44": 7.6,
+    "aged_under_18": 8.1,
+    "males_aged_30-44": 7.6
   },
   "closing_date": {
     "month": 8,
@@ -11,82 +27,6850 @@
     "day": 28,
     "__type__": "datetime.date"
   },
-  "rating": 7.7,
-  "num_weekends": 13,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 2109,
-    "2": 1091,
-    "3": 1854,
-    "4": 3620,
-    "5": 9053,
-    "6": 26941,
-    "7": 77419,
-    "8": 116089,
-    "9": 60969,
-    "10": 28115
-  },
-  "avg_screens": 626.5384615384615,
-  "budget": 15000000,
-  "budget_currency": "$",
-  "release_day": 24,
   "metascore": 78,
+  "num_weekends": 13,
+  "rating_count": 327559,
+  "gross_income": 25440971,
+  "max_screens": 2004,
+  "opening_weekend_screens": 4,
+  "screens_by_weekend": [
+    4,
+    1255,
+    1279,
+    2004,
+    1718,
+    896,
+    506,
+    302,
+    124,
+    31,
+    17,
+    4,
+    5
+  ],
+  "opening_weekend_income": 250000,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "I think therefore am I?",
+      "score": 8,
+      "user": "bob-the-movie-man",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intriguing, unpredictable and tense",
+      "score": 8,
+      "user": "Deathstryke",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paranoid Android",
+      "score": 9,
+      "user": "themissingpatient",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Writer Director Alex Garland is a powerhouse of talent",
+      "score": 10,
+      "user": "chriscrudelli-220-144403",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very involving bit of pure sci-fi",
+      "score": 9,
+      "user": "Red-Barracuda",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Future Sci-Fi Classic",
+      "score": 9,
+      "user": "MattBirk",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not quite the cerebral thriller I was expecting ...",
+      "score": 6,
+      "user": "corrinadylan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Can androids think up a better movie?",
+      "score": 1,
+      "user": "NimishJha",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clumsy and Overblown Fodder for Aspiring Futurists",
+      "score": 3,
+      "user": "ryan-o-west",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Robots will take over the world",
+      "score": 8,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A visually pleasing movie with numerous plot-holes and a bad ending.",
+      "score": 2,
+      "user": "Meatdawg",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intelligent Movie",
+      "score": 9,
+      "user": "eadon-com",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant! Watch it",
+      "score": 10,
+      "user": "Gordon Shumway",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Read the script, saw the movie, not impressed",
+      "score": 4,
+      "user": "bent-mathiesen",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A stunningly crafted Sci-Fi with a star making turn from Vikander",
+      "score": 9,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina vs Blade Runner",
+      "score": 1,
+      "user": "kattegat",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boorish antagonist and lack of suspense sinks newbie writer/director's sci-fi indie \"thriller\"",
+      "score": 2,
+      "user": "Turfseer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "disappointing on many levels",
+      "score": 1,
+      "user": "D T",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a forgettable movie with an even worse ending",
+      "score": 3,
+      "user": "joshuapabelick87",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terribly scripted and nothing remotely ground breaking or likable at all. It should be deleted from existence.",
+      "score": 1,
+      "user": "LeijonaSisu",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very good balance between sci-fi and psychology",
+      "score": 9,
+      "user": "Sean Pollacchi",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Turing test",
+      "score": 8,
+      "user": "petra_ste",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did just about enough to hold my interest, but it lost its way in the latter stages and the ending is also somewhat puzzling",
+      "score": 4,
+      "user": "jimbo-53-186511",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very interesting film.",
+      "score": 7,
+      "user": "MC Dee Lusional (deelusionalmusic)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The psychology of AI",
+      "score": 10,
+      "user": "deep_hz",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch it and enjoy, but don't expect to be mind-blown",
+      "score": 6,
+      "user": "MojoJojo2987",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh my lord it was crap...",
+      "score": 1,
+      "user": "Morris Esa",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When Real Dolls go bad...",
+      "score": 1,
+      "user": "notmicro",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictable yet pretty...meh.",
+      "score": 4,
+      "user": "joekanuck",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Refreshing Return to Sci-Fi",
+      "score": 8,
+      "user": "Cathex",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Artmovie disguised as sci-fi",
+      "score": 2,
+      "user": "krycek19",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "2 Oscar nominations for this? Seriously?",
+      "score": 1,
+      "user": "roystephen-81252",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Honestly Not That Great",
+      "score": 4,
+      "user": "Cameron",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Movie About the Future Set Women Back About 500 Years",
+      "score": 1,
+      "user": "Div Ya",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "predictable af",
+      "score": 2,
+      "user": "Mari Kant",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Turing Test and the Evitable Conflict.",
+      "score": 10,
+      "user": "Bo Atdrinks",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Kings Magic Coat",
+      "score": 3,
+      "user": "Johnc-austin",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not As Smart As It Thinks It Is",
+      "score": 7,
+      "user": "Theo Robertson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I think, therefore I am VS. Built, not born",
+      "score": 9,
+      "user": "Alexander Hunter",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "want to see it again",
+      "score": 8,
+      "user": "Chuckify",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Highly recommended Sci-Fi!",
+      "score": 9,
+      "user": "Michael O'Keefe",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great philosophical-intellectual-type sci-fi film",
+      "score": 9,
+      "user": "Abdullah Almosalami",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant Cast...Brilliant Film",
+      "score": 9,
+      "user": "ggmcheartagram",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Roy, Pris, Leon, Zorah, and Rachel of Blade Runner, you would cheer for Ava, she makes you proud",
+      "score": 9,
+      "user": "Amy Adler",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The evolution of Science Fiction",
+      "score": 9,
+      "user": "thurst80",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poignant and thought provoking, one of the best science fiction films of the decade.",
+      "score": 9,
+      "user": "mlle-greenthumb",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A nail-biting sequel to Her",
+      "score": 9,
+      "user": "Marion",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well executed tension filled thriller, 9.5/10",
+      "score": 9,
+      "user": "WalterSoprano",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Isaac Asimov fans, grab this one",
+      "score": 9,
+      "user": "oragex",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Humans and their opinions",
+      "score": 9,
+      "user": "simon-page-1",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unexpected ending.",
+      "score": 10,
+      "user": "eapplebaum",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cerebral classic",
+      "score": 9,
+      "user": "Vikesh Mirchandani",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprising",
+      "score": 9,
+      "user": "unforgiventruth",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastically Phycological and Thought Provoking",
+      "score": 8,
+      "user": "Inception Report",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting premise badly executed",
+      "score": 5,
+      "user": "xylem-701-493069",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Skynet with boobs",
+      "score": 10,
+      "user": "Imperial Dynamics",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best A.I. film made to date",
+      "score": 9,
+      "user": "shivers",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yes and no",
+      "score": 6,
+      "user": "gregkae",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So Good, But",
+      "score": 7,
+      "user": "Larry A. Tilander",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A tautly directed and well scripted sci-fi that remains within the boundaries of scientific plausibility.",
+      "score": 7,
+      "user": "RichardAlaba-CineMuse",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "prefers guilt to intelligence",
+      "score": 5,
+      "user": "diggus doggus",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For men who fancy androids stripping, great idea wasted",
+      "score": 3,
+      "user": "supermaggie",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Have you ever heard of the Turing Test?",
+      "score": 9,
+      "user": "templar77099",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A cyberthriller masterpiece.",
+      "score": 10,
+      "user": "Travixius",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite a disappointement",
+      "score": 3,
+      "user": "Dennis Laursen",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plot Twists",
+      "score": 6,
+      "user": "Steve B",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the most satisfying SF films I've ever seen",
+      "score": 9,
+      "user": "Harvey S. Cohen",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Extraordinary, but too short",
+      "score": 9,
+      "user": "public-25686",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A thought provoking, well executed film",
+      "score": 9,
+      "user": "groovypb",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina will defiantly end up as one of the Oscar worthy films",
+      "score": 9,
+      "user": "secretzfan",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Emotions in AI and Deep Learning Neural Networks",
+      "score": 9,
+      "user": "immmoo123",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This was a very simple movie",
+      "score": 9,
+      "user": "bmaschi",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Only one thing wrong with this",
+      "score": 10,
+      "user": "Dennis Littrell",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Suspenseful, keeps you guessing",
+      "score": 9,
+      "user": "mhjilani",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Self aware AI thriller",
+      "score": 9,
+      "user": "Intelligent Reviewing",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It makes 'I, Robot' look like a Dr. Seuss Book.\"",
+      "score": 10,
+      "user": "William DeVogel",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Captivating",
+      "score": 9,
+      "user": "warlock5822",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "4.5/5",
+      "score": 9,
+      "user": "IsaacSage",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reminded me of several Kubrick films put together.",
+      "score": 9,
+      "user": "GoodFrames",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely Brilliant!",
+      "score": 10,
+      "user": "cbcradiotwoandme",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Only loses to the best ever",
+      "score": 9,
+      "user": "alocsav",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All That Money to Build a Woman When We Already Have Several Billion",
+      "score": 8,
+      "user": "Hitchcoc",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex  Machina",
+      "score": 9,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Sellent!",
+      "score": 9,
+      "user": "meeza (themeezaman@hotmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastically Engaging From Beginning to End",
+      "score": 10,
+      "user": "pinkled5",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One that draws you slowly into the whole matter",
+      "score": 7,
+      "user": "Ole Sandbaek Joergensen",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Real Science Fiction.",
+      "score": 8,
+      "user": "buxcador",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Psychological and philosophical thriller under the guise of sci fi",
+      "score": 8,
+      "user": "Movie_Muse_Reviews",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really good",
+      "score": 8,
+      "user": "craig-hopton",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A few factual errors, but a worthy and thoughtful movie",
+      "score": 8,
+      "user": "Harlan Williams",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Engaging",
+      "score": 7,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fembots! Cool!",
+      "score": 6,
+      "user": "Michael Alderson-Bythell",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very good on many points!",
+      "score": 9,
+      "user": "randal-46514",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictable",
+      "score": 3,
+      "user": "nadezhda-emilova",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wildly overrated",
+      "score": 4,
+      "user": "Justin Firestone",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Underrated Sci-Fi Drama",
+      "score": 9,
+      "user": "dmickle21",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'The good deeds a man has done defends him.'",
+      "score": 10,
+      "user": "gradyharp",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best thrillers of the last years",
+      "score": 10,
+      "user": "hiramcaly",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When did Ava become human?",
+      "score": 10,
+      "user": "damerriam",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some of the best Sci-fi I've ever seen!",
+      "score": 10,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best film I've seen for years",
+      "score": 8,
+      "user": "nyrobins",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mind is blown (this is a movie for intellectuals, futurists, and deep thinkers)",
+      "score": 10,
+      "user": "Derek Halpern",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just not fun",
+      "score": 6,
+      "user": "ptann",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex-machina",
+      "score": 10,
+      "user": "mrcinema72",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Arguably the best sci-fi movie of 2015, intelligent and smart and trying to impress you not with great picture but with a great content",
+      "score": 10,
+      "user": "admie",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant cinematic masterpiece, 2001: A Space Odyssey for the 21st Century.",
+      "score": 10,
+      "user": "Samuel Walker",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a great a.i. based film",
+      "score": 10,
+      "user": "WoodBangers Entertainment",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Garland's vision is such that he has created something special, fresh and unique.",
+      "score": 10,
+      "user": "luke-a-mcgowan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent science fiction that grips you with ideas, not just action and CGI",
+      "score": 9,
+      "user": "MortalKombatFan1",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Robotic Kubrick",
+      "score": 8,
+      "user": "Kevin Bradshaw",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film was deep, thought provoking and tense.",
+      "score": 9,
+      "user": "Ian Johnson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A simple yet refreshing drama sci-fi!",
+      "score": 8,
+      "user": "timelesswind",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A strong, confident debut.",
+      "score": 9,
+      "user": "Ser_Stephen_Seaworth",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Concept, Frustrating Execution",
+      "score": 6,
+      "user": "dmcarefuldriver",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The distortion of distinctions !!!",
+      "score": 10,
+      "user": "avik-basu1889",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stupid.",
+      "score": 2,
+      "user": "altanseseg",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The perfect debut for director Alex Garland",
+      "score": 10,
+      "user": "bartonj2410",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"They thought search engines were a map of what people were thinking.But actually they were a map to how people are thinking.\"",
+      "score": 10,
+      "user": "morrison-dylan-fan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why I Love Film",
+      "score": 10,
+      "user": "Matt Greene",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Might Sound Familiar and Yet Get Ready to Be Pleasantly Surprised",
+      "score": 10,
+      "user": "aharmas",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina is as much a study in autism as it is in AI.",
+      "score": 10,
+      "user": "richard hurley",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very thought provoking, amazing movie.",
+      "score": 10,
+      "user": "franklyngonzalez94",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Derivative and deeply misogynistic",
+      "score": 1,
+      "user": " (nntravel)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not just another AI movie.",
+      "score": 10,
+      "user": "desertdogproductions",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movies as they should be",
+      "score": 10,
+      "user": "chris7-142-318795",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If Claude Monet was a film this would be it. 10/10",
+      "score": 10,
+      "user": "fezy-21530 (fezy2012@googlemail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant Sci-Fi Based in Emotion",
+      "score": 10,
+      "user": "Challenger2013",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superb movie-making",
+      "score": 9,
+      "user": "merrywood",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pure science fiction- so good that could be science fact (*****)",
+      "score": 10,
+      "user": "Film Fan Perspective (filmfanperspective@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful, but fell short",
+      "score": 6,
+      "user": "deproduction",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best films ever made.....",
+      "score": 10,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superb",
+      "score": 10,
+      "user": "Richard West",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spooky terrifying Sci Fi Movie",
+      "score": 8,
+      "user": "jpkpavankumar",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "SPOILER Pygmalion remastered",
+      "score": 7,
+      "user": "unsafejohnnyb",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poor story, only reasonable otherwise",
+      "score": 3,
+      "user": "pwb-594-574957",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film that certainly raises questions",
+      "score": 7,
+      "user": "Carlos Andr\u00c3\u00a9 (carlos37andre@hotmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A beautiful depiction of the philosophical features of the sci-fi genre...",
+      "score": 9,
+      "user": "chezcam",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is an okay to good movie but some of the criticisms are insane.",
+      "score": 6,
+      "user": "Naomi",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Transparency is our downfall",
+      "score": 8,
+      "user": "Marc Israel",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In awe",
+      "score": 9,
+      "user": "Ironically Unimpressed",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unpredictable and intelligent plot",
+      "score": 9,
+      "user": "ngotovactemporary",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Forgettable",
+      "score": 4,
+      "user": "winopaul",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow paced",
+      "score": 8,
+      "user": "Roedy Green",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great psychological film",
+      "score": 7,
+      "user": "Imdbidia",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best sci-fi films I've seen in a long time",
+      "score": 10,
+      "user": "Malthe Tuxen",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An unusual, fascinating film",
+      "score": 7,
+      "user": "adamw25",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "That Ending! WTF!",
+      "score": 7,
+      "user": "dawgsfan92",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, but a little under my expectation.",
+      "score": 7,
+      "user": "badoli",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A powerhouse display of talent.",
+      "score": 10,
+      "user": "Sooza_87",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just needed some better pacing",
+      "score": 6,
+      "user": "jtindahouse",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quiet, Brutal, and Suspenseful",
+      "score": 9,
+      "user": "Canon Blackwell",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Artificial Intelligence wins against human",
+      "score": 10,
+      "user": "rajatshanu64",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "zen-like",
+      "score": 8,
+      "user": "kenneth-olsen77",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superb Sci fi movie",
+      "score": 9,
+      "user": "Sergiodave",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting movie and theme",
+      "score": 7,
+      "user": "Cass",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a splendid exploration of human condition",
+      "score": 8,
+      "user": "picasdan",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film about human interaction and what it means to be human.",
+      "score": 9,
+      "user": "Mack Wardo",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intelligent and gripping science fiction",
+      "score": 9,
+      "user": "Tweekums",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie",
+      "score": 10,
+      "user": "Matin ca",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kyoko isn't an Ex-girlfriend who got M.A. in China",
+      "score": 7,
+      "user": "Ueda Yasufumi",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "EX MACHINA - review",
+      "score": 8,
+      "user": "Rajinder Singh Puller",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The artificial machine is scary in a way",
+      "score": 7,
+      "user": "David Roggenkamp",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad at all",
+      "score": 6,
+      "user": "nicholls_les",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow Ex Machina i'm Speechless",
+      "score": 10,
+      "user": "Ryan Jackson",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Couple of good laughs",
+      "score": 3,
+      "user": "Modulo m",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Say it with me: Ex Machina.",
+      "score": 8,
+      "user": "Michael Zary",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What did I see?",
+      "score": 4,
+      "user": "Pink Zeppelin",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ava Destruction",
+      "score": 9,
+      "user": "blankenshipdk",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Guy Hangs Out With His Sketchy Boss to Test His New AI",
+      "score": 7,
+      "user": "chris hayward",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intelligent, unpredictable and stunning!",
+      "score": 9,
+      "user": "Allan Christensen",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Google me Pink",
+      "score": 7,
+      "user": "J-bot6",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bicentennial Man 2 this is not",
+      "score": 8,
+      "user": "InaneSwine",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Definitely a good movie!",
+      "score": 7,
+      "user": "Saulo Sampaio",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina is an engaging and purely fascinating sci-fi piece.",
+      "score": 8,
+      "user": "eduartekarl",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's Called Artificial Intelligence for a Reason",
+      "score": 8,
+      "user": "K_ash10 (Lynn.kay83@gmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Next Great Si-Fi Thriller",
+      "score": 8,
+      "user": "Christopher Shobris",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Greatest Mystery",
+      "score": 8,
+      "user": "michelvega",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the most intelligent works of science fiction in recent memory",
+      "score": 8,
+      "user": "tomgillespie2002",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well done",
+      "score": 8,
+      "user": "El Jueta",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Slow Moving film that never loses its Appeal,",
+      "score": 8,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great refreshing sci fi",
+      "score": 8,
+      "user": "alindsay-al",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intelligent and beautifully crafted",
+      "score": 8,
+      "user": "Taylor100",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We All See Things Differently",
+      "score": 8,
+      "user": "dallasryan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One word: Solipsism",
+      "score": 8,
+      "user": "Jeremy Connors",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "no more message board, no more review",
+      "score": 5,
+      "user": "movieLoader",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty visuals, NOT as smart as expected",
+      "score": 6,
+      "user": "Andre Franco",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Sci-Fi Movie that mixes realism with complex ideas!!",
+      "score": 8,
+      "user": "vishaal811",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thoughtful and meticulously constructed",
+      "score": 8,
+      "user": "gary-444",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A philosophical Sci-fi",
+      "score": 8,
+      "user": "patriciovilches",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "And God Created Ava",
+      "score": 8,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "iRobot",
+      "score": 8,
+      "user": "pyrocitor",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oscar Isaac and Alex Garland",
+      "score": 8,
+      "user": "Christian",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fascinating, but not nearly as smart as it thinks it is",
+      "score": 8,
+      "user": "TdSmth5",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "stunning and beautiful!",
+      "score": 8,
+      "user": "mehedi masud",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Alex Garland delivers a perfectly-paced, very human robot story.",
+      "score": 8,
+      "user": "ConsistentlyFalconer",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Deus Ex Machina - humanity and gods",
+      "score": 7,
+      "user": "sharky_55",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina",
+      "score": 8,
+      "user": "midas-jacobs",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I want an A.I for my Wardrobe!",
+      "score": 8,
+      "user": "valleyjohn",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Of Gods and women?",
+      "score": 7,
+      "user": "Bevan Mortimer",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Alex Garland debuts with one of the best sci-fi films of the last decade",
+      "score": 9,
+      "user": "Deigues",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing Performances from Oscar Isaac and Alica Vikander",
+      "score": 9,
+      "user": "brando647",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Great Film",
+      "score": 8,
+      "user": "Rob Angus",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cerebral and cinematic, it's the type of film you wish they'd make more often",
+      "score": 8,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of a kind Sci-Fi",
+      "score": 10,
+      "user": "Floated2",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A glimpse of the future.",
+      "score": 10,
+      "user": "Thomas",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Achieving the Impossible",
+      "score": 10,
+      "user": "Daniel Scherrer",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex_cellent",
+      "score": 10,
+      "user": "Peter Collins",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "loved it, especially the ending",
+      "score": 10,
+      "user": "jeffa123",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Deep and thought provoking",
+      "score": 10,
+      "user": "Gustavo Schroeder A",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Take that, Spielberg",
+      "score": 8,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I really liked the film, Pretty well structured.",
+      "score": 9,
+      "user": "DangerZonerVzla",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Eerie look into the future..",
+      "score": 9,
+      "user": "jamesllewellyn227",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really Wanted To Like This One...",
+      "score": 5,
+      "user": "schuster_mark",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Original & Shocking!",
+      "score": 9,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina Review",
+      "score": 9,
+      "user": "keithlovesmovies",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "solid in every way",
+      "score": 9,
+      "user": "barberbill64",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's great to see Sci Fi coming back!",
+      "score": 9,
+      "user": "David Ainsworth",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chess games with androids",
+      "score": 8,
+      "user": "tigerfish50",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A thought provoking and visually striking science fiction masterpiece",
+      "score": 10,
+      "user": "mhol111964-754-567942",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "X Machina Review",
+      "score": 9,
+      "user": "nick_dipiero",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Robotic Kubrick",
+      "score": 8,
+      "user": "Kevin Bradshaw",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good movie. No question.",
+      "score": 7,
+      "user": "santiagocosme",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Advanced Intelligence!",
+      "score": 9,
+      "user": "ZULFIQAR RAJA (zulfbookz@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Faking It",
+      "score": 6,
+      "user": "sure_man",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Visually top notch, storyline bit of a let down",
+      "score": 7,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Certinaly better than average Hollywood flick, but not a classic",
+      "score": 7,
+      "user": "Nobody-27",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pre-teen geek fantasy predictable to the very last scene",
+      "score": 3,
+      "user": "nando1301-1",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a subtle, beautiful film, with flawless imagery and portrayals",
+      "score": 10,
+      "user": "lilgrasshoppah",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Underrated Gem of 2015",
+      "score": 9,
+      "user": "gavin6942",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simple, Powerful, and Beautiful.",
+      "score": 10,
+      "user": "Hiroshi Kamata",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Twizard Rating: 100",
+      "score": 10,
+      "user": "goolizap",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This isn't the first movie to deal with the concept of A.I. and it certainly won't be the last.",
+      "score": 5,
+      "user": "Vivekmaru45",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Recommended",
+      "score": 9,
+      "user": "lampic",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not enough story for a feature length film",
+      "score": 6,
+      "user": "OverThereDB",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "best ever- crap",
+      "score": 5,
+      "user": "gkikoulini",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An intelligent movie about A.I., nothing less.",
+      "score": 9,
+      "user": "JohnRayPeterson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best sci-fi's in years...",
+      "score": 8,
+      "user": "d-JCB",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Artificial Intelligence crafted beautifully with Natural Intelligence by Alex",
+      "score": 9,
+      "user": "luvsharma1",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The most beautiful naked, attractive, submissive and deadly artificial intelligences in the world",
+      "score": 5,
+      "user": "AlxP-64",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ava. The One I Fell In Love With.",
+      "score": 8,
+      "user": "hamass-mujadid",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Frankestein Redux with Sexy Hardware",
+      "score": 5,
+      "user": "rupertmanband",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "brilliant post-modern retelling of Genesis",
+      "score": 9,
+      "user": "melaniealison2",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best movie I've seen in years!!!",
+      "score": 10,
+      "user": "sebjay",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well driven movie",
+      "score": 7,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina is that Stanley Kubrick-like robot thriller I wanted with Artificial Intelligence",
+      "score": 10,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Challenges the Mind with Bergman-Like Splendor",
+      "score": 9,
+      "user": "bkrauser-81-311064",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A tense, well constructed Sci Fi thriller",
+      "score": 9,
+      "user": "element-one",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Out of this world",
+      "score": 10,
+      "user": "Hussain Dawwas",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feelings enslave you, intellect sets you free.",
+      "score": 10,
+      "user": "tomsuthblack",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Easily one of the best science fiction films of the 21st century.",
+      "score": 10,
+      "user": "Jacques Ciesla",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exciting and though-provoking",
+      "score": 10,
+      "user": "David Lunde",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina explores the world of Artificial Intelligence. This film is the experimental interviewing process between man and machine..",
+      "score": 10,
+      "user": "auntd",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina is a must see film if you like to think",
+      "score": 10,
+      "user": "Feind Gottes",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Intense Sci-Fi Exploration",
+      "score": 10,
+      "user": "Shane Breen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great sci-fi drama that's more about us than AI",
+      "score": 8,
+      "user": "Lucas Versantvoort",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not What I Was Expecting",
+      "score": 5,
+      "user": "adamcrossstills",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In the Garden of Ava",
+      "score": 7,
+      "user": "akgenova",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Finest, Most Thought Provoking Sci-Fi Movies of All Time",
+      "score": 10,
+      "user": "Fuego Johnson",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sexist, slow paced story going nowhere, in the future",
+      "score": 4,
+      "user": "floatingpolarbear",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You know how it ends before you even start watching",
+      "score": 5,
+      "user": "Radu_A",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "These types of films are always a nice surprise.",
+      "score": 9,
+      "user": "Zero_Void",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watchable",
+      "score": 6,
+      "user": "fawn_jane",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very cool, but nobody to root for",
+      "score": 6,
+      "user": "jonbower",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Okay as \"art,\" I suppose, but not okay as SF",
+      "score": 2,
+      "user": "SomeUselessGeek",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One Outer Limits episode at best",
+      "score": 1,
+      "user": "bpbwessel",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disturbing but with lots of plot holes",
+      "score": 5,
+      "user": "gertru007",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, but overrated",
+      "score": 6,
+      "user": "jackbaumel",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a good addition to the A.I genre, but with some issues",
+      "score": 6,
+      "user": "dimbost",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Falls just a bit short.....",
+      "score": 6,
+      "user": " Bohemian81",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mehhh, didn't expect much, didn't get much",
+      "score": 5,
+      "user": "Liam Blackburn",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Alex Garland AI movie holds you interest to the stunning end.",
+      "score": 7,
+      "user": "t-hunt910",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good not Great, Highly Overrated",
+      "score": 4,
+      "user": "chris_clemency",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing modern remake of Space Odyssey",
+      "score": 6,
+      "user": "paxdriver",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spoiled Silicon",
+      "score": 5,
+      "user": "kylebrogmus",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The battle of the bastards!",
+      "score": 9,
+      "user": "anagamin",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great movie about AI and human desires.",
+      "score": 10,
+      "user": "bysin",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally saw it and I have to say the hype is real.",
+      "score": 8,
+      "user": "OneEightNine Media",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A modern masterpiece of contemporary cinema.",
+      "score": 9,
+      "user": "murtaza murad",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "To be human",
+      "score": 5,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid  Sci-Fi film in a contemporary setting.",
+      "score": 7,
+      "user": "Chitze",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the best",
+      "score": 7,
+      "user": "Monty2",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "cleAVAge",
+      "score": 7,
+      "user": "Fallen Eye",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Man and machine",
+      "score": 7,
+      "user": "chasesunning",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Claustrophobic",
+      "score": 8,
+      "user": "Saiph90",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Manipulative A.I.",
+      "score": 7,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not enough depth",
+      "score": 6,
+      "user": "n-m-bertin",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Foreseeable",
+      "score": 7,
+      "user": "P_Osvath",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing new here, same pedestrian robot movie",
+      "score": 6,
+      "user": "targe1314",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that impressed",
+      "score": 5,
+      "user": "Alexander Stross",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautifully made, but without much purpose",
+      "score": 6,
+      "user": "fung0",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The robots will enslave us. We all know it. But this is a nice take on it.",
+      "score": 7,
+      "user": "Mr-Fusion",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No big surprise",
+      "score": 6,
+      "user": "smits59",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Of human stupidity and artificial intellect",
+      "score": 7,
+      "user": "Malintha Rathnaweera",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Modern Time Frankensteins; Ex Robot Film Review.",
+      "score": 8,
+      "user": "filmprof.net  (mhikmetaltug)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Frankenstein and Male Gaze",
+      "score": 5,
+      "user": "John Hunter",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Philosophy, but Predictable",
+      "score": 7,
+      "user": "Rob Starzec",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More Human Than You Think.",
+      "score": 7,
+      "user": "2fresh 2clean",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina is an abominable hatred!",
+      "score": 7,
+      "user": "Carter Ge",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good sci-fi movie that explores the possibility of AI manipulating human emotions.",
+      "score": 7,
+      "user": "samuelmoralesjr",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really fun movie!!!",
+      "score": 7,
+      "user": "craigh01",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Amazing Indie Sci-Fi Spectacle",
+      "score": 8,
+      "user": "KalKenobi83",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Underwhelming Brilliance",
+      "score": 7,
+      "user": "reviewsbycaleb",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thought provoking SCi-Fi thriller",
+      "score": 7,
+      "user": "thekarmicnomad",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Ava.",
+      "score": 7,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Compelling but flawed",
+      "score": 8,
+      "user": "jim-58128",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazon understands this film",
+      "score": 2,
+      "user": "zee",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A powerful directional debut.",
+      "score": 10,
+      "user": "Taryll Baker",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina is Ex-traordinary!",
+      "score": 10,
+      "user": "Adam Post",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina",
+      "score": 8,
+      "user": "sammyb-24065",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intelligent and entertaining",
+      "score": 10,
+      "user": "nrpool",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"You shouldn't trust anything he says\".",
+      "score": 8,
+      "user": "classicsoncall",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Dangers of Humans and Stupidity",
+      "score": 7,
+      "user": "Jeff Chen",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not boring at all and excellent effects",
+      "score": 8,
+      "user": "trashgang",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Film student writes android soft core porn",
+      "score": 6,
+      "user": "Christian Carlsson",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slightly disappointing; hoped for something better.",
+      "score": 6,
+      "user": "em-632-781000",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great smaller sci-fi treat",
+      "score": 8,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not my cup of tea, too contrived",
+      "score": 4,
+      "user": "Mike Willoughby",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Promising, but overall disappointing",
+      "score": 7,
+      "user": "PeaceGuard",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Artificial Intelligence for dummies",
+      "score": 6,
+      "user": "Andrea Agosti",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice Story But Some Problems",
+      "score": 6,
+      "user": "pkneer",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Passable debut",
+      "score": 6,
+      "user": "mgruebel",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't bother finding a comfortable seat, because you'll only be sitting on the edge of it",
+      "score": 9,
+      "user": "FilmTHO",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Sci-Fi Triumph",
+      "score": 8,
+      "user": "Blake Peterson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not for everyone!",
+      "score": 7,
+      "user": "Jenia",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex_Machina",
+      "score": 7,
+      "user": "Horrorliefhebber",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An interesting look at what it means to be human",
+      "score": 7,
+      "user": "Dr_Aristotle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina: The unexpected AI movie",
+      "score": 8,
+      "user": "hectorcbs",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was a decent movie",
+      "score": 6,
+      "user": "davidjr2008",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "creating life in one's own image",
+      "score": 7,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Highly engaging on an intellectual level",
+      "score": 8,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very disappointed and not what I expect AI to be  about",
+      "score": 5,
+      "user": "constance22",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting Cerebral Sci-fi",
+      "score": 6,
+      "user": "Mopkin TheHopkin",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Profound, tense and sleek.",
+      "score": 8,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Garland Fully Arrives. Recommended.",
+      "score": 8,
+      "user": "AudioFileZ",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good Sci-Fi yarn",
+      "score": 7,
+      "user": "Mark Lorman",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was okay...then it ended",
+      "score": 5,
+      "user": "sir_brettley",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some nice Ideas, but...",
+      "score": 7,
+      "user": "Bonita_Mouna",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "****Possible Minor Spoilers**** 6/10",
+      "score": 6,
+      "user": "Psy33",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie",
+      "score": 8,
+      "user": "taxifree",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Who's playing who?",
+      "score": 8,
+      "user": "JRmf",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There's more to Ex Machina",
+      "score": 8,
+      "user": "Jack Batson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina",
+      "score": 7,
+      "user": "gustave_weil",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really overrated. BUT still a decent sci-fi thriller nonetheless.",
+      "score": 7,
+      "user": "Asadullah Khan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Transhumanist Wish Fulfillment",
+      "score": 7,
+      "user": "Azsorious",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Highly recommended",
+      "score": 7,
+      "user": "room102 (plasmapool@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "SPOILERS: Interesting film, worth a watch",
+      "score": 7,
+      "user": "christopherrowe",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Risible nonsense",
+      "score": 2,
+      "user": "Max",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A misogynistic thriller, diverting attention from plot holes to boobs",
+      "score": 4,
+      "user": "liljest",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So many people hated this movie - why such a high rating?",
+      "score": 5,
+      "user": "deschreiber",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lonely men rated this high",
+      "score": 5,
+      "user": "kschwiz",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meh ...",
+      "score": 4,
+      "user": "blogenfreude",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Still Machina",
+      "score": 9,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A superb film, spoiled by the ending.",
+      "score": 7,
+      "user": "seercirra",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Acting, but a Little Familiar",
+      "score": 8,
+      "user": "tjgoalie13",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina",
+      "score": 5,
+      "user": "ApproximatelyHandsome",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Visually beautiful but flawed at the core",
+      "score": 3,
+      "user": "Ran Dom",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clearly delineated and riveting...ideas, personalities, and the future, now",
+      "score": 8,
+      "user": "secondtake",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Way to predictable, but the mood's great",
+      "score": 6,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I believe, that's what sci-fi movies are for...",
+      "score": 8,
+      "user": "Nebzyl",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strong Direction and Acting, Weak Story and OST",
+      "score": 6,
+      "user": "RealHumanBean",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina REVIEW by @KillFillM on Instagram",
+      "score": 8,
+      "user": "brandorres",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"You're not a man. You're a god.\"",
+      "score": 8,
+      "user": "Jason Kleeberg",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thinking Man's Sci-Fi",
+      "score": 7,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "dull, dreadful, silly ending",
+      "score": 4,
+      "user": "JoeB131",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Frankenstein for the post .com generation",
+      "score": 10,
+      "user": "i_am_bryony",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unique and amazing...",
+      "score": 10,
+      "user": "Patrick Milani",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Great Small Gem!",
+      "score": 9,
+      "user": "rafaelmestdag",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great film that is not for everybody",
+      "score": 9,
+      "user": "junk-231-7840",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina is a shallow EXperience",
+      "score": 5,
+      "user": "bugwyrus",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When Stanley Kubrick Meets Alfred Hitchcock (A Short Review of \"Ex Machina\")",
+      "score": 9,
+      "user": "ericrnolan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Artificial Intelligence in slow motion",
+      "score": 8,
+      "user": "siderite",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfectly Executed.",
+      "score": 9,
+      "user": "RenCatReviews",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A modern day science fiction classic",
+      "score": 10,
+      "user": "PWNYCNY",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Had Great Potential",
+      "score": 1,
+      "user": "dafttar",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too thoughtful to adhere to the ordinary, American principles of science-fiction",
+      "score": 9,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A phenomenal achievement",
+      "score": 10,
+      "user": "MoviesAreLife93",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh dear...",
+      "score": 3,
+      "user": "johngraham1964",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incredibly overrated",
+      "score": 6,
+      "user": "Scooter Bricks",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great acting, smart dialogue, horrendous plot holes",
+      "score": 6,
+      "user": "imdb-45",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointed",
+      "score": 1,
+      "user": "Bodescu Andrei",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A riveting, intelligent, and thought-provoking film",
+      "score": 9,
+      "user": "Howard Schumann",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well made but uninteresting and predictable",
+      "score": 7,
+      "user": "zetes",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Camera angles made this film look REAL",
+      "score": 10,
+      "user": "jessicagollish",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Philip K. Dick would have loved it",
+      "score": 10,
+      "user": "jormatuominen",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina",
+      "score": 8,
+      "user": "MaxHaydon1994",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spoilers",
+      "score": 7,
+      "user": "gauravpurohitdr",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Okay, but not epic, Sci-Fi Fantasy",
+      "score": 4,
+      "user": "jtncsmistad-82689",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terminator all over again",
+      "score": 5,
+      "user": "yura-84699",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clever premise and fine cinematography",
+      "score": 4,
+      "user": "vostf (vik@noos.fr)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sex Machine",
+      "score": 7,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good enough",
+      "score": 4,
+      "user": "phoenix 2",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intriguing and Beautiful but Somewhat Unfulfilled",
+      "score": 7,
+      "user": "DareDevilKid",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie, just a pity about the ending",
+      "score": 7,
+      "user": "grantss",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ethics of AI, but also an exciting thriller",
+      "score": 7,
+      "user": "Daniel Hirst",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good 'A.I.' can be dangerous, great 'A.I.' can be deadly.",
+      "score": 8,
+      "user": "TxMike",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There's more than meets the eye",
+      "score": 7,
+      "user": "georgiamoxie",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gods Amongst Humans",
+      "score": 7,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A decent thriller",
+      "score": 7,
+      "user": "bravesfanc",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 7,
+      "user": "capone666",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another in a trend of good movies with lame endings because they are trying to be edgy and unpredictable.",
+      "score": 5,
+      "user": "subs-48748",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "an OK movie that wasn't what I was expecting and definitely won't be for everyone.",
+      "score": 6,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great concept but it takes some time to get going! 6/10",
+      "score": 6,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Subtle and suspenseful with enough food for thought.",
+      "score": 8,
+      "user": "Akshay Hegde",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "God in the machine indeed!",
+      "score": 8,
+      "user": "maatmouse-1",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ambitious But Underwhelming, it Often Lacks Subtlety",
+      "score": 7,
+      "user": "Sean Lamberger",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Should we trust in artificial intelligence?",
+      "score": 8,
+      "user": "kadashman",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "8/10",
+      "score": 8,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "tgchan says YES!!  /  www.tgchan.pl",
+      "score": 8,
+      "user": "tgchan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just What the Trailer Showed",
+      "score": 7,
+      "user": "tgrock",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "God is dead",
+      "score": 6,
+      "user": "begob",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good not great",
+      "score": 7,
+      "user": "Sim-Plex",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well done, but . ..",
+      "score": 7,
+      "user": "Mike",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "1 (Awful) Is The Best Description For This Abomination",
+      "score": 1,
+      "user": "denis888",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big Ideas!",
+      "score": 10,
+      "user": "crafo-1",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Fantastic Directorial Debut and Equally Fantastic Movie",
+      "score": 8,
+      "user": "SquigglyCrunch",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Doomsday sci-fi, lacking depth",
+      "score": 3,
+      "user": "sherylchilders82",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sci-fi at its best",
+      "score": 8,
+      "user": "peefyn",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too weighed down in scientific exposition, without providing a truly thrilling story",
+      "score": 4,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex-tremely Boring",
+      "score": 4,
+      "user": "galahad58-1",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great film with one BIG problem",
+      "score": 7,
+      "user": "Dianne Mann",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smart Sci-Fi, Well Acted",
+      "score": 9,
+      "user": "bankofmarquis",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing, amazing film. One of my top 10",
+      "score": 10,
+      "user": "Yasin M",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazingly smart and outstanding...",
+      "score": 10,
+      "user": "Noah Spurlock",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Better Ending Please",
+      "score": 7,
+      "user": "incubus67983",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I am become death, destroyer of the worlds",
+      "score": 9,
+      "user": "mr_bickle_the_pickle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina is a very smart movie. It didn't feel robotic.",
+      "score": 8,
+      "user": "ironhorse_iv",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Biggest disappointment this year",
+      "score": 7,
+      "user": "Averlienb",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a bad effort",
+      "score": 7,
+      "user": "christiank7",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thought Provoking and Beautifully Filmed",
+      "score": 8,
+      "user": "atlasmb",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Deus Ex Machina- A closet full of custom made women",
+      "score": 8,
+      "user": "pefrss",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't believe the hype",
+      "score": 4,
+      "user": "grandmastersik",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lacking in plot, a waste of an ending",
+      "score": 4,
+      "user": "Josiah Hilbig",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie.",
+      "score": 6,
+      "user": "edjofsanity",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fresh, intriguing, intelligent",
+      "score": 9,
+      "user": "Beni Bogosel",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex cellent: An Incredibly Acted Film Whose Ideas May Be Too Advanced for Most Audiences",
+      "score": 9,
+      "user": "YoungCriticMovies",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A creepy sci-fi classic!",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Instant Classic",
+      "score": 10,
+      "user": "scotch7",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Art-house",
+      "score": 4,
+      "user": "heath-jeffrey",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "another in the latest crop of middle brow SF",
+      "score": 4,
+      "user": "jbeyerjbeyer",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too Slow and Too Nude",
+      "score": 4,
+      "user": "Vlad_the_Reviewer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex-Machina is stylish and visually polished piece of work with dazzling performances",
+      "score": 8,
+      "user": "Ketan Gupta",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pointless, meaningless, boring. Go see CHAPPIE instead.",
+      "score": 3,
+      "user": "Dr_Sagan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What will happen to me if I fail your test?",
+      "score": 8,
+      "user": "Jacob Grant",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sex Machina",
+      "score": 6,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Best Android Epics Ever",
+      "score": 9,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film only a critic could love.",
+      "score": 2,
+      "user": "Hairy Buddah (HairyBuddah@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not your everyday Sci-Fi Blockbuster. Beautifully haunting!",
+      "score": 10,
+      "user": "Jannis Block",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pure bliss for sci-fi geeks",
+      "score": 10,
+      "user": "jarthur0111",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One big yawn-fest from start to finish.",
+      "score": 4,
+      "user": "Rob_Taylor",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the AI is more human than the main character and the villain.",
+      "score": 1,
+      "user": "Kate Allensherry",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well, it's really in the middle. Nothing special",
+      "score": 6,
+      "user": "palavitsinis",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Umm, I don't think I watched the same film?",
+      "score": 1,
+      "user": "David Frohurst",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty, but shallow.",
+      "score": 6,
+      "user": "JadziaV626",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sorry but no Sorry",
+      "score": 4,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A \"power cuts\" driven thriller",
+      "score": 4,
+      "user": "teasemeimcocky",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing film stained with some clich\u00e9s",
+      "score": 9,
+      "user": "xavicollbastus",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of 2015's better movies and an usually smart science fictio screenplay",
+      "score": 8,
+      "user": "Rickting",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sigh",
+      "score": 7,
+      "user": "ton31625",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "EX Bitch",
+      "score": 7,
+      "user": "cbak223",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An excellent short film",
+      "score": 8,
+      "user": "anasarcarecords",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A true sci-fi suspense movie!!!!!!!!",
+      "score": 8,
+      "user": "rajatdahiyax",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good for an afternoon... if u bored",
+      "score": 7,
+      "user": "matthewdearsley-38728",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great atmosphere, very curious and intense movie",
+      "score": 8,
+      "user": "kennethmoran-62013",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If I had only one word to describe this film it would be 'unnerving.'",
+      "score": 8,
+      "user": "DArKnight108",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not original but exceptionally well made and acted.",
+      "score": 8,
+      "user": "Darren Petts",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good sci-fi drama, but not sensationally good",
+      "score": 8,
+      "user": "851222",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful Robot & effects, but lacks punch",
+      "score": 7,
+      "user": "Southern Style",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting Sci-fi",
+      "score": 7,
+      "user": "billcr12",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An original AI sci-fi film that defines itself amongst the rest and provides us with one of the best movie robots of all-time.",
+      "score": 8,
+      "user": "theresistancerises",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bit of a been there done that storyline, but it's executed well",
+      "score": 8,
+      "user": "Ben Davis",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too Lofty for Its Own Good",
+      "score": 7,
+      "user": "tabuno",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a film that's hard to enjoy - but it will nevertheless go down as one of the genre's 'smarter' films",
+      "score": 7,
+      "user": "shadowyx12",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exceeded My Expectations",
+      "score": 8,
+      "user": "SomeBlueDevil",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Movie Made Me Question Life",
+      "score": 9,
+      "user": "allenaker",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More Hollywood attempts to confuse the shallow masses",
+      "score": 5,
+      "user": "piimpone",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "SLllllllllllooooooooooooooooooooooooooooooooooooow",
+      "score": 4,
+      "user": "james-1609",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best sci-fi movie after District 9",
+      "score": 10,
+      "user": "Lele (rvalente@iol.it)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rick Rolled",
+      "score": 9,
+      "user": "srod-68100",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really good mind-blowing movie!",
+      "score": 9,
+      "user": "Rudolf Ravbar",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An uniquely brilliant, mind-bending movie",
+      "score": 8,
+      "user": "Brendan Resnick",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intriguing from beginning to end",
+      "score": 8,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mind freak movie with unsatisfying ending",
+      "score": 6,
+      "user": "Erich Bennett",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A thought provoking sci-fi film with strong performances",
+      "score": 8,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Screenplay not overdone or filled with unnecessary nonsense. Beautifully photographed.",
+      "score": 8,
+      "user": "BrianFromConcentrate",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Minimal cast, maximal output",
+      "score": 8,
+      "user": "cheighlee",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "That Intelligent flick you were looking for",
+      "score": 8,
+      "user": "Karthik Mufc",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oscar Isaac Saves Ex Machina !",
+      "score": 6,
+      "user": "darking-switch",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did you fall in love with a computer?",
+      "score": 6,
+      "user": "Cypeq",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent, albeit, deep movie about AI....",
+      "score": 8,
+      "user": "jackmeat",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "AI as a Greek Tragedy",
+      "score": 8,
+      "user": "airfoyle",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What's the Difference Between God and Nathan?",
+      "score": 8,
+      "user": "theRetiree",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bothersome and dull",
+      "score": 2,
+      "user": "twotrybe",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow, brooding and darkly sexy thriller....",
+      "score": 8,
+      "user": "Vice Squad",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mostly superb Sci Fi mystery",
+      "score": 7,
+      "user": "MovieSonic",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth Watching a Second Time",
+      "score": 9,
+      "user": "myladytimov",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exceptional piece on what it means to be a human",
+      "score": 9,
+      "user": "meganddavies",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Consciousness is everywhere",
+      "score": 9,
+      "user": "Tony Montevideo",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina - Finally an \"Ex\" You Should Love",
+      "score": 8,
+      "user": "tutbailey",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Something old, but something new.",
+      "score": 7,
+      "user": "The_Unknown_Rebel",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Underwhelming and Borrowed",
+      "score": 3,
+      "user": "koustubh bhattacharya",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Over-hyped and overrated",
+      "score": 5,
+      "user": "A Mars",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Isn't it strange, to create something that hates you?\"",
+      "score": 9,
+      "user": "Al_The_Strange",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Excellent Mind Hump",
+      "score": 10,
+      "user": "facecrook",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Intelligent Film.",
+      "score": 9,
+      "user": "ghandibonez",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Mesmorisingly Thought-Provoking Sci-Fi Film",
+      "score": 10,
+      "user": "Judy G",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Blade Runner of 2015",
+      "score": 10,
+      "user": "kgaillard",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Duh! Yes, \"Machina!\"; Timeless Sci-Fi, First-rate Filmmaking!",
+      "score": 9,
+      "user": "Sean Murphy",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sci-fi? Or right around the corner?",
+      "score": 10,
+      "user": "jkbonner1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Robot as an Artist",
+      "score": 10,
+      "user": "Glenn Soltes",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blank movie.",
+      "score": 2,
+      "user": "Yuriy Sanchuk",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "ending will leave a bad taste in your mouth...",
+      "score": 3,
+      "user": "gods-lov46",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome Science Fiction",
+      "score": 10,
+      "user": "john_hugo",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Engaging and thought provoking",
+      "score": 8,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictably boring, with actors that shouldn't be allowed to act",
+      "score": 1,
+      "user": "skorolev13",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring",
+      "score": 3,
+      "user": "James Padmore",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A big disappointment",
+      "score": 4,
+      "user": "Ivan Fortunov",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I didn't hate it enough.",
+      "score": 4,
+      "user": "Grumpy",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Indulgent",
+      "score": 5,
+      "user": "nillobit",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sci-fi with a pulse",
+      "score": 8,
+      "user": "Mr_Ectoplasma",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "With acting this good, the reviews are irrelevant",
+      "score": 8,
+      "user": "zken-1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a very well-written, well-research and thought provoking movie!",
+      "score": 8,
+      "user": "summer687",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ava",
+      "score": 10,
+      "user": "mughalsanaullah",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "!!!!Spoiller Alert!!!!",
+      "score": 9,
+      "user": "scratchgolf14",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Female robot escapes maker's and lover's control",
+      "score": 8,
+      "user": "maurice yacowar",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If machines could think and feel, would they like us?",
+      "score": 8,
+      "user": "mbeagh",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "8.8/10",
+      "score": 8,
+      "user": "Chisty  Lemire",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Highly original and compelling to watch.",
+      "score": 8,
+      "user": "dejected_jedi",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mumbo jumbo non-sense in a low-budget sci-fi",
+      "score": 2,
+      "user": "Yannis Sfetkos",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reviews on here must have seen a different movie to me",
+      "score": 4,
+      "user": "english_artist",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stunning debut from novelist-screenwriter Alex Garland",
+      "score": 8,
+      "user": "lasttimeisaw",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film about interaction between humans and artificial intelligence",
+      "score": 8,
+      "user": "dangel052003",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The perfect way to kick off the summer",
+      "score": 9,
+      "user": "Matthew Ober",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The pronunciation of \"Ex Machina\" may not be obvious, but not much about this movie is.",
+      "score": 7,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina is a gorgeously arresting and thought-provoking film that will stay on your mind long after you leave the theater!",
+      "score": 9,
+      "user": "carterbennett",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best AI flick I have seen so far. Kudos Alex Garland.",
+      "score": 9,
+      "user": "Navaf",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disturbingly beautiful",
+      "score": 9,
+      "user": "oskari-virtanen2",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "this movie is so much deeper than what it look like",
+      "score": 8,
+      "user": "fadihilal1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A premonition?",
+      "score": 9,
+      "user": "Jon Peroutka",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Super Sci-Fi",
+      "score": 10,
+      "user": "MegaPlay Movies",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "iRobot, with a twist.",
+      "score": 9,
+      "user": "phillipd97",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A smarter sci-fi film that will have you engaged with the amazing characters",
+      "score": 9,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina falls into the same category of sci-fi thrillers that love to frame the \"God question\" in unique terms",
+      "score": 9,
+      "user": "wpedmonson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good cinematography, Beautiful Actresses, Flat Storyline, Plain Characters",
+      "score": 3,
+      "user": "aero-windwalker",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disturbing thriller",
+      "score": 9,
+      "user": "houghtonetet",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Different Sci-Fi Film",
+      "score": 7,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bailed",
+      "score": 4,
+      "user": "hughsf-1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mesmerizing and Intelligent.",
+      "score": 10,
+      "user": "Konrad Kawka",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A love letter to Ava (from the director)",
+      "score": 7,
+      "user": "drmfl",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting approach to existing premise",
+      "score": 7,
+      "user": "Ketraar",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Movie I didn't look for, but glad I found.",
+      "score": 9,
+      "user": "mitchel_jager",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "PG rating should have been R",
+      "score": 8,
+      "user": "annuskavdpol",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very very good would recommend!",
+      "score": 8,
+      "user": "jamamaes",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great d\u00e9but for Alex Garland.",
+      "score": 8,
+      "user": "Lambysalamby",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We haven't seen the last of Ava.",
+      "score": 8,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well, done but its not a new story...but then what is...",
+      "score": 8,
+      "user": "Mark Tyler",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "boring boring boring",
+      "score": 1,
+      "user": "djqtouch",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So Begins the History of Gods",
+      "score": 9,
+      "user": "in1984",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tech wiz knight meets his AI princess locked away in a secure remote facility.",
+      "score": 8,
+      "user": "Boloxxxi",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dissembly Language",
+      "score": 8,
+      "user": "Jonathan Proxy",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent! Well deserved praise!",
+      "score": 9,
+      "user": "cajete",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Will I pass your test?",
+      "score": 7,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "AI-verse",
+      "score": 7,
+      "user": "tributarystu",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Aspirational but....",
+      "score": 8,
+      "user": "s3276169",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Alicia Vikander takes Ex Machina to a new level",
+      "score": 8,
+      "user": "John Osburn",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "EX MACHINA - Artificial Intelligence amid Sexual Insinuations",
+      "score": 7,
+      "user": " (clintz323@gmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feminist version of Bluebeard for housewives",
+      "score": 3,
+      "user": "Mikhail Pushkin (poushkine@pisem.net)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I found it Humorous, intelligent and deep (in that order)",
+      "score": 8,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Echoes of \"Frankenstein\", Cronenberg, Crichton and The Twilight Zone's 'The Lonely",
+      "score": 9,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wall-she",
+      "score": 10,
+      "user": "Robert Lucas",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A promising start, but a pretentious ending",
+      "score": 7,
+      "user": "themadmovieman",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A wonderful film",
+      "score": 10,
+      "user": "christopher-underwood",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Astonishing and thought-provoking. A future classic.",
+      "score": 10,
+      "user": "scrumpypaul",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tense doesn't quite cut it!",
+      "score": 9,
+      "user": "ryzah",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Potential greatness hindered",
+      "score": 5,
+      "user": "Don Wow",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fascinating, Thoughtful, Somewhat Freaked Out",
+      "score": 8,
+      "user": "Ryan von Schwedler",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Visually stunning and emotionally intriguing",
+      "score": 8,
+      "user": "Paul Kraneis",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Ex-Machina' is a superb sci-fi thriller is written to perfection and delivers a thought provoking finale.",
+      "score": 8,
+      "user": "Ian Crow",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thought provoking movie",
+      "score": 7,
+      "user": "Andrew Marshall",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A highly polished but slightly derivative sci-fi which engages the head \u0096 but not the heart.",
+      "score": 7,
+      "user": "Snowgoat",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina Review",
+      "score": 8,
+      "user": "Alex Reid",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent, thought-provoking, fascinating",
+      "score": 9,
+      "user": "Mark Rothwell",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Real, Philosophical Sci-Fy",
+      "score": 9,
+      "user": "derp derpity",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thrilling, tense, scary and though provoking",
+      "score": 9,
+      "user": "iKickstand",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There is intelligence out there!",
+      "score": 10,
+      "user": "brianstynes",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of this year's best.",
+      "score": 10,
+      "user": "www.ramascreen.com",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Garland strikes again! A mighty fine directorial debut.",
+      "score": 8,
+      "user": "Luke Compton",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Succeeds in spite of poor writing, pacing and acting",
+      "score": 8,
+      "user": "banana-83",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Woman or Machine",
+      "score": 8,
+      "user": "Alexander baatsvik (alexmgsander)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A world of human emotions...",
+      "score": 7,
+      "user": "opiostheloego",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scarily Good",
+      "score": 8,
+      "user": "Daniel Barth",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Sci-Fi Cult Classic in the Making",
+      "score": 8,
+      "user": "Josh Murphy",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A smart movie about intelligence, motivation, and consciousness.",
+      "score": 9,
+      "user": "Simon Capstick (simon@snookums.co.uk)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina - Ex Cellent",
+      "score": 10,
+      "user": "James Nason",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Thoughtful, Well-Acted, Multi-Layered Sci-fi",
+      "score": 9,
+      "user": "rjsf96",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intelligent sci-fi suspense thriller",
+      "score": 8,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I, Robot",
+      "score": 8,
+      "user": "dangent280",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If I was a robot I would probably be made of some sort of metal.",
+      "score": 8,
+      "user": "Eli Bidmead",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do the robot",
+      "score": 7,
+      "user": "David Eastman",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Android who came to earth",
+      "score": 9,
+      "user": "jon1410",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plug in, download - you won't shut down.",
+      "score": 9,
+      "user": "James Smith",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A New Classic in British Science Fiction",
+      "score": 8,
+      "user": "matty006",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Possibly the best film of 2015 so far.",
+      "score": 9,
+      "user": "Brent Hankins",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lots of talk about AI, but film's intelligence feels artificial",
+      "score": 4,
+      "user": "bradcheng",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An interesting take on one of the hottest subject in movies just now.",
+      "score": 7,
+      "user": "markgorman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mad scientist creates life",
+      "score": 8,
+      "user": "davek28",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Logical, gripping, near-future AI conceptualism",
+      "score": 8,
+      "user": "Tomas Drexx",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "hmm",
+      "score": 7,
+      "user": "Alexander_seth2000",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An annoying mis-step from a writer turned egoiste Director",
+      "score": 5,
+      "user": "Alia",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Its pronounced Makina not Machine-ah",
+      "score": 8,
+      "user": "stiofan84",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocre sci-fi snuff movie .....",
+      "score": 1,
+      "user": "davefotoarts",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina - an intelligent (feminist!) movie for everyone",
+      "score": 10,
+      "user": "veetoo",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Only 2 actors - BORING, DUMB - STAY AWAY",
+      "score": 1,
+      "user": "powerobject",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sexist uncomfortable movie to watch",
+      "score": 1,
+      "user": "Ali Sky",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible Movie",
+      "score": 1,
+      "user": "James Dunn",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ex Machina",
+      "score": 8,
+      "user": "Jackson Booth-Millard",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 108,
+  "votes_per_demo": {
+    "aged_45+": 22085,
+    "top_1000_voters": 594,
+    "males_under_18": 1014,
+    "imdb_staff": 61,
+    "males_aged_18-29": 100065,
+    "imdb_users": 327559,
+    "males_aged_45+": 19154,
+    "aged_18-29": 122623,
+    "us_users": 40385,
+    "females_aged_30-44": 12293,
+    "males": 225435,
+    "females": 38673,
+    "females_aged_45+": 2503,
+    "non-us_users": 156057,
+    "females_aged_18-29": 21154,
+    "females_under_18": 256,
+    "aged_30-44": 105473,
+    "aged_under_18": 1282,
+    "males_aged_30-44": 91549
+  },
   "genres": [
     "drama",
     "mystery",
     "sci-fi"
   ],
-  "release_month": "April",
-  "avg_rating_per_demo": {
-    "aged_45+": 7.6,
-    "aged_18-29": 7.9,
-    "aged_30-44": 7.6,
-    "females": 7.5,
-    "top_1000_voters": 7.4,
-    "non-us_users": 7.7,
-    "females_under_18": 7.8,
-    "males_aged_30-44": 7.6,
-    "us_users": 7.9,
-    "imdb_users": 7.7,
-    "imdb_staff": 8.1,
-    "males_under_18": 8.1,
-    "females_aged_18-29": 7.6,
-    "males_aged_45+": 7.6,
-    "females_aged_30-44": 7.4,
-    "males": 7.8,
-    "males_aged_18-29": 7.9,
-    "females_aged_45+": 7.4,
-    "aged_under_18": 8.1
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Ex Machina",
-  "gross_income": 25440971,
-  "user_review_count": 644,
-  "duration": 108,
-  "max_screens": 2004,
-  "votes_per_demo": {
-    "aged_45+": 22067,
-    "aged_18-29": 122529,
-    "aged_30-44": 105384,
-    "females": 38643,
-    "top_1000_voters": 593,
-    "non-us_users": 155921,
-    "females_under_18": 256,
-    "males_aged_30-44": 91474,
-    "us_users": 40358,
-    "imdb_users": 327260,
-    "imdb_staff": 61,
-    "males_under_18": 1013,
-    "females_aged_18-29": 21143,
-    "males_aged_45+": 19140,
-    "females_aged_30-44": 12282,
-    "males": 225247,
-    "males_aged_18-29": 99983,
-    "females_aged_45+": 2499,
-    "aged_under_18": 1282
+  "rating_freq": {
+    "1": 2110,
+    "2": 1092,
+    "3": 1854,
+    "4": 3621,
+    "5": 9065,
+    "6": 26971,
+    "7": 77493,
+    "8": 116204,
+    "9": 61017,
+    "10": 28132
   },
-  "rating_count": 327260,
+  "release_month": "April",
+  "budget": 15000000,
+  "budget_currency": "$",
+  "total_screens": 8145,
+  "year": 2015,
+  "rating": 7.7,
   "critic_review_count": 503,
-  "opening_weekend_income": 250000
+  "opening_weekend_date": {
+    "month": 4,
+    "year": 2015,
+    "day": 10,
+    "__type__": "datetime.date"
+  },
+  "name": "Ex Machina",
+  "user_review_count": 645,
+  "avg_screens": 626.5384615384615
 }

@@ -1,89 +1,492 @@
 {
-  "critic_review_count": 26,
-  "year": 2012,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 1,
-    "day": 25
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 1,
-    "day": 4
-  },
-  "metascore": 31,
-  "max_screens": 3,
-  "duration": 106,
-  "rating_count": 5100,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 1,
+  "release_day": null,
   "avg_rating_per_demo": {
-    "non-us_users": 5.6,
-    "females_aged_18-29": 6.0,
-    "females": 5.9,
-    "females_aged_30-44": 5.8,
+    "top_1000_voters": 4.8,
+    "males_under_18": 7.3,
     "imdb_staff": 10.0,
     "aged_45+": 5.7,
-    "aged_under_18": 7.3,
-    "males_aged_30-44": 5.4,
-    "top_1000_voters": 4.8,
-    "aged_30-44": 5.5,
+    "imdb_users": 5.6,
+    "males_aged_45+": 5.7,
+    "aged_18-29": 5.8,
+    "females_aged_30-44": 5.8,
     "males_aged_18-29": 5.8,
     "males": 5.6,
+    "females": 5.9,
     "females_aged_45+": 6.1,
-    "males_under_18": 7.3,
-    "imdb_users": 5.6,
+    "non-us_users": 5.6,
+    "females_aged_18-29": 6.0,
     "us_users": 5.5,
-    "males_aged_45+": 5.7,
-    "aged_18-29": 5.9
+    "aged_30-44": 5.5,
+    "aged_under_18": 7.3,
+    "males_aged_30-44": 5.4
   },
-  "user_review_count": 38,
-  "rating_freq": {
-    "1": 192,
-    "2": 132,
-    "3": 266,
-    "4": 475,
-    "5": 1015,
-    "6": 1199,
-    "7": 865,
-    "8": 398,
-    "9": 154,
-    "10": 404
+  "closing_date": {
+    "month": 1,
+    "year": 2013,
+    "day": 25,
+    "__type__": "datetime.date"
+  },
+  "metascore": 31,
+  "num_weekends": 1,
+  "rating_count": 5104,
+  "gross_income": 5750,
+  "max_screens": 3,
+  "opening_weekend_screens": 3,
+  "screens_by_weekend": [
+    3
+  ],
+  "opening_weekend_income": 630,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "A tad disappointing...",
+      "score": 6,
+      "user": "Richard Gonci (gonci@comcast.net)",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Current Story Which Needs Telling",
+      "score": 7,
+      "user": "Scott7411",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a great, but predictably underrated film",
+      "score": 10,
+      "user": "robtromp",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Alarm Bell......Now That Your Awake",
+      "score": 6,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Vigorous, ruthlessly bloody, choppy and glib, actually...skip it.",
+      "score": 5,
+      "user": "secondtake",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Dark Trurh",
+      "score": 7,
+      "user": "jennifer_bun",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "WOW! imagine my surprise!",
+      "score": 9,
+      "user": "imizrahi2002",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "(some) Can't handle the truth",
+      "score": 5,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent Overlooked Movie Not To Be Missed",
+      "score": 8,
+      "user": "thisisalbundy",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that has the possibility to change things. Needs to be seen but plays like a story from 60 Minutes. I say B+",
+      "score": 8,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tedium",
+      "score": 4,
+      "user": "Movie Lover",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An all-star cast",
+      "score": 9,
+      "user": "santangelo-373-192139",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The subject matter will rile fair minded people",
+      "score": 6,
+      "user": "JohnRayPeterson",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You have to wonder how junk like this gets made.",
+      "score": 3,
+      "user": "Hairy Buddah (HairyBuddah@gmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really Andy Garcia?",
+      "score": 1,
+      "user": "Jamie Domo",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A self-satisfied film lacking cohesion and conviction",
+      "score": 2,
+      "user": "ralphslater",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than anticipated",
+      "score": 7,
+      "user": "blanche-2",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh dear, another we hate the big bad companies story",
+      "score": 2,
+      "user": "christiank7",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unconvincing and simplistic. Nonsense plot.",
+      "score": 4,
+      "user": "Tim Little",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No idea how it ended...",
+      "score": 3,
+      "user": "Bill Jordan",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Or you could just watch the trailer...",
+      "score": 5,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Excellent but Quite Good",
+      "score": 8,
+      "user": "ilania_a",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why the bad reviews?",
+      "score": 9,
+      "user": "rose",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intriguing, intelligent action thriller with heart and a brain",
+      "score": 7,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reason for underrating",
+      "score": 10,
+      "user": "Anup Viswanathan Thampi",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just A Good Movie",
+      "score": 6,
+      "user": "jeomo",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wake up, guys",
+      "score": 9,
+      "user": "Atila Velo",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A dark truth....let me be honest, this movie stinks!",
+      "score": 4,
+      "user": "dgefroh",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie with great actors",
+      "score": 7,
+      "user": "Sayasam",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very worth watching, well put together, well acted",
+      "score": 7,
+      "user": "Amelia McCutcheon",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I have to wonder why good movies get such poor reviews",
+      "score": 10,
+      "user": "cyorktoo",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Director could have done much better!",
+      "score": 3,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ho-hum, let's follow the numbers. . .",
+      "score": 6,
+      "user": "doug_park2001",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Be aware of the propaganda content",
+      "score": 1,
+      "user": "tomnel-1",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh. My. God.",
+      "score": 2,
+      "user": "Mustang92",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a waste of talent!",
+      "score": 5,
+      "user": "Robert Ronin",
+      "review_date": {
+        "month": 12,
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 106,
+  "votes_per_demo": {
+    "top_1000_voters": 147,
+    "males_under_18": 3,
+    "imdb_staff": 1,
+    "aged_45+": 1189,
+    "imdb_users": 5104,
+    "males_aged_45+": 1000,
+    "aged_18-29": 944,
+    "females_aged_30-44": 231,
+    "males_aged_18-29": 785,
+    "males": 3913,
+    "females": 594,
+    "females_aged_45+": 175,
+    "non-us_users": 2713,
+    "females_aged_18-29": 151,
+    "us_users": 843,
+    "aged_30-44": 2219,
+    "aged_under_18": 3,
+    "males_aged_30-44": 1947
   },
   "genres": [
     "action",
     "thriller"
   ],
-  "budget": null,
-  "rating": 5.6,
-  "name": "A Dark Truth",
-  "opening_weekend_income": 630,
-  "avg_screens": 3.0,
-  "gross_income": 5750,
-  "votes_per_demo": {
-    "non-us_users": 2711,
-    "females_aged_18-29": 151,
-    "females": 594,
-    "females_aged_30-44": 231,
-    "imdb_staff": 1,
-    "aged_45+": 1188,
-    "aged_under_18": 3,
-    "males_aged_30-44": 1947,
-    "top_1000_voters": 147,
-    "aged_30-44": 2219,
-    "males_aged_18-29": 784,
-    "males": 3911,
-    "females_aged_45+": 175,
-    "males_under_18": 3,
-    "imdb_users": 5100,
-    "us_users": 843,
-    "males_aged_45+": 999,
-    "aged_18-29": 943
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 193,
+    "2": 132,
+    "3": 266,
+    "4": 475,
+    "5": 1017,
+    "6": 1200,
+    "7": 865,
+    "8": 398,
+    "9": 154,
+    "10": 404
   },
-  "release_year": null,
+  "release_month": null,
+  "budget": null,
   "budget_currency": null,
-  "release_day": null
+  "total_screens": 3,
+  "year": 2012,
+  "rating": 5.6,
+  "critic_review_count": 26,
+  "opening_weekend_date": {
+    "month": 1,
+    "year": 2013,
+    "day": 4,
+    "__type__": "datetime.date"
+  },
+  "name": "A Dark Truth",
+  "user_review_count": 38,
+  "avg_screens": 3.0
 }

@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 3,
-    "year": 2015,
-    "day": 13,
-    "__type__": "datetime.date"
+  "release_day": 27,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.5,
+    "top_1000_voters": 6.7,
+    "males_under_18": 7.4,
+    "imdb_staff": 7.9,
+    "males_aged_18-29": 7.0,
+    "imdb_users": 6.9,
+    "males_aged_45+": 6.5,
+    "aged_18-29": 7.0,
+    "us_users": 7.2,
+    "females_aged_30-44": 6.4,
+    "males": 6.9,
+    "females": 6.4,
+    "females_aged_45+": 6.3,
+    "non-us_users": 6.8,
+    "females_aged_18-29": 6.5,
+    "females_under_18": 6.9,
+    "aged_30-44": 6.8,
+    "aged_under_18": 7.3,
+    "males_aged_30-44": 6.9
   },
   "closing_date": {
     "month": 6,
@@ -11,81 +27,7309 @@
     "day": 19,
     "__type__": "datetime.date"
   },
-  "rating": 6.9,
-  "num_weekends": 11,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 4927,
-    "2": 2530,
-    "3": 3602,
-    "4": 5745,
-    "5": 10794,
-    "6": 20724,
-    "7": 33741,
-    "8": 27857,
-    "9": 11903,
-    "10": 8060
-  },
-  "avg_screens": 483.90909090909093,
-  "budget": 2000000,
-  "budget_currency": "$",
-  "release_day": 27,
   "metascore": 83,
+  "num_weekends": 11,
+  "rating_count": 130007,
+  "gross_income": 14673301,
+  "max_screens": 1655,
+  "opening_weekend_screens": 4,
+  "screens_by_weekend": [
+    4,
+    32,
+    1218,
+    1655,
+    1633,
+    401,
+    171,
+    112,
+    66,
+    25,
+    6
+  ],
+  "opening_weekend_income": 160089,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "It Follows breathes new life into a dying genre",
+      "score": 10,
+      "user": "Andrew Gold",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Modern Horror Classic",
+      "score": 8,
+      "user": "SushiStoner103",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you are looking for a horror movie DON't WATCH!",
+      "score": 1,
+      "user": "lucyvillaz",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't know what to say.",
+      "score": 1,
+      "user": "Joseph Guillory",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows (2014)",
+      "score": 9,
+      "user": "groomeschase12",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of time",
+      "score": 1,
+      "user": "Ethan O'Donnell",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It really is as silly as the premise.",
+      "score": 1,
+      "user": "realitycomments",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows... but I didn't",
+      "score": 1,
+      "user": "Hassan Saleme",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst movie I ever watched till the end",
+      "score": 1,
+      "user": "laszlo-janszky",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring...not scary...not thrilling",
+      "score": 1,
+      "user": "prashuss77-520-887418",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows... is just horrible.",
+      "score": 1,
+      "user": "Amanda Lantz",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What the hell is wrong with people.",
+      "score": 1,
+      "user": "AriaofAngst",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Movie for Teens by Teens",
+      "score": 1,
+      "user": "pirateincognito",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch a porn instead!",
+      "score": 1,
+      "user": "Pratiksha Sahu",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not sure if it qualifies as horror...",
+      "score": 1,
+      "user": "Ashish Sharma (wwwashish)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible",
+      "score": 1,
+      "user": "Bradley Hall",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible Waste of Time, Sad Euphemism for STDs",
+      "score": 1,
+      "user": "nurpin",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beware of paranormal STDs",
+      "score": 1,
+      "user": "brighidhegarty",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Abstinental Bore-ist",
+      "score": 1,
+      "user": "James Parrish",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Innovative horror that gets deep under the skin",
+      "score": 8,
+      "user": "Roman James Hoffman",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible...",
+      "score": 1,
+      "user": "Ned Angra",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Huge disappointment",
+      "score": 2,
+      "user": "pavle024",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie....if you're under the age of 10!",
+      "score": 2,
+      "user": "smokebuster",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst film i've ever seen! WHY is it rated so high?",
+      "score": 1,
+      "user": "Anthony Coleman",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not for everyone",
+      "score": 2,
+      "user": "Valeria Tyagnorenko",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible movie. Why do so many people like it???",
+      "score": 2,
+      "user": "Johnathan Coady",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Creepy Carpenter shrine",
+      "score": 7,
+      "user": "petra_ste",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring and not scary",
+      "score": 2,
+      "user": "left_us_silent",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stop the curse - don't watch the movie",
+      "score": 2,
+      "user": "meisterjaan",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Fails.",
+      "score": 1,
+      "user": "prittycrystal",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ol' style scary movie delivers the goods, and then some",
+      "score": 8,
+      "user": "Paul Allaer",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Will surely scare the daylight out of you // instagram: moviesmaniax",
+      "score": 9,
+      "user": "moviesmaniax",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Completely original.  Certain to become a classic. Wonderful addition to the best of horror lists.",
+      "score": 8,
+      "user": "markgorman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Idiotic",
+      "score": 1,
+      "user": "vikpk",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Totally a Disaster!",
+      "score": 1,
+      "user": "Md Ashifur Rahman",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The only horror is realizing how truly awful this is",
+      "score": 1,
+      "user": "rodgerw-1",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Felt like i was watching a weird Public Service Announcement",
+      "score": 1,
+      "user": "AmbroseAsylum",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hollywood movie hell on sale as paradise!",
+      "score": 1,
+      "user": "dominickdesid",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hysterically bad, someone slept with the reviewers",
+      "score": 1,
+      "user": "John",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Without question one of the worst movies ever",
+      "score": 1,
+      "user": "Courtney Smith",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Epic garbage",
+      "score": 1,
+      "user": "evycs",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Avoid like the plague!",
+      "score": 1,
+      "user": "tuxedocartman",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A dismal film",
+      "score": 1,
+      "user": "Ali Hassan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This has to be the greatest collective prank ever",
+      "score": 1,
+      "user": "cleberpassanante",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not good, don't believe the hype or the high rating.",
+      "score": 1,
+      "user": "dshiner",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sit in the dark and listen to the soundtrack instead of watching this debacle.",
+      "score": 1,
+      "user": "bajonson",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How??",
+      "score": 1,
+      "user": "Brushy Bill",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Avoid",
+      "score": 1,
+      "user": "yagonuchera",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Suicidally Boring",
+      "score": 1,
+      "user": "Etherial TheoneAboveall",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blah!",
+      "score": 1,
+      "user": "Dalbert Pringle",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the worst horror movies EVER!",
+      "score": 1,
+      "user": "drums-96482",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "wow what a stinker",
+      "score": 1,
+      "user": "pckq",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "IT FOLLOWS You Should Not Waste Your Time or Money on this one",
+      "score": 1,
+      "user": "stevepat99",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "don't bother..",
+      "score": 1,
+      "user": "big_timah",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "1/10 - Not worth it!!",
+      "score": 1,
+      "user": "alimc-62036",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It Followed\" me to boredom.",
+      "score": 1,
+      "user": "draebenbenek",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not worth watching...",
+      "score": 1,
+      "user": "Charlotte Lau",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Avoid this pretentious, godawful abortion of a horror movie.",
+      "score": 1,
+      "user": "elijah-700-103956",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A whole bunch of Nothing",
+      "score": 1,
+      "user": "antslayer69",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just no.",
+      "score": 1,
+      "user": "Tanya Michelle",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Weird and intense",
+      "score": 8,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "it follows the best movie of horror of last years",
+      "score": 10,
+      "user": "ovidio_ortiz",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poorly thought out film...",
+      "score": 3,
+      "user": "jfcampinell",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Load of bull",
+      "score": 2,
+      "user": "procwc",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good idea awful movie.",
+      "score": 1,
+      "user": "jun_05-239-369404",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why is it getting good reviews?!",
+      "score": 1,
+      "user": "singh-parnit",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "return of the real horror",
+      "score": 8,
+      "user": "L. M.",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What nightmares are made of...",
+      "score": 8,
+      "user": "pppppenguin",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Even through shortcomings and mixed ideas, the film's heart is always evident",
+      "score": 8,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome Horror!",
+      "score": 8,
+      "user": "QuadeC2010",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Original, creepy and worthy of modern cult-classic status",
+      "score": 7,
+      "user": "kclipper",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible horror movie",
+      "score": 1,
+      "user": "irishsneakers",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A solid film",
+      "score": 8,
+      "user": "geddyneilalex28",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Following in Their Footsteps",
+      "score": 8,
+      "user": "johnhammer-80294",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the most disturbing movies I have had the pleasure of watching",
+      "score": 8,
+      "user": "Matthew Ober",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It doesn't think. It doesn't feel. It doesn't give up.",
+      "score": 8,
+      "user": "p-vengrinovich",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "True horror fans will love it",
+      "score": 9,
+      "user": "MoviesAreLife93",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A tense and unique horror film.",
+      "score": 8,
+      "user": "trublu215",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It Follows\" masters and massacres the horror genre",
+      "score": 8,
+      "user": "BenjaminRaymond",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A scary, clever ignition of the horror genre",
+      "score": 9,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows Through",
+      "score": 7,
+      "user": "Ryan Bob",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Effective",
+      "score": 7,
+      "user": "Lucabrasisleeps",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lets talk impact-to-budget (I/B) ratio",
+      "score": 7,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Can't stop thinking",
+      "score": 8,
+      "user": "scottshak_111",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows is an unnerving and insane horror film with an explosive climax that will leave you buzzed upon leaving the Theater!",
+      "score": 8,
+      "user": "carterbennett",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Demonic STD",
+      "score": 8,
+      "user": "MovieLoversAnonymous",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Future Of Horror....",
+      "score": 8,
+      "user": "alchemist2012",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a great idea!",
+      "score": 8,
+      "user": "pedroluq",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Holy cow the bad reviews here are stupid",
+      "score": 10,
+      "user": "bingcrosbyiscool",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great film, if you like 'Twin Peaks' series I think you 'll like this one too.",
+      "score": 10,
+      "user": "Korado Bauchau",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The movie was different and that is enough for me",
+      "score": 9,
+      "user": "Hamed Mirzaei",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "relentless",
+      "score": 7,
+      "user": "magnuslhad",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "unexpected great film",
+      "score": 8,
+      "user": "britishgoose16",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Eerie and Atmospheric...IT FOLLOWS is One to Watch",
+      "score": 8,
+      "user": "brando647",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I really don't know what all the hype is about.",
+      "score": 3,
+      "user": "Kim Heniadis",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Attempting 80s horror movie, but with no real substance",
+      "score": 3,
+      "user": "taurenpaly",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very boring, dull, trite.. and i wanted to like it",
+      "score": 3,
+      "user": "g-tummarello",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Hugely Over-Hyped \"Clever\" Film",
+      "score": 3,
+      "user": "David Arnold",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film which you can't leave behind",
+      "score": 7,
+      "user": "b-connal",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a must see",
+      "score": 8,
+      "user": "ANUP DEHERKAR",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A new concept of fear",
+      "score": 7,
+      "user": "raynaking0",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Shining\" + \"A Nightmare on Elm Street\" =  \"It Follows\"",
+      "score": 8,
+      "user": "VecoVeky",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great and bad, depending on what you compare it to.",
+      "score": 8,
+      "user": "robert-b-norby",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a Simple yet Engaging Horror Film",
+      "score": 7,
+      "user": "Jacob Shrimpton (worldofshrimpy@gmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More Than Lives Up to the Hype",
+      "score": 8,
+      "user": "PlayStationThreeFan",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant",
+      "score": 8,
+      "user": "ABornemann",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Dumb Ghost and no reasoning!",
+      "score": 3,
+      "user": "priyankarkdubey",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointed....majorly",
+      "score": 3,
+      "user": "dnathanr1111",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hepatitis C-",
+      "score": 3,
+      "user": "bdomino2112",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "American Gothic ghost story",
+      "score": 6,
+      "user": "David Eastman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fresh and Creepy. Left me wanting to watch it again.",
+      "score": 9,
+      "user": "laamsden",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A 1980's throwback without too many of the drawbacks",
+      "score": 8,
+      "user": "Adam Peters",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A new cult genre film for the next generation...",
+      "score": 8,
+      "user": "oakpill",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great atmospheric use of filming location",
+      "score": 9,
+      "user": "Michael",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Carpenter would be proud",
+      "score": 8,
+      "user": "taylorch007",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Will Follow You Around",
+      "score": 8,
+      "user": "Matt Greene",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally!",
+      "score": 8,
+      "user": "angelo  palombo",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What modern horror has always been about!",
+      "score": 9,
+      "user": "dccohen-1",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unique",
+      "score": 8,
+      "user": "Greg (gregmoroberts@yahoo.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "restrained and effective",
+      "score": 7,
+      "user": "pawful",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It's Pretty Good\"",
+      "score": 6,
+      "user": "nibordison",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Soso Acting of Repetitive Script",
+      "score": 3,
+      "user": "DavidMovieReview",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disturbing and original idea",
+      "score": 8,
+      "user": "eryui",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Original plot point involving 'sex'",
+      "score": 8,
+      "user": "David Roggenkamp",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows (2014 - David Robert Mitchell): **\u00bd",
+      "score": 5,
+      "user": "tmdaines",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clearly low budget horror that is actually quite watchable",
+      "score": 7,
+      "user": "orcadiansmeghead",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Refreshing & Scary",
+      "score": 8,
+      "user": "Charles G",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Super smooth and clean!",
+      "score": 8,
+      "user": "cblazo",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Remember \"Night of the Demon\"",
+      "score": 7,
+      "user": "Hitchcoc",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie",
+      "score": 8,
+      "user": "Leviathan",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'It Follows' Doesn't Follow Teen-Horror Rules",
+      "score": 7,
+      "user": "Stu Robinson (stu@lightbulbcommunications.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scary in a Blair Witch Project/Halloween kind of way",
+      "score": 6,
+      "user": "David",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unnerving and Slow-Burning",
+      "score": 8,
+      "user": "Jojo Reynolds",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Refreshingly different from the usual horror fair.",
+      "score": 8,
+      "user": "mockfilmsblog",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One shouldn't miss this, even if it was disappointing in some respects...",
+      "score": 8,
+      "user": "punishmentpark",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sadly among the worst \"horror movies\" I have ever seen",
+      "score": 1,
+      "user": "Nathan Lane",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows",
+      "score": 4,
+      "user": "ApproximatelyHandsome",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uggghhhh!!",
+      "score": 1,
+      "user": "mharris672",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows...that this movie is complete rubbish.",
+      "score": 1,
+      "user": "chicken1997",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It Follows.\" (It's great!!)",
+      "score": 9,
+      "user": "ericrnolan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Something different. Enjoyable and frustrating.",
+      "score": 6,
+      "user": "teaandpies",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrifying to the Bone.",
+      "score": 9,
+      "user": "tjgoalie13",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tag, You're it",
+      "score": 7,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It may be slow, but it is not dumb",
+      "score": 7,
+      "user": "Akshay Hegde",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A simple but unique idea that takes audiences back to the classics",
+      "score": 7,
+      "user": "Taylor_Gillen",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Creepiest Film I've Seen In A Long Time",
+      "score": 9,
+      "user": "Jacob Wood",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feels like the birth of a new urban legend.",
+      "score": 9,
+      "user": "grahamgoring",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Best Horror Movies of the Millennium!",
+      "score": 9,
+      "user": "MattBirk",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "PTSD from my PSTD",
+      "score": 9,
+      "user": "kurtrvader",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unique horror masterpiece",
+      "score": 8,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie.",
+      "score": 6,
+      "user": "Ricardo Cordeiro",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Follow Through",
+      "score": 7,
+      "user": "julian kennedy",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Premise - not fully utilised.",
+      "score": 6,
+      "user": "stephenabell",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ambiguous Time Period",
+      "score": 6,
+      "user": "dansview",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Almost a guilty-pleasure film",
+      "score": 5,
+      "user": "hilnur-98930",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good acting, well shot, and creepy",
+      "score": 7,
+      "user": "getalife-95799",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Catch it if you can.",
+      "score": 8,
+      "user": "BA_Harrison",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's really not that good..",
+      "score": 4,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "awesome!",
+      "score": 9,
+      "user": "Flo Welch",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No clowns in this one...",
+      "score": 6,
+      "user": "Thomas",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It may be original and scary, but the plot drags too much, and it lacks enjoyment",
+      "score": 6,
+      "user": "gamergcfan",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coitus Cons",
+      "score": 5,
+      "user": "Fallen Eye",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "worst film ever",
+      "score": 1,
+      "user": "janiece-r-borens",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Minimalist Horror",
+      "score": 8,
+      "user": "thelastblogontheleft",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant Monster Movie",
+      "score": 9,
+      "user": "Drew K",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring and the premise too obvious a euphemism",
+      "score": 1,
+      "user": "brooke53",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No idea what the good reviews are about.",
+      "score": 3,
+      "user": "troysyx",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great film, if you like 'Twin Peaks' series I think you 'll like this one too.",
+      "score": 10,
+      "user": "Korado Bauchau",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hmmm...",
+      "score": 6,
+      "user": "Bob An",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"IT FOLLOWS\" a masterpiece from sound...YOU MUST SEE !",
+      "score": 9,
+      "user": "Anthony Cordle (cordleanthony@gmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great acting, interesting idea, mediocre script",
+      "score": 5,
+      "user": "pengas (pengas@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "crafty horror film",
+      "score": 7,
+      "user": "stealthassasn158",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dreamlike and subtle",
+      "score": 10,
+      "user": "lordcorneliusplum",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unique Horror Film",
+      "score": 9,
+      "user": "rvillarreal-08019",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "fresh idea ruined by monotonous panning",
+      "score": 6,
+      "user": "witster18",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Almost Scary",
+      "score": 5,
+      "user": "THines01",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Compelling, unique, flawed.",
+      "score": 7,
+      "user": "fritzgagi",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "That one scene in Toy Story is scarier than this whole movie. I am not exaggerating.",
+      "score": 1,
+      "user": "AggressivePizza",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Genius",
+      "score": 9,
+      "user": "Dave Phillips",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A creepy movie that is actually creepy",
+      "score": 9,
+      "user": "b-samborski",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Total disappointment",
+      "score": 3,
+      "user": "christos-pitsoulis",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I wouldn't recommend this to someone over 16",
+      "score": 4,
+      "user": "cshalloween",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sorry, Just Another Teen \"B\" Flick",
+      "score": 3,
+      "user": "samkan",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Worst Horror Movie Ever Made",
+      "score": 1,
+      "user": "Jihad Majzoub",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Eerie and well acted.",
+      "score": 7,
+      "user": "Scott LeBrun (Hey_Sweden)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "From a great start to a disappointing ending",
+      "score": 4,
+      "user": "petrovicmilena",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "it is not the the average horror movie that Hollywood has us used to",
+      "score": 4,
+      "user": "hernantz",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumb movie",
+      "score": 3,
+      "user": "statuskuo",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointed",
+      "score": 4,
+      "user": "mrcinema72",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Sucked",
+      "score": 3,
+      "user": "Jonathan Clark",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An anti sex horror movie... with lots of awkward movie sex...",
+      "score": 3,
+      "user": "Sebastianostlund",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "worst of the worst",
+      "score": 1,
+      "user": "ozkal-arayici",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting Film",
+      "score": 7,
+      "user": "Brant Millman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolute masterpiece",
+      "score": 10,
+      "user": "christianstipano",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows, It Delivers.",
+      "score": 8,
+      "user": "bkjohnson1985",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome Horror!",
+      "score": 8,
+      "user": "QuadeC2010",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Perfect But One Of The Better Horror Films In Recent Years",
+      "score": 8,
+      "user": "Alexandrspyr",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "misses the grip and \"atmosphere\"",
+      "score": 3,
+      "user": "Pavel Lit",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice atmosphere but the story?",
+      "score": 5,
+      "user": "blumdeluxe",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Goes to jerks and can not keep up",
+      "score": 2,
+      "user": "Andres-Camara",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It\" is an objet petit a: both object-cause and illusory fulfillment of desire",
+      "score": 7,
+      "user": "lakiubeogradu",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Definitely not a masterpiece, but worth your time",
+      "score": 7,
+      "user": "sosmetallin",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good movie",
+      "score": 8,
+      "user": "andretfernandes",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I totally understand the love, but...",
+      "score": 4,
+      "user": "GayXanadu",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very disappointing",
+      "score": 3,
+      "user": "jendayi-55578",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows isn't the worst thing ever, but please don't waste your time",
+      "score": 3,
+      "user": "Albert Cox",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not a horror",
+      "score": 4,
+      "user": "mihaelstojanovic",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It Follows\" - Right to the Trash Can",
+      "score": 1,
+      "user": "tiskec",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointed and IT FOLLOWS ME!!!",
+      "score": 3,
+      "user": "yesserlaham",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "PAINFUL to watch",
+      "score": 1,
+      "user": "explosiveglaucoma",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I rarely like horror movies, but this one is so very much more.",
+      "score": 9,
+      "user": "notgivens",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Start viewing with the right expectations...",
+      "score": 8,
+      "user": "mehdivc",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Horror Film of This Century",
+      "score": 10,
+      "user": "Jake Garatti",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great new movie that feels like an 80's classic.",
+      "score": 8,
+      "user": "Karlav92",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "over-hyped",
+      "score": 4,
+      "user": "suganthram",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows Will Follow You ... Yes, I went there",
+      "score": 8,
+      "user": "TheRedDeath30",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some originality in what could be first entry in a franchise",
+      "score": 8,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is Horror that Doesn't Scream in Your Face But Makes You Scream in Your Head For Days",
+      "score": 8,
+      "user": "ctowyi",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A modern take the suburban fear of everything",
+      "score": 6,
+      "user": "nick king",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good and kinda original horror picture",
+      "score": 8,
+      "user": "851222",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply chilling!",
+      "score": 8,
+      "user": "ZULFIQAR RAJA (zulfbookz@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "New Age 80's Teen Horror,John Carpenter Style",
+      "score": 8,
+      "user": "nikola17",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All hype aside, a creepy little thing",
+      "score": 8,
+      "user": "Finfrosk86",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I liked it",
+      "score": 8,
+      "user": "Josh Bullock",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows doesn't disappoint.",
+      "score": 7,
+      "user": "johntheholder",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unique and refreshing Horror/Thriller",
+      "score": 8,
+      "user": "dulyman",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Effective",
+      "score": 8,
+      "user": "rabbitmoon",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Good Foundation for a Better Generation of Horror",
+      "score": 7,
+      "user": "jimbrennan98",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun movie!!",
+      "score": 8,
+      "user": "raonishanth",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A chill will run down your spine and you will love it !!!",
+      "score": 7,
+      "user": "Ketan Gupta",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best new take on genre since Japanese Ringu movie...",
+      "score": 8,
+      "user": "Leon Smoothy",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A refreshing take on the horror genre",
+      "score": 7,
+      "user": "steadysam",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best horror movie in years!",
+      "score": 8,
+      "user": "Louis Gur",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nerve wrecking and unpredictable, It Follows is a highly effective Indie horror film that should become a cult classic.",
+      "score": 8,
+      "user": "Lloyd Bayer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is the stuff of nightmares",
+      "score": 8,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing!",
+      "score": 8,
+      "user": "gravfall",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A retro allegory for the anxieties of adulthood.",
+      "score": 8,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Art house horror",
+      "score": 8,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "IT FOLLOWS does a fair job of revealing the horrors of Michigan . . .",
+      "score": 7,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A modern horror masterpiece with a hint of the 80's",
+      "score": 9,
+      "user": "Adrian Stone",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Super Duper Spooky",
+      "score": 8,
+      "user": "cgvanv",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gorgeous movie with a good plot",
+      "score": 8,
+      "user": "boristheboris",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Absolutely Loved It.",
+      "score": 9,
+      "user": "dirge2227",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "IT FOLLOWS is not your typical horror. Here the style dictates the substance.",
+      "score": 8,
+      "user": "j-madej",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best horror movie of 2015",
+      "score": 8,
+      "user": "Guido Hollands",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as scary as beautiful...",
+      "score": 6,
+      "user": "matthew scot",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feel It",
+      "score": 8,
+      "user": "dustmasks",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "well-crafted cat-and-mouse horror tail",
+      "score": 8,
+      "user": "HotlineSF",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A nightmare that never stops",
+      "score": 9,
+      "user": "ryanpaturzo",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic score",
+      "score": 9,
+      "user": "mohancraig",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yes! Finally!",
+      "score": 9,
+      "user": "cburczek-43797",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Average horror movie at best",
+      "score": 5,
+      "user": "TheJibber",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "MEtaphor For Contagious STD? lol",
+      "score": 4,
+      "user": "piimpone",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The overall mood was tremendous but it wasn't really creepy.",
+      "score": 6,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A modern 80's classic. Not a masterpiece, some distinct shortcomings, but great nonetheless.",
+      "score": 7,
+      "user": "Nitzan Havoc",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good watch but leaves you hanging!",
+      "score": 7,
+      "user": "rkoch1",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is it just me?",
+      "score": 6,
+      "user": "oadicle",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clever Premise, Poorly Done",
+      "score": 1,
+      "user": "keyman66",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just one big, bad STD",
+      "score": 2,
+      "user": "mxpappy",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I want the two hours of my life I just wasted back!!",
+      "score": 1,
+      "user": "mslilotter",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great concept, great execution, but one major problem.",
+      "score": 1,
+      "user": "invaderbatty-738-158602",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Softcore porn that people call artsy",
+      "score": 6,
+      "user": "Kat Webb",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable and unique if slightly flawed effort",
+      "score": 9,
+      "user": "GL84",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "slow horror film....",
+      "score": 5,
+      "user": "MLDinTN",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a highly thrilling experience",
+      "score": 7,
+      "user": "damianrgbg",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it!",
+      "score": 8,
+      "user": "jaxorama-148-962882",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Appropriately Creepy",
+      "score": 7,
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Is Great",
+      "score": 8,
+      "user": "bkrauser-81-311064",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's actually not so bad",
+      "score": 7,
+      "user": "kmikzero",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows, well done.",
+      "score": 9,
+      "user": "gokeymichael",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the most unique horror films in recent years",
+      "score": 9,
+      "user": "Deigues",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This was a damn good horror film...",
+      "score": 9,
+      "user": "John Plocar",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Once you get over the horrible premise, it's quite good.",
+      "score": 7,
+      "user": "Tehmeh",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do Not Watch the Trailer!",
+      "score": 6,
+      "user": "Damien_Rose",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "tries really hard to be good, and it's obvious it is trying so hard the whole time.",
+      "score": 3,
+      "user": "fbman",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Most horror films don't even try half the things 'It Follows' expertly achieves",
+      "score": 9,
+      "user": "Movie_Muse_Reviews",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not that scary but great idea",
+      "score": 8,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Different and Unexpected",
+      "score": 7,
+      "user": "mr_bickle_the_pickle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fresh take on horror",
+      "score": 8,
+      "user": "Elisa Forsgren (elisaforsgren@yahoo.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unsettling, lo-fi horror",
+      "score": 8,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie",
+      "score": 7,
+      "user": "utgard14",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One time watch.",
+      "score": 8,
+      "user": "namangupta86",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Horror Movie I Might have been Waiting For",
+      "score": 8,
+      "user": "Jackson Ralston",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Modern Horror Classic!",
+      "score": 10,
+      "user": "Rorimor",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly Refreshing and Creepy",
+      "score": 8,
+      "user": "Adam Daniels",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It  Follows",
+      "score": 8,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horror is going back to its roots!",
+      "score": 8,
+      "user": "Kieran Battams",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect? Hardly. Entertaining? Absolutely.",
+      "score": 8,
+      "user": "Tim (timbaaland)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty Creepy!",
+      "score": 7,
+      "user": "EyeDunno",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It Follows\" even after the movie",
+      "score": 9,
+      "user": "chetaninbox-668-54666",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Takes from the best, to become one of the best",
+      "score": 8,
+      "user": "Gustavo Schroeder A",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film was very suspenseful and had a great premise.",
+      "score": 7,
+      "user": "Ian Johnson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Original!",
+      "score": 7,
+      "user": "HugsterLindstedt",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Woah, surprisingly good",
+      "score": 8,
+      "user": "colonnesel",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows REVIEW by @killfillm on Instagram",
+      "score": 9,
+      "user": "brandorres",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Truly Grasping Horror Film",
+      "score": 9,
+      "user": "Grzegorz Jankowski",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best movies I have ever seen.",
+      "score": 10,
+      "user": "Melanie Martinsson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not your typical horror movie",
+      "score": 9,
+      "user": "Ruca Ashraf",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Give Me Some Of That \"Follow\" Sex",
+      "score": 9,
+      "user": "bigbenjr47 (bigbenjr35@aol.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hype",
+      "score": 9,
+      "user": "akirastronaut",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scary and disturbing",
+      "score": 10,
+      "user": "Drive_Angry_99",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More Like \"It Blows\"",
+      "score": 1,
+      "user": "nathanchurchill-38421",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "May be one of the better horror films of late, but that's hardly a challenge",
+      "score": 4,
+      "user": "InaneSwine",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows is a work of horror art, and a refreshing change to the genre.",
+      "score": 8,
+      "user": "Alistair Ward (wildroedeer)",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Horror Film in Years",
+      "score": 9,
+      "user": "Trent Butler",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic.",
+      "score": 9,
+      "user": "TheBarleyGuy",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A modern retro horror movie hits the spot",
+      "score": 9,
+      "user": "Raymond",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "About the Death",
+      "score": 8,
+      "user": "Daniel Colombo",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid and Oddly Beautiful",
+      "score": 9,
+      "user": "Liz Downing",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unique but uninspiring",
+      "score": 5,
+      "user": "timgr-31260",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows - Raw Review",
+      "score": 9,
+      "user": "ebola13",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Totally overrated.",
+      "score": 5,
+      "user": "Jenia",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing amazing or super scary, but this was a surprisingly good and fun movie that is worth seeing.",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Epic",
+      "score": 10,
+      "user": " (alekseiv91@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I stumbled upon the best horror movie....",
+      "score": 10,
+      "user": "limorzamir",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A classic horror film, in every way!",
+      "score": 10,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointment Follows",
+      "score": 1,
+      "user": "Aylin",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best horror film I've seen in at least a decade",
+      "score": 10,
+      "user": "NateWatchesCoolMovies",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "*bass drop* 80's horror remix",
+      "score": 6,
+      "user": "ericoronado",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What to Expect: It Follows",
+      "score": 6,
+      "user": "Film Watchin Fool",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Panic at the Mutiplex",
+      "score": 9,
+      "user": "Dan Harden",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Doesn't Stop Following You",
+      "score": 9,
+      "user": "K_ash10 (Lynn.kay83@gmail.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows is an extremely underrated psychological horror/horror movie.",
+      "score": 9,
+      "user": "moviescriticnet (moviescriticnet@gmail.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In an age where Horror movies are typically a piece of s***, this one is actually pretty impressive!",
+      "score": 8,
+      "user": "benjaminborrelli",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Faced my fears",
+      "score": 8,
+      "user": "niccolot",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly good from beginning to end",
+      "score": 9,
+      "user": "stevey-2",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Best actual horror movies",
+      "score": 9,
+      "user": "Lorena",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An innovative horror-drama with a simplicity.",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrific, original vision with near-flawless execution",
+      "score": 8,
+      "user": "john-g-mckay",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exposes you through fear; the tension is key.",
+      "score": 7,
+      "user": "nukfan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally, An Original Horror",
+      "score": 8,
+      "user": "Michael Radny",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A real horror movie - not just a lame visual spectacle...",
+      "score": 7,
+      "user": "Noah Tall",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great atmospheric movie",
+      "score": 8,
+      "user": "elgabote",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Concept",
+      "score": 7,
+      "user": "AliceofX",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the critics did get it right",
+      "score": 8,
+      "user": "DerrrrDerp",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun & Original",
+      "score": 7,
+      "user": "loomis78-815-989034",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid thriller",
+      "score": 8,
+      "user": "medwards-14",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a Different Type of Horror Film.",
+      "score": 8,
+      "user": " (HorrorFanForever)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows",
+      "score": 9,
+      "user": "skybrick736",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Horror Classic in the Making",
+      "score": 9,
+      "user": "Blake Peterson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Expect the unexpected",
+      "score": 9,
+      "user": "thunderskyx30",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good but Over-hyped.",
+      "score": 7,
+      "user": "RenCatReviews",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wildly entertaining, but not a masterpiece",
+      "score": 7,
+      "user": "Film Fan Perspective (filmfanperspective@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kuhreepyish",
+      "score": 6,
+      "user": "begob",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Time is Neither a Videotape Nor a Phone Call, but Sex",
+      "score": 5,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fear on the Zone",
+      "score": 10,
+      "user": "Mek Torres",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tweaks the Terror Tropes for Your Viewing Pleasure",
+      "score": 9,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Relax, it's just sex\u0085 Or is it?",
+      "score": 6,
+      "user": "Coventry",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that much scary,but still well made!!!!!!",
+      "score": 7,
+      "user": "rajatdahiyax",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows Review",
+      "score": 9,
+      "user": "keithlovesmovies",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "American version of Japanese horror(the original is better)",
+      "score": 7,
+      "user": "Netto Soares",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Original, unnerving with room for improvement",
+      "score": 6,
+      "user": "TheMadSerb",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mixed feelings...",
+      "score": 8,
+      "user": "allistricker",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not all that satisfying, but the vibe makes it worth the watch",
+      "score": 7,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "carpenter-esque",
+      "score": 9,
+      "user": "robertlauter25",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Rare Film Where the Execution is as Great as the Idea",
+      "score": 8,
+      "user": "DoubleOscar",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Original horror",
+      "score": 8,
+      "user": "epiceffectss",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "refreshing for horror fans",
+      "score": 7,
+      "user": "MikesIDhasbeentaken",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Has you looking at the background, and not just for the great visuals",
+      "score": 8,
+      "user": "peefyn",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's pretty good",
+      "score": 7,
+      "user": "grampaglasses",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Visually terrific, but the basic idea is marshmallow nonsense",
+      "score": 5,
+      "user": "secondtake",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very creepy and wonderfully directed",
+      "score": 8,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just to clear up the one-stars",
+      "score": 9,
+      "user": "lauramoolenaar",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "With so many boring horror films out there, It Follows is a real treat",
+      "score": 9,
+      "user": "HowItWorked",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect? No. Daring and creepy? Yes.",
+      "score": 8,
+      "user": "Mitchell Butler",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty good, but not a modern masterpiece",
+      "score": 7,
+      "user": "Lucas Versantvoort",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "it wasn't AWFUL, just pretty boring and had no logic",
+      "score": 3,
+      "user": "heatherleefox",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Boring",
+      "score": 3,
+      "user": "Josh Long",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows",
+      "score": 7,
+      "user": "Jackson Booth-Millard",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "HORRible movie more suitable than HORRor movie",
+      "score": 1,
+      "user": "alexandru-sf",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing Just Best For A Real Horror Fan",
+      "score": 10,
+      "user": "happies73",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A modern horror classic that comes along all too rarely",
+      "score": 10,
+      "user": "stuartvanlinden",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Does for Sex What The Ring Did for Videotapes",
+      "score": 10,
+      "user": "Nikolas Robinson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Probably the best horror I've ever seen",
+      "score": 10,
+      "user": "Zdarlight",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Real America",
+      "score": 10,
+      "user": "charlieluca",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sex Jinn turns People into Sluts!",
+      "score": 1,
+      "user": "politehere",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Defining Horror of the Twenty First Century",
+      "score": 10,
+      "user": "rjsf96",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't support this style of marketing hype! (SPOILERS)",
+      "score": 1,
+      "user": "Biowolf78",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "7.5/10",
+      "score": 7,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Idea For A Film But...",
+      "score": 6,
+      "user": "2fresh 2clean",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "big time disappointment",
+      "score": 6,
+      "user": "Manuel del Barco",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was entertaining but I could not stop thinking about the number of solutions that didn't occur to them..",
+      "score": 6,
+      "user": "Petter sagan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good mystery and suspense story",
+      "score": 6,
+      "user": "Edgar Iv\u00c3\u00a1n H",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best Twist in Horror since \"Cabin in the Woods\"",
+      "score": 8,
+      "user": "John Beckerman (beckermanj@rv337.org)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A slice of life with a spooky stalker following. Where did it come from? Where will it lead?",
+      "score": 4,
+      "user": "TxMike",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Promising but so so ending",
+      "score": 5,
+      "user": "WatchedAllMovies",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Different, but plot and acting do not live up to the cinematography",
+      "score": 5,
+      "user": "Lars Bear",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Effective Horror at its Finest",
+      "score": 9,
+      "user": "Rob Starzec",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good not great",
+      "score": 6,
+      "user": "RueKurei",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yes, It's a film about STIs.",
+      "score": 8,
+      "user": "olafiscoming",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stylistically beautiful and distinct - It Follows is not quite horrifying",
+      "score": 6,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "sex is evil once again..",
+      "score": 5,
+      "user": "Dimosthenis Nikolis",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My Review Of \"It Follows\"",
+      "score": 8,
+      "user": "ASouthernHorrorFan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It Follows\" is sure to develop a sizable cult following...",
+      "score": 8,
+      "user": "dee.reid",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A welcome return to low budget, minimalist horror",
+      "score": 7,
+      "user": "Zbigniew_Krycsiwiki",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "John Carpenter and Nicholas Winding Refn had a baby",
+      "score": 10,
+      "user": "prosch-37089",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the smartest and most terrifying films I've ever seen",
+      "score": 10,
+      "user": "Anton Hoherz",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's Like Being in Somebody's Nightmare",
+      "score": 10,
+      "user": "HorrorPlayhouse",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A modern American classic",
+      "score": 10,
+      "user": "Mr_Ectoplasma",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A shockingly brilliant horror movie",
+      "score": 10,
+      "user": "Dan Grant (dan.grant@bell.ca)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It will Follow you Home",
+      "score": 10,
+      "user": "Josh Friesen",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Who is it?",
+      "score": 10,
+      "user": "aharmas",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best of the best",
+      "score": 10,
+      "user": "ANTHONY DEMARINO",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Going to be hard to beat for many years (May contain spoilers)",
+      "score": 10,
+      "user": " (jaydilley)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliance in a World of No Brainers. (Warning: Not For The Simple Minded)",
+      "score": 10,
+      "user": "jdson12",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Without all the frills...just the fears",
+      "score": 10,
+      "user": "tdowne",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best supernatural horror flick I've seen in 40 years",
+      "score": 10,
+      "user": "murray_johnc",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A chilling take on 80s teen horror films",
+      "score": 10,
+      "user": "bigmystery23",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best, most original horror movie I've seen in years",
+      "score": 10,
+      "user": "zdh952",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Back to the Basics....",
+      "score": 10,
+      "user": "MARC BARNEY",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great throwback to 70's horror, very clever and a genuinely frightening experience",
+      "score": 10,
+      "user": "Adam Foidart",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Original American Horror Movie Since Insidious.",
+      "score": 10,
+      "user": "robhartjr",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite an OK movie",
+      "score": 5,
+      "user": "Joakim Julius Rapp",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Drenched in atmosphere while curiously lacking in substance",
+      "score": 6,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Horrors of Sexual Awakening",
+      "score": 7,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Whatever helps it get close to you....",
+      "score": 8,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More than teen angst...this is life or death.",
+      "score": 8,
+      "user": "Michael O'Keefe",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great psychological horror yarn",
+      "score": 7,
+      "user": "thekarmicnomad",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Please watch this!",
+      "score": 10,
+      "user": "jack-davy",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'You don't believe me do you?'",
+      "score": 10,
+      "user": "Sabata101",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not a bad find",
+      "score": 7,
+      "user": "WoodBangers Entertainment",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It really is pretty good",
+      "score": 8,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It Follows\" Does Not Follow Your Average Scary Movie Plot",
+      "score": 7,
+      "user": "Marc Davis",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth watching but not spectacular.",
+      "score": 6,
+      "user": "s_esler",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Horror Film in Years",
+      "score": 9,
+      "user": "gavin6942",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fresh look into modern horror.",
+      "score": 8,
+      "user": "bishbryant",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A horror masterclass",
+      "score": 9,
+      "user": "Maz Murdoch (asda-man)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not mindless entertainment",
+      "score": 9,
+      "user": "Jesse King",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Ok, But Could've Been Better!\"",
+      "score": 5,
+      "user": "gwnightscream",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 6,
+      "user": "capone666",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Most original horror film concept falls just short",
+      "score": 6,
+      "user": "HorrorHunter",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really good",
+      "score": 9,
+      "user": "atinder",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been much better but nice effort.",
+      "score": 6,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sex Kills",
+      "score": 6,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Started off incredibly strong, then...",
+      "score": 6,
+      "user": "Rageypoo",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A truly great modern horror film",
+      "score": 8,
+      "user": "Ben Davis",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All Style No Substance",
+      "score": 3,
+      "user": "pspitnale-120-725930",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What have you been watching?",
+      "score": 1,
+      "user": "stole86",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gives me a new opinion on horror",
+      "score": 10,
+      "user": "basketteshawn",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best horror films ever, a classic",
+      "score": 10,
+      "user": "sriram_m",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Casting The Runes",
+      "score": 7,
+      "user": "Theo Robertson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The scariest and best horror film in years!",
+      "score": 10,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing but not a bad film",
+      "score": 5,
+      "user": "doofuspoofus",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A modern classic.",
+      "score": 10,
+      "user": "alex wolfman",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Masterpiece",
+      "score": 10,
+      "user": "noahsh153",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent classic teen scary movie",
+      "score": 10,
+      "user": "MarcoLara",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "over hyped but worth it",
+      "score": 10,
+      "user": "chickenhead0000",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful movie, it will probably turn off those seeking conventional horror.",
+      "score": 10,
+      "user": "Brown Ox",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Familiar, not clich\u00e9d. Methodical, not slow.",
+      "score": 10,
+      "user": "benthelazar",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Almost really good",
+      "score": 6,
+      "user": "Iorec",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Depression Follows, Followed by Frustration",
+      "score": 1,
+      "user": "Sriram Chandrasekhar",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows should be called It Wastes Your Time and Money",
+      "score": 1,
+      "user": "muxinhua82",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I wish I didn't watch it...",
+      "score": 1,
+      "user": "lorenzo-campanari",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring as hell",
+      "score": 1,
+      "user": "Stefan Spaan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Appalled",
+      "score": 1,
+      "user": "ayohbami",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It follows is a film that is creepy and intriguing, but sadly it's also repetitive and tedious",
+      "score": 5,
+      "user": "jimbo-53-186511",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could've been so much better!",
+      "score": 7,
+      "user": "nehaap7",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "vintage, but not too scary",
+      "score": 8,
+      "user": "jeffa123",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Original and creepy",
+      "score": 10,
+      "user": "markhaazen",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Something Different - A Breath of Fresh Air",
+      "score": 10,
+      "user": "djsteveyg",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Loved It, But I also Understand the Criticism",
+      "score": 10,
+      "user": "MovieWizKid",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows... It's Scary",
+      "score": 9,
+      "user": "Peter Downey",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poor horror-movie which lacks in Horror",
+      "score": 3,
+      "user": "Macca Roni",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Completely pathetic. Here's why...",
+      "score": 1,
+      "user": "mortiis33-969-390769",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Brief Opinion",
+      "score": 7,
+      "user": "brandon griffin",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was a okay movie",
+      "score": 7,
+      "user": "pandagal95",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "definitely a classic!",
+      "score": 10,
+      "user": "Sandeep Sekhar",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring, and those vacuous  brats have the worst clothes sense in cinema history",
+      "score": 1,
+      "user": "Boyd",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "That was some serious GARBAGE..!!!!",
+      "score": 1,
+      "user": "fahadkashmiri7",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crap as Hell! Whats going on with IMDb?",
+      "score": 1,
+      "user": "Jasom Cox",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the best by far.",
+      "score": 1,
+      "user": "Mark Mackenzie",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I can't think of words to describe this utter drivel",
+      "score": 1,
+      "user": "tonyhancock28",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible (Contains Spoilers)",
+      "score": 1,
+      "user": "Atom Ogre",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Left wanting more in the horror department",
+      "score": 6,
+      "user": "ersinkdotcom",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We're following the leader, the leader, the leader \u266a",
+      "score": 7,
+      "user": "James H",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good But Could Have Been Better",
+      "score": 6,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Didn't rate the film much due to slow start and poor acting.",
+      "score": 2,
+      "user": "Darren Mitchell",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointed",
+      "score": 1,
+      "user": "atirakitkat",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows and I didn't care !",
+      "score": 1,
+      "user": "apopkaflowerchild-221-269056",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was extremely okay",
+      "score": 6,
+      "user": "DinosaurAct86",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OK but overpraised",
+      "score": 7,
+      "user": "preppy-3",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hahahahahahaha..........",
+      "score": 3,
+      "user": "hosackl-1",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Passable",
+      "score": 6,
+      "user": "rob_todd1",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fooled by reviews...",
+      "score": 1,
+      "user": "alesia-jenkins87",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"it\" as a euphemism for trauma?",
+      "score": 7,
+      "user": "bclark-ak",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No plot",
+      "score": 3,
+      "user": "Anjali Singh",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good elements, but flawed",
+      "score": 5,
+      "user": "room102 (plasmapool@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolute waste of time",
+      "score": 1,
+      "user": "neillester",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Sucks",
+      "score": 1,
+      "user": "frostmath",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the work of genius I had hoped for.",
+      "score": 7,
+      "user": "Shae Spencer",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It hurts me to do this to a film that tried as hard as this did, especially in a genre that's almost dead",
+      "score": 4,
+      "user": "WakenPayne",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Creepy, but not scary. Atmospheric, no tension. Missed opportunity.",
+      "score": 6,
+      "user": "reigntall",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good but not that good",
+      "score": 6,
+      "user": "basilisksamuk (sam.salt@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disdain Follows",
+      "score": 1,
+      "user": "StarWarsMoviesSuck",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Different but slow.",
+      "score": 7,
+      "user": "TdSmth5",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Guard your body",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been more effective",
+      "score": 7,
+      "user": "Kaya Ozkaracalar",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It follows...until it bores!",
+      "score": 4,
+      "user": "CT Mendes",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What complete garbage.",
+      "score": 1,
+      "user": "nightanimal9",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Umm okay",
+      "score": 6,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It follows , it didn't quite deliver",
+      "score": 6,
+      "user": "Dana Archer",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "STC (Sexually Transmitted Curse)",
+      "score": 1,
+      "user": "JT-Saint (myasina@hotmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do not watch waste of time",
+      "score": 1,
+      "user": "lotsofkareem",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I clearly wasn't watching the same movie as most other reviewers",
+      "score": 5,
+      "user": "captainbeecher",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is this a good movie or a bad?Lets see it",
+      "score": 4,
+      "user": "dimitriscisse",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Its a theme Based horror movie, the 'It' is a subject of debate",
+      "score": 6,
+      "user": "uapoorvgupta21",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Story about the dangers of STD's (Sexually transmitted Demons).",
+      "score": 4,
+      "user": "mrobertshaw",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "over-hyped",
+      "score": 4,
+      "user": "stevedoulg900",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "utter bore fest",
+      "score": 1,
+      "user": "FubarSFBD",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows should be called It Wastes Your Time and Money",
+      "score": 1,
+      "user": "muxinhua82",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Blows",
+      "score": 2,
+      "user": "reaver80808-552-7999",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How Did \"It\" Not Go Straight To DVD?!",
+      "score": 1,
+      "user": "Michael Van Damme",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Who is giving this turd of a film 10/10?",
+      "score": 1,
+      "user": "danikruzewski",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horror makeup was terrible",
+      "score": 6,
+      "user": "Malakanyang",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that much of a horror, nice comedy from a mid point.",
+      "score": 6,
+      "user": "lnstantKarma",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm sorry No.",
+      "score": 5,
+      "user": "dinfokit",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sex ed meets Halloween.",
+      "score": 3,
+      "user": "compactdiscaz",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sex will follows you and kill you stay in school",
+      "score": 1,
+      "user": "speranzadaniel",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "WHATEVER YOU,DO,DON'T WATCH THIS ALONE!...because you'll need somebody to wake you up when the end credits come up",
+      "score": 1,
+      "user": "kcrimsmahavorchcarnivaloflesdiab",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Case For Video Piracy",
+      "score": 1,
+      "user": "belowglide",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "TERRIBLE ending (spoilers)",
+      "score": 2,
+      "user": "Andy Unger",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It sucks growing older",
+      "score": 2,
+      "user": "bricemavillaz",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "most boring horror movie ever",
+      "score": 2,
+      "user": "dillianv",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a Waste of Time! Unbelievable how IMDb and Metacritic have this overrated movies!",
+      "score": 1,
+      "user": "supermacky",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring, Boring, Boring",
+      "score": 2,
+      "user": "bexbluz",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Blows!",
+      "score": 1,
+      "user": "benderofgender",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of time",
+      "score": 1,
+      "user": "Amanda",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't waste your time",
+      "score": 1,
+      "user": "Chanthal de la Haye",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "moderately creepy teenage sex flick",
+      "score": 6,
+      "user": "tcman49",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows; Contains spoilers",
+      "score": 3,
+      "user": "alheere",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "wait...7,3? ah ah ah ah ah ah ah! One of the most stupid movies ever done!",
+      "score": 2,
+      "user": "f-rabit",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just awful and a total waste of 100 minutes",
+      "score": 1,
+      "user": "magnum-79227",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "(Sh)it Follows",
+      "score": 1,
+      "user": "ajaymenon0",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Are we watching the same movie?",
+      "score": 5,
+      "user": "Jay Rowe",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "NOT what I expected",
+      "score": 4,
+      "user": "xristoff93",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Okay movie, poor soundtrack",
+      "score": 4,
+      "user": "personal-61054",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Honestly, watching grass grow would be more entertaining",
+      "score": 1,
+      "user": "Sarah Manns",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It \"only\" follows (for a long time)",
+      "score": 1,
+      "user": "miwhite-4",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't waste your time and money",
+      "score": 1,
+      "user": "cluckodoom",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Average Horror Film",
+      "score": 5,
+      "user": "billcr12",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been great",
+      "score": 5,
+      "user": "randymcbeast",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Every Step You Take",
+      "score": 5,
+      "user": "dangent280",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The worst movie I have ever seen.",
+      "score": 1,
+      "user": "Tanya Michelle",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OMG!!! The worst movie ever..EVER! I want my money back!!!!!",
+      "score": 1,
+      "user": "spring flower",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Made in Detroit\" is not always a good thing.",
+      "score": 1,
+      "user": "Paul Veselovsky",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What the hell did I just watch?",
+      "score": 1,
+      "user": "lizborden4041",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Started well but got progressively bad.",
+      "score": 6,
+      "user": "santiagocosme",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "over-hyped",
+      "score": 5,
+      "user": "kdbp1213",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The STD follows.",
+      "score": 4,
+      "user": "Shadik Newkirk",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overrated movie don't justify horror genre.",
+      "score": 4,
+      "user": "chiragsama",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was expecting so much.... but",
+      "score": 3,
+      "user": "english_artist",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very disappointing.",
+      "score": 2,
+      "user": "jbotha-80-969596",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I want a refund",
+      "score": 1,
+      "user": "Gregjim",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows this will get bad reviews...deservedly",
+      "score": 3,
+      "user": "patbradley435",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Virgin-approved.",
+      "score": 6,
+      "user": "Metra Ton",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing but you can see this for only one time just for pass your time",
+      "score": 5,
+      "user": "milad_mr12",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty Bad",
+      "score": 3,
+      "user": "jems_acharya",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Sucks",
+      "score": 2,
+      "user": "panther_husky",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poorly conceptualized, written and acted/performed",
+      "score": 1,
+      "user": "supermanh-51-942496",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of my time.",
+      "score": 1,
+      "user": "Adrian Logan (hipsterheroine)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I've never been so disappointed with a film",
+      "score": 1,
+      "user": "Casper Kerry",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows? No, It Bores!",
+      "score": 1,
+      "user": "turnondafun",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Fails",
+      "score": 1,
+      "user": "rakwriter",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows - Unusual Horror Story - IMDb Score 5.2",
+      "score": 5,
+      "user": "arnoramon",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "disappointing",
+      "score": 5,
+      "user": "john-1451",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Missed Opportunity",
+      "score": 5,
+      "user": "happy_hangman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It follows what?",
+      "score": 4,
+      "user": "jkbonner1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What the heck was this? - besides a waste of my time and money",
+      "score": 2,
+      "user": "cyclecat",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumb ass movie",
+      "score": 2,
+      "user": "quana406",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did I actually just finish watching the same film as everyone else?",
+      "score": 2,
+      "user": "Lannaz",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The hype is ridiculous, but this is a pretty good horror film",
+      "score": 7,
+      "user": "zetes",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Great Idea But Disappointing",
+      "score": 6,
+      "user": "Steve Anderson",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It decided to stay home",
+      "score": 4,
+      "user": "Adam_West_as_Batdan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Misled",
+      "score": 5,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Overrated and Has Nothing to Offer That Isn't in the Trailer",
+      "score": 4,
+      "user": "tgrock",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst hour and something minutes of my life.",
+      "score": 1,
+      "user": "browneyedbabe3",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows?  It Blows, More Like...",
+      "score": 1,
+      "user": "MouthyMatthew",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not your typical teen picture but a \"very slow passing\" horror movie.",
+      "score": 6,
+      "user": "Anderson Santos",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "tight, ambiguous, expertly directed horror",
+      "score": 10,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "very slow and not scary",
+      "score": 1,
+      "user": "reeve-03122",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yet again another bad so called 'on the edge of your seat horror'",
+      "score": 1,
+      "user": "mnds-46702",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows - It Sucks - It's a Waste of Time",
+      "score": 1,
+      "user": "georgemaxwell-32-529829",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ghastly - Not Ghostly or Even Remotely Scary",
+      "score": 1,
+      "user": "Prairie_Wolf",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh, no, please not another disappointing horror movie",
+      "score": 3,
+      "user": "wowhaaa",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yes, Back to Classics But Definitely Overrated",
+      "score": 4,
+      "user": "cabartha",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why are there so many electrical outlets surrounding that pool?",
+      "score": 3,
+      "user": "Stephan Goralczyk",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The STD power point in my 9th grade health class scared me more than this",
+      "score": 3,
+      "user": "devonnn",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch paint dry... It will be more entertaining",
+      "score": 1,
+      "user": "janetkroemer",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Explicit Sex At The Expense Of Horror.",
+      "score": 1,
+      "user": "michaelarrens",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'It follows' should be 'It's boring'",
+      "score": 1,
+      "user": "Joanne lee",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting story-idea, but cold and boring film direction.",
+      "score": 6,
+      "user": "habibalmoosa",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictable, Boring and definitely not a Horror film",
+      "score": 2,
+      "user": "VinnyTheViking",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of Time and Money",
+      "score": 1,
+      "user": "Alex Snyder",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Breasts anyone???",
+      "score": 4,
+      "user": "heather",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It really isn't good enough",
+      "score": 2,
+      "user": "chrisstephens-28303",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do Not Waste Your Time and Money!!!",
+      "score": 1,
+      "user": "boyanbp",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Seriously?",
+      "score": 1,
+      "user": "blondebombxo",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't see it alone! (Don't see it at all)",
+      "score": 1,
+      "user": "jarrodsemail456",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Atrocious. Everything that is wrong with cinema.",
+      "score": 1,
+      "user": "mreko1234",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too Boring for Me",
+      "score": 3,
+      "user": "cavemantrs",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Instant classic? It doesn't follow!",
+      "score": 4,
+      "user": "Kenneth Bishton",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Should be straight to DVD",
+      "score": 2,
+      "user": "ianhector",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Follows to Nowhere",
+      "score": 5,
+      "user": " (MovieMama625)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible movie, don't waste your time or money!",
+      "score": 1,
+      "user": "Sebastian Beca",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Almost there but not quite",
+      "score": 5,
+      "user": "Noah McFarlane",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Honest Review",
+      "score": 5,
+      "user": "ka dha",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Lamest movies of all time!",
+      "score": 2,
+      "user": "Jasmine Clark",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Derivative and poorly executed.",
+      "score": 2,
+      "user": "barfog-161-403673",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meh! Honest review by a horror fan!",
+      "score": 3,
+      "user": "ghatfield69",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "STD follows",
+      "score": 3,
+      "user": "justroxy93",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I've seen scarier things in my toilet",
+      "score": 3,
+      "user": "Arie Stone",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointed",
+      "score": 6,
+      "user": "onelinecross",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "abstinence education at it's darkest",
+      "score": 4,
+      "user": "celloenvy",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Worst Movie Ever",
+      "score": 1,
+      "user": "gmacedonia",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst Movie of All Time",
+      "score": 1,
+      "user": "ponce_david",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "IT Follows - from someone who actual saw it rather than left after 20 minutes to right a review",
+      "score": 1,
+      "user": "David Sheppard",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It has an Idea and Style, but no Follow-through",
+      "score": 3,
+      "user": "in1984",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "CRAP for horror, worse as a movie",
+      "score": 1,
+      "user": "fred-923",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reviews are rigged???",
+      "score": 1,
+      "user": "alansh-871-86690",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting concept falling flat",
+      "score": 5,
+      "user": "kluseba",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "are you serious?",
+      "score": 3,
+      "user": "lateralconjuring",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Fails",
+      "score": 1,
+      "user": "jelimafish",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing and a total waste of money.",
+      "score": 2,
+      "user": "coxdana",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Filmed in my city \"The D\"",
+      "score": 4,
+      "user": "kalel-01773",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sadly, if this is what \"horror\" means in 2015...",
+      "score": 3,
+      "user": "Sinamaniac",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It...Blows",
+      "score": 4,
+      "user": "dcarsonhagy",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing new under the sun.",
+      "score": 1,
+      "user": "engineerman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sexually Transmitted Haunting?  They should have a cream for that...",
+      "score": 1,
+      "user": "ocmarkwell",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best I've seen in a while, very well-constructed.",
+      "score": 8,
+      "user": "funnygy",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Confusing",
+      "score": 4,
+      "user": " (blufrog49)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible",
+      "score": 2,
+      "user": "Tariq Sheikh",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'It tried'",
+      "score": 2,
+      "user": "Craig Carson (craigcarson92@hotmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really??",
+      "score": 2,
+      "user": "lmonderine",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A true case of hype over execution; An A for effort but a lot of eye-rolling 'really' moments",
+      "score": 7,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Would have been a better short film...",
+      "score": 4,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Skip it *may contain spoilers*",
+      "score": 3,
+      "user": "DannX68",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I just... eh",
+      "score": 3,
+      "user": "Ngotpwned",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Falters? It Fails? It Flops? Yeah, all of those.",
+      "score": 3,
+      "user": "dcj2",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible Movie",
+      "score": 3,
+      "user": "Mavors",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sucked so bad!",
+      "score": 3,
+      "user": "sofia_stenroos",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Audience was laughing",
+      "score": 3,
+      "user": "bodnarhd",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like the Ginosaji, but without comedy.",
+      "score": 2,
+      "user": "Facundo Corradini",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sexually Transmitted Ghost",
+      "score": 2,
+      "user": "CowherPowerForever",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's wasn't THAT good!",
+      "score": 4,
+      "user": "vengeance20",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Please save your money. -SPOILER WARNING-",
+      "score": 3,
+      "user": "Jean Beauvoir",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Talk about HYPE...",
+      "score": 1,
+      "user": "SomeBlueDevil",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More of an Idea than a Story",
+      "score": 5,
+      "user": "my_anywhere",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It Follows\"? It's stupid! (Read this and more constructive criticisms below!)",
+      "score": 1,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not that scary..",
+      "score": 5,
+      "user": "ashes48",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So bad",
+      "score": 5,
+      "user": "oliverwilkins1",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scary? Sent me to sleep!",
+      "score": 4,
+      "user": "davidgee",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Undermining female role and a textbook horror film",
+      "score": 3,
+      "user": "yuwei-lin",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sexually Transmitted Tedium",
+      "score": 4,
+      "user": "toby_belch",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Cant Believe The Positive Current Rating",
+      "score": 5,
+      "user": "artieup",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Does NOT Live up to the Hype",
+      "score": 4,
+      "user": "judypancoast",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't waste your money on this",
+      "score": 4,
+      "user": "tripper511",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It is Total Garbage",
+      "score": 1,
+      "user": "Sean Swift",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 100,
+  "votes_per_demo": {
+    "aged_45+": 8108,
+    "top_1000_voters": 480,
+    "males_under_18": 397,
+    "imdb_staff": 16,
+    "males_aged_18-29": 38711,
+    "imdb_users": 130007,
+    "males_aged_45+": 6845,
+    "aged_18-29": 49102,
+    "us_users": 22231,
+    "females_aged_30-44": 6183,
+    "males": 88207,
+    "females": 18400,
+    "females_aged_45+": 1121,
+    "non-us_users": 60082,
+    "females_aged_18-29": 9819,
+    "females_under_18": 100,
+    "aged_30-44": 44372,
+    "aged_under_18": 502,
+    "males_aged_30-44": 37564
+  },
   "genres": [
     "horror",
     "mystery"
   ],
-  "release_month": "March",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.5,
-    "aged_18-29": 7.0,
-    "aged_30-44": 6.8,
-    "females": 6.4,
-    "top_1000_voters": 6.7,
-    "non-us_users": 6.8,
-    "females_under_18": 6.9,
-    "males_aged_30-44": 6.9,
-    "us_users": 7.2,
-    "imdb_users": 6.9,
-    "imdb_staff": 7.9,
-    "males_under_18": 7.4,
-    "females_aged_18-29": 6.5,
-    "males_aged_45+": 6.5,
-    "females_aged_30-44": 6.4,
-    "males": 6.9,
-    "males_aged_18-29": 7.0,
-    "females_aged_45+": 6.3,
-    "aged_under_18": 7.3
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2014,
-  "name": "It Follows",
-  "gross_income": 14673301,
-  "user_review_count": 676,
-  "duration": 100,
-  "max_screens": 1655,
-  "votes_per_demo": {
-    "aged_45+": 8099,
-    "aged_18-29": 49065,
-    "aged_30-44": 44331,
-    "females": 18389,
-    "top_1000_voters": 479,
-    "non-us_users": 60036,
-    "females_under_18": 101,
-    "males_aged_30-44": 37527,
-    "us_users": 22213,
-    "imdb_users": 129883,
-    "imdb_staff": 16,
-    "males_under_18": 397,
-    "females_aged_18-29": 9812,
-    "males_aged_45+": 6837,
-    "females_aged_30-44": 6179,
-    "males": 88124,
-    "males_aged_18-29": 38683,
-    "females_aged_45+": 1120,
-    "aged_under_18": 503
+  "rating_freq": {
+    "1": 4932,
+    "2": 2533,
+    "3": 3604,
+    "4": 5746,
+    "5": 10804,
+    "6": 20745,
+    "7": 33776,
+    "8": 27881,
+    "9": 11920,
+    "10": 8066
   },
-  "rating_count": 129883,
+  "release_month": "March",
+  "budget": 2000000,
+  "budget_currency": "$",
+  "total_screens": 5323,
+  "year": 2014,
+  "rating": 6.9,
   "critic_review_count": 548,
-  "opening_weekend_income": 160089
+  "opening_weekend_date": {
+    "month": 3,
+    "year": 2015,
+    "day": 13,
+    "__type__": "datetime.date"
+  },
+  "name": "It Follows",
+  "user_review_count": 677,
+  "avg_screens": 483.90909090909093
 }

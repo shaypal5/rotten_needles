@@ -1,92 +1,1033 @@
 {
-  "num_weekends": 11,
-  "duration": 110,
+  "budget": 40000000,
+  "opening_weekend_income": 10547068,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 27,
+    "__type__": "datetime.date",
+    "month": 7
+  },
+  "budget_currency": "$",
+  "avg_screens": 1282.6363636363637,
   "rating_freq": {
     "1": 1686,
     "2": 1483,
     "3": 2594,
-    "4": 5385,
+    "4": 5386,
     "5": 11593,
-    "6": 15201,
+    "6": 15205,
     "7": 10545,
     "8": 5194,
     "9": 2011,
     "10": 3622
   },
-  "release_year": 2012,
-  "budget_currency": "$",
-  "rating": 5.7,
-  "release_day": 18,
-  "budget": 40000000,
-  "votes_per_demo": {
-    "us_users": 8954,
-    "imdb_users": 59314,
-    "aged_30-44": 19457,
-    "males": 25262,
-    "males_aged_18-29": 10209,
-    "top_1000_voters": 325,
-    "females_aged_30-44": 7423,
-    "imdb_staff": 9,
-    "females": 25460,
-    "females_aged_45+": 906,
-    "females_under_18": 154,
-    "aged_under_18": 216,
-    "aged_45+": 2997,
-    "females_aged_18-29": 15342,
-    "non-us_users": 29348,
-    "males_aged_45+": 2036,
-    "males_under_18": 56,
-    "aged_18-29": 25840,
-    "males_aged_30-44": 11771
-  },
-  "metascore": 41,
-  "avg_rating_per_demo": {
-    "us_users": 5.7,
-    "imdb_users": 5.7,
-    "aged_30-44": 5.5,
-    "males": 5.4,
-    "males_aged_18-29": 5.6,
-    "top_1000_voters": 4.8,
-    "females_aged_30-44": 5.8,
-    "imdb_staff": 6.1,
-    "females": 6.1,
-    "females_aged_45+": 5.7,
-    "females_under_18": 7.1,
-    "aged_under_18": 6.8,
-    "aged_45+": 5.4,
-    "females_aged_18-29": 6.2,
-    "non-us_users": 5.6,
-    "males_aged_45+": 5.2,
-    "males_under_18": 6.3,
-    "aged_18-29": 5.9,
-    "males_aged_30-44": 5.3
-  },
-  "rating_count": 59314,
-  "critic_review_count": 168,
-  "opening_weekend_income_currency": "$",
-  "name": "What to Expect When You're Expecting",
-  "user_review_count": 89,
-  "avg_screens": 1282.6363636363637,
-  "release_month": "May",
-  "opening_weekend_date": {
-    "day": 18,
-    "month": 5,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "screens_by_weekend": [
+    3476,
+    3021,
+    2907,
+    2087,
+    1216,
+    411,
+    203,
+    236,
+    221,
+    192,
+    139
+  ],
+  "rating_count": 59319,
+  "total_screens": 14109,
   "max_screens": 3476,
+  "duration": 110,
   "gross_income": 41102171,
+  "metascore": 41,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 325,
+    "imdb_users": 59319,
+    "us_users": 8954,
+    "aged_18-29": 25841,
+    "non-us_users": 29351,
+    "aged_45+": 2997,
+    "aged_30-44": 19460,
+    "males_aged_30-44": 11772,
+    "males_aged_18-29": 10209,
+    "males_aged_45+": 2036,
+    "aged_under_18": 215,
+    "imdb_staff": 9,
+    "males_under_18": 56,
+    "females_aged_30-44": 7425,
+    "females": 25462,
+    "females_under_18": 153,
+    "females_aged_45+": 906,
+    "males": 25263,
+    "females_aged_18-29": 15343
+  },
+  "user_review_count": 89,
+  "rating": 5.7,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 4.8,
+    "imdb_users": 5.7,
+    "us_users": 5.7,
+    "aged_18-29": 5.9,
+    "non-us_users": 5.6,
+    "aged_45+": 5.4,
+    "aged_30-44": 5.5,
+    "males_aged_30-44": 5.3,
+    "males_aged_18-29": 5.6,
+    "males_aged_45+": 5.2,
+    "aged_under_18": 6.8,
+    "imdb_staff": 6.1,
+    "males_under_18": 6.3,
+    "females_aged_30-44": 5.8,
+    "females": 6.1,
+    "females_under_18": 7.1,
+    "females_aged_45+": 5.7,
+    "males": 5.4,
+    "females_aged_18-29": 6.2
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 18,
+    "__type__": "datetime.date",
+    "month": 5
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "vasot02",
+      "contents": "Completely shallow, generic and boring movie",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "miarae",
+      "contents": "deserves a higher rating in my opinion",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Jimmy Collins",
+      "contents": "Oh gee, what a waste of money.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "gregeichelberger",
+      "contents": "No great expectations from this pregnant pause",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "Movie Geek",
+      "contents": "Slick, well acted, but in the end a bit empty...",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "danew13",
+      "contents": "An Insult to Mothers and Especially Fathers",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "jsharma",
+      "contents": "What to expect when you're expecting:simple and unexpectedly nice",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "napierslogs",
+      "contents": "Twenty floating heads can't make you laugh but a couple of actors can grab your heart",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "Another Self-Help Book Gets the Romcom Treatment",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "Just too Depressing!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "Don't Expect Much.",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "hell-cat-1",
+      "contents": "Nothing like the trailer portrays...",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "mlyfe",
+      "contents": "Interesting Movie from my standpoint!",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "contents": "What to Expect When You're Expecting (2012) - Not Expecting to Expect Anything Good in This!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "peelerboy",
+      "contents": "Dumb high school humor written for adults who don't want to think.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "rogerdob",
+      "contents": "Movie can't decide it it is a comedy or a drama!",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "juneebuggy",
+      "contents": "Total chick flick with a few laughs -about what I expected",
+      "review_date": {
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "katieking90",
+      "contents": "A sweet movie, unfairly judged",
+      "review_date": {
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Mary Herrick",
+      "contents": "More than just a movie. It's insightful.",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Silly and predictable",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "Expect the Expected",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "terrellrobinson71",
+      "contents": "Here's something to expect: A movie that balances the ups and downs of pregnancy in a funny and unexpectedly moving way.",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "not as atrocious like \"New Year Eve\", or tedious like \"Valentine's Day\" but it's more bearable like \"Date Night\"",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "Truly execrable",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Some good moments, but you have to sit through some bad stuff to get to them",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "meeza (themeezaman@hotmail.com)",
+      "contents": "Not so great expectations",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "kuijiblob",
+      "contents": "What to expect when your expecting a turd sandwich?",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "IheartCali5882",
+      "contents": "A waste of a good cast",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Shallow, predictable mess",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "chiggerdude11",
+      "contents": "Want my Two Hours Back",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "werefox08",
+      "contents": "I Am An Optimist.....I Expected A Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "Lola A",
+      "contents": "Slow",
+      "review_date": {
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "Davis P",
+      "contents": "I adore this movie!",
+      "review_date": {
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Shopaholic35",
+      "contents": "Very funny but not what I was expecting.",
+      "review_date": {
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "SarahRobinson888",
+      "contents": "Star-studded yet disappointing",
+      "review_date": {
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "smd_89",
+      "contents": "Really funny film, loads of my favourite actors",
+      "review_date": {
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "sexycurls7",
+      "contents": "Cheesy....Chick-flick",
+      "review_date": {
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Prismark10",
+      "contents": "As expected",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "What to Expect When You're Expecting",
+      "review_date": {
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Desertman84",
+      "contents": "A Poor Pregnancy Guide Film To Fathers And Mothers",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "bowmanblue",
+      "contents": "Men, be WARNED: women may make you watch this",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Scatter shoot storytelling",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "HelenMary",
+      "contents": "a nice telling-it-truthfully film about having children",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Treyroo",
+      "contents": "Not worth your time",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "sa8713",
+      "contents": "entertaining",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Christian_Dimartino",
+      "contents": "Don'e expect too much or too little.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "rivertam26",
+      "contents": "about what you'd expect",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "reneemsm",
+      "contents": "Should have been better",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "tballer788",
+      "contents": "It was fine",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "Exactly what I expected....",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "elliecopter24",
+      "contents": "Quite boring, no storyline..",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "BottomLineReviews",
+      "contents": "Better than the buzz",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "TxMike",
+      "contents": "Inoffensive rom-com, my wife and I enjoyed it for light entertainment.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Pumpkin_Man",
+      "contents": "Not as Great as I Was Expecting!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "alattawi90",
+      "contents": "The Poor Movie Of The Century",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "mkenyon1978",
+      "contents": "Enjoyed it and was pleasantly surprised",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Insulting to the miracle of child birth and anyone involved with it!",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "Ewslavens",
+      "contents": "Good made me cry",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "pepe4u22",
+      "contents": "what was this",
+      "review_date": {
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "jimnadorozny",
+      "contents": "Worst movie ever, stupid , boring, really really stupid, dennis quaid looks younger than his son in the movie, just terrible!!!!",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "phoenix 2",
+      "contents": "difficult to watch",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "melissa0914",
+      "contents": "Pleasantly surprised",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Wasn219",
+      "contents": "Laugh and cry and sneeze...",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "uohottie1315",
+      "contents": "Guys should not rate a chick flick",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "rannynm",
+      "contents": "Hilarious Comedy; Mature Content and Language",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Amy Adler",
+      "contents": "What a nice flick, perhaps there should be theaters AND reviewers just for female oriented films",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: What To Expect Whn You're Expecting",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "rgkarim",
+      "contents": "More For Family/Dates than for Comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Aleisha Gore",
+      "contents": "Excellent Movie with Hilarious Bits of Truth",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "Yet another chick-flick that I thought was great and liked it almost as much as my wife. I say A.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Buttyn",
+      "contents": "A Good Laugh",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Farid_Hijab_Nadweed",
+      "contents": "Copy of a Bollywood Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "blogurious",
+      "contents": "Babies and the Rest",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "MissLovelyMonet .",
+      "contents": "Not another J-Lo movie...",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "andaniismira",
+      "contents": "for me, as a woman, I really feel the movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews...",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "ShelbyTMItchell",
+      "contents": "Cute movie about babies!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "lynnfriedman",
+      "contents": "Delivers Exactly What You'd Expect",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "momemma03",
+      "contents": "whats all the negativity about",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "A fun and heartfelt look at pregnancy.  I'm going against the grain on this one",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "shreesigma",
+      "contents": "Very true-to-life :D",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Jim Gillembut",
+      "contents": "I didn't really know what to expect when I expected myself to see this movie :/",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "wilson trivino",
+      "contents": "God Bless Moms",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "gradymay",
+      "contents": "Expect Good Things from What to Expect When You're Expecting",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    }
+  ],
+  "release_month": "May",
   "genres": [
     "comedy",
     "drama",
     "romance"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 27,
-    "month": 7,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 10547068
+  "opening_weekend_screens": 3476,
+  "name": "What to Expect When You're Expecting",
+  "num_weekends": 11,
+  "release_day": 18,
+  "critic_review_count": 168
 }

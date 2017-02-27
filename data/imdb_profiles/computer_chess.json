@@ -1,46 +1,434 @@
 {
-  "critic_review_count": 131,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 11,
-    "day": 8
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 8,
-    "day": 16
-  },
-  "metascore": 74,
-  "max_screens": 3,
-  "duration": 92,
-  "rating_count": 3615,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 3,
+  "release_day": null,
   "avg_rating_per_demo": {
-    "non-us_users": 6.2,
-    "females_aged_18-29": 6.2,
-    "females": 6.2,
-    "females_aged_30-44": 6.2,
+    "top_1000_voters": 5.6,
+    "males_under_18": 2.0,
     "imdb_staff": 5.0,
     "aged_45+": 5.9,
-    "aged_under_18": 2.0,
-    "males_aged_30-44": 6.2,
-    "top_1000_voters": 5.6,
-    "aged_30-44": 6.2,
+    "imdb_users": 6.3,
+    "males_aged_45+": 5.9,
+    "aged_18-29": 6.6,
+    "females_aged_30-44": 6.2,
     "males_aged_18-29": 6.6,
     "males": 6.3,
+    "females": 6.2,
     "females_aged_45+": 6.6,
-    "males_under_18": 2.0,
-    "imdb_users": 6.3,
+    "non-us_users": 6.2,
+    "females_aged_18-29": 6.2,
     "us_users": 6.3,
-    "males_aged_45+": 5.9,
-    "aged_18-29": 6.6
+    "aged_30-44": 6.2,
+    "aged_under_18": 2.0,
+    "males_aged_30-44": 6.2
   },
-  "user_review_count": 37,
+  "closing_date": {
+    "month": 11,
+    "year": 2013,
+    "day": 8,
+    "__type__": "datetime.date"
+  },
+  "metascore": 74,
+  "num_weekends": 3,
+  "rating_count": 3615,
+  "gross_income": 101218,
+  "max_screens": 3,
+  "opening_weekend_screens": 3,
+  "screens_by_weekend": [
+    3,
+    2,
+    3
+  ],
+  "opening_weekend_income": 3000,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "As good as it gets",
+      "score": 10,
+      "user": "Alan Jacobs (alanjj@gmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Peeling away layers to find the bleak sameness",
+      "score": 5,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "??",
+      "score": 3,
+      "user": "keri morgan",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Time Machine Wanted",
+      "score": 1,
+      "user": "venz31",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you're sick & Atari'd of forgettable films, you should add this to your Coleco-tion",
+      "score": 8,
+      "user": "rooprect",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A worthwhile experiment.",
+      "score": 7,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a film! Existential comedy on Computer Chess Convention?",
+      "score": 9,
+      "user": "petar-mitric",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Nerd-gasm\"",
+      "score": 9,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Programmed to Fail",
+      "score": 2,
+      "user": "rsj624",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A serious disappointment",
+      "score": 1,
+      "user": "marklear-1",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "unfulfilled potential or no hope?",
+      "score": 4,
+      "user": "rgb0829",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dull Dull Dull",
+      "score": 3,
+      "user": "mariop56",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A profound film about life, creation and art",
+      "score": 9,
+      "user": "Thorkell A Ottarsson",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well executed",
+      "score": 8,
+      "user": "andy-574-298326",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lightweight computer nerd mockumentary, bamboozles critics, desperate for early 80s nostalgia",
+      "score": 2,
+      "user": "Turfseer",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Utterly DREADFUL",
+      "score": 1,
+      "user": "larry-485-161583",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bujalski and his team invented their own aesthetics",
+      "score": 10,
+      "user": "Mark Verhoven",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "64 squares to infinity and beyond.",
+      "score": 8,
+      "user": "punishmentpark",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clever and original, if uneven",
+      "score": 7,
+      "user": "runamokprods",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Surprising Gem, Even For Computer Illiterates.",
+      "score": 9,
+      "user": "waitvoidoid",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Gently Humorous Portrayal of Eighties Geeks",
+      "score": 8,
+      "user": "l_rawjalaurence",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chess & People",
+      "score": 10,
+      "user": "MaxDMensa",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, sharp picture of how we all were",
+      "score": 9,
+      "user": "bob-2325",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bizarre indie comedy film!",
+      "score": 8,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A wholly unique film exploring technology and it's overbearing quality among other things",
+      "score": 9,
+      "user": "Jesse Jordon",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unwatchable",
+      "score": 2,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "01011001001011011010010101",
+      "score": 7,
+      "user": "dan-2598",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Frequently funny if deeply episodic film.",
+      "score": 7,
+      "user": "SgtPluck",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful! Avoid at all costs.",
+      "score": 1,
+      "user": "natjohnsmyth",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Painfully boring",
+      "score": 3,
+      "user": "mutty-mcflea",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A clever comedy in the style of a reality show from the 70's",
+      "score": 7,
+      "user": "Don Muvo",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing about chess or computers",
+      "score": 1,
+      "user": "RandN-Perry",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I did not like this film.  (Possible Spoilers)",
+      "score": 1,
+      "user": "sfgeoff-913-424177",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 92,
+  "votes_per_demo": {
+    "top_1000_voters": 96,
+    "males_under_18": 1,
+    "imdb_staff": 3,
+    "aged_45+": 503,
+    "imdb_users": 3615,
+    "males_aged_45+": 450,
+    "aged_18-29": 1028,
+    "females_aged_30-44": 93,
+    "males_aged_18-29": 935,
+    "males": 2994,
+    "females": 213,
+    "females_aged_45+": 37,
+    "non-us_users": 1799,
+    "females_aged_18-29": 79,
+    "us_users": 1100,
+    "aged_30-44": 1653,
+    "aged_under_18": 1,
+    "males_aged_30-44": 1541
+  },
+  "genres": [
+    "comedy"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 114,
     "2": 104,
@@ -53,36 +441,20 @@
     "9": 233,
     "10": 166
   },
-  "genres": [
-    "comedy"
-  ],
+  "release_month": null,
   "budget": null,
-  "rating": 6.3,
-  "name": "Computer Chess",
-  "opening_weekend_income": 3000,
-  "avg_screens": 2.6666666666666665,
-  "gross_income": 101218,
-  "votes_per_demo": {
-    "non-us_users": 1799,
-    "females_aged_18-29": 79,
-    "females": 213,
-    "females_aged_30-44": 93,
-    "imdb_staff": 3,
-    "aged_45+": 503,
-    "aged_under_18": 1,
-    "males_aged_30-44": 1541,
-    "top_1000_voters": 96,
-    "aged_30-44": 1653,
-    "males_aged_18-29": 935,
-    "males": 2994,
-    "females_aged_45+": 37,
-    "males_under_18": 1,
-    "imdb_users": 3615,
-    "us_users": 1100,
-    "males_aged_45+": 450,
-    "aged_18-29": 1028
-  },
-  "release_year": null,
   "budget_currency": null,
-  "release_day": null
+  "total_screens": 8,
+  "year": 2013,
+  "rating": 6.3,
+  "critic_review_count": 131,
+  "opening_weekend_date": {
+    "month": 8,
+    "year": 2013,
+    "day": 16,
+    "__type__": "datetime.date"
+  },
+  "name": "Computer Chess",
+  "user_review_count": 37,
+  "avg_screens": 2.6666666666666665
 }

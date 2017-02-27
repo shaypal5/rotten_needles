@@ -1,92 +1,1615 @@
 {
-  "critic_review_count": 220,
-  "year": 2012,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 7,
-    "day": 5
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 5,
-    "day": 3
-  },
-  "metascore": 60,
-  "max_screens": 258,
-  "duration": 106,
-  "rating_count": 58090,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 10,
+  "release_day": null,
   "avg_rating_per_demo": {
+    "aged_45+": 6.9,
+    "top_1000_voters": 6.5,
+    "males_under_18": 7.0,
+    "imdb_staff": 6.5,
+    "males_aged_18-29": 7.0,
+    "imdb_users": 6.9,
+    "males_aged_45+": 6.8,
+    "aged_18-29": 7.0,
+    "us_users": 6.9,
+    "females_aged_30-44": 6.7,
+    "males": 6.9,
+    "females": 6.8,
+    "females_aged_45+": 7.0,
     "non-us_users": 6.8,
     "females_aged_18-29": 6.8,
-    "females": 6.8,
-    "aged_45+": 6.9,
     "females_under_18": 7.3,
-    "imdb_users": 6.9,
-    "imdb_staff": 6.5,
-    "females_aged_30-44": 6.7,
-    "aged_under_18": 7.0,
-    "males_aged_30-44": 6.8,
-    "top_1000_voters": 6.5,
     "aged_30-44": 6.8,
-    "males_aged_18-29": 7.0,
-    "males": 6.9,
-    "females_aged_45+": 7.0,
-    "males_under_18": 7.0,
-    "us_users": 6.9,
-    "males_aged_45+": 6.8,
-    "aged_18-29": 7.0
+    "aged_under_18": 7.0,
+    "males_aged_30-44": 6.8
   },
-  "user_review_count": 145,
-  "rating_freq": {
-    "1": 373,
-    "2": 213,
-    "3": 428,
-    "4": 1086,
-    "5": 3612,
-    "6": 12311,
-    "7": 22641,
-    "8": 11617,
-    "9": 2934,
-    "10": 2875
+  "closing_date": {
+    "month": 7,
+    "year": 2013,
+    "day": 5,
+    "__type__": "datetime.date"
+  },
+  "metascore": 60,
+  "num_weekends": 10,
+  "rating_count": 58102,
+  "gross_income": 1939441,
+  "max_screens": 258,
+  "opening_weekend_screens": 4,
+  "screens_by_weekend": [
+    4,
+    17,
+    165,
+    258,
+    123,
+    67,
+    30,
+    12,
+    5,
+    6
+  ],
+  "opening_weekend_income": 87946,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Read the book - 'The Iceman' is a woefully underdeveloped disappointment",
+      "score": 5,
+      "user": "Jack Hawkins (Hawkensian)",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Good Movie, But...",
+      "score": 7,
+      "user": "bandito_2000",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Now this is good acting...",
+      "score": 7,
+      "user": "coastdaze",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great story ruined!?!? OR did we (or just me) expect too much???",
+      "score": 8,
+      "user": "Julian0922",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A massive, formulaic disappointment, with a towering performance from Michael Shannon",
+      "score": 4,
+      "user": "tomgillespie2002",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Straight Up Gangster Movie",
+      "score": 8,
+      "user": "habanamick",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Make Room for Daddy",
+      "score": 7,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "could have been better.",
+      "score": 5,
+      "user": "busman1929",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Difficult to emotionally invest in but wickedly entertaining.",
+      "score": 7,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent gangster flick, minus the charm and depth of Goodfellas",
+      "score": 7,
+      "user": "AmericanFilmTheory",
+      "review_date": {
+        "month": 9,
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great movie and great acting",
+      "score": 10,
+      "user": "General Krax",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Impressive True Story of a Family Man and Notorious Cold Blood Killer",
+      "score": 7,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smoldering and Volcanic Acting",
+      "score": 9,
+      "user": "aharmas",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Michael Shannon is Cold as Ice",
+      "score": 9,
+      "user": "bjhomeboy08",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Netflix Movie Review: The Iceman",
+      "score": 9,
+      "user": "Phillip Tomasso III (ptom3@hotmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best movies I've seen in a while.",
+      "score": 9,
+      "user": "lasooannie",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Michael Shannon...The New Face of Evil for Decades To Come",
+      "score": 8,
+      "user": "Ed-Shullivan",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A poor adaptation",
+      "score": 1,
+      "user": "sfoulk526",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible movie!",
+      "score": 2,
+      "user": "collytum07",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic book....poor film",
+      "score": 1,
+      "user": "tattoojunkie",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "James Franco Sucked!",
+      "score": 5,
+      "user": "ddcharbon",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice balancing between the the bad and good side of the focus character",
+      "score": 6,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Michael Shannon is a mob hit-man",
+      "score": 6,
+      "user": "msroz",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strong movie totally focused on single character",
+      "score": 8,
+      "user": "Bene Cumb",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well done, but disappointing",
+      "score": 8,
+      "user": "AaronHickory",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews",
+      "score": 7,
+      "user": "capone666",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Michael Shannon is the real deal.",
+      "score": 6,
+      "user": "fbclaw",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "THE ICEMAN, Incredible Biography and Crime Movie",
+      "score": 8,
+      "user": "Valon Haliti",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Iceman",
+      "score": 6,
+      "user": "Don Dyson Patterson (dumfriesdon@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shannon is truly menacing.....",
+      "score": 8,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A chilling portrayal; Michael Shannon is outstanding",
+      "score": 7,
+      "user": "JohnRayPeterson",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No. No, no, no, no, no.",
+      "score": 2,
+      "user": "Xtopher Quietmind",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty unwilling to depart from mob movie formula, but well done enough to impress",
+      "score": 7,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A little disappointing",
+      "score": 6,
+      "user": "Steve Varrier",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fair movie, but doesn't do justice to the reality.",
+      "score": 6,
+      "user": "jon connwe",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great subject, very disappointing movie",
+      "score": 5,
+      "user": "MediaboyMusings",
+      "review_date": {
+        "month": 10,
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chilling",
+      "score": 1,
+      "user": "dierregi",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Iceman",
+      "score": 5,
+      "user": "Jackson Booth-Millard",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A decent mafia thriller with amazing performances",
+      "score": 6,
+      "user": "Peter Lorme",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid film - good plot",
+      "score": 9,
+      "user": "rusoviet",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Life As Random?",
+      "score": 7,
+      "user": "Thaneevuth Jankrajang",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice, classic-feeling gangster movie",
+      "score": 7,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Iceman Cometh",
+      "score": 8,
+      "user": " (sylviastel@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Come in for Michael Shannon's performance, stay for the compelling character he plays",
+      "score": 9,
+      "user": "Adam Foidart",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neither a documentary, nor entertainment",
+      "score": 5,
+      "user": "skeptic skeptical",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great watch",
+      "score": 8,
+      "user": "birdman99",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not a rough flick but the acting is superb",
+      "score": 9,
+      "user": "trashgang",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too forgettable to be a big hitter",
+      "score": 6,
+      "user": "Adam Peters",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why Was This Necessary?",
+      "score": 1,
+      "user": "lcorcoran5",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Gripping Account of a Serial Murderer!",
+      "score": 9,
+      "user": "g-bodyl",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nicely dark",
+      "score": 8,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cold as ice",
+      "score": 5,
+      "user": "jc-osms",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Michael Shannon but mob life rather bland",
+      "score": 6,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent flick, Michael Shannon is brilliant",
+      "score": 8,
+      "user": "Dorian Staten",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really Good",
+      "score": 9,
+      "user": "artimusmaxtor",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "While it does miss a huge opportunity, The Iceman still delivers",
+      "score": 7,
+      "user": "trublu215",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good crime biopic",
+      "score": 8,
+      "user": "grantss",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very loosely based on a true story",
+      "score": 3,
+      "user": "derektrotteresq",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A solid gangster film",
+      "score": 7,
+      "user": "TheMarwood",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not even close to real story",
+      "score": 3,
+      "user": "dsuggitt",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Iceman Cometh... and Goeth!",
+      "score": 5,
+      "user": "DEATHSukka4",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Regrettably Enjoyable",
+      "score": 7,
+      "user": "gavin6942",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loving father and ice cold hit man",
+      "score": 8,
+      "user": "OJT",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film won't leave you cold (appropriately) ...",
+      "score": 8,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Iceman (2013) Worth watching",
+      "score": 8,
+      "user": "CrimeTime50",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You really think God will come down and save you?",
+      "score": 7,
+      "user": "Ben Larson",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid movie following the mob assassin Richard Kuklinski.",
+      "score": 8,
+      "user": "suite92",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good context, good actors.",
+      "score": 7,
+      "user": "alex3429",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Solid, Entertaining Gangster flick based on a true Character",
+      "score": 6,
+      "user": "Fuego Johnson",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "such a disappointment",
+      "score": 6,
+      "user": "trickstar_trippy",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Underdeveloped Could-have-been Classic",
+      "score": 6,
+      "user": "sohansurag",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Classic But Typical Gangster Film",
+      "score": 7,
+      "user": "a_rohbar",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great film",
+      "score": 7,
+      "user": "connercosgrove",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "score": 7,
+      "user": "Tss5078",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Michael Shannon makes this movie",
+      "score": 7,
+      "user": "Garret Ian Wolowski",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gripping, well worth a watch",
+      "score": 8,
+      "user": "swordsjoshua91",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Iceman\" Never Generates Any Heat",
+      "score": 5,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great story, poor movie.",
+      "score": 6,
+      "user": "fingolito",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A sad bland interpretation of a fantastic man.",
+      "score": 5,
+      "user": "Gage Wilson",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chilling",
+      "score": 7,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intense Crime/Drama 7/10",
+      "score": 7,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Disappointing.......5.5 stars in fact!",
+      "score": 6,
+      "user": "utathya92",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Still waiting for the REAL \"Iceman\"-movie",
+      "score": 6,
+      "user": "andriz",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Harrowingly Interesting",
+      "score": 7,
+      "user": "doug_park2001",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cold as Ice",
+      "score": 8,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Must Watch ***",
+      "score": 8,
+      "user": "lurpak",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "HK Auteur Review - The Iceman",
+      "score": 7,
+      "user": "hkauteur",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very good movie that also has a Sopranos-esque feel in the way that you find it hard to hate the bad guy. I recommend this. I say B",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I think I'd rather just watch a documentary on this.",
+      "score": 6,
+      "user": "Patrick",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Familiar ground heightened by Shannon's performance.",
+      "score": 6,
+      "user": "Robyn Nesbitt (nesfilmreviews)",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A little chilly maybe, but not very Icy....",
+      "score": 6,
+      "user": "kevin-h-720-45317",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kuklinski's fiasco on film print",
+      "score": 5,
+      "user": "jpgonc",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Based On The Incredible True Story Of Richard Kuklinski, the notorious contract killer",
+      "score": 5,
+      "user": "Vivekmaru45",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not very good",
+      "score": 6,
+      "user": "justinsane8",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Family?",
+      "score": 6,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Iceman\" is an enjoyable thriller, which at times misses its queue, but at others shines; whether it be through performances or some great cameos.",
+      "score": 7,
+      "user": "Scott Gentry",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The tune of the neighborhood ice cream truck . . .",
+      "score": 7,
+      "user": "Tad Pole",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cold Blooded Killer",
+      "score": 7,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Fairly Good Disgusting Film",
+      "score": 6,
+      "user": "rickscafe419",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Banality of Evil?",
+      "score": 6,
+      "user": "David Horton",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "lacking in plot",
+      "score": 6,
+      "user": "toddg-473-289818",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it!",
+      "score": 7,
+      "user": "petarmatic",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "expected a lot more... had high expectations.",
+      "score": 5,
+      "user": "gabe perron",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of A Great True Story",
+      "score": 4,
+      "user": "bullet-tooth-tony",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Performances In Shapeless Styleless Study",
+      "score": 6,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As cold as it's main man",
+      "score": 4,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Michael Shannon brings notorious killer Richard Kuklinski to life in The Iceman",
+      "score": 8,
+      "user": "rgblakey",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is how legends are built .........",
+      "score": 7,
+      "user": "merklekranz",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The iceman cometh...again",
+      "score": 8,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bleak and violent look at a real life Hit-man",
+      "score": 9,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Iceman Killith",
+      "score": 9,
+      "user": "Don Clayton",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hit or miss?",
+      "score": 5,
+      "user": "punishmentpark",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Boring Movie About an Interesting Story",
+      "score": 4,
+      "user": "rukmal1987",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The True Story of Richard Kuklinski played by Michael Shannon,",
+      "score": 5,
+      "user": "Actseep",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent True Story",
+      "score": 10,
+      "user": "asiegel-8",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Iceman lives up to the name but falls a little short on the potential of the story",
+      "score": 6,
+      "user": "napierslogs",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shannon's intensity made the film for me!",
+      "score": 10,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Contemporary Made Crime Cinema At Its Finest",
+      "score": 7,
+      "user": "Pycal",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Double Lives, Split Psyches",
+      "score": 5,
+      "user": "gradyharp",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very disappointing",
+      "score": 1,
+      "user": "dannydec",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dreadful interpretation",
+      "score": 3,
+      "user": "marmionhome",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm not sure 'Boring' is the right word. It was, I don't know, 'Lazy'?",
+      "score": 3,
+      "user": "daddysarm",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the cold blooded family loving criminal film I was expecting",
+      "score": 4,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shannon shines",
+      "score": 7,
+      "user": "billcr12",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Be afraid... like WAY afraid...",
+      "score": 8,
+      "user": "jcorreia1977",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why books are better than movies, but Shannon makes this damn good.",
+      "score": 8,
+      "user": "Hung Garyian",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very good lower budget film",
+      "score": 8,
+      "user": "ericnottelling",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A decent, gripping gangster film",
+      "score": 8,
+      "user": "funkstar186",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Devoted husband, loving father, executioner of 100. Villain or victim?",
+      "score": 8,
+      "user": "TheSquiss",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well done true life crime",
+      "score": 8,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good film, better performance",
+      "score": 7,
+      "user": "Daniel Elford",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absorbing and compelling crime drama/biopic; Shannon is superlative",
+      "score": 9,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sad, Gruesome, Horrific, and  really unbelievable",
+      "score": 7,
+      "user": " (bob-rutzel-1)",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Iceman Cometh... And Goeth",
+      "score": 3,
+      "user": "cultfilmfreaksdotcom",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "horrible movie,",
+      "score": 1,
+      "user": "WalkingDead99",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lacks the emotion needed to make viewers care.",
+      "score": 2,
+      "user": "insanearadia",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Iceman ONLY in the New York Aera?",
+      "score": 1,
+      "user": "mrx39",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 106,
+  "votes_per_demo": {
+    "aged_45+": 5649,
+    "top_1000_voters": 372,
+    "males_under_18": 33,
+    "imdb_staff": 4,
+    "males_aged_18-29": 16166,
+    "imdb_users": 58102,
+    "males_aged_45+": 4864,
+    "aged_18-29": 18340,
+    "us_users": 9157,
+    "females_aged_30-44": 2372,
+    "males": 45439,
+    "females": 5404,
+    "females_aged_45+": 688,
+    "non-us_users": 31767,
+    "females_aged_18-29": 2014,
+    "females_under_18": 5,
+    "aged_30-44": 24955,
+    "aged_under_18": 39,
+    "males_aged_30-44": 22301
   },
   "genres": [
     "biography",
     "crime",
     "drama"
   ],
-  "budget": 10000000,
-  "rating": 6.9,
-  "name": "The Iceman",
-  "opening_weekend_income": 87946,
-  "avg_screens": 68.7,
-  "gross_income": 1939441,
-  "votes_per_demo": {
-    "non-us_users": 31762,
-    "females_aged_18-29": 2015,
-    "females": 5403,
-    "aged_45+": 5647,
-    "females_under_18": 5,
-    "imdb_users": 58090,
-    "imdb_staff": 4,
-    "females_aged_30-44": 2370,
-    "aged_under_18": 39,
-    "males_aged_30-44": 22300,
-    "top_1000_voters": 372,
-    "aged_30-44": 24952,
-    "males_aged_18-29": 16162,
-    "males": 45431,
-    "females_aged_45+": 688,
-    "males_under_18": 33,
-    "us_users": 9157,
-    "males_aged_45+": 4862,
-    "aged_18-29": 18337
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 373,
+    "2": 213,
+    "3": 428,
+    "4": 1086,
+    "5": 3612,
+    "6": 12317,
+    "7": 22648,
+    "8": 11617,
+    "9": 2934,
+    "10": 2874
   },
-  "release_year": null,
+  "release_month": null,
+  "budget": 10000000,
   "budget_currency": "$",
-  "release_day": null
+  "total_screens": 687,
+  "year": 2012,
+  "rating": 6.9,
+  "critic_review_count": 220,
+  "opening_weekend_date": {
+    "month": 5,
+    "year": 2013,
+    "day": 3,
+    "__type__": "datetime.date"
+  },
+  "name": "The Iceman",
+  "user_review_count": 145,
+  "avg_screens": 68.7
 }

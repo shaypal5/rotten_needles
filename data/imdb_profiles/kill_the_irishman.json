@@ -1,92 +1,750 @@
 {
-  "genres": [
-    "biography",
-    "crime",
-    "drama"
-  ],
-  "num_weekends": 14,
+  "budget_currency": "$",
+  "total_screens": 330,
   "rating_freq": {
     "1": 283,
     "2": 181,
     "3": 298,
     "4": 624,
     "5": 1740,
-    "6": 5331,
-    "7": 12197,
-    "8": 9595,
+    "6": 5332,
+    "7": 12198,
+    "8": 9597,
     "9": 3373,
     "10": 2819
   },
-  "budget": 12000000,
-  "votes_per_demo": {
-    "non-us_users": 22878,
-    "aged_45+": 3930,
-    "females_aged_45+": 370,
-    "imdb_staff": 2,
-    "females_under_18": 1,
-    "males_aged_45+": 3497,
-    "females_aged_18-29": 541,
-    "males_aged_30-44": 16382,
-    "females": 1825,
-    "imdb_users": 36441,
-    "us_users": 5544,
-    "males_under_18": 16,
-    "top_1000_voters": 289,
-    "aged_under_18": 17,
-    "males": 31372,
-    "males_aged_18-29": 10821,
-    "females_aged_30-44": 854,
-    "aged_30-44": 17399,
-    "aged_18-29": 11456
-  },
+  "release_day": null,
+  "genres": [
+    "biography",
+    "crime",
+    "drama"
+  ],
+  "name": "Kill the Irishman",
+  "release_month": null,
+  "avg_screens": 23.571428571428573,
+  "imdb_user_reviews": [
+    {
+      "user": "NemedyNM",
+      "score": 9,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Very underrated."
+    },
+    {
+      "user": "calico2-1",
+      "score": 9,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "An exciting ride!!"
+    },
+    {
+      "user": "Matt_Layden",
+      "score": 7,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Deserved a bigger budget"
+    },
+    {
+      "user": "tdz-30-144082",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Kill an Irishman- Based on a true story but even that is a half-truth"
+    },
+    {
+      "user": "Hellmant",
+      "score": 7,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "B Movie bad-ass Ray Stevenson  finally given a chance to shine and show his range!"
+    },
+    {
+      "user": "jamfitz001",
+      "score": 6,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Failed Potential"
+    },
+    {
+      "user": "Frederick Smith",
+      "score": 10,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Great cast, great acting, and an absolute must-see for mafia-philes."
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "score": 7,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "True story about the man the mob couldn't kill. Very entertaining and good mafia movie, great cast and acting. I say B"
+    },
+    {
+      "user": "Snaporazz",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "worth seeing just for Walken and Davi"
+    },
+    {
+      "user": "billcr12",
+      "score": 8,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Irish mobster"
+    },
+    {
+      "user": "djderka",
+      "score": 8,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Irishman is iconic tour de force"
+    },
+    {
+      "user": "sykopaf-1",
+      "score": 4,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Authentic setting spoilt by schoolboy errors"
+    },
+    {
+      "user": "Terry Roehrig II",
+      "score": 7,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Very well done gangster flick..."
+    },
+    {
+      "user": "morganmorgan",
+      "score": 3,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "What this movie needs are more cars blowing up."
+    },
+    {
+      "user": "jc-liberatore",
+      "score": 10,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Movie About My Family"
+    },
+    {
+      "user": "mikekozel",
+      "score": 10,
+      "review_date": {
+        "day": 22,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "This is as good as it gets"
+    },
+    {
+      "user": "Prismark10",
+      "score": 4,
+      "review_date": {
+        "day": 24,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Oh Danny boy"
+    },
+    {
+      "user": "Louisvega",
+      "score": 1,
+      "review_date": {
+        "day": 25,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Terrible! Don't waste your time... Like i did."
+    },
+    {
+      "user": "laurenchambers-39022",
+      "score": 4,
+      "review_date": {
+        "day": 22,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Yet another IMDb highly rated flop"
+    },
+    {
+      "user": "hall895",
+      "score": 5,
+      "review_date": {
+        "day": 19,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "An interesting story but a mediocre movie"
+    },
+    {
+      "user": "bowmanblue",
+      "score": 5,
+      "review_date": {
+        "day": 20,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Maybe I missed something?"
+    },
+    {
+      "user": "dworldeater",
+      "score": 8,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Excellent action packed mob movie"
+    },
+    {
+      "user": "Skiplittle",
+      "score": 8,
+      "review_date": {
+        "day": 31,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Cleveland Rocks"
+    },
+    {
+      "user": "emilbarbieri",
+      "score": 7,
+      "review_date": {
+        "day": 28,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Good!"
+    },
+    {
+      "user": "Michael O'Keefe",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Serious turf war in Cleveland. More than Irish luck."
+    },
+    {
+      "user": "theworldisyours_l",
+      "score": 7,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "\"Kill the Irishman\" DVD Review"
+    },
+    {
+      "user": "JohnRayPeterson",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Reality is wilder than fiction"
+    },
+    {
+      "user": "Brian Rokosz",
+      "score": 8,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Underrated mob film only worthy of viewing because of the special features."
+    },
+    {
+      "user": "gavin6942",
+      "score": 8,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Really One of the Better Mob Movies Out There"
+    },
+    {
+      "user": "Sankari_Suomi",
+      "score": 8,
+      "review_date": {
+        "day": 4,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Bulletproof gangster!"
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "good mob movie"
+    },
+    {
+      "user": "Dan1863Sickles",
+      "score": 4,
+      "review_date": {
+        "day": 7,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Titus Pullo Takes On The Mob! (It's The Gangster Equivalent of Terror At Red Wolf Inn)"
+    },
+    {
+      "user": "Tss5078",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078"
+    },
+    {
+      "user": "classicsoncall",
+      "score": 7,
+      "review_date": {
+        "day": 18,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "\"It's gonna take more than a few firecrackers to kill Danny Greene!\""
+    },
+    {
+      "user": "Ivan Dean",
+      "score": 10,
+      "review_date": {
+        "day": 9,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Excellent Biography"
+    },
+    {
+      "user": "LeonLouisRicci",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Fictional Realism"
+    },
+    {
+      "user": "exinator",
+      "score": 7,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Kill the Irishman!!"
+    },
+    {
+      "user": "Dr Slimbo",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Refreshing"
+    },
+    {
+      "user": "MBunge",
+      "score": 5,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Gangster as good guy?  Didn't that go out of fashion with Goodfellas?"
+    },
+    {
+      "user": "greco-rudy",
+      "score": 3,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Garbage"
+    },
+    {
+      "user": "rikskelton138",
+      "score": 1,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Way over rated"
+    },
+    {
+      "user": "Roid01",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Good movie"
+    },
+    {
+      "user": "austing143",
+      "score": 5,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Typical storyline - if it wasn't true it would rate a lot less... worth the watch"
+    },
+    {
+      "user": "Henrik Erlandsson",
+      "score": 2,
+      "review_date": {
+        "day": 26,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "True story told straight set in Dull City"
+    },
+    {
+      "user": "spotlightne",
+      "score": 1,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Dull and disjointed - don't bother"
+    },
+    {
+      "user": " (steve@esrati.com)",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "But it ain't history"
+    },
+    {
+      "user": "BOUF",
+      "score": 3,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Routine biopic on the life of a vicious brute, with no insights, and nothing interesting to say or show."
+    },
+    {
+      "user": "woljm45",
+      "score": 7,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Worth seeing, but it's NOT going to be a Mob Classic"
+    },
+    {
+      "user": "kvishal-u",
+      "score": 6,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Far from a gangster movie!"
+    },
+    {
+      "user": "anna-wielopolska",
+      "score": 9,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "good fun, intelligent, higher than just mid-level!"
+    },
+    {
+      "user": "jgregg42",
+      "score": 6,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "\"Kill the Irishman\" The Ballad of Danny Greene"
+    },
+    {
+      "user": "Ruben Malayan (RubenMalayan)",
+      "score": 3,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "No no"
+    },
+    {
+      "user": "midgetalan",
+      "score": 1,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Worst \"Gangster\" movie I've ever seen!!"
+    },
+    {
+      "user": "chrisrolfny",
+      "score": 6,
+      "review_date": {
+        "day": 1,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Could Have Been A Contender..."
+    },
+    {
+      "user": "BaileyJLee",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Well above-average mobster film , with a great cast."
+    },
+    {
+      "user": "Trentflix",
+      "score": 6,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Blown away by the mediocrity."
+    },
+    {
+      "user": "intelearts",
+      "score": 5,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "My 403rd Review: Surprisingly weaker than the cast and plot would suggest"
+    },
+    {
+      "user": "GoneWithTheTwins",
+      "score": 6,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Kill the Irishman: Clearly trying to be the next Goodfellas."
+    }
+  ],
+  "release_year": null,
+  "max_screens": 56,
+  "screens_by_weekend": [
+    5,
+    21,
+    41,
+    56,
+    52,
+    39,
+    23,
+    30,
+    23,
+    13,
+    12,
+    8,
+    5,
+    2
+  ],
+  "critic_review_count": 80,
+  "num_weekends": 14,
   "closing_date": {
-    "month": 6,
-    "__type__": "datetime.date",
     "day": 24,
-    "year": 2011
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 6
   },
-  "gross_income": 1187711,
+  "opening_weekend_screens": 5,
+  "rating": 7.1,
+  "opening_weekend_income": 145430,
+  "user_review_count": 65,
+  "budget": 12000000,
+  "rating_count": 36445,
+  "metascore": 50,
+  "duration": 106,
   "avg_rating_per_demo": {
     "non-us_users": 7.1,
-    "aged_45+": 7.0,
-    "females_aged_45+": 7.3,
-    "imdb_staff": 4.5,
+    "aged_30-44": 7.1,
+    "top_1000_voters": 6.5,
+    "us_users": 7.1,
     "females_under_18": 7.0,
-    "males_aged_45+": 7.0,
-    "females_aged_18-29": 7.0,
     "males_aged_30-44": 7.1,
     "females": 6.9,
     "imdb_users": 7.1,
-    "us_users": 7.1,
-    "males_under_18": 6.8,
-    "top_1000_voters": 6.5,
-    "aged_under_18": 6.8,
+    "aged_45+": 7.0,
     "males": 7.2,
+    "females_aged_45+": 7.3,
+    "females_aged_18-29": 7.0,
+    "aged_under_18": 6.8,
+    "males_under_18": 6.8,
     "males_aged_18-29": 7.3,
     "females_aged_30-44": 6.8,
-    "aged_30-44": 7.1,
+    "males_aged_45+": 7.0,
+    "imdb_staff": 4.5,
     "aged_18-29": 7.3
   },
-  "opening_weekend_date": {
-    "month": 3,
-    "__type__": "datetime.date",
-    "day": 11,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 22881,
+    "aged_30-44": 17401,
+    "top_1000_voters": 289,
+    "us_users": 5544,
+    "females_under_18": 1,
+    "males_aged_30-44": 16384,
+    "females": 1825,
+    "imdb_users": 36445,
+    "aged_45+": 3933,
+    "males": 31376,
+    "females_aged_45+": 371,
+    "females_aged_18-29": 541,
+    "aged_under_18": 17,
+    "males_under_18": 16,
+    "males_aged_18-29": 10821,
+    "females_aged_30-44": 853,
+    "males_aged_45+": 3499,
+    "imdb_staff": 2,
+    "aged_18-29": 11455
   },
-  "budget_currency": "$",
-  "user_review_count": 65,
-  "metascore": 50,
-  "max_screens": 56,
-  "duration": 106,
-  "rating_count": 36441,
-  "release_day": null,
-  "release_month": null,
-  "release_year": null,
+  "gross_income": 1187711,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 145430,
-  "critic_review_count": 80,
-  "rating": 7.1,
-  "avg_screens": 23.571428571428573,
-  "name": "Kill the Irishman",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 11,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 3
+  }
 }

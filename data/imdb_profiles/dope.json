@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 6,
-    "year": 2015,
-    "day": 19,
-    "__type__": "datetime.date"
+  "release_day": 19,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.7,
+    "top_1000_voters": 6.3,
+    "males_under_18": 7.7,
+    "imdb_staff": 8.1,
+    "males_aged_18-29": 7.4,
+    "imdb_users": 7.3,
+    "males_aged_45+": 6.7,
+    "aged_18-29": 7.4,
+    "us_users": 7.4,
+    "females_aged_30-44": 7.1,
+    "males": 7.2,
+    "females": 7.3,
+    "females_aged_45+": 7.1,
+    "non-us_users": 7.1,
+    "females_aged_18-29": 7.4,
+    "females_under_18": 8.0,
+    "aged_30-44": 7.1,
+    "aged_under_18": 7.7,
+    "males_aged_30-44": 7.1
   },
   "closing_date": {
     "month": 9,
@@ -11,82 +27,1126 @@
     "day": 11,
     "__type__": "datetime.date"
   },
-  "rating": 7.3,
-  "num_weekends": 9,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 712,
-    "2": 326,
-    "3": 547,
-    "4": 1067,
-    "5": 2797,
-    "6": 8273,
-    "7": 19643,
-    "8": 18501,
-    "9": 7004,
-    "10": 5131
-  },
-  "avg_screens": 575.4444444444445,
-  "budget": 7000000,
-  "budget_currency": "$",
-  "release_day": 19,
   "metascore": 72,
+  "num_weekends": 9,
+  "rating_count": 64041,
+  "gross_income": 17474107,
+  "max_screens": 2002,
+  "opening_weekend_screens": 2002,
+  "screens_by_weekend": [
+    2002,
+    1851,
+    863,
+    221,
+    68,
+    38,
+    18,
+    11,
+    107
+  ],
+  "opening_weekend_income": 6100010,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Optimism in a hopeless place",
+      "score": 8,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Promising set up, but after 15 minutes story takes a nose-dive",
+      "score": 4,
+      "user": "peter-stead-740-486963",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Irresistible Fun",
+      "score": 9,
+      "user": "bloodclay",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overrated",
+      "score": 5,
+      "user": "KineticSeoul",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing! Stop using this movie as a Hood for Dummies or Black Culture 101",
+      "score": 4,
+      "user": "Ms.A",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Coming-Of-Age Film!",
+      "score": 9,
+      "user": "Jacob Johnson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Dope\" - come for the comedy, stay for the drama, leave entertained - and thinking.",
+      "score": 7,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very intelligent, funny and a refreshing look at coming-of-age films",
+      "score": 8,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of Dope",
+      "score": 5,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Things Wrapped In A Mediocre Package",
+      "score": 6,
+      "user": "joshvonhousen",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "everything except pacing",
+      "score": 7,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What...is...this",
+      "score": 3,
+      "user": "chasesunning",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Dope at all. It should've been called Mild",
+      "score": 4,
+      "user": "fuzzybootsk3",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is \"Dope\" a black eye for my city?",
+      "score": 6,
+      "user": "Sean T",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yeah, yeah I mean why not, but still meh, I mean COME ON",
+      "score": 7,
+      "user": "achmoye",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "love the kids",
+      "score": 8,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An immensely enjoyable film with lovable characters",
+      "score": 8,
+      "user": "Shane Breen",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Started off Great then took a turn for the worst",
+      "score": 5,
+      "user": "Miss Cantora",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Am I missing something here?",
+      "score": 3,
+      "user": "peelboy1000",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Can You Dig It?",
+      "score": 7,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you don't like it, You will at least enjoy it",
+      "score": 8,
+      "user": "justmosuccess",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A slippery slope... to banality",
+      "score": 5,
+      "user": "Semisonic",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Film",
+      "score": 8,
+      "user": "Brandon Mackenzie",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Starts strong",
+      "score": 6,
+      "user": "jacksonalvey",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movie review on \"Dope\"",
+      "score": 9,
+      "user": "ethanwegner",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fun ride",
+      "score": 8,
+      "user": "peefyn",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Dope, Just Auight.",
+      "score": 6,
+      "user": "2fresh 2clean",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dope - is it really dope?",
+      "score": 8,
+      "user": "Curtis Dayton",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice Lovely Movie. A Must Watch",
+      "score": 10,
+      "user": "johnfalz-73014",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "decent film",
+      "score": 7,
+      "user": "thecrustymonkeysong",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Adjective: Dope; Very Good",
+      "score": 8,
+      "user": "Fallen Eye",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dope Movie",
+      "score": 10,
+      "user": "Kalyan Bk",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So funny as Dope ...",
+      "score": 8,
+      "user": "lrtb-34348",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The surprise hit of 2016",
+      "score": 8,
+      "user": "Objectivity",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dope is less than it should be",
+      "score": 7,
+      "user": "lafrondaindiecinemacritic",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How a geek hustles",
+      "score": 8,
+      "user": "Mhmd_Elgammal",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "was a dope movie",
+      "score": 6,
+      "user": "radaideh",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "7/10",
+      "score": 7,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very enjoyable and entertaining",
+      "score": 9,
+      "user": "851222",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Movie of 2015",
+      "score": 10,
+      "user": "liberalgems",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fresh winds with 80's aroma",
+      "score": 6,
+      "user": "Que no me toque un alto delante",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Outstanding! Universal theme..",
+      "score": 10,
+      "user": " (fvanwyktu)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movies like this don't come along often enough.",
+      "score": 8,
+      "user": "lewiskendell",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It was Dope\"",
+      "score": 10,
+      "user": "Chakhana P",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Any good intentions that the film has are seemingly buried under a clumsy & heavy-handed narrative",
+      "score": 1,
+      "user": "jimbo-53-186511",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yet another teen movie",
+      "score": 1,
+      "user": "Land Ho",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sucked...",
+      "score": 8,
+      "user": "ImInTheater",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dope",
+      "score": 10,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overrated",
+      "score": 6,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No no no. Definitely overrated!",
+      "score": 6,
+      "user": "palavitsinis",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fresh coming-of-age drama is both funny and heartfelt",
+      "score": 7,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews....",
+      "score": 7,
+      "user": "capone666",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film may not connect with you but I liked it",
+      "score": 7,
+      "user": "Mikey Lee Smith",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch it",
+      "score": 9,
+      "user": "ocky88-385-506314",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How not to make a film",
+      "score": 4,
+      "user": "Thomas (filmreviews@web.de)",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Between Dope and Nope",
+      "score": 6,
+      "user": "Dan Harden",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An entertaining blend of comedy, drama, and nostalgia",
+      "score": 7,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overrated, but not without some strong aspects.",
+      "score": 6,
+      "user": "ATEreviews",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Go head, make some noise. Very mild spoilers",
+      "score": 8,
+      "user": "witster18",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "refreshing take on a coming of age in an atypical environment",
+      "score": 7,
+      "user": "pcrprimer",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun and energetic coming of age film",
+      "score": 7,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unconventional,surprises and entertainment at it's best",
+      "score": 9,
+      "user": "Pete Alen",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great action comedy film. Original and intelligent.",
+      "score": 10,
+      "user": "andrew-811-639783",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fun, engaging coming-of-age flick, but the moral is a little too muddled for me",
+      "score": 7,
+      "user": "mollrat101",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's Pretty Dope.",
+      "score": 7,
+      "user": "RebelWithACause94",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cute stoner movie",
+      "score": 8,
+      "user": "shanshan298",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disjointed, but ironically good",
+      "score": 8,
+      "user": "siderite",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely Inspirational",
+      "score": 8,
+      "user": "alexfert28",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not my favorite but worth my time.",
+      "score": 6,
+      "user": "santiagocosme",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dopage",
+      "score": 7,
+      "user": "Michael Radny",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movie was \"DOPE!\"......Pun was intended",
+      "score": 8,
+      "user": "kallenmidnight",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow! Along the lines of Back to the Future... And that's a good thing!",
+      "score": 8,
+      "user": "Jamie Hannah",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's like Superbad, if Superbad was set in Inglewood, which turns out to be a great mix",
+      "score": 8,
+      "user": "Ben Davis",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Film for the \"Now\" Generation",
+      "score": 8,
+      "user": "Catt Jones (cattjones@chixchatonfilm.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dope, ain't that dope",
+      "score": 5,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is STUPID!!",
+      "score": 10,
+      "user": "Erin_Solo",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dope movie review",
+      "score": 7,
+      "user": "traehopkins",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slippery-slope fun",
+      "score": 7,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Straight Outta...Dope!",
+      "score": 7,
+      "user": "loco_73",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Culturally significant, poignantly relevant and remarkably entertaining",
+      "score": 8,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the best of the year",
+      "score": 8,
+      "user": "jacksonibelle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An almost too simple coming of age film with an excellent performance from Shameik Moore.",
+      "score": 7,
+      "user": "trublu215",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Ultra-Accessible Teen Comedy",
+      "score": 9,
+      "user": "bkrauser-81-311064",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Friday meets Scott Pilgrim in the age of Trayvon Martin",
+      "score": 8,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loosely based on the life of a modern figure?",
+      "score": 5,
+      "user": "tenderlovingtony",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great ending saves a pedestrian film",
+      "score": 6,
+      "user": "texshelters",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'DOPE' is sure to become a cult classic!",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is pretty, well.. Dope!",
+      "score": 9,
+      "user": "Kieran Battams",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Off Beat But Good",
+      "score": 6,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wish More Films Were Like This",
+      "score": 9,
+      "user": "nbrimmerbeller",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The title says it all",
+      "score": 8,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dope Movie Review",
+      "score": 1,
+      "user": "Barbara Johnson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dope is this generation's classic...",
+      "score": 8,
+      "user": "blakartist2000",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dope is Dope",
+      "score": 8,
+      "user": "drjgardner",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Getting hooked on a designer drug that causes you to . . .",
+      "score": 7,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 103,
+  "votes_per_demo": {
+    "aged_45+": 2723,
+    "top_1000_voters": 255,
+    "males_under_18": 305,
+    "imdb_staff": 10,
+    "males_aged_18-29": 22927,
+    "imdb_users": 64041,
+    "males_aged_45+": 2268,
+    "aged_18-29": 27799,
+    "us_users": 11391,
+    "females_aged_30-44": 1971,
+    "males": 43907,
+    "females": 7504,
+    "females_aged_45+": 393,
+    "non-us_users": 26559,
+    "females_aged_18-29": 4512,
+    "females_under_18": 79,
+    "aged_30-44": 17895,
+    "aged_under_18": 390,
+    "males_aged_30-44": 15665
+  },
   "genres": [
     "comedy",
     "crime",
     "drama"
   ],
-  "release_month": "June",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.7,
-    "aged_18-29": 7.4,
-    "aged_30-44": 7.1,
-    "females": 7.3,
-    "top_1000_voters": 6.3,
-    "non-us_users": 7.1,
-    "females_under_18": 8.0,
-    "males_aged_30-44": 7.1,
-    "us_users": 7.4,
-    "imdb_users": 7.3,
-    "imdb_staff": 8.1,
-    "males_under_18": 7.7,
-    "females_aged_18-29": 7.4,
-    "males_aged_45+": 6.7,
-    "females_aged_30-44": 7.1,
-    "males": 7.2,
-    "males_aged_18-29": 7.4,
-    "females_aged_45+": 7.1,
-    "aged_under_18": 7.7
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Dope",
-  "gross_income": 17474107,
-  "user_review_count": 99,
-  "duration": 103,
-  "max_screens": 2002,
-  "votes_per_demo": {
-    "aged_45+": 2721,
-    "aged_18-29": 27788,
-    "aged_30-44": 17880,
-    "females": 7497,
-    "top_1000_voters": 255,
-    "non-us_users": 26543,
-    "females_under_18": 79,
-    "males_aged_30-44": 15652,
-    "us_users": 11385,
-    "imdb_users": 64001,
-    "imdb_staff": 10,
-    "males_under_18": 305,
-    "females_aged_18-29": 4508,
-    "males_aged_45+": 2267,
-    "females_aged_30-44": 1969,
-    "males": 43886,
-    "males_aged_18-29": 22920,
-    "females_aged_45+": 392,
-    "aged_under_18": 390
+  "rating_freq": {
+    "1": 712,
+    "2": 326,
+    "3": 548,
+    "4": 1069,
+    "5": 2798,
+    "6": 8277,
+    "7": 19659,
+    "8": 18508,
+    "9": 7010,
+    "10": 5134
   },
-  "rating_count": 64001,
+  "release_month": "June",
+  "budget": 7000000,
+  "budget_currency": "$",
+  "total_screens": 5179,
+  "year": 2015,
+  "rating": 7.3,
   "critic_review_count": 186,
-  "opening_weekend_income": 6100010
+  "opening_weekend_date": {
+    "month": 6,
+    "year": 2015,
+    "day": 19,
+    "__type__": "datetime.date"
+  },
+  "name": "Dope",
+  "user_review_count": 99,
+  "avg_screens": 575.4444444444445
 }

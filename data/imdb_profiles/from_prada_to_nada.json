@@ -1,92 +1,414 @@
 {
-  "genres": [
-    "comedy",
-    "drama",
-    "romance"
-  ],
-  "num_weekends": 8,
+  "budget_currency": null,
+  "total_screens": 1036,
   "rating_freq": {
     "1": 626,
     "2": 476,
     "3": 753,
     "4": 1263,
     "5": 2233,
-    "6": 2430,
+    "6": 2431,
     "7": 1744,
     "8": 1039,
-    "9": 533,
+    "9": 534,
     "10": 1300
   },
-  "budget": null,
-  "votes_per_demo": {
-    "non-us_users": 6633,
-    "aged_45+": 849,
-    "females_aged_45+": 251,
-    "imdb_staff": 1,
-    "females_under_18": 39,
-    "males_aged_45+": 584,
-    "females_aged_18-29": 4345,
-    "males_aged_30-44": 1957,
-    "females": 6572,
-    "imdb_users": 12397,
-    "us_users": 1853,
-    "males_under_18": 8,
-    "top_1000_voters": 130,
-    "aged_under_18": 47,
-    "males": 4285,
-    "males_aged_18-29": 1624,
-    "females_aged_30-44": 1704,
-    "aged_30-44": 3705,
-    "aged_18-29": 6029
-  },
+  "release_day": 28,
+  "genres": [
+    "comedy",
+    "drama",
+    "romance"
+  ],
+  "name": "From Prada to Nada",
+  "release_month": "January",
+  "avg_screens": 129.5,
+  "imdb_user_reviews": [
+    {
+      "user": "Sean Daniel",
+      "score": 8,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "A very real and unique story"
+    },
+    {
+      "user": "buzzbruin",
+      "score": 8,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A warm  funny movie"
+    },
+    {
+      "user": "infinitydevilmachine",
+      "score": 10,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Romance/drama , like it says is what you'll get"
+    },
+    {
+      "user": "sixto-sicilia",
+      "score": 10,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Descent portrayal of Multi-cultural Los Angeles finally hits the screens."
+    },
+    {
+      "user": "abieliza",
+      "score": 10,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Beautiful"
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Lose the Jane Austen expectations and you'll be fine"
+    },
+    {
+      "user": "pravenwood",
+      "score": 4,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Not what I expected"
+    },
+    {
+      "user": "cathie454",
+      "score": 8,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Really fine movie"
+    },
+    {
+      "user": "Coffee_Talk_Girl",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A Riches to Rags Story!"
+    },
+    {
+      "user": "powerfulme",
+      "score": 4,
+      "review_date": {
+        "day": 28,
+        "year": 2017,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Characters and story line are disappointing"
+    },
+    {
+      "user": "niutta-enrico",
+      "score": 10,
+      "review_date": {
+        "day": 2,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "From Prada to Nada: a (more than you could expect) sophisticated comedy."
+    },
+    {
+      "user": "cinemagirl2010",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Solid Knockoff Adaptation of an Austen Classic (better than many)"
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "score": 6,
+      "review_date": {
+        "day": 5,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "A rather nice movie actually..."
+    },
+    {
+      "user": "Nina Marcelino",
+      "score": 6,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Prada Nada"
+    },
+    {
+      "user": "Elizabeth",
+      "score": 5,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "An Unexpected Twist"
+    },
+    {
+      "user": "Wenecca Symon",
+      "score": 9,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Modern Day Masterpiece"
+    },
+    {
+      "user": "jonathanruano",
+      "score": 3,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Nada is all the view is going to get out of this film"
+    },
+    {
+      "user": "IvanaMilicevic",
+      "score": 5,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Already seen it"
+    },
+    {
+      "user": "annevejb",
+      "score": 9,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A fun story,  v1.02"
+    },
+    {
+      "user": "jakayoh",
+      "score": 7,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "my lame attempt at a funny review thanks enjoy!"
+    },
+    {
+      "user": "Argemaluco",
+      "score": 2,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "A genuinely repulsive film"
+    },
+    {
+      "user": "mamayr",
+      "score": 9,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Beautiful and warm movie"
+    },
+    {
+      "user": "Niki Kefala",
+      "score": 4,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "This movies has nothing to do with The Devil Wears Prada!"
+    },
+    {
+      "user": "christaplustwo",
+      "score": 10,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Cute!"
+    },
+    {
+      "user": "neenahhh",
+      "score": 4,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "Research before watching!"
+    },
+    {
+      "user": "Alison Mah",
+      "score": 1,
+      "review_date": {
+        "day": 29,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A cinematic atrocity"
+    },
+    {
+      "user": "Minhal Hussain",
+      "score": 3,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "The so called top rated reviews are misleading"
+    },
+    {
+      "user": "fliphop",
+      "score": 10,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "absolutely beautiful"
+    }
+  ],
+  "release_year": 2011,
+  "max_screens": 261,
+  "screens_by_weekend": [
+    256,
+    261,
+    252,
+    81,
+    35,
+    33,
+    27,
+    91
+  ],
+  "critic_review_count": 27,
+  "num_weekends": 8,
   "closing_date": {
-    "month": 3,
-    "__type__": "datetime.date",
     "day": 25,
-    "year": 2011
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 3
   },
-  "gross_income": 3016244,
+  "opening_weekend_screens": 256,
+  "rating": 5.5,
+  "opening_weekend_income": 1115638,
+  "user_review_count": 31,
+  "budget": null,
+  "rating_count": 12399,
+  "metascore": 39,
+  "duration": 107,
   "avg_rating_per_demo": {
     "non-us_users": 5.4,
-    "aged_45+": 5.4,
-    "females_aged_45+": 5.9,
-    "imdb_staff": 3.0,
+    "aged_30-44": 5.2,
+    "top_1000_voters": 4.5,
+    "us_users": 5.5,
     "females_under_18": 6.4,
-    "males_aged_45+": 5.2,
-    "females_aged_18-29": 5.9,
     "males_aged_30-44": 5.0,
     "females": 5.8,
     "imdb_users": 5.5,
-    "us_users": 5.5,
-    "males_under_18": 5.4,
-    "top_1000_voters": 4.5,
-    "aged_under_18": 6.1,
+    "aged_45+": 5.4,
     "males": 5.2,
+    "females_aged_45+": 5.9,
+    "females_aged_18-29": 5.9,
+    "aged_under_18": 6.1,
+    "males_under_18": 5.4,
     "males_aged_18-29": 5.4,
     "females_aged_30-44": 5.4,
-    "aged_30-44": 5.2,
+    "males_aged_45+": 5.2,
+    "imdb_staff": 3.0,
     "aged_18-29": 5.7
   },
-  "opening_weekend_date": {
-    "month": 1,
-    "__type__": "datetime.date",
-    "day": 28,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 6633,
+    "aged_30-44": 3706,
+    "top_1000_voters": 130,
+    "us_users": 1853,
+    "females_under_18": 39,
+    "males_aged_30-44": 1958,
+    "females": 6573,
+    "imdb_users": 12399,
+    "aged_45+": 849,
+    "males": 4285,
+    "females_aged_45+": 251,
+    "females_aged_18-29": 4345,
+    "aged_under_18": 47,
+    "males_under_18": 8,
+    "males_aged_18-29": 1623,
+    "females_aged_30-44": 1704,
+    "males_aged_45+": 584,
+    "imdb_staff": 1,
+    "aged_18-29": 6028
   },
-  "budget_currency": null,
-  "user_review_count": 31,
-  "metascore": 39,
-  "max_screens": 261,
-  "duration": 107,
-  "rating_count": 12397,
-  "release_day": 28,
-  "release_month": "January",
-  "release_year": 2011,
+  "gross_income": 3016244,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 1115638,
-  "critic_review_count": 27,
-  "rating": 5.5,
-  "avg_screens": 129.5,
-  "name": "From Prada to Nada",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 28,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 1
+  }
 }

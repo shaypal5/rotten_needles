@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 6,
-    "year": 2015,
-    "day": 5,
-    "__type__": "datetime.date"
+  "release_day": 19,
+  "avg_rating_per_demo": {
+    "aged_45+": 7.4,
+    "top_1000_voters": 6.8,
+    "males_under_18": 8.0,
+    "imdb_staff": 7.7,
+    "males_aged_18-29": 7.6,
+    "imdb_users": 7.4,
+    "males_aged_45+": 7.3,
+    "aged_18-29": 7.6,
+    "us_users": 7.6,
+    "females_aged_30-44": 7.3,
+    "males": 7.4,
+    "females": 7.5,
+    "females_aged_45+": 7.6,
+    "non-us_users": 7.2,
+    "females_aged_18-29": 7.5,
+    "females_under_18": 7.8,
+    "aged_30-44": 7.2,
+    "aged_under_18": 7.9,
+    "males_aged_30-44": 7.2
   },
   "closing_date": {
     "month": 9,
@@ -11,82 +27,1294 @@
     "day": 25,
     "__type__": "datetime.date"
   },
-  "rating": 7.4,
-  "num_weekends": 12,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 199,
-    "2": 88,
-    "3": 159,
-    "4": 361,
-    "5": 944,
-    "6": 2988,
-    "7": 7928,
-    "8": 8408,
-    "9": 3333,
-    "10": 1934
-  },
-  "avg_screens": 256.5,
-  "budget": 10000000,
-  "budget_currency": "$",
-  "release_day": 19,
   "metascore": 80,
+  "num_weekends": 12,
+  "rating_count": 26355,
+  "gross_income": 12547189,
+  "max_screens": 791,
+  "opening_weekend_screens": 480,
+  "screens_by_weekend": [
+    480,
+    573,
+    791,
+    728,
+    198,
+    103,
+    62,
+    41,
+    39,
+    31,
+    18,
+    14
+  ],
+  "opening_weekend_income": 2122177,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "\"Love and Mercy\" makes me SMiLE",
+      "score": 10,
+      "user": "nerdgirlism",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Band of Brothers",
+      "score": 10,
+      "user": "zadkine",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A complex, unorthodox and emotionally resonant biopic.",
+      "score": 9,
+      "user": "Brent Hankins",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In My Room",
+      "score": 8,
+      "user": "clarkj-565-161336",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film about the two things we're constantly bound by",
+      "score": 9,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "God Only Knows",
+      "score": 7,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not all sunny at the beach",
+      "score": 9,
+      "user": "printcess64",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "God only knows, this is a must see film",
+      "score": 8,
+      "user": "bob-the-movie-man",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is the best music biopic since Immortal Beloved",
+      "score": 10,
+      "user": "mikeflood50",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have been a great film",
+      "score": 7,
+      "user": "waferworld",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a Let Down",
+      "score": 3,
+      "user": "mazinman-1",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cartoons in primary colors",
+      "score": 5,
+      "user": "rob o'cop",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lord have MERCY, I didn't LOVE it",
+      "score": 1,
+      "user": "dgefroh",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beach Boys Movie (minus the songs)",
+      "score": 6,
+      "user": "GManfred",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Love & Mercy\" is an original, insightful and compelling look at the genius and the struggles of The Beach Boys' Brian Wilson.",
+      "score": 7,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wanted more from this",
+      "score": 7,
+      "user": "kevjfarrell",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cusack is not Brian anybody!",
+      "score": 4,
+      "user": "ameivas",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Is this the worst casting of all time?",
+      "score": 4,
+      "user": "pommy1",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Music and madness",
+      "score": 8,
+      "user": " (gsygsy)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "On the crest of a wave",
+      "score": 4,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "better for Dano to play both",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Dano Soars, Elizabeth Banks Shines, John Cusack Stinks UP The Joint!",
+      "score": 4,
+      "user": "Dan1863Sickles",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful, Gripping, Eerie",
+      "score": 8,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie.  Not a good time at the movies.",
+      "score": 7,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Somewhat Underwhelming",
+      "score": 6,
+      "user": "bloodclay",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dark Movie Line That  Leaves out Much",
+      "score": 6,
+      "user": "mannacio-124-682011",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Characters and Acting, an Interesting Story, but a Little Slow",
+      "score": 8,
+      "user": "SquigglyCrunch",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A missed opportunity",
+      "score": 6,
+      "user": "bbewnylorac",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Average!",
+      "score": 5,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "solemn but inspired",
+      "score": 9,
+      "user": "haleyzban",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Helps You Understand What Happened - and a Great Film Too!",
+      "score": 9,
+      "user": "mitchellandsuzy",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pop History",
+      "score": 8,
+      "user": "Carlo BINGEN",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could be Called the Brian Wilson Journey into Madness",
+      "score": 8,
+      "user": "ligonlaw",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A biopic like no other!",
+      "score": 10,
+      "user": "mabuhay_2000",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Beach Boy's breakdown!",
+      "score": 7,
+      "user": "Michael O'Keefe",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful, tragic and human",
+      "score": 8,
+      "user": "Niklas Pivic",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cusack and Dano both excel in an unorthodox but compelling biopic",
+      "score": 7,
+      "user": "luke-a-mcgowan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beach Boys Love.",
+      "score": 10,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cusack and Giamatti are spectacular, but Dano is AMAZING!!!",
+      "score": 10,
+      "user": "sellingsalem",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "fame and mental illness",
+      "score": 9,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sad and rather creepy...",
+      "score": 9,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heroes And Villains",
+      "score": 8,
+      "user": "SteveResin",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Troubling Trip Inside 1960s Musical Genius",
+      "score": 7,
+      "user": " (g.njoseph@hotmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love & Mercy",
+      "score": 8,
+      "user": "JohnnyWeissmuller",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Stage IV Musical Biopic",
+      "score": 7,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Powerful Story; Great Performances",
+      "score": 9,
+      "user": "chicagogirl-30708",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love & Mercy gives Brian Wilson the dramatic weight and artistic buoyancy his life story deserves.",
+      "score": 8,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brian Sounds",
+      "score": 8,
+      "user": "Jacob Cornblatt",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Troubled Musical Journey",
+      "score": 8,
+      "user": "krocheav",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a Traditional Biopic (Which Is Good) But Not Completely Successful Either",
+      "score": 6,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Long & Boring",
+      "score": 1,
+      "user": "marsh876",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful",
+      "score": 10,
+      "user": "LA Carlson",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Dano shines in innovative and enjoyable biopic of Brian Wilson, Beach Boy wizard",
+      "score": 7,
+      "user": "Turfseer",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bill Pohlad releases the sessions of an icon into a beautiful non-traditional portrait.",
+      "score": 10,
+      "user": "The Cinematic Mind (TheCinematicMind)",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A sensitive portrait of a musical genius",
+      "score": 9,
+      "user": "Movie_Muse_Reviews",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cusack and Dano shine in this unconventional biopic",
+      "score": 7,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fascinating look into the life of Brian Wilson with incredible performances.",
+      "score": 7,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not just one of the better bio-pics of the last few years, this is one of the better movies as well.",
+      "score": 9,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love and Mercy: a brilliantly done telling of a lesser known musical evolution.",
+      "score": 10,
+      "user": "Will Easley",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Eye opening movie!",
+      "score": 9,
+      "user": "santiagocosme",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Had no idea what I was getting into...and was more than pleasantly surprised",
+      "score": 10,
+      "user": "lisamarie7",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Faithful telling of the Brian Wilson story with great performances",
+      "score": 8,
+      "user": "crocolm",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really fascinating to watch!",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not just good vibrations",
+      "score": 8,
+      "user": "Gary Marsh",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you're a Beach Boys fan, you'll want to see this",
+      "score": 8,
+      "user": "MortalKombatFan1",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love & Mercy (2014) ***",
+      "score": 7,
+      "user": "JoeKarlosi",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uncomfortable to sit through ...",
+      "score": 7,
+      "user": "ross-bob",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Giamati deserves an Oscar for this!",
+      "score": 8,
+      "user": "Partnerfrankreich",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Must see!",
+      "score": 10,
+      "user": "Dax Spencer",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the absolute treasures of 2015",
+      "score": 10,
+      "user": "MovieDude1893 (jacob.t.bart@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Innovative and Rewarding Biopic",
+      "score": 9,
+      "user": "Victoria Weisfeld",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superb Brian Wilon bio-pic hits all the right notes",
+      "score": 9,
+      "user": "Paul Allaer",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beached Boy",
+      "score": 6,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than most music bio-pics",
+      "score": 10,
+      "user": "dan-2336",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Walking the Fine Line Between Genius and Insanity",
+      "score": 10,
+      "user": "tonyblass",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I thing John Cusack is great, but not in this movie.",
+      "score": 5,
+      "user": "terrylnewman",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heroes & Villains",
+      "score": 10,
+      "user": "Anthony Iessi",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great look inside the mind of a tortured genius",
+      "score": 8,
+      "user": "grantss",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good vibrations",
+      "score": 8,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An informative and provocative biography type picture of music legend Brian Wilson and his struggles with life, love, and work.",
+      "score": 8,
+      "user": "Danny Blankenship",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Great Music Biopic Portraying the life of Bryan Wilson",
+      "score": 8,
+      "user": "Owen Ogletree",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In the Head of a Genius",
+      "score": 9,
+      "user": "Hitchcoc",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm picking up Good Vibrations......",
+      "score": 9,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great and Dramatic Biopic",
+      "score": 9,
+      "user": "john smith",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a really great movie whether you like the Beach Boys or not",
+      "score": 9,
+      "user": "oscarmendez",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great concept but the storyline didn't flow well. 5/10",
+      "score": 5,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brian Wilson: genius or madman?",
+      "score": 8,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice little deuce coupe of a flick!",
+      "score": 9,
+      "user": "meeza (themeezaman@hotmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Compelling, Groovy, and Fresh (Raging Film Reviews",
+      "score": 8,
+      "user": "scott johnson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Love and Mercy\"--Mostly Good Vibrations",
+      "score": 9,
+      "user": "diana-y-paul",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An excellent film of talent triumphing without super-human powers.",
+      "score": 8,
+      "user": "texshelters",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Beautiful Mind - Dano & Cusack make a DynamicDuo as Brian Wilson; Banks' best work to date",
+      "score": 9,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brian Wilson spends most of his life in a frustrated search for Love & Mercy.",
+      "score": 7,
+      "user": "Reg Grant",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A quartet of impressionable performances strengthens the film's insights and lasting power",
+      "score": 7,
+      "user": "Likes_Ninjas90",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Classic Musical Biography",
+      "score": 10,
+      "user": "aharmas",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beach party on black sand",
+      "score": 7,
+      "user": "olastensson13",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love & Mercy knows how to pick up good vibrations and make itself one of the best music bio stories",
+      "score": 10,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Must See",
+      "score": 10,
+      "user": "Huck_Haines",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm picking up good vibrations",
+      "score": 8,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brian Wilson - Tortured Genus",
+      "score": 8,
+      "user": "mitchco10",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tortured Genius? Maybe. Genius Performance? Absolutely.",
+      "score": 8,
+      "user": "fatref350",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews....",
+      "score": 8,
+      "user": "capone666",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quality biopic about Beach Boys legend Brian Wilson",
+      "score": 8,
+      "user": "Red-Barracuda",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "dumbest movie of the year",
+      "score": 1,
+      "user": "thegrfan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "rock bio can't get much better...",
+      "score": 9,
+      "user": "beauzee",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One Of The Best Bio Flicks I've Ever Seen.",
+      "score": 9,
+      "user": "georgieramone",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bored & Messy",
+      "score": 1,
+      "user": "Rod Critic",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unbelievably BAD",
+      "score": 1,
+      "user": "Kate Cook",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the worst films ever made. \"Man Staring At Pool & Ceiling\"",
+      "score": 1,
+      "user": "Eric Baker",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You Will Not \"Smile.\"",
+      "score": 1,
+      "user": "dotcom-38187",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 121,
+  "votes_per_demo": {
+    "aged_45+": 4202,
+    "top_1000_voters": 262,
+    "males_under_18": 77,
+    "imdb_staff": 6,
+    "males_aged_18-29": 6146,
+    "imdb_users": 26355,
+    "males_aged_45+": 3252,
+    "aged_18-29": 7887,
+    "us_users": 6522,
+    "females_aged_30-44": 1611,
+    "males": 17683,
+    "females": 4383,
+    "females_aged_45+": 874,
+    "non-us_users": 11601,
+    "females_aged_18-29": 1635,
+    "females_under_18": 12,
+    "aged_30-44": 9185,
+    "aged_under_18": 90,
+    "males_aged_30-44": 7448
+  },
   "genres": [
     "biography",
     "drama",
     "music"
   ],
-  "release_month": "June",
-  "avg_rating_per_demo": {
-    "aged_45+": 7.4,
-    "aged_18-29": 7.6,
-    "aged_30-44": 7.2,
-    "females": 7.5,
-    "top_1000_voters": 6.8,
-    "non-us_users": 7.2,
-    "females_under_18": 7.8,
-    "males_aged_30-44": 7.2,
-    "us_users": 7.6,
-    "imdb_users": 7.4,
-    "imdb_staff": 7.7,
-    "males_under_18": 8.0,
-    "females_aged_18-29": 7.5,
-    "males_aged_45+": 7.3,
-    "females_aged_30-44": 7.3,
-    "males": 7.4,
-    "males_aged_18-29": 7.6,
-    "females_aged_45+": 7.6,
-    "aged_under_18": 7.9
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2014,
-  "name": "Love & Mercy",
-  "gross_income": 12547189,
-  "user_review_count": 119,
-  "duration": 121,
-  "max_screens": 791,
-  "votes_per_demo": {
-    "aged_45+": 4200,
-    "aged_18-29": 7883,
-    "aged_30-44": 9181,
-    "females": 4383,
-    "top_1000_voters": 262,
-    "non-us_users": 11597,
-    "females_under_18": 12,
-    "males_aged_30-44": 7444,
-    "us_users": 6517,
-    "imdb_users": 26342,
-    "imdb_staff": 6,
-    "males_under_18": 77,
-    "females_aged_18-29": 1635,
-    "males_aged_45+": 3250,
-    "females_aged_30-44": 1611,
-    "males": 17673,
-    "males_aged_18-29": 6142,
-    "females_aged_45+": 874,
-    "aged_under_18": 90
+  "rating_freq": {
+    "1": 200,
+    "2": 88,
+    "3": 159,
+    "4": 361,
+    "5": 944,
+    "6": 2992,
+    "7": 7935,
+    "8": 8406,
+    "9": 3336,
+    "10": 1934
   },
-  "rating_count": 26342,
+  "release_month": "June",
+  "budget": 10000000,
+  "budget_currency": "$",
+  "total_screens": 3078,
+  "year": 2014,
+  "rating": 7.4,
   "critic_review_count": 263,
-  "opening_weekend_income": 2122177
+  "opening_weekend_date": {
+    "month": 6,
+    "year": 2015,
+    "day": 5,
+    "__type__": "datetime.date"
+  },
+  "name": "Love & Mercy",
+  "user_review_count": 119,
+  "avg_screens": 256.5
 }

@@ -1,92 +1,2761 @@
 {
-  "num_weekends": 12,
-  "duration": 99,
+  "budget": 150000000,
+  "opening_weekend_income": 33457188,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 22,
+    "__type__": "datetime.date",
+    "month": 6
+  },
+  "budget_currency": "$",
+  "avg_screens": 1070.5,
   "rating_freq": {
     "1": 4228,
     "2": 3709,
-    "3": 6990,
-    "4": 14325,
-    "5": 30260,
-    "6": 41928,
-    "7": 29256,
-    "8": 12988,
+    "3": 6991,
+    "4": 14327,
+    "5": 30266,
+    "6": 41934,
+    "7": 29257,
+    "8": 12989,
     "9": 4720,
-    "10": 8941
+    "10": 8942
   },
-  "release_year": 2012,
-  "budget_currency": "$",
-  "rating": 5.8,
-  "release_day": 30,
-  "budget": 150000000,
-  "votes_per_demo": {
-    "us_users": 20381,
-    "imdb_users": 157345,
-    "aged_30-44": 57179,
-    "males": 119622,
-    "males_aged_18-29": 54839,
-    "top_1000_voters": 504,
-    "females_aged_30-44": 6252,
-    "imdb_staff": 8,
-    "females": 16805,
-    "females_aged_45+": 1352,
-    "females_under_18": 45,
-    "aged_under_18": 351,
-    "aged_45+": 10249,
-    "females_aged_18-29": 8272,
-    "non-us_users": 80918,
-    "males_aged_45+": 8709,
-    "males_under_18": 304,
-    "aged_18-29": 63784,
-    "males_aged_30-44": 50163
-  },
-  "metascore": 37,
-  "avg_rating_per_demo": {
-    "us_users": 5.8,
-    "imdb_users": 5.8,
-    "aged_30-44": 5.6,
-    "males": 5.7,
-    "males_aged_18-29": 5.8,
-    "top_1000_voters": 5.3,
-    "females_aged_30-44": 5.9,
-    "imdb_staff": 6.0,
-    "females": 6.0,
-    "females_aged_45+": 6.1,
-    "females_under_18": 6.0,
-    "aged_under_18": 5.7,
-    "aged_45+": 5.8,
-    "females_aged_18-29": 6.0,
-    "non-us_users": 5.7,
-    "males_aged_45+": 5.8,
-    "males_under_18": 5.7,
-    "aged_18-29": 5.9,
-    "males_aged_30-44": 5.6
-  },
-  "rating_count": 157345,
-  "critic_review_count": 310,
-  "opening_weekend_income_currency": "$",
-  "name": "Wrath of the Titans",
-  "user_review_count": 253,
-  "avg_screens": 1070.5,
-  "release_month": "March",
-  "opening_weekend_date": {
-    "day": 30,
-    "month": 3,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "screens_by_weekend": [
+    3545,
+    3102,
+    2502,
+    1572,
+    715,
+    265,
+    360,
+    255,
+    205,
+    150,
+    105,
+    70
+  ],
+  "rating_count": 157363,
+  "total_screens": 12846,
   "max_screens": 3545,
+  "duration": 99,
   "gross_income": 83640426,
+  "metascore": 37,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 504,
+    "imdb_users": 157363,
+    "us_users": 20385,
+    "aged_18-29": 63778,
+    "non-us_users": 80925,
+    "aged_45+": 10252,
+    "aged_30-44": 57193,
+    "males_aged_30-44": 50174,
+    "males_aged_18-29": 54835,
+    "males_aged_45+": 8710,
+    "aged_under_18": 351,
+    "imdb_staff": 8,
+    "males_under_18": 304,
+    "females_aged_30-44": 6255,
+    "females": 16807,
+    "females_under_18": 45,
+    "females_aged_45+": 1354,
+    "males": 119630,
+    "females_aged_18-29": 8270
+  },
+  "user_review_count": 253,
+  "rating": 5.8,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 5.3,
+    "imdb_users": 5.8,
+    "us_users": 5.8,
+    "aged_18-29": 5.9,
+    "non-us_users": 5.7,
+    "aged_45+": 5.8,
+    "aged_30-44": 5.6,
+    "males_aged_30-44": 5.6,
+    "males_aged_18-29": 5.8,
+    "males_aged_45+": 5.8,
+    "aged_under_18": 5.7,
+    "imdb_staff": 6.0,
+    "males_under_18": 5.7,
+    "females_aged_30-44": 5.9,
+    "females": 6.0,
+    "females_under_18": 6.0,
+    "females_aged_45+": 6.1,
+    "males": 5.7,
+    "females_aged_18-29": 6.0
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 30,
+    "__type__": "datetime.date",
+    "month": 3
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "RichardSRussell-1",
+      "contents": "Daddy Complex of the Stereotypes",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Richard Reilly (FFman@comcast.net)",
+      "contents": "Great Visuals, Bad Script",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "khfan250",
+      "contents": "Wrath of the Filmmakers",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "phd_travel",
+      "contents": "Terrible story - the Gods must be spinning on Mount Olympus",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "TheXeroXone",
+      "contents": "Too many clich\u00e9s taken from too many better sources",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "Troy_Campbell",
+      "contents": "Fails to deliver.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "mj_milne-632-458810",
+      "contents": "So bad it will make your eyes bleed.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "moviexclusive",
+      "contents": "A marked improvement from its predecessor, this sequel offers thrilling action sequences but is still let down by a thin plot and weak characters",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "kirk-246",
+      "contents": "You Love it or you Hate it. Simple as that.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "DJRMewzique",
+      "contents": "Another Potential Epic is Yet Another Epic Failure",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "ivo_shandor",
+      "contents": "Uggghhh....",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "wee-steeve93",
+      "contents": "Turn off your brain and you might enjoy",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "Prince AJB",
+      "contents": "Being a Demigod Ain't That Fun",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "tieman64",
+      "contents": "Leave it to Liebesman",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "When the Sequel is Better and Better",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "destroyah25",
+      "contents": "a pleasant surprise",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Pantelis Andreou",
+      "contents": "Just a horrible, lame film",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "You look ten thousand years younger.....",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "brazil-60",
+      "contents": "Why all the hate?",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "drizzetd",
+      "contents": "How low can you go",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Paul TABET",
+      "contents": "Awful : 150M gone to ashes",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Wrath of the Titans",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Sheldon_Cooper_PHD",
+      "contents": "Light years ahead of Clash Of The Titans",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "XweAponX",
+      "contents": "Tougher, Grittier, than CLASH",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Thatguy Withtheface",
+      "contents": "Crash of the Titans",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Jawad Chaudhry",
+      "contents": "3D Special Effects Masterpiece.",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "nair-niranjan7",
+      "contents": "i liked it",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "Leela Pratyush",
+      "contents": "Nice movie with awesome action and graphics",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "micahbosarge",
+      "contents": "There's actually Titans in this film and  they kick ass .  (awsome!!!)",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Mckenzie William Howells",
+      "contents": "Unforgivable",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "Rutegar Strong",
+      "contents": "It is worse than Clash of the Titans",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "zenjunkie",
+      "contents": "Messy, Messy, Messy...",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "jaemiewaters",
+      "contents": "best IMAX 3D movie OK for the kids better than the first",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "Peter Fox",
+      "contents": "butchered mythology and nonsensical dribble",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "kronosomega2012",
+      "contents": "Outstanding",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "reeseslightning",
+      "contents": "Wow. Just...Wow",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "wolveren",
+      "contents": "Not what I was expecting but it should do. A 10 for SFX and Action",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "jpaulson-1",
+      "contents": "Neeson and Finnes must have really needed the money",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "Romal Singh (elromal)",
+      "contents": "The best 3D experience yet and a completion to a tale we've all hoped to find an ending to.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film review: A Titanic smack down.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "adonis98-743-186503",
+      "contents": "Better Than The First Film!!!",
+      "review_date": {
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "dragokin",
+      "contents": "where were we?",
+      "review_date": {
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "Scarecrow-88",
+      "contents": "Wrath of the Titans",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "trashgang",
+      "contents": "bad script, great action",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "buffmovie1",
+      "contents": "Someone please release the Kraken on this movie",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "contents": "Like a purposeless, poorly written video game",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "Matra Mellark",
+      "contents": "Wrath of One Titan",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "JoeB131",
+      "contents": "Actually a better film than the original...",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "Dimitris Zagor",
+      "contents": "One of the worst movies i have ever seen",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "andreas-biehl",
+      "contents": "Great ancient legends made into sausages",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Samiam3",
+      "contents": "A titan of a headache",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "yannickmessaoud",
+      "contents": "God of war where are you",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "CinemaCocoa",
+      "contents": "Just ninety minutes of massive CGI monsters and \"epic\" battles.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "arginnon",
+      "contents": "It's not that bad.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Mike Munky Coatez",
+      "contents": "Wrath if Worthy!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Anurag-Shetty",
+      "contents": "A massive improvement from it's predecessor!",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Pat Choi",
+      "contents": "Just an ordinary part 2",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "fmekhid",
+      "contents": "Quite simple amazing...",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Jim Michaletos",
+      "contents": "Never listen to the critics...",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "\"Wrath\" Tops \"Clash of the Titans\"",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "pepe4u22",
+      "contents": "fun popcorn movie",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "styujio",
+      "contents": "Wrath is better than Clash",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Jin Maruhashi",
+      "contents": "Bland of the Titans",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "hardlyhedda",
+      "contents": "Wrath was no Clash, but Love those Bubo burns!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "kostas167",
+      "contents": "Simple plot but nice visual effects",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "Ryan Eberhart",
+      "contents": "Excellent!",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Kingston Hawke",
+      "contents": "A dumb action film that doesn't know it's a dumb action film...",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "mitrapourmand",
+      "contents": "wrath of the viewers",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "lagudafuad",
+      "contents": "What a waste of time",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "douras",
+      "contents": "Good!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "geodrake-71-627198",
+      "contents": "A horrible sequel unworthy of release.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "Rachel Hyland",
+      "contents": "Oh, dear.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "Vikas SS",
+      "contents": "Ill conceived plot, uninspired acting and direction!",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "antoniomagallon90",
+      "contents": "The Gods are unhappy with this film. One of the Worst Films of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "Cutter Sanchez",
+      "contents": "\"Gods don't die.\"  They do now.\"",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "Abdel Gulabkhan",
+      "contents": "Boring waste of money",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "MidnightMax",
+      "contents": "Wrath of The Titans= new levels of ineptitude...",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "primevalsoup",
+      "contents": "Standard stuff. Not as good as Clash",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Luke Savage",
+      "contents": "Lack of Plot and Imagination",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "morbea",
+      "contents": "Super Crap Of the Titans",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "Beno-17",
+      "contents": "Just Terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "sumacasu2010",
+      "contents": "Worts Movie ever: The movie has mediocre actor's performance, Slow and boring, mediocre Costume Design, I felt like I was watching an old Jesus Christ movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "drunkndasoul",
+      "contents": "Why is there so much bashing?",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "elliott78212",
+      "contents": "Awesome & Popping 3D go see it",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "liveactionman1",
+      "contents": "Gods are like Santa when you stop wishing they DIE!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Pycs",
+      "contents": "Why God? Why?",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Peppermint Twisted",
+      "contents": "Action Packed Sequel - It Is A Little Better",
+      "review_date": {
+        "year": 2017,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Dick Stroker",
+      "contents": "Worst script and dialogue - who green lights this sad heap?",
+      "review_date": {
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "Muhammed (Mhmd_Elgammal)",
+      "contents": "Land of the demons",
+      "review_date": {
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "roelsemail",
+      "contents": "Not THAT bad... but also not THAT great",
+      "review_date": {
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "bfp13108",
+      "contents": "Much better than I thought it would be after reading reviews here",
+      "review_date": {
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "pjbhaumik",
+      "contents": "A Classic Retold",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Wrath of Harryhausen!",
+      "review_date": {
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "James Wood",
+      "contents": "Epic Sequel",
+      "review_date": {
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "David Arnold",
+      "contents": "Really Good, Enjoyable Follow Up To Clash Of The Titans",
+      "review_date": {
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "bowmanblue",
+      "contents": "Land of beards and accents",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "wall-to-wall CGI overwhelms the movie",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "OllieSuave-007",
+      "contents": "Wrath is ordinary.",
+      "review_date": {
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "rizaldi-ilman",
+      "contents": "not really good",
+      "review_date": {
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "Stuart Donovan",
+      "contents": "A very shoddy & ultimately disappointing follow up",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Abdulaziz Ghassan Ghandour",
+      "contents": "Nothing like the Previous Sequels  !",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "mgruebel",
+      "contents": "Wrath over Clash!",
+      "review_date": {
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "g-bodyl",
+      "contents": "Unnecessary But A......Fun Sequel!",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "myrddin1995",
+      "contents": "good movie",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Dalbert Pringle",
+      "contents": "It's A \"Been There/Done That\" Titan-Style Wrath",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "tahaetem",
+      "contents": "Waste of Time !",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "Prismark10",
+      "contents": "Gods and Monsters",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "freemantle_uk",
+      "contents": "A massive improvement upon the original!",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "jrubinthomas",
+      "contents": "Feel the uhh... What the heck?",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "Vlad Topliceanu",
+      "contents": "A sequel which improves the series",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "ironhorse_iv",
+      "contents": "This movie got a lot of wrath from movie goers, but not from me.",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "nama chakravorty",
+      "contents": "Strictly Time-Pass!",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "chaddock-672-313285",
+      "contents": "It was alright",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Connor Ryan",
+      "contents": "This movie gives life to the myth of Perseus while adding new fictional attributes to the myth.",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Dave van der Kuyp",
+      "contents": "Exactly what a story as ridiculous as one involving the Greek Gods needed.",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "p-stepien",
+      "contents": "Louder, bigger, more ludicrous",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "ArthurJimbo",
+      "contents": "Mildly Entertaining",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "clweber-weber",
+      "contents": "It's about the volcanoes, stupid",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Parks",
+      "contents": "What did you expect?",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Ric-7",
+      "contents": "Mything the point",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "corsonb",
+      "contents": "Well done, but disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "lewiskendell",
+      "contents": "A better effort on the second try.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Tristan Hinsley",
+      "contents": "Decent at best.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "zhangyingmath",
+      "contents": "It is OK but I expected more",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": " (ngmilanreese)",
+      "contents": "Stupid.....But FUN!!",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "imagineda",
+      "contents": "Ray Harryhausen was better",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "jacklmauro",
+      "contents": "Next: Therapy of the Titans",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "xtian_durden",
+      "contents": "Let Thy Wrath Be Mine!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "julian-mumford",
+      "contents": "Nobody takes it too seriously, nor should you",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Justin Matthews",
+      "contents": "It was simply okay; nothing more, nothing less",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Pdk3800",
+      "contents": "A huge disappointment for what was expected , but not bad a film",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "jack_face",
+      "contents": "Great special effects. Everything else is \"eh...\"",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "siderite",
+      "contents": "A big disappointment",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "chancey-23",
+      "contents": "I was shocked, it was actually OK",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "eagledriver88",
+      "contents": "The spear of what?",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "contents": "Wrath of the Titans (2012) - 99 Minutes of Boredom!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "nobre2",
+      "contents": "A lot better than Clash!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "manendra-lodhi (manendra.lodhi@gmail.com)",
+      "contents": "Again the same disappointment as the previous one.",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Hands-down better than the previous one",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Gareth Johns",
+      "contents": "A very unepic epic movie...",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "Scott Emery",
+      "contents": "Crash Bang Whallop (Wrath?) of the titans",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "Sergio Campanale",
+      "contents": "Not a great film but better than one would expect given the original",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "kdorsey321",
+      "contents": "Wrath incomplete",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "sgtking",
+      "contents": "Delivers the goods",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "wwillcox561",
+      "contents": "Wrath of the Titans Review",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "WydeOpen",
+      "contents": "Technolo",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Iver Neset",
+      "contents": "Feel the Wrath That Came After the Clash",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "swedzin",
+      "contents": "Again... in abundance of CGI",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "paskie-412-311504",
+      "contents": "If you thought the first movie was bad!!!!........",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Panagiwths Stoupos",
+      "contents": "Waste of things..",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "I have never been into these types of movie but I really liked this. A rare sequel that's better then first. I say B+",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "joshua kit",
+      "contents": "Glitzy, noisy, and dumb",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "SnakesOnAnAfricanPlain",
+      "contents": "Wrath of the Titans (2012)",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "amahlanand",
+      "contents": "Titanic Failure",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "Dominik Schlatter",
+      "contents": "i'm worried about Hollywood in general... or is it me?",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "TheLittleSongbird",
+      "contents": "Uggh!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "WydeOpen",
+      "contents": "Technolo",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "pdlhw",
+      "contents": "An unexciting sequel",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "josarra_95",
+      "contents": "no. definitely not a good one.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "abgkasjlkasjla",
+      "contents": "Nope, this one actually has Titans in it! I think?",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "Really nothing too bad.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "ylnot",
+      "contents": "Good action flick with great CGI",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "cricket10",
+      "contents": "excellent movie",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "jadepietro",
+      "contents": "Wrath of the Moviegoer",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "olliesco",
+      "contents": "A sequel that doesn't quite add up",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "mtzmcrchick111",
+      "contents": "Hollywood must be running out of ideas",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "Peter Hollo",
+      "contents": "Zeus would throw the makers into Tartarus",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "drew_atreides",
+      "contents": "What can i say? I'm a sucker for Greek Mythology...",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "bennsid",
+      "contents": "A 3D Spectacle filled with amazing action sequences thats the only reason u should go for this movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Austin Takahashi",
+      "contents": "Wrath of the Titans - 1.5 Stars",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "mungflesh",
+      "contents": "Better than the first but barely worth watching",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "Raghav Gupta",
+      "contents": "The summer has begun",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "deltafire1972",
+      "contents": "Medusa's revenge: A decapitated action packed thriller.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "thesar-2",
+      "contents": "Laugh at the Titans",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "Mek Torres",
+      "contents": "Lifeless Explosions",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "pozzible",
+      "contents": "Worthy of a good time",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "BluRayChase",
+      "contents": "Well....Ummm....The Battles Were Cool",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "tommy caldwell",
+      "contents": "Lame, i expected a lot more",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "asimmy1234",
+      "contents": "Don't go and see",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "Gareth Critchfield",
+      "contents": "awful tripe",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "Spikeopath",
+      "contents": "Feel that wrath, err, where?",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "jmberkland",
+      "contents": "Better than its rating",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "ersinkdotcom",
+      "contents": "'Wrath of the Titans' surpasses its predecessor and offers a fresh story",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Sean Jump",
+      "contents": "Return of the Titans",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "This movie was spectacular...",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "habib_khodadad",
+      "contents": "What you expect from a high-budget action movie with lots to prove",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Wrath of the audience",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "gigione80",
+      "contents": "No decent plot, ill conceived special effects and disappointing acting...",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "Hellmant",
+      "contents": "The Wrath of the Boring Filmmaker!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "rrr303",
+      "contents": "Only good giant",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "mmcca286",
+      "contents": "Should have been another movie",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "Guy Jeffries",
+      "contents": "Wrath of The Review: ONLY FOR THOSE WHO HAVE SEEN IT!",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "martinrobertson300482",
+      "contents": "Totally un-necessary, and random movie",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "edwbur",
+      "contents": "better than the first. but thats not much of an improvement",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "Wrath of the Headches",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "caseymoviemania",
+      "contents": "Casey's Movie Mania: WRATH OF THE TITANS (2012) Review",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Faith Jarrell",
+      "contents": "Could Have Been....Should Have Been....Better",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "A little better than Clash, but still not great.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Rehash Critics",
+      "contents": "Bigger, Stronger, Faster Doesn't Equal Amazing",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "zetes",
+      "contents": "Utterly forgettable, though slightly more tolerable than the first one",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "chaz-28",
+      "contents": "The Titans have daddy issues and humanity pays the price",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "contents": "Middling sequel to the big-budget CGI remake of the sci-fi/fantasy cult classic",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "thefish101755",
+      "contents": "Not even the CGI is entertaining...",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "nikdo77",
+      "contents": "Greek Mythology played without passion",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "reloadandrevolt",
+      "contents": "Well paced, good action!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Niku H.",
+      "contents": "something wrong, but cool :) --SPOILERS, i hope MINOR SPOILERS",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Hollywoodrulez",
+      "contents": "A visual masterpiece",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "paperback_wizard",
+      "contents": "All Plot, No Characters",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Beatrice McClearn",
+      "contents": "Nothing special.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "cat420",
+      "contents": "very poor plot.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "beinganoopsethu",
+      "contents": "Unexpectedly good...",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "ticket_for_one",
+      "contents": "Wrath of the Titans removes any memory of the hideous first film.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "wolverinejmc",
+      "contents": "Oh dear, here comes the yawn.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "zterrell",
+      "contents": "All action...I think??",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "Kate Redman",
+      "contents": "Good 3D & SFX... Godawfull mix of accents",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "Don Don",
+      "contents": "An Utter Disappointment",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "dorothewatcher",
+      "contents": "Sci Fi Channel is missing a movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "david-sarkies",
+      "contents": "Watchable, Enjoyable, but not really necessary",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "ian-edmonds",
+      "contents": "My name is Gerald Marshall",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Victor Yamaguchi",
+      "contents": "Better than the first one, but don't expect anything extraordinary",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "Now We Know What Happens When Gods Die",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "nigelmartin7",
+      "contents": "Seen the movie on a paid preview last night",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "peter-sweeney",
+      "contents": "Belter",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "mishoboy83",
+      "contents": "really shitty!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "Dane Parkes",
+      "contents": "A hell of a good time",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Hassan_Scarborough",
+      "contents": "Great Action, a good two hour of mind candy nothing more.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "nobelbd7",
+      "contents": "Why hunger games not wrath of the titans......",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "A quite pleasant surprise",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Amol Patil Chikatgaonkar",
+      "contents": "One Sequel that Surpasses the Original.Must Watch in 3D.Far Far Better than \"THE HUNGER GAMES\"",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "unemployedvirgin",
+      "contents": "it was good but i wanted MORE",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "BigWhiskers",
+      "contents": "Basically Waterworld of The Gods",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "3xHCCH",
+      "contents": "Way Better Than the First One",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Wrath or Clash?  Only one can win...",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "moby1974 (moby1974@hotmail.com)",
+      "contents": "Does what it says on the tin",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "rgkarim",
+      "contents": "Should you see the Wrath",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "doomas10",
+      "contents": "feel the wrath of the spectacle",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "tallmat",
+      "contents": "Evangelical/Zionist Hollywood doesn't like Antiquity.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "mitcherator777",
+      "contents": "Great movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "filmfanatic43",
+      "contents": "All Style and No Substance",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "Will Jeffery",
+      "contents": "Why can't they just leave the original alone.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "GoneWithTheTwins",
+      "contents": "The computer graphics are definitely more impressive this second time around.",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    }
+  ],
+  "release_month": "March",
   "genres": [
     "action",
     "adventure",
     "fantasy"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 22,
-    "month": 6,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 33457188
+  "opening_weekend_screens": 3545,
+  "name": "Wrath of the Titans",
+  "num_weekends": 12,
+  "release_day": 30,
+  "critic_review_count": 310
 }

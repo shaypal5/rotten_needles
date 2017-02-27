@@ -1,92 +1,3818 @@
 {
-  "num_weekends": 24,
-  "duration": 101,
+  "budget": 165000000,
+  "opening_weekend_income": 49038712,
+  "year": 2012,
+  "closing_date": {
+    "year": 2013,
+    "day": 26,
+    "__type__": "datetime.date",
+    "month": 4
+  },
+  "budget_currency": "$",
+  "avg_screens": 1245.0416666666667,
   "rating_freq": {
     "1": 1185,
     "2": 669,
     "3": 1142,
     "4": 2596,
-    "5": 7377,
-    "6": 23801,
-    "7": 65202,
-    "8": 93157,
-    "9": 48941,
-    "10": 41089
+    "5": 7378,
+    "6": 23807,
+    "7": 65213,
+    "8": 93176,
+    "9": 48943,
+    "10": 41092
   },
-  "release_year": 2012,
-  "budget_currency": "$",
-  "rating": 7.8,
-  "release_day": 2,
-  "budget": 165000000,
-  "votes_per_demo": {
-    "us_users": 43684,
-    "imdb_users": 285159,
-    "aged_30-44": 85788,
-    "males": 186089,
-    "males_aged_18-29": 90612,
-    "top_1000_voters": 614,
-    "females_aged_30-44": 13348,
-    "imdb_staff": 33,
-    "females": 48856,
-    "females_aged_45+": 1986,
-    "females_under_18": 505,
-    "aged_under_18": 1794,
-    "aged_45+": 12906,
-    "females_aged_18-29": 28724,
-    "non-us_users": 126445,
-    "males_aged_45+": 10694,
-    "males_under_18": 1273,
-    "aged_18-29": 120552,
-    "males_aged_30-44": 71227
-  },
-  "metascore": 72,
-  "avg_rating_per_demo": {
-    "us_users": 7.9,
-    "imdb_users": 7.8,
-    "aged_30-44": 7.6,
-    "males": 7.7,
-    "males_aged_18-29": 7.9,
-    "top_1000_voters": 7.1,
-    "females_aged_30-44": 7.7,
-    "imdb_staff": 7.5,
-    "females": 7.8,
-    "females_aged_45+": 7.5,
-    "females_under_18": 8.1,
-    "aged_under_18": 7.9,
-    "aged_45+": 7.4,
-    "females_aged_18-29": 7.9,
-    "non-us_users": 7.6,
-    "males_aged_45+": 7.4,
-    "males_under_18": 7.9,
-    "aged_18-29": 7.9,
-    "males_aged_30-44": 7.6
-  },
-  "rating_count": 285159,
-  "critic_review_count": 378,
-  "opening_weekend_income_currency": "$",
-  "name": "Wreck-It Ralph",
-  "user_review_count": 351,
-  "avg_screens": 1245.0416666666667,
-  "release_month": "November",
-  "opening_weekend_date": {
-    "day": 2,
-    "month": 11,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "screens_by_weekend": [
+    3752,
+    3752,
+    3622,
+    3259,
+    3087,
+    2746,
+    2249,
+    1444,
+    709,
+    476,
+    588,
+    660,
+    757,
+    506,
+    402,
+    352,
+    314,
+    277,
+    238,
+    207,
+    156,
+    134,
+    114,
+    80
+  ],
+  "rating_count": 285201,
+  "total_screens": 29881,
   "max_screens": 3752,
+  "duration": 101,
   "gross_income": 189412677,
+  "metascore": 72,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 614,
+    "imdb_users": 285201,
+    "us_users": 43689,
+    "aged_18-29": 120551,
+    "non-us_users": 126461,
+    "aged_45+": 12910,
+    "aged_30-44": 85807,
+    "males_aged_30-44": 71239,
+    "males_aged_18-29": 90611,
+    "males_aged_45+": 10698,
+    "aged_under_18": 1794,
+    "imdb_staff": 33,
+    "males_under_18": 1273,
+    "females_aged_30-44": 13355,
+    "females": 48862,
+    "females_under_18": 505,
+    "females_aged_45+": 1986,
+    "males": 186106,
+    "females_aged_18-29": 28723
+  },
+  "user_review_count": 351,
+  "rating": 7.8,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 7.1,
+    "imdb_users": 7.8,
+    "us_users": 7.9,
+    "aged_18-29": 7.9,
+    "non-us_users": 7.6,
+    "aged_45+": 7.4,
+    "aged_30-44": 7.6,
+    "males_aged_30-44": 7.6,
+    "males_aged_18-29": 7.9,
+    "males_aged_45+": 7.4,
+    "aged_under_18": 7.9,
+    "imdb_staff": 7.5,
+    "males_under_18": 7.9,
+    "females_aged_30-44": 7.7,
+    "females": 7.8,
+    "females_under_18": 8.1,
+    "females_aged_45+": 7.5,
+    "males": 7.7,
+    "females_aged_18-29": 7.9
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 2,
+    "__type__": "datetime.date",
+    "month": 11
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "Drew St. Pierre",
+      "contents": "BRILLIANT! The best animated film of the year!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "jediguitarguy",
+      "contents": "Even better than I hoped....",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "peteer01",
+      "contents": "Even better than I'd hoped",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Sean Anderson",
+      "contents": "By far one of their greatest work in quite some time",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "rickystickyman",
+      "contents": "A lot better than expected, and made for gamers",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "manuscriptna",
+      "contents": "A wonderful, nostalgic, and artful cinematic experience~",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Mek Torres",
+      "contents": "Virtual Joys",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Joshua Mitchell",
+      "contents": "Familiar, But So Much Fun",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "ChristianUnchained",
+      "contents": "A New Classic",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "misterembryo",
+      "contents": "Disney headed in the right di-WRECK-tion!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Lyra-gp",
+      "contents": "Wreck me Ralph, please!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "gregeichelberger",
+      "contents": "Games people play: 'Wreck-It' is a nostalgically fun look back",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "TheLittleSongbird",
+      "contents": "Best animated film of 2012? Absolutely!",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "cadurocha2",
+      "contents": "Friendship and true values are the background: simply wonderful!",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Taylor Starr",
+      "contents": "Funniest Disney film ever",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "The Sweetest Arcade Villain",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "muppet-baby",
+      "contents": "The Best Disney Movie Yet!",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "cowdumper1378",
+      "contents": "Rich Moore Brings The Gamer Out In All Of Us",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "MsMovie",
+      "contents": "So much fun for all ages - great family movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "diac228 (diac1987@netscape.net)",
+      "contents": "Fresh Story full of Familiar Flavor, Wreck-It Ralph is nostalgically entertaining",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "nick-laslett",
+      "contents": "Better than Toy Story!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "eddiez61",
+      "contents": "A Visual Feast with a Generous Helping of Clever Wit and a Big Scoop of Genuine Heart",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "suzie_994",
+      "contents": "Absolutely Incredible and Amazing",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "PopCulturedwithMovieMike",
+      "contents": "A nostalgic trip through my childhood.",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "younagendra",
+      "contents": "Best & Beautiful Animated Movie Ever..!!!",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "thekarmicnomad",
+      "contents": "I liked it more than the kids",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Matt Rogers",
+      "contents": "Does not disappoint",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "kerangador",
+      "contents": "Loved it",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Sophia Kim",
+      "contents": "Disney's new hero is a retro \"bad-guy\"",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "3xHCCH",
+      "contents": "\"Monsters Inc.\" Set In a Video Game World",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "caseymoviemania",
+      "contents": "Casey's Movie Mania: WRECK-IT RALPH (2012)",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "marcvalenzuela",
+      "contents": "Full-Blown Video Game Nostalgia!",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "I B",
+      "contents": "Wreck-It Ralph is a familiar story for children, but it's still a colorful adventure film.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "steve-283-633923",
+      "contents": "Awesome to the Core!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Jangobadass",
+      "contents": "Best. Video Game Movie. Ever!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "thenthbluestar",
+      "contents": "It's an Enjoyable Film",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "dalydj-918-255175",
+      "contents": "Wreck-It-Ralph is a sweet and heart felt movie about arcade games",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "prashanta_guha",
+      "contents": "Disney gets it right!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "snakagawa808",
+      "contents": "Surprisingly well done!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Jacksoncollins",
+      "contents": "Fun for all ages",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "dimensional_powerx",
+      "contents": "The Nicest of all the surprises",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "bdgill12",
+      "contents": "Perfect Mix of Disney and Pixar",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "the_grand_lebowski",
+      "contents": "Wreck-It Ralph: A Villain's Destructive Path to Heroism",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "MovieLoverHannah",
+      "contents": "I thought this was going to be good... but WOW",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "flblueeyedboy",
+      "contents": "A color-coordinated and sugary masterpiece!",
+      "review_date": {
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Tom147",
+      "contents": "A wonderful animated film",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Francis Manoj Fernando",
+      "contents": "This is one of the best animation movies I ever watched.. really recommend anyone to watch it",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Ketan Gupta",
+      "contents": "Watch Wreck-it-Ralph for stunning graphics , hilarious moments and fun-loving characters",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Blair McMillan",
+      "contents": "I enjoyed being hit in the face with this nostalgia wand of a film",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Troy_Campbell",
+      "contents": "A terrific Xmas treat for the whole family.",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "illbebackreviews",
+      "contents": "Perhaps the best animation film I've seen this year",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "Andrew Pelechaty",
+      "contents": "Enjoyable trip into the world of video games",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "Matt_Layden",
+      "contents": "The Best Animated Film of the year",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "tavm",
+      "contents": "Wreck-It Ralph was another enjoyable Walt Disney computer-animated feature",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "arnold kumar (TheConnoisseurReviews)",
+      "contents": "\"Wreck-It Ralph\" Review",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Kyle DEVAST8R",
+      "contents": "Super awesome",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Philip Wing",
+      "contents": "Wonderful Movie for PG Family Members",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Graham Abraham",
+      "contents": "A Cartoon That Depicts the Video Game Industry",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "KoreanPenguin",
+      "contents": "Wrecking my little heart.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "\"My name is Ralph and I'm a bad guy\"",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "hellraiser7",
+      "contents": "Game Master",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Dylanbeybladerchampion",
+      "contents": "Best Disney Movie of the 2000s",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Tigran Og.",
+      "contents": "I hope this isn't end.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "rgkarim",
+      "contents": "Wreck on Ralph, Wreck On!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "David Arnold",
+      "contents": "Another Superb Disney Animation",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "eragonbookfan",
+      "contents": "\"Wreck-It Ralph\" smashes \"Brave\" to pieces!!",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "Robert Porter",
+      "contents": "Enter Coin - Press START!",
+      "review_date": {
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "freemantle_uk",
+      "contents": "I loved it",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "wge1954",
+      "contents": "More complex than you would expect",
+      "review_date": {
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "jenn-waddington01",
+      "contents": "Wreck It Ralph",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "atlasmb",
+      "contents": "Animation At Its Best!",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "g-bodyl",
+      "contents": "Probably the Best Animated Film of 2012!",
+      "review_date": {
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "metalman50",
+      "contents": "A Masterpiece!! And, in my eyes, the Best Disney Movie EVER,\u0085by far!",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "cheerman1991",
+      "contents": "Amazing Animated Feature",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Rohit Upreti",
+      "contents": "Great Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Sid Movies",
+      "contents": "Fun for the whole family! Very enjoyable :)",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "akash_sebastian",
+      "contents": "An incredible Journey, Filled With Joyful Nostalgia!",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "jljacobi",
+      "contents": "Lots of heart",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Hollywood_Yoda",
+      "contents": "Disney Magic Still Alive",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "mikeymcdo",
+      "contents": "Ralph Rules!!",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "sakalakavallavan",
+      "contents": "Got robbed of the academy award for animated feature by Brave(That was cowardly by the academy)",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Jacob Jefferson (jjgooner@yahoo.co.uk)",
+      "contents": "Fun and Well-Animated",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Noel Barton (nrbarton@hotmail.com)",
+      "contents": "'Wreck it Ralph' is almost as good as Pixar's finest",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "quincytheodore",
+      "contents": "A sincere tribute to video games and genuinely heartwarming animation",
+      "review_date": {
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Firdaus Atlas",
+      "contents": "Emotional journey of an amazing delicious movie.",
+      "review_date": {
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "rajatdahiyax",
+      "contents": "Games too have feelings!!!!!",
+      "review_date": {
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "arthera09",
+      "contents": "Enjoyable fun film",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "KalKenobi83",
+      "contents": "A Tribute to Gaming and a Heartfelt Story!",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Twirlerena",
+      "contents": "A very memorable and awesome movie!",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Benjamin Black",
+      "contents": "I'm So Glad That I Was Wrong About this Film.",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "smilefumble",
+      "contents": "A \"modern\" Disney classic",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "John Panagopoulos (japamo@hotmail.com)",
+      "contents": "A Left-Out \"Lummox\" Learns About His Place in the (Video) Universe and What a \"Hero's Duty\" Really Means in \"Wreck-It Ralph\",",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "starlimitz2",
+      "contents": "Gamer Warning: Mind could be Blown",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "nonprofitgnome1",
+      "contents": "A Solid Entry by Disney",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "diadectes58",
+      "contents": "It has a bit of everything",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Freak Idiot",
+      "contents": "A triumph",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Kody Buffett-Wilson",
+      "contents": "This Film Wrecks a Path to Your Heart",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Left-Handed_Liz",
+      "contents": "\"The kids call me retro, which I think means 'old, but cool.'\"",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "alexstinks",
+      "contents": "Exactly what to expect from a Disney movie - PERFECTION!",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Enormously entertaining",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Travis Schwantz",
+      "contents": "Wreck It Ralph",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Thanh Tam Trinh",
+      "contents": "Not only for gamers but everyone",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "KieronJT",
+      "contents": "Milk my duds, Wreck-It Ralph is brilliant",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "thesar-2",
+      "contents": "Wreck-It Shrek",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "awsome guy",
+      "contents": "One of the best Disney movies ever",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "MGaceman",
+      "contents": "A videogaming movie done right!",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Nafis Shahriyar",
+      "contents": "An amazing Disney production that seems to have slightly smart touch of Pixar :p",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "gavin6942",
+      "contents": "Best Animated Feature of 2012?",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "thecaliforniadreamer",
+      "contents": "An Incredible Surprise",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "David Robertson",
+      "contents": "A fantastic film!!",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Christian Tsoutsouvas",
+      "contents": "Not exactly a must-see, but the best thing to see with the little ones",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Lele (rvalente@iol.it)",
+      "contents": "Global entertainment for all ages",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "monkeyboy12121-414-225890",
+      "contents": "Classic!",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "coiffuremixte",
+      "contents": "heart in the right place (hands off Mr. Zombie!)",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "noitocho2000",
+      "contents": "frostman reviews: the best animation of the year!",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "Asad Shahzad (asad99shahzad@gmail.com)",
+      "contents": "Best Animation of the year.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "coastdaze",
+      "contents": "I'm not a gamer...",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "DjMethod",
+      "contents": "There's no one I'd rather be than me",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "anthony-rigoni",
+      "contents": "What do I think of this movie....?",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "contents": "Fun-tastic Disney :Takes animated family fare to the next level! One of the year's best films and surprises.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Ben Z",
+      "contents": "I cried hard over this amazing movie",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Taylor Mefford (hrrypttr5678)",
+      "contents": "AWESOME! This film was mistaken as a Pixar film many, many times...which just goes to show, it's THAT good!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "linkwpc_99",
+      "contents": "Great Movie! Better then I thought!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "michael11391",
+      "contents": "One of the most adorable & enjoyable animated flicks to come along in a long time.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "What Toy Story was to toys, Wreck-It Ralph is to video games.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "otterprods",
+      "contents": "Brilliant casting, cleverly imagined world",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "richieandsam",
+      "contents": "Another great Disney film. I loved it.",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "bayardhiler",
+      "contents": "It's What An Animated Film Is Supposed To Be",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "Absolutely ridiculously adorable",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "demonoverlord",
+      "contents": "we need more movies like this",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "reviewerofmovies",
+      "contents": "How can I put this? THE MOST AWESOMEST FILM OF 2012!",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Tejas Nair",
+      "contents": "A Visual Treat!",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "ironhorse_iv",
+      "contents": "Game on! Taking on life one game at a time.",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Wendysbrian",
+      "contents": "If you loved Toy Story & Finding Nemo...",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "Best Animated Film of 2012",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "mattkratz (themattk@hotmail.com)",
+      "contents": "outstanding",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "maarvarq-1",
+      "contents": "My smile muscles hurt by the end",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "griffolyon12",
+      "contents": "Go Now and See, \"Wreck-It Ralph\"",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Avid Climber",
+      "contents": "Wreck-It Ralph \u0097 Video games have a life of their own, you know",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "xamtaro",
+      "contents": "Watch-It Now",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Wreck-It Ralph",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "FilmFanatic03",
+      "contents": "An arcade version of \"Toy Story\" (1995)",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "kdnor2011",
+      "contents": "The Best Animated Movie of the Year",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "tomdude0",
+      "contents": "Hilarious and filled with genuine emotion",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "sonicfan5715",
+      "contents": "Animated Brilliance",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "yeasyoustedog",
+      "contents": "A very refreshing animated film with an imaginative and well implemented concept.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "contents": "Pixar who? 'Ralph' is one of the most creative and witty animated films in years",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "pinkled5",
+      "contents": "Wreck-It Ralph isn't just a home run, it's a grand slam!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "cleanplayer",
+      "contents": "The Best Video game Movie Ever Made",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "clark44",
+      "contents": "Pure Video Game Magic",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "CosmoBrown",
+      "contents": "Time for a reality check",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "ixiod",
+      "contents": "Wrecked by selfish and unlikeable characters.",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "A_Different_Drummer",
+      "contents": "\"The selfish man is like a mangy dog chasing a cautionary tale\" (dialog)",
+      "review_date": {
+        "year": 2017,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "contents": "Have you got time to Wrecktify all the things that you should...",
+      "review_date": {
+        "year": 2017,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "MovieLord23",
+      "contents": "Great video game based movie that could be the best one we could have ever",
+      "review_date": {
+        "year": 2017,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Jack Venturo",
+      "contents": "Three point of view review.",
+      "review_date": {
+        "year": 2017,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "troublesometasha13",
+      "contents": "Disneys forgotten diamond - absolutely brilliant!",
+      "review_date": {
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Jessi (battlestar_pilot)",
+      "contents": "A wonderful piece of filmmaking both to look at and experience.  Love it!",
+      "review_date": {
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "hikerhetav (hetavb@rocketmail.com)",
+      "contents": "Are you bad enough to be called a bad guy? You just need a pal to call you nice",
+      "review_date": {
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "carol movie",
+      "contents": "Wonderful",
+      "review_date": {
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "datautisticgamer-74853",
+      "contents": "As lackadaisical as my experiences watching it were, it's easily the best film based on a video game so far",
+      "review_date": {
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Davis P",
+      "contents": "Great cute fun!",
+      "review_date": {
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "MrChunks",
+      "contents": "Disney \"fixed it\" and made a great",
+      "review_date": {
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Mellow Online1",
+      "contents": "Animated movie of the year",
+      "review_date": {
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "jgoldsmith-90038",
+      "contents": "Whats not to love?",
+      "review_date": {
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Wreck-It Silverman",
+      "review_date": {
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "oaktyler",
+      "contents": "Possible sequel",
+      "review_date": {
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "Irishmoviereviewer",
+      "contents": "Good for video game lovers!",
+      "review_date": {
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "ashrafsalah31",
+      "contents": "Nice cool classic",
+      "review_date": {
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Leah J. Belanger",
+      "contents": "I enjoy to see this movie",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "bcheng93",
+      "contents": "forget about how good the movie is...it teaches kids that everybody is different and special and to be comfortable in your own shoes",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Regine Gregersen",
+      "contents": "Way better than expected!!!",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Wilfredo Luciano",
+      "contents": "Level Up with Wreak-It Ralph",
+      "review_date": {
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "lyy1992",
+      "contents": "This is more than a game!",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "grantss",
+      "contents": "Original movie, and not just for kids",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "The_Light_Triton (Black_triton14@hotmail.com)",
+      "contents": "A movie about video games...But this one's a good one!",
+      "review_date": {
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Peter Hayes",
+      "contents": "Cobbled-together clich\u00e9-following script, but very entertaining nevertheless.",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Movie Lover",
+      "contents": "Loved it!",
+      "review_date": {
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Shawn Watson",
+      "contents": "Not Wiggum",
+      "review_date": {
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "fawn_jane",
+      "contents": "Standard Disney Fare",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Stompgal_87",
+      "contents": "The best computer game-themed animated film since 'Scooby Doo and the Cyber Chase', although not Disney's finest",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "DragonsDied",
+      "contents": "This Movie Is A Wrecker! :)",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Angels_Review",
+      "contents": "Fun and entertaining, great for the whole family!",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "badoli",
+      "contents": "It's a good movie.",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "rbn_lrk-1",
+      "contents": "Wrecking Ball",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "JolinKnight",
+      "contents": "It's not only a game any more",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "plex",
+      "contents": "Best animated feature film of 2012",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Good animation, Great story",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Rich Wright",
+      "contents": "Loved it...",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "digitalbeachbum",
+      "contents": "A kid movie, with some adult jokes",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Not a wreck at all",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "CheLyl",
+      "contents": "Disney made it once again",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "thisglimpse-1",
+      "contents": "Layered exposition makes this a great film",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "good-decision",
+      "contents": "My first ever 10/10 movie!",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "hani_78696",
+      "contents": "Splendid visuals and graphics with a winning story",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Yuzhe Tang",
+      "contents": "so true in that it reflects how the reality works (warning spoilers)",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "hanfrenzy",
+      "contents": "Enjoyable movie for all ages",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Jacob Ford",
+      "contents": "Wreck-It Ralph: . . . Meh.",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "jfgibson73",
+      "contents": "Tribute to Classic Video Games",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "helderuto",
+      "contents": "Continue!",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "Andrew Dubowitz",
+      "contents": "bright, colorful, imaginative and creative",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Marcus James",
+      "contents": "I actually stayed awake... and it wasn't bad.",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "aureagallardo",
+      "contents": "A contemporary tale about the magical world of video games, mischief, sacrifice, and unwavering hope. A film for the young and the young at heart",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "livyatnair",
+      "contents": "A different theme for an animation movie",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Dan Franzen (dfranzen70)",
+      "contents": "The princess is in this castle",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Roland Jakobsson (rolandddd)",
+      "contents": "Oh the wonderful nostalgia",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "mcfjr42",
+      "contents": "Disney Has Done it Again!",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "damittaja",
+      "contents": "An excellent movie for kids and adults alike",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "Teddy69666",
+      "contents": "\"I am bad and that's good. I will never be good and that's not bad\"",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "Jonny 99",
+      "contents": "Like Pixar used to make",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "OrionSiriusSagan",
+      "contents": "This movie was funny.",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "celluvoid",
+      "contents": "Grown ups will enjoy it too!",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Murli",
+      "contents": "Absolutely brilliant, absolutely must see and must own!",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "ersinkdotcom",
+      "contents": "\"Wreck-It Ralph\" will appeal to gamers but might lose steam with other viewers",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "neopol313",
+      "contents": "Wish it had been made by Pixar...",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "My_Opinion-245-920801",
+      "contents": "Wildly Entertaining",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Cameron Channing",
+      "contents": "A film like no other!",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "ralph25911",
+      "contents": "What a movie!",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Bharat Samra",
+      "contents": "Pushes all the right buttons...mostly",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "ihopetherespudding",
+      "contents": "Pretty good.",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "lalitbadoga",
+      "contents": "Awesome Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "tarunarko",
+      "contents": "Wowwwwwwww !!",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "ticklegear",
+      "contents": "Excellent story (though, avoid candy - bad for you)",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "imnlacey",
+      "contents": "Fun For Everyone",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "tomgillespie2002",
+      "contents": "Irresistible and really quite clever",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "in1984",
+      "contents": "One of the best Girl cartoon characters EVER",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "surya_m77",
+      "contents": "Good entertaining movie",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "dfle3",
+      "contents": "Amusing with some nostalgia value. 77.5%",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "katieburrans",
+      "contents": "Entertaining Every Generation!",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Dillon Harris",
+      "contents": "Great Imagination,Right Up There With the Toy Story Franchise,",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "wryterz",
+      "contents": "Absolutely Brilliant.",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Michael Culligan (michaelthepichael@hotmail.com)",
+      "contents": "Wreck-It Ralph - An instant Disney Classic",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Iver Neset",
+      "contents": "Finest Video Game Movie of the Year",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "jacobjikks",
+      "contents": "This story had everything in it",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "octopusluke",
+      "contents": "Bulldozing his way to victory",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Niaz_Morshed",
+      "contents": "An ABSOLUTE Blinder! The finest animated film of the year!",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "madkaugh",
+      "contents": "Great Disney kids animation. Adult mileage may vary.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Disney attempts to do a Pixar quality animated picture without Pixar!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "davidchume",
+      "contents": "Wrecked Potential",
+      "review_date": {
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "HelenMary",
+      "contents": "Entertaining children's film about computer games; fun!",
+      "review_date": {
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "MissSimonetta",
+      "contents": "Miraculously less popular than Frozen",
+      "review_date": {
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "budad2007",
+      "contents": "Best modern Disney flick",
+      "review_date": {
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "pavelb-968-44685",
+      "contents": "Imagination overload?",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "ccthemovieman-1",
+      "contents": "Film Improved As It Went On",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "lisafordeay",
+      "contents": "If you are a lover of video games you will love this movie,if not then its not for you",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Jam D.",
+      "contents": "It takes you on a journey where you just have to hop on and see where the road takes you.",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Al_The_Strange",
+      "contents": "\"I'm bad, and that's good. I will never be good, and that's not bad.\"",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Richmond Sim",
+      "contents": "Near Perfection",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "DJ Zurn",
+      "contents": "I've Never Seen A Film Quite Like This",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Bobson10",
+      "contents": "I'm bad, and that's good. I will never be good, and that's not bad. There's no one I'd rather be than me",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "houghtonetet",
+      "contents": "Bad guys can be heroes",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "davidnhewko",
+      "contents": "About time!",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "MrsTattooToYou",
+      "contents": "brilliant! 10/10",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "rebecca-ry",
+      "contents": "Great Fun",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Sean Lamberger",
+      "contents": "A Sentimental Arcade Adventure With Tons of Style, But Limited Substance",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "sohansurag",
+      "contents": "A true/awesome Video game-Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "dvc5159",
+      "contents": "When the arcade closes, the games come out and play...",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Steve",
+      "contents": "Wreck-it Ralph is a classic!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "maheshkn",
+      "contents": "Colourful, as sweet as candy",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "Francisco Huerta (fjhuerta@hotmail.com)",
+      "contents": "A movie that really took me back to 1980's....",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "cubsckc",
+      "contents": "Finally! An Unpredictable Disney Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "HollywoodAlicia",
+      "contents": "Adorable; a great movie all around",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "jchang358",
+      "contents": "Brilliant film for the whole family",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "lagudafuad",
+      "contents": "Disney's 52nd is one to love",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "ShelbyTMItchell",
+      "contents": "The Villain Becomes The Good Guy!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "ariasn1",
+      "contents": "Nearly Perfect",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "SM Jefferies",
+      "contents": "Wrong Lesson",
+      "review_date": {
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "rjsf96",
+      "contents": "OK, but over hyped by critics",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "zetes",
+      "contents": "Tremendous",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "khfan250",
+      "contents": "A \"Roger Rabbit\" for the Gaming Generation",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "tieman64",
+      "contents": "How's the Night Life on Cissalda?",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "keithbrown-90195",
+      "contents": "A Disappointing Execution of a Great Idea",
+      "review_date": {
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "OllieSuave-007",
+      "contents": "Video Game Rush!",
+      "review_date": {
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Howlin Wolf",
+      "contents": "Starts out with a good idea... but then wrecks it, in favour of the traditional 'quest for redemption' journey...",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "moviewiz-4",
+      "contents": "One of the greatest animated movie",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "dural777",
+      "contents": "Fine animated experience",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "pooterbear1",
+      "contents": "Must have childhood to see",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "alxx0209",
+      "contents": "This movies good and thats good and not bad",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Sergeant_Tibbs",
+      "contents": "A wonderful nostalgic treat that makes up for the lack of Pixar greatness.",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "princess_vanellope-720-319770 (princess_vanellope@yahoo.com)",
+      "contents": "This movie is probably THE VERY Best Disney Movie EVER!!!",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "p-stepien",
+      "contents": "Fun at the arcade",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "mutty-mcflea",
+      "contents": "'Purple Rose of Cairo' meets 'Tron'",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Fardin FaBryan",
+      "contents": "Review Singkat",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "shechapter127",
+      "contents": "Wreck-It Ralph - captures your imagination",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "tombiddy87",
+      "contents": "Reach my expectations and more",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Joshua Trimmins",
+      "contents": "Amazing Flick Just Not Without Its Flaws",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "follis12",
+      "contents": "Very creative kids movie - but probably a bit \"out there\" for some",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Treyroo",
+      "contents": "Hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Bcud02",
+      "contents": "'Wreck-It Ralph' Packs a Punch to the Funny Bone and the Heart.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "lasttimeisaw",
+      "contents": "Wreck-It Ralph",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "RainDogJr",
+      "contents": "Fun! Friends! And Fix it Felix Jr. featuring Wreck-it Ralph",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Sara Elizabeth",
+      "contents": "Ehhh....",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Thomas Fackler",
+      "contents": "All the Substance of an Arcade",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Chris L",
+      "contents": "Enjoyable",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "Sometimes it is good to be bad...",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Dalbert Pringle",
+      "contents": "Hey, He's Bad, And, Yep, That's Good!",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "tigbond-ck",
+      "contents": "The ending credits song says it all",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Rick_Terminal",
+      "contents": "A missed opportunity full of formulaic clich\u00e9.",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "newzealandrules",
+      "contents": "Unfulfilled Potential",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Lucas Kenan",
+      "contents": "Disney respect the video-games, but do not know what to do whit them",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "ShootingShark",
+      "contents": "Charming Animated Fable Of Video game Bad Guy Seeking Redemption",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "aaron_sg27",
+      "contents": "excellent movie",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "TheFilmDiscussion .com",
+      "contents": "Wonderfully creative!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "gautham_harry",
+      "contents": "Best Animated Movie Of Recent Times",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Lenore C",
+      "contents": "Entertaining",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "roshan kumar",
+      "contents": "The movie that changed my view on animated movies.",
+      "review_date": {
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Aldri7",
+      "contents": "good family fun",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "contents": "Wreck-It Ralph (2012) - You're a Bad Guy...But That Does Not Mean You're a Bad Guy!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "Wreck-It Ralph",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "fifymehry",
+      "contents": "Disney's got his taste back!",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Hurleyfanboy",
+      "contents": "No Crash Bandicoot =Bad movie",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "jimy23",
+      "contents": "One of the best Disney movie in sometime.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "jaemiewaters",
+      "contents": "Wreck it Ralph",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Probably the best CGI animated movie of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "thekyles99",
+      "contents": "Disney hits it out of the park yet once again!",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "joebrian55",
+      "contents": "A great movie... with great jokes...",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "bob_bear",
+      "contents": "7.8 -- as voted for by Disney?",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "jintanyarou",
+      "contents": "A Fundamentally Flawed and Badly Written Piece of Celluloid",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "sharona21",
+      "contents": "surprisingly disappointing",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "Mr-Fusion",
+      "contents": "Tremendous world-building",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "planktonrules",
+      "contents": "A lot to like--a lot to annoy---it's a real mixed bag here.",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "rakiani",
+      "contents": "Standard affair",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "Not My Real Name",
+      "contents": "A movie about candy. Not a movie about video games.",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "markbishop1994",
+      "contents": "Went to see Toy Story and got Teletubbies",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "Zahra Jasmin",
+      "contents": "What's with the fuss?",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "cooluisgzz",
+      "contents": "\"Follow your role of life, even if it sucks\"  another Disney stereotyping animation",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "shaun-brake",
+      "contents": "he wrecked it",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "Diwali-Jumbonads",
+      "contents": "40% Violent",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "boatsfra",
+      "contents": "Big disappointment",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "jenna_cousins",
+      "contents": "I'm confused. Basically Monsters Inc.",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "pro-wows",
+      "contents": "Bait and switch",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "dhoffman1972",
+      "contents": "So Disappointed",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "None Private",
+      "contents": "Waste of two hours",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "sa8713",
+      "contents": "this movie blows",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "cultfilmfreaksdotcom",
+      "contents": "Ralph Wreaks",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    }
+  ],
+  "release_month": "November",
   "genres": [
     "animation",
     "adventure",
     "comedy"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 26,
-    "month": 4,
-    "year": 2013,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 49038712
+  "opening_weekend_screens": 3752,
+  "name": "Wreck-It Ralph",
+  "num_weekends": 24,
+  "release_day": 2,
+  "critic_review_count": 378
 }

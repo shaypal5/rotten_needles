@@ -1,92 +1,1909 @@
 {
-  "name": "Hotel Transylvania",
+  "budget": 85000000,
   "opening_weekend_income": 42522194,
+  "year": 2012,
+  "closing_date": {
+    "year": 2013,
+    "day": 15,
+    "__type__": "datetime.date",
+    "month": 2
+  },
+  "budget_currency": "$",
+  "avg_screens": 1434.5555555555557,
+  "rating_freq": {
+    "1": 1313,
+    "2": 906,
+    "3": 1674,
+    "4": 3710,
+    "5": 10060,
+    "6": 26599,
+    "7": 52530,
+    "8": 38914,
+    "9": 16711,
+    "10": 20984
+  },
+  "screens_by_weekend": [
+    3349,
+    3352,
+    3375,
+    3384,
+    3276,
+    2922,
+    2566,
+    1248,
+    464,
+    248,
+    196,
+    136,
+    267,
+    252,
+    228,
+    224,
+    191,
+    144
+  ],
+  "rating_count": 173401,
+  "total_screens": 25822,
+  "max_screens": 3384,
+  "duration": 91,
+  "gross_income": 148313048,
+  "metascore": 47,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 506,
+    "imdb_users": 173401,
+    "us_users": 19996,
+    "aged_18-29": 74996,
+    "non-us_users": 80496,
+    "aged_45+": 8754,
+    "aged_30-44": 50156,
+    "males_aged_30-44": 37839,
+    "males_aged_18-29": 48735,
+    "males_aged_45+": 6718,
+    "aged_under_18": 1195,
+    "imdb_staff": 13,
+    "males_under_18": 721,
+    "females_aged_30-44": 11660,
+    "females": 42889,
+    "females_under_18": 459,
+    "females_aged_45+": 1877,
+    "males": 100239,
+    "females_aged_18-29": 25536
+  },
+  "user_review_count": 170,
+  "rating": 7.1,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 6.2,
+    "imdb_users": 7.1,
+    "us_users": 6.9,
+    "aged_18-29": 7.3,
+    "non-us_users": 7.0,
+    "aged_45+": 6.9,
+    "aged_30-44": 6.9,
+    "males_aged_30-44": 6.8,
+    "males_aged_18-29": 7.2,
+    "males_aged_45+": 6.8,
+    "aged_under_18": 7.3,
+    "imdb_staff": 6.2,
+    "males_under_18": 7.1,
+    "females_aged_30-44": 7.2,
+    "females": 7.4,
+    "females_under_18": 7.8,
+    "females_aged_45+": 7.4,
+    "males": 7.0,
+    "females_aged_18-29": 7.5
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 28,
+    "__type__": "datetime.date",
+    "month": 9
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "Joseph Richter Jr (brewingbiker@gmail.com)",
+      "contents": "Very enjoyable experience",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "eshghefilm",
+      "contents": "One of the best (funniest) animations I've seen in years!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "jancr57",
+      "contents": "Let the child in you enjoy this adventure",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "MissYumYumCoCo",
+      "contents": "Fun for everyone",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "drew_atreides",
+      "contents": "Solid Family Entertainment",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "TheLittleSongbird",
+      "contents": "Count me among those who thought the movie was surprisingly good",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Cal Weaver",
+      "contents": "Far exceeded my expectations!",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "anastasiyaxox",
+      "contents": "Adorable Family Film",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Kaylyn Mackenzie",
+      "contents": "I loved this movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "J B",
+      "contents": "Fun movie for kids and adults",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "bazmitch23",
+      "contents": "Good idea, but not executed very well",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "illbebackreviews",
+      "contents": "A very un-unique animation which is still surprisingly good in its own way",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Mek Torres",
+      "contents": "Monsters Going Wild",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "michaelhirakida",
+      "contents": "BLEH BLEH BLEH! Thats what I have to say to this movie.",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "willcundallreview",
+      "contents": "A funny animation but with little heart",
+      "review_date": {
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Mr-Fusion",
+      "contents": "It looked like a winner",
+      "review_date": {
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Emily-Rose Heffernan",
+      "contents": "A new and interesting story, No real climax, needs more humour.",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "ironhorse_iv",
+      "contents": "Monster Mash is a Graveyard Smash",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "kab6609",
+      "contents": "Family Friendly, Festive and Fun!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "HannahToucan248",
+      "contents": "This movie is about a teenage boy who stumbles upon a hotel run by an over-protective father version of Dracula who wants to protect his daughter, Mavis.",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "diac228 (diac1987@netscape.net)",
+      "contents": "Light joyful fun, Hotel Transylvania is a shockingly good time for all",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "Great animated movie with all the classic movie monsters...",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Joseph Akers",
+      "contents": "Some jokes are forced, but an overall enjoyable film!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Stephen Bourne",
+      "contents": "Mondo monster fun!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "aharmas",
+      "contents": "Having Fun with The Monsters",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "I Loved this Animation",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "ladylibra9111",
+      "contents": "Excellent 3d movie",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "sashank_kini-1",
+      "contents": "A film that so desperately fills in bucketloads of childish gags in its scenes that neither do the characters move us nor does the film's humor and the music groove us",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "heatherleefox",
+      "contents": "Horribly Unfunny",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "Miguel Neto",
+      "contents": "An animation full of fun and classic monsters",
+      "review_date": {
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "gavin6942",
+      "contents": "Quite Funny",
+      "review_date": {
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Iver Neset",
+      "contents": "Almost on the Edge of Giving It a 7, But WTH!",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "aliceboy",
+      "contents": "A waste of a dynamic, gorgeous animated film",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "farah duncan (cute_beautiful@hotmail.co.uk)",
+      "contents": "So funny and blah blah blah (in the words of drac)",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "brown-faith922",
+      "contents": "Not That Funny...",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Manda Bear",
+      "contents": "Didn't like it..",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "adonis98-743-186503",
+      "contents": "Adam Sandler can make good films too you know?",
+      "review_date": {
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Eric Stevenson",
+      "contents": "Best Adam Sandler movie!",
+      "review_date": {
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "monyrichchan",
+      "contents": "I think this movie is great",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "MovieLord23",
+      "contents": "A solid little Halloween animated film",
+      "review_date": {
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Zbigniew_Krycsiwiki",
+      "contents": "Surprisingly good",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Irishmoviereviewer",
+      "contents": "You would laugh at this movie but it wouldn't be a favorite...",
+      "review_date": {
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Phil Hubbs",
+      "contents": "Hotel Transylvania",
+      "review_date": {
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "keithlovesmovies",
+      "contents": "Hotel Transylvania Review",
+      "review_date": {
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Hotel for Monsters.",
+      "review_date": {
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Thomas (filmreviews@web.de)",
+      "contents": "Entertaining from start to finish",
+      "review_date": {
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "francisrecruiter",
+      "contents": "What! My hand's in tan shoe...LoL",
+      "review_date": {
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Ruairidh MacVeigh",
+      "contents": "Don't listen to the critics! This movie is amazing!",
+      "review_date": {
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Peppermint Twisted",
+      "contents": "A Highly Entertaining Animated Film",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "cinny85",
+      "contents": "Vamptastic",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "John Panagopoulos (japamo@hotmail.com)",
+      "contents": "The \"Groovie Ghoulies\" On Speed \u0096 You Don't Just Watch \"Hotel Transylvania\", You Ride It!",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "breakdownthatfilm-blogspot-com",
+      "contents": "A funny family halloween movie",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "jettathehut",
+      "contents": "Best movie!",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "the story has been done before, but I really liked the animation",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "kendrat199-722-128370",
+      "contents": "Simply fantastic",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Faisal Khatib",
+      "contents": "Unfortunately the director Genndy Tartakovsky decided to play it safe with a humdrum story that we've already seen before",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "planktonrules",
+      "contents": "This one took me by surprise...and in a very good way.",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "lisafordeay",
+      "contents": "Not too bad but not so good",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "pelegosto264",
+      "contents": "all the elements for a great movie...",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "muppet-baby",
+      "contents": "Enjoyable throughout the film!",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "FilmFreak94",
+      "contents": "Fast-Paced, Witty and Just Plain Fun",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "shery_hatedevil_7",
+      "contents": "Loved The movie!",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "patsworld",
+      "contents": "What a Fun Movie!",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "thecaliforniadreamer",
+      "contents": "Awesome!",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Nafis Shahriyar",
+      "contents": "visualization, graphics become my eye-soother",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "teflive",
+      "contents": "Welcome to Hotel Transylvania!! On the menu tonight:",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "CallEmLike ICem",
+      "contents": "Finally, a cartoon Dracula safe for Jewish people",
+      "review_date": {
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "Hotel Transylvania",
+      "review_date": {
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "richkaminski",
+      "contents": "The advertisements were the best part of the movie",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "gasmaskproductionsbooks (gasmaskproductionsbooks@gmail.com)",
+      "contents": "Typical of today's generation",
+      "review_date": {
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "singingmaiden",
+      "contents": "Would only recommend if you have nothing else to watch.",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "RageReviewer",
+      "contents": "A monster-sized movie about, what else, MONSTERS!",
+      "review_date": {
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "g-bodyl",
+      "contents": "Better Than Expected!",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Fluke_Skywalker",
+      "contents": "I enjoyed my stay at 'Hotel Transylvania'",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Rich Wright",
+      "contents": "\"I vant to suck your blood!!\"",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "jfgibson73",
+      "contents": "Nowhere Near the Level of Pixar",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "Thorsten G\u00c3\u00bcnther",
+      "contents": "So much wasted potential...",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Sucking the blood out of animated movies?",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "user user",
+      "contents": "role choice, not sure",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "hendersondamien77",
+      "contents": "AngryFIlmFan Reviews Hotel Transylvania",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "Paul Veerman",
+      "contents": "Worth spending the night in",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "hr-boege-546-170392",
+      "contents": "mostly a child movie",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "We need to talk about boundaries...",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "caspervanheck",
+      "contents": "Sandler-heavy, otherwise fine",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Ketan Gupta",
+      "contents": "likable animation and funny moments makes Hotel Transylvania more enjoyable",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Tejas Nair",
+      "contents": "Entertainment! Entertainment! Entertainment!",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "sohansurag",
+      "contents": "A Genndy Tartakovsky Original!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Hotel Transylvania",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "fritzwalter30",
+      "contents": "Best animated movie for me",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Adequate",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "James Garnhum",
+      "contents": "Hotel Transylvania Review",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "phoenix 2",
+      "contents": "nice accent",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "aldri-feb",
+      "contents": "So horrible and boring",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Rectangular_businessman",
+      "contents": "Funny!",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Grade Two  Class",
+      "contents": "Excellent!",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "reviewerofmovies",
+      "contents": "Had my doubts about it at first... but LOVED it in the end!",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "topSpot Find your top spot here",
+      "contents": "Hotel Transylvania",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "shah-siddharth",
+      "contents": "Totally fun and entertaining",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "jpajs14",
+      "contents": "Please give this review a read (I give this movie a 6.75 / 10 rating)",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "David Robertson",
+      "contents": "A VERY hysterical animated movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "aesgaard41",
+      "contents": "A Roller Coaster Ride of Fun And Horror",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": " Aidiera",
+      "contents": "Adam Sandler was a good choice.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "dense_electric",
+      "contents": "It had a lot of potential...",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "kill-the-boxtrolls",
+      "contents": "Hotel Transylvania... a very boring movie with a girl that has no taste",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "Simon_Says_Movies",
+      "contents": "Unsubstantial Fluff, but Should Please Kids",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Keyvy Key",
+      "contents": "I Drink Your Blood... More Like -No Plot-",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "Vishwas Verma",
+      "contents": "Pretty Lame",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Helio Copter",
+      "contents": "Nothing Special",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Ronnie Steele",
+      "contents": "Adam Sandler a voice over genius",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "ilkeniz",
+      "contents": "WOW how did this movie get this rating?",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "cultfilmfreaksdotcom",
+      "contents": "Blah, Blah, Blah",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Wendell Ricketts",
+      "contents": "A Waste of Animators",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "schipperm",
+      "contents": "Perfection!!!   118/10",
+      "review_date": {
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "TalaKnight",
+      "contents": "Amazing Movie!",
+      "review_date": {
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "monechia_p",
+      "contents": "I love this movie",
+      "review_date": {
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Angels_Review",
+      "contents": "Twisting Horror classics into childhood fun!",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "evanagustian984",
+      "contents": "The Good Movie",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "Terence Frederick",
+      "contents": "Fine One and half hour stay at Hotel Transylvania",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "SmileysWorld",
+      "contents": "Sandler and the boys rock in animated form!",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "rbn_lrk-1",
+      "contents": "Welcome to Hotel Transylvania",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "JolinKnight",
+      "contents": "Your children will like it!",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Ccriggsby",
+      "contents": "An enjoyable movie",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "italyami",
+      "contents": "Animationmovie for young and old",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "It's good but nothing too memorable",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Hellmant",
+      "contents": "You'd think the talented cast could have done a little more with the material.",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Anurag-Shetty",
+      "contents": "A very unique animated film about all the famous monsters through history!",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Dillon Harris",
+      "contents": "Definitely Will Appeal To Kids More Than Adults,But An Entertaining Cast And Some Scenes A Younger Audience Wont Get Will Keeps Grown Ups Enjoyed,",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Jeff Heimbrock (heimbrockj@gmail.com)",
+      "contents": "Frighteningly Fun",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "rannynm",
+      "contents": "Family Fun at 'Hotel Transylvania'",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Christian Frates",
+      "contents": "Have tons of creative differences, not as good as Samurai Jack or Clone Wars",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Creative scenarios and backgrou is what drives this flick",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "alexstinks",
+      "contents": "Perfect!",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "rbeck2001",
+      "contents": "This movie was good",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "tjsolod13",
+      "contents": "Adorable for families and any who love old monster tales",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "contents": "Blah! Blah! Blah!",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "dalydj-918-255175",
+      "contents": "Hotel Transylvania is funny but to try's to hard",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": " (sdevlieger91)",
+      "contents": "Great movie for all ages.",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "An enjoyable animated monster comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "nightcrawlercyp-311-219346",
+      "contents": "lame",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "LoneWolfAndCub",
+      "contents": "Great voice acting and visual effects save this otherwise average animated adventure",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "ultramatt2000-1",
+      "contents": "It's pretty good! :)",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Marijan Nikic",
+      "contents": "Children's flick",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Maxim  Parkhomenko",
+      "contents": "Great cartoon!!!",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "fraz_shahid",
+      "contents": "Good time killer for adults but bad for daddy image",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Sean Rajnert (Newsgeek13@gmail.com)",
+      "contents": "Not bad for a kids film.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "tavm",
+      "contents": "Genndy Tartakovsky and some \"SNL\" veterans provide much clever humor in Hotel Transylvania",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "stcanard5",
+      "contents": "Had a chance to be good.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "lagudafuad",
+      "contents": "Yawn!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film Review: Monstermania.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "southbase",
+      "contents": "Three howls out of 5",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "TheSquiss",
+      "contents": "Fun but not really funny, enjoyable but not enthralling, merely an appetizer for Frankenweenie.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "reneemsm",
+      "contents": "Probably not good for the 4 and younger crowd",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "All in all, a nice seasonal film.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "cliffchuff",
+      "contents": "Candy Coated Misogyny",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "Jonny 99",
+      "contents": "Bloodless and toothless kiddie faire",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "HollywoodJunket",
+      "contents": "A Traditional Father/Daughter Story, Only Their Vampires!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "RainDogJr",
+      "contents": "Average material; it wastes the cool thing of having tons of classic monsters together",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Cristian Serbu",
+      "contents": "hopefully, an unwilling important mistake made about Transylvania",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "dutchchocolatecake",
+      "contents": "sexist, bro-hoofing tripe",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "Bollywood_Chewbacca (celebritylargeinflamation@hotmail.com)",
+      "contents": "Move out Harry Potter, here comes 'Hotel Transylvania\"",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Matra Mellark",
+      "contents": "Hotel Transylvania: 7 Star Hotel.",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Jeff Lee",
+      "contents": "A tangled mess of characters in parent-knows-best animation.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    }
+  ],
+  "release_month": "September",
   "genres": [
     "animation",
     "comedy",
     "family"
   ],
-  "rating": 7.1,
-  "rating_count": 173383,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 28,
-    "year": 2012,
-    "month": 9
-  },
-  "user_review_count": 170,
-  "rating_freq": {
-    "1": 1313,
-    "2": 906,
-    "3": 1674,
-    "4": 3709,
-    "5": 10058,
-    "6": 26598,
-    "7": 52523,
-    "8": 38910,
-    "9": 16708,
-    "10": 20984
-  },
-  "release_day": 28,
-  "votes_per_demo": {
-    "males": 100233,
-    "females_aged_30-44": 11655,
-    "aged_under_18": 1196,
-    "non-us_users": 80490,
-    "males_aged_18-29": 48739,
-    "aged_18-29": 75001,
-    "males_aged_30-44": 37833,
-    "aged_45+": 8752,
-    "imdb_users": 173383,
-    "aged_30-44": 50145,
-    "us_users": 19995,
-    "females": 42887,
-    "females_aged_18-29": 25537,
-    "top_1000_voters": 506,
-    "males_aged_45+": 6715,
-    "females_under_18": 460,
-    "females_aged_45+": 1878,
-    "imdb_staff": 13,
-    "males_under_18": 721
-  },
-  "avg_rating_per_demo": {
-    "males": 7.0,
-    "females_aged_30-44": 7.2,
-    "aged_under_18": 7.3,
-    "non-us_users": 7.0,
-    "males_aged_18-29": 7.2,
-    "aged_18-29": 7.3,
-    "males_aged_30-44": 6.8,
-    "aged_45+": 6.9,
-    "imdb_users": 7.1,
-    "aged_30-44": 6.9,
-    "us_users": 6.9,
-    "females": 7.4,
-    "females_aged_18-29": 7.5,
-    "top_1000_voters": 6.2,
-    "males_aged_45+": 6.8,
-    "females_under_18": 7.8,
-    "females_aged_45+": 7.4,
-    "imdb_staff": 6.2,
-    "males_under_18": 7.1
-  },
-  "avg_screens": 1434.5555555555557,
-  "release_month": "September",
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 47,
-  "gross_income": 148313048,
-  "critic_review_count": 260,
-  "budget_currency": "$",
-  "release_year": 2012,
+  "opening_weekend_screens": 3349,
+  "name": "Hotel Transylvania",
   "num_weekends": 18,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 15,
-    "year": 2013,
-    "month": 2
-  },
-  "duration": 91,
-  "budget": 85000000,
-  "max_screens": 3384
+  "release_day": 28,
+  "critic_review_count": 260
 }

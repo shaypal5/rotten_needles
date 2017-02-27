@@ -1,91 +1,1516 @@
 {
+  "budget_currency": "$",
+  "total_screens": 15513,
+  "rating_freq": {
+    "1": 3095,
+    "2": 2313,
+    "3": 3456,
+    "4": 6269,
+    "5": 12375,
+    "6": 15468,
+    "7": 11464,
+    "8": 6455,
+    "9": 2890,
+    "10": 5545
+  },
+  "release_day": 9,
   "genres": [
     "comedy",
     "romance"
   ],
+  "name": "New Year's Eve",
+  "release_month": "December",
+  "avg_screens": 1410.2727272727273,
+  "imdb_user_reviews": [
+    {
+      "user": "The Upcoming",
+      "score": 4,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "'New Year's Eve' felt mechanical and forced, a project merely designed for profit. This is rather a 118 minute tourist video about how wonderful The Big Apple is"
+    },
+    {
+      "user": "Troy_Campbell",
+      "score": 2,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Vapid, ridiculous and lacking quality."
+    },
+    {
+      "user": "natygance",
+      "score": 7,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Really enjoyable"
+    },
+    {
+      "user": "nathan-hooper",
+      "score": 2,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "New Years Heave"
+    },
+    {
+      "user": "eldestjay",
+      "score": 3,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A Sequel to Valentine's Day!"
+    },
+    {
+      "user": "DICK STEEL",
+      "score": 2,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A Nutshell Review: New Year's Eve"
+    },
+    {
+      "user": "Codrin Cod",
+      "score": 1,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Very, very bad movie, even it has great names"
+    },
+    {
+      "user": "Jimmy Collins",
+      "score": 4,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Too many story lines make New Years Eve a bit of a dud."
+    },
+    {
+      "user": "Evansja11",
+      "score": 2,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Drivel"
+    },
+    {
+      "user": "topbearau",
+      "score": 1,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Just Awful"
+    },
+    {
+      "user": "musica1 (pjcindy@aol.com)",
+      "score": 8,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Do you like chocolate milkshakes?"
+    },
+    {
+      "user": "snookies1224",
+      "score": 1,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Appalling"
+    },
+    {
+      "user": "Bea Isaacson",
+      "score": 1,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Just don't watch it."
+    },
+    {
+      "user": "sarahutchin",
+      "score": 1,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "miracles do happen!"
+    },
+    {
+      "user": "gregeichelberger",
+      "score": 3,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Marshall's 'Valentine's Day' sequel a mish-mash"
+    },
+    {
+      "user": "Christopher Brett",
+      "score": 1,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Made me join IMDb"
+    },
+    {
+      "user": "abdixon",
+      "score": 7,
+      "review_date": {
+        "day": 16,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Enjoyed this movie a lot"
+    },
+    {
+      "user": "mark635",
+      "score": 1,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Terrible"
+    },
+    {
+      "user": "Craig Myer (stevenmyer)",
+      "score": 1,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "The worst of all time"
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Not all that funny, but still an amusing film."
+    },
+    {
+      "user": "richard.fuller1",
+      "score": 1,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A Two-Part Love Boat Episode Is Pieced Together Better"
+    },
+    {
+      "user": "An Nukman",
+      "score": 10,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "I just loved it...It is not a great movie but it is a feel good movie"
+    },
+    {
+      "user": "sbourke88",
+      "score": 1,
+      "review_date": {
+        "day": 20,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Avoid"
+    },
+    {
+      "user": "Film Watchin Fool",
+      "score": 6,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Star Studded, But Doesn't Translate Into A Great Movie"
+    },
+    {
+      "user": "kdebnam",
+      "score": 1,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Is there anything below 1"
+    },
+    {
+      "user": "gradyharp",
+      "score": 5,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Popcorn"
+    },
+    {
+      "user": "Jon-drake",
+      "score": 1,
+      "review_date": {
+        "day": 27,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "What a load of old Hootenanny"
+    },
+    {
+      "user": "Maniac-9",
+      "score": 1,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "All about the names above the credits, no substance to movie at all"
+    },
+    {
+      "user": "elpachio",
+      "score": 2,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Truly awful film"
+    },
+    {
+      "user": "vicegodgiarc",
+      "score": 1,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Oh dear ..."
+    },
+    {
+      "user": "Danny Blankenship",
+      "score": 6,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A smile face happy star filled film of connection"
+    },
+    {
+      "user": "Argemaluco",
+      "score": 3,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A deplorable film"
+    },
+    {
+      "user": "Amy Adler",
+      "score": 8,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "May the naysaying critics take a vacation in the Underworld! No, its not a masterpiece but it is sweet, romantic, funny, and touching"
+    },
+    {
+      "user": "Christopher O'keeffe",
+      "score": 1,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Way to much going on, its unbelievable!!!!"
+    },
+    {
+      "user": "Python Hyena",
+      "score": 2,
+      "review_date": {
+        "day": 4,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Pathetic Way to End the Year."
+    },
+    {
+      "user": "Paige Abril",
+      "score": 1,
+      "review_date": {
+        "day": 21,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Quite a ridiculous and awful film to watch"
+    },
+    {
+      "user": "Prismark10",
+      "score": 3,
+      "review_date": {
+        "day": 12,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "New Year's Fail"
+    },
+    {
+      "user": "Zbigniew_Krycsiwiki",
+      "score": 2,
+      "review_date": {
+        "day": 1,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "The lives of many dull and self-absorbed, nitwit losers converge (kind of) in New York on New Year's Eve, in this blandly photographed time-waster."
+    },
+    {
+      "user": "mattkratz (themattk@hotmail.com)",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "decent"
+    },
+    {
+      "user": "Jimmy Ryan",
+      "score": 8,
+      "review_date": {
+        "day": 23,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Really enjoyed it"
+    },
+    {
+      "user": "MLDinTN",
+      "score": 6,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "many famous faces bring several stories together"
+    },
+    {
+      "user": "federicoinchausti",
+      "score": 6,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Why isn't Matthew Brodderick credited?"
+    },
+    {
+      "user": "Kathy T",
+      "score": 2,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Largely unwatchable except for Halle Berry"
+    },
+    {
+      "user": "fatsamuraireviews",
+      "score": 3,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "New Year's Eve is kind of an old new year's eve story."
+    },
+    {
+      "user": "jvande7471-249-355231",
+      "score": 3,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Was hoping for better"
+    },
+    {
+      "user": "williamjweldon-369-839189",
+      "score": 9,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "I loved New Year's Eve produced by Gary Marshall"
+    },
+    {
+      "user": "mbp-13",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "A movie that said stop and smell the roses"
+    },
+    {
+      "user": "nep983",
+      "score": 7,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "It was entertaining if you can follow of the character's stories"
+    },
+    {
+      "user": "neenahhh",
+      "score": 6,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Made me feel excited for the year to come!"
+    },
+    {
+      "user": "nosajjjp",
+      "score": 8,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Awesome"
+    },
+    {
+      "user": "Lynn68",
+      "score": 8,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "C'mon People..."
+    },
+    {
+      "user": "joyhollywood",
+      "score": 10,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Loved This Movie!"
+    },
+    {
+      "user": "chopperlilly",
+      "score": 1,
+      "review_date": {
+        "day": 9,
+        "year": 2017,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "What did I do to deserve this torture"
+    },
+    {
+      "user": "ironhorse_iv",
+      "score": 5,
+      "review_date": {
+        "day": 2,
+        "year": 2017,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "There was no party for 2011's New Year's Eve. It drop the ball."
+    },
+    {
+      "user": "adonis98-743-186503",
+      "score": 9,
+      "review_date": {
+        "day": 31,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Happy New Year!!!"
+    },
+    {
+      "user": "Johan Dondokambey",
+      "score": 6,
+      "review_date": {
+        "day": 4,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Lots of familiar faces in a collection of sub stories"
+    },
+    {
+      "user": "bkoganbing",
+      "score": 6,
+      "review_date": {
+        "day": 9,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Tangential almost coincidental"
+    },
+    {
+      "user": "studioAT",
+      "score": 5,
+      "review_date": {
+        "day": 26,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Better than all the fuss"
+    },
+    {
+      "user": "juneebuggy",
+      "score": 4,
+      "review_date": {
+        "day": 24,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "I actually liked Valentines Day but this, not so much."
+    },
+    {
+      "user": "nama chakravorty",
+      "score": 5,
+      "review_date": {
+        "day": 14,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Fair!"
+    },
+    {
+      "user": "Zoooma",
+      "score": 5,
+      "review_date": {
+        "day": 14,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Not a great way to start the new year"
+    },
+    {
+      "user": "FlashCallahan",
+      "score": 3,
+      "review_date": {
+        "day": 1,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Not a resolution you'd want to keep....."
+    },
+    {
+      "user": "vsantiago5",
+      "score": 3,
+      "review_date": {
+        "day": 1,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "No Big Deal"
+    },
+    {
+      "user": "Terryfan",
+      "score": 6,
+      "review_date": {
+        "day": 31,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "New Year's Eve a series of events all in one night"
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 5,
+      "review_date": {
+        "day": 25,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "The New Chick Flick Formula"
+    },
+    {
+      "user": "NMDreamcatcher214",
+      "score": 8,
+      "review_date": {
+        "day": 22,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Entertaining"
+    },
+    {
+      "user": "tbills2",
+      "score": 5,
+      "review_date": {
+        "day": 26,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A Good Time To Celebrate New Year's Eve"
+    },
+    {
+      "user": "vincentlynch-moonoi",
+      "score": 6,
+      "review_date": {
+        "day": 31,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Eh!"
+    },
+    {
+      "user": "blanche-2",
+      "score": 7,
+      "review_date": {
+        "day": 1,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "wow - so much hate"
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "score": 6,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "New Year's Eve (2011) - What the Hell, Garry Marshall?"
+    },
+    {
+      "user": "haywoodyoudome",
+      "score": 1,
+      "review_date": {
+        "day": 25,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Painful"
+    },
+    {
+      "user": "Raul Faust",
+      "score": 4,
+      "review_date": {
+        "day": 4,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Pointless"
+    },
+    {
+      "user": "capone666",
+      "score": 3,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "The Vidiot Reviews..."
+    },
+    {
+      "user": "Lloyd Bayer",
+      "score": 4,
+      "review_date": {
+        "day": 21,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "New Year's in New York"
+    },
+    {
+      "user": "Dominik Schlatter",
+      "score": 5,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Watch it! It will make you appreciate other movies more!"
+    },
+    {
+      "user": "kosmasp",
+      "score": 5,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Who'll get the Razzie Award?"
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "score": 4,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Chix Chat on Film review: Another year bites the dust."
+    },
+    {
+      "user": "alasgari",
+      "score": 1,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Good movie if you are difficult"
+    },
+    {
+      "user": "Saad Khan",
+      "score": 1,
+      "review_date": {
+        "day": 16,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "ultimate tedious ensemble"
+    },
+    {
+      "user": "Lumikinos",
+      "score": 1,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "constipated fart of a \"movie\""
+    },
+    {
+      "user": "Christine M.",
+      "score": 10,
+      "review_date": {
+        "day": 31,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Such a feel good movie for New Year's Eve!!"
+    },
+    {
+      "user": "kuuk3",
+      "score": 1,
+      "review_date": {
+        "day": 17,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Six Degrees of Kevin Bacon Film"
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "score": 4,
+      "review_date": {
+        "day": 2,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "New Year's Eve"
+    },
+    {
+      "user": "phd_travel",
+      "score": 6,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Better than Valentine's Day but that's not saying much"
+    },
+    {
+      "user": "Christian_Dimartino",
+      "score": 5,
+      "review_date": {
+        "day": 30,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "It's not good, but it's a lot better than Valentine's Day."
+    },
+    {
+      "user": "rtcnz",
+      "score": 7,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "What's to complain about?"
+    },
+    {
+      "user": "Semsung",
+      "score": 2,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Vacuous pseudo 'feel good' tripe"
+    },
+    {
+      "user": "Neil Welch",
+      "score": 6,
+      "review_date": {
+        "day": 28,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Not a complete disaster - but it's close"
+    },
+    {
+      "user": "amandafraser16",
+      "score": 8,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A Great Laugh and a Chance to see favourite actors!"
+    },
+    {
+      "user": "mjtuf1",
+      "score": 3,
+      "review_date": {
+        "day": 23,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "ehh, not worth it.. boring and dragged out"
+    },
+    {
+      "user": "laursecan",
+      "score": 3,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Find Something Better to do on \"New Year's Eve\""
+    },
+    {
+      "user": "Boba_Fett1138",
+      "score": 4,
+      "review_date": {
+        "day": 17,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Call me unromantic but what does new year's eve have to do with romance in the first place?"
+    },
+    {
+      "user": "estebangonzalez10",
+      "score": 5,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Not a very promising 2012"
+    },
+    {
+      "user": "ArtandJoyofMovies",
+      "score": 8,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A sure fire DVD seller for New Years"
+    },
+    {
+      "user": "tabuno",
+      "score": 9,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A Charming and Richly Captivating Holiday Movie"
+    },
+    {
+      "user": "Tobias van Rooijen",
+      "score": 8,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Great Movie!"
+    },
+    {
+      "user": "rivertam26",
+      "score": 6,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Better than I expected"
+    },
+    {
+      "user": "emsey_j",
+      "score": 1,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "snore me a bore"
+    },
+    {
+      "user": "Arcturus36",
+      "score": 5,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Not good, but not bad either"
+    },
+    {
+      "user": "stephenbirch",
+      "score": 7,
+      "review_date": {
+        "day": 26,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Give Credit Where Credit is Due"
+    },
+    {
+      "user": "Tomislav Vukovic",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A modern fairy tale"
+    },
+    {
+      "user": "swiss-sis2",
+      "score": 9,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "I believe that New Year's Eve is a better, modified version of Valentine's Day. It's a string of stories and people's lives that intertwine during one special holiday."
+    },
+    {
+      "user": "Renata Ikic Radeka",
+      "score": 9,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Merry, festive, smiling people, some hurtful scenes, not much comedy but plenty of 'feel good' scenes. You will leave theatre and eagerly await New Year's Eve."
+    },
+    {
+      "user": "azeeliramli",
+      "score": 6,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Like! But Not That Much."
+    },
+    {
+      "user": "Nusrat Howard-Moore",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Lovely...perhaps because I'm a woman"
+    },
+    {
+      "user": "moviexclusive",
+      "score": 6,
+      "review_date": {
+        "day": 7,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Nothing more- and less- than a feel-good holiday movie for the season"
+    },
+    {
+      "user": "tmayx",
+      "score": 8,
+      "review_date": {
+        "day": 20,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "A Movie I could sit through"
+    },
+    {
+      "user": "katrinaandjamie",
+      "score": 9,
+      "review_date": {
+        "day": 9,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "I really liked this movie!"
+    },
+    {
+      "user": "javaidth",
+      "score": 9,
+      "review_date": {
+        "day": 24,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Certainly worth watching..."
+    },
+    {
+      "user": "ellesofie-wever",
+      "score": 8,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Reed, and see for yourself"
+    },
+    {
+      "user": "Twodude Review",
+      "score": 6,
+      "review_date": {
+        "day": 4,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "for the hopeless romantic"
+    },
+    {
+      "user": "smkmamd",
+      "score": 9,
+      "review_date": {
+        "day": 31,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Excellent!"
+    },
+    {
+      "user": "kdorsey321",
+      "score": 7,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "New Years Eve Movie"
+    },
+    {
+      "user": "wagneryael",
+      "score": 5,
+      "review_date": {
+        "day": 24,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Great cast, wasted"
+    },
+    {
+      "user": "dunedin",
+      "score": 2,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Boring"
+    },
+    {
+      "user": "tavm",
+      "score": 6,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Garry Marshall's New Year's Eve is another of his okay fluff movies"
+    },
+    {
+      "user": "Don Kamps",
+      "score": 9,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "See New Year's Eve for an entertaining movie"
+    },
+    {
+      "user": "patty95124",
+      "score": 10,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Exceeded my expectations"
+    },
+    {
+      "user": "softballchick1691",
+      "score": 10,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Great Movie"
+    },
+    {
+      "user": "wadesteru-626-397657",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A Good, Overall Seasonal \"Comfy\" Movie to see before New Years!"
+    },
+    {
+      "user": "isabelle_lacerda",
+      "score": 10,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "It is a great movie"
+    },
+    {
+      "user": "hip_hop_chic76",
+      "score": 9,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Fantabulous feel good movie"
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "score": 7,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "A Romcom for Auld Lang Syne"
+    },
+    {
+      "user": "EricaPolo",
+      "score": 10,
+      "review_date": {
+        "day": 11,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "loved it!"
+    },
+    {
+      "user": "Pumpkin_Man",
+      "score": 10,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Happy New Year!!!"
+    },
+    {
+      "user": "Caitlyn O'Neill",
+      "score": 10,
+      "review_date": {
+        "day": 11,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Best Movie Ever"
+    },
+    {
+      "user": "trevor-duggan",
+      "score": 10,
+      "review_date": {
+        "day": 10,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Absolutely Enjoyed"
+    },
+    {
+      "user": "Philip-David-Truscott",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Fast paced, funny and uplifting.  One of my three best films of 2011"
+    }
+  ],
+  "release_year": 2011,
+  "max_screens": 3505,
+  "screens_by_weekend": [
+    3505,
+    3505,
+    2585,
+    2225,
+    1864,
+    1092,
+    265,
+    62,
+    222,
+    155,
+    33
+  ],
+  "critic_review_count": 201,
   "num_weekends": 11,
-  "rating_freq": {
-    "1": 3094,
-    "2": 2312,
-    "3": 3455,
-    "4": 6269,
-    "5": 12376,
-    "6": 15469,
-    "7": 11464,
-    "8": 6455,
-    "9": 2890,
-    "10": 5544
-  },
-  "budget": 56000000,
-  "votes_per_demo": {
-    "non-us_users": 35746,
-    "aged_45+": 4391,
-    "females_aged_45+": 1364,
-    "imdb_staff": 7,
-    "females_under_18": 175,
-    "males_aged_45+": 2950,
-    "females_aged_18-29": 18109,
-    "males_aged_30-44": 12792,
-    "females": 29261,
-    "imdb_users": 69328,
-    "us_users": 9629,
-    "males_under_18": 58,
-    "top_1000_voters": 343,
-    "aged_under_18": 241,
-    "males": 30294,
-    "males_aged_18-29": 13213,
-    "females_aged_30-44": 8139,
-    "aged_30-44": 21263,
-    "aged_18-29": 31733
-  },
   "closing_date": {
-    "month": 2,
-    "__type__": "datetime.date",
     "day": 17,
-    "year": 2012
+    "year": 2012,
+    "__type__": "datetime.date",
+    "month": 2
   },
-  "gross_income": 54540525,
+  "opening_weekend_screens": 3505,
+  "rating": 5.7,
+  "opening_weekend_income": 13019180,
+  "user_review_count": 137,
+  "budget": 56000000,
+  "rating_count": 69330,
+  "metascore": 22,
+  "duration": 113,
   "avg_rating_per_demo": {
     "non-us_users": 5.6,
-    "aged_45+": 5.5,
-    "females_aged_45+": 6.0,
-    "imdb_staff": 4.3,
+    "aged_30-44": 5.4,
+    "top_1000_voters": 4.6,
+    "us_users": 5.3,
     "females_under_18": 7.0,
-    "males_aged_45+": 5.4,
-    "females_aged_18-29": 6.1,
     "males_aged_30-44": 5.2,
     "females": 6.0,
     "imdb_users": 5.7,
-    "us_users": 5.3,
-    "males_under_18": 6.1,
-    "top_1000_voters": 4.6,
-    "aged_under_18": 6.7,
+    "aged_45+": 5.5,
     "males": 5.4,
+    "females_aged_45+": 6.0,
+    "females_aged_18-29": 6.1,
+    "aged_under_18": 6.7,
+    "males_under_18": 6.1,
     "males_aged_18-29": 5.6,
     "females_aged_30-44": 5.8,
-    "aged_30-44": 5.4,
+    "males_aged_45+": 5.4,
+    "imdb_staff": 4.3,
     "aged_18-29": 5.8
   },
-  "opening_weekend_date": {
-    "month": 12,
-    "__type__": "datetime.date",
-    "day": 9,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 35748,
+    "aged_30-44": 21267,
+    "top_1000_voters": 343,
+    "us_users": 9628,
+    "females_under_18": 175,
+    "males_aged_30-44": 12794,
+    "females": 29261,
+    "imdb_users": 69330,
+    "aged_45+": 4391,
+    "males": 30296,
+    "females_aged_45+": 1364,
+    "females_aged_18-29": 18107,
+    "aged_under_18": 241,
+    "males_under_18": 58,
+    "males_aged_18-29": 13213,
+    "females_aged_30-44": 8141,
+    "males_aged_45+": 2950,
+    "imdb_staff": 7,
+    "aged_18-29": 31731
   },
-  "budget_currency": "$",
-  "user_review_count": 137,
-  "metascore": 22,
-  "max_screens": 3505,
-  "duration": 113,
-  "rating_count": 69328,
-  "release_day": 9,
-  "release_month": "December",
-  "release_year": 2011,
+  "gross_income": 54540525,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 13019180,
-  "critic_review_count": 201,
-  "rating": 5.7,
-  "avg_screens": 1410.2727272727273,
-  "name": "New Year's Eve",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 9,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 12
+  }
 }

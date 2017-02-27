@@ -1,45 +1,115 @@
 {
-  "critic_review_count": 28,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 12,
-    "day": 13
-  },
-  "release_month": "October",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 10,
-    "day": 4
-  },
-  "metascore": 86,
-  "max_screens": 9,
-  "duration": 88,
-  "rating_count": 1013,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 3,
+  "release_day": 2,
   "avg_rating_per_demo": {
-    "non-us_users": 7.7,
-    "females_aged_18-29": 8.4,
-    "females": 8.1,
-    "females_aged_30-44": 7.8,
-    "aged_45+": 7.8,
-    "aged_under_18": 9.0,
-    "males_aged_30-44": 7.8,
     "top_1000_voters": 6.8,
-    "aged_30-44": 7.8,
+    "males_under_18": 9.0,
+    "aged_45+": 7.8,
+    "imdb_users": 7.9,
+    "males_aged_45+": 7.7,
+    "aged_18-29": 8.0,
+    "females_aged_30-44": 7.8,
     "males_aged_18-29": 7.9,
     "males": 7.8,
+    "females": 8.1,
     "females_aged_45+": 8.1,
-    "males_under_18": 9.0,
-    "imdb_users": 7.9,
+    "non-us_users": 7.7,
+    "females_aged_18-29": 8.4,
     "us_users": 7.9,
-    "males_aged_45+": 7.7,
-    "aged_18-29": 8.0
+    "aged_30-44": 7.8,
+    "aged_under_18": 9.0,
+    "males_aged_30-44": 7.8
   },
-  "user_review_count": 4,
+  "closing_date": {
+    "month": 12,
+    "year": 2013,
+    "day": 13,
+    "__type__": "datetime.date"
+  },
+  "metascore": 86,
+  "num_weekends": 3,
+  "rating_count": 1013,
+  "gross_income": 59033,
+  "max_screens": 9,
+  "opening_weekend_screens": 2,
+  "screens_by_weekend": [
+    2,
+    9,
+    3
+  ],
+  "opening_weekend_income": 5226,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "A Forgotten Disaster Worth Remembering",
+      "score": 8,
+      "user": "soncoman",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sadly, we didn't seem to have learned much from all this.",
+      "score": 8,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A forgotten tragedy that still has relevance today",
+      "score": 9,
+      "user": "Nate Kelder",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Offensive Propaganda",
+      "score": 3,
+      "user": "asc85",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 88,
+  "votes_per_demo": {
+    "top_1000_voters": 40,
+    "males_under_18": 2,
+    "aged_45+": 210,
+    "imdb_users": 1013,
+    "males_aged_45+": 171,
+    "aged_18-29": 221,
+    "females_aged_30-44": 39,
+    "males_aged_18-29": 184,
+    "males": 797,
+    "females": 107,
+    "females_aged_45+": 33,
+    "non-us_users": 323,
+    "females_aged_18-29": 33,
+    "us_users": 495,
+    "aged_30-44": 456,
+    "aged_under_18": 2,
+    "males_aged_30-44": 413
+  },
+  "genres": [
+    "documentary",
+    "drama",
+    "history"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 15,
     "2": 2,
@@ -52,37 +122,20 @@
     "9": 179,
     "10": 126
   },
-  "genres": [
-    "documentary",
-    "drama",
-    "history"
-  ],
+  "release_month": "October",
   "budget": null,
-  "rating": 7.9,
-  "name": "Let the Fire Burn",
-  "opening_weekend_income": 5226,
-  "avg_screens": 4.666666666666667,
-  "gross_income": 59033,
-  "votes_per_demo": {
-    "non-us_users": 323,
-    "females_aged_18-29": 33,
-    "females": 107,
-    "females_aged_30-44": 39,
-    "aged_45+": 210,
-    "aged_under_18": 2,
-    "males_aged_30-44": 413,
-    "top_1000_voters": 40,
-    "aged_30-44": 456,
-    "males_aged_18-29": 184,
-    "males": 797,
-    "females_aged_45+": 33,
-    "males_under_18": 2,
-    "imdb_users": 1013,
-    "us_users": 495,
-    "males_aged_45+": 171,
-    "aged_18-29": 221
-  },
-  "release_year": 2013,
   "budget_currency": null,
-  "release_day": 2
+  "total_screens": 14,
+  "year": 2013,
+  "rating": 7.9,
+  "critic_review_count": 28,
+  "opening_weekend_date": {
+    "month": 10,
+    "year": 2013,
+    "day": 4,
+    "__type__": "datetime.date"
+  },
+  "name": "Let the Fire Burn",
+  "user_review_count": 4,
+  "avg_screens": 4.666666666666667
 }

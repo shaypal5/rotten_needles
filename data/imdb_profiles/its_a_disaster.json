@@ -1,91 +1,605 @@
 {
-  "critic_review_count": 73,
-  "year": 2012,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 4,
-    "day": 19
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 4,
-    "day": 12
-  },
-  "metascore": 57,
-  "max_screens": 13,
-  "duration": 88,
-  "rating_count": 8803,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 2,
+  "release_day": null,
   "avg_rating_per_demo": {
+    "aged_45+": 6.3,
+    "top_1000_voters": 5.4,
+    "males_under_18": 7.9,
+    "imdb_staff": 2.0,
+    "males_aged_18-29": 6.7,
+    "imdb_users": 6.5,
+    "males_aged_45+": 6.3,
+    "aged_18-29": 6.6,
+    "us_users": 6.6,
+    "females_aged_30-44": 6.3,
+    "males": 6.5,
+    "females": 6.3,
+    "females_aged_45+": 6.2,
     "non-us_users": 6.3,
     "females_aged_18-29": 6.4,
-    "females": 6.3,
-    "aged_45+": 6.3,
     "females_under_18": 7.5,
-    "imdb_users": 6.5,
-    "imdb_staff": 2.0,
-    "females_aged_30-44": 6.3,
-    "aged_under_18": 7.5,
-    "males_aged_30-44": 6.4,
-    "top_1000_voters": 5.4,
     "aged_30-44": 6.4,
-    "males_aged_18-29": 6.7,
-    "males": 6.5,
-    "females_aged_45+": 6.2,
-    "males_under_18": 7.9,
-    "us_users": 6.6,
-    "males_aged_45+": 6.3,
-    "aged_18-29": 6.6
+    "aged_under_18": 7.5,
+    "males_aged_30-44": 6.4
   },
-  "user_review_count": 50,
-  "rating_freq": {
-    "1": 215,
-    "2": 153,
-    "3": 193,
-    "4": 429,
-    "5": 923,
-    "6": 1974,
-    "7": 2461,
-    "8": 1523,
-    "9": 490,
-    "10": 442
+  "closing_date": {
+    "month": 4,
+    "year": 2013,
+    "day": 19,
+    "__type__": "datetime.date"
+  },
+  "metascore": 57,
+  "num_weekends": 2,
+  "rating_count": 8805,
+  "gross_income": 38100,
+  "max_screens": 13,
+  "opening_weekend_screens": 3,
+  "screens_by_weekend": [
+    3,
+    13
+  ],
+  "opening_weekend_income": 15305,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Fantastic and funny film",
+      "score": 8,
+      "user": "reimagination",
+      "review_date": {
+        "month": 10,
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another example of how the low budget under-the-radar movies are better then big Hollywood movies. HILARIOUS!!! I say A-.",
+      "score": 8,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie",
+      "score": 8,
+      "user": "preemptiveselfdefense",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Witty, filled with knowing clich\u00e9s, and the brightest dark humor you'll find",
+      "score": 8,
+      "user": "secondtake",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This was a rather nice surprise...",
+      "score": 7,
+      "user": "Paul Magne Haakonsen",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better as a stage performance",
+      "score": 5,
+      "user": "James Farmer",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious",
+      "score": 8,
+      "user": "thedudeabides-2",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cleverness & Humor Never Fully Succeeds",
+      "score": 4,
+      "user": "Larry Silverstein",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best \"End of the World\" movie EVER!",
+      "score": 10,
+      "user": "petinvent",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great \"social study\"-like piece of fiction",
+      "score": 9,
+      "user": "Benjamin Philipp (Benjamin_Philipp)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You don't need a big budget to make a movie about the world ending",
+      "score": 7,
+      "user": "scottyxl",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Surprise",
+      "score": 8,
+      "user": "namedujour",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Couples brunch.",
+      "score": 7,
+      "user": "morrison-dylan-fan",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is what life is like",
+      "score": 8,
+      "user": "Lele (rvalente@iol.it)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dry like the Sahara......",
+      "score": 7,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a not such a Disaster",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clueless Young Adults Confront Haha Imminent Death",
+      "score": 1,
+      "user": "steve1480",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Care free",
+      "score": 4,
+      "user": "begob",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clever Idea but Misses Somehow",
+      "score": 6,
+      "user": "dansview",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The name says it all...",
+      "score": 2,
+      "user": "johloe11",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't even watch it",
+      "score": 3,
+      "user": "Peter Midknight",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There wouldn't be cats, if curiosity kills the cat.",
+      "score": 9,
+      "user": "ottfried (ottfried@gmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's anything but, actually",
+      "score": 9,
+      "user": "bob_meg",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coherent",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid film, but a weak ending almost makes it a disaster",
+      "score": 6,
+      "user": "Reaper-of-Souls",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is off the hook!",
+      "score": 9,
+      "user": "gorf77",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fun little indie comedy which has the merit of originality.",
+      "score": 7,
+      "user": "Ordinary Review (theordinaryreview@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worse than Awful",
+      "score": 1,
+      "user": "arfdawg-1",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious...I Wish it Had Received More Attention",
+      "score": 8,
+      "user": "brando647",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Smart",
+      "score": 9,
+      "user": "irabovsky",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I really LOVED IT and i HOPE there's a SEQUEL !!!",
+      "score": 10,
+      "user": "dave k",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a remake! not an original film at all!, the original is from Luis Bu\u00f1uel.",
+      "score": 8,
+      "user": "Fito Pardo (fitopardo@icloud.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a Darkly Comic Masterpiece",
+      "score": 9,
+      "user": "themissingpatient",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "AWESOME sleeper.  Best in a loooong time",
+      "score": 10,
+      "user": "D V",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Right At Your Door, Too",
+      "score": 8,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the end of the world",
+      "score": 6,
+      "user": "Royalcourtier",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Not Great Relationship Comedy",
+      "score": 6,
+      "user": "gavin6942",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The hilarious end of the world for 8 ill-prepared people",
+      "score": 8,
+      "user": "napierslogs",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "another bad doomsday movie",
+      "score": 2,
+      "user": "palagala372",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cool idea, but ultimately disappoints",
+      "score": 4,
+      "user": "pcrprimer",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shallow. Awkward. Irritating.",
+      "score": 5,
+      "user": "stills-6",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If dry humour is for you then it's an absolute joy.",
+      "score": 8,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a Disaster Is Anything But That!",
+      "score": 8,
+      "user": "Pamela Powell",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dull hipsters whine",
+      "score": 2,
+      "user": "Half-formed",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny moments",
+      "score": 6,
+      "user": "jackshrack",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An unfinished story",
+      "score": 1,
+      "user": "vasiliskts",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 88,
+  "votes_per_demo": {
+    "aged_45+": 1257,
+    "top_1000_voters": 148,
+    "males_under_18": 7,
+    "imdb_staff": 1,
+    "males_aged_18-29": 1677,
+    "imdb_users": 8805,
+    "males_aged_45+": 1020,
+    "aged_18-29": 2220,
+    "us_users": 2910,
+    "females_aged_30-44": 707,
+    "males": 6317,
+    "females": 1517,
+    "females_aged_45+": 206,
+    "non-us_users": 3816,
+    "females_aged_18-29": 525,
+    "females_under_18": 2,
+    "aged_30-44": 4176,
+    "aged_under_18": 10,
+    "males_aged_30-44": 3406
   },
   "genres": [
     "comedy",
     "drama"
   ],
-  "budget": null,
-  "rating": 6.5,
-  "name": "It's a Disaster",
-  "opening_weekend_income": 15305,
-  "avg_screens": 8.0,
-  "gross_income": 38100,
-  "votes_per_demo": {
-    "non-us_users": 3815,
-    "females_aged_18-29": 524,
-    "females": 1516,
-    "aged_45+": 1257,
-    "females_under_18": 2,
-    "imdb_users": 8803,
-    "imdb_staff": 1,
-    "females_aged_30-44": 707,
-    "aged_under_18": 10,
-    "males_aged_30-44": 3405,
-    "top_1000_voters": 148,
-    "aged_30-44": 4175,
-    "males_aged_18-29": 1677,
-    "males": 6316,
-    "females_aged_45+": 206,
-    "males_under_18": 7,
-    "us_users": 2909,
-    "males_aged_45+": 1020,
-    "aged_18-29": 2219
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 215,
+    "2": 153,
+    "3": 194,
+    "4": 429,
+    "5": 923,
+    "6": 1975,
+    "7": 2461,
+    "8": 1523,
+    "9": 490,
+    "10": 442
   },
-  "release_year": null,
+  "release_month": null,
+  "budget": null,
   "budget_currency": null,
-  "release_day": null
+  "total_screens": 16,
+  "year": 2012,
+  "rating": 6.5,
+  "critic_review_count": 73,
+  "opening_weekend_date": {
+    "month": 4,
+    "year": 2013,
+    "day": 12,
+    "__type__": "datetime.date"
+  },
+  "name": "It's a Disaster",
+  "user_review_count": 50,
+  "avg_screens": 8.0
 }

@@ -1,92 +1,2309 @@
 {
-  "num_weekends": 11,
-  "duration": 102,
+  "budget": 68000000,
+  "opening_weekend_income": 12750297,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 12,
+    "__type__": "datetime.date",
+    "month": 10
+  },
+  "budget_currency": "$",
+  "avg_screens": 904.4545454545455,
   "rating_freq": {
     "1": 3093,
-    "2": 2896,
-    "3": 5206,
-    "4": 10303,
+    "2": 2895,
+    "3": 5207,
+    "4": 10305,
     "5": 21039,
-    "6": 29072,
+    "6": 29074,
     "7": 19789,
     "8": 8219,
     "9": 2736,
-    "10": 4657
+    "10": 4658
   },
-  "release_year": 2012,
-  "budget_currency": "$",
-  "rating": 5.7,
-  "release_day": 27,
-  "budget": 68000000,
-  "votes_per_demo": {
-    "us_users": 18158,
-    "imdb_users": 107010,
-    "aged_30-44": 39257,
-    "males": 78848,
-    "males_aged_18-29": 34492,
-    "top_1000_voters": 456,
-    "females_aged_30-44": 4873,
-    "imdb_staff": 9,
-    "females": 13582,
-    "females_aged_45+": 972,
-    "females_under_18": 50,
-    "aged_under_18": 276,
-    "aged_45+": 7105,
-    "females_aged_18-29": 6753,
-    "non-us_users": 53078,
-    "males_aged_45+": 6011,
-    "males_under_18": 223,
-    "aged_18-29": 41679,
-    "males_aged_30-44": 33939
-  },
-  "metascore": 36,
-  "avg_rating_per_demo": {
-    "us_users": 5.7,
-    "imdb_users": 5.7,
-    "aged_30-44": 5.6,
-    "males": 5.7,
-    "males_aged_18-29": 5.9,
-    "top_1000_voters": 5.1,
-    "females_aged_30-44": 5.4,
-    "imdb_staff": 5.6,
-    "females": 5.6,
-    "females_aged_45+": 5.4,
-    "females_under_18": 6.3,
-    "aged_under_18": 6.4,
-    "aged_45+": 5.4,
-    "females_aged_18-29": 5.7,
-    "non-us_users": 5.6,
-    "males_aged_45+": 5.4,
-    "males_under_18": 6.4,
-    "aged_18-29": 5.9,
-    "males_aged_30-44": 5.6
-  },
-  "rating_count": 107010,
-  "critic_review_count": 265,
-  "opening_weekend_income_currency": "$",
-  "name": "The Watch",
-  "user_review_count": 210,
-  "avg_screens": 904.4545454545455,
-  "release_month": "July",
-  "opening_weekend_date": {
-    "day": 27,
-    "month": 7,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "screens_by_weekend": [
+    3168,
+    3168,
+    2463,
+    513,
+    195,
+    135,
+    138,
+    77,
+    46,
+    32,
+    14
+  ],
+  "rating_count": 107015,
+  "total_screens": 9949,
   "max_screens": 3168,
+  "duration": 102,
   "gross_income": 34350553,
+  "metascore": 36,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 456,
+    "imdb_users": 107015,
+    "us_users": 18158,
+    "aged_18-29": 41669,
+    "non-us_users": 53078,
+    "aged_45+": 7106,
+    "aged_30-44": 39266,
+    "males_aged_30-44": 33946,
+    "males_aged_18-29": 34484,
+    "males_aged_45+": 6012,
+    "aged_under_18": 277,
+    "imdb_staff": 9,
+    "males_under_18": 223,
+    "females_aged_30-44": 4875,
+    "females": 13584,
+    "females_under_18": 51,
+    "females_aged_45+": 972,
+    "males": 78848,
+    "females_aged_18-29": 6751
+  },
+  "user_review_count": 210,
+  "rating": 5.7,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 5.1,
+    "imdb_users": 5.7,
+    "us_users": 5.7,
+    "aged_18-29": 5.9,
+    "non-us_users": 5.6,
+    "aged_45+": 5.3,
+    "aged_30-44": 5.6,
+    "males_aged_30-44": 5.6,
+    "males_aged_18-29": 5.9,
+    "males_aged_45+": 5.4,
+    "aged_under_18": 6.4,
+    "imdb_staff": 5.6,
+    "males_under_18": 6.4,
+    "females_aged_30-44": 5.4,
+    "females": 5.6,
+    "females_under_18": 6.3,
+    "females_aged_45+": 5.4,
+    "males": 5.7,
+    "females_aged_18-29": 5.7
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 27,
+    "__type__": "datetime.date",
+    "month": 7
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "Mike Keski",
+      "contents": "It was fun, a little breath of fresh-air.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Patrick Wetherbee",
+      "contents": "If you don't like fun then don't see the watch.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "Well, I had a good time with it!",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "gregeichelberger",
+      "contents": "Disappointing, disjointed and totally lacking in humor",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "reeseslightning",
+      "contents": "Don't take it seriously",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "my-lawyer",
+      "contents": "Slow, but boring",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "Sultan Alrefaei",
+      "contents": "it was a painful experience",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "chukkabutty",
+      "contents": "Somebody Kill Me!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "nama chakravorty",
+      "contents": "An Interesting Sci-Fi Comedy!",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Paul Connell",
+      "contents": "Totally unfunny waste of time",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "puloks",
+      "contents": "Horribly Unfunny!",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "M. J Arocena",
+      "contents": "Inexplicable",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "What a waste of talent!!!",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "darkeyes9090",
+      "contents": "Waste of time",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "GoneWithTheTwins",
+      "contents": "There are a few undeniably funny moments of vulgarity styled after the laughs often found in the works of Jonah Hill and Seth Rogen.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "petit76",
+      "contents": "quite a boring script and poor acting",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Bollywood_Chewbacca (celebritylargeinflamation@hotmail.com)",
+      "contents": "Potty Humor without the Humor..",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "danj127",
+      "contents": "Awful",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "SanteeFats",
+      "contents": "So stupid",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "Sara Fleischman",
+      "contents": "Don't Bother",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "stephen-whipp",
+      "contents": "Terrible",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "ericzillazillo",
+      "contents": "Regret watching this on a weekday",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "na-5-928433",
+      "contents": "COULD of been a great film....",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "ddirkhendel",
+      "contents": "What in the world ???",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "ckolet37",
+      "contents": "Don't watch The Watch",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "A disgusting piece of trash",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "Foul Mouthed But Not Very Funny",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "Stuart Dye",
+      "contents": "Not really worth the money that it cost",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "leatherdykeuk",
+      "contents": "A Fun Romp",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "fedor8",
+      "contents": "Here in Hollywood we value diversity.",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "contents": "all teenage boy humor all the time",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "joshjmuir",
+      "contents": "Funny despite Hollywood contrivances",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "g-bodyl",
+      "contents": "Admittedly Entertaining!",
+      "review_date": {
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Dillon Harris",
+      "contents": "Had Much More Potential,",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "D M",
+      "contents": "A blend of comedy with a quest to defend our planet against an alien invasion",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "GVAjax .",
+      "contents": "Waning Moon",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Huck_Haines",
+      "contents": "Extremely Disappointing",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "kolsky",
+      "contents": "Awful, Really, Really Awful",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "david-sarkies",
+      "contents": "Not really that funny, but okay to watch once.",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "acegavey",
+      "contents": "Awful",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "ryanmurphythinks",
+      "contents": "What has happened to comedy?",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Bendara",
+      "contents": "Dull, vulgar and a waste of time",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Ahmed Okasha",
+      "contents": "I Didn't Get Bored But I Also Didn't Laugh So It is BAD",
+      "review_date": {
+        "year": 2017,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "MadMovieManiac",
+      "contents": "If you love comedies...",
+      "review_date": {
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Floated2",
+      "contents": "Forced Comedy",
+      "review_date": {
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "tieman64",
+      "contents": "You've been planning an alien invasion...in my Costco?",
+      "review_date": {
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Don't Watch.",
+      "review_date": {
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Nicholas Denvir",
+      "contents": "Fun but not fun at times",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "NJHammer_1980",
+      "contents": "If you like the cast and their type of comedy you will love this movie!",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "cliffhomewood",
+      "contents": "under-rated, a good laugh",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "MovieLoverToo",
+      "contents": "Silly but Entertaining",
+      "review_date": {
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Prismark10",
+      "contents": "One flew over the alien nest",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Kyle Melles (worldatwar44)",
+      "contents": "The (don't) Watch",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "My_Pet_Mongoose",
+      "contents": "Who Watches The Watch?",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "bowmanblue",
+      "contents": "A relaxing breath of fresh air",
+      "review_date": {
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "siderite",
+      "contents": "A certain type of humor",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Tejas Nair",
+      "contents": "402nd Review: At Least Give Some Respect To The Title... \u2666 61%",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "apb216",
+      "contents": "...seriously?",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "HelenMary",
+      "contents": "average Stiller-Vaughn fare - nothing out of the ordinary",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Raul Faust",
+      "contents": "The Slash",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Ana_Banana",
+      "contents": "So crazy it's funny",
+      "review_date": {
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "mso88",
+      "contents": "Auto-erotic energy",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "blackborg917",
+      "contents": "Absolutely  Terrible",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Avid Climber",
+      "contents": "The Watch \u0097 Silly stuff aplenty",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "The Watch",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "meeza (themeezaman@hotmail.com)",
+      "contents": "Watch at your own risk",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "thekarmicnomad",
+      "contents": "Wash out",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "WilmoTheBear",
+      "contents": "Decent",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: The Watch",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "seraphin01",
+      "contents": "As bad as it can gets",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Slerte",
+      "contents": "Hogwash",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "penguin",
+      "contents": "Smut, vulgar and crass",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "ScapegoatsOfTheEmpire",
+      "contents": "Neighborhood watch patrol fiasco",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "Welcome to the candy store....",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "robmercer-1",
+      "contents": "Fun for 13 Year Old Boys",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "Sub Critical",
+      "contents": "Boring",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "samuel_dennis786",
+      "contents": "YawNNNNNnnnnnnnnnNNNNNNNNnnnnn!!!!!!!!!!!!!!!!!!!!!!",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "Dave manager",
+      "contents": "this is gutter smut at its worst",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "glkris",
+      "contents": "Got to be kidding me",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "illbebackreviews",
+      "contents": "Decent",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "tavm",
+      "contents": "Ben Stiller and Vince Vaughn can't undo the big unevenness that is The Watch",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "Jan Strydom",
+      "contents": "A very non-funny comedy.",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "redeyeryan",
+      "contents": "Not as bad as a violent nosebleed.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "The Raunchy Alien Invasion Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "yaktheripper",
+      "contents": "Watch Nothing",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "vladimir-ristovski",
+      "contents": "nothing special",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "mqkmail",
+      "contents": "Poor but could have been worse",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Diwali-Jumbonads",
+      "contents": "Ultimately Lame, but Okay for those who Enjoy Lameness?",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "contents": "The Watch (2012) - Got Protection?",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "blogurious",
+      "contents": "Protect your pocket!",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": " (bob-rutzel-1)",
+      "contents": "Not Funny.  Raunchy",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "arnoud-7",
+      "contents": "i've walked out on this movie...",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "kycarol9257",
+      "contents": "I didn't like this movie at all",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "Four letter words obscure wit, direction, writing, etc",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "Gross, Silly and Unfunny",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "Joey Garrison",
+      "contents": "Pretty Awful",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "ArthurMausser",
+      "contents": "Sorry, Seth Rogen, You and your Troupe come out flat...",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "patsworld",
+      "contents": "Just Another Foul-Mouth Film",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "dmhughes-448-695102",
+      "contents": "Stiller, Vaughn, and Hill...What Could Go Wrong? Oh Wait, Everything!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "justinwildcat23",
+      "contents": "Terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "ironmaiden138",
+      "contents": "Good Clean Fun",
+      "review_date": {
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "karen-821-938620",
+      "contents": "Wouldn't be so bad if it weren't.",
+      "review_date": {
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "view_and_review",
+      "contents": "Neighborhood Watch Meets Alien... A Riot",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "George Clarke",
+      "contents": "Dark, funny and bizarre!",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Lia Riemann",
+      "contents": "So bad it's good",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "richieandsam",
+      "contents": "Not the greatest comedy, but a good sci-fi film.",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "PartialMovieViewer",
+      "contents": "Easy to Forget",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "viewsonfilm.com",
+      "contents": "There are only a few moments in The Watch that you'll wanna \"watch\"",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "Freddie  Essam",
+      "contents": "Huge potential, full of disappointment.",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "beetleborgs69",
+      "contents": "Non-existent \"sci-fi comedy\" product",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Jordan  Allan",
+      "contents": "\"The Watch\" had potential, but in the end just got annoying",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "Lloyd Bayer",
+      "contents": "The beginning of the end of frat pack comedies",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "callanvass",
+      "contents": "I thought it was alright. Nothing that will make your day, but it works as an OK time-waster.",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Trayvon Martin is the least of its problems",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "robertharveylaw",
+      "contents": "It would have been much worse with Adam Sandler",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "immature husbands versus aliens...",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Treyroo",
+      "contents": "Stiller fail",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews...",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "The comedy got lost somewhere along the way...",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "mjkelly26-562-665142",
+      "contents": "Garbage, garbage, garbage.",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "pjdevor",
+      "contents": "Not Bad....awful",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "gonadbag-432-849747",
+      "contents": "Seth Rogen has got to be kidding!",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Watch out",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Thomasamills",
+      "contents": "'Ted' Is Still The Funniest Film Of The Summer",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Jeff Lee",
+      "contents": "A whole lot of tawdry humor",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "HagenSteele",
+      "contents": "Enjoyable performances, poor script....",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "Bevan Mortimer",
+      "contents": "A much better watch than I expected  (see what I did there?)",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Bene Cumb",
+      "contents": "Often amusing, but not really witty",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "TheNorwegianGuy",
+      "contents": "Just okay.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "lagudafuad",
+      "contents": "weak story, weak screenplay....but i did laugh",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "JenEvans1",
+      "contents": "It was OK",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "zetes",
+      "contents": "The cast is talented, but there's no script",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "maril717",
+      "contents": "Oh, that Neighborhood Watch! LOL",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "Radoslav Dimitrov",
+      "contents": "Pretty boring",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "Faisal Khatib",
+      "contents": "This was clearly a case where less was better than more, but it seems nobody told that to the director Akiva Schaffer.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "FilmStallion",
+      "contents": "The Watch...2 out of 4 Skittles",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "fullfacile",
+      "contents": "Probably the best \"late night\" comedy this year",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Figaro14",
+      "contents": "Worst Comedy of the Year",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "TrickrTreat39",
+      "contents": "Better than people would have you expect",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "mm-39",
+      "contents": "Okay film.",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Mya Pinion",
+      "contents": "Four misfits form a neighbourhood watch and try to protect their community when bizarre things start happening.",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "You will laugh, and then forget about it",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Watchable",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "fionagreen1",
+      "contents": "Very Watchable (Surprisingly)",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "dee.reid",
+      "contents": "\"The Watch\" (2012) - Bumbling do-gooders are worth a watch...",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "mozoloman",
+      "contents": "The Watch Review",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "damon-bakker",
+      "contents": "great laugh",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "fureetutawk",
+      "contents": "Let your hair down, be young again, and crack a smile",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "jason-duffin",
+      "contents": "Shouldn't be below 6!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "cj121288",
+      "contents": "Great, possible spoiler.",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "tyman4562002",
+      "contents": "All around good film",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film Review: Watch out for absurdity.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "cprieto-cesar",
+      "contents": "Really entertaining!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Daniel O'Sullivan",
+      "contents": "Did I watch the same thing? It WAS good!",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "jackstarr777",
+      "contents": "Not everyone's cup of tea, but a fun ride",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "deatman9",
+      "contents": "Better then a 5.8",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "rossforbes",
+      "contents": "Why the hate? A comedy that truly delivers!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "CaptChadd",
+      "contents": "Funny and sarcastic script, great CGI FX and casting.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "rebecca-ry",
+      "contents": "The revival of comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "armymen11",
+      "contents": "Enjoyable movie !",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "liamsikic",
+      "contents": "Good enough for a laugh!",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "ted_leanse",
+      "contents": "Makes you laugh but.....",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Rude talking and aliens",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Izzy Hutch",
+      "contents": "Funny and scary",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "godofwarmaster13",
+      "contents": "A must see",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "George Walker",
+      "contents": "If You're a Fan, You'll love this",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "folgrim16",
+      "contents": "rude and crude but damn funny",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "biosfeer",
+      "contents": "Hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "wilson trivino",
+      "contents": "keeping an eye out in the hood",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "micutza5000",
+      "contents": "Great comedy! Go watch it immediately!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "cohuttablue-imdb",
+      "contents": "Funny and silly, lots of laughs.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "ollie280112",
+      "contents": "Awesome",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "paulkline",
+      "contents": "Not half as bad as people said it was. I laughed a lot!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Troy_Campbell",
+      "contents": "Good for a chuckle or two.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "Much to my chagrin, sometimes, somehow vulgar and stupid works",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "A very funny movie with a great cast but I was hoping for funnier. I recommend this but thought they could have done more. I say B",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "bkoganbing",
+      "contents": "Who YA Gonna Call ---- The Watch",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "thetonystabile",
+      "contents": "This could have worked as a sitcom.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "ThePadraigMoista",
+      "contents": "It isn't the best film, but it does provide laughs, however rare and mildly amusing they are.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "contents": "Lame sci-fi comedy that tries to do for neighborhood watches what GHOSTBUSTERS did for paranormal scientists but fails miserably",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "cj_diaz",
+      "contents": "I liked this movie!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Becky Tomlinson",
+      "contents": "I. Love. This. Film.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "cultfilmfreaksdotcom",
+      "contents": "A Pretty Good Watch",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Ayoade gives a star making performance and probably steals the show when all is said and done.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "Where are the Men In Black when you really need them?",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "akorna",
+      "contents": "Amazing",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "UberGoober1411",
+      "contents": "Predictable but still funny",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "tonsofreview",
+      "contents": "Vulgar But Otherwise Funny",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "maxwellcomics",
+      "contents": "Richard Ayoade is amazing as always!",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "birdzgreen",
+      "contents": "Movie was not as bad as reviews says",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "kdorsey321",
+      "contents": "Watch out now!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "rgkarim",
+      "contents": "Not A Bad Watch, But Not Worth The Trip To The Theater",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "italianabella42",
+      "contents": "Very Very Funny must see!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "marlloryperez",
+      "contents": "awesome",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "vivietta5",
+      "contents": "\"The Watch\" Is Very Funny",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Pumpkin_Man",
+      "contents": "Absolutely Hilarious!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "jaygowaco",
+      "contents": "An Fun movie that delivers laughs, thrills and the right amount of heart",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "hi_im_manic",
+      "contents": "Worth Watching! Bring your friends.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "rgblakey",
+      "contents": "The Watch is on patrol",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "TheSloppy",
+      "contents": "The Watch, The one to watch.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    }
+  ],
+  "release_month": "July",
   "genres": [
     "action",
     "comedy",
     "sci-fi"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 12,
-    "month": 10,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 12750297
+  "opening_weekend_screens": 3168,
+  "name": "The Watch",
+  "num_weekends": 11,
+  "release_day": 27,
+  "critic_review_count": 265
 }

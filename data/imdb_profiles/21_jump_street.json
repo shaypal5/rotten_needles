@@ -1,92 +1,3798 @@
 {
-  "name": "21 Jump Street",
+  "budget": 42000000,
   "opening_weekend_income": 36302612,
-  "genres": [
-    "action",
-    "comedy",
-    "crime"
-  ],
-  "rating": 7.2,
-  "rating_count": 425222,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 16,
+  "year": 2012,
+  "closing_date": {
     "year": 2012,
-    "month": 3
+    "day": 29,
+    "__type__": "datetime.date",
+    "month": 6
   },
-  "user_review_count": 351,
+  "budget_currency": "$",
+  "avg_screens": 1306.4,
   "rating_freq": {
     "1": 3732,
     "2": 2413,
     "3": 3995,
     "4": 8217,
-    "5": 21117,
-    "6": 58118,
-    "7": 127657,
-    "8": 112004,
-    "9": 45840,
-    "10": 42129
+    "5": 21118,
+    "6": 58130,
+    "7": 127678,
+    "8": 112016,
+    "9": 45848,
+    "10": 42136
   },
-  "release_day": 16,
-  "votes_per_demo": {
-    "males": 280899,
-    "females_aged_30-44": 17995,
-    "aged_under_18": 2354,
-    "non-us_users": 188989,
-    "males_aged_18-29": 151934,
-    "aged_18-29": 199170,
-    "males_aged_30-44": 95488,
-    "aged_45+": 16419,
-    "imdb_users": 425222,
-    "aged_30-44": 114841,
-    "us_users": 65725,
-    "females": 72291,
-    "females_aged_18-29": 45303,
-    "top_1000_voters": 671,
-    "males_aged_45+": 13332,
-    "females_under_18": 655,
-    "females_aged_45+": 2827,
-    "imdb_staff": 26,
-    "males_under_18": 1678
-  },
-  "avg_rating_per_demo": {
-    "males": 7.2,
-    "females_aged_30-44": 7.0,
-    "aged_under_18": 7.9,
-    "non-us_users": 7.1,
-    "males_aged_18-29": 7.4,
-    "aged_18-29": 7.4,
-    "males_aged_30-44": 6.9,
-    "aged_45+": 6.5,
-    "imdb_users": 7.2,
-    "aged_30-44": 6.9,
-    "us_users": 7.4,
-    "females": 7.3,
-    "females_aged_18-29": 7.5,
-    "top_1000_voters": 6.4,
-    "males_aged_45+": 6.5,
-    "females_under_18": 8.1,
-    "females_aged_45+": 6.6,
-    "imdb_staff": 7.0,
-    "males_under_18": 7.9
-  },
-  "avg_screens": 1306.4,
-  "release_month": "March",
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 69,
-  "gross_income": 138447667,
-  "critic_review_count": 374,
-  "budget_currency": "$",
-  "release_year": 2012,
-  "num_weekends": 15,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 29,
-    "year": 2012,
-    "month": 6
-  },
+  "screens_by_weekend": [
+    3121,
+    3121,
+    3009,
+    2735,
+    2427,
+    1820,
+    1040,
+    589,
+    261,
+    364,
+    330,
+    258,
+    220,
+    160,
+    141
+  ],
+  "rating_count": 425283,
+  "total_screens": 19596,
+  "max_screens": 3121,
   "duration": 110,
-  "budget": 42000000,
-  "max_screens": 3121
+  "gross_income": 138447667,
+  "metascore": 69,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 671,
+    "imdb_users": 425283,
+    "us_users": 65732,
+    "aged_18-29": 199171,
+    "non-us_users": 189005,
+    "aged_45+": 16427,
+    "aged_30-44": 114869,
+    "males_aged_30-44": 95516,
+    "males_aged_18-29": 151936,
+    "males_aged_45+": 13337,
+    "aged_under_18": 2349,
+    "imdb_staff": 26,
+    "males_under_18": 1674,
+    "females_aged_30-44": 17994,
+    "females": 72291,
+    "females_under_18": 654,
+    "females_aged_45+": 2830,
+    "males": 280937,
+    "females_aged_18-29": 45302
+  },
+  "user_review_count": 351,
+  "rating": 7.2,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 6.4,
+    "imdb_users": 7.2,
+    "us_users": 7.4,
+    "aged_18-29": 7.4,
+    "non-us_users": 7.1,
+    "aged_45+": 6.5,
+    "aged_30-44": 6.9,
+    "males_aged_30-44": 6.9,
+    "males_aged_18-29": 7.4,
+    "males_aged_45+": 6.5,
+    "aged_under_18": 7.9,
+    "imdb_staff": 7.0,
+    "males_under_18": 7.9,
+    "females_aged_30-44": 7.0,
+    "females": 7.3,
+    "females_under_18": 8.2,
+    "females_aged_45+": 6.6,
+    "males": 7.2,
+    "females_aged_18-29": 7.5
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 16,
+    "__type__": "datetime.date",
+    "month": 3
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "CraigLindholmMedia",
+      "contents": "Touche...",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "lagudafuad",
+      "contents": "I have to be honest, I never expected to like this movie, but boy was it good.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "JeanRalphio",
+      "contents": "Best Comedy so far of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "brendanrmorrow",
+      "contents": "Unexpectedly hilarious and clever. 21 Jump Street subverts all expectations.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Mek Torres",
+      "contents": "Fun In High School",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Turfseer",
+      "contents": "Few laughs in this 'Animal House meets Lethal Weapon' misfire",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "witster18",
+      "contents": "yeah, I was just like you",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "zzoaozz",
+      "contents": "Gets Old Fast (spoilers)",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "Bill Jason",
+      "contents": "Was this supposed to be funny??",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "simondragnes-322-892660",
+      "contents": "Had a feeling it would be bad, but it was worse than bad",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "mike rollins",
+      "contents": "disgusting unfunny filth",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "dixie211425",
+      "contents": "This was literally the worst movie I have seen in a while",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "markthetranny",
+      "contents": "21 junk street",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Quietb-1",
+      "contents": "Violence and profanity isn't funny",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "The_Riddler_1948",
+      "contents": "Funny film with some shipshape moments, tremendous laughs and ace action.",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Ncstategirl19956",
+      "contents": "A disappointment",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "Bruno Wang",
+      "contents": "We Are All Stupider For Having Seen This",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "i_love_joey_08",
+      "contents": "Seriously NOT 21 JUMP STREET",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "Dillon Harris",
+      "contents": "Non-Stop Laughs,",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Truckhitterfilms",
+      "contents": "Adam Sandler could have done this better",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "MadMovieManiac",
+      "contents": "A Great and Funny Buddy Film!!!",
+      "review_date": {
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Thomas (filmreviews@web.de)",
+      "contents": "21 Fun Street",
+      "review_date": {
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Ethan Jones",
+      "contents": "Definitely worth a watch but not as good as time passes",
+      "review_date": {
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "manuvanamali1995",
+      "contents": "What is so funny?Taught me not to believe  revies and IMDb blindly.",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "julicook",
+      "contents": "Totally abusive of the original series.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "caseymoviemania",
+      "contents": "CASEY'S MOVIE MANIA: 21 Jump Street (2012) review",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "ron-fernandez-pittsburgh",
+      "contents": "Ugh",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Tweekums",
+      "contents": "A really funny action comedy",
+      "review_date": {
+        "year": 2017,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Marthian80",
+      "contents": "Hilarious movie that makes fun of everything, including itself",
+      "review_date": {
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "stefanogallo0",
+      "contents": "This is an extremely hilarious movie. Would 100% Recommend!",
+      "review_date": {
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Gavin Henderson",
+      "contents": "They're getting too old for this shift.",
+      "review_date": {
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "colm-hearne365",
+      "contents": "The funniest comedy in years!",
+      "review_date": {
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "mistoppi",
+      "contents": "So much better than I expected",
+      "review_date": {
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "ufster ufster",
+      "contents": "Has that 80's coming of age movies' charm",
+      "review_date": {
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "luke-a-mcgowan",
+      "contents": "Comedies are just as capable of narrative brilliance as any other film",
+      "review_date": {
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "morrison-dylan-fan",
+      "contents": "The first jump.",
+      "review_date": {
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "MisterWhiplash",
+      "contents": "one of the pleasant surprises of 2012 for a few reasons",
+      "review_date": {
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "jasonfields-44266",
+      "contents": "So much fun",
+      "review_date": {
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "alindsay-al",
+      "contents": "A fantastic comedy that is pretty unique",
+      "review_date": {
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Chris Allen",
+      "contents": "Simultaneously a typical and innovative comedy film",
+      "review_date": {
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "gamergcfan",
+      "contents": "Nice to watch at first, but only becomes tolerable after about 20 minutes",
+      "review_date": {
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Leads Are the Only Thing That Jumps Here.",
+      "review_date": {
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "jamesbowen-96647",
+      "contents": "21 jump street who needs the Television show ?",
+      "review_date": {
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "phoenix 2",
+      "contents": "Good enough",
+      "review_date": {
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Davis P",
+      "contents": "Ehh... Just OK",
+      "review_date": {
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "chubbydave",
+      "contents": "Not Too Bad",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "bowmanblue",
+      "contents": "A pleasant surprise",
+      "review_date": {
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Isaiah Wilson",
+      "contents": "A movie that brings new life into the comedy genre.",
+      "review_date": {
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "sumeet 2014",
+      "contents": "below average , funny in parts , rubbish throughout",
+      "review_date": {
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "Akshay Hegde",
+      "contents": "Quite entertaining, didn't disappoint",
+      "review_date": {
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "joerain",
+      "contents": "Only laughter",
+      "review_date": {
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Kelso Von Grimm",
+      "contents": "Better than expected.",
+      "review_date": {
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "gwnightscream",
+      "contents": "\"Good Action-Comedy!\"",
+      "review_date": {
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "cricketman205",
+      "contents": "21 jump street",
+      "review_date": {
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "skiann ferree",
+      "contents": "Best movie ever",
+      "review_date": {
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "view_and_review",
+      "contents": "Nice Comedic Remake of Original",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "KalKenobi83",
+      "contents": "The Best Buddy Cop Comedy of All Time!",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Leah J. Belanger",
+      "contents": "Very Comedy, I  See It.",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Riccardo Brasacchio",
+      "contents": "Just what I expected",
+      "review_date": {
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "smatysia (feldene@comcast.net)",
+      "contents": "Could have been a lot worse",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Adam Peters",
+      "contents": "Proof that the popular kid at school isn't always based on substance",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "smanson15",
+      "contents": "Hilarious Movie",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "slightlymad22",
+      "contents": "My Favourite Comedy Of That Year",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Eastmont87",
+      "contents": "Nothing too original, but entertaining",
+      "review_date": {
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Rameshwar IN",
+      "contents": "Mindless action/teen sex comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "aiden matthews",
+      "contents": "21 Jump Street = Epic",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "james-t-sheridan",
+      "contents": "Better than you think it would be",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "laurenk93",
+      "contents": "21 Jump Street",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "jackstarr777",
+      "contents": "By miles the best comedy of the year",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "motorfocus82",
+      "contents": "not as bad as I thought it would be",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "niidalai",
+      "contents": "Refreshing,Entertaining and very well done",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "tomgillespie2002",
+      "contents": "Shows that recycling old ideas can work",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Christian_Dimartino",
+      "contents": "Surprisingly funny.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "chrisgpresents",
+      "contents": "Strange, but funny",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "kdnor2011",
+      "contents": "Pretty Good",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "mwking0425",
+      "contents": "Hill and Tatum Great Team",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "vintkd",
+      "contents": "I didn't like that movie but it has many great jokes!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "MadameGeorge",
+      "contents": "Funny- to the point of Tears",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Way better than the trailer...Which is actually pretty rare.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "movieman_kev",
+      "contents": "You'd  better be ready to jump",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "wsills8",
+      "contents": "Best Buddy Cop Movie Since Lethal Weapon",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "jamuckley",
+      "contents": "21 Jump Street is a cool, relevant, and hilarious re-make",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "An unexpectedly excellent comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "ultness",
+      "contents": "A Cross Between Never Been Kissed and The Other Guys.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "rebecca-ry",
+      "contents": "Best comedy in a while",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "Much funnier then I was expecting. Hill is great as always and Tatum is actually really funny. I recommend this. I say A",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "paudie",
+      "contents": "Very funny in parts but didn't sustain it",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Ricoo Aventura Wavee",
+      "contents": "Great movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "Wanahakaloogi",
+      "contents": "Quality film in terms of action, story and especially comedy.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "TheFilmDiscussion .com",
+      "contents": "\"21 Jump Street\" - Surprisingly good, I'll jump to see the sequel!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Adam Zydzik",
+      "contents": "One of the best action-comedy movies of the last decade",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "2karl-",
+      "contents": "great chemistry from 2 lead characters",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "willcundallreview",
+      "contents": "Good old high school comedy,with Cops!",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Cs_The_Moment",
+      "contents": "Brilliantly Funny Comedy",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "C.J. Wright (cena9424)",
+      "contents": "Hilarious Movie",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "manar_alrawahi",
+      "contents": "Excellent Comedy Movie!",
+      "review_date": {
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Rage-Kage",
+      "contents": "A great action comedy",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Jack Banister",
+      "contents": "One of the better comedies in the last 5 years.",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Desertman84",
+      "contents": "A Great Reboot Of An 80's TV Show",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "toni-cooke18",
+      "contents": "Best film I have seen in ages. Hilarious",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "nlytnd_1",
+      "contents": "Decent movie, takes a somewhat original spin on several movie clich\u00e9's mixed with a little Superbad!",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "mephotography2001",
+      "contents": "Reboot of a Classic(?) TV Series",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Vincent Black",
+      "contents": "Enjoyable Police Comedy",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "g-bodyl",
+      "contents": "Totally Unexpectedly......Hilarious!",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "clovewarrior",
+      "contents": "Better than I expected! (mild spoiler warning)",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "donuthaters12",
+      "contents": "A Unique Approach To A Buddy Cop Story",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Prismark10",
+      "contents": "Hit the heights",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "fun movie",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Film Watchin Fool",
+      "contents": "What You Can Expect:: 21 Jump Street",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Jimmie Wallace",
+      "contents": "Channing Tatum is FUNNY",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Tss5078",
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Zhana Trifonova",
+      "contents": "Great fun",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "ironhorse_iv",
+      "contents": "Let's jump into 21 Jump Street.  Surprising it was pretty good.",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "piratecannon",
+      "contents": "Undercover Brothers",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "TheSquiss",
+      "contents": "Cops, action, humour & a hint of sex, drugs and rock 'n' roll.  What's not to like?",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "bob_bear",
+      "contents": "Good Grief! A US comedy that is actually FUNNY??!!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "ruup88",
+      "contents": "Surprised",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Not simple nor too sentimental",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "pbothra-09",
+      "contents": "Great Comedy, worth a watch",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "bobbyxie1984",
+      "contents": "Surprisingly funny",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "nrkist2424",
+      "contents": "Out of Left-Field Comedy Riot",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "nama chakravorty",
+      "contents": "Fun Till It Lasts!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "amahlanand",
+      "contents": "Buddy-Teen Comedy Brilliance",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "deatman9",
+      "contents": "consistently funny throughout.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "SPaS",
+      "contents": "A surprisingly good comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "ThreeGuysOneMovie",
+      "contents": "an amusing blend of action and comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Psy-Ko",
+      "contents": "Surprise!",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "FSfilmblog",
+      "contents": "unexpectedly funny!",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "Evangelia Synodinou",
+      "contents": "Another great 2012 comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "lleeric",
+      "contents": "Extremely Clever and Hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "hrena16",
+      "contents": "21 Jump Street exceeded my expectations",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "skeintar",
+      "contents": "One of the best comedies of this decade",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "troy-manatunga",
+      "contents": "One of a Kind, Brilliant starter for the summer!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "How about a pound of weed.....",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Mike Fennemore",
+      "contents": "Falling far from the proverbial tree.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Andrew Marshall",
+      "contents": "Funny!",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Jay Patel",
+      "contents": "This is definitely one of the funniest movies that i have seen. CATCH IT!",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Rehash Critics",
+      "contents": "Channing or Jonah - Both are Surprisingly Hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Yocasta Valdez",
+      "contents": "Funny but Offensive to Dominicans",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Beatrice McClearn",
+      "contents": "Better than expected but way too long",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "zetes",
+      "contents": "Quite funny",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "I liked it, I really really liked it.....",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Pigmy Steak",
+      "contents": "Funny as...",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "cultfilmfreaksdotcom",
+      "contents": "Interesting Drug",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "muthaninfo",
+      "contents": "Funny Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Ty Stephen Furtado",
+      "contents": "Channing Tatum and Jonah Hill",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Mr-Fusion",
+      "contents": "It's predictable, but the laughs sneak up on you",
+      "review_date": {
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "cleary-joshua",
+      "contents": "An enjoyable and self-aware comedy that only occasionally crosses the line...",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Girish Gowda",
+      "contents": "A Genuinely Funny Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "Entertaining",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "SnakesOnAnAfricanPlain",
+      "contents": "21 Jump Street (2012)",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Mike Grundseth",
+      "contents": "Not as good as I was expecting",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "afh179",
+      "contents": "Silly comedy, not as funny as you think",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "contents": "An off-the-wall-funny genre sendup that works",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "sheba_4555",
+      "contents": "Review of 21 Jump Street",
+      "review_date": {
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "mohsinmoin",
+      "contents": "I think this movie should deserve a sequel.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "Will_Malone",
+      "contents": "Surprisingly enjoyable",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "bkoganbing",
+      "contents": "You Better Be Ready To Jump",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "Jan Kalina",
+      "contents": "\"Where do we report to?  Down on Jump Street. 37 Jump Street... wait, that doesn't sound right.\"",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "tavm",
+      "contents": "This halfway funny version of the old TV show 21 Jump Street is pretty enjoyable for what it is",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "Michael Davies",
+      "contents": "massively overrated, average at best.",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "LAmitch",
+      "contents": "You people are kidding us with these highly rated reviews, right?",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "meeza (themeezaman@hotmail.com)",
+      "contents": "There are more than 21 reasons why you should check this one out!",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "kyrat",
+      "contents": "OK, but not for fans of the original, intended for the brainless/sophomoric comedy fans",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "AZINDN",
+      "contents": "Offensive Pandering and Prejudice to Idiot Audiences",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "Foo Man",
+      "contents": "not worth the 95 minutes of your life",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "Johnny Hollywood (jnatsis@iprimus.com.au)",
+      "contents": "School. Guns. Cameos. Exploding chickens.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Scott Emery",
+      "contents": "21 Jump Street - Laughing along with you",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "ge-real",
+      "contents": "Flop",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "Bone",
+      "contents": "Crappitty crapposity",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Pycs",
+      "contents": "Worth Your Time",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "jakewells-19060",
+      "contents": "Top Viewing",
+      "review_date": {
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "juneebuggy",
+      "contents": "I must be missing something?",
+      "review_date": {
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "wishiwasthedoctor",
+      "contents": "If you are 12 years old, mentally or chronologically, you will find this movie mildly amusing.",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "mikedaniel952",
+      "contents": "Unfunny movie",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "ATEreviews",
+      "contents": "1st time I watched it I hated it, 2nd time round I loved it!",
+      "review_date": {
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": " (mockpossum)",
+      "contents": "Stupidest comedy I've seen in a while",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "So Stupid, It Slapsticks You!!!",
+      "review_date": {
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "robertlauter25",
+      "contents": "7.2 are you kidding me? trash",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "RyChOr",
+      "contents": "I really wanted to enjoy this movie",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "Sergeant_Tibbs",
+      "contents": "The biggest and most entertaining laugh-riot throwaway film of the year.",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "apb216",
+      "contents": "Finally something that can stand up next to Superbad!",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "david-tsbernardino",
+      "contents": "Don't judge this book by its cover",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "HelenMary",
+      "contents": "reboot of 80s TV series - undercover highschool drug-bust comedy",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Chris L",
+      "contents": "A good surprise",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "st eskil",
+      "contents": "21 jump street",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Hollywood_Yoda",
+      "contents": "Just as Good as the TV show",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Maniac-9",
+      "contents": "Not quite as bad as I thought it would be",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Jose Cruz",
+      "contents": "Solid entertainment",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "torstensonjohn",
+      "contents": "Re-defined comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "joberfeld113",
+      "contents": "Best Cop Movie Since Live Free or Die Hard",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "rickystickyman",
+      "contents": "Surprisingly funny and much better than expected",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "octopusluke",
+      "contents": "the popcorn comedy of 2012!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "edwagreen",
+      "contents": "Jumps to Success-21 Jump Street ***",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Eliot Shaw",
+      "contents": "A surprisingly competent comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Treyroo",
+      "contents": "Irreverent and hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "freemantle_uk",
+      "contents": "Channing Tatum has found his calling",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "mattkratz (themattk@hotmail.com)",
+      "contents": "decent",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Annabanana0106",
+      "contents": "\"21 Jump Street\"- the Worlds Funniest Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "dylanmcp33",
+      "contents": "Amazingfilicous",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Floated2",
+      "contents": "One of a kind and it delivers",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "illbebackreviews",
+      "contents": "The funniest comedy movie I've seen in a long time is full of surprisingly laughs that is sure to keep you entertained",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "policy134",
+      "contents": "Pretty decent reboot/continuation or sequel",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "izelsezer",
+      "contents": "One of my favorite movies of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "sbart123",
+      "contents": "21 Jump Street Review",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "brando647",
+      "contents": "Hilarious, One of the Funniest of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "phd_travel",
+      "contents": "Funny and crude",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "abzi1223",
+      "contents": "My New Favourite Film",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "madbandit20002000",
+      "contents": "Become a Narc, if you want to go back to school",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "dragon_killer91171",
+      "contents": "21 Jump Street",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Ken Hart",
+      "contents": "Funniest Comedy this year.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "loveballet12",
+      "contents": "Funnier Then I Thought",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "hhutc9-949-225134",
+      "contents": "A true killer...",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "jantoniou",
+      "contents": "Scatological cinema at its finest",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "freshjerry",
+      "contents": "Great film",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "MovieReviews101",
+      "contents": "A Great Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "parallel_projection",
+      "contents": "Unexpectedly Entertaining",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Semsung",
+      "contents": "Genius",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "fewsternoble",
+      "contents": "Too long ?",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Aasif Sheik",
+      "contents": "One time or Some other time.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "thekarmicnomad",
+      "contents": "Very funny, a little messy (+1 star for big Jonah Hill fans)",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "uttiyo-sarkar56",
+      "contents": "Entertaining, Funny and Great For Time-Pass.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "brighambartol",
+      "contents": "A somewhat happy medium between a gross-out and a classic",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Pantelis Andreou",
+      "contents": "Pure fun from the beginning to end",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "Surprisingly funny comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "unitedcba",
+      "contents": "A very good entertaining movie...",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Hellmant",
+      "contents": "As witty as anyone could have hoped for from the Johnny Depp career launcher!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Sam McCosker",
+      "contents": "21 Jump Street",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "indira-innes",
+      "contents": "Quite enjoyable.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "David  Movieman",
+      "contents": "Surprsingly inventive and intelligent new comedy.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "Josh Ryan (flamegamehunter@yahoo.com)",
+      "contents": "I loved it. It had me laughing through the entire movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "marcus259387608",
+      "contents": "Hilarious albeit in all the ways you've seen before.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Andrew  Waller",
+      "contents": "Classically Funny",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Brandon Blackwell",
+      "contents": "\"The only thing getting blown tonight is their cover\"",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "jimbo-53-186511",
+      "contents": "Not brilliant, but there are enough laughs to make it worth watching",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "LaLee Tah",
+      "contents": "Best movie ever",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "thesar-2",
+      "contents": "Jump this Shark",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "p-stepien",
+      "contents": "Somewhat of a spoof",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "raybeard",
+      "contents": "Is Jonah Hill the new Jude Law",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "sbhouser",
+      "contents": "Funny, but if you are fan of the show do not expect much",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Robert Paulson",
+      "contents": "Oh wow look another generic comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "mitchell-woltring",
+      "contents": "Trying to be The Hangover, but not quite there",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "cyanide37",
+      "contents": "Surprisingly funny",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Chris  Kay",
+      "contents": "GOLD! Why Do So Many People Hate?",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "Definitely a great comedy.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "jon.h.ochiai (jochiai@socal.rr.com)",
+      "contents": "Hysterical \"21 Jump Street\"",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "bdgill12",
+      "contents": "Hilarious and Jam-Packed with Shenanigans",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "MikesIDhasbeentaken",
+      "contents": "meh...",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "guitarhead187",
+      "contents": "If you like generic comedies you will love this",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "Richard Reilly (FFman@comcast.net)",
+      "contents": "Fantastic Script Helps Remake Work",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "jbacks3",
+      "contents": "A good movie...?",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "dgefroh",
+      "contents": "Not funny but it is stupid and boring",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "Elliot Suiter",
+      "contents": "Hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Vikas SS",
+      "contents": "Just another comedy; has nothing new!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "darshancruz",
+      "contents": "21 Jump street: Watch 21 and jump watching this movie !",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "This_Movie_Guy",
+      "contents": "21 Jump Street. . Sequel Please!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "JacquesStrappe",
+      "contents": "Junk reworking of a good concept",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "derekblake",
+      "contents": "Waste if Celluloid",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "damon salvatore",
+      "contents": "How about we get a little honest here !!",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "contents": "another stupid-and-funny-at-the-same-time movie",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "21 Jump Street",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "benderofgender",
+      "contents": "Totally Explains Why Drugs Should Be Legal!",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Sean Lamberger",
+      "contents": "Nothing's Sacred, Not Even Itself, in This Shockingly Funny Resurrection",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "lalitdevraj",
+      "contents": "Didn't expect that!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "guy-nicholas",
+      "contents": "It's been a while since I saw an actually funny comedy in theaters!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "paytonprovo",
+      "contents": "Very Funny",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Anurag-Shetty",
+      "contents": "One of the funniest adult comedies of all time! Even raunchier and funnier than The Hangover  series.",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "ShelbyTMItchell",
+      "contents": "Funny Film Thanks to Chemistry and Timing of the Leads!",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "hatericeviolence",
+      "contents": "I Loved it!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "TopekaLass",
+      "contents": "A fun script",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Grant Hill",
+      "contents": "Roll on the floor laugh my a#$ off!",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "dance d",
+      "contents": "all in all a expected blast!",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "edwbur",
+      "contents": "funniest movie of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "cnicolaou",
+      "contents": "Is this some kind of conspiracy to defaraud unsuspecting viewers?",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "LiveLoveLead",
+      "contents": "Hilarious, but the language and sexual stuff was way more than necessary...",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "rs-1990",
+      "contents": "Disappointed - Making light of the drug in schools problem.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "3xHCCH",
+      "contents": "Unexpectedly Funny Remake, Not Bad At All",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "JayG20",
+      "contents": "Light on the cop drama, moderate on the action and explosions, heavy on the humour",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "antoniomagallon90",
+      "contents": "This movie caught me by surprise",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Taylor Kingston",
+      "contents": "Awesome Freaking Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Good, but with reservations",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "wwillcox561",
+      "contents": "21 Jump Street Reviw",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "ardeet",
+      "contents": "Commercially amusing only",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "Trelan Sameg",
+      "contents": "A cheap-feeling comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "contents": "Follow the Pinata",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "mikaeldesharengrad",
+      "contents": "Immature, silly, predictable",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "MikesIDhasbeentaken",
+      "contents": "meh...",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "anne_2356",
+      "contents": "Great Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "sergius248",
+      "contents": "Disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "Tejas Nair",
+      "contents": "Nothing Interesting Or Intriguing!",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Luke Savage",
+      "contents": "Hilarious but not suitable for children",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "im_so_fresh_and_so_fly",
+      "contents": "Classic comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "jmarten280",
+      "contents": "HILARIOUS Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "doink902000",
+      "contents": "It's a great movie",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": " (al.smolkin@gmail.com)",
+      "contents": "A fun ride!",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "hantonr",
+      "contents": "Crying out loud laughs",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "loadtoad-325-875107",
+      "contents": "Funniest movie this Year",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Luke Goldstein (goldwriting)",
+      "contents": "Retro Remake Delivers Laughs Galore",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "rude and crude",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "dalelawson-1",
+      "contents": "Not the funniest film ever, but it was still enjoyable",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "jonathan_figueroa44",
+      "contents": "Funny and Many Ways",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "21 Jump Street AKA The Other Guys part 2.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "contents": "Tongue-thru-cheek attitude prevailed throughout makes a loser into a winner",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "The TV Drama Gets a Comedic Big Screen Makeover",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "GManfred",
+      "contents": "Should Be Rated R-14",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "fener yener",
+      "contents": "nothing interesting or new",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": " (bob-rutzel-1)",
+      "contents": "Need New Rating for \"raunchy comedies\"",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "destroyah25",
+      "contents": "very funny movie",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "tbmforclasstsar",
+      "contents": "an action packed comedy full of lowbrow humor and hilarious performances",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "contents": "21 Jump Street (2012) - How Many TV Shows are Being Brought to Film?",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "garethvk",
+      "contents": "Plenty of Bounce Left in Jump Street",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "Exists in a world driven by two buddies and a formula, yet still finds ways to sidestep pitiful, unnecessary indulgence",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "pacinodeniro77",
+      "contents": "One of the worst movies this year.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "nick-nelsonmovies",
+      "contents": "A Fantastic 80's Remake.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "DJRumpy",
+      "contents": "Surprisingly good",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Pumpkin_Man",
+      "contents": "One of the Best Movies of the Year!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "cdh4099",
+      "contents": "Funniest comedy i've seen this year. It's worth the high movie prices....",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "big_ryan15",
+      "contents": "No respect for the original, but funny all the same....",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film review: So much more than the TV show.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "awokurka",
+      "contents": "Best movie I've seen in a LONG time!",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "redxzx",
+      "contents": "A movie that blown my expectations.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "kdorsey321",
+      "contents": "Funny as expected",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "samuellop10",
+      "contents": "A very fun movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "MrRed87",
+      "contents": "A Fun, Raunchy Film",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "SlackerRus2000",
+      "contents": "A smarter movie than it needed to be, works on multiple levels.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Troy_Campbell",
+      "contents": "Funniest flick of 2012 so far.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "fogo161",
+      "contents": "21 Jump Street: a remake worth the watch",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: 21 Jump Street",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "www.ramascreen.com",
+      "contents": "Are you ready for a lifetime of badasses?",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Flashmania123",
+      "contents": "Great Movie To See With A Close Friend - \"Hangover\" Funny",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "prasadsheshadri-779-73878",
+      "contents": "'All they do is recycle s**t from the past and hope nobody notices...\"",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "G_I_JOSH2003",
+      "contents": "Consistently Funny, But Not Lasting",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Vaughn Fry (Legendary_Badass)",
+      "contents": "A Mockery",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "PoisonKeyblade",
+      "contents": "Brilliant Comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "madisonhopeb",
+      "contents": "Has potential.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    }
+  ],
+  "release_month": "March",
+  "genres": [
+    "action",
+    "comedy",
+    "crime"
+  ],
+  "opening_weekend_screens": 3121,
+  "name": "21 Jump Street",
+  "num_weekends": 15,
+  "release_day": 16,
+  "critic_review_count": 374
 }

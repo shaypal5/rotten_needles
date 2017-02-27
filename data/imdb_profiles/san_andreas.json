@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 5,
-    "year": 2015,
-    "day": 29,
-    "__type__": "datetime.date"
+  "release_day": 29,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.1,
+    "top_1000_voters": 5.6,
+    "males_under_18": 6.6,
+    "imdb_staff": 6.1,
+    "males_aged_18-29": 6.1,
+    "imdb_users": 6.1,
+    "males_aged_45+": 6.1,
+    "aged_18-29": 6.2,
+    "us_users": 6.1,
+    "females_aged_30-44": 6.3,
+    "males": 6.0,
+    "females": 6.5,
+    "females_aged_45+": 6.6,
+    "non-us_users": 5.9,
+    "females_aged_18-29": 6.5,
+    "females_under_18": 7.3,
+    "aged_30-44": 5.9,
+    "aged_under_18": 6.8,
+    "males_aged_30-44": 5.9
   },
   "closing_date": {
     "month": 10,
@@ -11,82 +27,5490 @@
     "day": 9,
     "__type__": "datetime.date"
   },
-  "rating": 6.1,
-  "num_weekends": 17,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 3906,
-    "2": 3261,
-    "3": 5599,
-    "4": 10777,
-    "5": 22488,
-    "6": 40040,
-    "7": 36916,
-    "8": 17560,
-    "9": 6592,
-    "10": 10334
-  },
-  "avg_screens": 1255.9411764705883,
-  "budget": 110000000,
-  "budget_currency": "$",
-  "release_day": 29,
   "metascore": 43,
+  "num_weekends": 17,
+  "rating_count": 157526,
+  "gross_income": 155181732,
+  "max_screens": 3812,
+  "opening_weekend_screens": 3777,
+  "screens_by_weekend": [
+    3777,
+    3812,
+    3535,
+    3177,
+    2620,
+    1672,
+    756,
+    402,
+    206,
+    302,
+    233,
+    218,
+    203,
+    162,
+    144,
+    88,
+    44
+  ],
+  "opening_weekend_income": 54588173,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Big Dumb America",
+      "score": 5,
+      "user": "rob o'cop",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow.",
+      "score": 1,
+      "user": "kenneyken-94849",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disastrous",
+      "score": 4,
+      "user": "Justin Firestone",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rehashed crap.",
+      "score": 1,
+      "user": "spookysully",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What did everyone expect? It's a disaster movie!",
+      "score": 8,
+      "user": "otter-stl",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Attack Of The Crack",
+      "score": 2,
+      "user": "ArchAngel Michael",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insanely Thrilling",
+      "score": 9,
+      "user": "handsomewarrior",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great disaster movie",
+      "score": 10,
+      "user": "amianaby",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could this be the worst film of the year so far? Without question it is.",
+      "score": 1,
+      "user": "jarcheese2012",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Total waste of time",
+      "score": 1,
+      "user": "franscott196744-606-253941",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San Andreas.",
+      "score": 5,
+      "user": "2fresh 2clean",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lame Story, Great Special Effects",
+      "score": 6,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Well that escalated quickly\"",
+      "score": 9,
+      "user": "Danny_G13",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Special Effects Are Spectacular-But Dialogue & Storyline Hokey As Heck",
+      "score": 7,
+      "user": "Larry Silverstein",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "F**kin' Dumb",
+      "score": 1,
+      "user": "Cailrundmc",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hey, Californians! - It's \"Duck & Cover\" Time!",
+      "score": 2,
+      "user": "Dalbert Pringle",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film that missed the disaster movie era.",
+      "score": 4,
+      "user": "Kevin Lea Davies",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "garbage, garbage, garbage....must be fake reviews posted here.",
+      "score": 1,
+      "user": "mkgixvtobhg",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Six Good Reasons To Dislike San Andreas",
+      "score": 2,
+      "user": "roddekker",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad",
+      "score": 7,
+      "user": "erinouellette",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worse Than You Can Imagine",
+      "score": 2,
+      "user": "Bravesfan82",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Earthquake\" from 1974 was better than this.",
+      "score": 4,
+      "user": "rollercoastermaui",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "disaster in every possible sense of the word ... and then some",
+      "score": 3,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Same old, same old, but worse!",
+      "score": 1,
+      "user": "dolphin888",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "By the numbers",
+      "score": 1,
+      "user": "joe-825",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disaster Masterpiece",
+      "score": 10,
+      "user": "denise-hasircioglu",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Peyton's San Andreas leaves watchers breathless",
+      "score": 9,
+      "user": "feariste",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brutal,Just Brutal",
+      "score": 1,
+      "user": "obe-69217",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not all that terrible",
+      "score": 7,
+      "user": "DeadpoolU88",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disasters happen, but are they always this same formula?",
+      "score": 3,
+      "user": "mark.waltz",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Disaster: CGI 8 / Acting -8",
+      "score": 2,
+      "user": "pensman",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hollywoo', again...",
+      "score": 4,
+      "user": "barosanescu",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big On Action & CGI, But Little On Anything Else",
+      "score": 4,
+      "user": "David Arnold",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some nice CGI carnage can't save the day",
+      "score": 4,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a stupid, stupid movie",
+      "score": 2,
+      "user": "riredale-2",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Special effects can't hide awful acting",
+      "score": 3,
+      "user": "Ruben Versloot",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I expected more",
+      "score": 3,
+      "user": "jwhuber",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing Film",
+      "score": 10,
+      "user": "Fishkepper",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a disaster movie, a great one",
+      "score": 10,
+      "user": "diana reese (ashlapiwape@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Power of LOVE",
+      "score": 4,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Effects from 2015, script from 1975.",
+      "score": 4,
+      "user": "Alex Monday",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'm a sucker for hero heroine movies",
+      "score": 10,
+      "user": "jkd15-1",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love the movie",
+      "score": 10,
+      "user": "Elaine Gladys Evelyn Mitchell (e.mitchell.2014@aol.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pig Vomit in 3D!",
+      "score": 10,
+      "user": "WilliamMortensenVaughan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Can't fault it !",
+      "score": 10,
+      "user": "Kitty Kat",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best disaster movie ever",
+      "score": 10,
+      "user": "Zephalone",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San Andreas Magnificent Cinematic Spectacle",
+      "score": 10,
+      "user": "magical-kingdom",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rip roaringly entertaining, a disaster masterpiece",
+      "score": 10,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What is San Andreas About?",
+      "score": 10,
+      "user": "aliciachampion",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San Andreas",
+      "score": 10,
+      "user": "alex_skovorodka",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Action Film - Not A Political Sentiment",
+      "score": 10,
+      "user": "gonzo_don",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Specials effects with common sense.....they nail it!",
+      "score": 10,
+      "user": "joyague",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth Watching on the big screen",
+      "score": 10,
+      "user": "jabbarhusayn",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lot of useless story lines",
+      "score": 3,
+      "user": "ameliek81",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Money's Worth",
+      "score": 10,
+      "user": "msias-73442",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jaw-Dropping Action",
+      "score": 10,
+      "user": "Owen Gerrard",
+      "review_date": {
+        "month": 2,
+        "year": 2017,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "By no means as weak as you might expect",
+      "score": 8,
+      "user": "James",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Proof Positive Humans are Dumb as F#$%!",
+      "score": 2,
+      "user": "jmsdxtr-215-978064",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Burger of a movie",
+      "score": 5,
+      "user": "Imdbidia",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mother of all Disasters",
+      "score": 1,
+      "user": "marosbts",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do ya' smell what the fault is cookin'?",
+      "score": 7,
+      "user": "geneguerrero",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not awful",
+      "score": 4,
+      "user": "iceman-85",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There is Mother Nature, and then there is Raymond Gaines...",
+      "score": 7,
+      "user": "Paul Magne Haakonsen",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Edge of the seat",
+      "score": 7,
+      "user": "ajayss",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A typical disaster movie with well-conceived, frightening graphics but minimum logic and emotions.",
+      "score": 5,
+      "user": "bobbysing",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not enough characters",
+      "score": 5,
+      "user": "irishm",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Good Hollywood Disaster",
+      "score": 10,
+      "user": "Muhammad_ND",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's overblown and exaggerated, but it's also entertaining and has a premise that isn't as detached from reality as many people may think",
+      "score": 7,
+      "user": "jimbo-53-186511",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Suspension of Belief",
+      "score": 7,
+      "user": "karla-marciszewski",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Faulty Disaster- Minor Spoilers",
+      "score": 5,
+      "user": "jmatthewdobson",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A stunningly awful film with brilliant special effects",
+      "score": 2,
+      "user": "mjsreg",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is kind of dumb.",
+      "score": 5,
+      "user": "zacharyskiba",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So Bad it's good.",
+      "score": 5,
+      "user": "goalsmistakesfootball",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "At bit too generic",
+      "score": 5,
+      "user": "hjbuhrkall",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cracks in the earth",
+      "score": 5,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "**1/2",
+      "score": 6,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It Knows What it Wants to Be And Does It Spectacularly\"",
+      "score": 8,
+      "user": "lachlan-58427",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Eye-popping spectacle, silly drama",
+      "score": 6,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incredibly bad, even by (low) disaster movie standards",
+      "score": 2,
+      "user": "grantss",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exactly what a \"disaster movie\" should be",
+      "score": 9,
+      "user": "danielb-11",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Johnson doesn't seize to amaze",
+      "score": 9,
+      "user": "summerleighetheridge",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It is what it is.",
+      "score": 8,
+      "user": "beresfordjd",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Say what you want, it's entertaining",
+      "score": 7,
+      "user": "ufster ufster",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious",
+      "score": 4,
+      "user": "solidabs",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "entertaining enough...",
+      "score": 7,
+      "user": "MLDinTN",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Destructive Summer Fare",
+      "score": 6,
+      "user": "tochukwu-83206",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Los Angeles has fallen'",
+      "score": 7,
+      "user": "Balazs Domjan",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An educational disaster movie",
+      "score": 10,
+      "user": "Christopher Attwood",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crushes interest, shatters patience",
+      "score": 5,
+      "user": "petra_ste",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Middle of the road disaster movie.",
+      "score": 6,
+      "user": "nathanhood95",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Full of clich\u00e9s",
+      "score": 4,
+      "user": "altugozhan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bull toddy (and that's putting it politely)",
+      "score": 6,
+      "user": "vincentlynch-moonoi",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing new to see here",
+      "score": 6,
+      "user": "geoced",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San Andreas, a dazzling film!",
+      "score": 8,
+      "user": "westen1223",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Very \"Hollywood\" Movie",
+      "score": 7,
+      "user": "Blazehgehg",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable Movie",
+      "score": 7,
+      "user": "Terryfan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I feel the earth move under my feet",
+      "score": 6,
+      "user": "utgard14",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Comedy what ever, only if you are fox news zombie",
+      "score": 7,
+      "user": "Jason Stark",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite possibly the worst film I have seen in a few years",
+      "score": 1,
+      "user": "sage411",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "must watch this",
+      "score": 7,
+      "user": "lisa moon",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If only Dwayne Johnson could save the world.",
+      "score": 5,
+      "user": "Paul Evans",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Earthquake Meets Titanic Meets Posiedan Adventure Meets Towering Inferno",
+      "score": 7,
+      "user": " (blufrog49)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brought to you by the American Dental Association.",
+      "score": 7,
+      "user": "lois-lane33",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The movie that insults your intelligence.",
+      "score": 1,
+      "user": "EdinBajric",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great paint by the numbers action movie that manages to avoid some clich\u00e9s.",
+      "score": 7,
+      "user": "dgranger",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Special effects made the movie",
+      "score": 7,
+      "user": "christopherdonburgess",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San Andreas is an awesome movie.",
+      "score": 8,
+      "user": "alycwy",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a load of bull... Pass me a bucket.",
+      "score": 4,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than 2012",
+      "score": 7,
+      "user": "Eric_Cubed",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pure Entertainment",
+      "score": 8,
+      "user": "ian1000",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent old fashioned disaster movie",
+      "score": 9,
+      "user": " (agsteribbe)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Hollywood and still I liked it...a lot",
+      "score": 9,
+      "user": "p-jonsson",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I love Alexandra",
+      "score": 10,
+      "user": "nikolagrigorov",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why a ten and why you should see it while in theaters.",
+      "score": 10,
+      "user": "kevincoleman37",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What's With All The Bad Reviews??",
+      "score": 8,
+      "user": "fullbug",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San Andreas Review",
+      "score": 4,
+      "user": "Eddie Cantillo",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I almost didn't watch based on reviews but I am glad I did!",
+      "score": 7,
+      "user": "klvanun",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "They survived!",
+      "score": 7,
+      "user": "Vintnerrr",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ummm....It's a disaster movie folks!!",
+      "score": 7,
+      "user": "davidjohnpope",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the greatest, but I enjoyed it nonetheless",
+      "score": 6,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "lots of destruction",
+      "score": 5,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappy Watched: San Andreas",
+      "score": 7,
+      "user": "Chappy Watched",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worth to watch",
+      "score": 7,
+      "user": "Nikos Dieselakoc",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was good but not great, it was unique but not new.",
+      "score": 6,
+      "user": "tjyu1992",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A 6+ on The Richter",
+      "score": 6,
+      "user": "Fallen Eye",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love Carla Gugino... BUT",
+      "score": 6,
+      "user": "comblitz",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Review of the movie",
+      "score": 5,
+      "user": "votoole-00090",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Boring Mediocrity",
+      "score": 4,
+      "user": "Rey Alvarez",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Alternative Title: \"Dwayne Johnson's Day Off\"",
+      "score": 3,
+      "user": "larsviebrock",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I created a profile JUST to give a review on this ridiculous movie!",
+      "score": 4,
+      "user": "jessigirlrae-97753",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not much there besides special effects",
+      "score": 5,
+      "user": "shinsrevenge",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A disaster movie with a lot of faults!",
+      "score": 5,
+      "user": "Michael O'Keefe",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not so rock-steady",
+      "score": 6,
+      "user": "Kingkitsch (Kingkitsch@aol.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disaster Strikes Back!",
+      "score": 6,
+      "user": "Marc d'Entremont",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another expensive dud! NOTE:Spoiler contains no names.",
+      "score": 3,
+      "user": "fxlafferty",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A 4 just because I love Dwayne...",
+      "score": 4,
+      "user": "Cez Aslak",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No doubt about it, you'll see some earthquakes. But the whole story didn't shake me up.",
+      "score": 4,
+      "user": "Peter Pluymers (peterp@cyberdude.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disastrous Disaster Movie",
+      "score": 1,
+      "user": "sontysdn",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very intense movie!",
+      "score": 8,
+      "user": "Adam Wan",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Planes, Trains, and Automobiles with The Rock",
+      "score": 5,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid and yet disappointing",
+      "score": 2,
+      "user": "ru_nps",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Definition of a Guilty Movie Pleasure",
+      "score": 7,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "CGI-fe$t Nothing Left for Much Else",
+      "score": 2,
+      "user": "C N",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Disaster movie's end is nigh, hopefully.",
+      "score": 2,
+      "user": "Sergiodave",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad to a Fault",
+      "score": 4,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could script writers create such selfish characters?",
+      "score": 2,
+      "user": "philnoone21",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Suspense...",
+      "score": 6,
+      "user": "Thanos Alfie",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Painful to watch, one of the worst movies of 2015",
+      "score": 2,
+      "user": "room102 (plasmapool@gmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really? What were they thinking?",
+      "score": 5,
+      "user": "haphazard72",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "woeful. oh woe is me, i watched it",
+      "score": 2,
+      "user": "hotelmontsec",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An earthquake of clisse",
+      "score": 5,
+      "user": "Niki Kefala",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Earth will literally crack and you will feel it on the East Coast.\"",
+      "score": 6,
+      "user": "Matt_Layden",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Classic American Drivel",
+      "score": 1,
+      "user": "malcolmfrater",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another State of the Art End Times Scenario Straight Form Scripture",
+      "score": 7,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Completely Jaw-Dropping Spectacular, Don't Miss This Movie!",
+      "score": 8,
+      "user": "TheTechReader",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Utter Twaddle (desperatly trying to avoid spoilers)",
+      "score": 2,
+      "user": "patrickbrett66",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictable Doesn't Always Mean Bad!",
+      "score": 8,
+      "user": "E. Catalan (ecatalan98@gmail.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lots of rocks everywhere...",
+      "score": 6,
+      "user": "Spikeopath",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Five-Word-Review: Brainless Visual Jingoism; Utterly Uninteresting.",
+      "score": 2,
+      "user": "Bill Sims",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No hero",
+      "score": 3,
+      "user": "jackyd101",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Disaster of a Disaster Movie",
+      "score": 2,
+      "user": "rich-66",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Outline of the possible disasters mother nature could bring...",
+      "score": 6,
+      "user": "RufaroNdoro",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "why can't Hollywood make realistic movies?",
+      "score": 3,
+      "user": "bumstear",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Senseless",
+      "score": 3,
+      "user": "kuarinofu",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Irwin Allen on steroids, it's good dumb fun",
+      "score": 7,
+      "user": "highwaytourist",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Outrageous but visually stunning",
+      "score": 5,
+      "user": "Charlie Picart",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Director needed to talk to people who have actually been in earthquakes",
+      "score": 2,
+      "user": "cognocraig",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If there was a razzy for big budget $#!7...go no further",
+      "score": 3,
+      "user": "Nat Man",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing Visual Effects, something else? don't think so..!!",
+      "score": 6,
+      "user": "Ahmed Kassem (ask.kassem@gmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "such a good ideas turned bad",
+      "score": 6,
+      "user": "britishgoose01",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good for kids",
+      "score": 6,
+      "user": "S Vir",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A refreshing take on a tired genre this is not",
+      "score": 5,
+      "user": "siderite",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "At least the rock is in it",
+      "score": 6,
+      "user": "Gianluca Marzano",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad",
+      "score": 1,
+      "user": "dongchancha",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fair The Day After Tomorrow 2.0",
+      "score": 7,
+      "user": "Pedro Oliveira",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sharknado with a much larger budget",
+      "score": 1,
+      "user": "aha060",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jerk dies",
+      "score": 8,
+      "user": "jane amber",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Put your brain in neutral",
+      "score": 6,
+      "user": "Saiph90",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a comedy, right?",
+      "score": 5,
+      "user": "David Hine",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "predictable storyline",
+      "score": 7,
+      "user": "trashgang",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Conditional Entertainment",
+      "score": 3,
+      "user": "urthpainter",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Rock, massive earthquakes, Daddario and her eyes, what more could you ask for?",
+      "score": 6,
+      "user": "Christopher Wilson",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't waste your time",
+      "score": 3,
+      "user": "Soren Petersen",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exciting Action",
+      "score": 6,
+      "user": "AliceofX",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poo!",
+      "score": 7,
+      "user": "peter_uk",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When you have 110 million dollars in your budget you can get awesome effects!",
+      "score": 6,
+      "user": "Adam_West_as_Batdan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good watch, but don't expect Oscar material",
+      "score": 7,
+      "user": "Kevin Smith",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Above Par Disaster Movie",
+      "score": 6,
+      "user": "Smerdyakoff",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Intense enjoyment with incredible effects",
+      "score": 7,
+      "user": "timothyley",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The usual, yet entertaining disaster movie - worth watching",
+      "score": 6,
+      "user": "DaLawrence",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another \"suspension of disbelief\" disaster movie",
+      "score": 5,
+      "user": "gslvan",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I don't understand this movies Metascore",
+      "score": 7,
+      "user": "Chris Meh",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun mindless destruction, led by The Rock",
+      "score": 6,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that bad",
+      "score": 6,
+      "user": "johngraham1964",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Good Disaster Movie, Nothing More...",
+      "score": 6,
+      "user": "luke5119",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring",
+      "score": 3,
+      "user": "Aakaash Dev",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Getting divorced? Hope for an earthquake!",
+      "score": 5,
+      "user": "brulsturm",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very formulaic and predictable disaster flick",
+      "score": 7,
+      "user": "851222",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Fun to Watch No Brainer",
+      "score": 7,
+      "user": "Zyre Mehdi",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad....Just Bad.",
+      "score": 2,
+      "user": "Darrin Germany",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "TAKEN meets 2012 , shamefully shambolic",
+      "score": 3,
+      "user": "Dante's Jeev",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "overblown nonsense",
+      "score": 5,
+      "user": "noelcox",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictably predictable",
+      "score": 6,
+      "user": "Zbigniew_Krycsiwiki",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San Andreas",
+      "score": 8,
+      "user": "Horrorliefhebber",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "terrible waste of time!",
+      "score": 3,
+      "user": "chodorov",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "all teeth and no bite",
+      "score": 1,
+      "user": "Colm Fahy",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cringeworthy",
+      "score": 2,
+      "user": "snablor",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So sappy and pretentious",
+      "score": 2,
+      "user": "johnnmilw",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shaking",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The rock\"trying to act is a disaster waiting to happen.",
+      "score": 2,
+      "user": "djangozelf-12351",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Date Night",
+      "score": 4,
+      "user": "Kevin Forbes",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A parade of clich\u00e9s, but quite entertaining",
+      "score": 5,
+      "user": "carl-812-216121",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A MAJOR waste of your LIFE",
+      "score": 1,
+      "user": "brendan-mcAdam",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow This film blew me away! It was Emotional and Very Thrilling.",
+      "score": 8,
+      "user": " (HorrorFanForever)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Can you smell what The Rock is cooking ????",
+      "score": 7,
+      "user": "nikola17",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big, Dumb Fun",
+      "score": 7,
+      "user": "Matt Greene",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrifying and Realistic",
+      "score": 7,
+      "user": "rannynm",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing. Even the incredible CGI couldn't save this one.",
+      "score": 6,
+      "user": "Matt Filer",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San Andreas Has Its Faults",
+      "score": 1,
+      "user": "rpvanderlinden",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a disaster movie guys, not Shakespeare! Can you hear me?",
+      "score": 8,
+      "user": "Roland S. Racz",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very generic but still a blast",
+      "score": 7,
+      "user": "just_for_movies",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly Good Disaster Movie",
+      "score": 7,
+      "user": "smspencer69",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie.......But!",
+      "score": 7,
+      "user": "edharrison17",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rock Solid Earthquake Film, but Nothing Special",
+      "score": 7,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent disaster flick",
+      "score": 8,
+      "user": "Laakbaar",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Destruction on the Highest Level",
+      "score": 8,
+      "user": "Romel Jhan Biescas",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Edge of Your Seat Movie",
+      "score": 8,
+      "user": "Alexz Wilson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I loved it",
+      "score": 8,
+      "user": "mcgregorrowland",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Fantastic Disaster Film",
+      "score": 8,
+      "user": "CowherPowerForever",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lovers of disaster movies can rejoice.",
+      "score": 8,
+      "user": "metalrage666",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Satisfactory Disaster Movie!",
+      "score": 9,
+      "user": "mg3331",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing!",
+      "score": 10,
+      "user": "Amy Louise",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "sick one Dwayne",
+      "score": 10,
+      "user": "Joe Major",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "6/10",
+      "score": 6,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ignore the naysayers and definitely go and see San Andreas!",
+      "score": 10,
+      "user": "xatian11968",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was like the best part of every action/disaster movie for 2 hours",
+      "score": 10,
+      "user": "funkyfresh91",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is the disaster movie of disaster movies.",
+      "score": 10,
+      "user": "PWNYCNY",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie",
+      "score": 10,
+      "user": "michelle139",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Powerful Disaster Film and Important Cautionary Tale",
+      "score": 10,
+      "user": "jlthornb51",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rubish",
+      "score": 1,
+      "user": "scottradford",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is disastrous",
+      "score": 1,
+      "user": "garyhalford3",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very bad.",
+      "score": 1,
+      "user": "Michael Loughrie",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great popcorn flick,but a disastrous movie",
+      "score": 5,
+      "user": "hridhik",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Campy and bad",
+      "score": 2,
+      "user": "Eddie_weinbauer",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "concrete vs. metal cracking",
+      "score": 5,
+      "user": "Madincea Antal",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The worst movie ever made!",
+      "score": 1,
+      "user": "Richard Crisp",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "See what happens to the good ones and the bad ones",
+      "score": 6,
+      "user": "Ole Sandbaek Joergensen",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Top special effects mixed with high suspense",
+      "score": 8,
+      "user": "Luigi Di Pilla",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Review for San Andreas",
+      "score": 6,
+      "user": "RJWOnline",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Risible drivel",
+      "score": 3,
+      "user": "Tim Little",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"2012\" & \"Taken\" Combined In One Movie - Great!!",
+      "score": 7,
+      "user": "reuven mizrachi",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cool effects, good acting and OK story.",
+      "score": 6,
+      "user": "Nicole C",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nature isn't shoddy. This movie is.",
+      "score": 5,
+      "user": "scottshak_111",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An epic disaster movie.",
+      "score": 6,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's Your Fault!",
+      "score": 5,
+      "user": " (Richie@RanRightRealty.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insulting to one's intelligence.",
+      "score": 1,
+      "user": "implaxis",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Spoilers?  This movie blows.",
+      "score": 1,
+      "user": "No EffingCGI",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another 2012 movie...",
+      "score": 5,
+      "user": "DisneySwiftie",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews....",
+      "score": 6,
+      "user": "capone666",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another \"Seperated husband saves the day\" clich\u00e9",
+      "score": 6,
+      "user": "Tarek Saazeb",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "pretty fair",
+      "score": 6,
+      "user": "WoodBangers Entertainment",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More to Fear",
+      "score": 2,
+      "user": "westsideschl",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great CGI, poor storyline! 5/10",
+      "score": 5,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great effects though! Very good disaster movie",
+      "score": 9,
+      "user": "Hollywood Boy",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Movie That Describes Today's Hollywood",
+      "score": 4,
+      "user": "BlackLemonTea",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "2012 remake/reboot",
+      "score": 2,
+      "user": "chrisjakubowski",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "4 Stars just for all the cleavage shots",
+      "score": 4,
+      "user": "taz1004",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Oh My GAD\"(God).....",
+      "score": 5,
+      "user": "s3276169",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is the typical action movie for you...",
+      "score": 1,
+      "user": "pendenquejohn",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just awful...",
+      "score": 1,
+      "user": "Kevin McCormick",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Never Compare Movies",
+      "score": 7,
+      "user": "cynth_alvarado",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You'll Have a Blast while Watching it, and then Forget it Almost Instantly",
+      "score": 7,
+      "user": "DareDevilKid",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, but it feels like a 90s simulation program instead of an epic disaster film",
+      "score": 7,
+      "user": "fabiolpinheiro1993",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Fun!",
+      "score": 7,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing!!!!!!",
+      "score": 8,
+      "user": "pcprince-08675",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very entertaining for a disaster flick",
+      "score": 7,
+      "user": "callanvass",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "My verdict; Nice...",
+      "score": 7,
+      "user": "Anirban Dey",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You get what you are previewed...... \"A Disaster Movie\"",
+      "score": 7,
+      "user": "sgholbrook",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "*****Spielberg inspired eye, ear and heart candy.*****",
+      "score": 7,
+      "user": "selarom-yar",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A disaster movie with the Rock",
+      "score": 7,
+      "user": "Raz Abrahamyan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mother nature",
+      "score": 7,
+      "user": "peefyn",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rushed.",
+      "score": 7,
+      "user": "phillipd97",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Effects are good not over the top",
+      "score": 8,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as bad as I thought it would be",
+      "score": 8,
+      "user": "Owen Gonzales (okg101@yahoo.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly intense and heart pounding disaster action film!",
+      "score": 7,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The summer of 2015 is officially here",
+      "score": 7,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Natural Disaster Roller-coaster Ride",
+      "score": 7,
+      "user": "hoxjennifer",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exactly what you would expect from a movie like this. Cheesy but super fun and exciting to watch.",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Get to the side of the stadium......",
+      "score": 7,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Rock vs The Earthquake",
+      "score": 7,
+      "user": "david-sarkies",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clich\u00e9 story, but impressive effects",
+      "score": 7,
+      "user": "tinovalkki",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Of all the highly implausible things in this movie ...",
+      "score": 7,
+      "user": "jeffcoley-97560",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Movie Paired with Jaw Dropping Visual Effects makes it Worth Watching",
+      "score": 8,
+      "user": "dreamtakers",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Intense Disaster Film",
+      "score": 7,
+      "user": "Michael Seng Wah",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "predictable but OK",
+      "score": 7,
+      "user": "garethruk",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Visual effects field day extravaganza disaster flick; knee-deep in EmmerichVille",
+      "score": 8,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An earth-shaking sensation.",
+      "score": 8,
+      "user": "bigconoruk",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San Andreas was a very enjoyable disaster flick",
+      "score": 8,
+      "user": "tavm",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Whose \"Fault\" Is It Anyway?  SAN ANDREAS",
+      "score": 8,
+      "user": "virek213",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Go watch for the special effects....",
+      "score": 8,
+      "user": "Abhishek Das",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Absolute Blast",
+      "score": 8,
+      "user": "James Wood",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun but highly unoriginal",
+      "score": 8,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty Cool",
+      "score": 8,
+      "user": "georgiagarnett",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Grandmother of all disasters",
+      "score": 8,
+      "user": "davidgee",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Measures a 7.5 on the BA_Harrison disaster movie scale.",
+      "score": 8,
+      "user": "BA_Harrison",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sense-Juddering Visuals, But Logically and Emotionally Void",
+      "score": 6,
+      "user": "prospectus_capricornium",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another underrated movie",
+      "score": 9,
+      "user": "debasishxp",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a Dwayne Johnson movie, what else would you expect??!!",
+      "score": 8,
+      "user": "James nunez",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What you want from a disaster movie and a bit more!",
+      "score": 9,
+      "user": "victoura56",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best disaster movie in 19 years",
+      "score": 8,
+      "user": "kristian-eloluoto-26-904656",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "2012 looks like \"The Shawshank Redemption\" in front of this crap...!!!",
+      "score": 4,
+      "user": "fahadkashmiri7",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Rocking (sorry) Disaster Film with a few Faults :-)",
+      "score": 8,
+      "user": "RocketeerFlyer",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Likable characters in genuine danger makes up for a clich\u00e9-ridden CGI fest",
+      "score": 6,
+      "user": "luke-a-mcgowan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horriful",
+      "score": 2,
+      "user": "Sander Guilonard",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Disaster of a Movie",
+      "score": 5,
+      "user": "dcarsonhagy",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ultimately forgettable disaster movie",
+      "score": 5,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing",
+      "score": 4,
+      "user": "puddin166",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "2012 cheaper version 2.0 a.k.a San Clich\u00e9",
+      "score": 1,
+      "user": "davisalmo",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Only watchable because of The Rock",
+      "score": 7,
+      "user": "MattTheNoble",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A cliffhanger from the first scenes but geologically improbable or impossible",
+      "score": 6,
+      "user": "JeffBatHome",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lovely disaster",
+      "score": 6,
+      "user": "matthew scot",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the worst movies",
+      "score": 1,
+      "user": "pro-andrius",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just, just......awful",
+      "score": 1,
+      "user": "funkstar186",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "awesome review",
+      "score": 8,
+      "user": "Abdu mad",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It falls on its own.",
+      "score": 1,
+      "user": "paulquilichini",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So wrong....yet enjoyable!",
+      "score": 7,
+      "user": "stabester0406",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "California loses at least 42 U.S. Congressional seats . . .",
+      "score": 7,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Summer Disaster Movie",
+      "score": 7,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Movie",
+      "score": 7,
+      "user": "yashrajs536",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the actors are not acting",
+      "score": 1,
+      "user": "gromeobilugan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Typical Disaster Movie",
+      "score": 6,
+      "user": "Liam Cullen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More Terrifying Than Poltergeist",
+      "score": 7,
+      "user": "wutudoinmydogz",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Fun Thrill Ride.",
+      "score": 7,
+      "user": "Connor Dillon",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When The Rock takes on the San Andreas fault...every one wins!",
+      "score": 7,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very entertaining",
+      "score": 9,
+      "user": "Arcturus36",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh the Rock...Can you do any wrong?",
+      "score": 7,
+      "user": "Coury85",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The key to a good disaster movie is to kill everyone...",
+      "score": 8,
+      "user": "lojitsu",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Johnson Elevates This Fun and Intense Disaster Film",
+      "score": 8,
+      "user": "slayerjmk95",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great 3D popcorn fun!!! IGNORE ALL HATERS!!!",
+      "score": 9,
+      "user": "trooper5783",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fantastic addition to a misunderstood genre",
+      "score": 8,
+      "user": "Jennifer Lynx",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun filled mayhem.",
+      "score": 8,
+      "user": "macadam122",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Roller-Coaster Was Relentless!",
+      "score": 7,
+      "user": "3xHCCH",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best movie of the year",
+      "score": 10,
+      "user": "gnduffy",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Edge of my seat throughout the whole movie!",
+      "score": 10,
+      "user": "barbiegerl",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Breathtakingly amazing!",
+      "score": 10,
+      "user": "olivercroker",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thrilling, good graphics, clean story, enjoyable show",
+      "score": 10,
+      "user": "gansvv",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Family Action Movie",
+      "score": 10,
+      "user": "George Tsiolis",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good disaster movie, it deserves a 6",
+      "score": 6,
+      "user": "gaxiola_fk",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This One Should Have Fallen Into the Ocean",
+      "score": 6,
+      "user": "moviescoundrel",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's Because the Gays are Getting Married",
+      "score": 3,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Come On???",
+      "score": 1,
+      "user": "annidonia",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stopped watching after 11 minutes..",
+      "score": 1,
+      "user": "Guy Eshel",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'San Andreas' is perfect in all the right places, cheese and all.",
+      "score": 7,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Never mind the plot, enjoy the effects",
+      "score": 7,
+      "user": "John Kingston",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining disaster film",
+      "score": 8,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Refreshingly Surprising",
+      "score": 8,
+      "user": "mgonzalez9724",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"San Andreas\" does what it sets out to do - it impresses, thrills and entertains.",
+      "score": 8,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Good Hollywood Disaster",
+      "score": 8,
+      "user": "aharmas",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "3 d fault line of gigantic Sana Andreas poportitions",
+      "score": 9,
+      "user": "2karl-",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lack of plot, but still fun to watch",
+      "score": 9,
+      "user": "ferdyyanto",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Literally Jawdropping",
+      "score": 10,
+      "user": "vickorty",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thrilling Exciting and Loud",
+      "score": 10,
+      "user": "Steven Freekin",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wanted to claw my eyes out",
+      "score": 1,
+      "user": "dan87-259-800344",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "short of expectations",
+      "score": 5,
+      "user": "prithvi patil",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty Typical Disaster Movie",
+      "score": 6,
+      "user": "bankofmarquis",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better when you don't expect much...",
+      "score": 7,
+      "user": "bonekeep",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Earth Shaking Thrills in 3D",
+      "score": 9,
+      "user": "twogunrosie",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it.",
+      "score": 10,
+      "user": "olsondan5",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny facts about San Andreas - Read after watching movie :P",
+      "score": 6,
+      "user": "Rex Sunny",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing shakes the Rock",
+      "score": 4,
+      "user": "rooee",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Was this a sequel?",
+      "score": 6,
+      "user": "Nibiru Sankke",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was entertaining, but what a disaster! This Earthquake Movie hit Rock Bottom, indeed.",
+      "score": 6,
+      "user": "ironhorse_iv",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "2012 meets Planes, Trains and Automobiles",
+      "score": 9,
+      "user": "dutchs-1",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Action packed from beginning to end!",
+      "score": 9,
+      "user": "Neil Reeves",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely Fantastic Movie!",
+      "score": 10,
+      "user": "sleeplessNsassy",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing Disaster Movie Shot in 3D! YOU NEED TO SEE THIS!@#$",
+      "score": 10,
+      "user": "Farhang Namdar",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not sure what you watched",
+      "score": 6,
+      "user": "Simons Printing",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Popcorn Movie",
+      "score": 6,
+      "user": "Mike Cloud",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"it's nothing we haven't seen before\"",
+      "score": 6,
+      "user": "Tariq Sheikh",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too much coincidence element in a disaster movie",
+      "score": 6,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San  Andreas",
+      "score": 6,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The only thing worth watching in the movie- Alexandra Daddario!!!",
+      "score": 6,
+      "user": "rajatdahiyax",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing ground breaking",
+      "score": 6,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San Andreas",
+      "score": 6,
+      "user": "Alexa Bouhelier-Ruelle",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "boom boom no story",
+      "score": 6,
+      "user": "bjb1100",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Excellent Movie With Irresistible Women.",
+      "score": 10,
+      "user": "avirariva",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A heart-wrenching emotional journey that will leave you shaking with adrenaline long after.",
+      "score": 10,
+      "user": "Paige Chaplin (rickyslittlehorror)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great suspenseful movie all the way through!",
+      "score": 10,
+      "user": "wilfredkenyon-185-190578",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film was cheesy, but entertaining.",
+      "score": 5,
+      "user": "Ian Johnson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great re-skin of older films",
+      "score": 6,
+      "user": "Niall Wade",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable action flick",
+      "score": 5,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San Andreas does have flaws, but the bumpy ride through spectacular visual with rock solid lead proves to be an entertaining one..",
+      "score": 6,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'll try to keep it short, but God this movie was awful...",
+      "score": 1,
+      "user": "elijohansenelite",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent.",
+      "score": 9,
+      "user": "natashaivkovic9",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Rock Has Become A Better Actor!",
+      "score": 9,
+      "user": "ShelbyTMItchell",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'The Big One' v 'The Rock'",
+      "score": 9,
+      "user": "Bo Atdrinks",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good but could of been better",
+      "score": 6,
+      "user": "Aled Holcombe",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A thrilling if clich\u00e9 disaster film",
+      "score": 6,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Remember Emmerich's 2012?  Well, here it is again - only with slightly different wrapping.",
+      "score": 5,
+      "user": "shadowyx12",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OK disaster movie that was clich\u00e9 at times",
+      "score": 6,
+      "user": "davedroid07",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Destruction Prostitution",
+      "score": 6,
+      "user": "Gaby Nassar (finaldestination-g)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome",
+      "score": 9,
+      "user": "Tony Barton (mr.abarton@hotmail.co.uk)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Action Packed",
+      "score": 10,
+      "user": "Jeff K",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You'll get exactly what you'd expect from this disaster movie",
+      "score": 5,
+      "user": "Shane Breen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great visuals, that's about it...",
+      "score": 5,
+      "user": "Thomas West",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumb but fun !!!!",
+      "score": 6,
+      "user": "Alex Searle",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cheesy fun",
+      "score": 5,
+      "user": "potato2",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big Budget, Mediocre Story,",
+      "score": 5,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Got to love a disaster movie",
+      "score": 9,
+      "user": "Figgy66-915-598470",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Behold the Stupid Movie",
+      "score": 1,
+      "user": "chicagopoetry",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply fun and very well acted.",
+      "score": 10,
+      "user": "barry-154",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A 3D Disaster Movie And So Much More",
+      "score": 10,
+      "user": "Ashley_The_Little_Rogue",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best disaster movie since The Day After Tomorrow!",
+      "score": 10,
+      "user": "smitha10",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Follows the basic 'disaster flick' formula, religiously!",
+      "score": 5,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you want a good movie, get a good director, screen play, cast, etc.",
+      "score": 5,
+      "user": "duncan-gordon11",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of time. Don't watch it",
+      "score": 4,
+      "user": "jaganivasmayengbam",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Fault without stars",
+      "score": 5,
+      "user": "bob-the-movie-man",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could Have Been A Bit More Nasty",
+      "score": 6,
+      "user": "Theo Robertson",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not groundbreaking cinema, but it does suck you in",
+      "score": 6,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a complete disaster.",
+      "score": 6,
+      "user": "ryan-fotheringham",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wrong in every possible way",
+      "score": 1,
+      "user": "missesaw-770-220611",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A mind-blowing 3D experience in every sense, yet the story falls flat on its face",
+      "score": 7,
+      "user": "Rawal Afzal",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Must Watch !!",
+      "score": 10,
+      "user": "Wayne Curley",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumb Cheap Popcorn",
+      "score": 4,
+      "user": "FallsDownz",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Master Disaster",
+      "score": 6,
+      "user": "kgprophet",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you're in need for a disaster-movie fix, 'San Andreas' is a Rock-solid bet",
+      "score": 6,
+      "user": "moviexclusive",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply Awful",
+      "score": 1,
+      "user": "Santiago97",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overload special effects, zero attention to story and logic",
+      "score": 1,
+      "user": "pietervanstein",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie of coincidence and luck",
+      "score": 5,
+      "user": "Cake15",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OMG like. Was AMAZING",
+      "score": 5,
+      "user": "Georgian Stanescu",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sorry if I hated on this movie bad. But it is my opinion (minor spoilers",
+      "score": 3,
+      "user": "Diego Vallejo",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh, Come On!",
+      "score": 3,
+      "user": "freemanpatrick7",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Irwin Allen where are you?",
+      "score": 1,
+      "user": "jim_flowers",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great for its graphics...but that's it",
+      "score": 5,
+      "user": "Al Brantjes",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Neutered Rock =/   Sub-par",
+      "score": 4,
+      "user": "mscha",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tremendous Graphics. Terrible Acting. Unrealistic.",
+      "score": 4,
+      "user": "Anthony Coleman",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not impressed",
+      "score": 3,
+      "user": "rjone-54933",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is why people lost interest in Movies",
+      "score": 3,
+      "user": "Yasherif Videogamesencyclo",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "3.8/10",
+      "score": 3,
+      "user": "Chisty  Lemire",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "like a TV B' movie",
+      "score": 4,
+      "user": "Zaffy-1",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clich\u00e9 filled stream of p#ss into the viewers face",
+      "score": 4,
+      "user": "Daniel L. Travieso",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lacklustre at its best",
+      "score": 3,
+      "user": "SeanV1390",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There are many better disaster movies. This was bad. Don't watch it.",
+      "score": 3,
+      "user": "Gaurav Dubey",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "ridiculousness at 9.3 magnitude",
+      "score": 3,
+      "user": "rave82000",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wait for it to hit cable and pretend you have 3D glasses.  You won't notice.",
+      "score": 3,
+      "user": "jpileggi",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Our land may crumble .......",
+      "score": 1,
+      "user": "zif ofoz",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San BLANDreas",
+      "score": 2,
+      "user": "ArT_of_InSaNiTy",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "f***ing noise and emotional stunt",
+      "score": 2,
+      "user": "arunbbaldepp-39795",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just another disaster movie....but this one is a disaster",
+      "score": 2,
+      "user": "cammic",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I would rather chew on tin foil than sit through this again",
+      "score": 1,
+      "user": "mccallions-35755",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is not a movie its just a visual effects rape",
+      "score": 1,
+      "user": "kurianos",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictable, Terrible",
+      "score": 3,
+      "user": "Louis",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brutally inept drivel well suited for a 10 year old.",
+      "score": 3,
+      "user": "brooksrob1",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocre",
+      "score": 3,
+      "user": "im dbmovie",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "From the director of Cats & Dogs 2: The Revenge of Kitty Galore",
+      "score": 5,
+      "user": "Jason Kleeberg",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "welcome to 1970's godzilla special effects",
+      "score": 1,
+      "user": "tyfox",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "* Spoiler * Spoiler * Spoiler * Spoiler * Spoiler *",
+      "score": 1,
+      "user": "agcala",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not only de Bont and Emmerich can make pathetic movies!",
+      "score": 1,
+      "user": "PeterAndTheWolves",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The worst movie ever made",
+      "score": 1,
+      "user": "jpllg",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nuking the fridge every few minutes + uses all clich\u00e9s possible",
+      "score": 3,
+      "user": "pasa-2 (pasa@lib.hu)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Impressively bad",
+      "score": 3,
+      "user": "Sebastian Willing",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do not bring pointy sticks or hemlock to this movie.",
+      "score": 2,
+      "user": "Betsymillion",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A total fail... waste of money",
+      "score": 2,
+      "user": "Omer Butt",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Giant helicopter pilot saves family from giant earthquake.",
+      "score": 5,
+      "user": "davidBJX",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quattro Formaggi",
+      "score": 3,
+      "user": "ukproject",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watchable, ridiculous, all-American histrionics",
+      "score": 4,
+      "user": "tvspace",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A dull disaster movie that doesn't offer anything new to the genre",
+      "score": 4,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Has it's fun moments, but mostly fails at being a disaster movie.",
+      "score": 3,
+      "user": "SophieSlut",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exactly what you'd expect from this sort of film...",
+      "score": 5,
+      "user": "Sammy_Sam_Sam",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "San Andreas aka 2012 aka Day After Tomorrow",
+      "score": 5,
+      "user": "Eddie Kureczka",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Expected",
+      "score": 5,
+      "user": "Alanjackd",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An utter cheesefest",
+      "score": 3,
+      "user": "danthsmith",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I must have been watching a different \"San Andreas\"...",
+      "score": 2,
+      "user": "Guy Noland",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh yeah this film IS a Disaster ...........",
+      "score": 1,
+      "user": "keithbenicek",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Day After Tomorrow, 2012, World War Z\u0097Somewhat Likable. San Andreas\u0097Utter BS!",
+      "score": 4,
+      "user": "hamass-mujadid",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "See At Your Own Risk...",
+      "score": 5,
+      "user": "MovieHoliks",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Contest: Which scene is the most preposterous?",
+      "score": 5,
+      "user": "Sorin",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sigh.... Another Frenetic and Disjointed Gob of Eye-Candy",
+      "score": 5,
+      "user": "azimuth361",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh Dear America...",
+      "score": 4,
+      "user": "ladsontour69",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I didn't expected much, but certainly more than that",
+      "score": 5,
+      "user": "Arnoldas Lukas Vaitkunas",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "OK, but nothing new....",
+      "score": 5,
+      "user": "TrueMovies",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horrible",
+      "score": 1,
+      "user": "erland-day",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Abdominal Movie Only the Mentally Challenged can Like",
+      "score": 1,
+      "user": "arfdawg-1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Far fetched... IS AN UNDERSTATEMENT!",
+      "score": 3,
+      "user": "ross0963",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocrity (with boobs)",
+      "score": 4,
+      "user": "sarastro7",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just too much all round",
+      "score": 3,
+      "user": "ben_spence",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "massacre",
+      "score": 3,
+      "user": "darryl-79",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excruciatingly dull.",
+      "score": 3,
+      "user": "Troy_Campbell",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dunderheaded Disaster",
+      "score": 3,
+      "user": "Christopher Parkes",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the better disaster movies i've seen",
+      "score": 5,
+      "user": "Rolle Hacksell (rolle.hacksell@hotmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Excellent Movie With Irresistible Women.",
+      "score": 10,
+      "user": "avirariva",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 114,
+  "votes_per_demo": {
+    "aged_45+": 12884,
+    "top_1000_voters": 492,
+    "males_under_18": 868,
+    "imdb_staff": 12,
+    "males_aged_18-29": 40689,
+    "imdb_users": 157526,
+    "males_aged_45+": 10699,
+    "aged_18-29": 49685,
+    "us_users": 18868,
+    "females_aged_30-44": 6655,
+    "males": 104504,
+    "females": 19284,
+    "females_aged_45+": 1975,
+    "non-us_users": 67794,
+    "females_aged_18-29": 8536,
+    "females_under_18": 261,
+    "aged_30-44": 51907,
+    "aged_under_18": 1140,
+    "males_aged_30-44": 44513
+  },
   "genres": [
     "action",
     "adventure",
     "drama"
   ],
-  "release_month": "May",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.1,
-    "aged_18-29": 6.2,
-    "aged_30-44": 5.9,
-    "females": 6.5,
-    "top_1000_voters": 5.6,
-    "non-us_users": 5.9,
-    "females_under_18": 7.3,
-    "males_aged_30-44": 5.9,
-    "us_users": 6.1,
-    "imdb_users": 6.1,
-    "imdb_staff": 6.1,
-    "males_under_18": 6.6,
-    "females_aged_18-29": 6.5,
-    "males_aged_45+": 6.1,
-    "females_aged_30-44": 6.3,
-    "males": 6.0,
-    "males_aged_18-29": 6.1,
-    "females_aged_45+": 6.6,
-    "aged_under_18": 6.8
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "San Andreas",
-  "gross_income": 155181732,
-  "user_review_count": 514,
-  "duration": 114,
-  "max_screens": 3812,
-  "votes_per_demo": {
-    "aged_45+": 12879,
-    "aged_18-29": 49673,
-    "aged_30-44": 51887,
-    "females": 19277,
-    "top_1000_voters": 492,
-    "non-us_users": 67772,
-    "females_under_18": 262,
-    "males_aged_30-44": 44496,
-    "us_users": 18862,
-    "imdb_users": 157473,
-    "imdb_staff": 12,
-    "males_under_18": 868,
-    "females_aged_18-29": 8533,
-    "males_aged_45+": 10695,
-    "females_aged_30-44": 6652,
-    "males": 104472,
-    "males_aged_18-29": 40680,
-    "females_aged_45+": 1974,
-    "aged_under_18": 1141
+  "rating_freq": {
+    "1": 3908,
+    "2": 3261,
+    "3": 5598,
+    "4": 10779,
+    "5": 22498,
+    "6": 40061,
+    "7": 36928,
+    "8": 17564,
+    "9": 6594,
+    "10": 10335
   },
-  "rating_count": 157473,
+  "release_month": "May",
+  "budget": 110000000,
+  "budget_currency": "$",
+  "total_screens": 21351,
+  "year": 2015,
+  "rating": 6.1,
   "critic_review_count": 365,
-  "opening_weekend_income": 54588173
+  "opening_weekend_date": {
+    "month": 5,
+    "year": 2015,
+    "day": 29,
+    "__type__": "datetime.date"
+  },
+  "name": "San Andreas",
+  "user_review_count": 514,
+  "avg_screens": 1255.9411764705883
 }

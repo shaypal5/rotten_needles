@@ -1,91 +1,1043 @@
 {
-  "num_weekends": 11,
-  "duration": 91,
+  "budget": 40000000,
+  "opening_weekend_income": 6176280,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 25,
+    "__type__": "datetime.date",
+    "month": 5
+  },
+  "budget_currency": "$",
+  "avg_screens": 648.0909090909091,
   "rating_freq": {
     "1": 957,
     "2": 737,
     "3": 1263,
-    "4": 2361,
+    "4": 2364,
     "5": 5219,
-    "6": 7818,
+    "6": 7819,
     "7": 6133,
-    "8": 3201,
+    "8": 3202,
     "9": 1362,
     "10": 3053
   },
-  "release_year": 2012,
-  "budget_currency": "$",
-  "rating": 5.9,
-  "release_day": 9,
-  "budget": 40000000,
-  "votes_per_demo": {
-    "us_users": 4121,
-    "imdb_users": 32104,
-    "aged_30-44": 10739,
-    "males": 22236,
-    "males_aged_18-29": 10525,
-    "top_1000_voters": 268,
-    "females_aged_30-44": 1733,
-    "imdb_staff": 2,
-    "females": 5934,
-    "females_aged_45+": 450,
-    "females_under_18": 30,
-    "aged_under_18": 123,
-    "aged_45+": 2309,
-    "females_aged_18-29": 3383,
-    "non-us_users": 17021,
-    "males_aged_45+": 1812,
-    "males_under_18": 91,
-    "aged_18-29": 14038,
-    "males_aged_30-44": 8883
-  },
-  "metascore": 26,
-  "avg_rating_per_demo": {
-    "us_users": 5.4,
-    "imdb_users": 5.9,
-    "aged_30-44": 5.7,
-    "males": 5.8,
-    "males_aged_18-29": 6.1,
-    "top_1000_voters": 4.9,
-    "females_aged_30-44": 5.9,
-    "imdb_staff": 4.5,
-    "females": 6.2,
-    "females_aged_45+": 5.8,
-    "females_under_18": 7.0,
-    "aged_under_18": 6.2,
-    "aged_45+": 5.5,
-    "females_aged_18-29": 6.4,
-    "non-us_users": 5.9,
-    "males_aged_45+": 5.4,
-    "males_under_18": 6.0,
-    "aged_18-29": 6.2,
-    "males_aged_30-44": 5.6
-  },
-  "rating_count": 32104,
-  "critic_review_count": 70,
-  "opening_weekend_income_currency": "$",
-  "name": "A Thousand Words",
-  "user_review_count": 94,
-  "avg_screens": 648.0909090909091,
-  "release_month": "March",
-  "opening_weekend_date": {
-    "day": 9,
-    "month": 3,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "screens_by_weekend": [
+    1890,
+    1895,
+    1787,
+    507,
+    277,
+    168,
+    169,
+    140,
+    127,
+    110,
+    59
+  ],
+  "rating_count": 32109,
+  "total_screens": 7129,
   "max_screens": 1895,
+  "duration": 91,
   "gross_income": 18438149,
+  "metascore": 26,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 269,
+    "imdb_users": 32109,
+    "us_users": 4122,
+    "aged_18-29": 14035,
+    "non-us_users": 17024,
+    "aged_45+": 2310,
+    "aged_30-44": 10743,
+    "males_aged_30-44": 8887,
+    "males_aged_18-29": 10522,
+    "males_aged_45+": 1814,
+    "aged_under_18": 124,
+    "imdb_staff": 2,
+    "males_under_18": 92,
+    "females_aged_30-44": 1733,
+    "females": 5933,
+    "females_under_18": 30,
+    "females_aged_45+": 449,
+    "males": 22240,
+    "females_aged_18-29": 3383
+  },
+  "user_review_count": 94,
+  "rating": 5.9,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 4.9,
+    "imdb_users": 5.9,
+    "us_users": 5.4,
+    "aged_18-29": 6.2,
+    "non-us_users": 5.9,
+    "aged_45+": 5.5,
+    "aged_30-44": 5.7,
+    "males_aged_30-44": 5.6,
+    "males_aged_18-29": 6.1,
+    "males_aged_45+": 5.4,
+    "aged_under_18": 6.2,
+    "imdb_staff": 4.5,
+    "males_under_18": 6.0,
+    "females_aged_30-44": 5.9,
+    "females": 6.2,
+    "females_under_18": 7.0,
+    "females_aged_45+": 5.8,
+    "males": 5.8,
+    "females_aged_18-29": 6.4
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 9,
+    "__type__": "datetime.date",
+    "month": 3
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "rgkarim",
+      "contents": "Comedy okay, Message is good",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Diet Bacon Cola",
+      "contents": "A Brutally Honest Review",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Shawn",
+      "contents": "What's Up With the Negative Reviews??",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "gonzoville",
+      "contents": "A more mature comedy from Eddie Murphy",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "tavm",
+      "contents": "Eddie Murphy still makes me laugh...even in something like A Thousand Words",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "witster18",
+      "contents": "Eddie's Best Effort in some time....",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Perfectionisbeauty",
+      "contents": "1,000 words to utter before you depart or about the life in its near end.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "GoneWithTheTwins",
+      "contents": "The mood is rather muddied and the laughs are never big.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "bebop603",
+      "contents": "Thoughtful Lowbrow Spiritual Comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "patsworld",
+      "contents": "Not Even A Thousand Words Would Make This A Winner",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "movieman_kev",
+      "contents": "Nine hundred and ninety-nine words to many",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Kartik",
+      "contents": "Loved the concept",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "pviser27",
+      "contents": "Simply beautiful",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "Don't Speak!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "erick-327-863879",
+      "contents": "Deeply Touching and Meaningful",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "andrew782",
+      "contents": "Fantastic - DO NOT MISS THIS MOVIE!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Davis P",
+      "contents": "Eddie at his worst",
+      "review_date": {
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Prismark10",
+      "contents": "A man of few words",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "toni-cooke18",
+      "contents": "Not bad",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "nama chakravorty",
+      "contents": "Eddie Murphy Shines!",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Eddie's best effort in quite awhile",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "taemin407",
+      "contents": "Why only rated 5?",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "sandeepgla",
+      "contents": "I Loved it",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "petergross53",
+      "contents": "Wonderful,heartwarming movie!",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "pedro-andralme",
+      "contents": "This movie is great",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "contents": "Eddie Murphy's Likable, But The Movie Is Nothing Special",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "vincentlynch-moonoi",
+      "contents": "It should have been a straight drama",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "amahlanand",
+      "contents": "Dull x 1000",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "DLPOppo",
+      "contents": "Self Discovery a Humorous Journey",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Prabu Ravichandran",
+      "contents": "A real good feel to watch",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Matthew Wright (thefiresidechronicles)",
+      "contents": "A Thousands Words, one of Murphys instant greats.",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "javaxscript",
+      "contents": "Well worth to watch! Great family movie. Awesome message.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "phd_travel",
+      "contents": "The joke wears thin",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Jack Yedvobnick",
+      "contents": "DISH review was low, but they're fools!",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "moviefanintheusa",
+      "contents": "Not as terrible as the critics say.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Almostfamous09",
+      "contents": "Enjoyable, heartfelt and slightly underrated by overly critical people",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "Funny like I expected but much more emotional and heartfelt then I expected. Murphy is perfect in this. I liked it. I say A",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "A bland sea of contrivance and shallow morals",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Goran Poposki",
+      "contents": "Interesting story, but predictable",
+      "review_date": {
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "phoenix 2",
+      "contents": "not good enough",
+      "review_date": {
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "adi_2002",
+      "contents": "Tree of life",
+      "review_date": {
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "daveygandthekeyboard",
+      "contents": "There are some funny parts in a by-the-numbers movie",
+      "review_date": {
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "What a surprise...",
+      "review_date": {
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "A Thousand Words for Murphy.",
+      "review_date": {
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "ramyakamath",
+      "contents": "Loopholes, but good pass-time view",
+      "review_date": {
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Dillon Harris",
+      "contents": "Not Murphy's Worst, but It's Certainly not Good,",
+      "review_date": {
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "shreekara-1995",
+      "contents": "Good movie that miss something",
+      "review_date": {
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Ashwin Nandihalli",
+      "contents": "Just perfect",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "thesar-2",
+      "contents": "999 Too Many",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "Ines Witherspoon",
+      "contents": "Unexpected ***Contains spoilers****",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "traveler_nl",
+      "contents": "not your typical E Murphy film, but funny and with a touch of heart",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "r-stubbe",
+      "contents": "reminds me af Disney",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "lamphongvy",
+      "contents": "A Thousand Words (2012)",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "rusiriw",
+      "contents": "Three words to describe.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "icreatura",
+      "contents": "Let me be a big bird! (and then the crow sound)",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "jasonandnick6",
+      "contents": "Different & Enjoyable",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "RaymondMooreJr",
+      "contents": "\"I see men walking as trees\"-",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "G Jackson",
+      "contents": "Missed Opportunity",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "contents": "A Thousand Words (2012) - Die, Murphy! Die! (I'm Really Mean, Am I?)",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "MaxStarr",
+      "contents": "Eddie Murphy ... wasn't he funny, like about 30 years ago?",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "cultfilmfreaksdotcom",
+      "contents": "A Fruitless Labor",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "coltsr2",
+      "contents": "Just a few words....",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "ladymoonpictures",
+      "contents": "Good Message_Destroyed in Lousy Movie Presentation",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "Adam Foidart",
+      "contents": "How about 2 words? Zero Stars!",
+      "review_date": {
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "kosmasp",
+      "contents": "A few words",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "Ava-Gay Smith",
+      "contents": "A movie with a brilliant morale",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "this is not a comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "Motor mouth Eddie does it again.....",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "fwlmed",
+      "contents": "Great message, poor movie",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "TheFilmDiscussion .com",
+      "contents": "\"A Thousand Words\" - The Motormouth is still funny without words, but the story is lacking",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "lagudafuad",
+      "contents": "I am short of words when it comes to the movie a thousand words",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "jaykchan",
+      "contents": "Stay away from it if you don't like Eddie Murphy",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Yvette D",
+      "contents": "A Thousand Words",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "yora217",
+      "contents": "horrible film!",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "Action Man",
+      "contents": "Rubbish",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Maniac-9",
+      "contents": "Just a bad movie",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "harold-bryant1971",
+      "contents": "Boring, with a little childish humor",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Richard Reilly (FFman@comcast.net)",
+      "contents": "Time for Eddie Murphy to Retire",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "Anup Viswanathan Thampi",
+      "contents": "A dumb humorous movie",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "schmidtkenn11",
+      "contents": "Worst...Movie...EVER!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "DoctorRabbit",
+      "contents": "When All The Leaves Fall Off The Tree, Eddie Murphy's Career Dies",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "dan-dinary",
+      "contents": "why was this made?",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film review: Words of enlightenment.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "This_Movie_Guy",
+      "contents": "A Thousand Words (in less than 1000 Words, Better Than Expected)",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    }
+  ],
+  "release_month": "March",
   "genres": [
     "comedy",
     "drama"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 25,
-    "month": 5,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 6176280
+  "opening_weekend_screens": 1890,
+  "name": "A Thousand Words",
+  "num_weekends": 11,
+  "release_day": 9,
+  "critic_review_count": 70
 }

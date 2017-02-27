@@ -1,90 +1,1364 @@
 {
-  "name": "Detachment",
+  "budget": null,
   "opening_weekend_income": 10739,
+  "year": 2011,
+  "closing_date": {
+    "year": 2012,
+    "day": 27,
+    "__type__": "datetime.date",
+    "month": 4
+  },
+  "budget_currency": null,
+  "avg_screens": 5.333333333333333,
+  "rating_freq": {
+    "1": 378,
+    "2": 199,
+    "3": 353,
+    "4": 681,
+    "5": 1696,
+    "6": 4577,
+    "7": 12967,
+    "8": 19632,
+    "9": 11220,
+    "10": 8255
+  },
+  "screens_by_weekend": [
+    2,
+    10,
+    4
+  ],
+  "rating_count": 59958,
+  "total_screens": 16,
+  "max_screens": 10,
+  "duration": 98,
+  "gross_income": 71177,
+  "metascore": 52,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 301,
+    "imdb_users": 59958,
+    "us_users": 6015,
+    "aged_18-29": 25342,
+    "non-us_users": 35717,
+    "aged_45+": 4283,
+    "aged_30-44": 21802,
+    "males_aged_30-44": 17233,
+    "males_aged_18-29": 17766,
+    "males_aged_45+": 3429,
+    "aged_under_18": 75,
+    "imdb_staff": 3,
+    "males_under_18": 35,
+    "females_aged_30-44": 4234,
+    "females": 12855,
+    "females_under_18": 38,
+    "females_aged_45+": 766,
+    "males": 39699,
+    "females_aged_18-29": 7289
+  },
+  "user_review_count": 126,
+  "rating": 7.7,
+  "release_year": null,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 6.5,
+    "imdb_users": 7.7,
+    "us_users": 7.5,
+    "aged_18-29": 7.9,
+    "non-us_users": 7.7,
+    "aged_45+": 7.5,
+    "aged_30-44": 7.6,
+    "males_aged_30-44": 7.5,
+    "males_aged_18-29": 7.9,
+    "males_aged_45+": 7.4,
+    "aged_under_18": 8.2,
+    "imdb_staff": 6.7,
+    "males_under_18": 8.2,
+    "females_aged_30-44": 7.7,
+    "females": 7.9,
+    "females_under_18": 8.0,
+    "females_aged_45+": 7.7,
+    "males": 7.7,
+    "females_aged_18-29": 8.0
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 16,
+    "__type__": "datetime.date",
+    "month": 3
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "Francisco Eguiza",
+      "contents": "Best Movie of 2011",
+      "review_date": {
+        "year": 2011,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "bobmichigan1",
+      "contents": "Wow wonderful film",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Emmy Klein",
+      "contents": "Touching, an inspiration to change.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "dschmeding",
+      "contents": "You are in for a world of hurt",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "joshh83-283-171837",
+      "contents": "A Glimpse into the Reality of Life",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "ssamsonk",
+      "contents": "Excellent Cinematic Experience!",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Michael Kleba (iblogamerica)",
+      "contents": "Windswept and desolate school hallways",
+      "review_date": {
+        "year": 2011,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "jbw224",
+      "contents": "An Amazing Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "chicchien8-302-481207",
+      "contents": "Disturbing and compelling; highly recommend",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Stewball",
+      "contents": "A Masterpiece",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "Binoy Santhakumar (bonzybino)",
+      "contents": "ubiquitous assimilation!!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "ritewater06",
+      "contents": "What's happening in our schools?",
+      "review_date": {
+        "year": 2011,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "Desperation and Despondency as a Wakeup Call",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "leereddy",
+      "contents": "An unnerving yet brilliant account of the education system and its teachers",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "Depressive View of a Sick and Dysfunctional Society",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "The most realistic movie I have seen about a teacher trying to help troubled students. Excellent and a must see. I say A+.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "orana valichkofsky",
+      "contents": "An Outstanding Film!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "gnsweetprince",
+      "contents": "Viewing Mandatory!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "bill smith",
+      "contents": "different tastes I guess...",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "Lloyd McDonald",
+      "contents": "An education about many things!",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "scofenn54",
+      "contents": "Incredible. Love this movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "Detachment is a very interesting drama",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Kevin Joseph",
+      "contents": "Wow... My first review & it couldn't have been a better movie..",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "gradyharp",
+      "contents": "Angst: A Brilliant, Compelling Mirror for Us All",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Farzan Sewani",
+      "contents": "One of the best films I've seen in  while",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "moebellagloria",
+      "contents": "Adrian Brody is a Master Actor and displays His talent perfectly",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "meeza (themeezaman@hotmail.com)",
+      "contents": "Classy movie!",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "tbmforclasstsar",
+      "contents": "a powerful and moving tale of a substitute teacher and the intersecting lives in a high school",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "kaidrozd",
+      "contents": "Beautiful Inspirational Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "meneame69",
+      "contents": "A unique an realistic portrayal of society",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "Bene Cumb",
+      "contents": "Painfully realistic... and a-must-see for certain viewer groups",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "daneejela",
+      "contents": "about being significant and to give significance to other",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Ayca Topalli (a.k.topalli@gmail.com)",
+      "contents": "Should have been named Attachment!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "ken-everett",
+      "contents": "Excellent - every parent should watch this!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "phd_travel",
+      "contents": "Touching and an interesting approach",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "contents": "The BLACKBOARD JUNGLE of the 21st century and one of the year's best films; Brody's best since THE PIANIST.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "willekens_i",
+      "contents": "Amazing and rare movie gem",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "terrikim13",
+      "contents": "Henry Barthes creates new connections and undergoes various experiences which cause him to re-think his own emotional and mental state and of those around him.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Dharmendra Singh",
+      "contents": "'Some people expend tremendous energy merely to be normal'",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "Powerful and thought provoking film",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "robbierunciman-1",
+      "contents": "a journey",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Avid Climber",
+      "contents": "Detachment \u0097 Strange Simple Drama",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "parallelogram -",
+      "contents": "Pure",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "ctonjes-302-616242",
+      "contents": "An Indy Look and tone but pure Hollywood",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "cajete",
+      "contents": "Poetic Approach & Metaphorical",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "ssaimeri",
+      "contents": "1",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "oriolbm92",
+      "contents": "Extremely touching",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Different approach",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "HelenMary",
+      "contents": "not easy watching but brilliant",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "mailjohnw",
+      "contents": "Not as Cynical as it Tries To Be",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "When the cold connect with the cold",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "RainbowCastel",
+      "contents": "Detachement",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "alainkeyrouz",
+      "contents": "It's a real painful movie... but still... full of hope",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "sarah A.M.",
+      "contents": "your typical annoying art film",
+      "review_date": {
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "peterogers2",
+      "contents": "It's better than that",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "vikram-ry123",
+      "contents": "Detachment (2012) : A Review!",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "euphoria2150",
+      "contents": "A very good movie",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "jrkordan084",
+      "contents": "Excellent",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "blogurious",
+      "contents": "An absolute watch!",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Daniel Woodhead (EnterDansMind)",
+      "contents": "A must see film that deals with the very real and very hard problems we see in the education system and our lives.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Bostroljager",
+      "contents": "Brody's best",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "darren-153-890810",
+      "contents": "A touching, thought provoking masterpiece",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "An Excellent, eyes opening movie",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "takethefreedway",
+      "contents": "Brilliant - deep, rich, profound",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Chris L",
+      "contents": "Dark",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Miles Yang",
+      "contents": "The Relationship between Henry & Grandpa",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Jean Clements",
+      "contents": "Depressing",
+      "review_date": {
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "kevandeb",
+      "contents": "Mandatory viewing",
+      "review_date": {
+        "year": 2017,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "Ashkan Ahmadi",
+      "contents": "The story of a substitute working with challenging students while dealing with a lot of personal issues.",
+      "review_date": {
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "dimitriscisse",
+      "contents": "The meaning of life : detachment",
+      "review_date": {
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "R S",
+      "contents": "Dark if it ever was",
+      "review_date": {
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "avital-gc-1",
+      "contents": "The solitude of teachers and pupils",
+      "review_date": {
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "fabian_urfer",
+      "contents": "sorry about being brief. but i believe thats the best way to go",
+      "review_date": {
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Jelle Lauwers",
+      "contents": "I've always been a criticaster...",
+      "review_date": {
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Kau Cheung",
+      "contents": "Best Movie of 2011",
+      "review_date": {
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "Briana Nguyen",
+      "contents": "Brody strikes again",
+      "review_date": {
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "twotrybe",
+      "contents": "Hopefully. people will see this with Vide On Demand",
+      "review_date": {
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "dbrayshaw",
+      "contents": "Education without virtue",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Rovshan Gasimov",
+      "contents": "Very Good and not for everyone",
+      "review_date": {
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "tieman64",
+      "contents": "It starts with a whisper",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Altered realities of teenagers",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "abbasalimassah",
+      "contents": "Its one of those rare movies of our times that catches u unaware .....",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Andrey Dimitrov",
+      "contents": "The \"Open your eyes\" movie",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "liz8200",
+      "contents": "This is a great movie",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Amy Adler",
+      "contents": "A very sad but heartfelt film; Brody and the ensemble cast are terrific",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Kevin",
+      "contents": "Haunting.",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "geneva notagain",
+      "contents": "why not give adrian a chance to not look sad",
+      "review_date": {
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "qlzxnq",
+      "contents": "Exceptional work , but very dark",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Lucas Versantvoort",
+      "contents": "Powerful, yet overwrought",
+      "review_date": {
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "grantss",
+      "contents": "Unoriginal, predictable, melodramatic yet dull",
+      "review_date": {
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "Raed_911",
+      "contents": "A neo-masterpiece",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Saham Hosseini",
+      "contents": "Truly An Excellent Film, A MUST Watch",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Matthew Carey",
+      "contents": "An outstanding film",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "perkypops",
+      "contents": "How do you rate a film like this?",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "he88",
+      "contents": "Maybe A Bit Too Dark And Gloomy",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "tough edgy school drama",
+      "review_date": {
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "polinos",
+      "contents": "Detached Me",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "mittens-and-matches",
+      "contents": "Overrated",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "juvest",
+      "contents": "Powerful dark movie, with a hopeful ending",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Julie Trotter (hedwig0109)",
+      "contents": "This film should be REQUIRED viewing for everyone on the planet!",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "cousinoleg",
+      "contents": "A step towards love and goodness",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Fernando Sanchez",
+      "contents": "Great idea, Terrible Film",
+      "review_date": {
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "aliceboy",
+      "contents": "Not great, but nearly there",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Ruben Mooijman",
+      "contents": "Depressing",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "lukas8",
+      "contents": "No insight to be found here",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "Winston Lee",
+      "contents": "Having notable stars, a sappy and melodramatic plot does not warrant a better film...",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "Matt Kracht (krachtm@yahoo.com)",
+      "contents": "Good but a little pretentious",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Connor3820",
+      "contents": "Pretentious, Contrived.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "bdem",
+      "contents": "Surprisingly Disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "leffunov-1",
+      "contents": "Great parts, but not consistent",
+      "review_date": {
+        "year": 2011,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "jnanasakti",
+      "contents": "There's a reason why it wasn't released in theaters",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "horrorshowmovie (danielsolow5@hotmail.com)",
+      "contents": "Has potential",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "diggus doggus",
+      "contents": "Nice but not very meaningful",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "alexulumend",
+      "contents": "This film is not brave , and frankly it could have been.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "rjb351",
+      "contents": "Bleak view of public education",
+      "review_date": {
+        "year": 2011,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    }
+  ],
+  "release_month": null,
   "genres": [
     "drama"
   ],
-  "rating": 7.7,
-  "rating_count": 59945,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 16,
-    "year": 2012,
-    "month": 3
-  },
-  "user_review_count": 126,
-  "rating_freq": {
-    "1": 378,
-    "2": 198,
-    "3": 353,
-    "4": 681,
-    "5": 1695,
-    "6": 4575,
-    "7": 12969,
-    "8": 19627,
-    "9": 11215,
-    "10": 8254
-  },
-  "release_day": null,
-  "votes_per_demo": {
-    "males": 39693,
-    "females_aged_30-44": 4232,
-    "aged_under_18": 75,
-    "non-us_users": 35711,
-    "males_aged_18-29": 17767,
-    "aged_18-29": 25341,
-    "males_aged_30-44": 17229,
-    "aged_45+": 4279,
-    "imdb_users": 59945,
-    "aged_30-44": 21797,
-    "us_users": 6014,
-    "females": 12850,
-    "females_aged_18-29": 7287,
-    "top_1000_voters": 301,
-    "males_aged_45+": 3427,
-    "females_under_18": 38,
-    "females_aged_45+": 765,
-    "imdb_staff": 3,
-    "males_under_18": 35
-  },
-  "avg_rating_per_demo": {
-    "males": 7.7,
-    "females_aged_30-44": 7.7,
-    "aged_under_18": 8.2,
-    "non-us_users": 7.7,
-    "males_aged_18-29": 7.9,
-    "aged_18-29": 7.9,
-    "males_aged_30-44": 7.5,
-    "aged_45+": 7.5,
-    "imdb_users": 7.7,
-    "aged_30-44": 7.6,
-    "us_users": 7.5,
-    "females": 7.9,
-    "females_aged_18-29": 8.0,
-    "top_1000_voters": 6.5,
-    "males_aged_45+": 7.4,
-    "females_under_18": 8.0,
-    "females_aged_45+": 7.7,
-    "imdb_staff": 6.7,
-    "males_under_18": 8.2
-  },
-  "avg_screens": 5.333333333333333,
-  "release_month": null,
-  "opening_weekend_income_currency": "$",
-  "year": 2011,
-  "metascore": 52,
-  "gross_income": 71177,
-  "critic_review_count": 138,
-  "budget_currency": null,
-  "release_year": null,
+  "opening_weekend_screens": 2,
+  "name": "Detachment",
   "num_weekends": 3,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 27,
-    "year": 2012,
-    "month": 4
-  },
-  "duration": 98,
-  "budget": null,
-  "max_screens": 10
+  "release_day": null,
+  "critic_review_count": 138
 }

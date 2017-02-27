@@ -1,43 +1,98 @@
 {
-  "critic_review_count": 39,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 11,
-    "day": 8
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 9,
-    "day": 27
-  },
-  "metascore": 69,
-  "max_screens": 5,
-  "duration": 89,
-  "rating_count": 765,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 2,
+  "release_day": null,
   "avg_rating_per_demo": {
-    "non-us_users": 5.7,
-    "females_aged_18-29": 5.5,
-    "females": 5.4,
-    "imdb_users": 5.6,
-    "females_aged_30-44": 5.4,
+    "top_1000_voters": 4.7,
     "aged_45+": 5.1,
-    "males_aged_30-44": 5.6,
-    "aged_30-44": 5.6,
+    "imdb_users": 5.6,
+    "males_aged_45+": 5.2,
+    "aged_18-29": 5.8,
+    "females_aged_30-44": 5.4,
     "males_aged_18-29": 6.0,
     "males": 5.6,
+    "females": 5.4,
     "females_aged_45+": 5.2,
-    "top_1000_voters": 4.7,
+    "non-us_users": 5.7,
+    "females_aged_18-29": 5.5,
     "us_users": 5.1,
-    "males_aged_45+": 5.2,
-    "aged_18-29": 5.8
+    "aged_30-44": 5.6,
+    "males_aged_30-44": 5.6
   },
-  "user_review_count": 4,
+  "closing_date": {
+    "month": 11,
+    "year": 2013,
+    "day": 8,
+    "__type__": "datetime.date"
+  },
+  "metascore": 69,
+  "num_weekends": 2,
+  "rating_count": 765,
+  "gross_income": 21964,
+  "max_screens": 5,
+  "opening_weekend_screens": 2,
+  "screens_by_weekend": [
+    2,
+    5
+  ],
+  "opening_weekend_income": 3533,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Darkness",
+      "score": 7,
+      "user": "wilson trivino",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly full story told so simply.",
+      "score": 9,
+      "user": "Jesse Boland",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lots of quiet and a few explosions",
+      "score": 5,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 89,
+  "votes_per_demo": {
+    "top_1000_voters": 42,
+    "aged_45+": 145,
+    "imdb_users": 765,
+    "males_aged_45+": 124,
+    "aged_18-29": 211,
+    "females_aged_30-44": 67,
+    "males_aged_18-29": 141,
+    "males": 523,
+    "females": 163,
+    "females_aged_45+": 18,
+    "non-us_users": 418,
+    "females_aged_18-29": 69,
+    "us_users": 177,
+    "aged_30-44": 318,
+    "males_aged_30-44": 246
+  },
+  "genres": [
+    "drama",
+    "music"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 40,
     "2": 32,
@@ -50,34 +105,20 @@
     "9": 25,
     "10": 35
   },
-  "genres": [
-    "drama",
-    "music"
-  ],
+  "release_month": null,
   "budget": null,
-  "rating": 5.6,
-  "name": "I Used to Be Darker",
-  "opening_weekend_income": 3533,
-  "avg_screens": 3.5,
-  "gross_income": 21964,
-  "votes_per_demo": {
-    "non-us_users": 418,
-    "females_aged_18-29": 69,
-    "females": 163,
-    "imdb_users": 765,
-    "females_aged_30-44": 67,
-    "aged_45+": 145,
-    "males_aged_30-44": 246,
-    "aged_30-44": 318,
-    "males_aged_18-29": 141,
-    "males": 523,
-    "females_aged_45+": 18,
-    "top_1000_voters": 42,
-    "us_users": 177,
-    "males_aged_45+": 124,
-    "aged_18-29": 211
-  },
-  "release_year": null,
   "budget_currency": null,
-  "release_day": null
+  "total_screens": 7,
+  "year": 2013,
+  "rating": 5.6,
+  "critic_review_count": 39,
+  "opening_weekend_date": {
+    "month": 9,
+    "year": 2013,
+    "day": 27,
+    "__type__": "datetime.date"
+  },
+  "name": "I Used to Be Darker",
+  "user_review_count": 4,
+  "avg_screens": 3.5
 }

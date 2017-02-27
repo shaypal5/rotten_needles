@@ -1,89 +1,639 @@
 {
-  "metascore": 17,
+  "release_day": 18,
+  "avg_rating_per_demo": {
+    "aged_45+": 4.0,
+    "top_1000_voters": 3.9,
+    "males_under_18": 5.6,
+    "males_aged_18-29": 4.9,
+    "imdb_users": 4.7,
+    "males_aged_45+": 4.0,
+    "aged_18-29": 5.0,
+    "us_users": 4.4,
+    "females_aged_30-44": 4.5,
+    "males": 4.6,
+    "females": 4.8,
+    "females_aged_45+": 4.1,
+    "non-us_users": 4.5,
+    "females_aged_18-29": 5.0,
+    "females_under_18": 6.3,
+    "aged_30-44": 4.3,
+    "aged_under_18": 5.7,
+    "males_aged_30-44": 4.3
+  },
   "closing_date": {
+    "month": 6,
     "year": 2014,
     "day": 6,
-    "month": 6,
     "__type__": "datetime.date"
   },
-  "release_month": "April",
-  "release_year": 2014,
-  "gross_income": 17314483,
-  "duration": 86,
-  "release_day": 18,
-  "max_screens": 2310,
-  "opening_weekend_date": {
-    "year": 2014,
-    "day": 18,
-    "month": 4,
-    "__type__": "datetime.date"
-  },
-  "rating": 4.7,
+  "metascore": 17,
   "num_weekends": 5,
+  "rating_count": 15417,
+  "gross_income": 17314483,
+  "max_screens": 2310,
+  "opening_weekend_screens": 2310,
+  "screens_by_weekend": [
+    2310,
+    2310,
+    1328,
+    526,
+    44
+  ],
+  "opening_weekend_income": 8843875,
+  "release_year": 2014,
+  "imdb_user_reviews": [
+    {
+      "contents": "I wouldn't even call this a \"film\". It's very, very boring, unfunny and, to be honest, ridiculous.",
+      "score": 1,
+      "user": "The_Riddler_1948",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just Dumb, Not Funny",
+      "score": 1,
+      "user": "3xHCCH",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really, really bad..",
+      "score": 1,
+      "user": "Josh Murphy",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Haunted House 2 - Wayans should be ashamed!",
+      "score": 1,
+      "user": "xcitenlady",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictably Bad Sequel",
+      "score": 4,
+      "user": "utgard14",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In a word ' Garbage!'",
+      "score": 1,
+      "user": "lisattwood",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Haunted House 2",
+      "score": 1,
+      "user": "rtnorman",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You won't laugh harder with another film all year.",
+      "score": 7,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Black Man in Failure",
+      "score": 2,
+      "user": "Raul Faust",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a one fuxxed up movie",
+      "score": 4,
+      "user": "851222",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Funny Raunchy movie",
+      "score": 8,
+      "user": "jhaigreen78",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not another miscalculated parody",
+      "score": 2,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Great Film",
+      "score": 10,
+      "user": "Danny Whilminton",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marlon Wayans strikes again!",
+      "score": 5,
+      "user": "Balazs Domjan",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that started off annoying and never really got better, I really struggled to get through this one.",
+      "score": 3,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trash. Walked out in first 15 mins",
+      "score": 1,
+      "user": "Jax Stryker",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decent",
+      "score": 8,
+      "user": "orbcardinal",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Because when they took a pooh pooh the first time they did not think it was stinky enough",
+      "score": 1,
+      "user": "jacobjohntaylor1",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When Will The Wayans Brothers Make Another Funny Movie?",
+      "score": 3,
+      "user": "aesgaard41",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad. Entertaining and quite funny at times.",
+      "score": 7,
+      "user": "Finfrosk86",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious, But...",
+      "score": 8,
+      "user": "chris-51136",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jokes go too far! 2/10",
+      "score": 2,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slightly better than the first one",
+      "score": 3,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sweatier, Raunchier, Louder, Dumber",
+      "score": 3,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I've liked Marlon Wayans work in the past",
+      "score": 1,
+      "user": "paulijcalderon",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Very Mediocre Comedy",
+      "score": 1,
+      "user": "Steven Kind",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I  gave it 2 caused it made me laugh two times",
+      "score": 2,
+      "user": "atinder",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Movie that stoles money",
+      "score": 1,
+      "user": "jagarcesnevarez13",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Haunted House 2",
+      "score": 7,
+      "user": "PipeCal",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Where there's a will, there's a Wayans.......",
+      "score": 5,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that funny.",
+      "score": 4,
+      "user": "michaelhirakida",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superb! Really funny!",
+      "score": 7,
+      "user": "Sxz King",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you didn't laugh at this movie, you didn't find it funny",
+      "score": 8,
+      "user": "russell-168",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Can I even call this a movie?",
+      "score": 1,
+      "user": "Christopher O'keeffe",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "finally a decent spoof",
+      "score": 6,
+      "user": "Paul Wycherley",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 3,
+      "user": "capone666",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Relied to heavily on Nudity and Sexual Content",
+      "score": 4,
+      "user": "Alaska Wallflower",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "enjoyed it",
+      "score": 6,
+      "user": "crowboy001",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Getting back in the paranormal ways...",
+      "score": 6,
+      "user": "Paul Magne Haakonsen",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you enjoyed the first, then you should enjoy this one!",
+      "score": 6,
+      "user": "sophierocks1234",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a good movie I say....",
+      "score": 3,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dumb Sequel",
+      "score": 5,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointment",
+      "score": 2,
+      "user": "Didyouguess",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Walked Out",
+      "score": 2,
+      "user": "Austin",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome movie",
+      "score": 10,
+      "user": "curvyvampirenicole",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious, Borderline Pornographic Nonsense!!!",
+      "score": 8,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We came to see a scary movie . . .",
+      "score": 5,
+      "user": "Hot 888 Mama",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "AWFUL don't even start to say how bad",
+      "score": 1,
+      "user": "Jan Smith",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Please save your time and money. Go watch some better movie.",
+      "score": 1,
+      "user": "Victor Nguyen",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 86,
+  "votes_per_demo": {
+    "aged_45+": 788,
+    "top_1000_voters": 172,
+    "males_under_18": 132,
+    "males_aged_18-29": 5727,
+    "imdb_users": 15417,
+    "males_aged_45+": 672,
+    "aged_18-29": 6947,
+    "us_users": 2592,
+    "females_aged_30-44": 499,
+    "males": 10845,
+    "females": 1932,
+    "females_aged_45+": 104,
+    "non-us_users": 6462,
+    "females_aged_18-29": 1157,
+    "females_under_18": 30,
+    "aged_30-44": 4107,
+    "aged_under_18": 162,
+    "males_aged_30-44": 3567
+  },
   "genres": [
     "comedy",
     "fantasy"
   ],
-  "avg_screens": 1303.6,
-  "opening_weekend_income": 8843875,
-  "year": 2014,
   "opening_weekend_income_currency": "$",
-  "rating_count": 15409,
-  "votes_per_demo": {
-    "females": 1932,
-    "males_aged_30-44": 3563,
-    "aged_under_18": 161,
-    "females_aged_30-44": 499,
-    "females_aged_45+": 104,
-    "us_users": 2592,
-    "aged_45+": 788,
-    "aged_30-44": 4103,
-    "top_1000_voters": 172,
-    "males_aged_18-29": 5726,
-    "females_aged_18-29": 1157,
-    "imdb_users": 15409,
-    "males": 10838,
-    "non-us_users": 6458,
-    "males_under_18": 131,
-    "aged_18-29": 6946,
-    "males_aged_45+": 672,
-    "females_under_18": 30
-  },
-  "avg_rating_per_demo": {
-    "females": 4.8,
-    "males_aged_30-44": 4.3,
-    "aged_under_18": 5.7,
-    "females_aged_30-44": 4.5,
-    "females_aged_45+": 4.1,
-    "us_users": 4.4,
-    "aged_45+": 4.0,
-    "aged_30-44": 4.3,
-    "top_1000_voters": 3.9,
-    "males_aged_18-29": 4.9,
-    "females_aged_18-29": 5.0,
-    "imdb_users": 4.7,
-    "males": 4.6,
-    "non-us_users": 4.5,
-    "males_under_18": 5.6,
-    "aged_18-29": 5.0,
-    "males_aged_45+": 4.0,
-    "females_under_18": 6.3
-  },
-  "critic_review_count": 69,
-  "user_review_count": 50,
   "rating_freq": {
     "1": 1663,
     "2": 1096,
-    "3": 1384,
-    "4": 1921,
-    "5": 2701,
+    "3": 1385,
+    "4": 1922,
+    "5": 2702,
     "6": 2185,
-    "7": 1535,
-    "8": 902,
+    "7": 1536,
+    "8": 904,
     "9": 402,
-    "10": 1620
+    "10": 1622
+  },
+  "release_month": "April",
+  "budget": 4000000,
+  "budget_currency": "$",
+  "total_screens": 6518,
+  "year": 2014,
+  "rating": 4.7,
+  "critic_review_count": 69,
+  "opening_weekend_date": {
+    "month": 4,
+    "year": 2014,
+    "day": 18,
+    "__type__": "datetime.date"
   },
   "name": "A Haunted House 2",
-  "budget_currency": "$",
-  "budget": 4000000
+  "user_review_count": 50,
+  "avg_screens": 1303.6
 }

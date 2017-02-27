@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 5,
-    "year": 2015,
-    "day": 8,
-    "__type__": "datetime.date"
+  "release_day": 8,
+  "avg_rating_per_demo": {
+    "aged_45+": 5.1,
+    "top_1000_voters": 5.0,
+    "males_under_18": 5.7,
+    "imdb_staff": 6.0,
+    "males_aged_18-29": 5.1,
+    "imdb_users": 5.0,
+    "males_aged_45+": 5.0,
+    "aged_18-29": 5.1,
+    "us_users": 5.3,
+    "females_aged_30-44": 4.7,
+    "males": 5.0,
+    "females": 4.9,
+    "females_aged_45+": 5.2,
+    "non-us_users": 5.0,
+    "females_aged_18-29": 4.9,
+    "females_under_18": 4.5,
+    "aged_30-44": 5.0,
+    "aged_under_18": 5.7,
+    "males_aged_30-44": 5.0
   },
   "closing_date": {
     "month": 5,
@@ -11,81 +27,600 @@
     "day": 8,
     "__type__": "datetime.date"
   },
-  "rating": 5.0,
-  "num_weekends": 1,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 706,
-    "2": 419,
-    "3": 621,
-    "4": 1184,
-    "5": 1954,
-    "6": 1718,
-    "7": 875,
-    "8": 349,
-    "9": 102,
-    "10": 303
-  },
-  "avg_screens": 1009.0,
-  "budget": 3000000,
-  "budget_currency": "$",
-  "release_day": 8,
   "metascore": 55,
+  "num_weekends": 1,
+  "rating_count": 8238,
+  "gross_income": 447524,
+  "max_screens": 1009,
+  "opening_weekend_screens": 1009,
+  "screens_by_weekend": [
+    1009
+  ],
+  "opening_weekend_income": 447524,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "A great film being held down by a mediocre one",
+      "score": 6,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Poor comedy, but solid drama",
+      "score": 7,
+      "user": "silmaril-6",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insufferable, unfunny, dis-likable Tish.....",
+      "score": 1,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie worth its character study.",
+      "score": 10,
+      "user": "sinnerofcinema",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Less than the sum of it's parts...",
+      "score": 7,
+      "user": "DrtyBlvd",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "DHKR: The D-Train- \"Trainwreck\"",
+      "score": 6,
+      "user": "Clayton Holloway (Darkhorse_Knight)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than I expected it to be",
+      "score": 7,
+      "user": "Adam_West_as_Batdan",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I Agree With Pulaski -- Almost Terrific but chickens out",
+      "score": 7,
+      "user": "jbrummel",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great movie but painful to watch",
+      "score": 9,
+      "user": "abisio",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh, what a tangled web we weave",
+      "score": 7,
+      "user": "www.ramascreen.com",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of Jack Black's best performances, as well as James Marsden's!",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pitiful - don't bother",
+      "score": 1,
+      "user": "lbdurrette",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Multi-level dark comedy",
+      "score": 7,
+      "user": "James Marr",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was once again duped into watching a JB flick",
+      "score": 1,
+      "user": "justindaugherty-78301",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Different - but that's a good thing! Delicate, original and fun",
+      "score": 9,
+      "user": "supermaggie",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Extremely underrated, or maybe misunderstood?",
+      "score": 10,
+      "user": "mikezexcel",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a slapstick comedy, but really, really good",
+      "score": 10,
+      "user": "cgc668",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bizarre",
+      "score": 1,
+      "user": "toakhill",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jack Black: Please read this review, save your career!",
+      "score": 1,
+      "user": "noybman",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting & ugly",
+      "score": 7,
+      "user": "zif ofoz",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just a sad movie that lacks",
+      "score": 1,
+      "user": "vbraun_vlb",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Different and well acted",
+      "score": 7,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What Track Is This Train Running On...?",
+      "score": 4,
+      "user": "krocheav",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "***1/2",
+      "score": 9,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is NOT a comedy, it's a very sad drama",
+      "score": 8,
+      "user": "agforever",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What's this?",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a comedy, but good, sometimes uncomfortable drama",
+      "score": 8,
+      "user": "george-225-253979",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not funny at all! 2/10",
+      "score": 2,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not good.",
+      "score": 4,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Comedy, Drama? This is not.",
+      "score": 2,
+      "user": "WatchingFromWashington",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jack, while I love you baby....not the best film",
+      "score": 4,
+      "user": "mom-29-22843",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Film victim of wrong categorizing",
+      "score": 3,
+      "user": "Shelter Somerset",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of The D Train",
+      "score": 6,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "And Winner for WORST MOVIE OF THE YEAR is ......",
+      "score": 2,
+      "user": "trimblair",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that I really liked and is a total departure for both Black and Marsden in terms of acting. Jack Black's best movie so far.",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Affecting Film! Jack Black Is Stupendous!",
+      "score": 7,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This flick is an epic landmark on the order of DOG DAY AFTERNOON . . .",
+      "score": 6,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Comedy with some serious undertones",
+      "score": 7,
+      "user": "Finfrosk86",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting movie",
+      "score": 7,
+      "user": "jladam",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow! That was hilarious!",
+      "score": 7,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Horribly Bad",
+      "score": 2,
+      "user": "cyifly-2",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Jack Black turkey.",
+      "score": 4,
+      "user": "javs1",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could not even make it to the end",
+      "score": 2,
+      "user": "sixteenvolt182",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A peculiar film with huge laughs and huge cringe",
+      "score": 8,
+      "user": "Nanosecond",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Humorless Dark Comedy",
+      "score": 5,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How are people saying this is funny?",
+      "score": 1,
+      "user": "timhaskal",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst movie of all time.",
+      "score": 1,
+      "user": "pdillon-84176",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The title \"The D Train\" gives this movie WAY too much credit.",
+      "score": 1,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 101,
+  "votes_per_demo": {
+    "aged_45+": 1005,
+    "top_1000_voters": 149,
+    "males_under_18": 10,
+    "imdb_staff": 1,
+    "males_aged_18-29": 1864,
+    "imdb_users": 8238,
+    "males_aged_45+": 831,
+    "aged_18-29": 2293,
+    "us_users": 1460,
+    "females_aged_30-44": 465,
+    "males": 5914,
+    "females": 1077,
+    "females_aged_45+": 149,
+    "non-us_users": 4135,
+    "females_aged_18-29": 402,
+    "females_under_18": 4,
+    "aged_30-44": 3457,
+    "aged_under_18": 14,
+    "males_aged_30-44": 2949
+  },
   "genres": [
     "comedy",
     "drama"
   ],
-  "release_month": "May",
-  "avg_rating_per_demo": {
-    "aged_45+": 5.1,
-    "aged_18-29": 5.1,
-    "aged_30-44": 5.0,
-    "females": 4.9,
-    "top_1000_voters": 5.0,
-    "non-us_users": 5.0,
-    "females_under_18": 4.5,
-    "males_aged_30-44": 5.0,
-    "us_users": 5.3,
-    "imdb_users": 5.0,
-    "imdb_staff": 6.0,
-    "males_under_18": 5.7,
-    "females_aged_18-29": 4.9,
-    "males_aged_45+": 5.0,
-    "females_aged_30-44": 4.7,
-    "males": 5.0,
-    "males_aged_18-29": 5.1,
-    "females_aged_45+": 5.2,
-    "aged_under_18": 5.7
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "The D Train",
-  "gross_income": 447524,
-  "user_review_count": 50,
-  "duration": 101,
-  "max_screens": 1009,
-  "votes_per_demo": {
-    "aged_45+": 1004,
-    "aged_18-29": 2294,
-    "aged_30-44": 3452,
-    "females": 1076,
-    "top_1000_voters": 149,
-    "non-us_users": 4129,
-    "females_under_18": 4,
-    "males_aged_30-44": 2944,
-    "us_users": 1460,
-    "imdb_users": 8231,
-    "imdb_staff": 1,
-    "males_under_18": 10,
-    "females_aged_18-29": 401,
-    "males_aged_45+": 830,
-    "females_aged_30-44": 465,
-    "males": 5910,
-    "males_aged_18-29": 1866,
-    "females_aged_45+": 149,
-    "aged_under_18": 14
+  "rating_freq": {
+    "1": 706,
+    "2": 419,
+    "3": 622,
+    "4": 1184,
+    "5": 1957,
+    "6": 1719,
+    "7": 877,
+    "8": 349,
+    "9": 102,
+    "10": 303
   },
-  "rating_count": 8231,
+  "release_month": "May",
+  "budget": 3000000,
+  "budget_currency": "$",
+  "total_screens": 1009,
+  "year": 2015,
+  "rating": 5.0,
   "critic_review_count": 97,
-  "opening_weekend_income": 447524
+  "opening_weekend_date": {
+    "month": 5,
+    "year": 2015,
+    "day": 8,
+    "__type__": "datetime.date"
+  },
+  "name": "The D Train",
+  "user_review_count": 50,
+  "avg_screens": 1009.0
 }

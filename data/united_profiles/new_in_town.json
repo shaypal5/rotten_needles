@@ -1,0 +1,937 @@
+{
+  "avg_rating_per_demo": {
+    "aged_18-29": 5.6,
+    "aged_30-44": 5.5,
+    "aged_45+": 5.8,
+    "aged_under_18": 6.7,
+    "females": 5.7,
+    "females_aged_18-29": 5.7,
+    "females_aged_30-44": 5.7,
+    "females_aged_45+": 6.2,
+    "females_under_18": 7.4,
+    "imdb_staff": 5.3,
+    "imdb_users": 5.6,
+    "males": 5.5,
+    "males_aged_18-29": 5.4,
+    "males_aged_30-44": 5.4,
+    "males_aged_45+": 5.8,
+    "males_under_18": 5.7,
+    "non-us_users": 5.5,
+    "top_1000_voters": 5.1,
+    "us_users": 5.7
+  },
+  "avg_screens": 821.0,
+  "budget": 8000000,
+  "budget_currency": "$",
+  "closing_date": {
+    "__type__": "datetime.date",
+    "day": 20,
+    "month": 3,
+    "year": 2009
+  },
+  "critic_review_count": 119,
+  "duration": 97,
+  "genres": [
+    "comedy",
+    "romance"
+  ],
+  "gross_income": 16699684,
+  "imdb_user_reviews": [
+    {
+      "contents": "Entertaining and full of \"inside jokes\" only those from the frozen tundra will get",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 31,
+        "month": 1,
+        "year": 2009
+      },
+      "score": 8,
+      "user": "traceylu21"
+    },
+    {
+      "contents": "New in Town, Old in Theatres",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 2,
+        "year": 2009
+      },
+      "score": 4,
+      "user": "j-willums"
+    },
+    {
+      "contents": "I was a little leery",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 2,
+        "year": 2009
+      },
+      "score": 10,
+      "user": "John B"
+    },
+    {
+      "contents": "I Loved This Movie and Story",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 26,
+        "month": 12,
+        "year": 2009
+      },
+      "score": 10,
+      "user": "John Grey"
+    },
+    {
+      "contents": "So not worth the low rating!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 2,
+        "year": 2009
+      },
+      "score": 9,
+      "user": "Rianne Laros"
+    },
+    {
+      "contents": "It's actually pretty damn funny",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 8,
+        "month": 3,
+        "year": 2009
+      },
+      "score": 8,
+      "user": "www.ramascreen.com"
+    },
+    {
+      "contents": "J.K. Simmons is the old guru of \"New In Twon\"",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 3,
+        "year": 2009
+      },
+      "score": 6,
+      "user": "meeza (themeezaman@hotmail.com)"
+    },
+    {
+      "contents": "Your typical chick flick in the cold country",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 1,
+        "year": 2009
+      },
+      "score": 5,
+      "user": "Douglas Young (the-movie-guy)"
+    },
+    {
+      "contents": "\"NEW IN TOWN\" \u0096 Baby, it's COLD Outside (tho the story is warm) =",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 1,
+        "year": 2009
+      },
+      "score": 7,
+      "user": "jimchudnow-1"
+    },
+    {
+      "contents": "Satisfied",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 1,
+        "month": 6,
+        "year": 2009
+      },
+      "score": 8,
+      "user": "zagsrus"
+    },
+    {
+      "contents": "Harry Connick Jr is sooo HOT!!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 5,
+        "year": 2009
+      },
+      "score": 7,
+      "user": "mayonaissesandwich"
+    },
+    {
+      "contents": "I really really really really really Liked this movie and I'm not a girl",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 27,
+        "month": 1,
+        "year": 2009
+      },
+      "score": 9,
+      "user": "chipdealer"
+    },
+    {
+      "contents": "Warm-hearted",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 4,
+        "month": 9,
+        "year": 2010
+      },
+      "score": 8,
+      "user": " (j.lacerra@yahoo.com)"
+    },
+    {
+      "contents": "Underrated",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 1,
+        "year": 2010
+      },
+      "score": 7,
+      "user": "sillyhat"
+    },
+    {
+      "contents": "Don't Waste Your Time or Your Money on This One",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 14,
+        "month": 6,
+        "year": 2009
+      },
+      "score": 1,
+      "user": "chungiemunchin"
+    },
+    {
+      "contents": "a heartwarming film with a beautiful moral message",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 3,
+        "year": 2015
+      },
+      "score": 10,
+      "user": "robito"
+    },
+    {
+      "contents": "Now this was FUNNY!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 8,
+      "user": "native-vermont"
+    },
+    {
+      "contents": "The ultimate feel-good movie",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 3,
+        "month": 1,
+        "year": 2015
+      },
+      "score": 10,
+      "user": "irene_woodhead"
+    },
+    {
+      "contents": "Charming, predictable, funny, (yummy) and at the right time kinda perfect",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 12,
+        "year": 2014
+      },
+      "score": 8,
+      "user": "juneebuggy"
+    },
+    {
+      "contents": "Cute 'boy meets girl' movie",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 8,
+        "year": 2014
+      },
+      "score": 8,
+      "user": "oprlvr33"
+    },
+    {
+      "contents": "High expectations in a so-so movie.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 6,
+        "year": 2009
+      },
+      "score": 6,
+      "user": "Michael O'Keefe"
+    },
+    {
+      "contents": "You Can See Where This Is Going From A Mile Away",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 3,
+        "year": 2010
+      },
+      "score": 2,
+      "user": "sddavis63 (revsdd@gmail.com)"
+    },
+    {
+      "contents": "It's Minnesota and people talk funny get used to it!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 12,
+        "year": 2009
+      },
+      "score": 7,
+      "user": "brownah18"
+    },
+    {
+      "contents": "Zelweger and Connick are Old and Cold in MN",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 8,
+        "year": 2009
+      },
+      "score": 3,
+      "user": "Acolin_f"
+    },
+    {
+      "contents": "Ordeal by Minnesota",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 26,
+        "month": 6,
+        "year": 2009
+      },
+      "score": 3,
+      "user": "robert-temple-1"
+    },
+    {
+      "contents": "Light Pleasant Fare",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 6,
+        "month": 3,
+        "year": 2009
+      },
+      "score": 5,
+      "user": "gary-444"
+    },
+    {
+      "contents": "Not very good, but not bad either",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 11,
+        "month": 9,
+        "year": 2009
+      },
+      "score": 6,
+      "user": "Argemaluco"
+    },
+    {
+      "contents": "Packed with stupid clich\u00e9s and stereotypes",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 6,
+        "year": 2009
+      },
+      "score": 1,
+      "user": "Leo"
+    },
+    {
+      "contents": "Super cute!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 10,
+        "month": 2,
+        "year": 2016
+      },
+      "score": 8,
+      "user": "Davis P"
+    },
+    {
+      "contents": "The efficiency expert",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 7,
+        "month": 2,
+        "year": 2016
+      },
+      "score": 4,
+      "user": "Prismark10"
+    },
+    {
+      "contents": "Don't Waste Your Time",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 26,
+        "month": 10,
+        "year": 2015
+      },
+      "score": 1,
+      "user": "folsominc2"
+    },
+    {
+      "contents": "New In Town",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 9,
+        "year": 2014
+      },
+      "score": 10,
+      "user": "babbsjc"
+    },
+    {
+      "contents": "Much better than expected!!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 5,
+        "month": 5,
+        "year": 2014
+      },
+      "score": 8,
+      "user": "jarten1"
+    },
+    {
+      "contents": "Rom-com without much chemistry",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 12,
+        "year": 2013
+      },
+      "score": 5,
+      "user": "SnoopyStyle"
+    },
+    {
+      "contents": "Formulaic culture clash comedy",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 10,
+        "month": 6,
+        "year": 2013
+      },
+      "score": 5,
+      "user": "tieman64"
+    },
+    {
+      "contents": "Been there, seen that",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 11,
+        "month": 11,
+        "year": 2012
+      },
+      "score": 2,
+      "user": "alan-lohf"
+    },
+    {
+      "contents": "Predictable but enjoyable enough",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 30,
+        "month": 7,
+        "year": 2012
+      },
+      "score": 6,
+      "user": "huwdj"
+    },
+    {
+      "contents": "Quite funny if familiar",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 6,
+        "month": 4,
+        "year": 2012
+      },
+      "score": 6,
+      "user": "badajoz-1"
+    },
+    {
+      "contents": "A pretty good feel good movie",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 3,
+        "year": 2012
+      },
+      "score": 7,
+      "user": "JohnRayPeterson"
+    },
+    {
+      "contents": "New in Town",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 7,
+        "month": 2,
+        "year": 2012
+      },
+      "score": 2,
+      "user": "Jackson Booth-Millard"
+    },
+    {
+      "contents": "A lazy comedy about a sleepy town",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 1,
+        "month": 7,
+        "year": 2011
+      },
+      "score": 6,
+      "user": "Lloyd Bayer"
+    },
+    {
+      "contents": "If you want a no sense, boring, and clich\u00e9 movie, New in Town is for you",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 5,
+        "month": 2,
+        "year": 2011
+      },
+      "score": 3,
+      "user": "nrd10"
+    },
+    {
+      "contents": "Cute movie with horrible directing",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 24,
+        "month": 12,
+        "year": 2010
+      },
+      "score": 6,
+      "user": "sammy105"
+    },
+    {
+      "contents": "Rehash of a remake of a rebuild of a refactoring of a...",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 8,
+        "year": 2009
+      },
+      "score": 5,
+      "user": "siderite"
+    },
+    {
+      "contents": "stinky joke of a film",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 7,
+        "year": 2009
+      },
+      "score": 2,
+      "user": "tomquick"
+    },
+    {
+      "contents": "Great unusual -romantic too- film",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 28,
+        "month": 6,
+        "year": 2009
+      },
+      "score": 9,
+      "user": "hermes2078"
+    },
+    {
+      "contents": "It is what it is: Corny",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 6,
+        "year": 2009
+      },
+      "score": 4,
+      "user": " (bob-rutzel-1)"
+    },
+    {
+      "contents": "Another Fish-Out-of-Water Tale with a Dismally Used Zellweger",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 22,
+        "month": 6,
+        "year": 2009
+      },
+      "score": 3,
+      "user": "Ed Uyeshima"
+    },
+    {
+      "contents": "Lazy script. Lazy film.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 26,
+        "month": 5,
+        "year": 2009
+      },
+      "score": 3,
+      "user": "Eli_Zardo"
+    },
+    {
+      "contents": "Had something for everyone.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 5,
+        "year": 2009
+      },
+      "score": 9,
+      "user": "nsareadthis"
+    },
+    {
+      "contents": "A Nutshell Review: New In Town",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 15,
+        "month": 2,
+        "year": 2009
+      },
+      "score": 7,
+      "user": "DICK STEEL"
+    },
+    {
+      "contents": "Good movie... for what it is.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 26,
+        "month": 1,
+        "year": 2009
+      },
+      "score": 7,
+      "user": "stace_spot"
+    },
+    {
+      "contents": "The Romcom Fairies have visited earth again! New in Town is the perfect \"woo\" for all your best gals, gentlemen!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 1,
+        "month": 2,
+        "year": 2009
+      },
+      "score": 8,
+      "user": "Amy Adler"
+    },
+    {
+      "contents": "Not Funny Romantic Movie With A Predictable Feel Good Concept",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 1,
+        "year": 2014
+      },
+      "score": 3,
+      "user": "Jakemcclake"
+    },
+    {
+      "contents": "Puts the \"meh\" in mechanical",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 4,
+        "month": 1,
+        "year": 2012
+      },
+      "score": 5,
+      "user": "MBunge"
+    },
+    {
+      "contents": "One thing worth watching",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 10,
+        "year": 2009
+      },
+      "score": 3,
+      "user": "Bromios"
+    },
+    {
+      "contents": "A corporate executive from Miami is sent to \"fix\" a manufacturing plant in Minnesota.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 13,
+        "month": 6,
+        "year": 2009
+      },
+      "score": 4,
+      "user": "ltlacey"
+    },
+    {
+      "contents": "Finally, a movie where The North Face can have product placements!",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 10,
+        "month": 2,
+        "year": 2009
+      },
+      "score": 7,
+      "user": "gasawaye"
+    },
+    {
+      "contents": "Can't even call this a chick flick...surely women have better taste than this.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 1,
+        "month": 6,
+        "year": 2009
+      },
+      "score": 1,
+      "user": "Fox Hamilton"
+    },
+    {
+      "contents": "much to cute and formulaic",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 3,
+        "month": 3,
+        "year": 2009
+      },
+      "score": 5,
+      "user": "dbborroughs"
+    },
+    {
+      "contents": "Flat and tasteless cinematic sandwich filler.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 4,
+        "year": 2009
+      },
+      "score": 4,
+      "user": "Jamie Ward"
+    },
+    {
+      "contents": "A total nail in Zellweger's coffin",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 7,
+        "month": 3,
+        "year": 2009
+      },
+      "score": 2,
+      "user": "intelearts"
+    },
+    {
+      "contents": "New in Town Movie Review from The Massie Twins",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 29,
+        "month": 1,
+        "year": 2009
+      },
+      "score": 2,
+      "user": "GoneWithTheTwins"
+    },
+    {
+      "contents": "Dull",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 17,
+        "month": 2,
+        "year": 2015
+      },
+      "score": 4,
+      "user": "DogFilmCritic"
+    },
+    {
+      "contents": "Completely Uncharming in my opinion. What happened Renee?.",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 20,
+        "month": 1,
+        "year": 2010
+      },
+      "score": 3,
+      "user": "callanvass"
+    },
+    {
+      "contents": "How filming in the USA would have made this a \"9\"",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 9,
+        "month": 2,
+        "year": 2009
+      },
+      "score": 7,
+      "user": "charlytully"
+    },
+    {
+      "contents": "Not at all like true Minnesotans",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 1,
+        "month": 2,
+        "year": 2009
+      },
+      "score": 3,
+      "user": "nutritarian"
+    },
+    {
+      "contents": "Should have been filmed in Minnesota",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 2,
+        "month": 2,
+        "year": 2009
+      },
+      "score": 2,
+      "user": "lt2468"
+    },
+    {
+      "contents": "Unfunny, Weak, Winter-in-Minnesota, Sitcom",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 31,
+        "month": 1,
+        "year": 2009
+      },
+      "score": 2,
+      "user": "imxo"
+    },
+    {
+      "contents": "Another psuedocomedy relying on idiocy for \"laughs\"",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 31,
+        "month": 12,
+        "year": 2009
+      },
+      "score": 1,
+      "user": "RealBohemian"
+    },
+    {
+      "contents": "This was not a good movie",
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 16,
+        "month": 2,
+        "year": 2009
+      },
+      "score": 3,
+      "user": " (Greatornot)"
+    }
+  ],
+  "max_screens": 1941,
+  "mc_avg_user_score": 5.4,
+  "mc_metascore": 29,
+  "mc_mixed_rating_frequency": 14,
+  "mc_movie_name": "New in Town",
+  "mc_negative_rating_frequency": 10,
+  "mc_positive_rating_frequency": 12,
+  "mc_pro_critic_reviews": [],
+  "mc_user_reviews": [
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 1,
+        "month": 7,
+        "year": 2011
+      },
+      "score": 3,
+      "text": "The first and biggest problem this film has is the fact that it is a romantic comedy. Being one, it does not deviate from the typical rom-com recipe, what-so-ever. Being rather predictable (and by rather I mean completely to an annoying degree), the film does not offer anything new to the audience. The screenplay is simply bad, with a storyline that was maybe innovative back in the 1980s, but now has become the standardised cliche. One the film manages well is to create a positive relationship between the audience and the Minnesotans in the film. Some very cute scenes are in the film, and one cannot but feel warmly towards them, especially Siobhan Fallon's character, who is, by far, the best thing in this bad film. Renee Zellweger is rather bad - her strongest asset here seems to be her body, and it's in a film where that shouldn't be an issue. But yes, Zellweger doesn't give anything good to the film, and one can only wonder why she ever got cast. Maybe trying to re-connect to her Bridget Jones' days? Be it as it may, the film is rather bad and annoying, full of cliches concerning both rom-coms and Minnesota, and with generally pretty bad dialogue and acting, makes \"New in Town\"  be one of those films you could have easily gone without ever watching.",
+      "total_reactions": 0,
+      "user": "smijatov"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 8,
+        "month": 10,
+        "year": 2010
+      },
+      "score": 0,
+      "text": "Probably one of the worst movies ever. It's equally off-base with its portrayal of \"city people\" and \"country folks'. Both seem to be outdated and stereotypical. Don't waste your time.",
+      "total_reactions": 0,
+      "user": "heather1987"
+    },
+    {
+      "neg_reactions": 0,
+      "pos_reactions": 0,
+      "review_date": {
+        "__type__": "datetime.date",
+        "day": 16,
+        "month": 11,
+        "year": 2013
+      },
+      "score": 3,
+      "text": "New in Town drove me out.",
+      "total_reactions": 0,
+      "user": "RayzorMoose"
+    }
+  ],
+  "metascore": 29,
+  "name": "New in Town",
+  "num_weekends": 8,
+  "opening_weekend_date": {
+    "__type__": "datetime.date",
+    "day": 30,
+    "month": 1,
+    "year": 2009
+  },
+  "opening_weekend_income": 6741530,
+  "opening_weekend_income_currency": "$",
+  "opening_weekend_screens": 1941,
+  "rating": 5.6,
+  "rating_count": 18073,
+  "rating_freq": {
+    "1": 586,
+    "10": 780,
+    "2": 618,
+    "3": 882,
+    "4": 1819,
+    "5": 3882,
+    "6": 4693,
+    "7": 2971,
+    "8": 1327,
+    "9": 515
+  },
+  "release_day": 30,
+  "release_month": "January",
+  "release_year": 2009,
+  "screens_by_weekend": [
+    1941,
+    1941,
+    1022,
+    505,
+    432,
+    330,
+    239,
+    158
+  ],
+  "total_screens": 6568,
+  "user_review_count": 78,
+  "votes_per_demo": {
+    "aged_18-29": 5089,
+    "aged_30-44": 7759,
+    "aged_45+": 2855,
+    "aged_under_18": 19,
+    "females": 7008,
+    "females_aged_18-29": 3115,
+    "females_aged_30-44": 2933,
+    "females_aged_45+": 744,
+    "females_under_18": 11,
+    "imdb_staff": 3,
+    "imdb_users": 18073,
+    "males": 8925,
+    "males_aged_18-29": 1926,
+    "males_aged_30-44": 4759,
+    "males_aged_45+": 2076,
+    "males_under_18": 8,
+    "non-us_users": 10624,
+    "top_1000_voters": 253,
+    "us_users": 3575
+  },
+  "year": 2009
+}

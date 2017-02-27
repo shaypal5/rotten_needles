@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 4,
-    "year": 2015,
-    "day": 24,
-    "__type__": "datetime.date"
+  "release_day": null,
+  "avg_rating_per_demo": {
+    "aged_45+": 5.4,
+    "top_1000_voters": 4.8,
+    "males_under_18": 5.9,
+    "imdb_staff": 7.0,
+    "males_aged_18-29": 5.7,
+    "imdb_users": 5.6,
+    "males_aged_45+": 5.3,
+    "aged_18-29": 5.7,
+    "us_users": 5.9,
+    "females_aged_30-44": 5.8,
+    "males": 5.5,
+    "females": 5.8,
+    "females_aged_45+": 5.8,
+    "non-us_users": 5.4,
+    "females_aged_18-29": 5.9,
+    "females_under_18": 5.8,
+    "aged_30-44": 5.5,
+    "aged_under_18": 5.8,
+    "males_aged_30-44": 5.4
   },
   "closing_date": {
     "month": 5,
@@ -11,81 +27,306 @@
     "day": 29,
     "__type__": "datetime.date"
   },
-  "rating": 5.6,
-  "num_weekends": 4,
-  "release_year": null,
-  "rating_freq": {
-    "1": 209,
-    "2": 151,
-    "3": 214,
-    "4": 571,
-    "5": 1367,
-    "6": 1824,
-    "7": 1040,
-    "8": 323,
-    "9": 104,
-    "10": 207
-  },
-  "avg_screens": 22.25,
-  "budget": null,
-  "budget_currency": null,
-  "release_day": null,
   "metascore": 57,
+  "num_weekends": 4,
+  "rating_count": 6012,
+  "gross_income": 104415,
+  "max_screens": 54,
+  "opening_weekend_screens": 10,
+  "screens_by_weekend": [
+    10,
+    54,
+    20,
+    5
+  ],
+  "opening_weekend_income": 36657,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "A quickly forgotten film...",
+      "score": 5,
+      "user": "MediaboyMusings",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well-acted and thoughtful storytelling, but a lazy third act that leaves you feeling hollow.",
+      "score": 6,
+      "user": "Andrew Gold",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie about a brother and sister coming to terms with the disappointment that their lives didn't turn out as planned.",
+      "score": 8,
+      "user": "blahtoyoushir",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some Things Work--Most Don't",
+      "score": 4,
+      "user": "Larry Silverstein",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Impossibly low stakes make for a seriously unremarkable affair",
+      "score": 4,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's not really a Comedy than it is a Drama movie... the trailer was kinda misleading but overall the movie was just okay to be watched .",
+      "score": 5,
+      "user": "Aktham Tashtush",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Decently Entertaining and Incredibly Unmemorable",
+      "score": 7,
+      "user": "Eric M. Van (emvan@post.harvard.edu)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A smooth and subtle take on relationship drama-comedy",
+      "score": 6,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfectly likable, albeit unoriginal, film by Nick Kroll and Co.",
+      "score": 7,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "That was it?",
+      "score": 2,
+      "user": "xpeterson-205-818326",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not the deep end",
+      "score": 6,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Adult Beginners",
+      "score": 5,
+      "user": "ApproximatelyHandsome",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a bad movie ... but I was lost at end",
+      "score": 8,
+      "user": "zif ofoz",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A decent drama flick",
+      "score": 7,
+      "user": "Jenia",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "NOT WORTH for watching!",
+      "score": 1,
+      "user": "Mike Bear",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mildly funny, and mildly moving.",
+      "score": 6,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Needed more bite",
+      "score": 5,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yawn",
+      "score": 1,
+      "user": "lizzie",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprised about the 5 star rating - Thoroughly enjoyable film",
+      "score": 8,
+      "user": "PollyPick",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kroll in this role.",
+      "score": 3,
+      "user": "jdgmblue-126-614398",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "so boring",
+      "score": 1,
+      "user": "ellaunohu",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 92,
+  "votes_per_demo": {
+    "aged_45+": 475,
+    "top_1000_voters": 105,
+    "males_under_18": 10,
+    "imdb_staff": 2,
+    "males_aged_18-29": 1400,
+    "imdb_users": 6012,
+    "males_aged_45+": 376,
+    "aged_18-29": 2163,
+    "us_users": 1331,
+    "females_aged_30-44": 502,
+    "males": 3708,
+    "females": 1409,
+    "females_aged_45+": 94,
+    "non-us_users": 2736,
+    "females_aged_18-29": 724,
+    "females_under_18": 6,
+    "aged_30-44": 2290,
+    "aged_under_18": 17,
+    "males_aged_30-44": 1749
+  },
   "genres": [
     "comedy",
     "drama"
   ],
-  "release_month": null,
-  "avg_rating_per_demo": {
-    "aged_45+": 5.4,
-    "aged_18-29": 5.7,
-    "aged_30-44": 5.5,
-    "females": 5.8,
-    "top_1000_voters": 4.8,
-    "non-us_users": 5.4,
-    "females_under_18": 5.8,
-    "males_aged_30-44": 5.4,
-    "us_users": 5.9,
-    "imdb_users": 5.6,
-    "imdb_staff": 7.0,
-    "males_under_18": 5.9,
-    "females_aged_18-29": 5.9,
-    "males_aged_45+": 5.3,
-    "females_aged_30-44": 5.8,
-    "males": 5.5,
-    "males_aged_18-29": 5.7,
-    "females_aged_45+": 5.8,
-    "aged_under_18": 5.8
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2014,
-  "name": "Adult Beginners",
-  "gross_income": 104415,
-  "user_review_count": 23,
-  "duration": 92,
-  "max_screens": 54,
-  "votes_per_demo": {
-    "aged_45+": 475,
-    "aged_18-29": 2166,
-    "aged_30-44": 2287,
-    "females": 1409,
-    "top_1000_voters": 105,
-    "non-us_users": 2737,
-    "females_under_18": 6,
-    "males_aged_30-44": 1746,
-    "us_users": 1330,
-    "imdb_users": 6010,
-    "imdb_staff": 2,
-    "males_under_18": 10,
-    "females_aged_18-29": 724,
-    "males_aged_45+": 376,
-    "females_aged_30-44": 502,
-    "males": 3708,
-    "males_aged_18-29": 1403,
-    "females_aged_45+": 94,
-    "aged_under_18": 17
+  "rating_freq": {
+    "1": 209,
+    "2": 150,
+    "3": 214,
+    "4": 571,
+    "5": 1368,
+    "6": 1825,
+    "7": 1041,
+    "8": 323,
+    "9": 104,
+    "10": 207
   },
-  "rating_count": 6010,
+  "release_month": null,
+  "budget": null,
+  "budget_currency": null,
+  "total_screens": 89,
+  "year": 2014,
+  "rating": 5.6,
   "critic_review_count": 50,
-  "opening_weekend_income": 36657
+  "opening_weekend_date": {
+    "month": 4,
+    "year": 2015,
+    "day": 24,
+    "__type__": "datetime.date"
+  },
+  "name": "Adult Beginners",
+  "user_review_count": 23,
+  "avg_screens": 22.25
 }

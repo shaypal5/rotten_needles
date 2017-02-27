@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 3,
-    "year": 2015,
-    "day": 20,
-    "__type__": "datetime.date"
+  "release_day": 20,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.0,
+    "top_1000_voters": 5.3,
+    "males_under_18": 5.4,
+    "imdb_staff": 5.3,
+    "males_aged_18-29": 5.8,
+    "imdb_users": 5.8,
+    "males_aged_45+": 6.0,
+    "aged_18-29": 5.8,
+    "us_users": 5.7,
+    "females_aged_30-44": 5.7,
+    "males": 5.8,
+    "females": 5.7,
+    "females_aged_45+": 6.1,
+    "non-us_users": 5.8,
+    "females_aged_18-29": 5.6,
+    "females_under_18": 5.0,
+    "aged_30-44": 5.7,
+    "aged_under_18": 5.4,
+    "males_aged_30-44": 5.7
   },
   "closing_date": {
     "month": 4,
@@ -11,82 +27,1254 @@
     "day": 24,
     "__type__": "datetime.date"
   },
-  "rating": 5.8,
-  "num_weekends": 5,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 909,
-    "2": 574,
-    "3": 1172,
-    "4": 2403,
-    "5": 5901,
-    "6": 9059,
-    "7": 6351,
-    "8": 2371,
-    "9": 653,
-    "10": 1106
-  },
-  "avg_screens": 1414.2,
-  "budget": 40000000,
-  "budget_currency": "$",
-  "release_day": 20,
   "metascore": 39,
+  "num_weekends": 5,
+  "rating_count": 30514,
+  "gross_income": 10640645,
+  "max_screens": 2816,
+  "opening_weekend_screens": 2816,
+  "screens_by_weekend": [
+    2816,
+    2816,
+    1027,
+    312,
+    100
+  ],
+  "opening_weekend_income": 5028702,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "A solid 7 leaning 8 for a \"realistic\" action film.",
+      "score": 7,
+      "user": "David Dixon",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Terrible Misfire",
+      "score": 4,
+      "user": "prospectus_capricornium",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bloody Bourne look alike that doesn't add up to much",
+      "score": 5,
+      "user": "slothhead54",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't waste your hard earned money on this movie",
+      "score": 2,
+      "user": "nc1230 .",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Whew... Great...",
+      "score": 8,
+      "user": "gonzo_don",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Potential Not Reached:  The Gunman Is Realistic, but Boring",
+      "score": 5,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Same old same old boring yawn.",
+      "score": 2,
+      "user": "kotchjk",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best use of bull",
+      "score": 4,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Below Average",
+      "score": 4,
+      "user": "hasan-mirza-71975",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "really liked this film",
+      "score": 8,
+      "user": "ladcrooks-26-192893",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very dull action movie by Sean Penn.",
+      "score": 6,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scotty beam me out of this movie",
+      "score": 1,
+      "user": "joyague",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awfully boring action flick that features more talent than it deserves.",
+      "score": 3,
+      "user": "Andrew Gold",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As Tedious as a Textbook",
+      "score": 1,
+      "user": "donaldthane",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Anti-American political drama that fails miserably",
+      "score": 5,
+      "user": "callanvass",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not perfect, but a solid film.",
+      "score": 7,
+      "user": "fxdx4",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As worn as the joints on all these aging action heroes",
+      "score": 4,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sean Penn hunts the hunters hunting him",
+      "score": 6,
+      "user": "msroz",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run-of-the-mill gangster melodrama",
+      "score": 4,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the weakest movies of the year",
+      "score": 2,
+      "user": "Matthew Ober",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that good",
+      "score": 6,
+      "user": "mohancraig",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Engaging, but only in parts!",
+      "score": 6,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Despite The Cast It's An Aimless Thriller That Misses The Target",
+      "score": 5,
+      "user": "Theo Robertson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good action with so-so plot",
+      "score": 5,
+      "user": "ouskullz",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A generic but enjoyable action movie",
+      "score": 6,
+      "user": "Dr_Aristotle",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Penn's Egotistical Vanity Project",
+      "score": 2,
+      "user": "rjsf96",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Borrowed from Bourne, but Great, great, great",
+      "score": 7,
+      "user": "Eric_Cubed",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Suspenseful Thriller",
+      "score": 7,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Weak woolly Wooden",
+      "score": 2,
+      "user": "Daniel O Connor",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sean Penn is not an action hero!",
+      "score": 1,
+      "user": "christianmann",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst Movie I Have Ever Seen",
+      "score": 1,
+      "user": "cristine_floyd",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The most boring action film of all time",
+      "score": 6,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a shame for Penn",
+      "score": 3,
+      "user": "alon-dar1",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Solid action from a favourite director",
+      "score": 6,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Gunman",
+      "score": 6,
+      "user": "Horrorliefhebber",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ultimately just a straight to DVD action flick given the big screen treatment",
+      "score": 4,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shyt!",
+      "score": 5,
+      "user": "Bliss Quest",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing Special or Memorable Whatsoever,",
+      "score": 5,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mediocre",
+      "score": 6,
+      "user": "troydg84",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Same old same old",
+      "score": 5,
+      "user": "easter-21511",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\" I did a bad thing.\"",
+      "score": 5,
+      "user": "angelsunchained",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not for the typical action fan.",
+      "score": 7,
+      "user": "homelesscentaur",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There was potential to this one but potential that's never reached...",
+      "score": 4,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Only comes to life in the final 20 minutes or so",
+      "score": 3,
+      "user": "jimbo-53-186511",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strong Action/Weak Story",
+      "score": 5,
+      "user": "dansview",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good character / action  role for Sean Penn in a complex movie",
+      "score": 7,
+      "user": "babblemac",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Did I mention it's an action movie?",
+      "score": 7,
+      "user": "CousinBagunca",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Penn Action Film",
+      "score": 8,
+      "user": "pattyb52",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely terrible",
+      "score": 2,
+      "user": "douglasadixon",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's Not Really a Sean Penn's \"Taken\".",
+      "score": 7,
+      "user": "2fresh 2clean",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great action, poor storyline. 4/10",
+      "score": 4,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yeah, The Gunman Needs to Shoot Better Though",
+      "score": 5,
+      "user": "lesliej-14589",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No just no",
+      "score": 3,
+      "user": "ausgerechnet",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Takes its time",
+      "score": 8,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Messages Among the Mayhem\u0085Violent Pathos",
+      "score": 8,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Start - Poor Rest of It",
+      "score": 4,
+      "user": "westsideschl",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Positively surprised",
+      "score": 7,
+      "user": "opinionated-alchemist",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Gunman",
+      "score": 6,
+      "user": "Alexa Bouhelier-Ruelle",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Failed to deliver the movie's own promise",
+      "score": 5,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better Action movie than most in the recent years",
+      "score": 8,
+      "user": "todorflex",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When an assassin becomes a target!",
+      "score": 7,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I would say this is almost a perfect movie.",
+      "score": 7,
+      "user": "puchu",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slow and unimpressive action thriller",
+      "score": 4,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not enough Idris",
+      "score": 8,
+      "user": "cynthiap2",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good action and a decent plot",
+      "score": 8,
+      "user": "reallaplaine",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better then it's actual ratings",
+      "score": 8,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pierre Morel Nails it!",
+      "score": 8,
+      "user": "justin_prentice",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A solid action film that is distracted by a social/political agenda",
+      "score": 9,
+      "user": "Gino Cox",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More like Snoreman",
+      "score": 4,
+      "user": "Viswanath Dhanisetty",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sean Penn is OK, but this movie is... meh.",
+      "score": 5,
+      "user": "Josh Spierenburg",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of The Gunman",
+      "score": 5,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I wouldn't waste $5 buying this in the WM DVD bargain bin",
+      "score": 1,
+      "user": "myrmidonj",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The  Gunman",
+      "score": 4,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Congo Surfer Dude Spy Action",
+      "score": 7,
+      "user": "in1984",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All around pretty authentic tactically, good CQB.",
+      "score": 8,
+      "user": "cccutler",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Prone Treason",
+      "score": 2,
+      "user": "cronostitan",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "i doubt anyone predicts the events in this film",
+      "score": 5,
+      "user": "dantonstl",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good movie for the cheap theatre!",
+      "score": 6,
+      "user": "mm-39",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ever see something so stupid it gave you Forrest Whittaker Eye?",
+      "score": 1,
+      "user": "rhtreid",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Significantly better than the reviews say",
+      "score": 9,
+      "user": "feelinesound",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Difficult to believe this movie is so bad",
+      "score": 4,
+      "user": "abisio",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 6,
+      "user": "capone666",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just because it has big names",
+      "score": 3,
+      "user": "sergioumuaythaibox",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incredibly cheap and boring",
+      "score": 1,
+      "user": "katasarkozy",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sean Penn as the Gunman.",
+      "score": 8,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Economic Hit-man Assassin",
+      "score": 6,
+      "user": "krakanova",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This isn't the worst assassin movie I've seen, but it's certainly not the best. Not terrible, but I lost interest pretty quickly.",
+      "score": 5,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unexpectedly dull!",
+      "score": 4,
+      "user": "Mark Bowen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sean Penn Too Whacked Out to Know He's a Plagiarist",
+      "score": 1,
+      "user": "Teachem",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marred by stilted storytelling and clumsy execution",
+      "score": 4,
+      "user": "s3276169",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "middle of the road, i got respect for Penn",
+      "score": 5,
+      "user": "Thefilmhead65411",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good production on the vistas and action sequences, but lackluster story and imprecise use of the veteran actors hamper the movie",
+      "score": 6,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Penntentious Action Thriller",
+      "score": 7,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sean Penn's 80s Stallone/Schwarzenegger flick",
+      "score": 5,
+      "user": "Film Fan Perspective (filmfanperspective@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Penn in the new Taken franchise?",
+      "score": 5,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant no, but nice to watch",
+      "score": 7,
+      "user": "None",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good action thriller",
+      "score": 8,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overly-Serious Action Film",
+      "score": 7,
+      "user": "bankofmarquis",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like it a little better than The November Man.",
+      "score": 9,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Action",
+      "score": 6,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hit-and-miss globetrotting action drama; Penn acquits himself nicely",
+      "score": 7,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie's pitch--AMER1CAN SNIPER meets DEAD MAN WALKING--got the green light . . .",
+      "score": 7,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feels a lot like a Stallone flick, with Penn in the lead instead!",
+      "score": 8,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sean Penn's Taken",
+      "score": 8,
+      "user": "CowherPowerForever",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"The Gunman\" may or may not be Sean Penn's \"Taken\", but it is very entertaining in its own right.",
+      "score": 8,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sean Penn Murdered it Literally!!!!!",
+      "score": 10,
+      "user": "Adam Baehr",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a wonderful Movie",
+      "score": 10,
+      "user": "heriyanto-nasution",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 115,
+  "votes_per_demo": {
+    "aged_45+": 4254,
+    "top_1000_voters": 260,
+    "males_under_18": 51,
+    "imdb_staff": 3,
+    "males_aged_18-29": 6498,
+    "imdb_users": 30514,
+    "males_aged_45+": 3795,
+    "aged_18-29": 7263,
+    "us_users": 3961,
+    "females_aged_30-44": 956,
+    "males": 23445,
+    "females": 2195,
+    "females_aged_45+": 396,
+    "non-us_users": 16008,
+    "females_aged_18-29": 696,
+    "females_under_18": 6,
+    "aged_30-44": 12892,
+    "aged_under_18": 57,
+    "males_aged_30-44": 11781
+  },
   "genres": [
     "action",
     "crime",
     "drama"
   ],
-  "release_month": "March",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.0,
-    "aged_18-29": 5.8,
-    "aged_30-44": 5.7,
-    "females": 5.7,
-    "top_1000_voters": 5.3,
-    "non-us_users": 5.8,
-    "females_under_18": 5.0,
-    "males_aged_30-44": 5.7,
-    "us_users": 5.7,
-    "imdb_users": 5.8,
-    "imdb_staff": 5.3,
-    "males_under_18": 5.4,
-    "females_aged_18-29": 5.6,
-    "males_aged_45+": 6.0,
-    "females_aged_30-44": 5.7,
-    "males": 5.8,
-    "males_aged_18-29": 5.8,
-    "females_aged_45+": 6.1,
-    "aged_under_18": 5.4
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "The Gunman",
-  "gross_income": 10640645,
-  "user_review_count": 115,
-  "duration": 115,
-  "max_screens": 2816,
-  "votes_per_demo": {
-    "aged_45+": 4253,
-    "aged_18-29": 7263,
-    "aged_30-44": 12880,
-    "females": 2194,
-    "top_1000_voters": 260,
-    "non-us_users": 15998,
-    "females_under_18": 6,
-    "males_aged_30-44": 11771,
-    "us_users": 3959,
-    "imdb_users": 30499,
-    "imdb_staff": 3,
-    "males_under_18": 51,
-    "females_aged_18-29": 697,
-    "males_aged_45+": 3794,
-    "females_aged_30-44": 954,
-    "males": 23432,
-    "males_aged_18-29": 6497,
-    "females_aged_45+": 396,
-    "aged_under_18": 57
+  "rating_freq": {
+    "1": 909,
+    "2": 574,
+    "3": 1172,
+    "4": 2403,
+    "5": 5905,
+    "6": 9064,
+    "7": 6354,
+    "8": 2373,
+    "9": 653,
+    "10": 1107
   },
-  "rating_count": 30499,
+  "release_month": "March",
+  "budget": 40000000,
+  "budget_currency": "$",
+  "total_screens": 7071,
+  "year": 2015,
+  "rating": 5.8,
   "critic_review_count": 226,
-  "opening_weekend_income": 5028702
+  "opening_weekend_date": {
+    "month": 3,
+    "year": 2015,
+    "day": 20,
+    "__type__": "datetime.date"
+  },
+  "name": "The Gunman",
+  "user_review_count": 115,
+  "avg_screens": 1414.2
 }

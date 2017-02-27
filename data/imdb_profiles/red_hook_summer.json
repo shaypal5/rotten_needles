@@ -1,18 +1,15 @@
 {
-  "name": "Red Hook Summer",
+  "budget": null,
   "opening_weekend_income": 40070,
-  "genres": [
-    "drama"
-  ],
-  "rating": 5.0,
-  "rating_count": 1295,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 10,
+  "year": 2012,
+  "closing_date": {
     "year": 2012,
-    "month": 8
+    "day": 16,
+    "__type__": "datetime.date",
+    "month": 11
   },
-  "user_review_count": 18,
+  "budget_currency": null,
+  "avg_screens": 12.222222222222221,
   "rating_freq": {
     "1": 212,
     "2": 73,
@@ -25,62 +22,256 @@
     "9": 52,
     "10": 152
   },
-  "release_day": null,
-  "votes_per_demo": {
-    "males": 977,
-    "females_aged_30-44": 84,
-    "aged_under_18": 2,
-    "non-us_users": 294,
-    "males_aged_18-29": 244,
-    "aged_18-29": 286,
-    "males_aged_30-44": 491,
-    "aged_45+": 253,
-    "imdb_users": 1295,
-    "aged_30-44": 579,
-    "us_users": 697,
-    "females": 171,
-    "females_aged_18-29": 36,
-    "top_1000_voters": 58,
-    "males_aged_45+": 210,
-    "females_under_18": 2,
-    "females_aged_45+": 38
-  },
-  "avg_rating_per_demo": {
-    "males": 4.9,
-    "females_aged_30-44": 5.5,
-    "aged_under_18": 5.5,
-    "non-us_users": 4.4,
-    "males_aged_18-29": 5.3,
-    "aged_18-29": 5.3,
-    "males_aged_30-44": 4.8,
-    "aged_45+": 4.7,
-    "imdb_users": 5.0,
-    "aged_30-44": 4.9,
-    "us_users": 5.2,
-    "females": 5.5,
-    "females_aged_18-29": 5.9,
-    "top_1000_voters": 4.7,
-    "males_aged_45+": 4.7,
-    "females_under_18": 5.5,
-    "females_aged_45+": 5.0
-  },
-  "avg_screens": 12.222222222222221,
-  "release_month": null,
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 48,
-  "gross_income": 338803,
-  "critic_review_count": 63,
-  "budget_currency": null,
-  "release_year": null,
-  "num_weekends": 9,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 16,
-    "year": 2012,
-    "month": 11
-  },
+  "screens_by_weekend": [
+    4,
+    9,
+    41,
+    29,
+    13,
+    6,
+    3,
+    3,
+    2
+  ],
+  "rating_count": 1295,
+  "total_screens": 110,
+  "max_screens": 41,
   "duration": 121,
-  "budget": null,
-  "max_screens": 41
+  "gross_income": 338803,
+  "metascore": 48,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "imdb_users": 1295,
+    "us_users": 697,
+    "aged_18-29": 286,
+    "non-us_users": 294,
+    "aged_45+": 253,
+    "aged_30-44": 579,
+    "males_aged_30-44": 491,
+    "males_aged_18-29": 244,
+    "males_aged_45+": 210,
+    "aged_under_18": 2,
+    "top_1000_voters": 58,
+    "females_aged_30-44": 84,
+    "females": 171,
+    "females_under_18": 2,
+    "females_aged_45+": 38,
+    "males": 977,
+    "females_aged_18-29": 36
+  },
+  "user_review_count": 18,
+  "rating": 5.0,
+  "release_year": null,
+  "avg_rating_per_demo": {
+    "imdb_users": 5.0,
+    "us_users": 5.2,
+    "aged_18-29": 5.3,
+    "non-us_users": 4.4,
+    "aged_45+": 4.7,
+    "aged_30-44": 4.9,
+    "males_aged_30-44": 4.8,
+    "males_aged_18-29": 5.3,
+    "males_aged_45+": 4.7,
+    "aged_under_18": 5.5,
+    "top_1000_voters": 4.7,
+    "females_aged_30-44": 5.5,
+    "females": 5.5,
+    "females_under_18": 5.5,
+    "females_aged_45+": 5.0,
+    "males": 4.9,
+    "females_aged_18-29": 5.9
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 10,
+    "__type__": "datetime.date",
+    "month": 8
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "kashbmaryd-477-329549",
+      "contents": "A Good Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "RGMike",
+      "contents": "Critics are really missing the boat here",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "DinosaurAct86",
+      "contents": "Worth Seeing",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "tmanbball",
+      "contents": "Spike Lee!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Spike Lee, what's happened to you?",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "harley quinn",
+      "contents": "It wasn't good",
+      "review_date": {
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Deron Overpeck",
+      "contents": "Ultimately compelling",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "A trip back down the hot, human roads of Brooklyn",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "budgetbabecouture",
+      "contents": "Pretty Good",
+      "review_date": {
+        "year": 2017,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "stellbread",
+      "contents": "As Spike Ages, He Gets Better",
+      "review_date": {
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "MisterWhiplash",
+      "contents": "\"Help me see my faith in God\"",
+      "review_date": {
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "carolina blu",
+      "contents": "Thought-provoking yet...somehow, inauthentic.",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "mjbset",
+      "contents": "All Around Bad",
+      "review_date": {
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Javeon Butler (jlb628@nau.edu)",
+      "contents": "Review for Red Hook Summer",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "Jeremy Mulder",
+      "contents": "Brutal",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "riclanders-501-982768",
+      "contents": "Awful",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    }
+  ],
+  "release_month": null,
+  "genres": [
+    "drama"
+  ],
+  "opening_weekend_screens": 4,
+  "name": "Red Hook Summer",
+  "num_weekends": 9,
+  "release_day": null,
+  "critic_review_count": 63
 }

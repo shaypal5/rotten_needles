@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 2,
-    "year": 2015,
-    "day": 27,
-    "__type__": "datetime.date"
+  "release_day": 27,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.1,
+    "top_1000_voters": 5.9,
+    "males_under_18": 6.2,
+    "imdb_staff": 6.3,
+    "males_aged_18-29": 6.5,
+    "imdb_users": 6.2,
+    "males_aged_45+": 6.2,
+    "aged_18-29": 6.3,
+    "us_users": 6.1,
+    "females_aged_30-44": 6.0,
+    "males": 6.3,
+    "females": 6.0,
+    "females_aged_45+": 5.8,
+    "non-us_users": 6.2,
+    "females_aged_18-29": 6.0,
+    "females_under_18": 6.0,
+    "aged_30-44": 6.2,
+    "aged_under_18": 6.1,
+    "males_aged_30-44": 6.2
   },
   "closing_date": {
     "month": 3,
@@ -11,81 +27,1374 @@
     "day": 27,
     "__type__": "datetime.date"
   },
-  "rating": 6.2,
+  "metascore": 67,
   "num_weekends": 5,
+  "rating_count": 30049,
+  "gross_income": 347648,
+  "max_screens": 66,
+  "opening_weekend_screens": 66,
+  "screens_by_weekend": [
+    66,
+    61,
+    17,
+    6,
+    8
+  ],
+  "opening_weekend_income": 143422,
   "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Maps to the Stars is about the aspects of Hollywood that, as a film fan, I'd rather not think about",
+      "score": 8,
+      "user": "Jack Hawkins (Hawkensian)",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cronenberg's nightmarish satire of 21st century Hollywood - with a dose of pharmaceuticals",
+      "score": 8,
+      "user": "ben_h_93",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cronenberg ignites a magnificent film with passion and humor...",
+      "score": 8,
+      "user": "Clayton Davis (Claytondavis@awardscircuit.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another masterpiece by Cronenberg",
+      "score": 9,
+      "user": "kaprijoias",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cronenberg now an 'auteur' of weirdness",
+      "score": 7,
+      "user": "davidgee",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shocking! Spoiler Alert",
+      "score": 1,
+      "user": "Mick Dundee",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Hollywood Greek tragedy",
+      "score": 9,
+      "user": "Adam Peters",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wasted",
+      "score": 2,
+      "user": "screenidol",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Grisly Side of Hollywood",
+      "score": 8,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ode to narcissism",
+      "score": 7,
+      "user": "bkoganbing",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "By Hollywood, for Hollywood, chasing its own tail.",
+      "score": 3,
+      "user": "Voyou Nobodysbusiness",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"It Stinks In Here.\"",
+      "score": 4,
+      "user": "Robert J. Maxwell (rmax304823@yahoo.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Disturbing Dive Into The Macabre",
+      "score": 5,
+      "user": "Blake Peterson",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What happened, Cronenberg?",
+      "score": 2,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A nice change from Cosmopolis",
+      "score": 8,
+      "user": "Justin Firestone",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hello again, Tinseltown.",
+      "score": 8,
+      "user": "punishmentpark",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing really.",
+      "score": 4,
+      "user": "petarmatic",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I left the cinema",
+      "score": 1,
+      "user": "zellow31",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Crap To The Stars",
+      "score": 1,
+      "user": "Rod Critic",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What trash...",
+      "score": 1,
+      "user": "simplymare",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More of a disappointment",
+      "score": 4,
+      "user": "Dennis Davydov",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cronenberg versus Hollywood",
+      "score": 5,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Greater Constellation",
+      "score": 10,
+      "user": "LifeVsArt",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not about the night stars, but the Hollywood's.",
+      "score": 7,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Beautiful Truth About Disgusting People",
+      "score": 8,
+      "user": "Johnathon Hand (jhan2294)",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Engaging film considering the taboo subject of incest",
+      "score": 9,
+      "user": "sciacca1",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining haunting drama of the past mixed with sex, guilt, remorse, and it shows that fame even has it's troubles and doubts.",
+      "score": 8,
+      "user": "Danny Blankenship",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gruesome, but horror or horrible?",
+      "score": 6,
+      "user": "Parker Lewis",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Maps to the Stars\" - Crossing Many Borders, Pushing Many Boundaries...",
+      "score": 8,
+      "user": "dee.reid",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chuck Lorre also created \"The Big Bang Theory\"",
+      "score": 6,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cronenberg Asks Hollywood a Curve Ball Question",
+      "score": 8,
+      "user": "Oskar Permerup",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cronenberg's satire of Hollywood is a treat",
+      "score": 7,
+      "user": "CMTiago",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hel-L.A. via Cronenberg's black eye to Hollywood; stellar acting all around",
+      "score": 8,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh Dear",
+      "score": 1,
+      "user": "paulbetteridge",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Total Piece of Crap",
+      "score": 1,
+      "user": "charmadu",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not that good..",
+      "score": 5,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Doesn't Measure Up",
+      "score": 3,
+      "user": "brightsides",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Dark Side of Hollywood At Its Very Best",
+      "score": 7,
+      "user": "Joshua H.",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not one of Cronenberg's best, but a good film",
+      "score": 7,
+      "user": "nms1982",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "goes all over the place in a way that is odd, exciting, pitch-blackly funny and horrific",
+      "score": 8,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Stars",
+      "score": 7,
+      "user": "Michael Radny",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A dysfunctional family in Tinseltown.",
+      "score": 7,
+      "user": "Michael O'Keefe",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Life In Hollywood",
+      "score": 8,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Maps to the Stars",
+      "score": 6,
+      "user": "ApproximatelyHandsome",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "some good performances",
+      "score": 6,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mulholland Drive-Lite",
+      "score": 8,
+      "user": "ingallz",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Maps of the Stars - the Ninth Circle",
+      "score": 8,
+      "user": "versionthirteen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Acting up",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Acting - Confusing Plot and Theme",
+      "score": 8,
+      "user": "jenperkins123",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great acting & writing but a very dark & moody movie. If you think you can handle it than give it a shot. I recommend this",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not quite a fresh satire, but filled with some great performances",
+      "score": 7,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incest squared",
+      "score": 7,
+      "user": "begob",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Moore is the only thing that did not bore in this one!",
+      "score": 7,
+      "user": "meeza (themeezaman@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Maps to be Mediocre",
+      "score": 5,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unutterably boring...",
+      "score": 1,
+      "user": "poe-48833",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible, painful to watch",
+      "score": 1,
+      "user": "courtneysaunders",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A waste of time",
+      "score": 2,
+      "user": "vixenviewer",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Arsenic Tinsel",
+      "score": 8,
+      "user": "dogwater-1",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A hard and dark watch",
+      "score": 7,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superb",
+      "score": 9,
+      "user": "rapidcerebral",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprised by the low rating",
+      "score": 9,
+      "user": "emsqui",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some Great Acting",
+      "score": 9,
+      "user": "erostew",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of 2014 Best Movies",
+      "score": 10,
+      "user": "Abbass Akkoush",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "On the stairs of death, I write your name......",
+      "score": 9,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A waste of motion picture film!",
+      "score": 1,
+      "user": "Paul255378",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Potpourri of Vestiges Review: David Cronenberg's scathing satire on Hollywood",
+      "score": 9,
+      "user": "Murtaza Ali",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ebenfalls",
+      "score": 5,
+      "user": "branchedvelvet",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The lives of one seriously messed up family, and one washed up actress, are explored as mental illness, and a bad attitude, ruins their careers.",
+      "score": 7,
+      "user": "Amari-Sali",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No Redemptive Quality",
+      "score": 2,
+      "user": "youngman44",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bit too weird for me! 3/10",
+      "score": 3,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Libert\u00e9",
+      "score": 10,
+      "user": "Cosimo Carmagnini (cosimorgan@outlook.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hollywood Babylon (The Movie)",
+      "score": 8,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Stars Shine Bright, but the Story Doesn't",
+      "score": 7,
+      "user": "rsj624",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of my evening!",
+      "score": 1,
+      "user": "vampyrkiss",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Maps  to  the  Stars  is  quite  an  interesting  experience",
+      "score": 8,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No justice to the story buildup",
+      "score": 4,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hollywood satire turns into classical tragedy of buried secret",
+      "score": 8,
+      "user": "maurice yacowar",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A surrel and atmospheric Greek tragedy.",
+      "score": 8,
+      "user": "johnnymurphy15",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Makes the Addams Family look like the Waltons",
+      "score": 1,
+      "user": "freemanpatrick7",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More like blueprints.....",
+      "score": 5,
+      "user": "Daniel Elford",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The life of Hollywood actors... who cares?",
+      "score": 4,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's not a bad trip into some Cronenberg strangeness.",
+      "score": 7,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bizarre but comes together",
+      "score": 7,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tries to Reprise Mullholland Dr, Fails",
+      "score": 1,
+      "user": "Bunky Maidwallow",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dark and twisted Hollywood tale from David Cronenberg",
+      "score": 6,
+      "user": "Red-Barracuda",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Greek Tragedy Set In Hollywood",
+      "score": 7,
+      "user": "peter-stead-740-486963",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cronenberg is back in full force!!",
+      "score": 9,
+      "user": "d-JCB",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A near myth",
+      "score": 7,
+      "user": " (gsygsy)",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lying on the pavement, looking at tthe stars...",
+      "score": 8,
+      "user": "paultreloar75",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cronenberg hasn't lost his touch",
+      "score": 9,
+      "user": "punishable-by-death",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "That queasy, uncomfortable Hollywood Bidet-Cam...",
+      "score": 6,
+      "user": "sylvain-14",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a waste",
+      "score": 1,
+      "user": "SuzyCayenne",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good acting but movie goes nowhere - what a crock !",
+      "score": 2,
+      "user": "Fran in France",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Most people will find it sickening!",
+      "score": 7,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun and darkly funny until it has nowhere to go.",
+      "score": 6,
+      "user": "TheMarwood",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Film as an ally versus mankind",
+      "score": 1,
+      "user": "dominickdesid",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cronenberg's horrifying satirical take on Hollywood is cerebral and engrossing",
+      "score": 8,
+      "user": "trublu215",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great for Cronenberg fans",
+      "score": 7,
+      "user": "clambakejr",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cronenberg dissects Hollywood and finds madness",
+      "score": 8,
+      "user": "siderite",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A masterpiece that truly studies the meaning of \"success\" on this society",
+      "score": 8,
+      "user": "rafecomo",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meta commentary on perverse Hollywood",
+      "score": 8,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Works as a comedy, drama not so much",
+      "score": 6,
+      "user": "Thomas (filmreviews@web.de)",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Here Be Dragons",
+      "score": 6,
+      "user": "writers_reign",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad things happening to bad people and \"vanity-free\" bits and pieces",
+      "score": 1,
+      "user": "dierregi",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is pure crap !!!",
+      "score": 1,
+      "user": "Miranda Philippen",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In a larger sense \"Maps to The Stars\" could be called a satire.",
+      "score": 8,
+      "user": "j-madej",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hollywood's crazy, surreal ecosystem",
+      "score": 6,
+      "user": "Ruben Mooijman",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A nightmare you don't want to wake from",
+      "score": 8,
+      "user": "Vincent Vega",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "big disappointment!",
+      "score": 4,
+      "user": "germancho0",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Maps To The Stars - Short review",
+      "score": 8,
+      "user": "tardieu-felix",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good performance, but bad simple plot",
+      "score": 3,
+      "user": "Julio Iglesias",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A star vehicle goes bizarre",
+      "score": 7,
+      "user": "lasttimeisaw",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Grim-fest which could have been amazing but is let down by jarring dialogue and some awful acting.",
+      "score": 6,
+      "user": "thomasshahbaz",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another incomprehensible installment",
+      "score": 6,
+      "user": "DJRMewzique",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A brave, arresting mix of ideas, though it does get a little lost along the way.",
+      "score": 7,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dark And Decent Enough Satire.",
+      "score": 6,
+      "user": "George Roots (GeorgeRoots)",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Same old Cronenberg...",
+      "score": 6,
+      "user": "Chris L",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hodgepodge of clich\u00e9s that fails to engage",
+      "score": 1,
+      "user": "neldot-582-741553",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 111,
+  "votes_per_demo": {
+    "aged_45+": 3829,
+    "top_1000_voters": 332,
+    "males_under_18": 43,
+    "imdb_staff": 3,
+    "males_aged_18-29": 6453,
+    "imdb_users": 30049,
+    "males_aged_45+": 2985,
+    "aged_18-29": 9519,
+    "us_users": 3934,
+    "females_aged_30-44": 2540,
+    "males": 19413,
+    "females": 6565,
+    "females_aged_45+": 773,
+    "non-us_users": 17393,
+    "females_aged_18-29": 2947,
+    "females_under_18": 18,
+    "aged_30-44": 11955,
+    "aged_under_18": 62,
+    "males_aged_30-44": 9196
+  },
+  "genres": [
+    "comedy",
+    "drama"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 1026,
     "2": 736,
     "3": 1091,
     "4": 2148,
-    "5": 4007,
-    "6": 6602,
-    "7": 7441,
-    "8": 4387,
+    "5": 4011,
+    "6": 6605,
+    "7": 7442,
+    "8": 4389,
     "9": 1482,
-    "10": 1118
+    "10": 1119
   },
-  "avg_screens": 31.6,
+  "release_month": "February",
   "budget": 15000000,
   "budget_currency": "$",
-  "release_day": 27,
-  "metascore": 67,
-  "genres": [
-    "comedy",
-    "drama"
-  ],
-  "release_month": "February",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.1,
-    "aged_18-29": 6.3,
-    "aged_30-44": 6.2,
-    "females": 6.0,
-    "top_1000_voters": 5.9,
-    "non-us_users": 6.2,
-    "females_under_18": 6.0,
-    "males_aged_30-44": 6.2,
-    "us_users": 6.1,
-    "imdb_users": 6.2,
-    "imdb_staff": 6.3,
-    "males_under_18": 6.2,
-    "females_aged_18-29": 6.0,
-    "males_aged_45+": 6.2,
-    "females_aged_30-44": 6.0,
-    "males": 6.3,
-    "males_aged_18-29": 6.5,
-    "females_aged_45+": 5.8,
-    "aged_under_18": 6.1
-  },
-  "opening_weekend_income_currency": "$",
+  "total_screens": 158,
   "year": 2014,
-  "name": "Maps to the Stars",
-  "gross_income": 347648,
-  "user_review_count": 125,
-  "duration": 111,
-  "max_screens": 66,
-  "votes_per_demo": {
-    "aged_45+": 3828,
-    "aged_18-29": 9520,
-    "aged_30-44": 11945,
-    "females": 6560,
-    "top_1000_voters": 332,
-    "non-us_users": 17386,
-    "females_under_18": 18,
-    "males_aged_30-44": 9189,
-    "us_users": 3933,
-    "imdb_users": 30038,
-    "imdb_staff": 3,
-    "males_under_18": 43,
-    "females_aged_18-29": 2945,
-    "males_aged_45+": 2984,
-    "females_aged_30-44": 2537,
-    "males": 19408,
-    "males_aged_18-29": 6456,
-    "females_aged_45+": 773,
-    "aged_under_18": 62
-  },
-  "rating_count": 30038,
+  "rating": 6.2,
   "critic_review_count": 306,
-  "opening_weekend_income": 143422
+  "opening_weekend_date": {
+    "month": 2,
+    "year": 2015,
+    "day": 27,
+    "__type__": "datetime.date"
+  },
+  "name": "Maps to the Stars",
+  "user_review_count": 125,
+  "avg_screens": 31.6
 }

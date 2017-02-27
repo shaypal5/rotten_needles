@@ -1,92 +1,2221 @@
 {
-  "critic_review_count": 234,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 10,
-    "day": 11
-  },
-  "release_month": "July",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 7,
-    "day": 19
-  },
-  "metascore": 47,
-  "max_screens": 3016,
-  "duration": 116,
-  "rating_count": 130868,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 11,
+  "release_day": 19,
   "avg_rating_per_demo": {
+    "aged_45+": 6.7,
+    "top_1000_voters": 6.2,
+    "males_under_18": 7.1,
+    "imdb_staff": 6.3,
+    "males_aged_18-29": 6.7,
+    "imdb_users": 6.7,
+    "males_aged_45+": 6.7,
+    "aged_18-29": 6.8,
+    "us_users": 6.7,
+    "females_aged_30-44": 6.8,
+    "males": 6.6,
+    "females": 7.0,
+    "females_aged_45+": 7.2,
     "non-us_users": 6.5,
     "females_aged_18-29": 7.0,
-    "females": 7.0,
-    "aged_45+": 6.7,
     "females_under_18": 7.8,
-    "imdb_users": 6.7,
-    "imdb_staff": 6.3,
-    "females_aged_30-44": 6.8,
-    "aged_under_18": 7.2,
-    "males_aged_30-44": 6.5,
-    "top_1000_voters": 6.2,
     "aged_30-44": 6.5,
-    "males_aged_18-29": 6.7,
-    "males": 6.6,
-    "females_aged_45+": 7.2,
-    "males_under_18": 7.1,
-    "us_users": 6.7,
-    "males_aged_45+": 6.7,
-    "aged_18-29": 6.8
+    "aged_under_18": 7.2,
+    "males_aged_30-44": 6.5
   },
-  "user_review_count": 207,
-  "rating_freq": {
-    "1": 1232,
-    "2": 961,
-    "3": 1874,
-    "4": 4310,
-    "5": 11709,
-    "6": 30467,
-    "7": 42918,
-    "8": 21543,
-    "9": 7550,
-    "10": 8304
+  "closing_date": {
+    "month": 10,
+    "year": 2013,
+    "day": 11,
+    "__type__": "datetime.date"
+  },
+  "metascore": 47,
+  "num_weekends": 11,
+  "rating_count": 130902,
+  "gross_income": 53215979,
+  "max_screens": 3016,
+  "opening_weekend_screens": 3016,
+  "screens_by_weekend": [
+    3016,
+    3016,
+    2755,
+    1574,
+    715,
+    389,
+    261,
+    209,
+    178,
+    110,
+    168
+  ],
+  "opening_weekend_income": 18048422,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "Will definitely see again!",
+      "score": 6,
+      "user": "rlsmithcarter",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "MUCH better than some would have you believe",
+      "score": 10,
+      "user": "FCivish",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun... and some more fun",
+      "score": 8,
+      "user": "monkeyboxer15",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "can't help loving it",
+      "score": 8,
+      "user": "blanche-2",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Its important to enjoy life while you still can!'",
+      "score": 10,
+      "user": "gradyharp",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Red2 is Red2.DO Not Expect  The Original RED",
+      "score": 7,
+      "user": "Arik_P",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining",
+      "score": 6,
+      "user": "Jack Vance",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Its important to enjoy life while you still can!",
+      "score": 7,
+      "user": "Spikeopath",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't bother!!",
+      "score": 4,
+      "user": "Don't know anything about movies",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Sequel ... That Really Isn't...",
+      "score": 4,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Failed to Live Up to the Hype and Level of the First Movie",
+      "score": 5,
+      "user": "Uriah43",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Sequel that Keeps the Level of the First Movie",
+      "score": 7,
+      "user": "Claudio Carvalho",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Red Alert",
+      "score": 1,
+      "user": "dougkostelnik",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a mindless offering",
+      "score": 1,
+      "user": "William Fields",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sorry Bruce, not even you can save this incoherent garbage.",
+      "score": 2,
+      "user": "Tisoy21",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretentious and boring - typical sequel",
+      "score": 4,
+      "user": "morfejs",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable action flick taking the good from the first",
+      "score": 7,
+      "user": "jackmeat",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better than the first one! Can't wait for part 3!",
+      "score": 10,
+      "user": "Jim Michaletos",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Consistently Fun,",
+      "score": 7,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An excellent action packed fun movie!",
+      "score": 9,
+      "user": "ivo-cobra8",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Red 2 is Action Packed and Full of Laughs!!!",
+      "score": 10,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Red was awesome, Red 2 tops it off...",
+      "score": 9,
+      "user": "ssarkca",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Worth Your Time",
+      "score": 4,
+      "user": "griffolyon12",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as good as the first",
+      "score": 5,
+      "user": "Kelseyesca",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as good as the first one, but still entertaining enough",
+      "score": 6,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun ride... Just Relax & Enjoy!!!",
+      "score": 7,
+      "user": "Ashay J",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waiting for more",
+      "score": 8,
+      "user": "Natasha Ramadan",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "excellent",
+      "score": 10,
+      "user": "weinabena",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Tremendous Amount of Fun",
+      "score": 8,
+      "user": "George Live",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Didn't See That One Coming...",
+      "score": 8,
+      "user": "AudioFileZ",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A solid sequel",
+      "score": 7,
+      "user": "freemantle_uk",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Big adventure than the first and entertains very well",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The fun continues...",
+      "score": 9,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better done than the first, but less funny",
+      "score": 7,
+      "user": "siderite",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hopkins is star of the show.",
+      "score": 6,
+      "user": "ArT_of_InSaNiTy",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Red 2: Not As God As Red",
+      "score": 2,
+      "user": "danavenell",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "solid sequel",
+      "score": 7,
+      "user": "NateWatchesCoolMovies",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "John Malkovich Is Still Awesome!",
+      "score": 8,
+      "user": "g-bodyl",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Its important to enjoy life while you still can\"",
+      "score": 7,
+      "user": "rcolgan",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "guilty pleasures",
+      "score": 7,
+      "user": "dromasca",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Slightly weaker than the first film, but it still has enough humour and action to keep fans of the first film and of the genre as a whole happy",
+      "score": 6,
+      "user": "jimbo-53-186511",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Show must go on",
+      "score": 8,
+      "user": "BearGlove",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More of the same thank you and roll on red 3",
+      "score": 8,
+      "user": "d-adrian-williams",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What an entertaining romp!",
+      "score": 8,
+      "user": "Mischief810",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Red 2 delivers",
+      "score": 6,
+      "user": "torstensonjohn",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "At the very least, as Good as the first!",
+      "score": 9,
+      "user": "postwaleed-599-724473",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Older but not more relaxed",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "good action...good fun...as good or better then the first",
+      "score": 7,
+      "user": "bcheng93",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Buckle up! Red 2 is every bit as fun as the first.",
+      "score": 8,
+      "user": "MobiusJedi",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Retired ex-agents unite to recover a missing nuclear device that holds the fate of the world.",
+      "score": 8,
+      "user": "Andrew Biancaniello (RaidenReviews)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It doesn't have the pizazz of the of the original, but it is entertaining",
+      "score": 7,
+      "user": "callanvass",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Expectations met, story ignored",
+      "score": 7,
+      "user": "p-stepien",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You're never too old to save the world",
+      "score": 7,
+      "user": "jamieradford",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty bad. No. Very bad.",
+      "score": 5,
+      "user": "John",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just as good as original",
+      "score": 6,
+      "user": "reece jordan",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny Humor! Cool Action! Sizzling Chemistry! Great Movie!",
+      "score": 8,
+      "user": "DareDevilKid",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The action scenes are awesome!",
+      "score": 8,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Red 2",
+      "score": 3,
+      "user": "Phil Hubbs",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Returning to the formula of witty banter and over-the-top action, this reunion of aging spies back in action is still plenty of escapist fun",
+      "score": 7,
+      "user": "moviexclusive",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun Romp",
+      "score": 6,
+      "user": "eatcrowepls",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Red 2 - Action And Humor, Doesn't Get Any Better Than This!",
+      "score": 8,
+      "user": "patsworld",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "That Old Gang Of Mine",
+      "score": 5,
+      "user": "writers_reign",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Red 2 Somewhat manages to stand in its place but not able to stand with the original!!!.",
+      "score": 7,
+      "user": "yashrajs536",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Older bad-asses kicking butt is quite entertaining",
+      "score": 7,
+      "user": "Finfrosk86",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lot better than you might think although it doesn't do anything brave",
+      "score": 6,
+      "user": "Rickting",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Two shots, here, and here. Drag the body in there and repeat as necessary.\"",
+      "score": 10,
+      "user": "classicsoncall",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "ready, set, fire",
+      "score": 7,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Who said Red was dead?",
+      "score": 7,
+      "user": "bowmanblue",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plots and double plots",
+      "score": 7,
+      "user": "jfarms1956",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "True to the original -- a perfectly watchable action comedy",
+      "score": 6,
+      "user": "Movie_Muse_Reviews",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some guys just can't seem to retire",
+      "score": 8,
+      "user": "david-sarkies",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some more fun and some more funny",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "funnier and more exciting than the first",
+      "score": 6,
+      "user": "witster18",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It is OK for a 6.",
+      "score": 6,
+      "user": "petarmatic",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Retired but still more dangerous",
+      "score": 6,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews",
+      "score": 6,
+      "user": "capone666",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "good, not great. Not a re-do",
+      "score": 6,
+      "user": "bob-o92",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "While it wasn't all that terrible it just didn't have the same feel of the first one, but not unexpected. Most sequels are that way.",
+      "score": 6,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Red 2\" is More of the Same Fun Action Hijinks",
+      "score": 8,
+      "user": "ersinkdotcom",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Quite As Red As the First.",
+      "score": 6,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Failed Parody of a Parody of a Spoof of a Spy Movie--because it's just not funny",
+      "score": 3,
+      "user": "skeptic skeptical",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Move Over Bruce!",
+      "score": 4,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bigger isn't better",
+      "score": 6,
+      "user": "TdSmth5",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "MI-6 Reloaded",
+      "score": 7,
+      "user": "cristi684",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The return of the REDs",
+      "score": 7,
+      "user": "roselaar",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Seniors in Fast Forward",
+      "score": 7,
+      "user": "getyourdander",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "These geezers are pleasers.",
+      "score": 7,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A really fun afternoon flick!",
+      "score": 7,
+      "user": "sturgeon3736",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disgustingly Bad",
+      "score": 2,
+      "user": "charlesbeutt",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Dependables",
+      "score": 5,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing. Nothing New",
+      "score": 4,
+      "user": " (bob-rutzel-1)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loads of action and amusing in some parts. 4/10",
+      "score": 4,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much improved from the first",
+      "score": 9,
+      "user": "raybeard",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Twisted plot, fine actors",
+      "score": 7,
+      "user": "Bene Cumb",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than the first one!!!! All the way!!!",
+      "score": 9,
+      "user": "PedroRosarioRodriguez",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very enjoyable follow up",
+      "score": 8,
+      "user": "bm2759",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Contrary to many online negative reviews, I thought that the movie was pretty good and hilarious.",
+      "score": 8,
+      "user": "tiffanyyongwt",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\" Red 2 \" 4 Thumbs Up",
+      "score": 10,
+      "user": "Russell Sanderlin",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A little smarter, a little sharper and still a lot of fun",
+      "score": 8,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More fun",
+      "score": 8,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Grander and funnier than the first one",
+      "score": 8,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Abso-bloody-lutely\" Great Summer Blockbuster",
+      "score": 8,
+      "user": "3xHCCH",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great - Excellent",
+      "score": 10,
+      "user": "PartialMovieViewer",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great way to spend a couple of hours",
+      "score": 9,
+      "user": "martys-91-382678",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Comedy I've seen this year",
+      "score": 8,
+      "user": "trekamania",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Sequel",
+      "score": 8,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quite Rubbish",
+      "score": 2,
+      "user": "Baleegh Shaw",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Knee-slappin, laff-a-minute murder-fest",
+      "score": 1,
+      "user": "rhollingsworth",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very entertaining!",
+      "score": 8,
+      "user": "Deniz72",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Jolly good show, old champs",
+      "score": 8,
+      "user": "Maleplatypus",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better then the first one",
+      "score": 9,
+      "user": "DiscoVinyl",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good fun",
+      "score": 8,
+      "user": "david-wright96",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Forget the plot, we're all having fun",
+      "score": 9,
+      "user": "Ayal Oren",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I got plenty of enjoyment out of the sequel to Red, Red 2, what with all that action and humor that abounded",
+      "score": 8,
+      "user": "tavm",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Amazing Race with guns",
+      "score": 7,
+      "user": "Scott-171-936918",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Has fun as the first one.",
+      "score": 8,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "By-the-numbers sequel to what could've been an engaging franchise",
+      "score": 7,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Interesting turn out",
+      "score": 9,
+      "user": "jasongalak (jasongalak@gmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too Much",
+      "score": 6,
+      "user": "cubric2",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than average action movie",
+      "score": 8,
+      "user": "keninaz",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as good as the first, but entertaining",
+      "score": 7,
+      "user": "nuggsgalore",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better than the rating implies",
+      "score": 9,
+      "user": "norbiear",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "one of the best action comedy franchises",
+      "score": 10,
+      "user": "johnathan frost",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Summer Hit For Sure A Classic For Years To Come.",
+      "score": 9,
+      "user": "Ray Spitzer",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "RED! I call them REFD....",
+      "score": 10,
+      "user": "Sugumar Paramasivan",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "They're Back! 10/10",
+      "score": 10,
+      "user": "Tyler Proctor",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "God Awful Movie",
+      "score": 2,
+      "user": "s don",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Two hours well spent",
+      "score": 6,
+      "user": "Ole Sandbaek Joergensen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What Was Not to Like?",
+      "score": 10,
+      "user": "mypcforums",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Few Sequels that Tops the Original",
+      "score": 8,
+      "user": "gregorybmowery",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great, suspenseful, good showpiece for the actors as well",
+      "score": 9,
+      "user": "Keith Gardner (k9gardner@me.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "if you are looking for some comedy and action",
+      "score": 6,
+      "user": "MLDinTN",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as good as the first. But still a fun comic book movie.",
+      "score": 7,
+      "user": "thegamergare",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "score": 8,
+      "user": "Tss5078",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reminded me of 'Charade'",
+      "score": 10,
+      "user": "athorpe-1",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining in the Same Way as the First",
+      "score": 7,
+      "user": "Cs_The_Moment",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Script is woeful, the action is good",
+      "score": 5,
+      "user": "James Smith",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great action-comedy! A very entertaining movie.",
+      "score": 9,
+      "user": "p-jonsson",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun",
+      "score": 6,
+      "user": "starsteamer",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not 2 Much",
+      "score": 7,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "O.D.T.A.A. Redux",
+      "score": 9,
+      "user": "DottoreHolliday",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A worthy, enjoyable sequel.",
+      "score": 8,
+      "user": "SugarandIce",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better than expected",
+      "score": 7,
+      "user": "freemanpatrick7",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More of the Same",
+      "score": 7,
+      "user": "antmlfc",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"RED 2\" is large amounts of fun whether it be intelligent or not. An enjoyable sequel that doesn't try too hard; but ends up delivering a satisfying piece of film.",
+      "score": 5,
+      "user": "Scott Gentry",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Solid Sequel",
+      "score": 6,
+      "user": "thefleece2",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "He's heading down the M4.......",
+      "score": 7,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gallantry, little blood in spite of a high body count and wonderful actors. Enjoyed it!",
+      "score": 9,
+      "user": "bruziene",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Worthy Sequel",
+      "score": 8,
+      "user": "alwaysplanb",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Fun Action Comedy-Drama Adventure Thriller",
+      "score": 8,
+      "user": "tabuno",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funnier if you have seen RED",
+      "score": 7,
+      "user": "artrouselkn",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not good enough",
+      "score": 2,
+      "user": "phoenix 2",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A poor attempt at a sequel",
+      "score": 4,
+      "user": "willcundallreview",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sorry, it's just not funny",
+      "score": 4,
+      "user": "Leofwine_draca",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Red 2: Can't Bruce Willis Just Fade Away????",
+      "score": 6,
+      "user": "matthewstelly",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "To many spies dilutes the flavour of this potentially spicy film",
+      "score": 5,
+      "user": "feyipuk",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun and entertaining!",
+      "score": 10,
+      "user": "An Pham",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "RED - 2 (Retired and Extremely Demented)",
+      "score": 6,
+      "user": "Charles Britto",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Guns, guns everywhere ....",
+      "score": 5,
+      "user": "thommy741",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As excellent as the previous movie was !",
+      "score": 10,
+      "user": "Tripmoh",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meh",
+      "score": 6,
+      "user": "Spazplayer20",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "good balance of everything and very unexpected",
+      "score": 8,
+      "user": "severus2310",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More or less as good as the first",
+      "score": 5,
+      "user": "movieman_kev",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Should be called \"ED\"",
+      "score": 6,
+      "user": "Astralan",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun, but not as good as the original **SPOILERS**",
+      "score": 7,
+      "user": "IrishEyes1989",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "made for octogenarians ?",
+      "score": 5,
+      "user": "t hamilton",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unsurprisingly ordinary.",
+      "score": 4,
+      "user": "Troy_Campbell",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a waste",
+      "score": 1,
+      "user": "tvonfrank",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "RED 2 is way to overrated!",
+      "score": 5,
+      "user": "Giorgio Rivera",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "perfectly silly stuff of fluff",
+      "score": 1,
+      "user": "pegkaz45",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bigger, bolder but not better.",
+      "score": 6,
+      "user": "quincytheodore",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well I didn't see that one coming",
+      "score": 10,
+      "user": "alex-kirkby",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Have I watched the same film as everyone else?",
+      "score": 5,
+      "user": "John",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Totally Disagree with it being a good sequel",
+      "score": 3,
+      "user": "Bernard Kuszak (bkuszak@hotmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh silly, silly rabbit, RED2 is for kids!!!",
+      "score": 5,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was expecting a big sequel after the success of Red, but Red 2 is not even close to my expectations.",
+      "score": 5,
+      "user": "erica anggono",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie sucks!",
+      "score": 2,
+      "user": "Johnny B Rass",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "funny, good action, but overall a disappointing film tho not one to take seriously",
+      "score": 5,
+      "user": "HelenMary",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Even Better Than The Original",
+      "score": 8,
+      "user": "myspecialparadise",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "RED 2 proposes a way out of the U.S. entitlement mess . . .",
+      "score": 7,
+      "user": "Hot 888 Mama",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the worst sequel, but nowhere near the best",
+      "score": 5,
+      "user": "gregeichelberger",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mostly predictable spy thriller, includes anti-Iranian racism",
+      "score": 1,
+      "user": "Crave",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't even use this as manure.",
+      "score": 1,
+      "user": "Acks King",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Do yourself a favor, avoid this at any cost. Disappointing",
+      "score": 5,
+      "user": "Ketan Gupta",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A notch below the previous one but still fun !",
+      "score": 6,
+      "user": "Apurv Nagpal",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "fun, but typical",
+      "score": 5,
+      "user": "Sean H-. (cornflakeboy20)",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When Dumb & Over-Smart Meet Each Other. \u2666 51%",
+      "score": 5,
+      "user": "Tejas Nair",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Passibility Reigns",
+      "score": 6,
+      "user": "RockoutGlockout117",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rotten Execrable Detritus",
+      "score": 2,
+      "user": "harbingerofapocalypse",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "RED2 is as good as RED !!",
+      "score": 7,
+      "user": "Siddhanth Rau",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simply terrible",
+      "score": 1,
+      "user": "rdoliva",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "RED 2 fails to deliver anything compelling enough for to draw in even the most loyal fans of the first film",
+      "score": 4,
+      "user": "bigcalkenobi",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 116,
+  "votes_per_demo": {
+    "aged_45+": 11963,
+    "top_1000_voters": 503,
+    "males_under_18": 335,
+    "imdb_staff": 9,
+    "males_aged_18-29": 38379,
+    "imdb_users": 130902,
+    "males_aged_45+": 9899,
+    "aged_18-29": 45886,
+    "us_users": 16842,
+    "females_aged_30-44": 5985,
+    "males": 95000,
+    "females": 16244,
+    "females_aged_45+": 1877,
+    "non-us_users": 66225,
+    "females_aged_18-29": 7046,
+    "females_under_18": 69,
+    "aged_30-44": 47163,
+    "aged_under_18": 412,
+    "males_aged_30-44": 40553
   },
   "genres": [
     "action",
     "comedy",
     "crime"
   ],
-  "budget": 84000000,
-  "rating": 6.7,
-  "name": "RED 2",
-  "opening_weekend_income": 18048422,
-  "avg_screens": 1126.4545454545455,
-  "gross_income": 53215979,
-  "votes_per_demo": {
-    "non-us_users": 66209,
-    "females_aged_18-29": 7047,
-    "females": 16242,
-    "aged_45+": 11958,
-    "females_under_18": 69,
-    "imdb_users": 130868,
-    "imdb_staff": 9,
-    "females_aged_30-44": 5983,
-    "aged_under_18": 412,
-    "males_aged_30-44": 40543,
-    "top_1000_voters": 502,
-    "aged_30-44": 47151,
-    "males_aged_18-29": 38371,
-    "males": 94977,
-    "females_aged_45+": 1877,
-    "males_under_18": 335,
-    "us_users": 16838,
-    "males_aged_45+": 9894,
-    "aged_18-29": 45879
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 1232,
+    "2": 961,
+    "3": 1875,
+    "4": 4312,
+    "5": 11711,
+    "6": 30476,
+    "7": 42928,
+    "8": 21545,
+    "9": 7552,
+    "10": 8310
   },
-  "release_year": 2013,
+  "release_month": "July",
+  "budget": 84000000,
   "budget_currency": "$",
-  "release_day": 19
+  "total_screens": 12391,
+  "year": 2013,
+  "rating": 6.7,
+  "critic_review_count": 234,
+  "opening_weekend_date": {
+    "month": 7,
+    "year": 2013,
+    "day": 19,
+    "__type__": "datetime.date"
+  },
+  "name": "RED 2",
+  "user_review_count": 207,
+  "avg_screens": 1126.4545454545455
 }

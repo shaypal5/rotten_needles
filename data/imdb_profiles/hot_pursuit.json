@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 5,
-    "year": 2015,
-    "day": 8,
-    "__type__": "datetime.date"
+  "release_day": 8,
+  "avg_rating_per_demo": {
+    "aged_45+": 5.0,
+    "top_1000_voters": 4.5,
+    "males_under_18": 5.2,
+    "imdb_staff": 5.3,
+    "males_aged_18-29": 4.9,
+    "imdb_users": 5.1,
+    "males_aged_45+": 4.9,
+    "aged_18-29": 5.3,
+    "us_users": 4.9,
+    "females_aged_30-44": 5.4,
+    "males": 4.8,
+    "females": 5.7,
+    "females_aged_45+": 5.4,
+    "non-us_users": 5.0,
+    "females_aged_18-29": 5.8,
+    "females_under_18": 7.0,
+    "aged_30-44": 4.8,
+    "aged_under_18": 5.9,
+    "males_aged_30-44": 4.7
   },
   "closing_date": {
     "month": 7,
@@ -11,82 +27,1367 @@
     "day": 17,
     "__type__": "datetime.date"
   },
-  "rating": 5.1,
-  "num_weekends": 8,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 2228,
-    "2": 1828,
-    "3": 2903,
-    "4": 4907,
-    "5": 8347,
-    "6": 7824,
-    "7": 4579,
-    "8": 2086,
-    "9": 899,
-    "10": 2290
-  },
-  "avg_screens": 1392.75,
-  "budget": 35000000,
-  "budget_currency": "$",
-  "release_day": 8,
   "metascore": 31,
+  "num_weekends": 8,
+  "rating_count": 37907,
+  "gross_income": 34507079,
+  "max_screens": 3037,
+  "opening_weekend_screens": 3003,
+  "screens_by_weekend": [
+    3003,
+    3037,
+    2577,
+    1446,
+    537,
+    255,
+    202,
+    85
+  ],
+  "opening_weekend_income": 13942258,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Hot Pursuit is a dismal comedy and a criminal waste of talent.",
+      "score": 1,
+      "user": "Andrew Gold",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hot Pursuit? More like Hot Mess",
+      "score": 1,
+      "user": "okwedadi",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Irresistible girls and a great movie.",
+      "score": 10,
+      "user": "avirariva",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Reese & Sophia Debacle",
+      "score": 2,
+      "user": "michael-3204",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I forgot movies could be this bad.",
+      "score": 1,
+      "user": "Deviator-4",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just Don't",
+      "score": 1,
+      "user": "pleasantcow",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Glad I rented this",
+      "score": 3,
+      "user": "UGA-Brewer",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One Of The Worst Films Of 2015 So Far",
+      "score": 1,
+      "user": "cassandrah-40737",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is actually quite funny!",
+      "score": 10,
+      "user": "Drew8618",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Failed To Capitalize On The Female Stars' Acting Talent",
+      "score": 3,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining action comedy",
+      "score": 8,
+      "user": "mistoppi",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent on-the-road buddy comedy that will keep you smiling from start to finish",
+      "score": 9,
+      "user": "Grace Zeh (filmgirlgz@gmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I love these women with all of my heart.",
+      "score": 10,
+      "user": "LesbianToLesbians",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Un-safe for weak or full bladders.",
+      "score": 9,
+      "user": "Genivieve DeClare",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious!!",
+      "score": 10,
+      "user": "Davis P",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No One Else Needs to Be Nominate this Time Around - Perfection",
+      "score": 10,
+      "user": "PartialMovieViewer",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "don't know why so many haters out there on this movie",
+      "score": 10,
+      "user": "jonrivera420",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it",
+      "score": 10,
+      "user": "trunkmonkey-61292",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Epic adventure",
+      "score": 10,
+      "user": "boatsfra",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "hilarious!",
+      "score": 9,
+      "user": "mattkratz (themattk@hotmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plenty of Laughs",
+      "score": 9,
+      "user": "aharmas",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "very funny",
+      "score": 9,
+      "user": "jasan01",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't listen to the critics, this movie is hilarious",
+      "score": 9,
+      "user": "lalalohan",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "critics have no sense of humor",
+      "score": 10,
+      "user": "nosugrof",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good story but the ending is not what I expect for.",
+      "score": 6,
+      "user": "Kayang Turtz Amizola",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bloody Hilarious",
+      "score": 10,
+      "user": "wingstephanie",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funniest movie I've seen in years.",
+      "score": 10,
+      "user": " (garycjones@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Super Funny",
+      "score": 8,
+      "user": "Michelle M",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Funny !",
+      "score": 8,
+      "user": "trary7",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny and then some. A feel good movie",
+      "score": 8,
+      "user": "rcuttill",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The only thing it lacks is originality...",
+      "score": 8,
+      "user": "Luis Filipe dos Reis Peres",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "funny",
+      "score": 8,
+      "user": "saiiad",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Laugh out Loud Funny!",
+      "score": 8,
+      "user": "sonjaup",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally, a buddy comedy with female leads.",
+      "score": 8,
+      "user": "Anurag-Shetty",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Edgier but Light Black Comedy Thriller",
+      "score": 8,
+      "user": "tabuno",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty Good Film and very similar to an old 80's favorite \"Midnight Run\" (Dinero & Grodin)",
+      "score": 8,
+      "user": "GregP89",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty awful",
+      "score": 4,
+      "user": "Shopaholic35",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You just got coopered!",
+      "score": 7,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"I let you get to second base with me . . . \"",
+      "score": 7,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What do you expect?",
+      "score": 7,
+      "user": " (ammabee@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a great comedy",
+      "score": 7,
+      "user": "Paul Wycherley",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't trust the ratings",
+      "score": 7,
+      "user": "The Couchpotatoes",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than I expected & I did laugh quite a bit. A good choice for a movie when all you want is to relax and be entertained by",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just OK, but it succeeds in its promise: make you laugh.",
+      "score": 7,
+      "user": "fabiolpinheiro1993",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Hot Pursuit\" brings together two great actresses each hitting their stride at the same time.",
+      "score": 7,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a lot of thought went into this one",
+      "score": 6,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "B class comedy",
+      "score": 6,
+      "user": "Jenia",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flatfoot Falls Flat",
+      "score": 6,
+      "user": " (blufrog49)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Calm the F down.",
+      "score": 4,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cheesy",
+      "score": 2,
+      "user": "Zachary Bxllion",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Two Stooges...",
+      "score": 6,
+      "user": "jaywensley2004",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"I feel like the cheese fell off my cracker.\"",
+      "score": 6,
+      "user": "utgard14",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Performances Mediocre Direction",
+      "score": 6,
+      "user": "lanimag",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Needed better writers",
+      "score": 5,
+      "user": "smatysia (feldene@comcast.net)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst movie I've seen in the last few years",
+      "score": 2,
+      "user": "anahpeklaj",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Trivial Pursuit",
+      "score": 3,
+      "user": "thesar-2",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not funny at all! 2/10",
+      "score": 2,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just a 2-word review...",
+      "score": 3,
+      "user": "Steve 83",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reese and Sofia in a Light Comedy",
+      "score": 6,
+      "user": "atlasmb",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too Lazy and Uninspired to Be Worth A Chuckle",
+      "score": 5,
+      "user": "prospectus_capricornium",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Exhausting and Embarrassing",
+      "score": 2,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A front runner for the Razzies",
+      "score": 3,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a shambles!",
+      "score": 4,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tip's for running with high heels",
+      "score": 3,
+      "user": "Niki Kefala",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really not that funny",
+      "score": 4,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Autopilot Hollywood Drone",
+      "score": 3,
+      "user": "TheDancingPanda-692-744536",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not nearly as funny as it sounds",
+      "score": 4,
+      "user": "ErinNavan",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I smell Razzie!",
+      "score": 4,
+      "user": "Adam_West_as_Batdan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tries so hard to be inoffensive it neglects to be funny",
+      "score": 4,
+      "user": "Gino Cox",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Making not the most of it",
+      "score": 3,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rushed, Unfunny, Boring, and also Unfunny",
+      "score": 2,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Kind of a strange movie",
+      "score": 3,
+      "user": "Lott444",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews",
+      "score": 4,
+      "user": "capone666",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Chappy Watched: Hot Pursuit",
+      "score": 1,
+      "user": "Chappy Watched",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just terrible",
+      "score": 2,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fast Forward",
+      "score": 2,
+      "user": "westsideschl",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "1st Half: Annoying.  2nd Half still Annoying",
+      "score": 2,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "87 minutes wasted",
+      "score": 2,
+      "user": "Lock Eightyeight",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like baking a cake, you can have all the right ingredients but it wasn't cooked long enough.",
+      "score": 4,
+      "user": "kuuk3",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just Awful",
+      "score": 2,
+      "user": "patrickbogan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny",
+      "score": 5,
+      "user": "gdcountry",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Reese Witherspoon & Sof\u00eda Vergara, make magic on the screen together.",
+      "score": 6,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Original, But Funny",
+      "score": 6,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun, silly and flawed, buoyed by the charm and chemistry of its unlikely pair of leading ladies.",
+      "score": 6,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some Parts Funny, Most Parts Predictable",
+      "score": 5,
+      "user": "K_ash10 (Lynn.kay83@gmail.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So so but not a bad movie.",
+      "score": 5,
+      "user": "DisneySwiftie",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hot Pursuit was a middling-to-fair comedy for Reese Witherspoon and Sofia Vergara",
+      "score": 5,
+      "user": "tavm",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You look like a little dog I can put in my purse......",
+      "score": 3,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Hot Mess",
+      "score": 1,
+      "user": "rjsf96",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hot (woman but nothing else to keep anyone in...) Pursuit",
+      "score": 2,
+      "user": "neuhisstihr",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is no comedy and no adventure its just rubbish",
+      "score": 1,
+      "user": "clarkmick33",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Real life in movies",
+      "score": 3,
+      "user": "ckatona",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I finally got the Vergara I love!",
+      "score": 5,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There should be laws for this kind of monstrosities.",
+      "score": 1,
+      "user": "akarajovic",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shockingly terrible",
+      "score": 1,
+      "user": "gredley",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "terrible movie - probably the worst movie I have seen this year",
+      "score": 1,
+      "user": "Plato P",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One Of The Worst Films Of 2015 So Far",
+      "score": 1,
+      "user": "Jacob Wood",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Please read a good book instead.",
+      "score": 1,
+      "user": "cramsterz",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just not funny",
+      "score": 3,
+      "user": "debbyhitchins",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lame pursuit",
+      "score": 1,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't Pursue This Film.",
+      "score": 3,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Witherspoon and Vergara believable in their parts but movie not great as a comedy",
+      "score": 4,
+      "user": "ryan_dme3",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "0/10",
+      "score": 1,
+      "user": "Mac Benitez",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unfortunately Dreadful",
+      "score": 1,
+      "user": "chkwagner (chkwagner@yahoo.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Earnest, yet formulaic and bland 'comedy' (**)",
+      "score": 4,
+      "user": "Film Fan Perspective (filmfanperspective@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There are plenty of female driven comedies this summer and this is the one you can skip",
+      "score": 4,
+      "user": "slothhead54",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hot Pursuit lost its pursuit of comedic content...",
+      "score": 3,
+      "user": "adaringdo-1",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of Hot Pursuit",
+      "score": 3,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pride, like the number of laughs in the film, seems evidently minimal",
+      "score": 3,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hot Garbage",
+      "score": 1,
+      "user": "Matt Greene",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Painful Experience even for the Verghara eye Candy",
+      "score": 1,
+      "user": "MacrosTheBlack2014",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hot Pursuit is nothing more than a hot mess.",
+      "score": 2,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Congratulations Hot Pursuit! You just set back woman and comedy by fifty years!",
+      "score": 1,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "2.5/10",
+      "score": 2,
+      "user": "Chisty  Lemire",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pursuit of Garbage",
+      "score": 2,
+      "user": "kaustubh241997",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A 1 is too much for this, it is THAT bad.",
+      "score": 1,
+      "user": "trublu215",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that shouldn't be taken seriously at all.  Just have fun (if you can).",
+      "score": 1,
+      "user": "shadowyx12",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 87,
+  "votes_per_demo": {
+    "aged_45+": 3094,
+    "top_1000_voters": 270,
+    "males_under_18": 137,
+    "imdb_staff": 8,
+    "males_aged_18-29": 7861,
+    "imdb_users": 37907,
+    "males_aged_45+": 2461,
+    "aged_18-29": 13897,
+    "us_users": 5325,
+    "females_aged_30-44": 2897,
+    "males": 20317,
+    "females": 10265,
+    "females_aged_45+": 591,
+    "non-us_users": 16860,
+    "females_aged_18-29": 5870,
+    "females_under_18": 124,
+    "aged_30-44": 11716,
+    "aged_under_18": 264,
+    "males_aged_30-44": 8659
+  },
   "genres": [
     "action",
     "comedy",
     "crime"
   ],
-  "release_month": "May",
-  "avg_rating_per_demo": {
-    "aged_45+": 5.0,
-    "aged_18-29": 5.3,
-    "aged_30-44": 4.8,
-    "females": 5.7,
-    "top_1000_voters": 4.5,
-    "non-us_users": 5.0,
-    "females_under_18": 7.0,
-    "males_aged_30-44": 4.7,
-    "us_users": 4.9,
-    "imdb_users": 5.1,
-    "imdb_staff": 5.3,
-    "males_under_18": 5.2,
-    "females_aged_18-29": 5.8,
-    "males_aged_45+": 4.9,
-    "females_aged_30-44": 5.4,
-    "males": 4.8,
-    "males_aged_18-29": 4.9,
-    "females_aged_45+": 5.4,
-    "aged_under_18": 5.9
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Hot Pursuit",
-  "gross_income": 34507079,
-  "user_review_count": 125,
-  "duration": 87,
-  "max_screens": 3037,
-  "votes_per_demo": {
-    "aged_45+": 3093,
-    "aged_18-29": 13895,
-    "aged_30-44": 11708,
-    "females": 10260,
-    "top_1000_voters": 270,
-    "non-us_users": 16854,
-    "females_under_18": 124,
-    "males_aged_30-44": 8654,
-    "us_users": 5324,
-    "imdb_users": 37891,
-    "imdb_staff": 8,
-    "males_under_18": 137,
-    "females_aged_18-29": 5868,
-    "males_aged_45+": 2460,
-    "females_aged_30-44": 2894,
-    "males": 20310,
-    "males_aged_18-29": 7861,
-    "females_aged_45+": 591,
-    "aged_under_18": 264
+  "rating_freq": {
+    "1": 2228,
+    "2": 1829,
+    "3": 2903,
+    "4": 4909,
+    "5": 8354,
+    "6": 7827,
+    "7": 4580,
+    "8": 2086,
+    "9": 898,
+    "10": 2293
   },
-  "rating_count": 37891,
+  "release_month": "May",
+  "budget": 35000000,
+  "budget_currency": "$",
+  "total_screens": 11142,
+  "year": 2015,
+  "rating": 5.1,
   "critic_review_count": 161,
-  "opening_weekend_income": 13942258
+  "opening_weekend_date": {
+    "month": 5,
+    "year": 2015,
+    "day": 8,
+    "__type__": "datetime.date"
+  },
+  "name": "Hot Pursuit",
+  "user_review_count": 125,
+  "avg_screens": 1392.75
 }

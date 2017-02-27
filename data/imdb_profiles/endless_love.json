@@ -1,91 +1,839 @@
 {
-  "metascore": 30,
-  "closing_date": {
-    "year": 2014,
-    "day": 14,
-    "month": 3,
-    "__type__": "datetime.date"
-  },
-  "release_month": "February",
-  "release_year": 2014,
-  "gross_income": 23393765,
-  "duration": 104,
   "release_day": 14,
-  "max_screens": 2896,
-  "opening_weekend_date": {
+  "avg_rating_per_demo": {
+    "aged_45+": 5.8,
+    "top_1000_voters": 4.6,
+    "males_under_18": 7.2,
+    "imdb_staff": 6.0,
+    "males_aged_18-29": 6.4,
+    "imdb_users": 6.3,
+    "males_aged_45+": 5.6,
+    "aged_18-29": 6.5,
+    "us_users": 5.9,
+    "females_aged_30-44": 6.1,
+    "males": 6.1,
+    "females": 6.4,
+    "females_aged_45+": 6.2,
+    "non-us_users": 6.1,
+    "females_aged_18-29": 6.5,
+    "females_under_18": 7.8,
+    "aged_30-44": 5.8,
+    "aged_under_18": 7.7,
+    "males_aged_30-44": 5.7
+  },
+  "closing_date": {
+    "month": 3,
     "year": 2014,
     "day": 14,
-    "month": 2,
     "__type__": "datetime.date"
   },
-  "rating": 6.3,
+  "metascore": 30,
   "num_weekends": 5,
+  "rating_count": 33136,
+  "gross_income": 23393765,
+  "max_screens": 2896,
+  "opening_weekend_screens": 2896,
+  "screens_by_weekend": [
+    2896,
+    2896,
+    1874,
+    536,
+    278
+  ],
+  "opening_weekend_income": 14407605,
+  "release_year": 2014,
+  "imdb_user_reviews": [
+    {
+      "contents": "This remake is largely inoffensive - which is probably its biggest problem.",
+      "score": 3,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good for what it was",
+      "score": 7,
+      "user": "kayles115",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good, Cute Movie.",
+      "score": 7,
+      "user": "allyramsamy",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Trying to make a silk purse out of a sow's ear",
+      "score": 3,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Say Goodbye to Intelligence",
+      "score": 2,
+      "user": "OrsonLannister",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pleasantly surprised",
+      "score": 6,
+      "user": "kdcalderon-f",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Utter Garbage",
+      "score": 4,
+      "user": "emilysabanegh",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is like sugar-free cake, the knock-off just isn't as good.",
+      "score": 4,
+      "user": "Yellow Power",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Despite the updating it's just too clich\u00e9d",
+      "score": 1,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film deserves no love",
+      "score": 2,
+      "user": "Rickting",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you are looking for a nice romantic date, Endless Love might be a good choice",
+      "score": 6,
+      "user": "Ketan Gupta",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Review: Endless Love (2014)/ www.nightfilmreviews.com",
+      "score": 7,
+      "user": "lucasnochez",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gentle treatment gives it its magic",
+      "score": 6,
+      "user": "Jacques Du Rand",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Endless Predictability",
+      "score": 4,
+      "user": "davebennett88",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Much better than the original...",
+      "score": 6,
+      "user": "Sherazade",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Endless Love (U/A) English ----------- my Rating: \u2605\u2605\u2605\u00bd FEELS FRESH",
+      "score": 7,
+      "user": "yunusitboss",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it.",
+      "score": 9,
+      "user": "c-matassa",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stellar performances by all",
+      "score": 8,
+      "user": "mikeadd",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Typical Romantic Film, in a good way",
+      "score": 8,
+      "user": "Lily Thorne",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An awful wanna be 'Notebook' that shames all romances",
+      "score": 1,
+      "user": "laurennhawkins",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie",
+      "score": 10,
+      "user": "clarkkent916",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sweet escapism",
+      "score": 8,
+      "user": "Davis P",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fighting for the true love against the resistance.",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The soundtrack are amazingly good",
+      "score": 8,
+      "user": "dyadin zhang",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "***1/2",
+      "score": 9,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Remakes CAN be worthwhile - this one...not so much",
+      "score": 5,
+      "user": "mharah",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "cheesy romance done badly",
+      "score": 3,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As cheesy as it gets",
+      "score": 3,
+      "user": "santiagocosme",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Endless drivel",
+      "score": 2,
+      "user": "Auntie_Inflammatory",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring and clich\u00e9",
+      "score": 3,
+      "user": "gentm2013",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I've Seen This Kind of Love Story",
+      "score": 6,
+      "user": "Eka Herlyanti",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Endless Love",
+      "score": 10,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This clich\u00e9-ridden romance flick definitely isn't worth it",
+      "score": 3,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Love Story?  Kinda......",
+      "score": 7,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Skip the negative",
+      "score": 7,
+      "user": "mariiasalmijarvi",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watered Down Version of the Original",
+      "score": 3,
+      "user": "MovieHoliks",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heart-Warming Love Story",
+      "score": 6,
+      "user": "Stuart McCaughey",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sad",
+      "score": 10,
+      "user": "wyatt0929",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Endless Bull.",
+      "score": 1,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "True love can triumph...",
+      "score": 8,
+      "user": " (kelseyms_x)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not original",
+      "score": 5,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Young Love",
+      "score": 5,
+      "user": "INEEDROMANCE",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It Really Did Feel Endless",
+      "score": 6,
+      "user": "TheFilmGuy1",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Full 4 movie",
+      "score": 7,
+      "user": "imran-jamil6",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is true Love... really?",
+      "score": 5,
+      "user": "C_pa_cool",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Painfully stereotypical and predictable love story that doesn't try very hard",
+      "score": 5,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Take it as it is, don't think about the Notebook",
+      "score": 6,
+      "user": "masatoshi",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "essentially a  supposed story of ENDLESS love and innocence but not quite concertized.",
+      "score": 6,
+      "user": "Reeya Moreno",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Endless Drivel Part Deux",
+      "score": 2,
+      "user": "GeoPierpont",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Teens May Like It",
+      "score": 5,
+      "user": " (blufrog49)",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love, love, love, love, love, love, love . . .",
+      "score": 6,
+      "user": "Hot 888 Mama",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "meh",
+      "score": 3,
+      "user": "Caitlin Hamilton",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Endless Clich\u00e9s",
+      "score": 1,
+      "user": "tieman64",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "wild about Wilde, not Jaded by miss Butterfield",
+      "score": 8,
+      "user": "RavenGlamDVDCollector",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Portraying First Love On Screen",
+      "score": 8,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a great love story",
+      "score": 8,
+      "user": "monstermayhem32",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Too Bad",
+      "score": 7,
+      "user": "pickeynickey",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is AWFUL~",
+      "score": 1,
+      "user": "Daniela Violin",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect Idyll... Love at first sight!",
+      "score": 8,
+      "user": "Burny18",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not as bad as people are saying, but still has problems",
+      "score": 7,
+      "user": "ggibson63",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Harsh Reviews, not true",
+      "score": 8,
+      "user": "Sean Stephenson",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film is perfect",
+      "score": 10,
+      "user": "x-lucy-mo-x",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Powerful Love Story",
+      "score": 10,
+      "user": "Slasher_Lover23",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty Good Remake!",
+      "score": 9,
+      "user": "ylopez4-1",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Take it for what it is and you won't be disappointed",
+      "score": 8,
+      "user": "SoleVeil",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect for Hopeless Romantics",
+      "score": 10,
+      "user": "samantha wilde",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Film!",
+      "score": 10,
+      "user": "Cristina Del Real",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 104,
+  "votes_per_demo": {
+    "aged_45+": 1594,
+    "top_1000_voters": 185,
+    "males_under_18": 66,
+    "imdb_staff": 3,
+    "males_aged_18-29": 5908,
+    "imdb_users": 33136,
+    "males_aged_45+": 1085,
+    "aged_18-29": 16123,
+    "us_users": 3788,
+    "females_aged_30-44": 2918,
+    "males": 11734,
+    "females": 14827,
+    "females_aged_45+": 486,
+    "non-us_users": 14512,
+    "females_aged_18-29": 10048,
+    "females_under_18": 245,
+    "aged_30-44": 6947,
+    "aged_under_18": 314,
+    "males_aged_30-44": 3928
+  },
   "genres": [
     "drama",
     "romance"
   ],
-  "avg_screens": 1696.0,
-  "opening_weekend_income": 14407605,
-  "year": 2014,
   "opening_weekend_income_currency": "$",
-  "rating_count": 33118,
-  "votes_per_demo": {
-    "females": 14819,
-    "males_aged_30-44": 3924,
-    "aged_under_18": 315,
-    "females_aged_30-44": 2916,
-    "females_aged_45+": 486,
-    "us_users": 3788,
-    "aged_45+": 1594,
-    "aged_30-44": 6941,
-    "top_1000_voters": 185,
-    "males_aged_18-29": 5906,
-    "females_aged_18-29": 10043,
-    "imdb_users": 33118,
-    "males": 11728,
-    "non-us_users": 14505,
-    "imdb_staff": 3,
-    "males_under_18": 66,
-    "aged_18-29": 16116,
-    "males_aged_45+": 1085,
-    "females_under_18": 246
-  },
-  "avg_rating_per_demo": {
-    "females": 6.4,
-    "males_aged_30-44": 5.7,
-    "aged_under_18": 7.7,
-    "females_aged_30-44": 6.1,
-    "females_aged_45+": 6.2,
-    "us_users": 5.9,
-    "aged_45+": 5.8,
-    "aged_30-44": 5.8,
-    "top_1000_voters": 4.6,
-    "males_aged_18-29": 6.4,
-    "females_aged_18-29": 6.5,
-    "imdb_users": 6.3,
-    "males": 6.1,
-    "non-us_users": 6.1,
-    "imdb_staff": 6.0,
-    "males_under_18": 7.2,
-    "aged_18-29": 6.5,
-    "males_aged_45+": 5.6,
-    "females_under_18": 7.8
-  },
-  "critic_review_count": 99,
-  "user_review_count": 77,
   "rating_freq": {
     "1": 977,
-    "2": 659,
+    "2": 662,
     "3": 1085,
     "4": 1831,
-    "5": 3849,
-    "6": 6689,
-    "7": 6903,
-    "8": 4365,
-    "9": 2267,
-    "10": 4493
+    "5": 3850,
+    "6": 6692,
+    "7": 6908,
+    "8": 4368,
+    "9": 2269,
+    "10": 4494
+  },
+  "release_month": "February",
+  "budget": 20000000,
+  "budget_currency": "$",
+  "total_screens": 8480,
+  "year": 2014,
+  "rating": 6.3,
+  "critic_review_count": 99,
+  "opening_weekend_date": {
+    "month": 2,
+    "year": 2014,
+    "day": 14,
+    "__type__": "datetime.date"
   },
   "name": "Endless Love",
-  "budget_currency": "$",
-  "budget": 20000000
+  "user_review_count": 77,
+  "avg_screens": 1696.0
 }

@@ -1,6 +1,15 @@
 {
-  "num_weekends": 8,
-  "duration": 121,
+  "budget": null,
+  "opening_weekend_income": 2603370,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 16,
+    "__type__": "datetime.date",
+    "month": 11
+  },
+  "budget_currency": null,
+  "avg_screens": 735.125,
   "rating_freq": {
     "1": 297,
     "2": 75,
@@ -8,83 +17,462 @@
     "4": 198,
     "5": 531,
     "6": 1102,
-    "7": 1240,
+    "7": 1239,
     "8": 736,
     "9": 379,
-    "10": 658
+    "10": 659
   },
-  "release_year": 2012,
-  "budget_currency": null,
-  "rating": 6.4,
-  "release_day": 28,
-  "budget": null,
-  "votes_per_demo": {
-    "us_users": 1502,
-    "imdb_users": 5325,
-    "aged_30-44": 2021,
-    "males": 2579,
-    "males_aged_18-29": 658,
-    "top_1000_voters": 129,
-    "females_aged_30-44": 810,
-    "imdb_staff": 1,
-    "females": 2026,
-    "females_aged_45+": 276,
-    "females_under_18": 7,
-    "aged_under_18": 8,
-    "aged_45+": 913,
-    "females_aged_18-29": 795,
-    "non-us_users": 2062,
-    "males_aged_45+": 625,
-    "males_under_18": 1,
-    "aged_18-29": 1474,
-    "males_aged_30-44": 1181
-  },
-  "metascore": 42,
-  "avg_rating_per_demo": {
-    "us_users": 6.2,
-    "imdb_users": 6.4,
-    "aged_30-44": 6.3,
-    "males": 6.1,
-    "males_aged_18-29": 6.3,
-    "top_1000_voters": 5.4,
-    "females_aged_30-44": 6.7,
-    "imdb_staff": 10.0,
-    "females": 6.9,
-    "females_aged_45+": 7.0,
-    "females_under_18": 6.7,
-    "aged_under_18": 6.8,
-    "aged_45+": 6.3,
-    "females_aged_18-29": 6.9,
-    "non-us_users": 6.4,
-    "males_aged_45+": 6.0,
-    "males_under_18": 8.0,
-    "aged_18-29": 6.6,
-    "males_aged_30-44": 6.0
-  },
+  "screens_by_weekend": [
+    2515,
+    2517,
+    513,
+    168,
+    65,
+    41,
+    38,
+    24
+  ],
   "rating_count": 5325,
-  "critic_review_count": 100,
-  "opening_weekend_income_currency": "$",
-  "name": "Won't Back Down",
-  "user_review_count": 37,
-  "avg_screens": 735.125,
-  "release_month": "September",
-  "opening_weekend_date": {
-    "day": 28,
-    "month": 9,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "total_screens": 5881,
   "max_screens": 2517,
+  "duration": 121,
   "gross_income": 5308553,
+  "metascore": 42,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 129,
+    "imdb_users": 5325,
+    "us_users": 1501,
+    "aged_18-29": 1473,
+    "non-us_users": 2062,
+    "aged_45+": 913,
+    "aged_30-44": 2022,
+    "males_aged_30-44": 1182,
+    "males_aged_18-29": 657,
+    "males_aged_45+": 625,
+    "aged_under_18": 8,
+    "imdb_staff": 1,
+    "males_under_18": 1,
+    "females_aged_30-44": 810,
+    "females": 2026,
+    "females_under_18": 7,
+    "females_aged_45+": 276,
+    "males": 2579,
+    "females_aged_18-29": 795
+  },
+  "user_review_count": 37,
+  "rating": 6.4,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 5.4,
+    "imdb_users": 6.4,
+    "us_users": 6.2,
+    "aged_18-29": 6.6,
+    "non-us_users": 6.4,
+    "aged_45+": 6.3,
+    "aged_30-44": 6.3,
+    "males_aged_30-44": 6.0,
+    "males_aged_18-29": 6.3,
+    "males_aged_45+": 6.0,
+    "aged_under_18": 6.8,
+    "imdb_staff": 10.0,
+    "males_under_18": 8.0,
+    "females_aged_30-44": 6.7,
+    "females": 6.9,
+    "females_under_18": 6.7,
+    "females_aged_45+": 7.0,
+    "males": 6.1,
+    "females_aged_18-29": 6.9
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 28,
+    "__type__": "datetime.date",
+    "month": 9
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "truiz1",
+      "contents": "Look Beyond the Controversy",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "zoerobe",
+      "contents": "\"Wanna take over a school with me?\"",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Vasiliy Brian Komendant",
+      "contents": "Film with a heart made for those who have one",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "ljblind",
+      "contents": "Like paying to watch a campaign ad",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "contents": "It Raises Some Valid Questions But Still Irritates With A Too Obvious Political Agenda",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "tieman64",
+      "contents": "States of Union",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Ed Uyeshima",
+      "contents": "Two Fine Actresses Lend Heart to a Jargon-Heavy Drama About Charter Schools and Parent Trigger Laws",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Mike Williams",
+      "contents": "Advertisement for Charter School's Disguised as a Movie",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "rannynm",
+      "contents": "It's a Battle for Education in 'Won't Back Down'",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Gyllenhaal Should Have Backed Out.",
+      "review_date": {
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "edwagreen",
+      "contents": "Won't Back Down **1/2 When Education Becomes Slanted",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Propaganda? Maybe, but still a good film",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "Feel good film does exactly that despite a touch of unrealism",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Won't Back Down",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "pc95",
+      "contents": "Fair but Snoozy",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "rgblakey",
+      "contents": "Stand up for better education in Won't Back Down",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "tavm",
+      "contents": "Maggie Gyllenhaal and Viola Davis are compelling in the school drama Won't Back Down",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "jeffrey-hunt",
+      "contents": "Parents want excellence for their kids",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "kidsin cyberacademy",
+      "contents": "The Story is Reality",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "gwen-488-249207",
+      "contents": "The Parent Empowerment Movement Has Begun... Embrace it!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "appianterrapts",
+      "contents": "Dreadful Film in SO Many Ways",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "jaikido",
+      "contents": "corporate propaganda...:-(",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "napierslogs",
+      "contents": "Poorly marketed, received drama trying to fight the good fight",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "Making a difference",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Rob Kall",
+      "contents": "A MUST-WATCH For Activists, Organizers and People Who Want to Make Change Happen",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Beckstar98",
+      "contents": "Should have won an award",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "piedbeauty37",
+      "contents": "Real People Making It Happen",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "LaurieMann",
+      "contents": "Mostly a Political Polemic",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "IJIN_Studios",
+      "contents": "Does the Education of the future matter to you?",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Joseph Waters",
+      "contents": "Propaganda",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "aharmas",
+      "contents": "What is Ms. Davis doing here?",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "Rhee Viewer",
+      "contents": "Seeing through it",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "knash-1",
+      "contents": "Anti - Union Propaganda",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    }
+  ],
+  "release_month": "September",
   "genres": [
     "drama"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 16,
-    "month": 11,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 2603370
+  "opening_weekend_screens": 2515,
+  "name": "Won't Back Down",
+  "num_weekends": 8,
+  "release_day": 28,
+  "critic_review_count": 100
 }

@@ -1,91 +1,1826 @@
 {
-  "num_weekends": 13,
-  "duration": 104,
+  "budget": 30000000,
+  "opening_weekend_income": 41202458,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 11,
+    "__type__": "datetime.date",
+    "month": 5
+  },
+  "budget_currency": "$",
+  "avg_screens": 1483.6923076923076,
   "rating_freq": {
     "1": 1861,
     "2": 1228,
     "3": 2207,
-    "4": 4745,
-    "5": 12058,
-    "6": 28513,
-    "7": 42396,
-    "8": 28605,
-    "9": 13666,
-    "10": 18268
+    "4": 4746,
+    "5": 12062,
+    "6": 28518,
+    "7": 42400,
+    "8": 28612,
+    "9": 13669,
+    "10": 18271
   },
-  "release_year": 2012,
-  "budget_currency": "$",
-  "rating": 6.8,
-  "release_day": 10,
-  "budget": 30000000,
-  "votes_per_demo": {
-    "us_users": 18603,
-    "imdb_users": 153547,
-    "aged_30-44": 37213,
-    "males": 62175,
-    "males_aged_18-29": 33182,
-    "top_1000_voters": 375,
-    "females_aged_30-44": 15224,
-    "imdb_staff": 9,
-    "females": 64259,
-    "females_aged_45+": 2234,
-    "females_under_18": 569,
-    "aged_under_18": 734,
-    "aged_45+": 6352,
-    "females_aged_18-29": 41679,
-    "non-us_users": 69227,
-    "males_aged_45+": 4015,
-    "males_under_18": 157,
-    "aged_18-29": 75645,
-    "males_aged_30-44": 21493
-  },
-  "metascore": 43,
-  "avg_rating_per_demo": {
-    "us_users": 6.5,
-    "imdb_users": 6.8,
-    "aged_30-44": 6.6,
-    "males": 6.7,
-    "males_aged_18-29": 6.9,
-    "top_1000_voters": 5.7,
-    "females_aged_30-44": 6.8,
-    "imdb_staff": 6.6,
-    "females": 7.0,
-    "females_aged_45+": 6.8,
-    "females_under_18": 7.7,
-    "aged_under_18": 7.6,
-    "aged_45+": 6.5,
-    "females_aged_18-29": 7.1,
-    "non-us_users": 6.8,
-    "males_aged_45+": 6.4,
-    "males_under_18": 7.2,
-    "aged_18-29": 7.0,
-    "males_aged_30-44": 6.5
-  },
-  "rating_count": 153547,
-  "critic_review_count": 211,
-  "opening_weekend_income_currency": "$",
-  "name": "The Vow",
-  "user_review_count": 165,
-  "avg_screens": 1483.6923076923076,
-  "release_month": "February",
-  "opening_weekend_date": {
-    "day": 10,
-    "month": 2,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "screens_by_weekend": [
+    2958,
+    2958,
+    3038,
+    2826,
+    2478,
+    2175,
+    1258,
+    479,
+    335,
+    297,
+    218,
+    157,
+    111
+  ],
+  "rating_count": 153574,
+  "total_screens": 19288,
   "max_screens": 3038,
+  "duration": 104,
   "gross_income": 125014030,
+  "metascore": 43,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 375,
+    "imdb_users": 153574,
+    "us_users": 18604,
+    "aged_18-29": 75652,
+    "non-us_users": 69236,
+    "aged_45+": 6353,
+    "aged_30-44": 37221,
+    "males_aged_30-44": 21499,
+    "males_aged_18-29": 33184,
+    "males_aged_45+": 4016,
+    "aged_under_18": 732,
+    "imdb_staff": 9,
+    "males_under_18": 157,
+    "females_aged_30-44": 15226,
+    "females": 64267,
+    "females_under_18": 567,
+    "females_aged_45+": 2234,
+    "males": 62184,
+    "females_aged_18-29": 41684
+  },
+  "user_review_count": 165,
+  "rating": 6.8,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 5.7,
+    "imdb_users": 6.8,
+    "us_users": 6.5,
+    "aged_18-29": 7.0,
+    "non-us_users": 6.8,
+    "aged_45+": 6.5,
+    "aged_30-44": 6.6,
+    "males_aged_30-44": 6.5,
+    "males_aged_18-29": 6.9,
+    "males_aged_45+": 6.4,
+    "aged_under_18": 7.6,
+    "imdb_staff": 6.6,
+    "males_under_18": 7.2,
+    "females_aged_30-44": 6.8,
+    "females": 7.0,
+    "females_under_18": 7.7,
+    "females_aged_45+": 6.8,
+    "males": 6.7,
+    "females_aged_18-29": 7.1
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 10,
+    "__type__": "datetime.date",
+    "month": 2
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "skitz1015",
+      "contents": "Unexpectedly Good, Worth The Money",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Rola2",
+      "contents": "More than a Chick Flick",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Rudy",
+      "contents": "It's a wonderful movie",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Richard Reilly (FFman@comcast.net)",
+      "contents": "Weak Take on Great Romantic Comedy Story",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "Cute and Charming",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Quietb-1",
+      "contents": "So why don't you cry?",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "sddavis63 (revsdd@gmail.com)",
+      "contents": "Surprisingly Cold And Emotionless",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "samsumm1992 (samsumm1992@gmail.com)",
+      "contents": "I wanted to love this movie really I did!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "pencritical",
+      "contents": "Ultimately a depressing and spirit-killing rag of a movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "Bruce722",
+      "contents": "Mediocre chick-flick.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Ketan Gupta",
+      "contents": "The Vow is one of rom-com date film that will be enjoyed with your partner",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "MovieCriticMarvelfan",
+      "contents": "Nice romantic movie",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "planktonrules",
+      "contents": "Sweet but not exactly a romance in the traditional sense.",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "bob_bear",
+      "contents": "Throughly enjoyable...except for the f*rt gag...",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "khart-15185",
+      "contents": "Disappointed",
+      "review_date": {
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "necrosausage",
+      "contents": "Average Hollywood romance that still manages to raise some interesting questions",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Ole Sandbaek Joergensen",
+      "contents": "Was expecting a chick flick",
+      "review_date": {
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "ejwilson-462-733987",
+      "contents": "Disappointed it was not true to the book",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "edwagreen",
+      "contents": "Vow-I Swear that You Will Love It ****",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Eduardo Sandrini",
+      "contents": "Predictable",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "Jack Vasen",
+      "contents": "Not even close to the true story",
+      "review_date": {
+        "year": 2017,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "Breanna Spohn",
+      "contents": "A \"Hopeless Romantics\" Dream",
+      "review_date": {
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "studioAT",
+      "contents": "McAdams shines in this true life rom-com",
+      "review_date": {
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "RavenGlamDVDCollector",
+      "contents": "unforgettable performance by Rachel",
+      "review_date": {
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "alix sullivan",
+      "contents": "Confusing My Heart",
+      "review_date": {
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "claudiatroglia",
+      "contents": "I actually liked it",
+      "review_date": {
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Channing and McAdams Vow to Deliver Romance.",
+      "review_date": {
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "lisafordeay",
+      "contents": "Good",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "Love Renewed!!!",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "marshmellows100",
+      "contents": "Surprisingly Uninspiring",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Watchable standard melodrama",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "netmbng",
+      "contents": "Did not expect it to be this good, great movie for all!",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "edenney01",
+      "contents": "Perfect date movie for all ages, I enjoyed it",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Anshumali Misra (snape87@gmail.com)",
+      "contents": "Makes someone believe in love!!",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "shotgun782",
+      "contents": "Enjoyed it, could have been better...",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "jotix100",
+      "contents": "Promises, promises",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Athar Durrani",
+      "contents": "Anyone care for a remake?",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "Anna Pintus",
+      "contents": "I vow never to watch this again...",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "G Stellray",
+      "contents": "Much better than I expected",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "vincentlynch-moonoi",
+      "contents": "Decent story, impressive Channing Tatum",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "izaac98",
+      "contents": "OK I guess",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "elyar_z",
+      "contents": "Well Cooked Romantic Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "anuradha-datta-87",
+      "contents": "Once Upon A Time? Or Happily Ever After?",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Who'd leave Rachel McAdams",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "cspuria",
+      "contents": "Not so wow but okay",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "bustedsmile",
+      "contents": "Deeper than I expected, I recommend it",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Clyde Leuchtag",
+      "contents": "enjoyable",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "sribornagain-394-460163",
+      "contents": "Missed opportunity",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "TxMike",
+      "contents": "I expected this to be a lightweight chick flick, but it is so much better than that.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "pc95",
+      "contents": "Touching and Whimsical Despite the first 15min",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "glsm_zn_16",
+      "contents": "g\u00fcls\u00fcm \u00f6zen",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "unziartile",
+      "contents": "a beautiful love story",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "kzn34",
+      "contents": "It was a romantic and amazing film.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Abby Johnson",
+      "contents": "Sweet romantic movie",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "joshuaisa4029",
+      "contents": "Not even close to the truth of the real story!",
+      "review_date": {
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "chantalroxanne",
+      "contents": "Better than expected",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "CMTiago",
+      "contents": "A solid movie among the genre",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "rmicozz-931-682008",
+      "contents": "Cute Romantic Movie",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Birmingham College",
+      "contents": "A movie worth watching",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "imvaughn",
+      "contents": "Expected More Very Disappointment",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "thebillionaresclub",
+      "contents": "Not Good",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "IJayJay8D 8D",
+      "contents": "Beautiful",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "joehug",
+      "contents": "Sweet but very disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "Robert G. Small, MD",
+      "contents": "A married couple keep their vows.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "dan jones",
+      "contents": "A Great Movie Destroyed By Bad Writing",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "underpinkstars",
+      "contents": "Vows to be sweet, but frustrating",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "TopekaLass",
+      "contents": "Romantic and heavy on the drama",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Tony Richens",
+      "contents": "Its a 4 years before film , MY GOD",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "yeltzmanmatt",
+      "contents": "Tedious if you're male, probably good if you're female",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "AbysmalRayne",
+      "contents": "Sad but still happy somehow. I love it.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "jdp831",
+      "contents": "\"Moments of Impact Define Who We Are.\"",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "n-mo",
+      "contents": "I died and went to Hipster Hell. What did I do to deserve this?",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "Hellmant",
+      "contents": "This is one of those Hollywood love stories that feels so manufactured and painfully bad that it tends to give all romances a bad name!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "gradyharp",
+      "contents": "'I vow to love you, and no matter what challenges might carry us apart, we will always find a way back to each other.'",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "redcurtain107",
+      "contents": "Ummmm no.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "susankbunce",
+      "contents": "Dire!",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "amahlanand",
+      "contents": "A Sweet Charmer",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Mack Benz",
+      "contents": "Desperation Never Wins",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "Rachel McAdams and Channing Tatum's charm holds the movie together",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "moviegirl181",
+      "contents": "A beautiful and romantic movie",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "kayyhayy89",
+      "contents": "It was believable",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "cheesyfiend",
+      "contents": "This movie in no way, resembles the actual story it is based on!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: The Vow",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "uanna11",
+      "contents": "The Vow",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "Austin Takahashi",
+      "contents": "The Vow (1.5 Stars)",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "shay3624",
+      "contents": "A waste of my intellect and money",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "steviejo46",
+      "contents": "Never seen a movie like it ...",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "preppy-3",
+      "contents": "A very good chick flick",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Dana Al-Basha",
+      "contents": "Redoing It All Over Again?",
+      "review_date": {
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "ratcat0",
+      "contents": "Petty awful",
+      "review_date": {
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "Indiajolly-175-308695",
+      "contents": "Outstanding Movie!",
+      "review_date": {
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "ja-191-280465",
+      "contents": "A taste of true love at its finest",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "juneebuggy",
+      "contents": "Great chick-flick I enjoyed more than I expected to",
+      "review_date": {
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "The Vow",
+      "review_date": {
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "crazy_Lil_angel4534533",
+      "contents": "Not believable",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "Channing Tatum is hot....",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "laurenk93",
+      "contents": "The Vow",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Ed Uyeshima",
+      "contents": "Relentlessly Old-Fashioned \"Date Movie\" Can't Escape Its Soapy Sensibilities",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "rockitoutwithmusic",
+      "contents": "Talk about change real life",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Ryan_MYeah",
+      "contents": "Tedious beyond recommendation.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews...",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "troy-manatunga",
+      "contents": "A movie with heart but the director fails in capturing it all.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "MC1-Bjornson",
+      "contents": "An Earnest Vow . . .",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "kevinspells1990",
+      "contents": "Best movie for young couples, excellent piece of work",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "Trying to get the person you love to fall for you again...",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "rcoss2001 (rcoss2001@yahoo.com)",
+      "contents": "If They Had Stuck With The Truth, They Would Have A Much Better Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "hellokitty_9",
+      "contents": "It's OK",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "stefandance",
+      "contents": "The Vow, an average romantic drama",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "antkat33",
+      "contents": "Not sure about spoilers, but here's my review",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "tavm",
+      "contents": "The Vow seemed believable enough as a based-on-a-true-story film",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Seth Quinn",
+      "contents": "Refused to Be Ordinary, A Good Find",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "blogurious",
+      "contents": "Not too shabby.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "As a guy I have to say that I actually thought this was pretty good & worth watching. I liked it better then the \"Notebook\". I say B+",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "eadaoin_ni",
+      "contents": "Not Good",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "daultman2",
+      "contents": "Didn't Quite Make the Grade",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "Aww harder",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "kgmarra",
+      "contents": "Much worse than expected",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "balski123",
+      "contents": "dumb",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "www.ramascreen.com",
+      "contents": "Sweet and Wonderful",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Lauren Marie",
+      "contents": "More than I expected",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "lamiaaos",
+      "contents": "A Cute Love Story, but\u0085",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "PomeradoEagle",
+      "contents": "Sweet story, time well spent, but I'd recommend waiting to rent it.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Markus Emilio Robinson",
+      "contents": "If you have seen the trailer, then you have seen the movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "Kaylah McPhee",
+      "contents": "Loved it! 10/10",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "At the right moment and the right time",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Evangelia Synodinou",
+      "contents": "Welcome to the soft side",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "antoniomagallon90",
+      "contents": "Probably the best chick-flick film that I've seen and I'm a guy",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "ahawkins628",
+      "contents": "the vow",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Anurag-Shetty",
+      "contents": "A heartfelt film.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "ShelbyTMItchell",
+      "contents": "Valentine's Day Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "jsharma",
+      "contents": "true unconditional love",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "samantha urban",
+      "contents": "All Round Beautiful",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Kay Rae",
+      "contents": "Chick Flick or Just a GOOOD MOVIE!",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "jjnoahjames (jjnoahjames@hotmail.com)",
+      "contents": "V is for Virtuoso.",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "ibautista5216",
+      "contents": "A 10 In my Book!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "an_e_la",
+      "contents": "Great romantic movie that will cause you goosebumps",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Tommy Nelson",
+      "contents": "Not nearly as bad as it could be, but it's still pretty mediocre.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "cultfilmfreaksdotcom",
+      "contents": "Sap w/out Direction",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "redeyedtreefrog",
+      "contents": "Insightful",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Mandy Cowan",
+      "contents": "Better than expected",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "jon.h.ochiai (jochiai@socal.rr.com)",
+      "contents": "Letting go in \"The Vow\"",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Danny Blankenship",
+      "contents": "Touching and emotional heartfelt romantic love drama.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "Really doesn't handle its concept too well.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "bpeterson101",
+      "contents": "Brilliantly Executed! Magnificent Screenplay!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Escapee from the Hallmark Channel",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "phd_travel",
+      "contents": "A Second little Notebook",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Drew Chambers",
+      "contents": "The Vow Summary",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "bennybmoore",
+      "contents": "Why The Low Rating?",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "A nice film for all couples out there.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Twodude Review",
+      "contents": "not bad, just expected more",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "devastationfilms1",
+      "contents": "Clich\u00e9d and cheesy but still a good film.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "MosHr",
+      "contents": "Great drama/romantic-drama. Keeps its distance from clich\u00e9s and cheesiness.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Jessica",
+      "contents": "Awful, AWFUL! Ruined Valentines!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "John Smith",
+      "contents": "One of the worst I've ever seen.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "adamcamps",
+      "contents": "Avoid",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "chrismsawin",
+      "contents": "Downright atrocious",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    }
+  ],
+  "release_month": "February",
   "genres": [
     "drama",
     "romance"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 11,
-    "month": 5,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 41202458
+  "opening_weekend_screens": 2958,
+  "name": "The Vow",
+  "num_weekends": 13,
+  "release_day": 10,
+  "critic_review_count": 211
 }

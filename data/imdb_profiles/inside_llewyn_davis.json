@@ -1,91 +1,3393 @@
 {
-  "critic_review_count": 540,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2014,
-    "month": 3,
-    "day": 7
-  },
-  "release_month": "January",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 12,
-    "day": 6
-  },
-  "metascore": 92,
-  "max_screens": 289,
-  "duration": 104,
-  "rating_count": 103343,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 7,
+  "release_day": 10,
   "avg_rating_per_demo": {
+    "aged_45+": 7.1,
+    "top_1000_voters": 6.8,
+    "males_under_18": 8.4,
+    "imdb_staff": 7.6,
+    "males_aged_18-29": 7.8,
+    "imdb_users": 7.4,
+    "males_aged_45+": 7.1,
+    "aged_18-29": 7.7,
+    "us_users": 7.6,
+    "females_aged_30-44": 7.0,
+    "males": 7.5,
+    "females": 7.2,
+    "females_aged_45+": 7.0,
     "non-us_users": 7.4,
     "females_aged_18-29": 7.4,
-    "females": 7.2,
-    "aged_45+": 7.1,
     "females_under_18": 7.8,
-    "imdb_users": 7.4,
-    "imdb_staff": 7.6,
-    "females_aged_30-44": 7.0,
-    "aged_under_18": 8.3,
-    "males_aged_30-44": 7.3,
-    "top_1000_voters": 6.8,
     "aged_30-44": 7.2,
-    "males_aged_18-29": 7.8,
-    "males": 7.5,
-    "females_aged_45+": 7.0,
-    "males_under_18": 8.4,
-    "us_users": 7.6,
-    "males_aged_45+": 7.1,
-    "aged_18-29": 7.7
+    "aged_under_18": 8.3,
+    "males_aged_30-44": 7.3
   },
-  "user_review_count": 323,
-  "rating_freq": {
-    "1": 1030,
-    "2": 612,
-    "3": 1032,
-    "4": 2048,
-    "5": 5098,
-    "6": 12769,
-    "7": 27268,
-    "8": 29510,
-    "9": 15306,
-    "10": 8670
+  "closing_date": {
+    "month": 3,
+    "year": 2014,
+    "day": 7,
+    "__type__": "datetime.date"
+  },
+  "metascore": 92,
+  "num_weekends": 7,
+  "rating_count": 103374,
+  "gross_income": 13214255,
+  "max_screens": 289,
+  "opening_weekend_screens": 4,
+  "screens_by_weekend": [
+    4,
+    148,
+    289,
+    214,
+    86,
+    107,
+    52
+  ],
+  "opening_weekend_income": 405411,
+  "release_year": 2014,
+  "imdb_user_reviews": [
+    {
+      "contents": "Another \"Not-Easy-to-Watch\" but altogether Impressive Coen Bros movie",
+      "score": 7,
+      "user": "ericjams",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fare Thee Well",
+      "score": 8,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful Cinematography, Captivating, Worth Seeing Again",
+      "score": 9,
+      "user": "Kevin Kacan",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don Quixote with a guitar",
+      "score": 10,
+      "user": "saschakrieger",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Great Coen Brothers Film",
+      "score": 10,
+      "user": "James D",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic sound, atmosphere, acting.",
+      "score": 9,
+      "user": "Dan Franzen (dfranzen70)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The folk scene without the folk or the scene",
+      "score": 5,
+      "user": "rlchianese",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Massively Underwhelming",
+      "score": 3,
+      "user": "lsimon33",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Once you let this film sink in, it turns out to be very rewarding",
+      "score": 8,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lousy",
+      "score": 1,
+      "user": "alroccamo",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Marvellous musical masterpiece",
+      "score": 9,
+      "user": "paultreloar75",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Save your money for anything else",
+      "score": 1,
+      "user": "cdkarp",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fake & phony Folk",
+      "score": 1,
+      "user": "Zettelhead",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "But it didn't go anywhere, what's the point?!",
+      "score": 5,
+      "user": "KenToo",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nowhere Near The Coen's Best",
+      "score": 1,
+      "user": "Will Merrett",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disgusting Existential Nightmare",
+      "score": 1,
+      "user": "deindorfer",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Some great atmosphere, but story of clueless, narcissistic folk singer, really isn't worth telling",
+      "score": 4,
+      "user": "Turfseer",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Gloomy Innocence Of The Coen Bros",
+      "score": 10,
+      "user": "Harry Paulson",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A soulful and beautifully constructed portrait of a man and his music",
+      "score": 9,
+      "user": "Anna Rob",
+      "review_date": {
+        "month": 6,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One for Coen fans and folk fans",
+      "score": 8,
+      "user": "bob-the-movie-man",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oscar Isaac is Incredible!  Coens Best Since 'Fargo'",
+      "score": 10,
+      "user": "Clayton Davis (Claytondavis@awardscircuit.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film is, without doubt, one of the most boring films I have ever seen.",
+      "score": 1,
+      "user": "erniedett",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Definitely made for the critics but misses its mark with me",
+      "score": 5,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Llewyn Davis has a very, very bad week",
+      "score": 4,
+      "user": "rcastl2335",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring, Boring, Boring",
+      "score": 1,
+      "user": "register-533-564936",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Looks like mud, sounds awful",
+      "score": 1,
+      "user": "niederberger",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flawless film that shows everyone how great Oscar Isaac is (*****)",
+      "score": 10,
+      "user": "Film Fan Perspective (filmfanperspective@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A film of monumental disappointment",
+      "score": 1,
+      "user": "mora do",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I guess P.T. Barnum was right",
+      "score": 1,
+      "user": "Love Skiing",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Inside is empty",
+      "score": 2,
+      "user": "TotonotinKansas",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cat lives epic success, but aspiring folksinger loses everything.",
+      "score": 9,
+      "user": "maurice yacowar",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Didn't get it",
+      "score": 2,
+      "user": "jacabiya",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside Llewyn Davis is half empty.",
+      "score": 6,
+      "user": "st-shot",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Aggressively Unpleasant",
+      "score": 5,
+      "user": "jmillerdp",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stay Outside of 'Inside Llewyn Davis'",
+      "score": 6,
+      "user": "Bill Jordan",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Glossy portrait of a miserable man",
+      "score": 5,
+      "user": "t isgood",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An under the radar, anti Hollywood masterpiece",
+      "score": 10,
+      "user": " (shimmyk26@yahoo.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"So did you bring your dick along too?\"",
+      "score": 8,
+      "user": "punishmentpark",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the Chilly Blue palette of the folk of NYC",
+      "score": 10,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Darker Slice of Life Tribute to Folk Music",
+      "score": 6,
+      "user": "wlee08",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A lot to like, but...",
+      "score": 6,
+      "user": "mutty-mcflea",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coen brothers recreate an era",
+      "score": 7,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sweet and sad like a good folk song",
+      "score": 6,
+      "user": "LouE15",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incredibly dull, strained script, difficult acting, many pointless scenes.",
+      "score": 3,
+      "user": "M Nissley",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This emperor has no clothes.",
+      "score": 5,
+      "user": "nick-1168",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Interesting View of a Character No More/No Less",
+      "score": 8,
+      "user": "Hitchcoc",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Its hard to like this movie, but I love it..",
+      "score": 8,
+      "user": "S Unit",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hipster cinema at it's worst",
+      "score": 4,
+      "user": "inspektorr",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flatter to deceive?",
+      "score": 3,
+      "user": "kieronboote-134-969472",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow - where was the plot or script-writers here?",
+      "score": 3,
+      "user": "MovieBuff57",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meh film of little warmth and compassion",
+      "score": 5,
+      "user": "mark palmos",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Grim, Depressing and TOTALLY unenjoyable except for the music",
+      "score": 2,
+      "user": "rogermass",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overrated??",
+      "score": 6,
+      "user": "c_masten",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What Do You Call a Guitarist without a Girlfriend?  Homeless",
+      "score": 5,
+      "user": "kgprophet",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "absolute garbage from start to finish",
+      "score": 3,
+      "user": "grumpy-3",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Left wanting much more",
+      "score": 6,
+      "user": "omalmi",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "O Cohen Bros. Where Art Thou?",
+      "score": 1,
+      "user": "J-Alan-Davis",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Are you kucking fidding me?",
+      "score": 3,
+      "user": "cordenw",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The King's New Clothes",
+      "score": 4,
+      "user": "jhskyline",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you are a professional critic, you will probably love it, if not, there is a good chance you will hate it",
+      "score": 5,
+      "user": "Jim Beller",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "White White White",
+      "score": 7,
+      "user": "soapsuit",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "woo",
+      "score": 10,
+      "user": "AlvaCalva",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An uninteresting story you endure but the pay-off never comes",
+      "score": 1,
+      "user": "Enrique G\u00c3\u00b3l",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entirely Pointless",
+      "score": 5,
+      "user": "Larry the Lobster",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Down and Out in Greenwich Village",
+      "score": 4,
+      "user": "OldeCars",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not bad, not great",
+      "score": 5,
+      "user": "jackmaaan",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excruciatingly boring and not going nowhere.",
+      "score": 1,
+      "user": "billypilgrim23",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Profoundly Disappointing",
+      "score": 5,
+      "user": "samkan",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tedious, with tuneless music to boot",
+      "score": 1,
+      "user": "phil_gee",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the 60s people, scene, nor music... and a failure as fiction too.",
+      "score": 5,
+      "user": "bmconfor",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "can I get my money back?",
+      "score": 3,
+      "user": "peter beer",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The \"Artist\" as a Timeless Clich\u00e9",
+      "score": 5,
+      "user": "Rand Bishop",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "God awful",
+      "score": 1,
+      "user": "jcp1957",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "worst Coen Bros film by far",
+      "score": 1,
+      "user": "Daniel Ramadge",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "beautiful, powerful film",
+      "score": 10,
+      "user": "framptonhollis",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I dare you to stay awake during this 'movie'",
+      "score": 1,
+      "user": "dontletthelabellabelyoutv",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Credit the cat!",
+      "score": 2,
+      "user": "candyapplegrey",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside Llewyn Davis delivers a harrowing and realistic interpretation of reality: Regardless of skill, one cannot achieve success independent of monetary sustenance.",
+      "score": 8,
+      "user": " (zrahman@scienceleadership.org)",
+      "review_date": {
+        "month": 10,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Behind the moody enigma, a simple but beautiful statement: \"just respect the music\"...",
+      "score": 9,
+      "user": "ElMaruecan82",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I don't see any green it!",
+      "score": 8,
+      "user": "riffraffrichard",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heartbreaking movie that tells of what the 'real' world looks like",
+      "score": 8,
+      "user": "Mostafa Amr",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Struggle",
+      "score": 9,
+      "user": "Mees T.",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Music Provides a Gateway to the Hidden Soul",
+      "score": 7,
+      "user": "Sean Lamberger",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A 1960's folk musician, as told through Bronze Age literature",
+      "score": 9,
+      "user": "Michael Maggiano",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great plot, great music, interesting characters, intimate story.",
+      "score": 10,
+      "user": "seancassidy-32550",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Au Revoir",
+      "score": 9,
+      "user": "midas-jacobs",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another fantastic film from the Coen Brothers",
+      "score": 9,
+      "user": "SupremeCaramel",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "another excellent work of the Coen",
+      "score": 8,
+      "user": "Miguel Neto",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Squeaky clean shiny sets and remarkable bit players .....",
+      "score": 7,
+      "user": "PimpinAinttEasy",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The story is quite trivial and uninspiring, with little humour.",
+      "score": 6,
+      "user": "Mobithailand",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The best film of the 2010's so far",
+      "score": 10,
+      "user": "Sam Johnson",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Inside Llewyn Davis' Review: A Quiet Triumph from the Brilliant Coen Brothers, Oscar Isaac Truly Delivers - 9ish",
+      "score": 9,
+      "user": "ishMovies",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Au revoir.",
+      "score": 8,
+      "user": "sharky_55",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cohen brothers do it again",
+      "score": 10,
+      "user": "Bobby Rayat",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Play it Again, Llewyn",
+      "score": 8,
+      "user": "JohnnyWeissmuller",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sometimes change is Good",
+      "score": 9,
+      "user": "siwyaf",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coen Bros, not Disney",
+      "score": 9,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What to Expect: Inside Llewyn Davis",
+      "score": 7,
+      "user": "Film Watchin Fool",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Realistic View of The Life of a Musician!!",
+      "score": 9,
+      "user": "vishaal811",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A pleasant surprise",
+      "score": 9,
+      "user": "salvador-97",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Quite A Classic",
+      "score": 6,
+      "user": "happy_hangman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside The Coen brothers atmosphere",
+      "score": 8,
+      "user": "Diego Sandoval",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A classic Inside and Out Llewyn",
+      "score": 7,
+      "user": "Timothy Pinzone",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Very Pleasant Surprise",
+      "score": 10,
+      "user": "dallasryan",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Little Too Much Depriciacion",
+      "score": 6,
+      "user": "opointe",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coen Brothers' ode to the heart of a true artist",
+      "score": 9,
+      "user": "Himanshu Mishra",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unrewarding",
+      "score": 4,
+      "user": "Nick B",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Folk fans will love it",
+      "score": 7,
+      "user": "Adam Peters",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Realistic enough to make performers wince",
+      "score": 8,
+      "user": "felisgris",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Lovely music and good acting are just not good enough for a Coen Brothers film.",
+      "score": 6,
+      "user": "braddugg",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of their best",
+      "score": 8,
+      "user": "hou-3",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Watchable, Witty Movie!",
+      "score": 6,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Coens best and one of the years best.",
+      "score": 8,
+      "user": "coryspencer666",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A well made and acted tale but slight by the Coens lofty standards",
+      "score": 7,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another great collaboration between the Coens and T Bone Burnett",
+      "score": 7,
+      "user": "Robert Thompson (justbob1982)",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a testament to the cool Coens brand of cinema",
+      "score": 8,
+      "user": "thegodfathersaga",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The harsh life of a folk singer",
+      "score": 7,
+      "user": "valadas",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Engimatic But Insightful Saga",
+      "score": 5,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not their best",
+      "score": 5,
+      "user": "ldsheridan",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside Llewyn Davis is a real human being",
+      "score": 8,
+      "user": "Jack Higginbotham",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For Musicians",
+      "score": 9,
+      "user": "Matthew Broughton",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Movie is so good!",
+      "score": 8,
+      "user": "tiago-cabral99",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fascinating period, fascinating character",
+      "score": 10,
+      "user": "tnrcooper",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Man i hate these endings",
+      "score": 6,
+      "user": "klynken",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A musical time bubble",
+      "score": 7,
+      "user": "conannz",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Coens return to form with tale of struggling musician in tribute to 60s New York folk scene",
+      "score": 7,
+      "user": "MorgothsReach",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "INSIDE this character drama you will find....",
+      "score": 8,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Coens in a minor key",
+      "score": 6,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coenheads disappoint here a bit, but Mr. Isaac is where is at!",
+      "score": 7,
+      "user": "meeza (themeezaman@hotmail.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Coen's at their most melancholic",
+      "score": 9,
+      "user": "tomgillespie2002",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Coen brothers' best film in over a decade",
+      "score": 8,
+      "user": "Gabriel Teixeira",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How are the Coen Brothers this talented?",
+      "score": 8,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stuck In the Groove",
+      "score": 7,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Missed opportunity",
+      "score": 5,
+      "user": "jtypatrick",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews",
+      "score": 6,
+      "user": "capone666",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Times They Are a-Changin'",
+      "score": 9,
+      "user": "Milan",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Yet Another Winner from the Coen Brothers!",
+      "score": 9,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What to do when all meaning is gone",
+      "score": 8,
+      "user": "CMTiago",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Coen Brothers film. Therefore, a good film.",
+      "score": 8,
+      "user": "eddyphillis",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A pleasant watch - unless (folk) music is uninviting for you",
+      "score": 7,
+      "user": "Bene Cumb",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uncredited",
+      "score": 8,
+      "user": "PipAndSqueak",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Good Film about a Very Unlikeable Guy",
+      "score": 7,
+      "user": "danew13",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting Character Study",
+      "score": 7,
+      "user": "billcr12",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Serious Musician!!",
+      "score": 9,
+      "user": "Siddharth kalkal",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside Llewyn Davis Review",
+      "score": 9,
+      "user": "Jonathan Edge",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The songs are absolutely beautiful and make up one of the year's best soundtracks!",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Inside Llewyn Davis\" is a joyless meditation on some very meaningful music.",
+      "score": 1,
+      "user": "Dave McClain (dave-mcclain@hotmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "passionless",
+      "score": 2,
+      "user": "BrotherRat",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Avoid if unless you are a huge folk music fan",
+      "score": 1,
+      "user": "b_fett66",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "***",
+      "score": 8,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "self-indulgent. They must hate folk music and folk musicians",
+      "score": 1,
+      "user": "brucetwo-2",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Contrived Coen Creation",
+      "score": 5,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Either you get this film or you don't.",
+      "score": 10,
+      "user": "WarmthandGreenPaper",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a continuation of the dark sense of humour that the Coen Brothers have thrived on...",
+      "score": 9,
+      "user": "cleary-joshua",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really great music movie/drama",
+      "score": 9,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No no, Llewyn HAS the cat",
+      "score": 9,
+      "user": "pablo2896",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plunges you into its character's world and bathes you with his emotions",
+      "score": 10,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good movie, not for all",
+      "score": 8,
+      "user": "Morninghiro",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Coen brothers make beautiful music together",
+      "score": 10,
+      "user": "Amanda Sage",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Coens explore the alleys and doorways of old Greenwich Village",
+      "score": 9,
+      "user": "The_late_Buddy_Ryan",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stuck in the middle of nowhere",
+      "score": 4,
+      "user": "peppecannone",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Must be an east coast thing - as a singer/musician, I could not relate",
+      "score": 4,
+      "user": "bob-870-929158",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tell Me Who You Love",
+      "score": 4,
+      "user": "SusanHampson",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yawn.",
+      "score": 5,
+      "user": "Maleplatypus",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside Llewyn Davis",
+      "score": 10,
+      "user": "cultfilmfan",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So what?",
+      "score": 5,
+      "user": "Patricia756",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A funny movie but...",
+      "score": 6,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Vivid Recreation of a Moment in American Popular Culture",
+      "score": 9,
+      "user": "l_rawjalaurence",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The acting is very good and the movie is OK but if you aren't a Coen Brothers fan you may not totally get into it.",
+      "score": 6,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting film",
+      "score": 7,
+      "user": "bbewnylorac",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Honest",
+      "score": 6,
+      "user": "dobner",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the Coens' Finest, But Still Worth Your Time",
+      "score": 8,
+      "user": "griffolyon12",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Never has an elegy been so full of life, incident and gentle, comic tragedy.",
+      "score": 8,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well-acted, if flawed melancholy drama with a unique touch of Coen brothers' dark sense of humour.",
+      "score": 9,
+      "user": "caseymoviemania",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strumimg our way through irony",
+      "score": 6,
+      "user": "Russell Abraham (ra@russellabraham.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You like happy endings, don't you?",
+      "score": 7,
+      "user": "bb_man94",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Life isn't fair",
+      "score": 8,
+      "user": "Laakbaar",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Anti-Epic Coen Brothers Tale of an Anti-Hero",
+      "score": 7,
+      "user": "Barky44 (barkybree@cox.net)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Coens need a hug!",
+      "score": 8,
+      "user": "drew_atreides",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Egocentricity Causes Self Destruction",
+      "score": 8,
+      "user": "tightline49",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Coen Musical",
+      "score": 8,
+      "user": "anarresa",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Of its time but, again, are the brothers asking us or telling us?",
+      "score": 7,
+      "user": "barrymahonb",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing to say. Nothing to sing. Nothing to. . . Enjoy.",
+      "score": 1,
+      "user": "Critical Eye UK",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Joel and Ethan, I want my money back",
+      "score": 1,
+      "user": "atman987",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A more stripped down Coen Brothers which slowly grows on you.",
+      "score": 9,
+      "user": "johnnymurphy15",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A solid, symbolic character study from the Coen Brothers",
+      "score": 8,
+      "user": "freemantle_uk",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For true film lovers",
+      "score": 8,
+      "user": "Mark Ng",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Defies all expectations",
+      "score": 10,
+      "user": "mrinaldutta90",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Gorgeous Elegy from the Coen Brothers",
+      "score": 10,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coen's best since No Country for Old Men",
+      "score": 9,
+      "user": "jackasstrange",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pet peeve of mine...",
+      "score": 7,
+      "user": "G G",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A MUST WATCH for any music fan",
+      "score": 9,
+      "user": "Daniel Prichard",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Folk Music: A True Underdog Story",
+      "score": 10,
+      "user": "Alex Gidley",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A case study in the beautifully bleak which pivots around the crumbling fortunes of folk musician Llewyn Davis",
+      "score": 9,
+      "user": "VanderlyleCrybabyGeek",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I get it, many others missed the point.",
+      "score": 8,
+      "user": "Ron S",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If Bob Dylan were Jesus Christ, this would be 'Life of Brian'",
+      "score": 9,
+      "user": "justincward",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great film, a beautiful masterpiece",
+      "score": 9,
+      "user": "ann-rock-girl",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Outside looking in",
+      "score": 8,
+      "user": "rooee",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mystifying, visually impressive and nostalgic",
+      "score": 9,
+      "user": "Gage Diabo",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Empty Amusement with a Flimsy Script",
+      "score": 3,
+      "user": "ellisonhorne",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unconventional moody tale",
+      "score": 8,
+      "user": "spaceman88",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tired Film",
+      "score": 3,
+      "user": "mistarkus",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why do I keep falling for the Coen Brothers label?",
+      "score": 4,
+      "user": "Joe Cronley",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really long and very boring",
+      "score": 4,
+      "user": "mrdougmoodie-933-18832",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Coen's... enough said",
+      "score": 9,
+      "user": "Brian Taylor",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I want my time back.",
+      "score": 2,
+      "user": "jnvrmind789",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not one of the Coen Brothers' best films",
+      "score": 4,
+      "user": "Ruben Mooijman",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Let's say you've forgotten why you should slit your wrists ...",
+      "score": 1,
+      "user": "salebarn",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\" Oh it's fare thee well my darlin' true,I'm leavin' in the first hour of the morn.\"",
+      "score": 10,
+      "user": "morrison-dylan-fan",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Beautiful' is the Only Word I Can Think of to Describe Inside Llewyn Davis",
+      "score": 10,
+      "user": "SquigglyCrunch",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A beautiful, charming, fairytale of New York",
+      "score": 9,
+      "user": "James Palmer",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a great addition to the Coen Bros. library.",
+      "score": 9,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I can't believe I waited so long to watch it",
+      "score": 8,
+      "user": "Jack Munson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside Llewyn Davis:  Skip to my Llew!",
+      "score": 9,
+      "user": "Ck dexterhaven",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant",
+      "score": 10,
+      "user": "PacificHeights",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "all the other reviews are on spot",
+      "score": 8,
+      "user": "hamoo",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really great movie with an excellent soundtrack",
+      "score": 9,
+      "user": "Joenovak32",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Merciless Truth",
+      "score": 7,
+      "user": "Yulia Pomarina",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fantastic Drama peace",
+      "score": 9,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's about the journey, not the destination",
+      "score": 8,
+      "user": "grantss",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A melancholy but subtly humorous character study",
+      "score": 7,
+      "user": "brchthethird",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside Llewyn Davis",
+      "score": 8,
+      "user": "Jackson Booth-Millard",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Interesting look at folk music",
+      "score": 8,
+      "user": "monstermayhem32",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If The Sun Also Rises were Set in the Sixties...",
+      "score": 8,
+      "user": "az95",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretentious Drivel",
+      "score": 5,
+      "user": "handymanrandysavage",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An epic of what the pain of trying to be something great in this world can really feel like.",
+      "score": 3,
+      "user": "steve_plumber_man",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Different Kind Of Film",
+      "score": 8,
+      "user": "TheFilmGuy1",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside Llewyn Davis : Play it again, Llewyn",
+      "score": 9,
+      "user": "forlornnesssickness",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terribly Disappointing",
+      "score": 2,
+      "user": "Michael P. Haring",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside Llewyn Davis",
+      "score": 10,
+      "user": "Jacob-charnick",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "ambling, watchable movie",
+      "score": 5,
+      "user": "Charles Herold (cherold)",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everything you touch turns to shite, you're like king Midas's idiot brother.",
+      "score": 8,
+      "user": "Ben Larson",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hollywood don't like singing actors and some irony",
+      "score": 9,
+      "user": "pd2905",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Believe me it is not your regular movie but looks like one!",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Llewyn Davis's Week In A Well-Carved Nutshell. \u2666 85%",
+      "score": 9,
+      "user": "Tejas Nair",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A complex and touching character study",
+      "score": 8,
+      "user": "Bruno Youn",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Coen Brothers masterpiece",
+      "score": 9,
+      "user": "philthegreatone-786-63058",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An anti-hero story,  inspiring human compassion",
+      "score": 7,
+      "user": "simona gianotti",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't Hang Them Yet",
+      "score": 10,
+      "user": "ossyguy",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Subtle tale of folk music & cats. Sharply written, viciously funny.",
+      "score": 8,
+      "user": "TheSquiss",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another classic from the Coen Brothers",
+      "score": 9,
+      "user": "Figgy66-915-598470",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Excellent,Unforgettable And Funny Comedy-Drama From The Coen Brothers",
+      "score": 10,
+      "user": "jcbutthead86",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Coens' Coldest",
+      "score": 5,
+      "user": "burger1124 (burger1124@yahoo.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What was the point again?",
+      "score": 5,
+      "user": "kitchent",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coen Brothers Will Be Remembered for Long Time.",
+      "score": 9,
+      "user": "BrentAMG",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What's the frequency, Kenneth?",
+      "score": 8,
+      "user": "Tad Pole",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A rare gem in this era",
+      "score": 8,
+      "user": "Ooi Kok Hin",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Isaac is phenomenal as the titular character trying to find a balance between art, business, life and relationship in this instant Coen classic.",
+      "score": 10,
+      "user": "Matt Greene",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "you never go wrong with the coen brothers",
+      "score": 9,
+      "user": "joaopedrolopes",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Enjoyable Film",
+      "score": 8,
+      "user": "Saham Hosseini",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Were we all watching the same movie?",
+      "score": 4,
+      "user": "flikemedia",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Sad Reality of Show Business",
+      "score": 10,
+      "user": "FilmMuscle",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "All the right notes",
+      "score": 10,
+      "user": "Thomas (filmreviews@web.de)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Leaving the theater silent with a touch of melancholy.",
+      "score": 8,
+      "user": "graupepillard",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside Llewyn Davis is a heartbreak of a film that will perforate your emotional husk, courtesy of Latino actor Oscar Isaac and the Coen Brothers.",
+      "score": 8,
+      "user": "unirico41",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coen Brothers score again.",
+      "score": 9,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A captivating film. I count myself lucky to have seen it.",
+      "score": 9,
+      "user": "nixon carmichael",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not what folk music was about",
+      "score": 6,
+      "user": "Red-125",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too much avant, not enough garde.",
+      "score": 4,
+      "user": "bartenderbilly60",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Started nowhere, went nowhere",
+      "score": 4,
+      "user": "k-cartwright",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No buzz - good intro to Mr Van Ronk though",
+      "score": 4,
+      "user": "thos173",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coen Brothers Continue Their Excellence with Oscar Isaac Anchoring",
+      "score": 8,
+      "user": "Steven",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absurdity, the spice of life",
+      "score": 8,
+      "user": "David Horton",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The time is right, but the personality is all wrong!  **** Spoiler Alerts****",
+      "score": 10,
+      "user": "ZedMovie",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The French love being caressed clockwise",
+      "score": 8,
+      "user": "Dr Jacques COULARDEAU",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "no sense",
+      "score": 1,
+      "user": "richardjp-1",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Stands as some of their very best work",
+      "score": 10,
+      "user": "Likes_Ninjas90",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A tribute to every aspiring artist in the world.",
+      "score": 8,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Only go if you love the Coen Brothers",
+      "score": 1,
+      "user": "ligaflwa",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So this is why I dislike folk music?",
+      "score": 1,
+      "user": "zken",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Classic Indeed",
+      "score": 8,
+      "user": "yashmishra91",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside Llewyn Davis embodies immense soul and spirit",
+      "score": 7,
+      "user": "Vibha",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Greenwich village odyssey",
+      "score": 10,
+      "user": "charlenerose",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Song for the Asking",
+      "score": 10,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A meditative comedy",
+      "score": 9,
+      "user": "Markus Emilio Robinson",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Despite being close to the age of 50, the Coen brothers still underwent a very welcome process of maturing with Inside Llewyn Davis",
+      "score": 8,
+      "user": "axel-koch",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Llewyn is a real human being",
+      "score": 9,
+      "user": "Howard Schumann",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Subtle Mastery of the Craft of Film Making",
+      "score": 9,
+      "user": "spm08588",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watch and Learn",
+      "score": 9,
+      "user": "sleemon-868-665974",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Does anyone really get it?",
+      "score": 8,
+      "user": "aharmas",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inside Llewyn Davis, A Film About Artistic Integrity",
+      "score": 8,
+      "user": "alanhull1",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Oh! What an unlucky man he was",
+      "score": 8,
+      "user": "jkbonner1",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Answer My Friend",
+      "score": 9,
+      "user": "cultfilmfreaksdotcom",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Coen Brothers' ode to the early '60s NYC folkie scene",
+      "score": 8,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring",
+      "score": 2,
+      "user": "edina m.",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coen Brothers' love letter to folk music.",
+      "score": 6,
+      "user": "aglowery",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Coen Brothers do it again and again.",
+      "score": 8,
+      "user": "JoshuaDarpino",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "piece of art",
+      "score": 7,
+      "user": "NickSkouras",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Time stood still",
+      "score": 8,
+      "user": "rolloffdebunk",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "See Inside Llewyn Davis a second time: It's worth it!",
+      "score": 9,
+      "user": "Mark-199",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Even though more subdued and artistic, 'Llewyn Davis' is another great Coen film",
+      "score": 9,
+      "user": "Movie_Muse_Reviews",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "many layers that some may miss",
+      "score": 7,
+      "user": "Jampa71",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Please, Mr. Kennedy",
+      "score": 10,
+      "user": "bensfiction",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unlikable and amazingly overrated.",
+      "score": 3,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another fine film from the Coen brothers; catch it if you can.",
+      "score": 10,
+      "user": "suite92",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What?  No focus on the folk movement's politics?",
+      "score": 2,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent JT",
+      "score": 10,
+      "user": "yusuf_fb_72",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Typical Coen brothers movie",
+      "score": 8,
+      "user": "diana_phillips",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Its about the time... and music.",
+      "score": 8,
+      "user": "zakwaripop",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 104,
+  "votes_per_demo": {
+    "aged_45+": 9428,
+    "top_1000_voters": 478,
+    "males_under_18": 247,
+    "imdb_staff": 17,
+    "males_aged_18-29": 31976,
+    "imdb_users": 103374,
+    "males_aged_45+": 7736,
+    "aged_18-29": 40317,
+    "us_users": 18096,
+    "females_aged_30-44": 5169,
+    "males": 71945,
+    "females": 15381,
+    "females_aged_45+": 1514,
+    "non-us_users": 52739,
+    "females_aged_18-29": 7852,
+    "females_under_18": 46,
+    "aged_30-44": 34357,
+    "aged_under_18": 299,
+    "males_aged_30-44": 28686
   },
   "genres": [
     "drama",
     "music"
   ],
-  "budget": 11000000,
-  "rating": 7.4,
-  "name": "Inside Llewyn Davis",
-  "opening_weekend_income": 405411,
-  "avg_screens": 128.57142857142858,
-  "gross_income": 13214255,
-  "votes_per_demo": {
-    "non-us_users": 52726,
-    "females_aged_18-29": 7851,
-    "females": 15378,
-    "aged_45+": 9425,
-    "females_under_18": 46,
-    "imdb_users": 103343,
-    "imdb_staff": 17,
-    "females_aged_30-44": 5167,
-    "aged_under_18": 298,
-    "males_aged_30-44": 28675,
-    "top_1000_voters": 478,
-    "aged_30-44": 34344,
-    "males_aged_18-29": 31975,
-    "males": 71929,
-    "females_aged_45+": 1514,
-    "males_under_18": 246,
-    "us_users": 18093,
-    "males_aged_45+": 7733,
-    "aged_18-29": 40315
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 1030,
+    "2": 612,
+    "3": 1032,
+    "4": 2049,
+    "5": 5099,
+    "6": 12772,
+    "7": 27273,
+    "8": 29524,
+    "9": 15314,
+    "10": 8669
   },
-  "release_year": 2014,
+  "release_month": "January",
+  "budget": 11000000,
   "budget_currency": "$",
-  "release_day": 10
+  "total_screens": 900,
+  "year": 2013,
+  "rating": 7.4,
+  "critic_review_count": 540,
+  "opening_weekend_date": {
+    "month": 12,
+    "year": 2013,
+    "day": 6,
+    "__type__": "datetime.date"
+  },
+  "name": "Inside Llewyn Davis",
+  "user_review_count": 323,
+  "avg_screens": 128.57142857142858
 }

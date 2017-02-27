@@ -1,90 +1,1384 @@
 {
-  "critic_review_count": 251,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2014,
-    "month": 2,
-    "day": 7
-  },
-  "release_month": "August",
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 8,
-    "day": 23
-  },
-  "metascore": 82,
-  "max_screens": 75,
-  "duration": 96,
-  "rating_count": 60361,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 12,
+  "release_day": 23,
   "avg_rating_per_demo": {
+    "aged_45+": 7.7,
+    "top_1000_voters": 6.9,
+    "males_under_18": 8.5,
+    "imdb_staff": 8.8,
+    "males_aged_18-29": 8.2,
+    "imdb_users": 8.0,
+    "males_aged_45+": 7.6,
+    "aged_18-29": 8.2,
+    "us_users": 8.3,
+    "females_aged_30-44": 7.9,
+    "males": 8.0,
+    "females": 8.2,
+    "females_aged_45+": 8.1,
     "non-us_users": 7.9,
     "females_aged_18-29": 8.3,
-    "females": 8.2,
-    "aged_45+": 7.7,
     "females_under_18": 8.7,
-    "imdb_users": 8.0,
-    "imdb_staff": 8.8,
-    "females_aged_30-44": 7.9,
-    "aged_under_18": 8.5,
-    "males_aged_30-44": 7.7,
-    "top_1000_voters": 6.9,
     "aged_30-44": 7.8,
-    "males_aged_18-29": 8.2,
-    "males": 8.0,
-    "females_aged_45+": 8.1,
-    "males_under_18": 8.5,
-    "us_users": 8.3,
-    "males_aged_45+": 7.6,
-    "aged_18-29": 8.2
+    "aged_under_18": 8.5,
+    "males_aged_30-44": 7.7
   },
-  "user_review_count": 125,
+  "closing_date": {
+    "month": 2,
+    "year": 2014,
+    "day": 7,
+    "__type__": "datetime.date"
+  },
+  "metascore": 82,
+  "num_weekends": 12,
+  "rating_count": 60385,
+  "gross_income": 1010414,
+  "max_screens": 75,
+  "opening_weekend_screens": 4,
+  "screens_by_weekend": [
+    4,
+    16,
+    63,
+    75,
+    55,
+    30,
+    18,
+    8,
+    6,
+    4,
+    3,
+    2
+  ],
+  "opening_weekend_income": 56206,
+  "release_year": 2013,
+  "imdb_user_reviews": [
+    {
+      "contents": "Near Perfect Film",
+      "score": 10,
+      "user": "alexhughbrown",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great film",
+      "score": 10,
+      "user": "buzzbruin-650-409183",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "May just be the best film of the year",
+      "score": 10,
+      "user": "Howard Schumann",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The snub of the year",
+      "score": 10,
+      "user": "bigmystery23",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Short Term 12 best film of SXSW",
+      "score": 10,
+      "user": "mackistner",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A passionate and powerful film headlined by Brie Larson's terrific performance.",
+      "score": 8,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Forget about the Squid and The Whale, the Octopus raps!",
+      "score": 10,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Here We Go",
+      "score": 8,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cinema that pretends to be good.",
+      "score": 4,
+      "user": "Harrybalzak",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The short term quickly becomes the agonizingly (too) long",
+      "score": 3,
+      "user": "j_smith_7",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a magical film.",
+      "score": 10,
+      "user": "Charles Gough",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "When I say I love something ...",
+      "score": 10,
+      "user": "iwritewell",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Occasionally harrowing, but also sentimental look at foster care treatment facility, lacks an identifiable antagonist",
+      "score": 5,
+      "user": "Turfseer",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simple beauty",
+      "score": 8,
+      "user": "frenchjuice",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "FANTASTIC. Most underrated movie of the year",
+      "score": 10,
+      "user": "jenniferwitkowski",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Being a product of circumstance over free thinking.",
+      "score": 5,
+      "user": "supatube",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Emotionally Devastating",
+      "score": 10,
+      "user": "Dylan Kalaydjian (criticulousentertainment@gmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Living a life not knowing what a normal life's like.",
+      "score": 8,
+      "user": "Ben Larson",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "How to warm a heart",
+      "score": 9,
+      "user": "eugeniacartron",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Way over-rated  !!",
+      "score": 6,
+      "user": "johntheholder",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A wonderfully heartfelt  film- A much watch!!",
+      "score": 10,
+      "user": "oisintomas",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Short Term 12' might just be the best film of the year.",
+      "score": 10,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Realism allows comedy and drama to come together in a fully likable manner",
+      "score": 8,
+      "user": "napierslogs",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just great",
+      "score": 9,
+      "user": "mrshev",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Movie Of 2013",
+      "score": 10,
+      "user": "Bearded MovieGuy",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "And the shark replied, \"because that's what friends are for.\"",
+      "score": 10,
+      "user": "Philip Pollack",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Where is the Love, Academy?",
+      "score": 10,
+      "user": "g-bodyl",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Short and Sweet Review of One of The Best Independent Films Around",
+      "score": 10,
+      "user": "Joy Dalguntas",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Still crying over this.",
+      "score": 10,
+      "user": "Kevin",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A star making film for Cretton and actress Brie Larson",
+      "score": 8,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome!",
+      "score": 10,
+      "user": "MariaBico",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Good Movie With a Great Performance by Brie Larson",
+      "score": 8,
+      "user": "Bryan Sills",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great film to appreciate what you have",
+      "score": 9,
+      "user": "tambuzi",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly soulful and rich emotions",
+      "score": 9,
+      "user": "aldri-feb",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Short Term 12\" it's a ride filled with drama, joy and moving moments.",
+      "score": 9,
+      "user": "Tiago Ricardo",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Something of a Missed Opportunity",
+      "score": 5,
+      "user": "l_rawjalaurence",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Real, Dramatic and Captivating Insight.",
+      "score": 8,
+      "user": "Rob Wright",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Superb Performances, Underwhelming Character Development,",
+      "score": 7,
+      "user": "Dillon Harris",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Captures the hermetic, strange, painful, troubling world of a residential institution",
+      "score": 10,
+      "user": "LyceeM16",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Term 12.",
+      "score": 10,
+      "user": "morrison-dylan-fan",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Vivid Peek into the Dark, Quiet Corners of Damaged Youth",
+      "score": 9,
+      "user": "Sean Lamberger",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A powerful movie",
+      "score": 8,
+      "user": "erikamikacic",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Painfully Accurate",
+      "score": 9,
+      "user": "meganhintz-951-591924",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Either Exceptional Or Exceptionally Irresponsible",
+      "score": 8,
+      "user": "arseniy (wlefilms@yahoo.com)",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heart wrenching. An important film.",
+      "score": 10,
+      "user": "NateWatchesCoolMovies",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Flawless filmmaking.",
+      "score": 10,
+      "user": "aschazam",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An underrated sleeper you don't want to miss.",
+      "score": 8,
+      "user": "Ben_Cap",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Performances, Great Acting, Great Idea",
+      "score": 8,
+      "user": "SquigglyCrunch",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic Work of Art",
+      "score": 9,
+      "user": "amackie-45649",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nothing can prepare you for the amount of crying you will do",
+      "score": 8,
+      "user": "AirlineFood",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simple but powerful",
+      "score": 10,
+      "user": "jvanness90",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Won't change your life unless...",
+      "score": 7,
+      "user": "Jerghal",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cretton has done a remarkable job and emerged as one of the few new talents worthy of our attention",
+      "score": 8,
+      "user": "lasttimeisaw",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing Movie about the power of communication",
+      "score": 8,
+      "user": "alessandro_rosebud",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie has changed my life.",
+      "score": 9,
+      "user": "Jacob Ford",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Short but sweet!!!",
+      "score": 8,
+      "user": "meeza (themeezaman@hotmail.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Short Term 12 is a great showcase of \"less is more\" filmmaking",
+      "score": 9,
+      "user": "MovieLord23",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I have a heart",
+      "score": 8,
+      "user": "DiscoVinyl",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Authentic, chaotic and yet tender",
+      "score": 9,
+      "user": "themissingpatient",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like all great drama it manages to find the light in the darkness!",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A hidden gem which doesn't make light, or over dramatizes, the state of each character, and truly is one of those films you wish to share and see get prestige.",
+      "score": 9,
+      "user": "Amari-Sali",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Short Term 12 feels so real and is so underrated",
+      "score": 8,
+      "user": "Tristan_Carter44",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly, I loved it.",
+      "score": 9,
+      "user": "Vlf3",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Powerful yet gentle. An oxymoronic beauty.",
+      "score": 10,
+      "user": "Eduardo Almazan",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Compelling little indie with great performances",
+      "score": 8,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This week's reason to keep subscribing to Netflix",
+      "score": 9,
+      "user": "The_late_Buddy_Ryan",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A refreshing film in a bloated Hollywood landscape",
+      "score": 10,
+      "user": "bpalmer118",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bruised, uplifting tale of surviving in the crush and tragedy of everyday life.",
+      "score": 8,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A smart, honest indie gem",
+      "score": 9,
+      "user": "kemperboyd76",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Troubled Kids and Troubled Adults",
+      "score": 9,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "outstanding script & acting.",
+      "score": 10,
+      "user": "shoutingagain",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A turning point for many in their career",
+      "score": 9,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Absolute Charming Film - A MUST WATCH",
+      "score": 9,
+      "user": "Saham Hosseini",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic underrated movie with a solid Brie Larson performance",
+      "score": 10,
+      "user": "Ronaldo_arb",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An unexpectedly moving character study about welfare and painful upbringings",
+      "score": 8,
+      "user": "Likes_Ninjas90",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The debut that'll be talked about years from now.",
+      "score": 10,
+      "user": "Advait Kamat",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why We Fight",
+      "score": 9,
+      "user": "writers_reign",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watchable, but nothing new or relevant",
+      "score": 7,
+      "user": "jackasstrange",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Review: Short Term 12/Night Film Reviews www.nightfilmreviews.com",
+      "score": 10,
+      "user": "lucasnochez",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic!",
+      "score": 10,
+      "user": "kwalt1989",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yes .....",
+      "score": 8,
+      "user": " (contact@textiledesigning.org)",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Girl Interrupted, tries making a difference.",
+      "score": 8,
+      "user": "Jesse Boland",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"...a well crafted drama, whose realness, openness and immediacy you will fall in love with at once.\"",
+      "score": 10,
+      "user": "Richard Osborne",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An indie gem and a must see(k). Larson and Gallagher give remarkable performances.",
+      "score": 9,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the Best Movies in 2013",
+      "score": 9,
+      "user": "Parexus",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Short Term 12 feels like home",
+      "score": 10,
+      "user": "Emma_Rampling",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overrated, but still a good movie",
+      "score": 6,
+      "user": "LittleLotti",
+      "review_date": {
+        "month": 5,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "But what did they say?",
+      "score": 6,
+      "user": "Davalon-Davalon",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "wasted potential",
+      "score": 5,
+      "user": " (liberace-38495)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "8.8/10",
+      "score": 8,
+      "user": "Chisty  Lemire",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome indie hit, with breakout performances!",
+      "score": 10,
+      "user": "Chris Smith (RockPortReview)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watchable.",
+      "score": 7,
+      "user": "Policarpo",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good film after a Long Term",
+      "score": 8,
+      "user": "Vivek",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Playing out",
+      "score": 8,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty good low budget indie!",
+      "score": 8,
+      "user": "midwestfilmbuff123",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Abuse Has An Advocate",
+      "score": 8,
+      "user": "frizzysemonsoni",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Most underrated indie film of 2013",
+      "score": 9,
+      "user": "Zion Douglass",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very underrated!",
+      "score": 8,
+      "user": "bsc 007",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Confidential, coherent and veracious...\"",
+      "score": 8,
+      "user": "Sindre Kaspersen",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another movie you heard or have already seen before, but haven't seen before.",
+      "score": 9,
+      "user": "nick-mcenroe",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pure cinematic beauty",
+      "score": 9,
+      "user": "MartinOnMovies",
+      "review_date": {
+        "month": 5,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect without doubt",
+      "score": 10,
+      "user": "multiks",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"You are the weirdest, most beautiful person I've met in my whole entire life\"",
+      "score": 9,
+      "user": "doug_park2001",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Honest, Sincere, Moving and Uplifting...a great, great movie",
+      "score": 10,
+      "user": "Mubariz Shariff",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, moving and very well acted!",
+      "score": 10,
+      "user": "Bruno Youn",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Short Term 12 Review",
+      "score": 10,
+      "user": "Jonathan Edge",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Critical acclaim seems excessive",
+      "score": 7,
+      "user": "b s",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Brilliant potential, but an opportunity missed !!!",
+      "score": 6,
+      "user": "avik-basu1889",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heartfelt, genuine cinema.... one of the best films of 2013",
+      "score": 10,
+      "user": "ankitg86 (ankitg86@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I was surprised cause.... its surprisingly good",
+      "score": 7,
+      "user": "Arnav Goswami",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rare independent gem of a film.",
+      "score": 10,
+      "user": "CharlieGreenCG",
+      "review_date": {
+        "month": 12,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Agonizingly Dull, boring shallow characters, Jiggly Cam, and tedium for all",
+      "score": 1,
+      "user": "matrix29",
+      "review_date": {
+        "month": 1,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A really good film....but what's with that awful shaky cam?!",
+      "score": 7,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hashtag SUPER YAWN",
+      "score": 1,
+      "user": "Richard von Lust",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sunday, September 15, 2013:   Shown in Tallahassee, Florida",
+      "score": 9,
+      "user": "paul_d_harvill",
+      "review_date": {
+        "month": 9,
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "inaudible dialogue made film unwatchable",
+      "score": 2,
+      "user": "jsrees",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 96,
+  "votes_per_demo": {
+    "aged_45+": 3750,
+    "top_1000_voters": 313,
+    "males_under_18": 127,
+    "imdb_staff": 7,
+    "males_aged_18-29": 19975,
+    "imdb_users": 60385,
+    "males_aged_45+": 2931,
+    "aged_18-29": 27384,
+    "us_users": 10732,
+    "females_aged_30-44": 3186,
+    "males": 38903,
+    "females": 11636,
+    "females_aged_45+": 752,
+    "non-us_users": 29897,
+    "females_aged_18-29": 7093,
+    "females_under_18": 50,
+    "aged_30-44": 17753,
+    "aged_under_18": 180,
+    "males_aged_30-44": 14301
+  },
+  "genres": [
+    "drama"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 334,
     "2": 242,
     "3": 348,
     "4": 549,
     "5": 1177,
-    "6": 3477,
-    "7": 10892,
-    "8": 20097,
-    "9": 14127,
-    "10": 9118
+    "6": 3481,
+    "7": 10897,
+    "8": 20108,
+    "9": 14126,
+    "10": 9123
   },
-  "genres": [
-    "drama"
-  ],
+  "release_month": "August",
   "budget": null,
-  "rating": 8.0,
-  "name": "Short Term 12",
-  "opening_weekend_income": 56206,
-  "avg_screens": 23.666666666666668,
-  "gross_income": 1010414,
-  "votes_per_demo": {
-    "non-us_users": 29886,
-    "females_aged_18-29": 7088,
-    "females": 11629,
-    "aged_45+": 3747,
-    "females_under_18": 50,
-    "imdb_users": 60361,
-    "imdb_staff": 7,
-    "females_aged_30-44": 3185,
-    "aged_under_18": 180,
-    "males_aged_30-44": 14294,
-    "top_1000_voters": 313,
-    "aged_30-44": 17745,
-    "males_aged_18-29": 19975,
-    "males": 38891,
-    "females_aged_45+": 752,
-    "males_under_18": 127,
-    "us_users": 10730,
-    "males_aged_45+": 2928,
-    "aged_18-29": 27379
-  },
-  "release_year": 2013,
   "budget_currency": null,
-  "release_day": 23
+  "total_screens": 284,
+  "year": 2013,
+  "rating": 8.0,
+  "critic_review_count": 251,
+  "opening_weekend_date": {
+    "month": 8,
+    "year": 2013,
+    "day": 23,
+    "__type__": "datetime.date"
+  },
+  "name": "Short Term 12",
+  "user_review_count": 125,
+  "avg_screens": 23.666666666666668
 }

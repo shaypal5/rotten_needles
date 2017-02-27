@@ -1,46 +1,407 @@
 {
-  "critic_review_count": 11,
-  "year": 2013,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 6,
-    "day": 7
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 4,
-    "day": 19
-  },
-  "metascore": null,
-  "max_screens": 381,
-  "duration": 113,
-  "rating_count": 2499,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 8,
+  "release_day": null,
   "avg_rating_per_demo": {
-    "non-us_users": 5.6,
-    "females_aged_18-29": 6.6,
-    "females": 6.5,
-    "females_aged_30-44": 6.2,
+    "top_1000_voters": 4.8,
+    "males_under_18": 7.5,
     "imdb_staff": 5.0,
     "aged_45+": 6.1,
-    "aged_under_18": 7.5,
-    "males_aged_30-44": 5.5,
-    "top_1000_voters": 4.8,
-    "aged_30-44": 5.6,
+    "imdb_users": 6.0,
+    "males_aged_45+": 6.0,
+    "aged_18-29": 6.2,
+    "females_aged_30-44": 6.2,
     "males_aged_18-29": 6.1,
     "males": 5.8,
+    "females": 6.5,
     "females_aged_45+": 6.8,
-    "males_under_18": 7.5,
-    "imdb_users": 6.0,
+    "non-us_users": 5.6,
+    "females_aged_18-29": 6.6,
     "us_users": 6.1,
-    "males_aged_45+": 6.0,
-    "aged_18-29": 6.2
+    "aged_30-44": 5.6,
+    "aged_under_18": 7.5,
+    "males_aged_30-44": 5.5
   },
-  "user_review_count": 32,
+  "closing_date": {
+    "month": 6,
+    "year": 2013,
+    "day": 7,
+    "__type__": "datetime.date"
+  },
+  "metascore": null,
+  "num_weekends": 8,
+  "rating_count": 2499,
+  "gross_income": 2859955,
+  "max_screens": 381,
+  "opening_weekend_screens": 381,
+  "screens_by_weekend": [
+    381,
+    371,
+    164,
+    131,
+    86,
+    10,
+    6,
+    5
+  ],
+  "opening_weekend_income": 1582466,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Truly truly awful film",
+      "score": 2,
+      "user": "Robert Symonds",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Religion and addiction",
+      "score": 4,
+      "user": "casper639",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Scott Elrod Makes the Movie",
+      "score": 8,
+      "user": "astravitz",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "wonderfully done",
+      "score": 10,
+      "user": "sianggany_grenn",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This Was a Heartful Movie",
+      "score": 10,
+      "user": "Zachary Hinski",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that is well worth watching but the \"god fixes everything\" aspect really made it unbelievable for me. I say B-.",
+      "score": 5,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A really fine production",
+      "score": 8,
+      "user": "Sam_Owens",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Grand Slam",
+      "score": 10,
+      "user": "irvinetustin",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Realistic and moving",
+      "score": 9,
+      "user": "rrpjr",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Home Run is a worthy drama even with the preachy moments",
+      "score": 7,
+      "user": "tavm",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you don't like religion or \"Christians\" you probably should pass",
+      "score": 10,
+      "user": "Reb Bacchus",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An uplifting movie about a baseball player's battle with alcoholism",
+      "score": 9,
+      "user": "ebrianhanley",
+      "review_date": {
+        "month": 8,
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great film! Great acting! Great production values!",
+      "score": 10,
+      "user": "ashergil-673-804028",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A touch of baseball ruining by a lot of religion",
+      "score": 2,
+      "user": "mrshev",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Actually quite good",
+      "score": 7,
+      "user": "ivana-ivankovic",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly Good",
+      "score": 8,
+      "user": "jariax",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Speaks to the Concerns of the Common Man",
+      "score": 9,
+      "user": "dale-47-899940",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Twelve Step Programs",
+      "score": 7,
+      "user": "homerjohnroodsr",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The title could have two meanings in this case...",
+      "score": 8,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strong Characters",
+      "score": 10,
+      "user": "Joseph Wood",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Generic Religious Spiel",
+      "score": 2,
+      "user": "padron702",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A story about redemption",
+      "score": 7,
+      "user": "qo_nder_",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "trickery.....",
+      "score": 1,
+      "user": "mkellyrose",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Must See - High Quality Story, Acting and Production",
+      "score": 8,
+      "user": "critic_w",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great and inspiring story!",
+      "score": 10,
+      "user": "Deborah Roberts O'Brien",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Extraordinary Movie!",
+      "score": 10,
+      "user": "Jennifer Johansen",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Home Run - A Level Playing Field - Yes, Even For Prima Donnas",
+      "score": 10,
+      "user": "Monte Blanchett",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well done, well written, well acted, surprises, and very real",
+      "score": 9,
+      "user": "S. Kelly",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Powerful",
+      "score": 10,
+      "user": "phillip-seay89",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful",
+      "score": 10,
+      "user": "herestoreth",
+      "review_date": {
+        "month": 4,
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 113,
+  "votes_per_demo": {
+    "top_1000_voters": 59,
+    "males_under_18": 6,
+    "imdb_staff": 1,
+    "aged_45+": 510,
+    "imdb_users": 2499,
+    "males_aged_45+": 378,
+    "aged_18-29": 579,
+    "females_aged_30-44": 174,
+    "males_aged_18-29": 410,
+    "males": 1568,
+    "females": 511,
+    "females_aged_45+": 127,
+    "non-us_users": 939,
+    "females_aged_18-29": 158,
+    "us_users": 610,
+    "aged_30-44": 852,
+    "aged_under_18": 7,
+    "males_aged_30-44": 664
+  },
+  "genres": [
+    "drama",
+    "sport"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 101,
     "2": 59,
@@ -53,37 +414,20 @@
     "9": 158,
     "10": 400
   },
-  "genres": [
-    "drama",
-    "sport"
-  ],
+  "release_month": null,
   "budget": 1200000,
-  "rating": 6.0,
-  "name": "Home Run",
-  "opening_weekend_income": 1582466,
-  "avg_screens": 144.25,
-  "gross_income": 2859955,
-  "votes_per_demo": {
-    "non-us_users": 939,
-    "females_aged_18-29": 158,
-    "females": 511,
-    "females_aged_30-44": 174,
-    "imdb_staff": 1,
-    "aged_45+": 510,
-    "aged_under_18": 7,
-    "males_aged_30-44": 664,
-    "top_1000_voters": 59,
-    "aged_30-44": 852,
-    "males_aged_18-29": 410,
-    "males": 1568,
-    "females_aged_45+": 127,
-    "males_under_18": 6,
-    "imdb_users": 2499,
-    "us_users": 610,
-    "males_aged_45+": 378,
-    "aged_18-29": 579
-  },
-  "release_year": null,
   "budget_currency": "$",
-  "release_day": null
+  "total_screens": 1154,
+  "year": 2013,
+  "rating": 6.0,
+  "critic_review_count": 11,
+  "opening_weekend_date": {
+    "month": 4,
+    "year": 2013,
+    "day": 19,
+    "__type__": "datetime.date"
+  },
+  "name": "Home Run",
+  "user_review_count": 32,
+  "avg_screens": 144.25
 }

@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 3,
-    "year": 2015,
-    "day": 27,
-    "__type__": "datetime.date"
+  "release_day": 17,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.2,
+    "top_1000_voters": 5.8,
+    "males_under_18": 6.9,
+    "imdb_staff": 6.4,
+    "males_aged_18-29": 6.5,
+    "imdb_users": 6.3,
+    "males_aged_45+": 6.2,
+    "aged_18-29": 6.4,
+    "us_users": 6.5,
+    "females_aged_30-44": 6.2,
+    "males": 6.3,
+    "females": 6.2,
+    "females_aged_45+": 6.2,
+    "non-us_users": 6.3,
+    "females_aged_18-29": 6.2,
+    "females_under_18": 7.5,
+    "aged_30-44": 6.2,
+    "aged_under_18": 6.9,
+    "males_aged_30-44": 6.2
   },
   "closing_date": {
     "month": 6,
@@ -11,82 +27,1059 @@
     "day": 19,
     "__type__": "datetime.date"
   },
-  "rating": 6.3,
-  "num_weekends": 8,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 557,
-    "2": 438,
-    "3": 867,
-    "4": 1800,
-    "5": 4641,
-    "6": 9414,
-    "7": 9479,
-    "8": 4152,
-    "9": 992,
-    "10": 724
-  },
-  "avg_screens": 300.25,
-  "budget": 10000000,
-  "budget_currency": "$",
-  "release_day": 17,
   "metascore": 77,
+  "num_weekends": 8,
+  "rating_count": 33079,
+  "gross_income": 7574066,
+  "max_screens": 762,
+  "opening_weekend_screens": 4,
+  "screens_by_weekend": [
+    4,
+    34,
+    246,
+    713,
+    762,
+    374,
+    258,
+    11
+  ],
+  "opening_weekend_income": 227688,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Disappointing",
+      "score": 5,
+      "user": "fill hellmuff",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A disappointing film",
+      "score": 6,
+      "user": "dbborroughs",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A mature, insightful look at aging and youth, undermined somewhat by an ill-advised detour into semi-thriller territory.",
+      "score": 7,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sigh...",
+      "score": 3,
+      "user": "Stubborn Panda",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good start, but ends with mixed feelings",
+      "score": 5,
+      "user": "GirlOfFall",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ultimately a disappointment",
+      "score": 5,
+      "user": "mattyhowe-36-484102",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film was boring and cluttered but had good ideas.",
+      "score": 4,
+      "user": "Ian Johnson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "4/10",
+      "score": 4,
+      "user": "James De Bello",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Relatable and hilarious -- like a highbrow \"This Is 40\"",
+      "score": 9,
+      "user": "nedkotte",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The script felt so rigid to be called a comedy and so not intriguing to be called a Drama,, kinda expected much from such cast..",
+      "score": 5,
+      "user": "Aktham Tashtush",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I liked it better under its original title, \"Broadcast News\"",
+      "score": 5,
+      "user": "db-beurylaw",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You Must Make Babies!",
+      "score": 6,
+      "user": "Leftbanker",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A boring movie .... keep for those Xtra Lazy Weekends!",
+      "score": 5,
+      "user": "aparnakishen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Weak \"So What?\" plot",
+      "score": 5,
+      "user": "danew13",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Logline was (likely) a lot better than the actual film",
+      "score": 5,
+      "user": "A_Different_Drummer",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Imperfect, but clever; charming, but cruel",
+      "score": 7,
+      "user": "Amelia Rosenschwert Regis",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Strong beginning",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "brilliant and great Adam Driver",
+      "score": 8,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incisive despite its flaws",
+      "score": 7,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "While  We're  Young",
+      "score": 9,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable picture but uneven",
+      "score": 8,
+      "user": "851222",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Baumbach so far",
+      "score": 8,
+      "user": "Jack The Door",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An on point skewering of modern day hipsters",
+      "score": 7,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun to watch, but offers something extra as well",
+      "score": 7,
+      "user": "Ruben Mooijman",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Baumbach did not bomb it but did not magically explode it with either",
+      "score": 7,
+      "user": "meeza (themeezaman@hotmail.com)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "About Midlife Crisis And The Younger Generation",
+      "score": 8,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Ben Stiller disaster; is the film about bucking conventional trends and fads...or falling right into them?",
+      "score": 2,
+      "user": "moonspinner55",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Total garbage",
+      "score": 1,
+      "user": "jhorton-44521",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rather smug and self-satisfied non-comedy about people who aren't very likable",
+      "score": 7,
+      "user": "Neil Welch",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hit-and-miss domestic comedy about Generation X and Generation WTF",
+      "score": 7,
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Booooooring",
+      "score": 1,
+      "user": "Gabriel Damy",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Generation-Gap Comedy That Makes Trenchant Points about the Limits of Documentary Filmmaking",
+      "score": 7,
+      "user": "l_rawjalaurence",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hold Off On The Popcorn",
+      "score": 4,
+      "user": "ice ruby red",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Look back in bemusement",
+      "score": 5,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Does Baumbach hate his characters or the audience more?",
+      "score": 5,
+      "user": "xhidden99",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A total clich\u00e9",
+      "score": 4,
+      "user": "Cris Tanzi",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good performances from Stiller and Watts, just a tad boring.",
+      "score": 6,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another decent Baumbach film",
+      "score": 6,
+      "user": "Thomas (filmreviews@web.de)",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Older Physically, Younger Mentally",
+      "score": 9,
+      "user": "rjsf96",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good movie, very well done!",
+      "score": 8,
+      "user": "Linda",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of a good cast! 4/10",
+      "score": 4,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Often thoughtful, amusing and moving - it's indebted to the talent of its cast.",
+      "score": 7,
+      "user": "Sergeant_Tibbs",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cinema in the Age of Instant Entertainment",
+      "score": 8,
+      "user": "J.P. Cain",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worthwhile viewing with a debatable ending",
+      "score": 7,
+      "user": "CMTiago",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Like watching paint dry",
+      "score": 2,
+      "user": "michaelrthomson",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Elite Class of Writers in Hollywood",
+      "score": 4,
+      "user": "JMLinLA",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The cast is too good for the story (or lack thereof)",
+      "score": 3,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So much to love about this heartfelt comedy",
+      "score": 8,
+      "user": "Shane Breen",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Confusing",
+      "score": 6,
+      "user": "eran-sabaner",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "First half good, then I lost track...",
+      "score": 6,
+      "user": "Kieran Sparks",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Does not add up to an experience that feels real",
+      "score": 8,
+      "user": "Howard Schumann",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "not what i expected",
+      "score": 5,
+      "user": "anjoliennn",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "mostly funny, good performances, misanthropic to the bone",
+      "score": 7,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 6,
+      "user": "capone666",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"\u0085but when I became a man, I put away childish things.\" \u0097 1 Cor. 13",
+      "score": 7,
+      "user": "The_late_Buddy_Ryan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Charming and wistful - Naomi Watts is hilarious",
+      "score": 7,
+      "user": "luke-a-mcgowan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paper-thin characters, agreeable comedy, but only half a good movie.",
+      "score": 6,
+      "user": "Ben Parker (ben.cheshire@optusnet.com.au)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The kind of movie you'd be happy to stumble upon, but I wouldn't really rush to see it",
+      "score": 6,
+      "user": "Adam Foidart",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Shades of Woody Allen",
+      "score": 10,
+      "user": "Melissaslist",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An honest and often funny portrayal about aging",
+      "score": 7,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "While We're Young is a tonally unbalanced but still enjoyable film to watch!",
+      "score": 6,
+      "user": "carterbennett",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "While We're Young is a tonally unbalanced but still enjoyable film to watch!",
+      "score": 6,
+      "user": "carterbennett",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Montaigne would have balked",
+      "score": 3,
+      "user": "Niklas Pivic",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Youth of Today",
+      "score": 6,
+      "user": "evanston_dad",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally, ALONG CAME POLLY has a serious rival . . .",
+      "score": 5,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Next Stage In Noah Baumbach's Evolution",
+      "score": 8,
+      "user": "peter-stead-740-486963",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bit uneven, but often hilarious examination of cross-generational relationships",
+      "score": 7,
+      "user": "joey-ziemniak",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Timeless!",
+      "score": 10,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overall, I really enjoyed the film. It's Good for a few laughs",
+      "score": 8,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An ode to age, cinema, and youthful idealism",
+      "score": 9,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Baumbach breathes new life into mainstream comedy",
+      "score": 10,
+      "user": "Render-stetson",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is not a movie for everyone. I really liked, but you must be in the mood for it and be a fan of quirky comedies.",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mis-matched Friends",
+      "score": 6,
+      "user": "dglink",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good, mature Ben Stiller comedy/drama",
+      "score": 7,
+      "user": "MortalKombatFan1",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Life Happens",
+      "score": 6,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"What is the opposite of the world is your oyster?\"",
+      "score": 7,
+      "user": "Paul Allaer",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Noah Baumbach's best so far.",
+      "score": 7,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "With every film role, I relate more and more to Ben Stiller's characters!",
+      "score": 9,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Agelessly Charming",
+      "score": 8,
+      "user": "Matt Greene",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Two generations becoming friends sounds sitcom-ish, but While We're Young works thanks to sassy writing and strong characters",
+      "score": 9,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "In life as in film we are true or fake.",
+      "score": 9,
+      "user": "maurice yacowar",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic work from Noah Baumbach",
+      "score": 9,
+      "user": "GabeLewis",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow Way Better than we expected!",
+      "score": 9,
+      "user": "azguys",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "7.5/10",
+      "score": 7,
+      "user": "Chisty  Lemire",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "F**king Brilliant!",
+      "score": 8,
+      "user": "koustubh bhattacharya",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"While We're Young\" is entertaining and through-provoking both for those who are still young and those who used to be.",
+      "score": 6,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "On an impressionistic level While We're Young is enjoyable due to the humour and the quality of Ben Stiller's leading work",
+      "score": 7,
+      "user": "Likes_Ninjas90",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect in its Imperfection",
+      "score": 9,
+      "user": "tonyblass",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Genuinely Funny and Searingly Poignant, One of Ben Stiller's Best",
+      "score": 8,
+      "user": "prospectus_capricornium",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 97,
+  "votes_per_demo": {
+    "aged_45+": 3248,
+    "top_1000_voters": 258,
+    "males_under_18": 57,
+    "imdb_staff": 5,
+    "males_aged_18-29": 7630,
+    "imdb_users": 33079,
+    "males_aged_45+": 2610,
+    "aged_18-29": 10884,
+    "us_users": 4971,
+    "females_aged_30-44": 2622,
+    "males": 21314,
+    "females": 6697,
+    "females_aged_45+": 581,
+    "non-us_users": 17557,
+    "females_aged_18-29": 3108,
+    "females_under_18": 15,
+    "aged_30-44": 12927,
+    "aged_under_18": 76,
+    "males_aged_30-44": 10074
+  },
   "genres": [
     "comedy",
     "drama",
     "mystery"
   ],
-  "release_month": "April",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.2,
-    "aged_18-29": 6.4,
-    "aged_30-44": 6.2,
-    "females": 6.2,
-    "top_1000_voters": 5.8,
-    "non-us_users": 6.3,
-    "females_under_18": 7.5,
-    "males_aged_30-44": 6.2,
-    "us_users": 6.5,
-    "imdb_users": 6.3,
-    "imdb_staff": 6.4,
-    "males_under_18": 6.9,
-    "females_aged_18-29": 6.2,
-    "males_aged_45+": 6.2,
-    "females_aged_30-44": 6.2,
-    "males": 6.3,
-    "males_aged_18-29": 6.5,
-    "females_aged_45+": 6.2,
-    "aged_under_18": 6.9
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2014,
-  "name": "While We're Young",
-  "gross_income": 7574066,
-  "user_review_count": 96,
-  "duration": 97,
-  "max_screens": 762,
-  "votes_per_demo": {
-    "aged_45+": 3247,
-    "aged_18-29": 10880,
-    "aged_30-44": 12917,
-    "females": 6692,
-    "top_1000_voters": 258,
-    "non-us_users": 17548,
-    "females_under_18": 15,
-    "males_aged_30-44": 10068,
-    "us_users": 4969,
-    "imdb_users": 33064,
-    "imdb_staff": 5,
-    "males_under_18": 57,
-    "females_aged_18-29": 3107,
-    "males_aged_45+": 2609,
-    "females_aged_30-44": 2618,
-    "males": 21303,
-    "males_aged_18-29": 7627,
-    "females_aged_45+": 581,
-    "aged_under_18": 76
+  "rating_freq": {
+    "1": 557,
+    "2": 439,
+    "3": 868,
+    "4": 1800,
+    "5": 4643,
+    "6": 9419,
+    "7": 9482,
+    "8": 4153,
+    "9": 994,
+    "10": 724
   },
-  "rating_count": 33064,
+  "release_month": "April",
+  "budget": 10000000,
+  "budget_currency": "$",
+  "total_screens": 2402,
+  "year": 2014,
+  "rating": 6.3,
   "critic_review_count": 272,
-  "opening_weekend_income": 227688
+  "opening_weekend_date": {
+    "month": 3,
+    "year": 2015,
+    "day": 27,
+    "__type__": "datetime.date"
+  },
+  "name": "While We're Young",
+  "user_review_count": 96,
+  "avg_screens": 300.25
 }

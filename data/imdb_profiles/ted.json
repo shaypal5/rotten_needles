@@ -1,91 +1,6603 @@
 {
-  "num_weekends": 16,
-  "duration": 106,
+  "budget": 50000000,
+  "opening_weekend_income": 54415205,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 19,
+    "__type__": "datetime.date",
+    "month": 10
+  },
+  "budget_currency": "$",
+  "avg_screens": 1545.75,
   "rating_freq": {
     "1": 8471,
     "2": 5364,
     "3": 8428,
-    "4": 14984,
-    "5": 33816,
-    "6": 77616,
-    "7": 138564,
-    "8": 108410,
-    "9": 44871,
-    "10": 47505
+    "4": 14986,
+    "5": 33825,
+    "6": 77624,
+    "7": 138592,
+    "8": 108419,
+    "9": 44872,
+    "10": 47509
   },
-  "release_year": 2012,
-  "budget_currency": "$",
-  "rating": 7.0,
-  "release_day": 29,
-  "budget": 50000000,
-  "votes_per_demo": {
-    "us_users": 65590,
-    "imdb_users": 488029,
-    "aged_30-44": 144395,
-    "males": 330681,
-    "males_aged_18-29": 167048,
-    "top_1000_voters": 696,
-    "females_aged_30-44": 21987,
-    "imdb_staff": 38,
-    "females": 76692,
-    "females_aged_45+": 3644,
-    "females_under_18": 496,
-    "aged_under_18": 2165,
-    "aged_45+": 22722,
-    "females_aged_18-29": 44625,
-    "non-us_users": 224790,
-    "males_aged_45+": 18685,
-    "males_under_18": 1645,
-    "aged_18-29": 213914,
-    "males_aged_30-44": 120433
-  },
-  "metascore": 62,
-  "avg_rating_per_demo": {
-    "us_users": 7.0,
-    "imdb_users": 7.0,
-    "aged_30-44": 6.9,
-    "males": 7.1,
-    "males_aged_18-29": 7.2,
-    "top_1000_voters": 6.4,
-    "females_aged_30-44": 6.5,
-    "imdb_staff": 6.8,
-    "females": 6.5,
-    "females_aged_45+": 6.1,
-    "females_under_18": 7.4,
-    "aged_under_18": 7.5,
-    "aged_45+": 6.6,
-    "females_aged_18-29": 6.6,
-    "non-us_users": 6.9,
-    "males_aged_45+": 6.7,
-    "males_under_18": 7.5,
-    "aged_18-29": 7.1,
-    "males_aged_30-44": 6.9
-  },
-  "rating_count": 488029,
-  "critic_review_count": 456,
-  "opening_weekend_income_currency": "$",
-  "name": "Ted",
-  "user_review_count": 625,
-  "avg_screens": 1545.75,
-  "release_month": "June",
-  "opening_weekend_date": {
-    "day": 29,
-    "month": 6,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "screens_by_weekend": [
+    3239,
+    3256,
+    3303,
+    3214,
+    3127,
+    2767,
+    2208,
+    1169,
+    561,
+    515,
+    411,
+    295,
+    226,
+    187,
+    145,
+    109
+  ],
+  "rating_count": 488090,
+  "total_screens": 24732,
   "max_screens": 3303,
+  "duration": 106,
   "gross_income": 218628680,
+  "metascore": 62,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 696,
+    "imdb_users": 488090,
+    "us_users": 65596,
+    "aged_18-29": 213909,
+    "non-us_users": 224806,
+    "aged_45+": 22726,
+    "aged_30-44": 144426,
+    "males_aged_30-44": 120458,
+    "males_aged_18-29": 167045,
+    "males_aged_45+": 18688,
+    "aged_under_18": 2163,
+    "imdb_staff": 38,
+    "males_under_18": 1644,
+    "females_aged_30-44": 21992,
+    "females": 76696,
+    "females_under_18": 495,
+    "females_aged_45+": 3645,
+    "males": 330712,
+    "females_aged_18-29": 44623
+  },
+  "user_review_count": 625,
+  "rating": 7.0,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 6.4,
+    "imdb_users": 7.0,
+    "us_users": 7.0,
+    "aged_18-29": 7.1,
+    "non-us_users": 6.9,
+    "aged_45+": 6.6,
+    "aged_30-44": 6.9,
+    "males_aged_30-44": 6.9,
+    "males_aged_18-29": 7.2,
+    "males_aged_45+": 6.7,
+    "aged_under_18": 7.5,
+    "imdb_staff": 6.8,
+    "males_under_18": 7.5,
+    "females_aged_30-44": 6.5,
+    "females": 6.5,
+    "females_under_18": 7.4,
+    "females_aged_45+": 6.1,
+    "males": 7.1,
+    "females_aged_18-29": 6.6
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 29,
+    "__type__": "datetime.date",
+    "month": 6
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "sharkfarts farts",
+      "contents": "One of the most disappointing movie experiences I've ever sat through",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "Gawd Awful!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "JeffTheBadger",
+      "contents": "A party of a film... not for the easily offended",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "super_mario_crivellaro",
+      "contents": "Not for everyone",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "evening1",
+      "contents": "Tedious and unfunny",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "loumcp",
+      "contents": "Dreadful.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "velikidace",
+      "contents": "Watch only if you need to lose 2 hours of your life.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "fugetaboutit now",
+      "contents": "Are the rest of these people on crack?",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "cablooie",
+      "contents": "pure script-less crap",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "glen2010",
+      "contents": "A standard comedy - but with a teddy bear",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "John Smith",
+      "contents": "pointless, inept",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "contents": "Consistently funny and a surprisingly cohesive effort from MacFarlane",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "jaredpahl",
+      "contents": "Two Words... Un... Funny",
+      "review_date": {
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "lts100",
+      "contents": "Why did I waste my money on this ?",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "Perfectionisbeauty",
+      "contents": "3-D: Disgusting. Degenerating. Dangerous.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "Luckylee218",
+      "contents": "Worst movie ever",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "dogsrule1891",
+      "contents": "The Worst Movie I've ever seen!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Tinker Tailor",
+      "contents": "Disappointing",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "eloy_lb",
+      "contents": "This is the stupidest most vulgar movie I have ever seen",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "trans_mauro",
+      "contents": "In the Age of Stupid,",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "jmbellin",
+      "contents": "Mediocre Writing and Poor Pacing Snuffs Out THIS Teddy Bear",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "donttalkaboutfightclub",
+      "contents": "Waste of time, typical lazy Seth MacFarlane writing",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "Lulzim Mani",
+      "contents": "Are you serious!",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "safeguide",
+      "contents": "Just plain vulgar and crude",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Mrlastlife",
+      "contents": "Really.........it's not all that funny",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Victoria Rickson",
+      "contents": "Toy Story gone wrong; Tasteless and Forgettable.",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "hemril",
+      "contents": "Racist jokes are NOT funny",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "pesimania",
+      "contents": "it is not about only a teddy bear but discrimination.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "chicagopoetry",
+      "contents": "A Missed Opportunity",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "Truckhitterfilms",
+      "contents": "From the creator of \"Family Guy\": What were you expecting?",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "themightyquinn94",
+      "contents": "It's funny how not funny it is!",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "thomzo",
+      "contents": "Blow-jobs and up the",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "ceciliaengfelt",
+      "contents": "Daft and sexist",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "zebrafinch40",
+      "contents": "OMG that was bad",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "Inna Ata",
+      "contents": "It is just NOT GOOD",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "markovich-joseph",
+      "contents": "This movie was so awful that I had to write a review.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Gubby-Allen",
+      "contents": "7.2/10??? What on earth do people see in this? It's 200 Farts & a car chase.",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "idreamincolour",
+      "contents": "Awful, just awful. I would have rather watched Twilight",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "baymustafa9696",
+      "contents": "beyond awful",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "lox_bagel",
+      "contents": "waste of time",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "Spyan",
+      "contents": "7? Yup, humanity is doomed.",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "thorntonreed69",
+      "contents": "I'm confused!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Gernot Guenther",
+      "contents": "You'll regret watching this.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Marc b",
+      "contents": "Terrible just terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "karlmacnaughton",
+      "contents": "This film is just terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "polaris2006",
+      "contents": "Worst move ever",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Salsa Boy",
+      "contents": "Terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "jackflash_355",
+      "contents": "Disgusting & a waste of money",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "walshb",
+      "contents": "Pathetic attempt at humor!",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "David Holt (rawiri42)",
+      "contents": "What a load of rubbish!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Maverick",
+      "contents": "Ted",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "khrome70",
+      "contents": "As funny as a funeral...",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "mrblumis",
+      "contents": "A bomb big enough to blow up Hollywood",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "elisaweinsteinhome",
+      "contents": "Awful",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "KAppledorn",
+      "contents": "Terrible and I'm a Family Guy fan",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "Brian B (beezybb@gmail.com)",
+      "contents": "One of the worst comedies I have ever seen.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "ayobeslim",
+      "contents": "Sends bad message",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "nikhyuga",
+      "contents": "Terrible comedy",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "Ruiz Manalo",
+      "contents": "So much potential, so much of the same. What a shock.",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "edwagreen",
+      "contents": "Ted: Watch Your Language Please **1/2",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "jakochris",
+      "contents": "I'm still in shock ...",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Rob_Taylor",
+      "contents": "Family Guy + Live Action = Unfunny Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "mirwell",
+      "contents": "Clich\u00e9, unfunny, visually average",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "cteavin-1",
+      "contents": "I hated this film, just despised it",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "Ami_Schneider",
+      "contents": "This movie is so bad I turned it off",
+      "review_date": {
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "adi_2002",
+      "contents": "Ted the only toy who can't give you joy",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "Kostis Margaritis",
+      "contents": "Don't waste your time",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "melodykaybennett",
+      "contents": "Ted... No... Just say No",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "turfho",
+      "contents": "Actors ?",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "marketsharetax",
+      "contents": "do not call drama a comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "ekalb45",
+      "contents": "Landfill smells better, more entertaining.",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "Andy Steel",
+      "contents": "Didn't work for me...",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "alvalfonso",
+      "contents": "Worst movie I have ever seen!!",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "apurvgupta1",
+      "contents": "Pathetic movie",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "imbluzclooby",
+      "contents": "A mildly humorous turd!",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "mcconkieed",
+      "contents": "Absolutely pure, uncompromising, unapologetic crap.",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "everguess",
+      "contents": "Not worth it, regardless of Seth MacFarlane's reputation.",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "clareandpete",
+      "contents": "Crude, obvious, TEDious",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "barry_mooney",
+      "contents": "Fantastically funny!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "galahad58-1",
+      "contents": "10 Minute Sketch Stretched to a Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Aqua_Fresca",
+      "contents": "If you like this type of humour...or maybe if you don't...",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "jtkahonen",
+      "contents": "Ted is - like the movie title all ready gives you away - comedy which has no imagination.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "giglbox",
+      "contents": "Haha! ha....ahhh....hmmm...",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "Not the comedy I was hoping for",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "bedoyama",
+      "contents": "Entertaining but lazy comedy by Seth McFarlane",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Filipe Neto",
+      "contents": "A terrorist attack on our values \u200b\u200bas a society.",
+      "review_date": {
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "robinbuzios",
+      "contents": "Could have been so much better, Seth!",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "witster18",
+      "contents": "right up my alley....  in the dumpster!",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "TejasTeacher",
+      "contents": "Mind-numbingly awful",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "shalimar-4",
+      "contents": "Sigh",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "Rikard Bosnjakovic",
+      "contents": "Profanity killed the radio star",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "gamergcfan",
+      "contents": "The first 20 minutes are really funny, but that's it?",
+      "review_date": {
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "LeonLouisRicci",
+      "contents": "Farts and Poop = Yuk Yuk",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "p-stepien",
+      "contents": "What if Alf...",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "WatchedAllMovies",
+      "contents": "A $#*@! romantic comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "roystephen-81252",
+      "contents": "Such an iconic character would have deserved a better movie",
+      "review_date": {
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "andwhite1",
+      "contents": "Average Comedy",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Nikola Bogosavljev",
+      "contents": "Whaaaaat",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "michaelsutherland40",
+      "contents": "Terrible Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "Raymond Pfister",
+      "contents": "Celebration of mediocrity",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "Roxasneo44",
+      "contents": "A New Low",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "Raghavibaggy-Drawers",
+      "contents": "Did Seth McFarlane's TED Just Insult The Indian Community?",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "robtech30-1",
+      "contents": "TED could this be the worst film of 2012 and the end of Walbergs career",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Claudio Carvalho",
+      "contents": "Unfunny and Moronic Comedy",
+      "review_date": {
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "muraliavarma",
+      "contents": "Solid fun movie",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "zoerobe",
+      "contents": "Thunder Buddies 4Ever!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Gino Monaco",
+      "contents": "Commercials took all the good stuff",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Shilo Sixx",
+      "contents": "When you wish for a Talking Teddy Bear",
+      "review_date": {
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "ElMaruecan82",
+      "contents": "Finally, a good use for CGI...",
+      "review_date": {
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Sandcooler",
+      "contents": "Great bathroom humor with some unexpected extras",
+      "review_date": {
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Rob Starzec",
+      "contents": "Good Fun, but Just as Simple as Family Guy",
+      "review_date": {
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Screen_Blitz",
+      "contents": "Vulgar, but hilarious comedy from the creator of Family Guy",
+      "review_date": {
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "RIP_Mizz",
+      "contents": "A romantic Comedy with a teddy bear....",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "jimw-63592",
+      "contents": "Pure Garbage!",
+      "review_date": {
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "bugandlolly",
+      "contents": "Utterly awful",
+      "review_date": {
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "The Squeerelist",
+      "contents": "Sex, Drugs, & Fenway Park: a Recipe for Friendship",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Bevan Mortimer",
+      "contents": "Light on story, but very funny",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "richy1024",
+      "contents": "Show your kids this and they'll never want a fluffy toy again!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "prylands",
+      "contents": "Crass, Immature Crud",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "serincan",
+      "contents": "Enjoyed a lot",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "hecrod69",
+      "contents": "Good for cheap laughs...",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "kenjha",
+      "contents": "Unbearable",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "hoffes",
+      "contents": "Disappointing and primitive move",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "na-5-928433",
+      "contents": "If you like Family Guy, then this film isn't for you",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "ncljohnson96",
+      "contents": "Stupidest Movie I have ever seen.",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "alex-caruso1",
+      "contents": "Now I understand all the bad reviews.",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "Jennifer Smith",
+      "contents": "Worst movie I have ever seen: Total trash (warning: possible spoilers)",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "mhoydicz",
+      "contents": "One of the worst movies ever",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "birkir-ingi",
+      "contents": "So much disappointment...",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "Diwali-Jumbonads",
+      "contents": "Not That Great.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "TheFedz",
+      "contents": "Family Guy + Romantic Comedy + Toy Story = Ted",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "KaDaWe",
+      "contents": "What's Wrong With The People?",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "Trevor Mcinsley",
+      "contents": "Typical Family Guy Writing...",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "Gorilla panic....",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Lala Banana",
+      "contents": "Funny but could have been better IMO",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "vulgar teddy and boring story....",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "dgefroh",
+      "contents": "A few good moments but not enough",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "rohaileyo-501-407002",
+      "contents": "Won't make the Top 250",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "dawnr470",
+      "contents": "Live version of Family Guy",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "tinghugas",
+      "contents": "American trash at its finest",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "shoshan-vale",
+      "contents": "Cheap Humor",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "TheGatsby",
+      "contents": "A continuation of Seth MacFarlane's descent into awfulness",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "divinours",
+      "contents": "Corny romance trying too hard to be politically incorrect - or are we Europeans too jaded?",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "eschetic-2",
+      "contents": "A question of taste",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "headly66",
+      "contents": "Childish, crude for no reason, could have been so much better",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "Cam Grimes",
+      "contents": "...I don't get it?",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "filmnotion",
+      "contents": "Ted is one hilarious movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "stokedevents",
+      "contents": "most uninspiring film ever",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "thepinkrabbit",
+      "contents": "dumb movie not funny",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "Darren Carr",
+      "contents": "Offensive & Crude",
+      "review_date": {
+        "year": 2017,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "Jack Venturo",
+      "contents": "Three point of view review.",
+      "review_date": {
+        "year": 2017,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Connor",
+      "contents": "Dumb, yet brilliant",
+      "review_date": {
+        "year": 2017,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "fakeversion",
+      "contents": "Typical movie American junk",
+      "review_date": {
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Thomas (filmreviews@web.de)",
+      "contents": "Live action Family Guy",
+      "review_date": {
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "zaildarkaka",
+      "contents": "just love the movie",
+      "review_date": {
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "The New Winnie the Pooh!",
+      "review_date": {
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Cheese Hoven",
+      "contents": "Basically a very long Family Guy episode",
+      "review_date": {
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "contents": "Yep, this is from the executive producer of Neil deGrasse Tyson's updated version of \"Cosmos\"",
+      "review_date": {
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "r_noton",
+      "contents": "Seth MacFarlane",
+      "review_date": {
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Troy Putland",
+      "contents": "Depends if you like Macfarlane's humour or not!",
+      "review_date": {
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "grantss",
+      "contents": "Good comedy",
+      "review_date": {
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Karla Harris",
+      "contents": "The Talking Teddy Bear (That Uses Profanity)",
+      "review_date": {
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "a.lampert",
+      "contents": "Adolescent fairy tale aimed at the unthinking",
+      "review_date": {
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "Johan Dondokambey",
+      "contents": "Funny, with a lot of maturity warning",
+      "review_date": {
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Guillermo Bosque",
+      "contents": "Ted is an above-average comedy with some funny moments.",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Tony Montana",
+      "contents": "If this movie doesn't make you laugh then you're not normal.",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "videorama-759-859391",
+      "contents": "One vulgar, hysterically funny teddy, makes for big hit surprise of 2012",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Charles Woske",
+      "contents": "Hilarious!",
+      "review_date": {
+        "year": 2014,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "MaximumMadness",
+      "contents": "While it's jokes are hit-and-miss to the extreme, and it is too reliant on crudeness-for-the-sake-of-crudeness, \"Ted\" is salvaged by good direction and a lot of charm.",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "jedo_team",
+      "contents": "It's OK, but should have gone further away from \"standard\"",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Raymond",
+      "contents": "Not for everyone really",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "Mr-Fusion",
+      "contents": "For all the good this movie has to offer, \"Ted\" is surprisingly just a step above \"meh\".",
+      "review_date": {
+        "year": 2014,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Austin Sutton",
+      "contents": "Great Episode of live action Family Guy",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "PearlSmash",
+      "contents": "If you're into crude humor",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "jadepietro",
+      "contents": "Too Much to Bear",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "griffolyon12",
+      "contents": "A Quick, Nutshell Opinion of \"Ted\"",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Movie-monkeys",
+      "contents": "monkeytastic analyze of Ted",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "zetes",
+      "contents": "Very funny at times, but not that well written",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "margaretlynch-91242",
+      "contents": "Funny, Entertaining = Good Movie",
+      "review_date": {
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "juneebuggy",
+      "contents": "Funny, as promised",
+      "review_date": {
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Phil Hubbs",
+      "contents": "Ted",
+      "review_date": {
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "sokemrokemrobot",
+      "contents": "Only funny...",
+      "review_date": {
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "gasmaskproductionsbooks (gasmaskproductionsbooks@gmail.com)",
+      "contents": "Perfect movie for the lowest common denominator of society",
+      "review_date": {
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "anime68593",
+      "contents": "A little disappointed",
+      "review_date": {
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Michael O'Keefe",
+      "contents": "What should have been; what could have been.",
+      "review_date": {
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "Gerardrobertson61",
+      "contents": "Not as good as expected",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "Terence Frederick",
+      "contents": "TED - Rated R-aunchy R-acist R-idiculous guy",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "goldenboy2011",
+      "contents": "A Fantasy Comedy, for laugh a lot. Not for realistic people.",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "wanderleg",
+      "contents": "A mixed bag",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "stephen-scott83",
+      "contents": "Original! Profane!",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "alinafin101",
+      "contents": "Disappointing",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "ihopetherespudding",
+      "contents": "Seth Macfarlane fans will enjoy this one",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "rockiwi .",
+      "contents": "Fine, but don't expect anything remarkable",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "cgkull",
+      "contents": "Review of Ted",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "For all the insane hype...I really thought I'd like it...",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "Bridger Beal (cougarfan.bridger@gmail.com)",
+      "contents": "Great Story",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "rolanda_woo",
+      "contents": "Fairly rude jokes/behavior, hardly enjoyed",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Jonny 99",
+      "contents": "Like a middling \"Family Guy\" episode",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "nilshenry (nilshwr@gmail.com)",
+      "contents": "Have seen it all before",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "TommyT-444-828415",
+      "contents": "Started off with a BANG, and ended with a fizzle.  I blame the writers.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "kenyae-cagle",
+      "contents": "Ted is one of my favorite movies.",
+      "review_date": {
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "Sergeant_Tibbs",
+      "contents": "A blend of 80s nostalgia and modern stoner movie, it's heart keeps it from becoming as irritating as Family Guy is now.",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Paul Veerman",
+      "contents": "It won't waste your time",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Sara Martin",
+      "contents": "Reverse the gender roles and see what happens...",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "Charles Herold (cherold)",
+      "contents": "sweet, occasionally funny",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "FUN Flick, Mark Wahlberg is amazing in it",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Jez32uk",
+      "contents": "enjoyable enough - not sure reviewers understand",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Rameshwar IN",
+      "contents": "It is nowhere near as funny as it should be.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "tieman64",
+      "contents": "Teddy's too tame",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "djalexjack",
+      "contents": "Funny but lacking something",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "ironhorse_iv",
+      "contents": "This movie and me are Thunder Buddies for Life",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Aleksandar Razor",
+      "contents": "Better watch South park than this",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "http://jonnyfendi.blogspot.com",
+      "contents": "Crazy in A Very Good Way",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "ms dos",
+      "contents": "Racism! it's the 21st century",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "Muti R Sufi (mutisufi)",
+      "contents": "To all the complainers, what the heck were you expecting?",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "judgejon99",
+      "contents": "Mark Wahlberg- not his best film ever",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "dkar3",
+      "contents": "Mildly funny, Definitely offensive",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "Hamish Joy",
+      "contents": "Overrated, disappointing.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "adep101",
+      "contents": "Oh so disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "Alex Powell",
+      "contents": "Seth, I only like your Family Guy show.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "AWindmill",
+      "contents": "Hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "D deW",
+      "contents": "Watch trailer for all the funny jokes",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "robi_1",
+      "contents": "I should have known better",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "nathanschubach",
+      "contents": "A talking bear, pot/fart jokes, and random pop culture.  Meh.",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "dfle3",
+      "contents": "Disney meets Family Guy meets porno meets spooky...75%",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "jim-mcallister3",
+      "contents": "Great idea shame about the movie",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "revelly-robinson",
+      "contents": "Just plain awful",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "P Williams",
+      "contents": "Watchability by anyone with a sense of humour more highly developed than a two-year old child = none",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "dashielle89-425-132181",
+      "contents": "Why did people like this?",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "davec67",
+      "contents": "Falls far short of Family Guy",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "mr-tibbs131",
+      "contents": "fun and easy to watch",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "TamPalm",
+      "contents": "Bruno-esque = Waaaay Overrated!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "cultfilmfreaksdotcom",
+      "contents": "Never Grow Up",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Paigeabel",
+      "contents": "Worst movie of the year??",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": " (bob-rutzel-1)",
+      "contents": "Embarrassing to watch. Not Funny. Raunchy",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "Bradley Baum",
+      "contents": "Don't wast your money on this rubbish!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "ben chamberlain",
+      "contents": "Seth Macfarlane has no original material",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "WTFjustHappend",
+      "contents": "Have you seen the trailer? Then don't bother seeing the movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "Chris Hurt",
+      "contents": "If you watch Family Guy, no need to see this film",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "Bharat Samra",
+      "contents": "I didn't think my low expectations could have been disappointed. They were",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "chanlj",
+      "contents": "Great film for pubescent males",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "Christian Mortensen",
+      "contents": "A really fun and good movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "ultramatt2000-1",
+      "contents": "Very good",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "fionagreen1",
+      "contents": "Ted's Dead",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "g_l_o_w_o_r_m",
+      "contents": "Gen Y trash",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "Robert Boden",
+      "contents": "This is not comedy!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Erik Jacobsen",
+      "contents": "Fun, yet boring",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "lagudafuad",
+      "contents": "Other than the occasional laughs, you are not missing anything if you skip watching this in the cinema.",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "judith-schiavone",
+      "contents": "Funny for about ten minutes....",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "cdiddy404",
+      "contents": "The most I ever laughed in a movie theater in a long time!!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "johnnwood",
+      "contents": "If only the teddy bear hadn't started talking...",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "aislingconnolly87",
+      "contents": "Hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Mostly a crowd pleaser I'd say if you know what you're getting in to.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "chalwah",
+      "contents": "great movie zero complaints",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Ole Sandbaek Joergensen",
+      "contents": "Some will still find it over the top",
+      "review_date": {
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "phoenix 2",
+      "contents": "Good enough",
+      "review_date": {
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Daniel Holmes",
+      "contents": "funny",
+      "review_date": {
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "willcundallreview",
+      "contents": "A comedy with inconsistent hit and misses",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "jonathang56",
+      "contents": "Great Movie- not sure why it has got bad reviews. Spoilers",
+      "review_date": {
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "PxOxH",
+      "contents": "It was a really good movie",
+      "review_date": {
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "alindsay-al",
+      "contents": "A great comedy that will be remembered",
+      "review_date": {
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "kristosqiqi",
+      "contents": "Ted, dirty jokes. = Classic Seth",
+      "review_date": {
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "bowmanblue",
+      "contents": "Juvenile, infantile, puerile, stupid - I absolutely LOVED it!",
+      "review_date": {
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "gwnightscream",
+      "contents": "\"Funny!\"",
+      "review_date": {
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Aaroh Palkar",
+      "contents": "\"Ted\"funny,emotional,witty.......",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "atlasmb",
+      "contents": "Seth McFarlane at his creative best",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "maria joao",
+      "contents": "A big disappointment",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "richieandsam",
+      "contents": "A funny movie",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "ron_capuccino",
+      "contents": "good pop corn comedy with ironic sense",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Chris L",
+      "contents": "Enjoyable",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "MacGruber McGyver",
+      "contents": "Turkey Burgers",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "manendra-lodhi (manendra.lodhi@gmail.com)",
+      "contents": "\"A combination of funny episodes combined together without giving it a form of story.\"",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "cj_diaz",
+      "contents": "it was good, seen better",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "paudie",
+      "contents": "Not just for Family Guy fans but the apple hasn't fallen far from the tree",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "el_normandos",
+      "contents": "The funny Tedbear and the wish of a little boy",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Johnny Hollywood (jnatsis@iprimus.com.au)",
+      "contents": "Bear-able.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "joebroadway",
+      "contents": "Talking Teddy Bear unleashes killer raunchiness in an original, guffawing comedy with a sweet message.",
+      "review_date": {
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "jacobjohntaylor1",
+      "contents": "Terrible",
+      "review_date": {
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "liqizhong (liqizhong29@gmail.com)",
+      "contents": "Supper Funny!!",
+      "review_date": {
+        "year": 2016,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "BA_Harrison",
+      "contents": "Bear-faced low-brow fun.",
+      "review_date": {
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Stompgal_87",
+      "contents": "A decent comedy that quickly goes from cute to irreverent",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "henrikcr",
+      "contents": "Very funny",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Catwings",
+      "contents": "Not bad but Not good.",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Vincent Black",
+      "contents": "Before You View, Ask Yourself...",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "z-bomb95-553-427142",
+      "contents": "yall need to read this",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Treyroo",
+      "contents": "Hardly profound, yet brilliantly funny",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "A teddy bear with an attitude...",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "ani-for-prez",
+      "contents": "Funny but ends up being what it makes fun of",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "ericzillazillo",
+      "contents": "Hope this destroys family guy",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Lawrence Acock",
+      "contents": "Good, but could do better",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "cm_anon76",
+      "contents": "Too real to be absurd, but good acting",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Dan Franzen (dfranzen70)",
+      "contents": "Ted: comedy cred but movie dead",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "napierslogs",
+      "contents": "Offensive, wrong and childish, \"Ted\" is hilarious and then it becomes a Hollywood rom-com",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Mac1958",
+      "contents": "Absolutely Ridiculous...",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "kyle beck",
+      "contents": "Story line",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "bkoganbing",
+      "contents": "Me And My Teddy Bear, we got no worries and we got no cares",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "kindtxgal",
+      "contents": "Dead Ted",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "Hayjohowe",
+      "contents": "Still funnier than Pitch Perfect",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "aally_v",
+      "contents": "family ted",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "alex-369-867786",
+      "contents": "What happened?",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 2
+    },
+    {
+      "user": "Floated2",
+      "contents": "Funny and enjoyed it",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Hanam Hamid",
+      "contents": "Amazingly hilarious!",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Samuel Faulkner",
+      "contents": "Average",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "jarryd23456",
+      "contents": "Way overrated",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "Framescourer",
+      "contents": "Feature-length, often tepid Family Guy episode",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "laurenk93",
+      "contents": "Ted, by the faint-hearted.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "mistaphill-1",
+      "contents": "Would rather have had a Family Guy movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Helgi Jonsson",
+      "contents": "A disappointing, hollow movie with a non-existent plot.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "LaurieMann",
+      "contents": "Rare Comedy That Doesn't Give It All Away in the Trailer.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "meeza (themeezaman@hotmail.com)",
+      "contents": "Da Bear!",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "fmshaw1971",
+      "contents": "If you are twelve and naughty words make you giggle, this is THE movie for you!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "Neuenschwander9",
+      "contents": "Superior to the Whole \"Family Guy\" Nightmare",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "rodneill-1",
+      "contents": "Not sure why this film was made\u0085",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "TheSquiss",
+      "contents": "The ideal date film for easily pleased, drunk students.",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "dustin-rx",
+      "contents": "An Entertaining Adult Fairytale",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Kirk-Anthony Wignall",
+      "contents": "Something must be wrong with my sense of humor",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "burties5",
+      "contents": "Hilariously inappropriate!",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "JohnRayPeterson",
+      "contents": "Delightful Disney for adults",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Al von Staffenburgen",
+      "contents": "Surprisingly Hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "ceca_98",
+      "contents": "Horrible",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": "Zdislav_Dorklehoven",
+      "contents": "I don't understand a word of English, but this is definitely the best movie i have seen in YEARS!",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "beresfordjd",
+      "contents": "As I expected",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "quelita28",
+      "contents": "Review",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "rollergirl2828",
+      "contents": "Review",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Terrell Howell (KnightsofNi11)",
+      "contents": "Family Guy on R-rated steroids",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "snodlander",
+      "contents": "Much funnier than I expected",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Art Vandelay",
+      "contents": "1 star is 1 too many",
+      "review_date": {
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "sanjayasantoso",
+      "contents": "hilarious",
+      "review_date": {
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Demetrius Stork",
+      "contents": "Overrated but good for some quality laughs",
+      "review_date": {
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Alicja Johnson",
+      "contents": "Loved It!",
+      "review_date": {
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "ibeecroft1950",
+      "contents": "They made a Ted 2. are there that many morons alive?",
+      "review_date": {
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "sjensenstrad",
+      "contents": "I liked this movie a lot",
+      "review_date": {
+        "year": 2014,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Stuart Donovan",
+      "contents": "Ted ticks all the right boxes",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "blakepatterson2000",
+      "contents": "Ted is Hilarious",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "g-bodyl",
+      "contents": "Not Your Ordinary Teddy Bear!",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "mattkratz (themattk@hotmail.com)",
+      "contents": "good film",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Brian Woods",
+      "contents": "Juvenile movie, but not for kids!",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "sriramsrinivasan91-314-830752",
+      "contents": "Wanna hav 90 mins of fun?? You are the right place",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Prismark10",
+      "contents": "Teddy in a flash",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "jfgibson73",
+      "contents": "Funny all the way through",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Seth MacFarlane's 1 joke movie",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Elizabeth Rose",
+      "contents": "I Would've Given it 10 Stars, but...",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Mr_PCM",
+      "contents": "Funny despite itself, and oddly enjoyable",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Solid_Gold",
+      "contents": "Funny, but overloaded with scatological jokes and other offensive material",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Chandru Bhojwani (cultjones@yahoo.com)",
+      "contents": "Ted-errific",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Ahmed Almulla (a.y.almulla@live.com)",
+      "contents": "When reality meets fantasy!",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Raul Faust",
+      "contents": "I'm not looking at your funny business",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "leal-895-895113",
+      "contents": "Now, this is some funny xykz!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "FilmStallion",
+      "contents": "Ted...3 out of 4 Skittles",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "winsumlosesum",
+      "contents": "Starts off great but then descends in to standard Hollywood rubbish",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Jazz Webster",
+      "contents": "Ted Review",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "edwards_trina-560-690634",
+      "contents": "Hilarious but slows down",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "KJJenkins",
+      "contents": "Conventional but funny",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "george.schmidt (gpschmidt67@gmail.com)",
+      "contents": "One-note joke comedy; a disappointment.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "david-sarkies",
+      "contents": "Hey, I don't sound like Peter Griffin",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "bbrebozo",
+      "contents": "Maybe This Movie Isn't For \"Family Guy\" Fans",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "thesar-2",
+      "contents": "Naked Bear Alert!",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "colm-hearne365",
+      "contents": "One of the funniest movies of 2012",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "matt jackson",
+      "contents": "surprisingly very funny.",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "dazzking",
+      "contents": "If you like Southpark, you'll laugh a lot",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "RainDogJr",
+      "contents": "One of the funniest from 2012; \"Flash Gordon\" fans rejoice!",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "alfredblue2",
+      "contents": "The best comedy of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Jamie Page",
+      "contents": "Great movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "houghtonetet",
+      "contents": "Not really all that funny",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "marcus259387608",
+      "contents": "Supremely funny if over dependent on pop culture gags",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Ryan_MYeah",
+      "contents": "Tonally uneven, but totally hilarious.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Daniel O'Sullivan",
+      "contents": "Brilliant but something was missing",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "kdorsey321",
+      "contents": "Only Ted",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "brefane",
+      "contents": "Grin and bear it",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "drew_atreides",
+      "contents": "Good....but not great...",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "matteonif",
+      "contents": "A solid comedy, Just what you'd expect from Seth Macfarlane",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "JBlueNote",
+      "contents": "A Man's \"Bear\" Friend",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "bhusnur",
+      "contents": "Great film for a guys night",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "drewstar_16 (drewstar_16@hotmail.com)",
+      "contents": "Funny, but trying a little too hard...",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "abgkasjlkasjla",
+      "contents": "Better than its peers",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "ahmed mohamed",
+      "contents": "Funny And Unique !!!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "ecology0",
+      "contents": "You'll either love it or hate it",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "George  Brown",
+      "contents": "Absolutely Brilliant",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "jshee76",
+      "contents": "So Funny & really good story!!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "tbmforclasstsar",
+      "contents": "a seriously funny and surprisingly touching story about a man and his outrageous best friend, who just happens to be a teddy bear",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "moviemaniac008",
+      "contents": "Hilarious film!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "papabearEG",
+      "contents": "Aside from some annoying stereotypes, it's worth the price of admission.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "cadillac20",
+      "contents": "Not The Perfect Comedy, But Pretty Damn Funny",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "ccjasonstar",
+      "contents": "One of the worst movies ever!",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Charlie Palmer",
+      "contents": "Overall Ted is a great comedy film.",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "mrpharill",
+      "contents": "On The Floor Laughs",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "rasmus-himmelstrup",
+      "contents": "Funniest movie in 2012... if you are having a crush on Peter Griffin.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "Thomas Dinnegan",
+      "contents": "Over advertised, over rated and not as funny as it is made out to be !",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "linpaws",
+      "contents": "Disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "adlacomb",
+      "contents": "Nonstop laughter from start to finish!!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Bob-45",
+      "contents": "Frequently hilarious and touching; one of the all time great comedies",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "DennisHinSF",
+      "contents": "Calm Down Everyone!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "tasev1",
+      "contents": "stupid movie - full of jokes and no substance",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "morseman21",
+      "contents": "Simply Hilarious!",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "brandonking-25889",
+      "contents": "Awesome comedy",
+      "review_date": {
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "dbarbosa-84284",
+      "contents": "A man wishes his teddy bear to life, but his teddy bear becomes profane and foul-mouthed and ruins his relationship.",
+      "review_date": {
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Samuel Wade",
+      "contents": "This film is excellent but very rude",
+      "review_date": {
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "mikeramirez304",
+      "contents": "Awesome",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "beetleborgs69",
+      "contents": "Comedy will never be the same after \"Ted\"",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 9
+    },
+    {
+      "user": "atinder",
+      "contents": "it's not to be taken seriously the plot is about a talking bear!",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "ramblr78",
+      "contents": "Comedy is Back",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "siderite",
+      "contents": "Funny comedy that doesn't feel like has people laughing in the background",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "michaelgrantham",
+      "contents": "Wait for the second half!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "dalydj-918-255175",
+      "contents": "Ted is funny and that's about all it wants to be",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "vintagegal3",
+      "contents": "Funny, really funny.",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Bene Cumb",
+      "contents": "If toys could/would \"mature\" with you...",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "billcr12",
+      "contents": "Wahlberg and Kunis are Good",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Ketan Gupta",
+      "contents": "If you need a high dose of entertainment, TED is the right medicine for you.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "rebecca-ry",
+      "contents": "MacFarlane has definitely excelled here",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "godofwarmaster13",
+      "contents": "Rofl",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Bribaba",
+      "contents": "Can you bear it?",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "Laakbaar",
+      "contents": "You might like it if you like Family Guy",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "turtle-shells321",
+      "contents": "A little overrated and I was a bit disappointed",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "leonardconstantin61",
+      "contents": "a little bit disappointed because.......",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "epstei37",
+      "contents": "How can this be rated higher than  Wedding Crashers?",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Eamon Coulthard",
+      "contents": "Predictable boring storyline, not so funny movie",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "katniss96",
+      "contents": "Holy Abomination Batman",
+      "review_date": {
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "thewillt08",
+      "contents": "Better Than Family Guy",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "avdhesh-k",
+      "contents": "Amazingly Funny and Brilliantly written movie",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Dan Ashley (DanLives1980)",
+      "contents": "Finally, a real kids film for adults!",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "apb216",
+      "contents": "A lot better than I expected",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "illbebackreviews",
+      "contents": "The funniest movie to me in quite a while!",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "markgorman",
+      "contents": "the great 10 out of ten 2 out of ten roller-coaster ride.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "reloadandrevolt",
+      "contents": "Don't bring the kids, bring a bong!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "xJags",
+      "contents": "Funniest movie of the year",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Jay Skebo",
+      "contents": "Ted is a good movie",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "ritera1",
+      "contents": "Hangover 2 laughs?",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "mm-39",
+      "contents": "Ted is not for children!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "james-t-sheridan",
+      "contents": "There's Just Something About Ted",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "scupper-simons",
+      "contents": "Pretty funny movie, but some humor is just a little dry",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "poopsmcghee69",
+      "contents": "Lola i was IN THIS MOVIE i lobed it I WAS the bear ah aha",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 10
+    },
+    {
+      "user": "kylehaines96",
+      "contents": "Flash Gordan, Turkey Burgers And Thunder Buddies, Ted Has A Dirty Sense Of Humor But It's Heart Is Pure(**** Out Of ****).",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "jade-byoung",
+      "contents": "One of the funniest films of the year!!",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "john-morris-457-107710",
+      "contents": "A bit raw in places, but very funny.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Vinay Sital",
+      "contents": "Family guy-Fanatics.. You are gonna laugh your butts off!",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "nunomorna",
+      "contents": "A well put together collection of memes",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "MovieReviews101",
+      "contents": "Hilarious/Amazing",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "pranav_2001",
+      "contents": "Hilariously creative",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "jackstarr777",
+      "contents": "Hilarious, best comedy of the summer",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Padraig Walsh",
+      "contents": "If you like Seth, you'll like this. If not, you still probably will like this.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Sam Slop Lo Proto",
+      "contents": "Dogs are a Man's best friend?  NOT ANYMORE!",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Jin Maruhashi",
+      "contents": "Seth MacFarlane sews together a comedy with exhaustingly humorous filling",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "timvance123",
+      "contents": "The number one comedy in recent memory!!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "HelenMary",
+      "contents": "if children's films grew up - in a word, hilarious!",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "mberker4-382-984374",
+      "contents": "Almost as funny as family guy itself",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "Funny But Offense Farce About A Potty-Mouthed, Pot-Puffing Teddy Bear",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "chmpgnrose",
+      "contents": "Best Friends",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Gregory Cormier",
+      "contents": "Great Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Tj Ramadoss",
+      "contents": "Highly recommenTED!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Jordan MeetingFlipper Gross",
+      "contents": "Live action Family Guy!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Ethan Grant",
+      "contents": "Ted review",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "oolatech2",
+      "contents": "Wow, I laughed so hard I had to watch it twice....",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "shanehamblyn",
+      "contents": "Laugh Out Loud comedy returns!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "ShelbyTMItchell",
+      "contents": "Not A Kid's Movie But Hilarious!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "user-419-381779",
+      "contents": "TED, hilarious and rude but heartwarming",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "I didn't like it but it does have it's target audience",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Matthew Gharakhanian",
+      "contents": "Seth MacFarlane goes Hollywood",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "steevandkay",
+      "contents": "Ted doesn't disappoint.",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "nama chakravorty",
+      "contents": "Hilarious!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Keelan Donohue",
+      "contents": "This is a must see!!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "gary-sayers",
+      "contents": "Be careful if you're drunk....",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Dillon Harris",
+      "contents": "Seth Macfarlane Proves that he Can Expand Beyond Animated Series,",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "markandkarenfitz",
+      "contents": "beyond funny",
+      "review_date": {
+        "year": 2012,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "ronancraven",
+      "contents": "v impressive",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Angela Moorehouse",
+      "contents": "This movie was very funny, and Seth McFarlane's humor was evident throughout the whole movie",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "brad_the_metalhead",
+      "contents": "Hilarious!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "werefox08",
+      "contents": "Something About Teddy",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "One of the funniest movies I have ever seen. So un-pc which makes it funnier. Believe the hype..A must see comedy. I give it an A.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "diac228 (diac1987@netscape.net)",
+      "contents": "Family Gu--er, Seth MacFarlane finally makes his big screen debut",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "kenlaw30",
+      "contents": "good",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "siccnicc1982",
+      "contents": "Nonstop laughs. Laughed so hard I kept missing parts and had to rewind about 20 times to catch up.",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "jenordfoto",
+      "contents": "As good as expected",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "allenyoakum",
+      "contents": "Ted: The Perfect Gutter Humor Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "whiskeyjack27",
+      "contents": "Funniest Movie I've Ever Seen",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "kasey-bryen",
+      "contents": "very funny",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 9
+    },
+    {
+      "user": "Tcarts76",
+      "contents": "A welcomed hilarious man child comedy!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Nafis Shahriyar",
+      "contents": "some top-notched entertainment for me and made me wish for a Ted also in my life :p",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "Andrew .",
+      "contents": "Ted....ious... ?",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "karlohrabar",
+      "contents": "A brilliant blend between a children's and an adult's. But mostly adult.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "kdnor2011",
+      "contents": "Really, really funny",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "markgraham280",
+      "contents": "A comedy that'll corrupt you - in a good way",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Iver Neset",
+      "contents": "A Funny Movie That Rivals Family Guy",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "A very entertaining comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "kosmasp",
+      "contents": "TED bringing all the Family (guy fans) together?",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "moonspinner55",
+      "contents": "Plain-spoken, matter-of-fact fantasy...gleefully, if at times obnoxiously, 'incorrect'",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "davideo-2",
+      "contents": "High concept comedy that's already gaining the cult following it was meant to",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "brando647",
+      "contents": "TED is Hilarious!",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Andrew Dubowitz",
+      "contents": "Seth Macfarlane's verison of Winnie-the-Pooh",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "KIEZER SOZE",
+      "contents": "Everybody who gave TED (*Negative*) Reviews .. Suck a Hepres Infested D##K",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "martinrobertson300482",
+      "contents": "I thought it was going to be awful. Just Awful!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "dillett-2007",
+      "contents": "Finally a funny film since the 90's.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "sean-cowan1",
+      "contents": "Hilarious live-action debut",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Christian_Dimartino",
+      "contents": "Wild, hilarious, ridiculous, and outrageous.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "jamespell",
+      "contents": "Disappointed to see so much negativity",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Essentially a straightforward rom-com, but with an original central joke",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "HollywoodAlicia",
+      "contents": "Knocking on raunchy's door!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "SebMModernsII",
+      "contents": "Putting Both The \"FUN\" And \"NY\" Back Into Funny!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "J Jamzy",
+      "contents": "Particular Humour Required...",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "foleymichael60",
+      "contents": "Funny Classic",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "True Nik",
+      "contents": "Very good Movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Dharmendra Singh",
+      "contents": "Bear Necessities",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Joseph Akers",
+      "contents": "Do your self a favour!",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "freemantle_uk",
+      "contents": "Thunder Buddies for Life",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Becca East",
+      "contents": "Fantastic summer movie a must see!!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "anandsankar-438-855539",
+      "contents": "Excellent Laugh Out Loud Funny Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "tavm",
+      "contents": "Seth MacFarlane's Ted is quite both raunchy and a little touching",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "silverwing-001",
+      "contents": "So fricken funny",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "jonassandstrom81",
+      "contents": "Wonderful familyguy-comedy with heart,, feel good-movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Hitchcoc",
+      "contents": "Sophomoric Craziness",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "rivertam26",
+      "contents": "Haven't we seen this movie before?",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "tigerstar154",
+      "contents": "Funny",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "contents": "Ted (2012) - Seth MacFarlane Power!",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "ThreeGuysOneMovie",
+      "contents": "the first filthy mouthed, pot smoking, Flash Gordon loving, vegetable pile fornicating animated teddy bear comedy I have seen",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "patrick-west10",
+      "contents": "Funniest comedy in years",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "ticklegear",
+      "contents": "MArk Wahlberg Hates Asians - proof inside",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "guy-nicholas",
+      "contents": "I completely underestimated this movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "AudioFileZ",
+      "contents": "When You Wish Upon A Star...Turned On Its Ear!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "vivietta5",
+      "contents": "Talking teddy bear, funny or just plain weird?",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "serge-kurtnick",
+      "contents": "One of the Best Comedies of the Year!!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Matt_Layden",
+      "contents": "Family Guy Uncensored.",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "DJ Coal",
+      "contents": "If you need about an hour and a half of nonstop laughter...",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "georgewhite98",
+      "contents": "great, great movie",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "sweetcommando",
+      "contents": "goes over board with jokes... which is good",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "geniuskmc27",
+      "contents": "Hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "lt98023",
+      "contents": "Funniest movie of the year. Doesn't disappoint!!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "UberGoober1411",
+      "contents": "Ted makes you laugh \"hahdar\" than you have laughed in a long time, while still maintaining relate-ability",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "Brings us back to laughing at something just because",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "WakenPayne",
+      "contents": "Seth McFarlene has improved - not by much",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "StrayFeral",
+      "contents": "A true LMFAO!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Jim Beller",
+      "contents": "Pathetic and Not Worth Wasting Your Time",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "laa4-418-67196",
+      "contents": "TED brings all the Family Guy type of humor to the big screen....",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "rpete528",
+      "contents": "Funny",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Howlin Wolf",
+      "contents": "Every home should have one...",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "franciscoraposo72",
+      "contents": "Best Movie of All Time",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Joe Miller",
+      "contents": "Liked it a lot!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Michael Milhoan",
+      "contents": "My Thoughts",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Ted",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Du'aine Roberts",
+      "contents": "Rating",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "deatman9",
+      "contents": "predictable story but very funny",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "contents": "Tigers play too rough, but not as rough as Ted",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "pacmanschulte",
+      "contents": "Very funny for MacFarlane's first film",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Fields201",
+      "contents": "FINALLY a GOOD Summer movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "canadian58",
+      "contents": "I wish all movies were as good as this!",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "garethok",
+      "contents": "Amazing, irreverent, and much like real life!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Tyree Webster (tyreeewebster@hotmail.co.uk)",
+      "contents": "Retrospective Reviews- Ted (2012)",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Tss5078",
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "getyourdander",
+      "contents": "Crazy But It Works",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "devastationfilms1",
+      "contents": "if you don't like family guy, beware of this movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "preppy-3",
+      "contents": "Funny and (surprisingly) not that crude",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "ToddWebb",
+      "contents": "AWESOME comedy!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "JDMP10",
+      "contents": "Absolutely hilarious from beginning to end.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "josemambo711",
+      "contents": "Best comedy of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "xThe_Fury",
+      "contents": "Ted - A Review by Brandon Krzysztof",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "wildandcrazguy1",
+      "contents": "Funniest movie since The Hangover",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Bruno Wang",
+      "contents": "MacFarlane Genius on the Big Screen. Must See",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "arnieiam",
+      "contents": "Family Guy humour actually works on live action",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Shane  Williams (usernamehasbeentaken@hotmail.com)",
+      "contents": "Movie is watchable more than two times in a row.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "filmcritic3",
+      "contents": "Chock full of laughs",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Adam Podmore",
+      "contents": "I don't get why there are so many bad reviews. Top film",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "nixau",
+      "contents": "The Bear was funny",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "chas65",
+      "contents": "Hilarious - it's an R parents so don't bring your kids!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "DoctorRabbit",
+      "contents": "Not Great, Not Bad. Just Alright",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "Toy Story  meets  Family Guy",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "swedishfish88",
+      "contents": "Not for the faint of heart... but really good fun.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "elrond5000",
+      "contents": "Way more funny than I expected!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Terry-lee Thurlow (The-Stalingraduates-review)",
+      "contents": "straight into my top 10 comedies",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "arranhicks",
+      "contents": "Seth McFarlane is officially a comedy genius.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Ty Stephen Furtado",
+      "contents": "Interesting movie",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "reviewerofmovies",
+      "contents": "The funniest film with a CGI main character since Paul!",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "depuimusic",
+      "contents": "Music to the movie",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Stacey Showers",
+      "contents": "Toilet Humor With Heart",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "RapiestPirate",
+      "contents": "Funny as a live action Family Guy!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "GoneWithTheTwins",
+      "contents": "It's worth noting the remarkable ease in which the talking bear blends into the world that has been created.",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "Ted",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "The Story of a Man and His Bear",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "Darkknight951",
+      "contents": "My take on the truly dirtiest Teddy bear movie you'll ever see in your life",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "henryagnew250",
+      "contents": "Ted review.",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "cmweinreich",
+      "contents": "Pleasant Surprise",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "gregeichelberger",
+      "contents": "Raunchy comedy surprising funny",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "BigWhiskers",
+      "contents": "Pure McFarland Hilarious genius",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "rawvibes",
+      "contents": "Best Comedy Film of 2012",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Kristine (kristinedrama14@msn.com)",
+      "contents": "Family Guy: I love Boston",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "seanstedman-411-163384",
+      "contents": "best movie ever",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "thedarksteps",
+      "contents": "Truly an American Classic for all you Seth McFarlane loving bastids",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Danny Blankenship",
+      "contents": "Cute, clever, adorable and brash fun fairy tale comedy!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Tattz2000",
+      "contents": "If You Like Teddy Bears (and who doesn't?) You'll Love This",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Vish Santhakumar",
+      "contents": "Loved it!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "Awesome comedy!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "M_o_g_a_m_b_o (bollyjuice@hotmail.com)",
+      "contents": "Vastly inferior",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    }
+  ],
+  "release_month": "June",
   "genres": [
     "comedy",
     "fantasy"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 19,
-    "month": 10,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 54415205
+  "opening_weekend_screens": 3239,
+  "name": "Ted",
+  "num_weekends": 16,
+  "release_day": 29,
+  "critic_review_count": 456
 }

@@ -1,89 +1,331 @@
 {
-  "critic_review_count": 118,
-  "year": 2012,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 5,
-    "day": 3
-  },
-  "release_month": null,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "year": 2013,
-    "month": 3,
-    "day": 29
-  },
-  "metascore": 58,
-  "max_screens": 16,
-  "duration": 94,
-  "rating_count": 7468,
-  "opening_weekend_income_currency": "$",
-  "num_weekends": 5,
+  "release_day": null,
   "avg_rating_per_demo": {
-    "non-us_users": 6.2,
-    "females_aged_18-29": 6.8,
-    "females": 6.3,
-    "females_aged_30-44": 6.1,
+    "top_1000_voters": 5.4,
+    "males_under_18": 6.5,
     "imdb_staff": 1.0,
     "aged_45+": 5.8,
-    "aged_under_18": 6.5,
-    "males_aged_30-44": 6.1,
-    "top_1000_voters": 5.4,
-    "aged_30-44": 6.1,
+    "imdb_users": 6.2,
+    "males_aged_45+": 5.8,
+    "aged_18-29": 6.5,
+    "females_aged_30-44": 6.1,
     "males_aged_18-29": 6.5,
     "males": 6.2,
+    "females": 6.3,
     "females_aged_45+": 5.6,
-    "males_under_18": 6.5,
-    "imdb_users": 6.2,
+    "non-us_users": 6.2,
+    "females_aged_18-29": 6.8,
     "us_users": 6.1,
-    "males_aged_45+": 5.8,
-    "aged_18-29": 6.5
+    "aged_30-44": 6.1,
+    "aged_under_18": 6.5,
+    "males_aged_30-44": 6.1
   },
-  "user_review_count": 21,
-  "rating_freq": {
-    "1": 345,
-    "2": 191,
-    "3": 279,
-    "4": 481,
-    "5": 832,
-    "6": 1414,
-    "7": 1743,
-    "8": 1137,
-    "9": 505,
-    "10": 541
+  "closing_date": {
+    "month": 5,
+    "year": 2013,
+    "day": 3,
+    "__type__": "datetime.date"
+  },
+  "metascore": 58,
+  "num_weekends": 5,
+  "rating_count": 7471,
+  "gross_income": 45209,
+  "max_screens": 16,
+  "opening_weekend_screens": 16,
+  "screens_by_weekend": [
+    16,
+    8,
+    4,
+    5,
+    6
+  ],
+  "opening_weekend_income": 20424,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Wrong: because, you know, palm trees make sense",
+      "score": 7,
+      "user": "ianfarkas9",
+      "review_date": {
+        "month": 1,
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For once ignore the serious one star reviews!",
+      "score": 8,
+      "user": "OrderedChaos",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Monty Python meets Michel Gondry\"",
+      "score": 7,
+      "user": "blbl1",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unusual, human and very moving.",
+      "score": 8,
+      "user": "mk_doogs",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Delightfully quirky and beautifully shot",
+      "score": 9,
+      "user": "LynchpinHags",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "pretty damn good",
+      "score": 10,
+      "user": "zakstrong",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One mans wrong is another mans right",
+      "score": 8,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "nothing deep - it just wants to be funny, and it is",
+      "score": 8,
+      "user": "MisterWhiplash",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absurd, Charming, and Dog-Gone Funny!",
+      "score": 8,
+      "user": "rsj624",
+      "review_date": {
+        "month": 10,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Sorry Quentin, that wrong answer is right\"",
+      "score": 4,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Seems everything is wrong, but in a funny way.",
+      "score": 6,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "quirky",
+      "score": 6,
+      "user": "smirnofred (smirnofred@yahoo.com.hk)",
+      "review_date": {
+        "month": 5,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Where is my dog?",
+      "score": 6,
+      "user": "valbrazon",
+      "review_date": {
+        "month": 9,
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty funny",
+      "score": 8,
+      "user": "kulminaator",
+      "review_date": {
+        "month": 3,
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Avoid!",
+      "score": 2,
+      "user": "mihvel",
+      "review_date": {
+        "month": 7,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just plain Wrong",
+      "score": 1,
+      "user": "cbgb200",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Avoid - Waste of Time",
+      "score": 1,
+      "user": "joewise808080",
+      "review_date": {
+        "month": 11,
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I had to join IMDb just so I could try and justify my lost 90 minutes of life",
+      "score": 1,
+      "user": "robc-594-27453",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring to death",
+      "score": 3,
+      "user": "Tomaz Adour",
+      "review_date": {
+        "month": 2,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Waste of time",
+      "score": 1,
+      "user": "ian-968-580479",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I couldn't even finish watching it",
+      "score": 1,
+      "user": "Andrew Osta",
+      "review_date": {
+        "month": 1,
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 94,
+  "votes_per_demo": {
+    "top_1000_voters": 127,
+    "males_under_18": 5,
+    "imdb_staff": 1,
+    "aged_45+": 670,
+    "imdb_users": 7471,
+    "males_aged_45+": 566,
+    "aged_18-29": 2525,
+    "females_aged_30-44": 374,
+    "males_aged_18-29": 2066,
+    "males": 5738,
+    "females": 923,
+    "females_aged_45+": 89,
+    "non-us_users": 4544,
+    "females_aged_18-29": 430,
+    "us_users": 1048,
+    "aged_30-44": 3352,
+    "aged_under_18": 5,
+    "males_aged_30-44": 2914
   },
   "genres": [
     "comedy",
     "mystery"
   ],
-  "budget": null,
-  "rating": 6.2,
-  "name": "Wrong",
-  "opening_weekend_income": 20424,
-  "avg_screens": 7.8,
-  "gross_income": 45209,
-  "votes_per_demo": {
-    "non-us_users": 4541,
-    "females_aged_18-29": 429,
-    "females": 921,
-    "females_aged_30-44": 373,
-    "imdb_staff": 1,
-    "aged_45+": 669,
-    "aged_under_18": 5,
-    "males_aged_30-44": 2914,
-    "top_1000_voters": 127,
-    "aged_30-44": 3351,
-    "males_aged_18-29": 2066,
-    "males": 5737,
-    "females_aged_45+": 89,
-    "males_under_18": 5,
-    "imdb_users": 7468,
-    "us_users": 1048,
-    "males_aged_45+": 565,
-    "aged_18-29": 2524
+  "opening_weekend_income_currency": "$",
+  "rating_freq": {
+    "1": 345,
+    "2": 191,
+    "3": 279,
+    "4": 481,
+    "5": 833,
+    "6": 1414,
+    "7": 1745,
+    "8": 1136,
+    "9": 506,
+    "10": 541
   },
-  "release_year": null,
+  "release_month": null,
+  "budget": null,
   "budget_currency": null,
-  "release_day": null
+  "total_screens": 39,
+  "year": 2012,
+  "rating": 6.2,
+  "critic_review_count": 118,
+  "opening_weekend_date": {
+    "month": 3,
+    "year": 2013,
+    "day": 29,
+    "__type__": "datetime.date"
+  },
+  "name": "Wrong",
+  "user_review_count": 21,
+  "avg_screens": 7.8
 }

@@ -1,91 +1,3090 @@
 {
-  "name": "Magic Mike",
+  "budget": 7000000,
   "opening_weekend_income": 39127170,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 21,
+    "__type__": "datetime.date",
+    "month": 9
+  },
+  "budget_currency": "$",
+  "avg_screens": 1364.0,
+  "rating_freq": {
+    "1": 4274,
+    "2": 2637,
+    "3": 3989,
+    "4": 7834,
+    "5": 16436,
+    "6": 27286,
+    "7": 24735,
+    "8": 12049,
+    "9": 4232,
+    "10": 8780
+  },
+  "screens_by_weekend": [
+    2930,
+    3120,
+    3090,
+    2606,
+    2075,
+    1202,
+    450,
+    255,
+    268,
+    202,
+    115,
+    55
+  ],
+  "rating_count": 112252,
+  "total_screens": 16368,
+  "max_screens": 3120,
+  "duration": 110,
+  "gross_income": 113709992,
+  "metascore": 72,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 479,
+    "imdb_users": 112252,
+    "us_users": 20123,
+    "aged_18-29": 47503,
+    "non-us_users": 51910,
+    "aged_45+": 7853,
+    "aged_30-44": 35554,
+    "males_aged_30-44": 21392,
+    "males_aged_18-29": 22247,
+    "males_aged_45+": 4776,
+    "aged_under_18": 339,
+    "imdb_staff": 12,
+    "males_under_18": 107,
+    "females_aged_30-44": 13702,
+    "females": 44917,
+    "females_under_18": 226,
+    "females_aged_45+": 2935,
+    "males": 50869,
+    "females_aged_18-29": 24690
+  },
+  "user_review_count": 286,
+  "rating": 6.1,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 5.6,
+    "imdb_users": 6.1,
+    "us_users": 6.1,
+    "aged_18-29": 6.2,
+    "non-us_users": 6.0,
+    "aged_45+": 5.8,
+    "aged_30-44": 6.0,
+    "males_aged_30-44": 6.0,
+    "males_aged_18-29": 6.2,
+    "males_aged_45+": 5.7,
+    "aged_under_18": 6.6,
+    "imdb_staff": 5.8,
+    "males_under_18": 6.5,
+    "females_aged_30-44": 6.1,
+    "females": 6.1,
+    "females_under_18": 6.8,
+    "females_aged_45+": 6.0,
+    "males": 6.0,
+    "females_aged_18-29": 6.2
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 29,
+    "__type__": "datetime.date",
+    "month": 6
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "Jim Gilligan",
+      "contents": "It's not about the stripping...",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "moviewizguy",
+      "contents": "The law says you cannot touch, but I think I see a lotta lawbreakers up in this house tonight...",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Brett Clark",
+      "contents": "Too Long, Boring, and Didn't Have a Real Ending....",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "OrsonLannister",
+      "contents": "Schizophrenic: Why \"Magic Mike\" doesn't work",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "Quietb-1",
+      "contents": "No magic here.",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Taylor Wamaski (IrishJewFairyGirl)",
+      "contents": "Magic Mike: Needed More Magic and Less Mike",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "M. J Arocena",
+      "contents": "Great buns, shame about the script",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "preppy-3",
+      "contents": "Aside from the stripping there's nothing new  here but I was never bored",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Carole Bostic",
+      "contents": "disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "afertak",
+      "contents": "Too much of one's ego and no director on sight to take hold on it:(",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "Stay_away_from_the_Metropol",
+      "contents": "Way more magic involved than I had presumed",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "nxtlyftyme",
+      "contents": "Where's the fast forward button?",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Richard",
+      "contents": "Truly Dreadful",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "elizabeth-jean105",
+      "contents": "If I were to watch it again, it would be on mute and I would FF to all the stripping scenes.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "Dharmendra Singh",
+      "contents": "One for the ladies (and gentlemen)",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "ricoa283",
+      "contents": "A Male's Point of View",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "goodboy998",
+      "contents": "Trash",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "napierslogs",
+      "contents": "The lifestyle of male strippers with characters and dichotomies",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Matthew Stechel (mateob25@aol.com)",
+      "contents": "OK enough movie, no more no less--the stripping scenes pop with life, but the rest is dull filler",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Fayaz Habib",
+      "contents": "Neither too good nor too bad.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "andiallison1",
+      "contents": "Two thumbs down",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "cewdda",
+      "contents": "This was one of the worst movies I've ever seen",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "tuhin94",
+      "contents": "Magic Mike and The Kid",
+      "review_date": {
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "Magic Channing.",
+      "review_date": {
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Laakbaar",
+      "contents": "C'mon",
+      "review_date": {
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Adam Foidart",
+      "contents": "Not just for the ladies",
+      "review_date": {
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Joxerlives",
+      "contents": "A surprisingly fun male version of 'Striptease'.",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Elinix",
+      "contents": "Not the kind of magic you expect",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "jhkp",
+      "contents": "Magic Mike has a lot of good things in it",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "jcox713",
+      "contents": "It's hard to know how to categorize this movie",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "troy-manatunga",
+      "contents": "I see no reason to hate this movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "filmartst19",
+      "contents": "No Magic, Just Mike",
+      "review_date": {
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "vincentlynch-moonoi",
+      "contents": "No, just no",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "jery-tillotson-1",
+      "contents": "\"You're a 30-year-old Stripper!!!!\"",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "Turfseer",
+      "contents": "Soderbergh's exploration of vacuous world of male stripping cannot offset tale of budding entrepreneur's redemption",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "georgiasunflower",
+      "contents": "Magic Mike",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "wandereramor",
+      "contents": "You don't even get the full monty",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "Lucien Lessard",
+      "contents": "Surprisingly entertaining movie, that is more serious than funny.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "laurenk93",
+      "contents": "Not so Magic Mike...",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "lui-samantha",
+      "contents": "Magic Mike is more than just a sexy striptease",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "TheGatsby",
+      "contents": "The 24th film from Steven Soderbergh proves to be more than just a 'stripping movie'.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "linnphan10",
+      "contents": "Nice bodies and dancing, horrible plot and acting, badly directed",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "callisto3-1",
+      "contents": "Not entertaining enough",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "patsworld",
+      "contents": "Dancing Wasn't Bad, The Rest Of It Was!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "marymorrissey",
+      "contents": "get sucked in by the preview then endure a hoaky morality play",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "nikki_kdodd",
+      "contents": "Not what I was expecting...",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "principessa908",
+      "contents": "\"what?\"",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "golden_boy_22",
+      "contents": "Horrible",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "nori_bakonyi",
+      "contents": "Shouldn't have missed the return of the Spice Girls for this",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "dglink",
+      "contents": "More Magic, Mike, More Magic",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Jenny King",
+      "contents": "Nope.",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "wtmerrett",
+      "contents": "The Magic is the Disappearing Story Line",
+      "review_date": {
+        "year": 2017,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "adonis98-743-186503",
+      "contents": "Alright, Alright, Alright",
+      "review_date": {
+        "year": 2017,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Jade Chan",
+      "contents": "Such a complicated subject, such a graceful and touching movie",
+      "review_date": {
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Netrapal Das",
+      "contents": "An underrated movie!",
+      "review_date": {
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "mistoppi",
+      "contents": "I liked it, yet it seems a bit hollow",
+      "review_date": {
+        "year": 2016,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Floated2",
+      "contents": "Career turning performance",
+      "review_date": {
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "Samuel Cannon",
+      "contents": "A great film that suffered from mismarketing",
+      "review_date": {
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "Ethan_Martin",
+      "contents": "Don't judge a book by it's well chiseled cover",
+      "review_date": {
+        "year": 2016,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "larksine",
+      "contents": "I Believe in Magic",
+      "review_date": {
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "sage411",
+      "contents": "Just another OK Chick Flick",
+      "review_date": {
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "Jeffrey Reed",
+      "contents": "rather boring, despite the beefcake",
+      "review_date": {
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "Johan Dondokambey",
+      "contents": "Too many montages, but still a good presentation",
+      "review_date": {
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "phoenix 2",
+      "contents": "not good enough",
+      "review_date": {
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "S M",
+      "contents": "I enjoyed it for the story",
+      "review_date": {
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "MisterWhiplash",
+      "contents": "a fun movie, with a boost from McConaughey",
+      "review_date": {
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Dillon Harris",
+      "contents": "Very Slow Comedy, but brings in Great Laughs and Performances,",
+      "review_date": {
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Tss5078",
+      "contents": "The Ultimate Movie Review! - http://tss5078.blogspot.com - @tss5078",
+      "review_date": {
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "Mr-Fusion",
+      "contents": "Flies off the rails when the script gets serious",
+      "review_date": {
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "hammanship",
+      "contents": "Trimethylaminuria",
+      "review_date": {
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "angelsunchained",
+      "contents": "They Laughed All The WayTo The Bank",
+      "review_date": {
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Brian McMurray (mcmurraybrian)",
+      "contents": "My \"Magic Mike\" Justification... errr... Review (A Married Guy's Perspective)",
+      "review_date": {
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "anthonymichaelbangert",
+      "contents": "Fun and Realistic",
+      "review_date": {
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "tomgillespie2002",
+      "contents": "An engaging and unconventional experience",
+      "review_date": {
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Lyza Berry",
+      "contents": "Pretty to look at not much to listen to",
+      "review_date": {
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "not as fun or energetic as I expected",
+      "review_date": {
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Frank Antonio Vig",
+      "contents": "Magic Mike entertains but misses the big picture",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "bravesfanc",
+      "contents": "Just not enough magic",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "toni-cooke18",
+      "contents": "Only worth watching for the stripping!",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Jb11174",
+      "contents": "Saw in the movie theater and Watch it every time it's on TV!!!",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Steven Morrison",
+      "contents": "Didn't know what to expect - Very impressed!",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "ceciuy",
+      "contents": "Fun, fun, fun!!!!",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 8
+    },
+    {
+      "user": "tnrcooper",
+      "contents": "Steven Soderbergh's take on the boy-meets-girl movie",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "maxbettridge",
+      "contents": "Lots of topless men, in a pointless story",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "abundidi1184",
+      "contents": "Liked it better than I thought",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "hot bodies, boring story",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "italo505",
+      "contents": "Does anybody really care about Magic Mike's plot? Really?",
+      "review_date": {
+        "year": 2013,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "lachowskii",
+      "contents": "Entertaining but Disappointing",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Nicole Garofolo",
+      "contents": "If you come into this film with expectations, you're bound to be disappointed",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "johnnyboyz",
+      "contents": "Well made character drama demanding the attention of those who'll charge out to see it as well as those who, ordinarily, would steer well clear.",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "meeza (themeezaman@hotmail.com)",
+      "contents": "Not enough muscle for a positive recommendation",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "NuclearBassline",
+      "contents": "A Disappointment (Spoilers)",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "p-stepien",
+      "contents": "Bumtastic. Or not.",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "rovace86",
+      "contents": "Ordinary people learning from each at best",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 9
+    },
+    {
+      "user": "valadas",
+      "contents": "Flogging a dead horse",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "kosmasp",
+      "contents": "Getting to the bottom of it",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "Johnny Hollywood (jnatsis@iprimus.com.au)",
+      "contents": "Despite its flaws, it's 'alright, alright, alright.'",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "Ryan_MYeah",
+      "contents": "Strictly a guilty pleasure that rarely flirts with greatness.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "dinalt10",
+      "contents": "Watchable, but no magic",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "HelenMary",
+      "contents": "The only thing Magic is Channing, the rest is like amateur hour",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Marie Hood",
+      "contents": "Oh, the shame.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "pencritical",
+      "contents": "No plot and horrible acting",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "MsMovie",
+      "contents": "It's Boogie Nights with strippers basically.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "durur6",
+      "contents": "110 minutes of your life you will regret losing.",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "cbrauchle-143-760467",
+      "contents": "Too much Mike and no magic",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "The ups and downs of the lifestyle of being a male stripper",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "cultfilmfan",
+      "contents": "Magic Mike",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Ole Sandbaek Joergensen",
+      "contents": "Mostly for the chicks",
+      "review_date": {
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Dalbert Pringle",
+      "contents": "A Yawn-A-Minute, Penny-Ante, Strip-O-Gram",
+      "review_date": {
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "darosslfc",
+      "contents": "Boogie Nights Light",
+      "review_date": {
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Mike Bear",
+      "contents": "... ..moments in Channing Tatum's life..",
+      "review_date": {
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Sophie Stax",
+      "contents": "Hard bodies soft plot",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "PoisonKeyblade",
+      "contents": "Beautiful directing, Beautiful men, Beautiful film",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Dan Fisher",
+      "contents": "Not your traditional bad movie...",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "HollywoodAlicia",
+      "contents": "A must see for single women EVERYWHERE!",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 9
+    },
+    {
+      "user": "rockman182",
+      "contents": "Magic Mike",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "veeckasinwreck",
+      "contents": "More than skin deep",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "mjp0117-26-143834",
+      "contents": "Exactly as expected.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "rooee",
+      "contents": "Lust, Caution",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "blogurious",
+      "contents": "Not so magic!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "Mer So",
+      "contents": "Visually engaging, horrible dialog.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Marco Rea",
+      "contents": "It was such a good movie",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "kirsty-mackenzie",
+      "contents": "Don't you dare watch this",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "sailornaruto39",
+      "contents": "Waste of money and time",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "febru3012",
+      "contents": "Not Awful Horrendously Awful",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "Nick Damian",
+      "contents": "Not the way real dancers are.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "bigmystery23",
+      "contents": "Soderbergh and Tatum at their best",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Candice Kolesky",
+      "contents": "This is the last time I will watch a Soderbergh movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "joannefilm2014",
+      "contents": "Sweet? movie about male strippers",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "DoctorRabbit",
+      "contents": "Not What You'd Expect, And That's A Good Thing",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "jadepietro",
+      "contents": "Thongs for the Memories",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "tbmforclasstsar",
+      "contents": "much deeper than its surface implies, Magic Mike delivers genuine substance in addition to its sexually appealing main attraction",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "Plagued by a demeaning simplification, but rebounded by impressive style and redeeming substance",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "contents": "A movie lover/male perspective...",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "Rachel",
+      "contents": "Loved it!",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Rave7278",
+      "contents": "Enjoyed it",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 9
+    },
+    {
+      "user": "eggartrealty",
+      "contents": "Really disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "xThe_Fury",
+      "contents": "Magic Mike - A Review by Brandon Krzysztof",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "NutzieFagin",
+      "contents": "Flashdance a la male style",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "jsmn-kane",
+      "contents": "Not good",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "niki o'reilly",
+      "contents": "Trash",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Kendall Garrett",
+      "contents": "Shallow, vain, predictable, and boring.",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 3
+    },
+    {
+      "user": "Laura Gri",
+      "contents": "Worst movie of all time.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Stephanie Taylor",
+      "contents": "They've Got the Magic Flick",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Suzzofokc",
+      "contents": "very disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "lisa-629",
+      "contents": "Yes Yes Yes",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "rosebud1693",
+      "contents": "Skip.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Peter",
+      "contents": "Garbage",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Said Noori",
+      "contents": "Very surprisingly an OK movie...",
+      "review_date": {
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 5
+    },
+    {
+      "user": "juneebuggy",
+      "contents": "Except for the dancing dull, disjointed and easily forgettable",
+      "review_date": {
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "Thanos Alfie",
+      "contents": "All about dancing...",
+      "review_date": {
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Irishmoviereviewer",
+      "contents": "Magic Crap really....",
+      "review_date": {
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "sofires",
+      "contents": "Really boring movie with a bunch of great actors",
+      "review_date": {
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "siderite",
+      "contents": "A low key movie about getting a life",
+      "review_date": {
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "blanche-2",
+      "contents": "rented this and thought it would be fun",
+      "review_date": {
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "legra66",
+      "contents": "Oh dear!!",
+      "review_date": {
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "ericstone61",
+      "contents": "Boring in the extreme.",
+      "review_date": {
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "TheFilmGuy1",
+      "contents": "More Drama Than Stripping (Thank God)",
+      "review_date": {
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Penny Robinson",
+      "contents": "Magic Mike: Eye Candy Only",
+      "review_date": {
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "ZangoKid",
+      "contents": "Sex Lies and Videotape, It Ain't!",
+      "review_date": {
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "Rebecca Plunkett",
+      "contents": "So Boring I Stopped Watching",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "natneg84-890-882340",
+      "contents": "Misogynist, clich\u00e9 and shallow",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "graphicstyle7",
+      "contents": "One thing was dead on, the rest is fantasy",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Anyanwu",
+      "contents": "This is not good.",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "Marissa Willersdorf",
+      "contents": "Great Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "TiLuLu",
+      "contents": "HUH?  Steven Soderbergh made this movie?",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "zabcia_b1",
+      "contents": "One of the worst movies in a very long time",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "getyourdander",
+      "contents": "Audience for This Is ?",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "evanston_dad",
+      "contents": "Not a Lot of Magic in Mike",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "Tatum shares some of his past with us",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 8
+    },
+    {
+      "user": "Treyroo",
+      "contents": "Didn't expect to like it",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "Movie_Muse_Reviews",
+      "contents": "Entertaining yet sincere, Soderbergh and Tatum rip the pants off this drama",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "Bene Cumb",
+      "contents": "American Chippendales... Soft version of \"People vs Harry Flint\"",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "tieman64",
+      "contents": "Schizopolis",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": " (moossaboossa)",
+      "contents": "Stripping aside...",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 8
+    },
+    {
+      "user": "MichaelDardant",
+      "contents": "Magician, Magic Mike spoofs Channing's dance",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews...",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "gradyharp",
+      "contents": "'You are the husband they never had! You are that dreamboat guy that never came along!'",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "champjohnson29",
+      "contents": "Really?!?!",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "Dull, unreal and boring at times",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "simona gianotti",
+      "contents": "A pleasure for the female eye, and nothing more",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "contents": "Magic Mike (2012) - It's Raining Men! (Don't Judge Me! I'm Still Straight!)",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "nicola-orofino",
+      "contents": "Soderbergh never disappoints",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Erika",
+      "contents": "Disappointment!",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Jeff Lee",
+      "contents": "Male dancers strip off their clothes, but there's nothing beneath the pecs and glitz",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "bstrembicke",
+      "contents": "A well done, raunchy and fun film. No Spoilers.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "srichdway-1",
+      "contents": "The only magic here is Matthew McConaughey's performance!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 5
+    },
+    {
+      "user": "Jimmy Collins",
+      "contents": "Step Up meets Showgirls, a fun movie for a girls night out.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "darkness_visible",
+      "contents": "What a waste",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "walks2171",
+      "contents": "Just Not For Me",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "Julie Anne Longano (julie@julieanne.com.au)",
+      "contents": "Video Review (3.5mins)",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "amelia-thompson",
+      "contents": "Could of been great, but there's lots of things I hate!",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 3
+    },
+    {
+      "user": "Lynne Grummitt",
+      "contents": "A Potential Not Quite Reached",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "tinseltine",
+      "contents": "Channing Tatum is smarter and more talented than his close-set eyes imply",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "Call it what is is....soft-core PORN!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "orangeisthenewawesome",
+      "contents": "Pretty disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "Lisa Ta",
+      "contents": "Sexy!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "Emma Soanes",
+      "contents": "glad i won tickets.",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Christian_Dimartino",
+      "contents": "It's a nice try.",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "stephieca-1",
+      "contents": "So stupid... but... HOT",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "dawnr470",
+      "contents": "Dancing makes up for bad acting",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "lizzrob1978",
+      "contents": "Cringeworthy! Should have watched Full Monty!",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "davidgee",
+      "contents": "Bump and grind",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "TypedbyTara",
+      "contents": "Ladies, this ones for you.",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Matt_Layden",
+      "contents": "A boring and uninspired mess.",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "happycatpaws",
+      "contents": "Stupid, boring, waste of time",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "thesar-2",
+      "contents": "For Ladies Only?",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "aes92975",
+      "contents": "Worst Movie Ever",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "Diana Rosalind Trimble",
+      "contents": "Somebody owed somebody a favour?",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "lurpak",
+      "contents": "Tedious Meets Pointless",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "megandouglas14",
+      "contents": "Delicious",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "williamlavagna",
+      "contents": "Tragic Mike",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "bobbiheisley",
+      "contents": "Lovved it.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Martin Bradley (MOscarbradley@aol.com)",
+      "contents": "The Full Monty it ain't",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Welcome to the hen house",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "bkoganbing",
+      "contents": "A Young Man's game",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Kitty C",
+      "contents": "Does not live up to the hype",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "nyshrink",
+      "contents": "A Lot of Fun",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "jennka_luv",
+      "contents": "Whooohooo!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "coiffuremixte",
+      "contents": "electric dreams",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "Not a perfect movie but it will surely change a lot.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "mjragusa1",
+      "contents": "one of the worst movies ever....",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "DreamRedeemer",
+      "contents": "Starts Great, Then Steadily Goes Downhill!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "theWBohlken",
+      "contents": "Very good and touchy",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "fragavictor",
+      "contents": "Pretentious, pseudo-subversive cinema at its worst",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Josh Ryan (flamegamehunter@yahoo.com)",
+      "contents": "Good movie, but one thing kept ruining it.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "ugotanikifit",
+      "contents": "Loved it.. I think I drooled a time or two.",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "selenecavazos",
+      "contents": "Two Thumbs up",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "Jordan MeetingFlipper Gross",
+      "contents": "NO EHAT IT SEEM! Which is a good thing.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "melissa-trail-ga",
+      "contents": "So Much Fun!",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 10
+    },
+    {
+      "user": "NatNeg84",
+      "contents": "Misogynistic and shallow",
+      "review_date": {
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 1
+    },
+    {
+      "user": "LittleLotti",
+      "contents": "Not very good... but are you surprised?",
+      "review_date": {
+        "year": 2013,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "katyantis",
+      "contents": "Wasn't bad, but where is the male nudity?",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Will Merrett",
+      "contents": "The Only Magic here was a Disappearing Story",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "Jennifer Clapton",
+      "contents": "It was worth watching for Tatum",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 5
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "Magic Mike",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "zetes",
+      "contents": "Kind of a bore",
+      "review_date": {
+        "year": 2013,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "Gobsmacker",
+      "contents": "I can't believe I watched the whole thing...",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "Dy'Lan Parkour",
+      "contents": "Bad casting choices",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 3
+    },
+    {
+      "user": "ottobear",
+      "contents": "One of the worst movies ever made",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "Laura_van_kessel",
+      "contents": "Aside from the eyecandy, OH MY GOD SO BORING!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 3
+    },
+    {
+      "user": "mister-green7",
+      "contents": "take it off....",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "guy-nicholas",
+      "contents": "Better than I thought. And by that, I mean it was pretty good.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "nitz_angel",
+      "contents": "Its raining man",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "lasttimeisaw",
+      "contents": "Magic Mike",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "sherri-l",
+      "contents": "Eyecandy",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 7
+    },
+    {
+      "user": "rivertam26",
+      "contents": "The Magic is that it's a solid flick",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "rebecca-ry",
+      "contents": "Should be given a lot more credit",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "tavm",
+      "contents": "Steven Soderbergh's Magic Mike was quite a nice change of pace from what I usually watch in theatres",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "3xHCCH",
+      "contents": "Nothing Much Else Aside from the Stripping",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": " (otto_schitburger@yahoo.com)",
+      "contents": "a trip",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "sweetbaby2009",
+      "contents": "Dances in the movie is quite good",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "perpetuallybadhaircut",
+      "contents": "Misleading Promotion, But All In All, Not A Terrible Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "haeunie",
+      "contents": "Mismatch of Expectations",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "edwards_trina-560-690634",
+      "contents": "No Magic at All",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "sanloz11",
+      "contents": "Waste of time. No story, no laughs and no ending.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "totot57-761-393475",
+      "contents": "Unbearable lightness of entertainment",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "DarkWench",
+      "contents": "Disappointed!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "mm-39",
+      "contents": "Magic Mike went through a shock.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Chris_Pandolfi",
+      "contents": "Tatum Bares His Past, Among Other Things",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "imblovnlife",
+      "contents": "What the?!",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Channing Tatum actually carries the film with charisma and some amazing dance moves!",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 8
+    },
+    {
+      "user": "shiancornies11",
+      "contents": "Amazing",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film Review: It's reigning men.",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "average_chic",
+      "contents": "The end went all wonky",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "GoneWithTheTwins",
+      "contents": "More fun than straight male audiences might expect.",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "edwagreen",
+      "contents": "Nothing Magical About Magic Mike *",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 2
+    },
+    {
+      "user": "Jared X",
+      "contents": "Breathtaking and Charming but no Burlesque",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "DICK STEEL",
+      "contents": "A Nutshell Review: Magic Mike",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "jeddjong",
+      "contents": "The \"Magic\" is all smoke, mirrors and bare buttocks.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "filmcritic3",
+      "contents": "Worth leaving the theatre and demanding a refund.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    }
+  ],
+  "release_month": "June",
   "genres": [
     "comedy",
     "drama"
   ],
-  "rating": 6.1,
-  "rating_count": 112242,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 29,
-    "year": 2012,
-    "month": 6
-  },
-  "user_review_count": 286,
-  "rating_freq": {
-    "1": 4273,
-    "2": 2637,
-    "3": 3989,
-    "4": 7832,
-    "5": 16438,
-    "6": 27282,
-    "7": 24732,
-    "8": 12048,
-    "9": 4232,
-    "10": 8779
-  },
-  "release_day": 29,
-  "votes_per_demo": {
-    "males": 50862,
-    "females_aged_30-44": 13701,
-    "aged_under_18": 340,
-    "non-us_users": 51904,
-    "males_aged_18-29": 22245,
-    "aged_18-29": 47500,
-    "males_aged_30-44": 21390,
-    "aged_45+": 7850,
-    "imdb_users": 112242,
-    "aged_30-44": 35551,
-    "us_users": 20122,
-    "females": 44914,
-    "females_aged_18-29": 24689,
-    "top_1000_voters": 479,
-    "males_aged_45+": 4774,
-    "females_under_18": 227,
-    "females_aged_45+": 2934,
-    "imdb_staff": 12,
-    "males_under_18": 107
-  },
-  "avg_rating_per_demo": {
-    "males": 6.0,
-    "females_aged_30-44": 6.1,
-    "aged_under_18": 6.6,
-    "non-us_users": 6.0,
-    "males_aged_18-29": 6.2,
-    "aged_18-29": 6.2,
-    "males_aged_30-44": 6.0,
-    "aged_45+": 5.8,
-    "imdb_users": 6.1,
-    "aged_30-44": 6.0,
-    "us_users": 6.1,
-    "females": 6.1,
-    "females_aged_18-29": 6.2,
-    "top_1000_voters": 5.6,
-    "males_aged_45+": 5.7,
-    "females_under_18": 6.8,
-    "females_aged_45+": 6.0,
-    "imdb_staff": 5.8,
-    "males_under_18": 6.5
-  },
-  "avg_screens": 1364.0,
-  "release_month": "June",
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 72,
-  "gross_income": 113709992,
-  "critic_review_count": 325,
-  "budget_currency": "$",
-  "release_year": 2012,
+  "opening_weekend_screens": 2930,
+  "name": "Magic Mike",
   "num_weekends": 12,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 21,
-    "year": 2012,
-    "month": 9
-  },
-  "duration": 110,
-  "budget": 7000000,
-  "max_screens": 3120
+  "release_day": 29,
+  "critic_review_count": 325
 }

@@ -1,92 +1,2439 @@
 {
-  "metascore": 33,
+  "release_day": 19,
+  "avg_rating_per_demo": {
+    "aged_45+": 4.9,
+    "top_1000_voters": 4.1,
+    "males_under_18": 5.6,
+    "imdb_staff": 5.1,
+    "males_aged_18-29": 4.9,
+    "imdb_users": 5.3,
+    "males_aged_45+": 4.6,
+    "aged_18-29": 5.5,
+    "us_users": 4.9,
+    "females_aged_30-44": 5.9,
+    "males": 4.8,
+    "females": 6.1,
+    "females_aged_45+": 5.7,
+    "non-us_users": 5.2,
+    "females_aged_18-29": 6.1,
+    "females_under_18": 6.8,
+    "aged_30-44": 5.0,
+    "aged_under_18": 6.2,
+    "males_aged_30-44": 4.7
+  },
   "closing_date": {
+    "month": 3,
     "year": 2015,
     "day": 13,
-    "month": 3,
     "__type__": "datetime.date"
   },
-  "release_month": "December",
-  "release_year": 2014,
-  "gross_income": 85911262,
-  "duration": 118,
-  "release_day": 19,
-  "max_screens": 3197,
-  "opening_weekend_date": {
-    "year": 2014,
-    "day": 19,
-    "month": 12,
-    "__type__": "datetime.date"
-  },
-  "rating": 5.3,
+  "metascore": 33,
   "num_weekends": 9,
+  "rating_count": 26583,
+  "gross_income": 85911262,
+  "max_screens": 3197,
+  "opening_weekend_screens": 3116,
+  "screens_by_weekend": [
+    3116,
+    3197,
+    3166,
+    1585,
+    756,
+    217,
+    206,
+    139,
+    126
+  ],
+  "opening_weekend_income": 15861939,
+  "release_year": 2014,
+  "imdb_user_reviews": [
+    {
+      "contents": "Pleasingly Surprised....Thanks for the negative reviews",
+      "score": 10,
+      "user": "Andrea Hicks",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it!!!",
+      "score": 10,
+      "user": "mryoung-53773",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie makes my day!!",
+      "score": 10,
+      "user": "mskarpari",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie",
+      "score": 10,
+      "user": "Jennifer Fee",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best movie i've seen so far in 2015",
+      "score": 10,
+      "user": "Evan Nuts",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ignorant Critics -Excellent and Appropriate Remake",
+      "score": 10,
+      "user": "Daniella Oakley",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Love it",
+      "score": 10,
+      "user": "yuukiftb",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it!",
+      "score": 10,
+      "user": "suzieberry",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cameron Diaz",
+      "score": 10,
+      "user": "Tyler Jewell (sierranevadaentertainment@gmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Once again, the critics get it wrong.  This is a superb film!",
+      "score": 10,
+      "user": "colin-598-269859",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Refreshing Opportunity: Smiles, Songs and Heart",
+      "score": 10,
+      "user": "Yelitza-screenwriting-student",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Must See(Again!)",
+      "score": 10,
+      "user": "robin RedRoast",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable Family Movie",
+      "score": 10,
+      "user": "romobley",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Musical Reminder",
+      "score": 10,
+      "user": "user-204-360864",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie.",
+      "score": 10,
+      "user": "MystieStar",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful!",
+      "score": 10,
+      "user": "jsweetwords",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why so many negative reviews?",
+      "score": 10,
+      "user": "grcl67",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such a great movie!",
+      "score": 10,
+      "user": "Natasha Benjamin",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We adore this modern upgrade to a beloved classic.",
+      "score": 10,
+      "user": "Ann Hawkins",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A great must-see family movie that will have you feeling good at the end of the movie.",
+      "score": 10,
+      "user": "Sylvia Brown Jones",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uplifting and worth watching!!",
+      "score": 10,
+      "user": "willowgarrison-1",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Family Movie For 2014.",
+      "score": 10,
+      "user": "KnowYourRights1",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Modern Version Of Annie For A Younger Generation.",
+      "score": 10,
+      "user": "Davida",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Annie\"",
+      "score": 9,
+      "user": "kimNON",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome Remake!",
+      "score": 10,
+      "user": "LakeSTL MOM",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Real Critics Don't Rate with 1's",
+      "score": 10,
+      "user": "artieup",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "LOVED This Movie",
+      "score": 10,
+      "user": "Ronnie Waters",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent Movie!!!!!",
+      "score": 10,
+      "user": "phillychildcare",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "wonderful will buy also on DD",
+      "score": 10,
+      "user": "sandra despain",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Nice Attempt, but Could Have Been Better",
+      "score": 7,
+      "user": "moviescoundrel",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent",
+      "score": 10,
+      "user": "marleath",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great family fun! Let's not be miserable, people!",
+      "score": 10,
+      "user": "amycastle92",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it. The best ever Annie.",
+      "score": 8,
+      "user": "chrysalid_design",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent update to the original film.",
+      "score": 9,
+      "user": "piedraloca",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved this movie, the music & the actors",
+      "score": 9,
+      "user": "annalisesmalley02",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best Movie of the Year!!!",
+      "score": 10,
+      "user": "L T",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is a must see film!",
+      "score": 10,
+      "user": "Dray Skky",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quvenzhane Wallis has charm",
+      "score": 8,
+      "user": "p.newhouse@talk21.com",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome Movie",
+      "score": 9,
+      "user": "Torie Amza",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Family Movie & Pleasant Surprise",
+      "score": 9,
+      "user": "klbussiness",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent movie to share with today's kids",
+      "score": 10,
+      "user": "christyleicht",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great movie to take the kids too",
+      "score": 10,
+      "user": "matt-weatherly",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I love this movie",
+      "score": 8,
+      "user": "lawyer24",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing movie that my family and I totally loved!",
+      "score": 9,
+      "user": "summerrose405",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Someone who has never seen the original",
+      "score": 8,
+      "user": "beamifrend",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Go and Enjoy!",
+      "score": 8,
+      "user": "clg238",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than I thought.",
+      "score": 9,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Sun Ain't Coming Out Tomorrow with this film",
+      "score": 1,
+      "user": "comps-784-38265",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Annie:The 2014 Version",
+      "score": 6,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Annie remake makes its way to the big screen in 2014",
+      "score": 7,
+      "user": "ja-191-280465",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome Movie",
+      "score": 10,
+      "user": "lee-43309",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Don't start if you don't like music.\"",
+      "score": 7,
+      "user": "biacartwright",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Such a great movie, destroyed by songs.",
+      "score": 7,
+      "user": "joseedwin-87294",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a Total Mess - Music is Mostly Good and Some Good Humor",
+      "score": 7,
+      "user": "agblum",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awesome!",
+      "score": 10,
+      "user": "AmoniB",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It wasn't horrible but it wasn't great either",
+      "score": 6,
+      "user": "Caroline Amour",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I hate this musical more than anything, but...",
+      "score": 7,
+      "user": "Kevin Ward",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't listen to the critics ,see it yourself",
+      "score": 8,
+      "user": "wilson trivino",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not worth the time",
+      "score": 3,
+      "user": "Peter Schmid",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"I think I have some dust in my eyes\"... LOVED IT!!!!!",
+      "score": 9,
+      "user": "Ingrid Naimy",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This rendition of Annie could have been so much better",
+      "score": 6,
+      "user": "tammyaphillips",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sit back and enjoy a feel good Christmas event",
+      "score": 9,
+      "user": "thekept1",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun Musical & great remake",
+      "score": 9,
+      "user": "emmamills",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Family movie re imagined",
+      "score": 10,
+      "user": "sjm27",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So glad I never listen to critics...",
+      "score": 8,
+      "user": "Jenelle1975",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Boring",
+      "score": 1,
+      "user": "ellielouisej",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great cast, especially Foxx and Wallis: but the script and direction stumbles and trips time after time",
+      "score": 6,
+      "user": "Amy Adler",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a hard knock life",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This modernized adaption is not great, but its not terrible",
+      "score": 6,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun for the whole family",
+      "score": 8,
+      "user": "Diego Dames",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappointing",
+      "score": 6,
+      "user": "petersjared41",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Harmless fun at best, another missed opportunity at worst",
+      "score": 6,
+      "user": "vinsond21",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly good",
+      "score": 9,
+      "user": "i-healey2430",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a hard knock life...having to watch this.",
+      "score": 4,
+      "user": "MissBodyArt",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "21st Century, Digital Media Update of the Quintessential \"Rags to Riches\" Tale is a High-Spirited Delight",
+      "score": 8,
+      "user": "John Panagopoulos (japamo@hotmail.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Annie is in foster care in search of her real parents. When she is united with Mr.Stacks.Will Mr.Stacks become mayor with Annie in his hands? Watch the movie to find out",
+      "score": 8,
+      "user": "Keyonrich36",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It is a hard knock movie",
+      "score": 2,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bummer",
+      "score": 3,
+      "user": "maryanncostello",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rock Bottom Dollar Sorrow",
+      "score": 1,
+      "user": "cultfilmfreaksdotcom",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "here we go again-will the sun come out tomorrow-no!!!!!",
+      "score": 1,
+      "user": "hydebee-2",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a Hard-Knock Film",
+      "score": 1,
+      "user": "jadepietro",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The sun's not coming tomorrow or anytime for this Annie",
+      "score": 2,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Damn Remakes",
+      "score": 4,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The 1982 version is much better.",
+      "score": 5,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Music, Unfortunately Producers Spit on Original Annie with Reverse Racism",
+      "score": 3,
+      "user": "graziano5",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If you're going to remake something remake it well or don't bother.",
+      "score": 2,
+      "user": "Nicole Cowell",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An atrocious film filled with hollowed performances and D-grade musical numbers",
+      "score": 3,
+      "user": "trublu215",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible, awful, painful to watch movie.",
+      "score": 1,
+      "user": "ldsconvert",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Perfect Storm - Inspirational , Upbeat, Fun, Good Music, Good Message",
+      "score": 9,
+      "user": "Jo-Cino",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a HARD KNOCK-OUT that leaves the viewers unable to get up after first 10 minutes of the film",
+      "score": 2,
+      "user": "martin-alejandro",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Was expecting it to be better",
+      "score": 2,
+      "user": "michele-lackner",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "!982 version is much better",
+      "score": 3,
+      "user": "johnobvich",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If your not prejudiced you will find it OK, nice family movie!",
+      "score": 6,
+      "user": "Lovell allen",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The 1982 version is better!",
+      "score": 5,
+      "user": "pinkarray",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 5,
+      "user": "capone666",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Leapin Lizards! This movie wasn't that good. I hope the sun will come out, tomorrow and give us the version, Annie fans deserved. It's a Hard Knock Life for us, yet again!",
+      "score": 5,
+      "user": "ironhorse_iv",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One for tomorrow",
+      "score": 5,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Annie",
+      "score": 5,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"I don't eat hobo food.\"",
+      "score": 4,
+      "user": "utgard14",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The next Les Miserables, it ain't.",
+      "score": 5,
+      "user": "Rich Wright",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Post-Production Annie misses the mark",
+      "score": 4,
+      "user": "nick traynor",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Little Morphin Annie",
+      "score": 2,
+      "user": "Jai Stephenson",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not quite as bad as has been said about it, but an update that's more awkward than clever",
+      "score": 4,
+      "user": "TheLittleSongbird",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No Comparison to Original",
+      "score": 2,
+      "user": "elizabeth-201-756728",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not sure what the audience for this is",
+      "score": 6,
+      "user": " (blufrog49)",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not too bad as a NYC kid movie; terrible as an Annie re-make",
+      "score": 5,
+      "user": "fred-m-stabs",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ruins the Original",
+      "score": 2,
+      "user": "Cole F. Stieferman",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An Auto Tune Annie for a new Generation.",
+      "score": 2,
+      "user": "admiralbuckles",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Major Disappointment - Unworthy to be called \"Annie\"",
+      "score": 3,
+      "user": "aaronaviv",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "this is not Annie!!!",
+      "score": 1,
+      "user": "Joel McGarvey",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just awful--belongs on the scrap heap of Time!",
+      "score": 1,
+      "user": "Naterdawg",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dreadful version of a lovely musical",
+      "score": 2,
+      "user": "Pierre Jameson",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't waste your money",
+      "score": 2,
+      "user": "Cladedah",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "If your Looking for a decent remake, STAY THE HECK AWAY FROM THIS!!!",
+      "score": 1,
+      "user": "pmn923",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We All Make Bad Choices Sometimes",
+      "score": 1,
+      "user": "Nathaniel Jones",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It was a hard knock life to view this movie",
+      "score": 2,
+      "user": "kfo9494",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The 'Real' Annie Movie Has Nothing To Worry About",
+      "score": 3,
+      "user": "patsworld",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't bother the real one is $5 at Walmart.....",
+      "score": 2,
+      "user": "Jackson Andrew Lewis",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cynical Critics need to see this Movie with Kids",
+      "score": 8,
+      "user": "emilymthorpe",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Isn't Annie Notable for Her Curly Red Hair?",
+      "score": 2,
+      "user": "Python Hyena",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad remake! 2/10",
+      "score": 2,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Running out of ideas",
+      "score": 4,
+      "user": "daddysgiirlxxx",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fine for a one watch for kids, but not magical or special",
+      "score": 5,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "all gloss no heart",
+      "score": 4,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "New and Not-So Improved",
+      "score": 4,
+      "user": "wilcziek-malia",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best family offer",
+      "score": 9,
+      "user": "leafshadow231",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's a hard knock life ...",
+      "score": 6,
+      "user": "CharlieGreenCG",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Terrible Remake",
+      "score": 1,
+      "user": "Mail1227",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "REMAKES don't get any worse",
+      "score": 1,
+      "user": "duraflex",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More of the same",
+      "score": 1,
+      "user": "DilbertW01",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolute Trash and Guttersnipe",
+      "score": 1,
+      "user": "Blue Drache",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Yikes",
+      "score": 1,
+      "user": "Grant G",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A total rip off",
+      "score": 1,
+      "user": "decemberangel1286",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Truly Awful",
+      "score": 1,
+      "user": "Harris Bushville",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A feel BAD Movie",
+      "score": 1,
+      "user": "music210310",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't waste your time...watch the original",
+      "score": 1,
+      "user": "markontherock",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Smart, comic but where's the heart?",
+      "score": 7,
+      "user": "cesarbau",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very Enjoyable!",
+      "score": 10,
+      "user": "Elaina McDonald",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst remake, reboot, rehash movie of 2014",
+      "score": 1,
+      "user": "digitalbeachbum",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The worst movie ever",
+      "score": 1,
+      "user": "remilhi",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Andrew Llyod Webber must be screaming!",
+      "score": 1,
+      "user": "mkm134-1",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "boring",
+      "score": 1,
+      "user": "fearthebeast360",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst Movie of the Year is also Worst \"Remake\" Ever!",
+      "score": 1,
+      "user": "Cyclo Rider",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Black Annie? really?",
+      "score": 1,
+      "user": "Rock Gibralter",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I hope the cast of Annie (1982) never watches this!",
+      "score": 1,
+      "user": "emrahkoyunsev",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Annie 2014 Vs Annie 1982  result no contest",
+      "score": 1,
+      "user": "Flash Bye",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "No.",
+      "score": 1,
+      "user": "creepycarray",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "worse musical movie",
+      "score": 1,
+      "user": "newmoonjess07",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the worst re-makes to ever come out from Hollywood",
+      "score": 1,
+      "user": "rtanweb",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Annie 2014 is ALL HEART!! Give it a chance!",
+      "score": 9,
+      "user": "BklynBryanCM",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ruined an amazing play",
+      "score": 1,
+      "user": "usbfstudios",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Parallel Universe Annie reboot is great fun - ignore bad reviews",
+      "score": 10,
+      "user": "Yoda Soda",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Annie Review",
+      "score": 4,
+      "user": "Allen Shepherd",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent and Refreshing Family Fun for Everyone!",
+      "score": 8,
+      "user": "tajdevco",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Annie Reminds Us Of Our Inner Child",
+      "score": 8,
+      "user": "Kitty LissieGirl",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worst movie I have ever seen",
+      "score": 1,
+      "user": "lukestrege",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wwhhyyyyyyy??? .........*",
+      "score": 1,
+      "user": "Gwendylan",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Honestly pretty fun and entertaining!",
+      "score": 8,
+      "user": "Ryan Prince",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful contemporary film adaptation of a classic of stage",
+      "score": 10,
+      "user": "pjwoods07",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Contrived and Predictable, Yet Still Has Heart",
+      "score": 7,
+      "user": "marcvalenzuela",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uninspired musical, but entertaining thanks to Wallis and Byrne",
+      "score": 5,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Short Positive Review",
+      "score": 8,
+      "user": "harmony04-194-66092",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Why all the bad reviews?  We liked it!",
+      "score": 7,
+      "user": "shimotorres",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "New Updated Musical",
+      "score": 6,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I loved this movie! Annie 2014 movie review",
+      "score": 8,
+      "user": "matthewfroggybenntt",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nails nearly everything except having a soul",
+      "score": 4,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautifully put together",
+      "score": 10,
+      "user": "kenyae-cagle",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Doesn't Deserve Bad Reviews",
+      "score": 7,
+      "user": "ddoyle2017",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good update of a classic movie",
+      "score": 8,
+      "user": "kvalentine926-189-516307",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best",
+      "score": 10,
+      "user": "John Michael Davis",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A joy from start to finish",
+      "score": 10,
+      "user": "Figgy66-915-598470",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing!!",
+      "score": 9,
+      "user": "analisa_black",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The update to the classic musical hits the screens this week, and it's an absolute triumph",
+      "score": 9,
+      "user": "Jon Broeke",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pleasantly surprised! This was actually really good.",
+      "score": 9,
+      "user": "solowolf_93",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The new Annie looks great but doesn't sound or feel quite as good.",
+      "score": 4,
+      "user": "shawneofthedead",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Does not deserve negative reviews",
+      "score": 7,
+      "user": "C P",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's hard to make an honest billion . . .",
+      "score": 8,
+      "user": "Hot 888 Mama",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable",
+      "score": 8,
+      "user": "alyssa1978",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Modernised Classic.",
+      "score": 7,
+      "user": "Corey Hughes",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Remember the target audience is 6 year olds",
+      "score": 3,
+      "user": "anymouse2",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This filmed version of the musical Annie is enjoyable enough",
+      "score": 7,
+      "user": "tavm",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Annie 2014...The Modern retelling",
+      "score": 7,
+      "user": "animestories-788-229498",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Family Movie! Ignore the Critics!",
+      "score": 8,
+      "user": "ShelbyTMItchell",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly very funny and entertaining",
+      "score": 9,
+      "user": "Delboy0 .",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Entertaining and fun",
+      "score": 7,
+      "user": "liciaswork",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sooo..what is wrong with black Annie?",
+      "score": 7,
+      "user": "secretzfan",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice movie about the importance of mobile networking, social media and political campaigning",
+      "score": 5,
+      "user": "Trurl66",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie ( Do not listen to the Critic)",
+      "score": 8,
+      "user": "khadevisr",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You'll end up smiling long after watching it.",
+      "score": 8,
+      "user": "kshirad",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Incredibly better than expected.",
+      "score": 8,
+      "user": "jadeylady96",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "There is a lot for everyone to enjoy here.",
+      "score": 6,
+      "user": "GazDutlow",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Thought it was sweet good family movie",
+      "score": 8,
+      "user": "laranroger",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfectly Decent Update Which the Kids Liked",
+      "score": 7,
+      "user": "Matt Wall",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun Adventure, on a Classic Tale",
+      "score": 7,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cute/Cheesy",
+      "score": 6,
+      "user": "byson5186",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great Reboot for today's kids",
+      "score": 8,
+      "user": "thuytran213",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Family Film that adults as well as kids will enjoy",
+      "score": 9,
+      "user": "Rachel Doherty",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Annie 2014, is an updated version of Annie 1982, and both are based on the comic strip Little Orphan Annie",
+      "score": 5,
+      "user": "Caroline Morrissey",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Quvenzhane Wallis is a star!",
+      "score": 6,
+      "user": "sara2520",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Modern twist to a classic",
+      "score": 6,
+      "user": "katelynnance",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Family Movie for Today's Generation",
+      "score": 7,
+      "user": "the_remixer08",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cute Movie",
+      "score": 8,
+      "user": "beforethedawn01",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very good by today's standards.",
+      "score": 8,
+      "user": "James Noonan",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved It!!!",
+      "score": 7,
+      "user": "christinyou2",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Bad At All.",
+      "score": 7,
+      "user": "CoolKid23",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Surprisingly entertaining",
+      "score": 6,
+      "user": "fernallfn",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just enough for a modern Annie",
+      "score": 6,
+      "user": "Johan Dondokambey",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cute Movie",
+      "score": 6,
+      "user": "myjunkmail-210-944464",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "For a new generation, it isn't so bad",
+      "score": 7,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sassy, Spunky and Spirited",
+      "score": 6,
+      "user": "3xHCCH",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fun romp, with all the right touches",
+      "score": 6,
+      "user": "GoUSN",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hard to understand the harsh ratings",
+      "score": 7,
+      "user": "champselysees",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 118,
+  "votes_per_demo": {
+    "aged_45+": 2461,
+    "top_1000_voters": 229,
+    "males_under_18": 121,
+    "imdb_staff": 5,
+    "males_aged_18-29": 4498,
+    "imdb_users": 26583,
+    "males_aged_45+": 1740,
+    "aged_18-29": 8760,
+    "us_users": 5444,
+    "females_aged_30-44": 2418,
+    "males": 11981,
+    "females": 8271,
+    "females_aged_45+": 681,
+    "non-us_users": 8752,
+    "females_aged_18-29": 4165,
+    "females_under_18": 159,
+    "aged_30-44": 7178,
+    "aged_under_18": 282,
+    "males_aged_30-44": 4669
+  },
   "genres": [
     "comedy",
     "drama",
     "family"
   ],
-  "avg_screens": 1389.7777777777778,
-  "opening_weekend_income": 15861939,
-  "year": 2014,
   "opening_weekend_income_currency": "$",
-  "rating_count": 26576,
-  "votes_per_demo": {
-    "females": 8269,
-    "males_aged_30-44": 4669,
-    "aged_under_18": 282,
-    "females_aged_30-44": 2417,
-    "females_aged_45+": 681,
-    "us_users": 5446,
-    "aged_45+": 2460,
-    "aged_30-44": 7177,
-    "top_1000_voters": 229,
-    "males_aged_18-29": 4499,
-    "females_aged_18-29": 4164,
-    "imdb_users": 26576,
-    "males": 11981,
-    "non-us_users": 8749,
-    "imdb_staff": 5,
-    "males_under_18": 121,
-    "aged_18-29": 8760,
-    "males_aged_45+": 1739,
-    "females_under_18": 159
-  },
-  "avg_rating_per_demo": {
-    "females": 6.1,
-    "males_aged_30-44": 4.7,
-    "aged_under_18": 6.2,
-    "females_aged_30-44": 5.9,
-    "females_aged_45+": 5.7,
-    "us_users": 4.9,
-    "aged_45+": 4.9,
-    "aged_30-44": 5.0,
-    "top_1000_voters": 4.1,
-    "males_aged_18-29": 4.9,
-    "females_aged_18-29": 6.1,
-    "imdb_users": 5.3,
-    "males": 4.8,
-    "non-us_users": 5.2,
-    "imdb_staff": 5.1,
-    "males_under_18": 5.6,
-    "aged_18-29": 5.5,
-    "males_aged_45+": 4.6,
-    "females_under_18": 6.8
-  },
-  "critic_review_count": 176,
-  "user_review_count": 217,
   "rating_freq": {
-    "1": 3217,
+    "1": 3216,
     "2": 1081,
-    "3": 1420,
-    "4": 2075,
-    "5": 3471,
+    "3": 1421,
+    "4": 2078,
+    "5": 3470,
     "6": 4233,
-    "7": 3449,
-    "8": 2219,
-    "9": 1222,
-    "10": 4189
+    "7": 3450,
+    "8": 2220,
+    "9": 1224,
+    "10": 4190
+  },
+  "release_month": "December",
+  "budget": 65000000,
+  "budget_currency": "$",
+  "total_screens": 12508,
+  "year": 2014,
+  "rating": 5.3,
+  "critic_review_count": 176,
+  "opening_weekend_date": {
+    "month": 12,
+    "year": 2014,
+    "day": 19,
+    "__type__": "datetime.date"
   },
   "name": "Annie",
-  "budget_currency": "$",
-  "budget": 65000000
+  "user_review_count": 217,
+  "avg_screens": 1389.7777777777778
 }

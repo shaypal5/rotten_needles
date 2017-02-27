@@ -1,20 +1,15 @@
 {
-  "name": "Atlas Shrugged: Part II",
+  "budget": 10000000,
   "opening_weekend_income": 1746025,
-  "genres": [
-    "drama",
-    "mystery",
-    "sci-fi"
-  ],
-  "rating": 5.4,
-  "rating_count": 5777,
-  "opening_weekend_date": {
-    "__type__": "datetime.date",
-    "day": 12,
+  "year": 2012,
+  "closing_date": {
     "year": 2012,
-    "month": 10
+    "day": 21,
+    "__type__": "datetime.date",
+    "month": 11
   },
-  "user_review_count": 122,
+  "budget_currency": "$",
+  "avg_screens": 441.8,
   "rating_freq": {
     "1": 707,
     "2": 227,
@@ -27,64 +22,1389 @@
     "9": 378,
     "10": 1063
   },
-  "release_day": null,
-  "votes_per_demo": {
-    "males": 4264,
-    "females_aged_30-44": 294,
-    "aged_under_18": 2,
-    "non-us_users": 1777,
-    "males_aged_18-29": 741,
-    "aged_18-29": 881,
-    "males_aged_30-44": 1985,
-    "aged_45+": 1617,
-    "imdb_users": 5777,
-    "aged_30-44": 2306,
-    "us_users": 2187,
-    "females": 672,
-    "females_aged_18-29": 130,
-    "top_1000_voters": 128,
-    "males_aged_45+": 1371,
-    "females_aged_45+": 224,
-    "imdb_staff": 2,
-    "males_under_18": 2
-  },
-  "avg_rating_per_demo": {
-    "males": 5.4,
-    "females_aged_30-44": 5.8,
-    "aged_under_18": 6.0,
-    "non-us_users": 5.1,
-    "males_aged_18-29": 5.3,
-    "aged_18-29": 5.4,
-    "males_aged_30-44": 5.1,
-    "aged_45+": 5.8,
-    "imdb_users": 5.4,
-    "aged_30-44": 5.2,
-    "us_users": 5.6,
-    "females": 5.9,
-    "females_aged_18-29": 5.7,
-    "top_1000_voters": 4.4,
-    "males_aged_45+": 5.8,
-    "females_aged_45+": 6.3,
-    "imdb_staff": 8.0,
-    "males_under_18": 6.0
-  },
-  "avg_screens": 441.8,
-  "release_month": null,
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 26,
-  "gross_income": 3333823,
-  "critic_review_count": 21,
-  "budget_currency": "$",
-  "release_year": null,
-  "num_weekends": 5,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 21,
-    "year": 2012,
-    "month": 11
-  },
+  "screens_by_weekend": [
+    1012,
+    945,
+    147,
+    70,
+    35
+  ],
+  "rating_count": 5777,
+  "total_screens": 2209,
+  "max_screens": 1012,
   "duration": 111,
-  "budget": 10000000,
-  "max_screens": 1012
+  "gross_income": 3333823,
+  "metascore": 26,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "imdb_users": 5777,
+    "us_users": 2187,
+    "aged_18-29": 881,
+    "non-us_users": 1777,
+    "aged_45+": 1617,
+    "aged_30-44": 2306,
+    "males_aged_30-44": 1985,
+    "females_aged_30-44": 294,
+    "males_aged_45+": 1371,
+    "aged_under_18": 2,
+    "imdb_staff": 2,
+    "males_under_18": 2,
+    "males_aged_18-29": 741,
+    "females": 672,
+    "top_1000_voters": 128,
+    "females_aged_45+": 224,
+    "males": 4264,
+    "females_aged_18-29": 130
+  },
+  "user_review_count": 122,
+  "rating": 5.4,
+  "release_year": null,
+  "avg_rating_per_demo": {
+    "imdb_users": 5.4,
+    "us_users": 5.6,
+    "aged_18-29": 5.4,
+    "non-us_users": 5.1,
+    "aged_45+": 5.8,
+    "aged_30-44": 5.2,
+    "males_aged_30-44": 5.1,
+    "females_aged_30-44": 5.8,
+    "males_aged_45+": 5.8,
+    "aged_under_18": 6.0,
+    "imdb_staff": 8.0,
+    "males_under_18": 6.0,
+    "males_aged_18-29": 5.3,
+    "females": 5.9,
+    "top_1000_voters": 4.4,
+    "females_aged_45+": 6.3,
+    "males": 5.4,
+    "females_aged_18-29": 5.7
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 12,
+    "__type__": "datetime.date",
+    "month": 10
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "robbit-5",
+      "contents": "What would Ayn say?",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "imdb-20212",
+      "contents": "A decent follow up to part 1",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Ang Patrick",
+      "contents": "Better Than Part 1",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "jehyatt455",
+      "contents": "Better than the first; Initially difficult to pair with Part 1",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "asygoing",
+      "contents": "Another really well done movie",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "CabbyG3",
+      "contents": "The cow jumped over the moon: the worst movie I have ever witnessed",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "brmoran22",
+      "contents": "Unfortunate Recasting",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "gt_speck",
+      "contents": "New cast makes this one not nearly as good.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 4
+    },
+    {
+      "user": "statchmo-317-162086",
+      "contents": "Disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "gariji",
+      "contents": "Plot, characters, theme, special effects: LOWEST ever!",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "Larry Silverstein",
+      "contents": "The Corporation is Your Friend----Not!",
+      "review_date": {
+        "year": 2013,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "hpande504",
+      "contents": "A big disappointment",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "bbuttercup",
+      "contents": "Waste of Time",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "cfb-150-652465",
+      "contents": "A difficult movie to get involved with.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Victor Hernandez",
+      "contents": "What is this delirium about?",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "geraldconques",
+      "contents": "Trash, utter worthless trash.",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "red82991",
+      "contents": "Read the book instead",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "lobbyistdantelynch",
+      "contents": "Simply Terrible",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Tyler Hamilton",
+      "contents": "Better Than The First, Though Still Shaky",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "ejonconrad",
+      "contents": "Both better and worse than the first",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Mr-Fusion",
+      "contents": "Either read the book, or wait for the inevitable reboot. This is for ardent fans only.",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "RaiderDuck",
+      "contents": "Who is John Galt? Who Cares?",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Razvan Rogoz",
+      "contents": "An insult brought to Atlas Shrugged by Ayn Rand",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "doug_park2001",
+      "contents": "Mumbo-Jumbo Corporate Fantasy, Part II",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "highvoltage-3",
+      "contents": "Just stick to the book...",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 2
+    },
+    {
+      "user": "kumarihpx",
+      "contents": "Boiling it down to conservatism vs. liberalism is too simple-minded",
+      "review_date": {
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "david-58-631842",
+      "contents": "Why, really",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "omnitech_1",
+      "contents": "Disappointed",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "david-5098",
+      "contents": "is this dumb or what?",
+      "review_date": {
+        "year": 2013,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Lot of little problems that can't be overlooked",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "rickhaelig",
+      "contents": "A Disappointing Second Act",
+      "review_date": {
+        "year": 2013,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "blanche-2",
+      "contents": "Part II - new cast",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "alpein",
+      "contents": "Whoa, the really made it worse",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "michaelrh2004",
+      "contents": "How Could They Make a Movie This Boring?",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "liberalprofessor",
+      "contents": "Downtrodden Millionaires of the World Unite!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "jennwalsh",
+      "contents": "True to the book",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "nappinglibrarian",
+      "contents": "A Very Good Ride",
+      "review_date": {
+        "year": 2016,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "n-sotirakopoulos",
+      "contents": "Loved the book and Part 1, really disappointed from Part 2",
+      "review_date": {
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "magnacrusher",
+      "contents": "I wanted to love this movie, but was sorely disappointed.",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "pragnesh-thaker",
+      "contents": "Not good as novel is greate",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "jonathanruano",
+      "contents": "Atlas Shrugged -- Far worse than Part 1",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 2
+    },
+    {
+      "user": "Isabelle Vanhouver",
+      "contents": "Visual Travesty",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "Ruth Jewell",
+      "contents": "Objectively Awful",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Marcelle Labuschagne",
+      "contents": "Ayn Rand would be having an Apoplectic Fit in her grave",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Ucare",
+      "contents": "And this thing was out in Cinemas?",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "januaryman-1",
+      "contents": "A good follow-up.  Bring on Part III.",
+      "review_date": {
+        "year": 2013,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "TrinityGal333",
+      "contents": "Great Story - Bad Rendering",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "tania groth",
+      "contents": "A travesty - nothing less",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "fastpuppy",
+      "contents": "A mediocre adaptation of a mediocre book.",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "Diwali-Jumbonads",
+      "contents": "The Worst movie of any time...",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 1
+    },
+    {
+      "user": "steve-3599",
+      "contents": "Doesn't Live Up To Part 1, But Does Pull You In To See The Rest",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Jim Kramer",
+      "contents": "Good job",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Preston Ross",
+      "contents": "Outstanding",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "amkingery",
+      "contents": "Honestly sad",
+      "review_date": {
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "allegre-raul",
+      "contents": "Super Story",
+      "review_date": {
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "Mark Ifi",
+      "contents": "it's not a perfect adaptation, but it's better than nothing",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "duceditor-710-832772",
+      "contents": "A Rather Different Type of Film",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "ttocsmij",
+      "contents": "take your time ...",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "Scott7411",
+      "contents": "Apparently even those who \"get it\" don't all get it, five points...",
+      "review_date": {
+        "year": 2013,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "rhollingsworth",
+      "contents": "Atlas Shrugged Book and Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 4
+    },
+    {
+      "user": "binoj7",
+      "contents": "Do not watch this movie if you have read the book",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "Brent Gillham",
+      "contents": "An intelligent and brash stand against the liberal art of false humility",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "berniebosma",
+      "contents": "1000% better than part 1",
+      "review_date": {
+        "year": 2013,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Steve Crosby",
+      "contents": "Watch again",
+      "review_date": {
+        "year": 2013,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "scotch7",
+      "contents": "Light-years better than Part I",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "Liberty Survival",
+      "contents": "Who Is John Fault?",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 2
+    },
+    {
+      "user": "mikeeva-500-965421",
+      "contents": "Good Story Line, Poor Casting",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "abbyleamarr",
+      "contents": "Eyes Burning, Ears Bleeding. Please Read the Book Instead.",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 2
+    },
+    {
+      "user": "danstalker",
+      "contents": "consider the conveyed ideas and the budget",
+      "review_date": {
+        "year": 2013,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 8
+    },
+    {
+      "user": "lionhrt",
+      "contents": "It is a shame that ...",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "sadenoo-665-566356",
+      "contents": "Atlas My kind of Girl",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    },
+    {
+      "user": "luketdrifter",
+      "contents": "Disappointed",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "cheighlee",
+      "contents": "If you watched the first one.. well, unfortunately you have to watch this one then",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "appleimacdude (den246N@netscape.net)",
+      "contents": "Fantastic!",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "perpsectiveoffice",
+      "contents": "Many reviews are far off the mark",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "contents": "After how much I liked the first one this was a little disappointing. Last half hour was really good though. I say B-.",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "memine23",
+      "contents": "Sometimes better off - NOT",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "fredbred",
+      "contents": "rather disappointing",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Tomas Maly",
+      "contents": "Objectivism is worth some serious caution",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "wsawyer2",
+      "contents": "Different than Part I, enyoyable for several reasons",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "tedw-dyer",
+      "contents": "Forget the Politics.  The Movie is Fun and Engaging",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "M Sanchez",
+      "contents": "Good if you've read the book",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "contents": "Oh Dagny",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Anthony Hernandez",
+      "contents": "The 'News' According to Atlas Shrugged",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "six2561",
+      "contents": "Very good movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "runningbean",
+      "contents": "If only for the Message.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "groves-terry",
+      "contents": "Awesome",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "simon etnie",
+      "contents": "Good enough",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "maryu727",
+      "contents": "We need Atlas Shrugged Part III",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "dragokin",
+      "contents": "definitely NOT better than Part 1",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "J Fin",
+      "contents": "It's Close to the Book",
+      "review_date": {
+        "year": 2013,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "rigoletto339",
+      "contents": "Not all that bad",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "westerfield",
+      "contents": "I couldn't stay objective",
+      "review_date": {
+        "year": 2013,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "Ann Yard",
+      "contents": "continue the story",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Ryan Mallory (ryan@shareplanner.com)",
+      "contents": "Incredibly Relevant to Modern Times and a Great Film",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Craig William Dayton",
+      "contents": "I enjoyed the movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Steve Pulaski",
+      "contents": "\"A frightening tale of a nation under dictative regulation and economic catastrophe\"",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "darthpatzer",
+      "contents": "Worth a Couple of Peeps",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "T. J.  Fekete",
+      "contents": "Fair",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "jlogajan",
+      "contents": "True to the spirit of the novel",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "CJ13",
+      "contents": "never, never quit",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "slfisher-2",
+      "contents": "Like a Reader's Digest Condensed Book version",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "Dennis Nuttall",
+      "contents": "A good version of Part II",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "sk051645",
+      "contents": "Great movie for such a low budget",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "ptmz",
+      "contents": "The most important movie of our time",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Peppermint Pig",
+      "contents": "Excellent Addition!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "classicsoncall",
+      "contents": "\"All I'm doing is feeding the beast trying to destroy me.\"",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Jonathan Quick (jpquick@nc.rr.com)",
+      "contents": "A Better Than Average Film",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "coastdaze",
+      "contents": "A good introduction to Atlas Shrugged, the book",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "edgerrr",
+      "contents": "Laissez-faire",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Jesse Locke",
+      "contents": "Art imitates life. The charade is over folks.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Michael B.",
+      "contents": "My first thumbnail review",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "johnsspambox",
+      "contents": "Fantastic and Phenomenal! The best movie since Gone With the WInd!",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "blwilmeth",
+      "contents": "The Absence of a Cello",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "ashadow_999",
+      "contents": "A Mystery Solved -- Trains in the 21st Century?",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 9
+    },
+    {
+      "user": "John Watson",
+      "contents": "An important movie that should not be missed.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 8
+    },
+    {
+      "user": "Nicki Fellenzer",
+      "contents": "Slicker, but...",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "baiken-rides",
+      "contents": "Better than Part 1",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 6
+    },
+    {
+      "user": "mdfaraone",
+      "contents": "Supporting cast is good, Samantha Mathis= EPIC FAIL",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    }
+  ],
+  "release_month": null,
+  "genres": [
+    "drama",
+    "mystery",
+    "sci-fi"
+  ],
+  "opening_weekend_screens": 1012,
+  "name": "Atlas Shrugged: Part II",
+  "num_weekends": 5,
+  "release_day": null,
+  "critic_review_count": 21
 }

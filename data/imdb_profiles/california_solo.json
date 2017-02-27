@@ -1,18 +1,15 @@
 {
-  "name": "California Solo",
+  "budget": 200000,
   "opening_weekend_income": 3412,
-  "genres": [
-    "drama"
-  ],
-  "rating": 6.2,
-  "rating_count": 905,
-  "opening_weekend_date": {
+  "year": 2012,
+  "closing_date": {
+    "year": 2013,
+    "day": 18,
     "__type__": "datetime.date",
-    "day": 30,
-    "year": 2012,
-    "month": 11
+    "month": 1
   },
-  "user_review_count": 10,
+  "budget_currency": "$",
+  "avg_screens": 2.0,
   "rating_freq": {
     "1": 46,
     "2": 18,
@@ -25,62 +22,172 @@
     "9": 70,
     "10": 188
   },
-  "release_day": null,
-  "votes_per_demo": {
-    "males": 485,
-    "females_aged_30-44": 115,
-    "aged_under_18": 1,
-    "non-us_users": 413,
-    "males_aged_18-29": 96,
-    "aged_18-29": 193,
-    "males_aged_30-44": 232,
-    "aged_45+": 220,
-    "imdb_users": 905,
-    "aged_30-44": 354,
-    "us_users": 222,
-    "females": 297,
-    "females_aged_18-29": 95,
-    "top_1000_voters": 33,
-    "males_aged_45+": 143,
-    "females_under_18": 1,
-    "females_aged_45+": 75
-  },
-  "avg_rating_per_demo": {
-    "males": 6.1,
-    "females_aged_30-44": 6.2,
-    "aged_under_18": 6.0,
-    "non-us_users": 6.2,
-    "males_aged_18-29": 6.4,
-    "aged_18-29": 6.6,
-    "males_aged_30-44": 6.0,
-    "aged_45+": 6.2,
-    "imdb_users": 6.2,
-    "aged_30-44": 6.1,
-    "us_users": 6.0,
-    "females": 6.5,
-    "females_aged_18-29": 7.0,
-    "top_1000_voters": 5.2,
-    "males_aged_45+": 6.1,
-    "females_under_18": 6.0,
-    "females_aged_45+": 6.5
-  },
-  "avg_screens": 2.0,
-  "release_month": null,
-  "opening_weekend_income_currency": "$",
-  "year": 2012,
-  "metascore": 62,
-  "gross_income": 15368,
-  "critic_review_count": 37,
-  "budget_currency": "$",
-  "release_year": null,
-  "num_weekends": 2,
-  "closing_date": {
-    "__type__": "datetime.date",
-    "day": 18,
-    "year": 2013,
-    "month": 1
-  },
+  "screens_by_weekend": [
+    2,
+    2
+  ],
+  "rating_count": 905,
+  "total_screens": 4,
+  "max_screens": 2,
   "duration": 94,
-  "budget": 200000,
-  "max_screens": 2
+  "gross_income": 15368,
+  "metascore": 62,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "imdb_users": 905,
+    "us_users": 222,
+    "aged_18-29": 193,
+    "non-us_users": 413,
+    "aged_45+": 220,
+    "aged_30-44": 354,
+    "males_aged_30-44": 232,
+    "males_aged_18-29": 96,
+    "males_aged_45+": 143,
+    "aged_under_18": 1,
+    "top_1000_voters": 33,
+    "females_aged_30-44": 115,
+    "females": 297,
+    "females_under_18": 1,
+    "females_aged_45+": 75,
+    "males": 485,
+    "females_aged_18-29": 95
+  },
+  "user_review_count": 10,
+  "rating": 6.2,
+  "release_year": null,
+  "avg_rating_per_demo": {
+    "imdb_users": 6.2,
+    "us_users": 6.0,
+    "aged_18-29": 6.6,
+    "non-us_users": 6.2,
+    "aged_45+": 6.2,
+    "aged_30-44": 6.1,
+    "males_aged_30-44": 6.0,
+    "males_aged_18-29": 6.4,
+    "males_aged_45+": 6.1,
+    "aged_under_18": 6.0,
+    "top_1000_voters": 5.2,
+    "females_aged_30-44": 6.2,
+    "females": 6.5,
+    "females_under_18": 6.0,
+    "females_aged_45+": 6.5,
+    "males": 6.1,
+    "females_aged_18-29": 7.0
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 30,
+    "__type__": "datetime.date",
+    "month": 11
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "movietode",
+      "contents": "Good story line",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "corrosion-2",
+      "contents": "Character Study",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Robert Carlyle is great",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "js-306-621513",
+      "contents": "brilliant",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Desertman84",
+      "contents": "A Film About Personal Redemption",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "t-kaymichel",
+      "contents": "A Worthy Performance from Robert Carlyle",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "hennyxu",
+      "contents": "California Solo",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "bwatty2",
+      "contents": "realistic portrayal of an aging rocker",
+      "review_date": {
+        "year": 2013,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Brooke Summerlin",
+      "contents": "Forget the Popcorn",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 10
+    }
+  ],
+  "release_month": null,
+  "genres": [
+    "drama"
+  ],
+  "opening_weekend_screens": 2,
+  "name": "California Solo",
+  "num_weekends": 2,
+  "release_day": null,
+  "critic_review_count": 37
 }

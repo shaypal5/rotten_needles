@@ -1,75 +1,652 @@
 {
-  "metascore": 9,
+  "release_day": null,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 3.2,
+    "males_under_18": 1.0,
+    "aged_45+": 4.9,
+    "imdb_users": 4.4,
+    "males_aged_45+": 4.9,
+    "aged_18-29": 4.1,
+    "females_aged_30-44": 4.2,
+    "males_aged_18-29": 4.0,
+    "males": 4.3,
+    "females": 4.7,
+    "females_aged_45+": 5.1,
+    "non-us_users": 4.0,
+    "females_aged_18-29": 4.6,
+    "us_users": 4.5,
+    "aged_30-44": 4.0,
+    "aged_under_18": 1.0,
+    "males_aged_30-44": 4.0
+  },
   "closing_date": {
+    "month": 9,
     "year": 2014,
     "day": 26,
-    "month": 9,
     "__type__": "datetime.date"
   },
-  "release_month": null,
-  "release_year": null,
-  "gross_income": 830210,
-  "duration": 99,
-  "release_day": null,
-  "max_screens": 65,
-  "opening_weekend_date": {
-    "year": 2014,
-    "day": 12,
-    "month": 9,
-    "__type__": "datetime.date"
-  },
-  "rating": 4.4,
+  "metascore": 9,
   "num_weekends": 1,
+  "rating_count": 2068,
+  "gross_income": 830210,
+  "max_screens": 65,
+  "opening_weekend_screens": 65,
+  "screens_by_weekend": [
+    65
+  ],
+  "opening_weekend_income": 461179,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "Complete let down",
+      "score": 1,
+      "user": "profff-01020",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Compelling story that must be told!",
+      "score": 6,
+      "user": "djestic03",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disappoining",
+      "score": 6,
+      "user": "Al Westerfield",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inconceivably bad, yet it exists!",
+      "score": 2,
+      "user": "cheighlee",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty much as expected",
+      "score": 6,
+      "user": "zaywhat",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Well, they finished all three films, but to what end?",
+      "score": 6,
+      "user": "blanche-2",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just...Terribawful",
+      "score": 1,
+      "user": "jason_wisdom",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best of the three in capturing philosophical essence.",
+      "score": 10,
+      "user": "jlogajan",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "why am i doing this to myself?",
+      "score": 2,
+      "user": "dragokin",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Read The Book; You Will Be Much Better Off",
+      "score": 1,
+      "user": "atafero",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Couldn't finish. And I've waited 4 years to see galt",
+      "score": 3,
+      "user": "TheDancingPanda-692-744536",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a massive disappointment",
+      "score": 1,
+      "user": "ejb-32773",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Part Three Differs As In Night And Day",
+      "score": 10,
+      "user": "AlanSKaufman",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "poorly written story",
+      "score": 2,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Watching this will kill more brain cells than huffing paint thinner",
+      "score": 1,
+      "user": "jaredrbowcutt",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It gets worse",
+      "score": 2,
+      "user": "Mr-Fusion",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A solid trilogy deluded and diminished in impact",
+      "score": 2,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Despite Hollyweird, the most widely read novel in world history is finally completed in movie form",
+      "score": 10,
+      "user": "RobertEdwardJ25",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "education on free market capitalism",
+      "score": 10,
+      "user": "gtjakco",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie series that started off interesting but really stumbled at the end. Worth a watch just to complete the saga.",
+      "score": 6,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Have they even read the book",
+      "score": 1,
+      "user": "Chilly Dippers",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This sums up much of our present condition",
+      "score": 9,
+      "user": "pdband",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"I'm always open to a deal with anyone who has a value to offer me\"",
+      "score": 10,
+      "user": "Razvan Preda",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A very good adaptation!",
+      "score": 10,
+      "user": "mcsandberg007",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Docked two points for having an unneeded Colorado license plate in Galt's Gulch",
+      "score": 8,
+      "user": " (btg-810-920456)",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "WORST movie",
+      "score": 1,
+      "user": "the_prince_of_frogs",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Insults One's Intelligence",
+      "score": 1,
+      "user": "Larry Silverstein",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Rush job, with lots of recycling",
+      "score": 5,
+      "user": "temp-544-612798",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Everything Seems To Come Together",
+      "score": 8,
+      "user": "maxskyfan-9",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Atlas didn't shrug he took a dump and out came this movie...",
+      "score": 2,
+      "user": "febru3012",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Atlas Shrugged Part III: Who is John Galt? makes I Know Who Killed Me look like Dude, Where's My Dog?",
+      "score": 1,
+      "user": "melissacorrell",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Train Wreck: But See It Anyway",
+      "score": 5,
+      "user": "Dawn Cramer",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What the heck was that?",
+      "score": 2,
+      "user": "P-Breitzman",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ayn Rand would cry, and let the free market take this out to pasture",
+      "score": 1,
+      "user": "chimera388",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The attempt is admirable - instead of complaining, do it better",
+      "score": 8,
+      "user": "Fran Eaton",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A revolution made by the rich for the rich",
+      "score": 5,
+      "user": "zarsoft",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So disappointed I cried",
+      "score": 1,
+      "user": "jaywensley2004",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Worst",
+      "score": 1,
+      "user": "karoly49",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Profound Writing?  \"I'm going to stop the motor of the world!\"",
+      "score": 1,
+      "user": "LeonLouisRicci",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie with meaning",
+      "score": 10,
+      "user": "mariejames2015",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Horrific Accident You Can't Look Away From",
+      "score": 1,
+      "user": "flinched",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "laughably awful film rendition of a laughably awful book",
+      "score": 1,
+      "user": "jack  london",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Who is the audience for this movie?",
+      "score": 1,
+      "user": "Debora Simon",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plan 9 from Battlefield Earth",
+      "score": 3,
+      "user": "scotch7",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Run Away - No Bad Good just Bad Bad Film",
+      "score": 1,
+      "user": "pluslife",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A properly embarrassing end to an embarrassing trilogy.",
+      "score": 1,
+      "user": "jdennist",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Challenge to Adapt, This Team Failed",
+      "score": 4,
+      "user": "gilmichelini",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Who cares who John Gault is?",
+      "score": 1,
+      "user": "Sean O'Neil",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "the worst propaganda even for middle age minds and bellow zero IQ",
+      "score": 1,
+      "user": "demis_gr19",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Imagine a profoundly great book made into a movie by high school kids.",
+      "score": 5,
+      "user": "nate hall",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "And I had such high hopes...",
+      "score": 2,
+      "user": "slfisher-2",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Mockery of the Theory",
+      "score": 2,
+      "user": "JustGotToSayIt",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Listen to Michael Medved's review, then decide if you want to see it.",
+      "score": 3,
+      "user": "db-near-la",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 99,
+  "votes_per_demo": {
+    "top_1000_voters": 74,
+    "males_under_18": 1,
+    "aged_45+": 613,
+    "imdb_users": 2068,
+    "males_aged_45+": 530,
+    "aged_18-29": 301,
+    "females_aged_30-44": 82,
+    "males_aged_18-29": 248,
+    "males": 1503,
+    "females": 217,
+    "females_aged_45+": 75,
+    "non-us_users": 641,
+    "females_aged_18-29": 50,
+    "us_users": 751,
+    "aged_30-44": 749,
+    "aged_under_18": 1,
+    "males_aged_30-44": 660
+  },
   "genres": [
     "drama",
     "mystery",
     "sci-fi"
   ],
-  "avg_screens": 65.0,
-  "opening_weekend_income": 461179,
-  "year": 2014,
   "opening_weekend_income_currency": "$",
-  "rating_count": 2068,
-  "votes_per_demo": {
-    "females": 217,
-    "males_aged_30-44": 660,
-    "aged_under_18": 1,
-    "females_aged_30-44": 82,
-    "females_aged_45+": 75,
-    "us_users": 751,
-    "aged_45+": 613,
-    "aged_30-44": 749,
-    "top_1000_voters": 74,
-    "males_aged_18-29": 248,
-    "females_aged_18-29": 50,
-    "imdb_users": 2068,
-    "males": 1503,
-    "non-us_users": 641,
-    "males_under_18": 1,
-    "aged_18-29": 301,
-    "males_aged_45+": 530
-  },
-  "avg_rating_per_demo": {
-    "females": 4.7,
-    "males_aged_30-44": 4.0,
-    "aged_under_18": 1.0,
-    "females_aged_30-44": 4.2,
-    "females_aged_45+": 5.1,
-    "us_users": 4.5,
-    "aged_45+": 4.9,
-    "aged_30-44": 4.0,
-    "top_1000_voters": 3.2,
-    "males_aged_18-29": 4.0,
-    "females_aged_18-29": 4.6,
-    "imdb_users": 4.4,
-    "males": 4.3,
-    "non-us_users": 4.0,
-    "males_under_18": 1.0,
-    "aged_18-29": 4.1,
-    "males_aged_45+": 4.9
-  },
-  "critic_review_count": 12,
-  "user_review_count": 56,
   "rating_freq": {
     "1": 406,
     "2": 172,
@@ -82,7 +659,20 @@
     "9": 78,
     "10": 341
   },
-  "name": "Atlas Shrugged: Part III",
+  "release_month": null,
+  "budget": 5000000,
   "budget_currency": "$",
-  "budget": 5000000
+  "total_screens": 65,
+  "year": 2014,
+  "rating": 4.4,
+  "critic_review_count": 12,
+  "opening_weekend_date": {
+    "month": 9,
+    "year": 2014,
+    "day": 12,
+    "__type__": "datetime.date"
+  },
+  "name": "Atlas Shrugged: Part III",
+  "user_review_count": 56,
+  "avg_screens": 65.0
 }

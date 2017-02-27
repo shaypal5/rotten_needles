@@ -1,92 +1,755 @@
 {
-  "genres": [
-    "comedy",
-    "crime",
-    "thriller"
-  ],
-  "num_weekends": 8,
+  "budget_currency": "$",
+  "total_screens": 35,
   "rating_freq": {
     "1": 282,
     "2": 182,
     "3": 312,
     "4": 657,
     "5": 1643,
-    "6": 4173,
-    "7": 6811,
+    "6": 4174,
+    "7": 6813,
     "8": 4012,
-    "9": 1509,
-    "10": 1489
+    "9": 1510,
+    "10": 1490
   },
-  "budget": 500000,
-  "votes_per_demo": {
-    "non-us_users": 10459,
-    "aged_45+": 2805,
-    "females_aged_45+": 630,
-    "imdb_staff": 3,
-    "females_under_18": 3,
-    "males_aged_45+": 2112,
-    "females_aged_18-29": 1581,
-    "males_aged_30-44": 7812,
-    "females": 4207,
-    "imdb_users": 21070,
-    "us_users": 5765,
-    "males_under_18": 8,
-    "top_1000_voters": 195,
-    "aged_under_18": 11,
-    "males": 14802,
-    "males_aged_18-29": 4547,
-    "females_aged_30-44": 1837,
-    "aged_30-44": 9755,
-    "aged_18-29": 6186
-  },
+  "release_day": null,
+  "genres": [
+    "comedy",
+    "crime",
+    "thriller"
+  ],
+  "name": "The Perfect Host",
+  "release_month": null,
+  "avg_screens": 4.375,
+  "imdb_user_reviews": [
+    {
+      "user": "Simonster",
+      "score": 8,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Really creepy good fun"
+    },
+    {
+      "user": "somf",
+      "score": 8,
+      "review_date": {
+        "day": 30,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Unique and great showcase for 2 actors."
+    },
+    {
+      "user": "poetjoey",
+      "score": 10,
+      "review_date": {
+        "day": 25,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "David Hyde Pierce At His Best!"
+    },
+    {
+      "user": "kimjarman19",
+      "score": 10,
+      "review_date": {
+        "day": 4,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Brilliant!"
+    },
+    {
+      "user": "Terry Roehrig II",
+      "score": 8,
+      "review_date": {
+        "day": 15,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "David Hyde Pierce gives an excellent performance & the movie has many twists and turns."
+    },
+    {
+      "user": "highlandpercussion",
+      "score": 8,
+      "review_date": {
+        "day": 8,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Highly entertaining thriller, with a smashing performance from David Hyde Pierce"
+    },
+    {
+      "user": "bowmanblue",
+      "score": 7,
+      "review_date": {
+        "day": 23,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "A hidden gem"
+    },
+    {
+      "user": "muddernewf79",
+      "score": 8,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Bizarre and Oddly Hysterical"
+    },
+    {
+      "user": "Sean Lamberger",
+      "score": 4,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "Too Many Twists, Not Enough Straightaways"
+    },
+    {
+      "user": "mauvemoonlight",
+      "score": 3,
+      "review_date": {
+        "day": 3,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "One twist & turn too many"
+    },
+    {
+      "user": "arthurbb",
+      "score": 8,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "A modern day version of Sleuth"
+    },
+    {
+      "user": "scoup",
+      "score": 6,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Great acting...not sure about plot and ending"
+    },
+    {
+      "user": "sharkopath1967",
+      "score": 10,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "David Hyde Pierce is brilliant"
+    },
+    {
+      "user": "boykelizerazu",
+      "score": 9,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Superb movie"
+    },
+    {
+      "user": "Misa Sakhi",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "not what I expected"
+    },
+    {
+      "user": "Brandon Blackwell",
+      "score": 5,
+      "review_date": {
+        "day": 6,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "\"Dinner parties are a dying art\""
+    },
+    {
+      "user": "witster18",
+      "score": 8,
+      "review_date": {
+        "day": 19,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Memento Meets Dinner For Schmucks - I Loved it!"
+    },
+    {
+      "user": "lightningslim",
+      "score": 9,
+      "review_date": {
+        "day": 14,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Simply brilliant!"
+    },
+    {
+      "user": "carbuff",
+      "score": 9,
+      "review_date": {
+        "day": 3,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "A thriller with elements of \"lite\" horror."
+    },
+    {
+      "user": "john32935",
+      "score": 7,
+      "review_date": {
+        "day": 20,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "What would Martha say?  LEAVE!"
+    },
+    {
+      "user": "billcr12",
+      "score": 6,
+      "review_date": {
+        "day": 15,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Good Pierce but  bad ending"
+    },
+    {
+      "user": "cattrelc",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "this was interesting, but..."
+    },
+    {
+      "user": "JoanneDA",
+      "score": 7,
+      "review_date": {
+        "day": 17,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "The Perfect Performance"
+    },
+    {
+      "user": "K B",
+      "score": 9,
+      "review_date": {
+        "day": 25,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "remember sleuth?"
+    },
+    {
+      "user": "hasan-saykin",
+      "score": 10,
+      "review_date": {
+        "day": 23,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "After Niles, Good to See Warwick"
+    },
+    {
+      "user": "MisterMovies1",
+      "score": 8,
+      "review_date": {
+        "day": 2,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Conga anyone?"
+    },
+    {
+      "user": "Matt_Layden",
+      "score": 7,
+      "review_date": {
+        "day": 29,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "David Hyde Pierce steals the show."
+    },
+    {
+      "user": "planktonrules",
+      "score": 8,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "A clear and definite way to declare that he is no longer Niles!"
+    },
+    {
+      "user": "Jayesh Sinha",
+      "score": 7,
+      "review_date": {
+        "day": 9,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Quite Good"
+    },
+    {
+      "user": "Jordan Richards",
+      "score": 3,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Ridiculous Plot"
+    },
+    {
+      "user": "tabuno",
+      "score": 8,
+      "review_date": {
+        "day": 20,
+        "year": 2017,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "contents": "A Challenging Twisting Psychological Thriller"
+    },
+    {
+      "user": "KineticSeoul",
+      "score": 6,
+      "review_date": {
+        "day": 3,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "David Hyde Pierce nails it!"
+    },
+    {
+      "user": "SnoopyStyle",
+      "score": 5,
+      "review_date": {
+        "day": 6,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "prefer a two-men version"
+    },
+    {
+      "user": "Chase Diedrich",
+      "score": 9,
+      "review_date": {
+        "day": 5,
+        "year": 2016,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Terrific performances, and convincing enough lines"
+    },
+    {
+      "user": "Theo Robertson",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Smart Black Comedy Thriller"
+    },
+    {
+      "user": "gratwicker",
+      "score": 8,
+      "review_date": {
+        "day": 26,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "So many twist my back hurts"
+    },
+    {
+      "user": "Bene Cumb",
+      "score": 7,
+      "review_date": {
+        "day": 4,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "contents": "Interesting to follow, but not very feasible"
+    },
+    {
+      "user": "kosmasp",
+      "score": 6,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "What to expect, when you're expecting (a guest for Dinner)"
+    },
+    {
+      "user": "twomainiacs",
+      "score": 9,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "If this is your first review...don't read the others...it will spoil it."
+    },
+    {
+      "user": "RobM123",
+      "score": 8,
+      "review_date": {
+        "day": 17,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "The Perfect Role"
+    },
+    {
+      "user": "ritera1",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "A Fresh Twist"
+    },
+    {
+      "user": "BaronBl00d (baronbl00d@aol.com)",
+      "score": 7,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "\"You Have Panache!\""
+    },
+    {
+      "user": "mmsmoney",
+      "score": 7,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "< Go for it >"
+    },
+    {
+      "user": "Shaun Choo",
+      "score": 7,
+      "review_date": {
+        "day": 22,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "The Perfect Host : BeatDown Reviews"
+    },
+    {
+      "user": "We Watched A Movie",
+      "score": 7,
+      "review_date": {
+        "day": 14,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "One of those films you don't forget"
+    },
+    {
+      "user": "Michael O'Keefe",
+      "score": 8,
+      "review_date": {
+        "day": 10,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "contents": "Predator feels like prey."
+    },
+    {
+      "user": "gavin6942",
+      "score": 7,
+      "review_date": {
+        "day": 3,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Odd, Quirky"
+    },
+    {
+      "user": "tombalistreri",
+      "score": 7,
+      "review_date": {
+        "day": 8,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "..Devilishly clever"
+    },
+    {
+      "user": "Sarah P",
+      "score": 9,
+      "review_date": {
+        "day": 5,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Little Gem"
+    },
+    {
+      "user": "MissOceanB",
+      "score": 8,
+      "review_date": {
+        "day": 5,
+        "year": 2015,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Brilliantly Dark Comedy/Crime Thriller"
+    },
+    {
+      "user": "Johan Dondokambey",
+      "score": 5,
+      "review_date": {
+        "day": 30,
+        "year": 2014,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "A great yet creepy concept but too slow in pace building"
+    },
+    {
+      "user": "MBunge",
+      "score": 6,
+      "review_date": {
+        "day": 2,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Outstanding up until a self-sabotaging conclusion"
+    },
+    {
+      "user": "torgeirarntzen",
+      "score": 5,
+      "review_date": {
+        "day": 1,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Very good and very bad!"
+    },
+    {
+      "user": "Lamar Henderson",
+      "score": 3,
+      "review_date": {
+        "day": 31,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "contents": "Great ideas marred by unfinished script (spoilers)"
+    },
+    {
+      "user": "james",
+      "score": 10,
+      "review_date": {
+        "day": 7,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "She Is Woman, Hear Her Roar !"
+    },
+    {
+      "user": "Matt Kracht (krachtm@yahoo.com)",
+      "score": 6,
+      "review_date": {
+        "day": 5,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Plot twists for the sake of plot twists"
+    },
+    {
+      "user": "twilliams76",
+      "score": 4,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "Too many \"twists\" lead to disaster ..."
+    },
+    {
+      "user": "Cinema-Queen",
+      "score": 7,
+      "review_date": {
+        "day": 27,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "12 reasons to watch"
+    },
+    {
+      "user": "Marjeez",
+      "score": 3,
+      "review_date": {
+        "day": 13,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "The Host that Took a Giant Dump on his Viewers"
+    }
+  ],
+  "release_year": null,
+  "max_screens": 10,
+  "screens_by_weekend": [
+    3,
+    2,
+    3,
+    4,
+    5,
+    6,
+    10,
+    2
+  ],
+  "critic_review_count": 110,
+  "num_weekends": 8,
   "closing_date": {
-    "month": 9,
-    "__type__": "datetime.date",
     "day": 2,
-    "year": 2011
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 9
   },
-  "gross_income": 48430,
+  "opening_weekend_screens": 3,
+  "rating": 6.8,
+  "opening_weekend_income": 9388,
+  "user_review_count": 75,
+  "budget": 500000,
+  "rating_count": 21075,
+  "metascore": 48,
+  "duration": 93,
   "avg_rating_per_demo": {
     "non-us_users": 6.7,
-    "aged_45+": 6.8,
-    "females_aged_45+": 7.2,
-    "imdb_staff": 5.7,
-    "females_under_18": 7.7,
-    "males_aged_45+": 6.7,
-    "females_aged_18-29": 7.1,
+    "aged_30-44": 6.7,
+    "top_1000_voters": 5.9,
+    "us_users": 6.8,
+    "females_under_18": 6.5,
     "males_aged_30-44": 6.7,
     "females": 7.0,
     "imdb_users": 6.8,
-    "us_users": 6.8,
-    "males_under_18": 5.8,
-    "top_1000_voters": 5.9,
-    "aged_under_18": 6.0,
+    "aged_45+": 6.8,
     "males": 6.7,
+    "females_aged_45+": 7.2,
+    "females_aged_18-29": 7.1,
+    "aged_under_18": 5.9,
+    "males_under_18": 5.8,
     "males_aged_18-29": 6.8,
     "females_aged_30-44": 6.9,
-    "aged_30-44": 6.7,
+    "males_aged_45+": 6.7,
+    "imdb_staff": 5.7,
     "aged_18-29": 6.9
   },
-  "opening_weekend_date": {
-    "month": 7,
-    "__type__": "datetime.date",
-    "day": 1,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 10461,
+    "aged_30-44": 9759,
+    "top_1000_voters": 195,
+    "us_users": 5766,
+    "females_under_18": 2,
+    "males_aged_30-44": 7815,
+    "females": 4208,
+    "imdb_users": 21075,
+    "aged_45+": 2805,
+    "males": 14805,
+    "females_aged_45+": 630,
+    "females_aged_18-29": 1582,
+    "aged_under_18": 10,
+    "males_under_18": 8,
+    "males_aged_18-29": 4546,
+    "females_aged_30-44": 1838,
+    "males_aged_45+": 2112,
+    "imdb_staff": 3,
+    "aged_18-29": 6186
   },
-  "budget_currency": "$",
-  "user_review_count": 75,
-  "metascore": 48,
-  "max_screens": 10,
-  "duration": 93,
-  "rating_count": 21070,
-  "release_day": null,
-  "release_month": null,
-  "release_year": null,
+  "gross_income": 48430,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 9388,
-  "critic_review_count": 110,
-  "rating": 6.8,
-  "avg_screens": 4.375,
-  "name": "The Perfect Host",
-  "year": 2010
+  "year": 2010,
+  "opening_weekend_date": {
+    "day": 1,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 7
+  }
 }

@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 8,
-    "year": 2015,
-    "day": 28,
-    "__type__": "datetime.date"
+  "release_day": 21,
+  "avg_rating_per_demo": {
+    "aged_45+": 6.2,
+    "top_1000_voters": 5.5,
+    "males_under_18": 7.3,
+    "imdb_staff": 7.0,
+    "males_aged_18-29": 6.3,
+    "imdb_users": 6.1,
+    "males_aged_45+": 6.2,
+    "aged_18-29": 6.2,
+    "us_users": 6.0,
+    "females_aged_30-44": 6.0,
+    "males": 6.2,
+    "females": 6.1,
+    "females_aged_45+": 6.1,
+    "non-us_users": 6.1,
+    "females_aged_18-29": 6.1,
+    "females_under_18": 6.9,
+    "aged_30-44": 6.1,
+    "aged_under_18": 7.2,
+    "males_aged_30-44": 6.1
   },
   "closing_date": {
     "month": 8,
@@ -11,80 +27,533 @@
     "day": 28,
     "__type__": "datetime.date"
   },
-  "rating": 6.1,
-  "num_weekends": 1,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 368,
-    "2": 326,
-    "3": 555,
-    "4": 1242,
-    "5": 2747,
-    "6": 5078,
-    "7": 4641,
-    "8": 2203,
-    "9": 676,
-    "10": 809
-  },
-  "avg_screens": 20.0,
-  "budget": null,
-  "budget_currency": null,
-  "release_day": 21,
   "metascore": 45,
+  "num_weekends": 1,
+  "rating_count": 18658,
+  "gross_income": 88460,
+  "max_screens": 20,
+  "opening_weekend_screens": 20,
+  "screens_by_weekend": [
+    20
+  ],
+  "opening_weekend_income": 20814,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Don't understand the hate",
+      "score": 6,
+      "user": "Horst Bold",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie about other movies",
+      "score": 4,
+      "user": "JSmith125",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A pleasantly manic, adult comedy",
+      "score": 8,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A brilliantly written comedy that isn't for everyone but is one that is worth seeing if you are into this type of comedy.",
+      "score": 7,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "best time I've had at the movies in a while",
+      "score": 8,
+      "user": "quang-64648",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Missing something",
+      "score": 4,
+      "user": "rottninge",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The movie, the cast and the lovely Imogen Poots... They're all funny that way",
+      "score": 8,
+      "user": "Allguns Allguns",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's not funny, in any way",
+      "score": 2,
+      "user": "ferdinand1932",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very funny old-style screwball comedy",
+      "score": 9,
+      "user": "didi777@hotmail.com",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Squirrelly",
+      "score": 5,
+      "user": "moonspinner55",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Amazing-ly funny, witty, smart, hilarious!!!",
+      "score": 10,
+      "user": "Mari Saki",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good beginning, Contrived middle, But the writers bailed at the End ..",
+      "score": 5,
+      "user": "gillies",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "somewhere in cinema",
+      "score": 6,
+      "user": "Lee Eisenberg (lee.eisenberg.pdx@gmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Isabella Patterson, raised in Brooklyn.",
+      "score": 3,
+      "user": "recgaspar",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Broadway Therapy",
+      "score": 6,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Really Funny Screwball Comedy!",
+      "score": 7,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent comedy.  Has an old fashioned feel to it and reminiscent of Woody Allen films",
+      "score": 10,
+      "user": "krkemp",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow - so Woodyesuque....",
+      "score": 8,
+      "user": "jackdnimble",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "To everyone who doesn't rate it ten, are you Nuts?",
+      "score": 10,
+      "user": "Tomas Bily",
+      "review_date": {
+        "month": 1,
+        "year": 2017,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I tried to like it due to the cast",
+      "score": 3,
+      "user": "Sabrina",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Woody Allen with a bit of Blake Edwards thrown in",
+      "score": 9,
+      "user": "Northey Mitford (fleurus.d@voila.fr)",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I liked it...",
+      "score": 10,
+      "user": "idiv23",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "F is for fake",
+      "score": 8,
+      "user": "temrok9",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The movie is okay ,, not a Wowzer.. but i was a little disappointed ... With such cast maybe i expected much more.",
+      "score": 5,
+      "user": "Aktham Tashtush",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Old fashion and modern funny but still very funny",
+      "score": 8,
+      "user": "abisio",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Witty and cleverly written. 6/10",
+      "score": 6,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "She's  Funny  That  Way",
+      "score": 8,
+      "user": "Argemaluco",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Too many coincidences, not enough comedy",
+      "score": 4,
+      "user": "Lundgrenja",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't waste your time",
+      "score": 3,
+      "user": "emilycecile",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uncouth plagiarism and redundantly dated",
+      "score": 4,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You are not the target",
+      "score": 1,
+      "user": "paulamarsattacks",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A total stonker",
+      "score": 2,
+      "user": "cressybee",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hard to believe just how bad this 'comedy' is!",
+      "score": 2,
+      "user": "bobsu1",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Think again, she isn't that funny",
+      "score": 4,
+      "user": "Russ Matthews (russellingreviews)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Woody Allen-esk comedy with great cast",
+      "score": 8,
+      "user": "Seemp deHond",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable and satisfying (if not hilarious) for those prepared not to over-moralise",
+      "score": 8,
+      "user": "James",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it.",
+      "score": 7,
+      "user": "richard lyons",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Serious Entertainment 4 Serious People!",
+      "score": 9,
+      "user": "Kevin Kevin",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A replica of Woody Allen",
+      "score": 6,
+      "user": "tboneincali",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, Enjoyable and Jennifer Aniston is A +",
+      "score": 8,
+      "user": "katosubzero",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Her Accent, Her Boyfriend, Her Dilemma. It's Funny That Way!",
+      "score": 8,
+      "user": "hamass-mujadid",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "really?",
+      "score": 1,
+      "user": "dfsdsdfas",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 93,
+  "votes_per_demo": {
+    "aged_45+": 1883,
+    "top_1000_voters": 195,
+    "males_under_18": 19,
+    "imdb_staff": 3,
+    "males_aged_18-29": 3804,
+    "imdb_users": 18658,
+    "males_aged_45+": 1505,
+    "aged_18-29": 6337,
+    "us_users": 1627,
+    "females_aged_30-44": 1723,
+    "males": 10970,
+    "females": 4773,
+    "females_aged_45+": 340,
+    "non-us_users": 10487,
+    "females_aged_18-29": 2440,
+    "females_under_18": 23,
+    "aged_30-44": 6989,
+    "aged_under_18": 44,
+    "males_aged_30-44": 5141
+  },
   "genres": [
     "comedy"
   ],
-  "release_month": "August",
-  "avg_rating_per_demo": {
-    "aged_45+": 6.2,
-    "aged_18-29": 6.2,
-    "aged_30-44": 6.1,
-    "females": 6.1,
-    "top_1000_voters": 5.5,
-    "non-us_users": 6.1,
-    "females_under_18": 6.9,
-    "males_aged_30-44": 6.1,
-    "us_users": 6.0,
-    "imdb_users": 6.1,
-    "imdb_staff": 7.0,
-    "males_under_18": 7.3,
-    "females_aged_18-29": 6.1,
-    "males_aged_45+": 6.2,
-    "females_aged_30-44": 6.0,
-    "males": 6.2,
-    "males_aged_18-29": 6.3,
-    "females_aged_45+": 6.1,
-    "aged_under_18": 7.2
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2014,
-  "name": "She's Funny That Way",
-  "gross_income": 88460,
-  "user_review_count": 45,
-  "duration": 93,
-  "max_screens": 20,
-  "votes_per_demo": {
-    "aged_45+": 1881,
-    "aged_18-29": 6334,
-    "aged_30-44": 6982,
-    "females": 4769,
-    "top_1000_voters": 194,
-    "non-us_users": 10477,
-    "females_under_18": 23,
-    "males_aged_30-44": 5135,
-    "us_users": 1627,
-    "imdb_users": 18645,
-    "imdb_staff": 3,
-    "males_under_18": 19,
-    "females_aged_18-29": 2439,
-    "males_aged_45+": 1505,
-    "females_aged_30-44": 1722,
-    "males": 10962,
-    "males_aged_18-29": 3802,
-    "females_aged_45+": 338,
-    "aged_under_18": 44
+  "rating_freq": {
+    "1": 368,
+    "2": 327,
+    "3": 555,
+    "4": 1242,
+    "5": 2750,
+    "6": 5083,
+    "7": 4643,
+    "8": 2203,
+    "9": 677,
+    "10": 810
   },
-  "rating_count": 18645,
+  "release_month": "August",
+  "budget": null,
+  "budget_currency": null,
+  "total_screens": 20,
+  "year": 2014,
+  "rating": 6.1,
   "critic_review_count": 160,
-  "opening_weekend_income": 20814
+  "opening_weekend_date": {
+    "month": 8,
+    "year": 2015,
+    "day": 28,
+    "__type__": "datetime.date"
+  },
+  "name": "She's Funny That Way",
+  "user_review_count": 45,
+  "avg_screens": 20.0
 }

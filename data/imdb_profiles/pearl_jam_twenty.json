@@ -1,10 +1,6 @@
 {
-  "genres": [
-    "documentary",
-    "history",
-    "music"
-  ],
-  "num_weekends": 2,
+  "budget_currency": null,
+  "total_screens": 15,
   "rating_freq": {
     "1": 60,
     "2": 18,
@@ -17,76 +13,242 @@
     "9": 1583,
     "10": 1983
   },
-  "budget": null,
-  "votes_per_demo": {
-    "non-us_users": 3683,
-    "aged_45+": 581,
-    "females_aged_45+": 94,
-    "imdb_staff": 3,
-    "females_under_18": 1,
-    "males_aged_45+": 480,
-    "females_aged_18-29": 359,
-    "males_aged_30-44": 3144,
-    "females": 903,
-    "imdb_users": 6772,
-    "us_users": 1440,
-    "males_under_18": 1,
-    "top_1000_voters": 88,
-    "aged_under_18": 2,
-    "males": 5188,
-    "males_aged_18-29": 1419,
-    "females_aged_30-44": 422,
-    "aged_30-44": 3609,
-    "aged_18-29": 1794
-  },
+  "release_day": 21,
+  "genres": [
+    "documentary",
+    "history",
+    "music"
+  ],
+  "name": "Pearl Jam Twenty",
+  "release_month": "October",
+  "avg_screens": 7.5,
+  "imdb_user_reviews": [
+    {
+      "user": "kevin_parks",
+      "score": 10,
+      "review_date": {
+        "day": 12,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Perfect film for Pearl Jam fans!"
+    },
+    {
+      "user": "DICK STEEL",
+      "score": 10,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "A Nutshell Review: Pearl Jam 20"
+    },
+    {
+      "user": "dhsvincent",
+      "score": 9,
+      "review_date": {
+        "day": 22,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Great Rockumentary"
+    },
+    {
+      "user": "tomgillespie2002",
+      "score": 8,
+      "review_date": {
+        "day": 20,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "Informative, moving and passionate"
+    },
+    {
+      "user": "BClark0679",
+      "score": 10,
+      "review_date": {
+        "day": 21,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "contents": "Pearl Jam Brings It Back"
+    },
+    {
+      "user": "kisp_1",
+      "score": 10,
+      "review_date": {
+        "day": 19,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Gave it a 10 and am not a PJ fan"
+    },
+    {
+      "user": "bdgill12",
+      "score": 8,
+      "review_date": {
+        "day": 25,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "contents": "Great Look at One of America's Best Bands"
+    },
+    {
+      "user": "johnnygoldman",
+      "score": 7,
+      "review_date": {
+        "day": 6,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "contents": "A Shallow view of the band with no juicy parts"
+    },
+    {
+      "user": "ConfucioBSB",
+      "score": 8,
+      "review_date": {
+        "day": 3,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "contents": "Would get 10 stars if renamed to PJ 10"
+    },
+    {
+      "user": "Engelbert Franssen",
+      "score": 10,
+      "review_date": {
+        "day": 13,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "contents": "A story of success"
+    },
+    {
+      "user": "cheesecrop",
+      "score": 9,
+      "review_date": {
+        "day": 12,
+        "year": 2012,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "contents": "Pearl Jam Fans, Go Crazy!"
+    },
+    {
+      "user": "cdelatorre48",
+      "score": 4,
+      "review_date": {
+        "day": 13,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Lacking in so many ways."
+    },
+    {
+      "user": "kai ringler",
+      "score": 10,
+      "review_date": {
+        "day": 26,
+        "year": 2013,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "contents": "my favorite band"
+    },
+    {
+      "user": "Yavorski",
+      "score": 8,
+      "review_date": {
+        "day": 18,
+        "year": 2011,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "contents": "Complete but not too Deep"
+    }
+  ],
+  "release_year": 2011,
+  "max_screens": 10,
+  "screens_by_weekend": [
+    10,
+    5
+  ],
+  "critic_review_count": 39,
+  "num_weekends": 2,
   "closing_date": {
-    "month": 9,
-    "__type__": "datetime.date",
     "day": 30,
-    "year": 2011
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 9
   },
-  "gross_income": 454784,
+  "opening_weekend_screens": 10,
+  "rating": 8.3,
+  "opening_weekend_income": 102448,
+  "user_review_count": 17,
+  "budget": null,
+  "rating_count": 6772,
+  "metascore": 59,
+  "duration": 109,
   "avg_rating_per_demo": {
     "non-us_users": 8.3,
-    "aged_45+": 7.9,
-    "females_aged_45+": 8.2,
-    "imdb_staff": 8.0,
+    "aged_30-44": 8.3,
+    "top_1000_voters": 6.9,
+    "us_users": 8.2,
     "females_under_18": 8.0,
-    "males_aged_45+": 7.8,
-    "females_aged_18-29": 8.9,
     "males_aged_30-44": 8.3,
     "females": 8.7,
     "imdb_users": 8.3,
-    "us_users": 8.2,
-    "males_under_18": 9.0,
-    "top_1000_voters": 6.9,
-    "aged_under_18": 8.5,
+    "aged_45+": 7.9,
     "males": 8.3,
+    "females_aged_45+": 8.2,
+    "females_aged_18-29": 8.9,
+    "aged_under_18": 8.5,
+    "males_under_18": 9.0,
     "males_aged_18-29": 8.4,
     "females_aged_30-44": 8.7,
-    "aged_30-44": 8.3,
+    "males_aged_45+": 7.8,
+    "imdb_staff": 8.0,
     "aged_18-29": 8.5
   },
-  "opening_weekend_date": {
-    "month": 9,
-    "__type__": "datetime.date",
-    "day": 23,
-    "year": 2011
+  "votes_per_demo": {
+    "non-us_users": 3683,
+    "aged_30-44": 3608,
+    "top_1000_voters": 88,
+    "us_users": 1440,
+    "females_under_18": 1,
+    "males_aged_30-44": 3143,
+    "females": 903,
+    "imdb_users": 6772,
+    "aged_45+": 582,
+    "males": 5188,
+    "females_aged_45+": 94,
+    "females_aged_18-29": 359,
+    "aged_under_18": 2,
+    "males_under_18": 1,
+    "males_aged_18-29": 1419,
+    "females_aged_30-44": 422,
+    "males_aged_45+": 481,
+    "imdb_staff": 3,
+    "aged_18-29": 1794
   },
-  "budget_currency": null,
-  "user_review_count": 17,
-  "metascore": 59,
-  "max_screens": 10,
-  "duration": 109,
-  "rating_count": 6772,
-  "release_day": 21,
-  "release_month": "October",
-  "release_year": 2011,
+  "gross_income": 454784,
   "opening_weekend_income_currency": "$",
-  "opening_weekend_income": 102448,
-  "critic_review_count": 39,
-  "rating": 8.3,
-  "avg_screens": 7.5,
-  "name": "Pearl Jam Twenty",
-  "year": 2011
+  "year": 2011,
+  "opening_weekend_date": {
+    "day": 23,
+    "year": 2011,
+    "__type__": "datetime.date",
+    "month": 9
+  }
 }

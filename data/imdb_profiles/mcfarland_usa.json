@@ -1,9 +1,25 @@
 {
-  "opening_weekend_date": {
-    "month": 2,
-    "year": 2015,
-    "day": 20,
-    "__type__": "datetime.date"
+  "release_day": 20,
+  "avg_rating_per_demo": {
+    "aged_45+": 7.5,
+    "top_1000_voters": 6.4,
+    "males_under_18": 7.6,
+    "imdb_staff": 7.3,
+    "males_aged_18-29": 7.4,
+    "imdb_users": 7.4,
+    "males_aged_45+": 7.4,
+    "aged_18-29": 7.5,
+    "us_users": 7.5,
+    "females_aged_30-44": 7.7,
+    "males": 7.3,
+    "females": 7.8,
+    "females_aged_45+": 7.9,
+    "non-us_users": 7.3,
+    "females_aged_18-29": 7.9,
+    "females_under_18": 8.4,
+    "aged_30-44": 7.3,
+    "aged_under_18": 7.8,
+    "males_aged_30-44": 7.2
   },
   "closing_date": {
     "month": 6,
@@ -11,82 +27,989 @@
     "day": 26,
     "__type__": "datetime.date"
   },
-  "rating": 7.4,
+  "metascore": 60,
   "num_weekends": 15,
+  "rating_count": 25972,
+  "gross_income": 44469602,
+  "max_screens": 2792,
+  "opening_weekend_screens": 2755,
+  "screens_by_weekend": [
+    2755,
+    2765,
+    2792,
+    2455,
+    1816,
+    1126,
+    703,
+    518,
+    182,
+    140,
+    128,
+    150,
+    103,
+    39,
+    24
+  ],
+  "opening_weekend_income": 11020798,
   "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "Inspiring look at coaching in a low-income area",
+      "score": 7,
+      "user": "sellingsalem",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "nicely done",
+      "score": 9,
+      "user": "WoodBangers Entertainment",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie",
+      "score": 8,
+      "user": "Dain Aarrerstad",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Familiar, yet very entertaining picture",
+      "score": 9,
+      "user": "851222",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Very Good Disney Film.",
+      "score": 8,
+      "user": "jdgmblue-126-614398",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice performances & scenery, cartoonish plot touches",
+      "score": 6,
+      "user": "FeatherlessBiped",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Simple, predictable, but very appealing",
+      "score": 8,
+      "user": "Afshin-A",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fourth out of four, also known as last place....",
+      "score": 8,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Predictable but manages to hit most of the right notes",
+      "score": 7,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This ain't Golf",
+      "score": 6,
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't run away from this movie.",
+      "score": 6,
+      "user": "santiagocosme",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inspiring",
+      "score": 8,
+      "user": "Larry Silverstein",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Beautiful, organic, touching film",
+      "score": 10,
+      "user": "LAtoSEA",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best in a long time",
+      "score": 10,
+      "user": "iamlb68",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "excellent",
+      "score": 9,
+      "user": "mattkratz (themattk@hotmail.com)",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Movie Of 2015",
+      "score": 10,
+      "user": "slightlymad22",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Inspirational and educational --the perfect movie!",
+      "score": 10,
+      "user": "brooksrob1",
+      "review_date": {
+        "month": 9,
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's just a matter of when, one to find his place to fit in.",
+      "score": 8,
+      "user": "Reno Rangan",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Keep on running",
+      "score": 6,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 6,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Race over and go see this movie. McFarland, USA is worth-visiting.",
+      "score": 8,
+      "user": "ironhorse_iv",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Management Lesson",
+      "score": 10,
+      "user": "vimmiya",
+      "review_date": {
+        "month": 4,
+        "year": 2016,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Real life story",
+      "score": 8,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fun, heartwarming movie",
+      "score": 9,
+      "user": "andrew Perry",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A typical Disney sports movie, but that's OK",
+      "score": 7,
+      "user": "eddie_baggins",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Formulaic yet perfect nonetheless",
+      "score": 10,
+      "user": "Solnichka McPherson",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "'Uno, dos, tres \u0096 McFarland'",
+      "score": 10,
+      "user": "gradyharp",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overall view- Great movie if you like sports, emotions and underdogs.",
+      "score": 8,
+      "user": "goelsamarth998-130-603695",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice clean, entertaining flick",
+      "score": 7,
+      "user": "jb_campo",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "***1/2",
+      "score": 9,
+      "user": "edwagreen",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A feel good sports movie",
+      "score": 8,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I guess you can say this is another Disney Sport's Classic you can add to your shelf.",
+      "score": 8,
+      "user": "Bryan Kluger",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "McFarland, USA: about more than champions",
+      "score": 9,
+      "user": "Tory S. Anderson",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Once he learns the culture",
+      "score": 7,
+      "user": "bkoganbing",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Heart warming, an actually good movie from Disney once",
+      "score": 10,
+      "user": "Owen Gonzales (okg101@yahoo.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More Than Just A Sports Drama",
+      "score": 9,
+      "user": "Desertman84",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fast Times at McFarland High",
+      "score": 7,
+      "user": "Thomas Drufke",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Running Movie",
+      "score": 8,
+      "user": "gordon-walbroehl",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a Remember the Titans but a Solid Disney Sports Drama",
+      "score": 7,
+      "user": "RbDeraj",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Costner's best performance since Dancing With Wolves.",
+      "score": 9,
+      "user": "dieulepere",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "traditional underdog movie",
+      "score": 6,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wholesome Sports",
+      "score": 9,
+      "user": "don-damon",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You can't go wrong when you put Kevin Costner in a sports movie. Inspiring and inspirational. A definite must see!!",
+      "score": 8,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bit political, but a feel-good movie.",
+      "score": 5,
+      "user": "Jack Banister",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One of the better clich\u00e9d sports films out there.",
+      "score": 8,
+      "user": "Chase Bangerter",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Routine and clich\u00e9d, but not without it's moments.",
+      "score": 6,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie that underlines persistence, dedication, love and hard work",
+      "score": 10,
+      "user": "diazteamfdi",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "McFarland USA, All the Way!",
+      "score": 10,
+      "user": "MissCholula",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not enough meat on on the bone for two hours plus",
+      "score": 4,
+      "user": "Eddie_weinbauer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Good, Really Good Feel-Good Movie",
+      "score": 7,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Really Good, but not Great Sports Movie.",
+      "score": 8,
+      "user": "tjgoalie13",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Alex Ferguson/David Beckham reenactment",
+      "score": 7,
+      "user": "LouieInLove",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A good movie for Mexican Americans!",
+      "score": 10,
+      "user": "Jose Maldonado",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally, Mexicans Living In America Are Shown Some Respect!",
+      "score": 10,
+      "user": "Danny G",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Informative and heartwarming without being condescending or emotionally manipulative - a mainstream rarity",
+      "score": 9,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Story of Togetherness",
+      "score": 7,
+      "user": "Breh22",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Running after a dream: Seven \"Produce-Pickers\" Athletes and One Heart-Believing Coach",
+      "score": 9,
+      "user": "Yelitza-screenwriting-student",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A joyful, rewarding experience that will leave you smiling.",
+      "score": 9,
+      "user": "joeravioli",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "We've been here before but Disney knows the course well",
+      "score": 8,
+      "user": "Robert W. (Robert_duder@hotmail.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "VIEWS ON FILM review of McFarland, USA",
+      "score": 7,
+      "user": "viewsonfilm.com",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What an Inspirational movie!",
+      "score": 9,
+      "user": "HarrisonYochum",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not just your average sports film!",
+      "score": 8,
+      "user": "Ryan Prince",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Expect to leave inspired",
+      "score": 9,
+      "user": "goodnerdbadnerd",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I thought it was really good.",
+      "score": 9,
+      "user": "ofpsmith",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Movie, Good Message to Remember",
+      "score": 7,
+      "user": "taylor_king-890-815491",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"McFarland, USA\" builds on an already great year for Hispanics in cinema.",
+      "score": 8,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "McFarland, USA benefits more from the environment and cinematography of the run rather then the characters",
+      "score": 7,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "McFarland USA is awe-inspiring",
+      "score": 9,
+      "user": "www.ramascreen.com",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Movie!",
+      "score": 10,
+      "user": "Ashley Smith",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's About America",
+      "score": 8,
+      "user": "statuskuo",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Excellent adaptation to life and customs suffered by Mexican immigrants",
+      "score": 8,
+      "user": "jonahjaimes",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Fantastic Movie!!!",
+      "score": 10,
+      "user": "ginao1",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A  Movie to Send a Message",
+      "score": 7,
+      "user": "james1844",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Another Inspiring Disney Sports Film",
+      "score": 9,
+      "user": "Challenger2013",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I'll take Kevin Costner in a sports movie any day",
+      "score": 7,
+      "user": "estebangonzalez10",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I loved it!",
+      "score": 10,
+      "user": "Mikaela Barth",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Border of Dreams . . .",
+      "score": 9,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Only cross county people understand",
+      "score": 10,
+      "user": "Tiffany Vega",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Of the Land",
+      "score": 10,
+      "user": "Jazzie-too",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Disney has perfected the sports movie about underdog doing good.",
+      "score": 8,
+      "user": "bbickley13-921-58664",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Finally a movie with everything that has been lost in modern filmaking",
+      "score": 10,
+      "user": "Benjamin Hutchins",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Mc Formula",
+      "score": 7,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Boring Movie.",
+      "score": 1,
+      "user": "basilbenaz",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 129,
+  "votes_per_demo": {
+    "aged_45+": 3185,
+    "top_1000_voters": 206,
+    "males_under_18": 84,
+    "imdb_staff": 3,
+    "males_aged_18-29": 5493,
+    "imdb_users": 25970,
+    "males_aged_45+": 2509,
+    "aged_18-29": 7309,
+    "us_users": 4919,
+    "females_aged_30-44": 1412,
+    "males": 16852,
+    "females": 4141,
+    "females_aged_45+": 626,
+    "non-us_users": 11122,
+    "females_aged_18-29": 1727,
+    "females_under_18": 39,
+    "aged_30-44": 9299,
+    "aged_under_18": 129,
+    "males_aged_30-44": 7771
+  },
+  "genres": [
+    "biography",
+    "drama",
+    "sport"
+  ],
+  "opening_weekend_income_currency": "$",
   "rating_freq": {
     "1": 242,
     "2": 71,
     "3": 103,
     "4": 266,
     "5": 755,
-    "6": 2746,
-    "7": 7709,
-    "8": 8087,
-    "9": 3104,
+    "6": 2747,
+    "7": 7708,
+    "8": 8094,
+    "9": 3108,
     "10": 2876
   },
-  "avg_screens": 1046.4,
+  "release_month": "February",
   "budget": 17000000,
   "budget_currency": "$",
-  "release_day": 20,
-  "metascore": 60,
-  "genres": [
-    "biography",
-    "drama",
-    "sport"
-  ],
-  "release_month": "February",
-  "avg_rating_per_demo": {
-    "aged_45+": 7.5,
-    "aged_18-29": 7.5,
-    "aged_30-44": 7.3,
-    "females": 7.8,
-    "top_1000_voters": 6.4,
-    "non-us_users": 7.3,
-    "females_under_18": 8.4,
-    "males_aged_30-44": 7.2,
-    "us_users": 7.5,
-    "imdb_users": 7.4,
-    "imdb_staff": 7.3,
-    "males_under_18": 7.6,
-    "females_aged_18-29": 7.9,
-    "males_aged_45+": 7.4,
-    "females_aged_30-44": 7.7,
-    "males": 7.3,
-    "males_aged_18-29": 7.4,
-    "females_aged_45+": 7.9,
-    "aged_under_18": 7.7
-  },
-  "opening_weekend_income_currency": "$",
+  "total_screens": 15696,
   "year": 2015,
-  "name": "McFarland, USA",
-  "gross_income": 44469602,
-  "user_review_count": 86,
-  "duration": 129,
-  "max_screens": 2792,
-  "votes_per_demo": {
-    "aged_45+": 3186,
-    "aged_18-29": 7305,
-    "aged_30-44": 9298,
-    "females": 4139,
-    "top_1000_voters": 206,
-    "non-us_users": 11119,
-    "females_under_18": 39,
-    "males_aged_30-44": 7770,
-    "us_users": 4917,
-    "imdb_users": 25959,
-    "imdb_staff": 3,
-    "males_under_18": 83,
-    "females_aged_18-29": 1724,
-    "males_aged_45+": 2509,
-    "females_aged_30-44": 1412,
-    "males": 16849,
-    "males_aged_18-29": 5492,
-    "females_aged_45+": 627,
-    "aged_under_18": 128
-  },
-  "rating_count": 25959,
+  "rating": 7.4,
   "critic_review_count": 113,
-  "opening_weekend_income": 11020798
+  "opening_weekend_date": {
+    "month": 2,
+    "year": 2015,
+    "day": 20,
+    "__type__": "datetime.date"
+  },
+  "name": "McFarland, USA",
+  "user_review_count": 86,
+  "avg_screens": 1046.4
 }

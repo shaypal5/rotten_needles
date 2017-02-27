@@ -1,92 +1,2567 @@
 {
-  "num_weekends": 16,
-  "duration": 103,
+  "budget": 65000000,
+  "opening_weekend_income": 17405930,
+  "year": 2012,
+  "closing_date": {
+    "year": 2012,
+    "day": 8,
+    "__type__": "datetime.date",
+    "month": 6
+  },
+  "budget_currency": "$",
+  "avg_screens": 944.875,
   "rating_freq": {
     "1": 2511,
     "2": 2171,
-    "3": 3933,
+    "3": 3934,
     "4": 7797,
-    "5": 17694,
-    "6": 36536,
-    "7": 40453,
-    "8": 21476,
+    "5": 17697,
+    "6": 36542,
+    "7": 40459,
+    "8": 21478,
     "9": 8611,
-    "10": 11491
+    "10": 11492
   },
-  "release_year": 2012,
-  "budget_currency": "$",
-  "rating": 6.3,
-  "release_day": 17,
-  "budget": 65000000,
-  "votes_per_demo": {
-    "us_users": 20660,
-    "imdb_users": 152673,
-    "aged_30-44": 47808,
-    "males": 89787,
-    "males_aged_18-29": 43392,
-    "top_1000_voters": 469,
-    "females_aged_30-44": 11773,
-    "imdb_staff": 11,
-    "females": 41411,
-    "females_aged_45+": 2092,
-    "females_under_18": 186,
-    "aged_under_18": 359,
-    "aged_45+": 8891,
-    "females_aged_18-29": 24828,
-    "non-us_users": 77800,
-    "males_aged_45+": 6643,
-    "males_under_18": 167,
-    "aged_18-29": 68997,
-    "males_aged_30-44": 35375
-  },
-  "metascore": 31,
-  "avg_rating_per_demo": {
-    "us_users": 6.2,
-    "imdb_users": 6.3,
-    "aged_30-44": 6.1,
-    "males": 6.2,
-    "males_aged_18-29": 6.4,
-    "top_1000_voters": 5.4,
-    "females_aged_30-44": 6.5,
-    "imdb_staff": 5.6,
-    "females": 6.7,
-    "females_aged_45+": 6.6,
-    "females_under_18": 7.6,
-    "aged_under_18": 7.0,
-    "aged_45+": 6.0,
-    "females_aged_18-29": 6.8,
-    "non-us_users": 6.3,
-    "males_aged_45+": 6.0,
-    "males_under_18": 6.4,
-    "aged_18-29": 6.5,
-    "males_aged_30-44": 6.0
-  },
-  "rating_count": 152673,
-  "critic_review_count": 240,
-  "opening_weekend_income_currency": "$",
-  "name": "This Means War",
-  "user_review_count": 240,
-  "avg_screens": 944.875,
-  "release_month": "February",
-  "opening_weekend_date": {
-    "day": 17,
-    "month": 2,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
+  "screens_by_weekend": [
+    3189,
+    3189,
+    2342,
+    1949,
+    1660,
+    1188,
+    321,
+    284,
+    293,
+    232,
+    171,
+    132,
+    90,
+    44,
+    25,
+    9
+  ],
+  "rating_count": 152692,
+  "total_screens": 15118,
   "max_screens": 3189,
+  "duration": 103,
   "gross_income": 54758461,
+  "metascore": 31,
+  "opening_weekend_income_currency": "$",
+  "votes_per_demo": {
+    "top_1000_voters": 469,
+    "imdb_users": 152692,
+    "us_users": 20662,
+    "aged_18-29": 69001,
+    "non-us_users": 77811,
+    "aged_45+": 8897,
+    "aged_30-44": 47813,
+    "males_aged_30-44": 35378,
+    "males_aged_18-29": 43395,
+    "males_aged_45+": 6647,
+    "aged_under_18": 358,
+    "imdb_staff": 11,
+    "males_under_18": 167,
+    "females_aged_30-44": 11775,
+    "females": 41416,
+    "females_under_18": 185,
+    "females_aged_45+": 2094,
+    "males": 89797,
+    "females_aged_18-29": 24829
+  },
+  "user_review_count": 240,
+  "rating": 6.3,
+  "release_year": 2012,
+  "avg_rating_per_demo": {
+    "top_1000_voters": 5.4,
+    "imdb_users": 6.3,
+    "us_users": 6.2,
+    "aged_18-29": 6.5,
+    "non-us_users": 6.3,
+    "aged_45+": 6.0,
+    "aged_30-44": 6.1,
+    "males_aged_30-44": 6.0,
+    "males_aged_18-29": 6.4,
+    "males_aged_45+": 6.0,
+    "aged_under_18": 7.0,
+    "imdb_staff": 5.6,
+    "males_under_18": 6.4,
+    "females_aged_30-44": 6.5,
+    "females": 6.7,
+    "females_under_18": 7.6,
+    "females_aged_45+": 6.6,
+    "males": 6.2,
+    "females_aged_18-29": 6.8
+  },
+  "opening_weekend_date": {
+    "year": 2012,
+    "day": 17,
+    "__type__": "datetime.date",
+    "month": 2
+  },
+  "imdb_user_reviews": [
+    {
+      "user": "Bear Mac Mathun",
+      "contents": "juvenile and lazy",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "markthetranny",
+      "contents": "Where did it go wrong?",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "wolfsbebop",
+      "contents": "In ALL that is holy....HOW DID THIS GET A 6.5?",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "chrismsawin",
+      "contents": "Just a poor excuse of a comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "SteveMierzejewski",
+      "contents": "I surrender",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "Shawn Ankersen",
+      "contents": "Great movie--Why are critics bashing? An actually funny comedy.",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Jon Poulter",
+      "contents": "Quick and to the pointless..",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "Argemaluco",
+      "contents": "A really bad film",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "bbwubrant",
+      "contents": "Eh to no good.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "Antonia Matthews",
+      "contents": "Funny and Entertaining!",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "jacko1134",
+      "contents": "Meh",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "AshleyDenise",
+      "contents": "Abysmal OR one gal's confused ladybrain is another man's pitiful excuse for a rom-com",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 2
+    },
+    {
+      "user": "david-sarkies",
+      "contents": "Typical Rubbish I would expect from Hollywood",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "ssinberg-295-317328",
+      "contents": "Why This Movie Is Vile",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "Yanzig",
+      "contents": "Why, Tom? WHY?!",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 1
+    },
+    {
+      "user": "Beauq81",
+      "contents": "God, it stank!",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "shaidarharan",
+      "contents": "Funny fun time. Entertaining valentines release.",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Don Druid",
+      "contents": "An absolute drag of a \"date\" movie - avoid at all costs",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "Aman Zaidi",
+      "contents": "Disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "Jam_Man_UK",
+      "contents": "Absolutely awful",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "marc-aurel",
+      "contents": "Boring - boring - boring!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 2
+    },
+    {
+      "user": "ron-fernandez-pittsburgh",
+      "contents": "Stupid",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 1
+    },
+    {
+      "user": "francishooks",
+      "contents": "This is a film that consists of nothing at all but noise and shiny things.",
+      "review_date": {
+        "year": 2012,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "thesar-2",
+      "contents": "This Means Bore",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 3
+    },
+    {
+      "user": "xgingerx-169-876151",
+      "contents": "A Narrative Disaster.",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 4
+    },
+    {
+      "user": "kewlcow334-530-362355",
+      "contents": "Terrible",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 1
+    },
+    {
+      "user": " Aidiera",
+      "contents": "Meh.",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "caseymoviemania",
+      "contents": "Casey's Movie Mania: THIS MEANS WAR (2012) Review",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 2
+    },
+    {
+      "user": "mimirado",
+      "contents": "Reese, please don't do this again.",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 1
+    },
+    {
+      "user": "jsorenson777",
+      "contents": "Complete waste of time",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "nickmesafilms (nickmesafilms@yahoo.com)",
+      "contents": "This Means War (2012) - Kill Me Now!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 1
+    },
+    {
+      "user": "mjaaron-581-315527",
+      "contents": "immensely unfunny rubbish",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 2
+    },
+    {
+      "user": "fis-skater",
+      "contents": "Not a great movie. Very clich\u00e9. For people age 12-14.",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "ironhorse_iv",
+      "contents": "This means war, honestly means awful.",
+      "review_date": {
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "julian-mumford",
+      "contents": "Almost incompetent comedy/romance caper",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "FlashCallahan",
+      "contents": "Soul destroying.",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Sherazade",
+      "contents": "Cringeworthy!!!!!!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 3
+    },
+    {
+      "user": "ardalan286",
+      "contents": "waste of time",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": " (oliver94a@hotmail.com)",
+      "contents": "Commercial movie",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "Ketan Gupta",
+      "contents": "A very bad film in all sense",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "lvnv96",
+      "contents": "Lots of starting action, Then the two trying to get one get in the way,",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 3
+    },
+    {
+      "user": "Be-Rox",
+      "contents": "This means Sh*t !",
+      "review_date": {
+        "year": 2013,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "freemantle_uk",
+      "contents": "An awful rom-com with sub-par action scenes",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 2
+    },
+    {
+      "user": "tlonuqbar",
+      "contents": "bad message at the end",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "stevenball2",
+      "contents": "Reese Witherspoon breaks the rules",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 1
+    },
+    {
+      "user": "rjennica",
+      "contents": "kind'a disappointing",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "rcolgan",
+      "contents": "An awful idea made in to an awful movie",
+      "review_date": {
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 3
+    },
+    {
+      "user": "cedric spontaneous",
+      "contents": "Terrible Messege",
+      "review_date": {
+        "year": 2013,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 3
+    },
+    {
+      "user": "feudalserfer",
+      "contents": "Thank God I didn't pay at the cinema to see this movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Jason Kleeberg",
+      "contents": "This Means Bore",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "jerome-e",
+      "contents": "Basically unwatchable - more exciting to watch paint dry",
+      "review_date": {
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 1
+    },
+    {
+      "user": "Bene Cumb",
+      "contents": "Two Bond-clowns and a desperate blondie...",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 5
+    },
+    {
+      "user": "Tejas Nair",
+      "contents": "Stupid Movie Which Deviates Totally From It's Genre(s)!",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 3
+    },
+    {
+      "user": "Adam Peters",
+      "contents": "Worthless, valueless, hopeless",
+      "review_date": {
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 1
+    },
+    {
+      "user": "Johan Dondokambey",
+      "contents": "Fortunately it's just a movie",
+      "review_date": {
+        "year": 2014,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 4
+    },
+    {
+      "user": "Prismark10",
+      "contents": "This means garbage",
+      "review_date": {
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 2
+    },
+    {
+      "user": "Dextrousleftie",
+      "contents": "So Bad I Want To Declare War on McG!",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "Flick Chick",
+      "contents": "Great fun, lots of laughs and gorgeous men....",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "mrnunleygo",
+      "contents": "Silly premise still results in a smart, funny romantic comedy",
+      "review_date": {
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 7
+    },
+    {
+      "user": "v-ley",
+      "contents": "OK not great",
+      "review_date": {
+        "year": 2016,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Rachel Marta",
+      "contents": "Potential for a fun story not met",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 5
+    },
+    {
+      "user": "unitedcba",
+      "contents": "A total mix of genres..",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Matthew Luke Brady",
+      "contents": "Terribly Clich\u00e9",
+      "review_date": {
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "Michael Ballard (mballardc32)",
+      "contents": "Morally and Ethically Unsound",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 4
+    },
+    {
+      "user": "juneebuggy",
+      "contents": "Completely forgettable and disappointing",
+      "review_date": {
+        "year": 2014,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "Jasper Hengeveld",
+      "contents": "This movie gives the wrong idea",
+      "review_date": {
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 4
+    },
+    {
+      "user": "antonjsw1",
+      "contents": "Some funny scenes but nothing much else",
+      "review_date": {
+        "year": 2013,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 4
+    },
+    {
+      "user": "qaziyasir25",
+      "contents": "End marred the whole",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 5
+    },
+    {
+      "user": "Mohsen Masoudian",
+      "contents": "This means SH*T",
+      "review_date": {
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 1
+    },
+    {
+      "user": "Paul Magne Haakonsen",
+      "contents": "Romantic spy comedy, but you have to look hard to find the comedy...",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "angela-e-gallant",
+      "contents": "a great date night for fun!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Jackson Booth-Millard",
+      "contents": "This Means War",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 4
+    },
+    {
+      "user": "sango_chang",
+      "contents": "No certain expectation",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "MrUnimpressed",
+      "contents": "Hardy anyone will be pine'ing over this flop",
+      "review_date": {
+        "year": 2016,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "Python Hyena",
+      "contents": "This Means War on Witherspoon!",
+      "review_date": {
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "Troy Putland",
+      "contents": "This Means War",
+      "review_date": {
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Terryfan",
+      "contents": "But of course you know This Mean War",
+      "review_date": {
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": " (ammabee@aol.com)",
+      "contents": "Well done, well casted, a good film.",
+      "review_date": {
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "kylepaterson1",
+      "contents": "cynical accounting book.",
+      "review_date": {
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 3
+    },
+    {
+      "user": "castala",
+      "contents": "Not a total mess, but",
+      "review_date": {
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 4
+    },
+    {
+      "user": "tieman64",
+      "contents": "Needs more Shatner",
+      "review_date": {
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 4
+    },
+    {
+      "user": "LizaBB",
+      "contents": "This Means Warped",
+      "review_date": {
+        "year": 2013,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 1
+    },
+    {
+      "user": "YaroLord",
+      "contents": "I couldn't watch it for more than 20 minutes",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "vintkd",
+      "contents": "No life, no real feelings, no real people!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "SnakesOnAnAfricanPlain",
+      "contents": "This Means War (2012)",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": " (bob-rutzel-1)",
+      "contents": "Somewhat Okay",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 4
+    },
+    {
+      "user": "capone666",
+      "contents": "The Vidiot Reviews...",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "brefane",
+      "contents": "Doris Day Meets Spy  vs Spy",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 5
+    },
+    {
+      "user": "reneemsm",
+      "contents": "predictable but upbeat with some good laughs",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "reysia",
+      "contents": "It could have been better but end up just ordinary.",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Pantelis Andreou",
+      "contents": "Not good...not bad too at all.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "songbirdn",
+      "contents": "It's Just Another Rom-Com",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 5
+    },
+    {
+      "user": "lisafordeay",
+      "contents": "Not a bad film",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 6
+    },
+    {
+      "user": "Asad Ali",
+      "contents": "sometimes its good to avoid a hardcore action",
+      "review_date": {
+        "year": 2013,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "jjnxn-1",
+      "contents": "No masterpiece but a passable comedy",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Helen",
+      "contents": "Predictable, but surprisingly entertaining",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "wireless_emotions",
+      "contents": "Escapist wish fullfilment - just what I wanted!",
+      "review_date": {
+        "year": 2013,
+        "day": 12,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "griffolyon12",
+      "contents": "It's ridiculous, but if you accept that, you may have some fun",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "sarakitty05",
+      "contents": "Don't see what the complaints are about",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "collisanthony",
+      "contents": "Smart & Fun Entertainment",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "Omk-r Eichh",
+      "contents": "Good but not that good..!!!",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "JohnRayPeterson",
+      "contents": "Made for fun, not for critics",
+      "review_date": {
+        "year": 2012,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 6
+    },
+    {
+      "user": "Adam_West_as_Batdan",
+      "contents": "Romantic comedy with a spy-twist",
+      "review_date": {
+        "year": 2014,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "taybe130",
+      "contents": "Implausible but fun",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Raphael Weber",
+      "contents": "Sursprisingly good after what I read.",
+      "review_date": {
+        "year": 2012,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "High Contrast",
+      "contents": "the beginning promised a lot as an action/comedy movie, too bad for the ending",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Stephan Quinland",
+      "contents": "Surprisingly Good  Fun",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Chen Ann",
+      "contents": "A fun time",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Saad Khan",
+      "contents": "A complete throttle ride with no dull moment and full on F.U.N.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "hellokitty_9",
+      "contents": "Enjoyed this movie",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Csleazy",
+      "contents": "A good laugh",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "june_ai",
+      "contents": "A movie to enjoy with your buddies.",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "karendht-246-231193",
+      "contents": "I thought it was great!",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "contents": "I never imagined that a romantic spy comedy could be so bland.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "jon.h.ochiai (jochiai@socal.rr.com)",
+      "contents": "Bromance Saves \"This Means War\"",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "dapplegrey13",
+      "contents": "Adorable comedy-action date movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 30,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 8
+    },
+    {
+      "user": "adonis98-743-186503",
+      "contents": "McG made a great movie wow",
+      "review_date": {
+        "year": 2016,
+        "day": 31,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "Saurabh Mishra",
+      "contents": "tickles in your bones..",
+      "review_date": {
+        "year": 2016,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "Rakibul Islam",
+      "contents": "AN American MOVIE",
+      "review_date": {
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 10
+    },
+    {
+      "user": "mattiasflgrtll6",
+      "contents": "Funny, I guess, but wow, what a flawed movie",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 7
+    },
+    {
+      "user": "aimee-mettrick",
+      "contents": "Great",
+      "review_date": {
+        "year": 2013,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 7
+    },
+    {
+      "user": "tanajasa",
+      "contents": "Why the bashing?",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "ashley anderson (aprilshere@gmail.com)",
+      "contents": "cute",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "MLDinTN",
+      "contents": "Reese not at her best",
+      "review_date": {
+        "year": 2012,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 11
+      },
+      "score": 5
+    },
+    {
+      "user": "richy1024",
+      "contents": "This is when threesomes stray away from fantasy!",
+      "review_date": {
+        "year": 2012,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "nick0079",
+      "contents": "This Means War: Clich\u00e9 but still manages to pull it off.",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "big_ryan15",
+      "contents": "Can you tell it was directed by McG?",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "Davis P",
+      "contents": "Good cast, but lackluster film",
+      "review_date": {
+        "year": 2016,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "Garvit Nangia",
+      "contents": "Action comedy spot on!!!",
+      "review_date": {
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "jamesart-439-537740",
+      "contents": "A hell of a ot of fiun.",
+      "review_date": {
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "bowmanblue",
+      "contents": "Dumb, silly and strangely enjoyable",
+      "review_date": {
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Sarah",
+      "contents": "This movie was a great surprise!",
+      "review_date": {
+        "year": 2014,
+        "day": 6,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "g-bodyl",
+      "contents": "Give Me A Break, Critics!",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 8
+    },
+    {
+      "user": "Esraa yuseff",
+      "contents": "Entertaining",
+      "review_date": {
+        "year": 2013,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "duffy047",
+      "contents": "A Fairly Entertaining Movie",
+      "review_date": {
+        "year": 2013,
+        "day": 5,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 6
+    },
+    {
+      "user": "adam evans",
+      "contents": "Decent i suppose",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "franciscoraposo72",
+      "contents": "Surprisingly Great",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Andrew  Waller",
+      "contents": "If you go in expecting a chick flick you will be pleasantly surprised",
+      "review_date": {
+        "year": 2012,
+        "day": 25,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "darshancruz",
+      "contents": "THIS MEANS WAR: Don't let the title fool you .. here's surprisingly a good rom-com",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "sensorshot",
+      "contents": "Fragments of a Good MOvie",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Emma Dinkins (emmadinkins@chixchatonfilm.com)",
+      "contents": "Chix Chat on Film review: Spy vs Spy for love",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "Steve Dell",
+      "contents": "Better than reviews",
+      "review_date": {
+        "year": 2013,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 9
+    },
+    {
+      "user": "Brenda Marx (johnsbkay@aol.com)",
+      "contents": "Cute Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "jaxbubba",
+      "contents": "A very, very, very cute little film",
+      "review_date": {
+        "year": 2012,
+        "day": 4,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "3xHCCH",
+      "contents": "Very Entertaining Action-Comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "phd_travel",
+      "contents": "Light hearted and enjoyable",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Katie Conkell",
+      "contents": "groundbreaking? No... enjoyable and fun? Yes!",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "med77_99",
+      "contents": "Fun and entertaining",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Sally Warner",
+      "contents": "Funny and entertaining",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "garethvk",
+      "contents": "A Quirky and Funny Date Movies For Men and Women",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "uclag",
+      "contents": "A Fun Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Richard Reilly (FFman@comcast.net)",
+      "contents": "Bad Writing, Good Acting.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "michafreeman",
+      "contents": "Good flick",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "jenblues-231-333629",
+      "contents": "Brom Com",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "lentle",
+      "contents": "Little action, little humour, predictable, if you've seen the trailer you've seen it all.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "kungfu_dragon",
+      "contents": "Tuck and FDR are close friends and CIA agents. When they fall for the same girl, they agree to compete for her affections and let her choose the winner.",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 8
+    },
+    {
+      "user": "cardaristocrat",
+      "contents": "Unexpectedly well-written and gorgeous comedy",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Jack Munson",
+      "contents": "This Means War had it's moments, but overall it was a very weak movie.",
+      "review_date": {
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 5
+    },
+    {
+      "user": "phoenix 2",
+      "contents": "Good enough",
+      "review_date": {
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "dglink",
+      "contents": "The CIA Needs Better Management",
+      "review_date": {
+        "year": 2014,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 12
+      },
+      "score": 6
+    },
+    {
+      "user": "SnoopyStyle",
+      "contents": "Action actors try comedy",
+      "review_date": {
+        "year": 2013,
+        "day": 16,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "Liam Duncan",
+      "contents": "It was pretty good, until the ending....",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "HelenMary",
+      "contents": "A daft; unbelievable premise in which Tom Hardy steals the show",
+      "review_date": {
+        "year": 2013,
+        "day": 7,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 6
+    },
+    {
+      "user": "Ang L",
+      "contents": "Entertaining for what it is...",
+      "review_date": {
+        "year": 2012,
+        "day": 29,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 6
+    },
+    {
+      "user": "Jeeda Rabah",
+      "contents": "Awesome",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 7
+    },
+    {
+      "user": "Josh Redcay",
+      "contents": "Kept me watching",
+      "review_date": {
+        "year": 2012,
+        "day": 17,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 6
+    },
+    {
+      "user": "gradyharp",
+      "contents": "All's fair in Love and War",
+      "review_date": {
+        "year": 2012,
+        "day": 28,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "amahlanand",
+      "contents": "Laughs Aplenty",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Iver Neset",
+      "contents": "Twilight: James Bond Edition",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 7
+    },
+    {
+      "user": "Erin Cacace",
+      "contents": "Very good film",
+      "review_date": {
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 9
+    },
+    {
+      "user": "Scarecrow-88",
+      "contents": "This Means War",
+      "review_date": {
+        "year": 2013,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 6
+    },
+    {
+      "user": "kosmasp",
+      "contents": "No sense",
+      "review_date": {
+        "year": 2012,
+        "day": 11,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 7
+    },
+    {
+      "user": "Evangelia Synodinou",
+      "contents": "Lovely, really lovely",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "Alex Vojacek",
+      "contents": "Incredible funny and with a LOT of heart!",
+      "review_date": {
+        "year": 2012,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 8
+    },
+    {
+      "user": "KineticSeoul",
+      "contents": "It's a decent movie that couples don't really have to sacrifice anything to watch",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 6
+    },
+    {
+      "user": "yarden-malka14",
+      "contents": "Review of \"This Means War\"",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "martinrobertson300482",
+      "contents": "Shouldn't be funny but is!",
+      "review_date": {
+        "year": 2012,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "Harry Chill",
+      "contents": "Two boys and a girl",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "alexandralanc",
+      "contents": "Full Of Laughs, But Not Amazing",
+      "review_date": {
+        "year": 2012,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "morrison-dylan-fan",
+      "contents": "\"War,huh,yeah What is it good for\"",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "cultfilmfreaksdotcom",
+      "contents": "Not Bad",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": " (macabre-6)",
+      "contents": "Surprisingly entertaining, McG should count his lucky stars because the great cast saves and carries the movie.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 7
+    },
+    {
+      "user": "Quietb-1",
+      "contents": "War and Piece",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 4
+    },
+    {
+      "user": "ambermarenjohnson",
+      "contents": "Spies, guns, cars and Tom Hardy",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Linzy L.",
+      "contents": "Personally don't think it's worth to watch.",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "the_white_heart91",
+      "contents": "loved it",
+      "review_date": {
+        "year": 2013,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 10
+    },
+    {
+      "user": "Maniac-9",
+      "contents": "If you have to watch a RomCom this is the movie a guy will like",
+      "review_date": {
+        "year": 2013,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 9
+    },
+    {
+      "user": "Alec ? (alec13@cox.net)",
+      "contents": "Amazingly Humorous",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "dsuareztouzon",
+      "contents": "Two top CIA spies  find their enduring friendship put to the ultimate test when they engage in an all-out war to win the affections of a beautiful woman .",
+      "review_date": {
+        "year": 2012,
+        "day": 1,
+        "__type__": "datetime.date",
+        "month": 10
+      },
+      "score": 7
+    },
+    {
+      "user": "Cristalrodriguez1996",
+      "contents": "This Means War",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 8
+      },
+      "score": 10
+    },
+    {
+      "user": "estherallberry",
+      "contents": "Loved it",
+      "review_date": {
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date",
+        "month": 9
+      },
+      "score": 10
+    },
+    {
+      "user": "alstewart9999",
+      "contents": "Funny!",
+      "review_date": {
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 9
+    },
+    {
+      "user": "wc1996-428-366101",
+      "contents": "Reese is My Girl",
+      "review_date": {
+        "year": 2013,
+        "day": 26,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "Hellmant",
+      "contents": "Would have been better if they were fighting over Natalie Portman!",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 8
+    },
+    {
+      "user": "Christian_Dimartino",
+      "contents": "It's a guilty pleasure.",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Felicia So",
+      "contents": "A hilarious and entertaining movie!",
+      "review_date": {
+        "year": 2012,
+        "day": 21,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "LVmomt",
+      "contents": "Enjoyable ride",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "wisotzse",
+      "contents": "Loved it and laughed the whole time!",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "bassrourke",
+      "contents": "This means stupidity, but it's not too bad",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 5
+    },
+    {
+      "user": "Alfred D",
+      "contents": "Surprisingly Hilarious",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 9
+    },
+    {
+      "user": "Enzo Vanooteghem",
+      "contents": "I loved this movie",
+      "review_date": {
+        "year": 2013,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "zardoz-13",
+      "contents": "Fast, Furious, Funny, but Contrived and Uneven",
+      "review_date": {
+        "year": 2012,
+        "day": 3,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 7
+    },
+    {
+      "user": "Balu Jagadish",
+      "contents": "It's Worth a watch......",
+      "review_date": {
+        "year": 2012,
+        "day": 8,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "cb400",
+      "contents": "Entitled \"Black & White\" in Japan...",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 4
+      },
+      "score": 9
+    },
+    {
+      "user": "estebangonzalez10",
+      "contents": "My new guilty pleasure",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 8
+    },
+    {
+      "user": "iei-mielu",
+      "contents": "Very entertaining, funny and fast paced",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 5
+      },
+      "score": 10
+    },
+    {
+      "user": "Scytheb",
+      "contents": "Pretty good",
+      "review_date": {
+        "year": 2012,
+        "day": 13,
+        "__type__": "datetime.date",
+        "month": 6
+      },
+      "score": 7
+    },
+    {
+      "user": "pagan1-2",
+      "contents": "Typical chick flick a bit of (bad!) action to entertain boyfriends",
+      "review_date": {
+        "year": 2012,
+        "day": 20,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 6
+    },
+    {
+      "user": "Neil Welch",
+      "contents": "Clumsy romcom, but still some chuckles to be had",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 7
+    },
+    {
+      "user": "Boba_Fett1138",
+      "contents": "Entertaining for some but still annoying and bad to most.",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 5
+    },
+    {
+      "user": "shy-violet",
+      "contents": "Get ready to laugh",
+      "review_date": {
+        "year": 2012,
+        "day": 27,
+        "__type__": "datetime.date",
+        "month": 1
+      },
+      "score": 10
+    },
+    {
+      "user": "paul-2369",
+      "contents": "Most fun I've had in ages",
+      "review_date": {
+        "year": 2012,
+        "day": 22,
+        "__type__": "datetime.date",
+        "month": 7
+      },
+      "score": 10
+    },
+    {
+      "user": "Ambersteele10",
+      "contents": "Great movie",
+      "review_date": {
+        "year": 2012,
+        "day": 24,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "p090924",
+      "contents": "The Critics have completely lost it !!",
+      "review_date": {
+        "year": 2012,
+        "day": 10,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    },
+    {
+      "user": "jbjbmk",
+      "contents": "Hilarious Movie",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "bvmadduluri",
+      "contents": "It was just super awesome!!",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "dianaochart",
+      "contents": "Excellent, on went my expectations",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "David Ferguson (fergusontx@gmail.com)",
+      "contents": "The only sparkle is in the eyes",
+      "review_date": {
+        "year": 2012,
+        "day": 19,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 3
+    },
+    {
+      "user": "smkmamd",
+      "contents": "Great movie! Lots of fun",
+      "review_date": {
+        "year": 2012,
+        "day": 23,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "punksharkchick",
+      "contents": "Great Movie! A must see and a must own!",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "wwetnafan_619",
+      "contents": "This Means War - Comedy at its best",
+      "review_date": {
+        "year": 2012,
+        "day": 18,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 10
+    },
+    {
+      "user": "MBertovich1227",
+      "contents": "Solid date movie... otherwise, meh",
+      "review_date": {
+        "year": 2012,
+        "day": 9,
+        "__type__": "datetime.date",
+        "month": 2
+      },
+      "score": 6
+    },
+    {
+      "user": "camjdavis",
+      "contents": "Great movie",
+      "review_date": {
+        "year": 2012,
+        "day": 14,
+        "__type__": "datetime.date",
+        "month": 3
+      },
+      "score": 10
+    }
+  ],
+  "release_month": "February",
   "genres": [
     "action",
     "comedy",
     "romance"
   ],
-  "year": 2012,
-  "closing_date": {
-    "day": 8,
-    "month": 6,
-    "year": 2012,
-    "__type__": "datetime.date"
-  },
-  "opening_weekend_income": 17405930
+  "opening_weekend_screens": 3189,
+  "name": "This Means War",
+  "num_weekends": 16,
+  "release_day": 17,
+  "critic_review_count": 240
 }

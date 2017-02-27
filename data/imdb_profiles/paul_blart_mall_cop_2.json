@@ -1,9 +1,24 @@
 {
-  "opening_weekend_date": {
-    "month": 4,
-    "year": 2015,
-    "day": 17,
-    "__type__": "datetime.date"
+  "release_day": 17,
+  "avg_rating_per_demo": {
+    "aged_45+": 4.3,
+    "top_1000_voters": 3.8,
+    "males_under_18": 4.8,
+    "males_aged_18-29": 4.4,
+    "imdb_users": 4.4,
+    "males_aged_45+": 4.3,
+    "aged_18-29": 4.4,
+    "us_users": 4.1,
+    "females_aged_30-44": 4.5,
+    "males": 4.3,
+    "females": 4.7,
+    "females_aged_45+": 4.9,
+    "non-us_users": 4.4,
+    "females_aged_18-29": 4.8,
+    "females_under_18": 4.5,
+    "aged_30-44": 4.3,
+    "aged_under_18": 4.8,
+    "males_aged_30-44": 4.3
   },
   "closing_date": {
     "month": 7,
@@ -11,80 +26,1410 @@
     "day": 31,
     "__type__": "datetime.date"
   },
-  "rating": 4.4,
-  "num_weekends": 8,
-  "release_year": 2015,
-  "rating_freq": {
-    "1": 3343,
-    "2": 1951,
-    "3": 2543,
-    "4": 3832,
-    "5": 4872,
-    "6": 3741,
-    "7": 2018,
-    "8": 919,
-    "9": 400,
-    "10": 1652
-  },
-  "avg_screens": 2021.625,
-  "budget": 30000000,
-  "budget_currency": "$",
-  "release_day": 17,
   "metascore": 13,
+  "num_weekends": 8,
+  "rating_count": 25289,
+  "gross_income": 71038190,
+  "max_screens": 3633,
+  "opening_weekend_screens": 3633,
+  "screens_by_weekend": [
+    3633,
+    3548,
+    3201,
+    2632,
+    1878,
+    823,
+    368,
+    90
+  ],
+  "opening_weekend_income": 23762435,
+  "release_year": 2015,
+  "imdb_user_reviews": [
+    {
+      "contents": "The Cinematic Equivalent of Getting Shot in the Face",
+      "score": 1,
+      "user": "RealHumanBean",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Are you kidding me!",
+      "score": 1,
+      "user": "aeab",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Come on, it wasn't that bad...",
+      "score": 6,
+      "user": "Tyypo",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Way worse than the original",
+      "score": 2,
+      "user": "Luna-tic",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Blart Mall Cop 2 was an unbearable watch",
+      "score": 1,
+      "user": "Mikey Lee Smith",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Somewhat OK.",
+      "score": 5,
+      "user": "codd-68778",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Good Clean American Film",
+      "score": 10,
+      "user": "sdquinn2-1",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Clean and Painfully Awkward",
+      "score": 10,
+      "user": "moovyDive",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Damnnn hated that girl / woman or whatever \"it\" was",
+      "score": 5,
+      "user": "ibm-61529",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gave new meaning to life",
+      "score": 10,
+      "user": "Mike litoris",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad movie... just... bad",
+      "score": 1,
+      "user": "ulphlarsen",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It wasn't even that bad common..",
+      "score": 8,
+      "user": "adonis98-743-186503",
+      "review_date": {
+        "month": 11,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "They Didn't Get it Right the Second Time",
+      "score": 3,
+      "user": "view_and_review",
+      "review_date": {
+        "month": 3,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than expected.",
+      "score": 7,
+      "user": "toronto_ghostbuster",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's bad sitcom style comedy, but it's not that bad!",
+      "score": 5,
+      "user": "Hellmant",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Hilarious!",
+      "score": 10,
+      "user": "peterwboy",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Harmless, enjoyable fun.",
+      "score": 7,
+      "user": "Matthew Hopkiins",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Don't listen to the bad reviews!",
+      "score": 9,
+      "user": "mhulucoz",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You liked the first one?",
+      "score": 3,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unfunny sequel to an original that wasn't much cop",
+      "score": 2,
+      "user": "davideo-2",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worse than water boarding.",
+      "score": 1,
+      "user": "tamadjoe",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is better than the rating - good clean fun!",
+      "score": 7,
+      "user": "medwa6347",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Saved My Life",
+      "score": 10,
+      "user": "Huntur Allan Ojala",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a comedy filled with silence....",
+      "score": 2,
+      "user": "MLDinTN",
+      "review_date": {
+        "month": 11,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Best Movie Kevin James Has Starred In Yet",
+      "score": 6,
+      "user": "handsomewarrior",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "One major disaster of a sequel",
+      "score": 1,
+      "user": "Screen_Blitz",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A really great and hilarious film!",
+      "score": 10,
+      "user": "jdogkg",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wasted money",
+      "score": 1,
+      "user": "The_Light_Triton (Black_triton14@hotmail.com)",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very sad, What could've been a great sequel now just a tragedy..",
+      "score": 2,
+      "user": "iconhulk",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not a single new joke or punchline.",
+      "score": 2,
+      "user": "tjomsi",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The silence was deafenting for this one...",
+      "score": 2,
+      "user": "RevRonster",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Embarrassing To Watch",
+      "score": 2,
+      "user": "Bob Rutzel (bob.rutzel@outlook.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "better than the original",
+      "score": 5,
+      "user": "WoodBangers Entertainment",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A fat guy humiliates himself a lot. That's it.",
+      "score": 2,
+      "user": "Rickting",
+      "review_date": {
+        "month": 1,
+        "year": 2016,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul blot",
+      "score": 10,
+      "user": "justinjager",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Meh",
+      "score": 5,
+      "user": "Amy Queen",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "RUINED the first movie!",
+      "score": 1,
+      "user": "aprockaroni",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Trailer is Better Than the Movie",
+      "score": 3,
+      "user": "dalaye",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Ruined plot and dumb story",
+      "score": 3,
+      "user": "MissLeopard83",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny and Great Sequel",
+      "score": 7,
+      "user": "Stefan Petrovic",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's no where near the first movie (like no sequel usually is),, the plot here is a bit loose but doesn't mean i didn't enjoy a bunch of funny scenes they had.",
+      "score": 5,
+      "user": "Aktham Tashtush",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "More silly than funny! 2/10",
+      "score": 2,
+      "user": "leonblackwood",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "IMDb doesn't have the capacity to leave a zero",
+      "score": 1,
+      "user": "mrshev",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just awful in every way, stay far away from this",
+      "score": 2,
+      "user": "stephendaxter",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow, A complete let down",
+      "score": 1,
+      "user": "pslvirutec",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The worst film I have seen in 40 years of life",
+      "score": 1,
+      "user": "ajbird",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Leaden piece of fluff",
+      "score": 3,
+      "user": "Roland E. Zwick (magneteach@aol.com)",
+      "review_date": {
+        "month": 2,
+        "year": 2016,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As the Comic Guy would say: Worst Movie Ever!",
+      "score": 1,
+      "user": "ferris_beuller",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What is this?",
+      "score": 1,
+      "user": "kevcoop7",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Plawl Blop Mail Coop 7 Review",
+      "score": 1,
+      "user": "framptonhollis",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Just an awful movie.",
+      "score": 2,
+      "user": "MovieGuyGrimmy",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Blart gets even more unlikeable",
+      "score": 2,
+      "user": "SnoopyStyle",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uncomfortable Humor",
+      "score": 2,
+      "user": "westsideschl",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You get exactly what you got from the first.",
+      "score": 5,
+      "user": "Troy Putland",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cinema is saved",
+      "score": 10,
+      "user": "johna-95388",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This wasn't as bad as I expected but it's not good and should not have been made. Kevin James is much better than this movie.",
+      "score": 4,
+      "user": "Tony Heck (cosmo_tiger@hotmail.com)",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The Vidiot Reviews...",
+      "score": 4,
+      "user": "capone666",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "embarrassing attempt at being funny",
+      "score": 1,
+      "user": "DutchIndies2008",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Blart: Mall Cop 2",
+      "score": 2,
+      "user": "Phil Hubbs",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So many fake reviews",
+      "score": 1,
+      "user": "Average Joe",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Here He Comes to Save the \u0096 Whoops! Crash! Ow! Sorry! \u0096 Day\u0085Again!",
+      "score": 8,
+      "user": "John Panagopoulos (japamo@hotmail.com)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Blart mall cop2",
+      "score": 7,
+      "user": "mannyricks",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Bart Mall Cop 2:Still Sucks",
+      "score": 5,
+      "user": "John Kristofer",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The U.S. City of Baltimore is burning as I write this . . .",
+      "score": 6,
+      "user": "Edgar Allan Pooh",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty Good",
+      "score": 7,
+      "user": "Nate Collins",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Better than most comedy sequels",
+      "score": 6,
+      "user": "alexandermoore-12738",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This is pretty good!",
+      "score": 7,
+      "user": "Bridgette Carroll",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I want Dredd 2 not this",
+      "score": 3,
+      "user": "Matthew Luke Brady",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Truly an excellent piece of art, one of the best",
+      "score": 10,
+      "user": "William Von bartelsby",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "writers should change their names and hide",
+      "score": 1,
+      "user": "david-conlan1",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Always bet on Blart......",
+      "score": 3,
+      "user": "FlashCallahan",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Blart:  Mall Cop 2 is another enjoyable Kevin James comedy of one of his clueless lovable characters",
+      "score": 6,
+      "user": "tavm",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Dear Happy Madison Productions, we're starting to hate you",
+      "score": 2,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Awful Movie",
+      "score": 1,
+      "user": "badri-669-565587",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not horrible, not very funny, still like, OK.",
+      "score": 5,
+      "user": "Finfrosk86",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A bottomless pit of terrible",
+      "score": 2,
+      "user": "TheDancingPanda-692-744536",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Still managed to fall short of my very low expectations...",
+      "score": 2,
+      "user": "Thomas West",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's really stupid in all the right ways",
+      "score": 5,
+      "user": "subxerogravity",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bad cop",
+      "score": 1,
+      "user": "Prismark10",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great Funny Movie",
+      "score": 9,
+      "user": "KATO-SUBZERO",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "great film But It was missing one thing-- SAMUEL L. JACKSON",
+      "score": 7,
+      "user": "mikevonbach",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This film was lazy and not funny.",
+      "score": 2,
+      "user": "Ian Johnson",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Paul Blart nearly killed me",
+      "score": 10,
+      "user": "delfire-1",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "So Silly!",
+      "score": 5,
+      "user": "nama chakravorty",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The \"should be easy to make\" sequel disappoints.",
+      "score": 4,
+      "user": "Jab102",
+      "review_date": {
+        "month": 7,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "DHKR: Paul Blart 2- \"Die Hard Syndrome\"",
+      "score": 4,
+      "user": "Clayton Holloway (Darkhorse_Knight)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "0/10",
+      "score": 1,
+      "user": "Chisty  Lemire",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 30,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Movie is so bad I'd I've it a negative rating if I could.",
+      "score": 1,
+      "user": "akulik-84629",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Adam Sandler Money Grab",
+      "score": 2,
+      "user": "Greg Toohey",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 16,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Gives sequels a bad name.",
+      "score": 2,
+      "user": "Quietb-1",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I really wish I could give 20/10",
+      "score": 10,
+      "user": "julps2",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "greatest film in the history of cinema",
+      "score": 10,
+      "user": "Ty Yarborough",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is so insecurity with itself, that we all suffer, because of its mistakes.",
+      "score": 4,
+      "user": "ironhorse_iv",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "this is one movie to miss in your life",
+      "score": 1,
+      "user": " (plumpjacks)",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 10,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Silly, Not Funny",
+      "score": 3,
+      "user": "tjgoalie13",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 6,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Bigger Doesn't Mean Better",
+      "score": 7,
+      "user": "zardoz-13",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Segway crashes and content eating do not make Paul Blart a funny character or movie!",
+      "score": 1,
+      "user": "RforFilm",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Comedy that's funny for all the right reasons",
+      "score": 10,
+      "user": "thephillips-05678",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "The cinematic equivalent of 9/11.",
+      "score": 1,
+      "user": "Captain Craptastic",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Absolutely horrible",
+      "score": 1,
+      "user": "rcwcfa63",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "\"Paul Blart: Mall Cop 2\" is two too many.",
+      "score": 1,
+      "user": "CleveMan66",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It had me laughing throughout - silly and fun!",
+      "score": 7,
+      "user": "nikiatsea-37134",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Luckily, Everything Is Digital, So They Didn't Waste Celluloid.",
+      "score": 1,
+      "user": "create",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "oH gOD",
+      "score": 1,
+      "user": "brainsmasher-58335",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "As Good As the First One",
+      "score": 6,
+      "user": "steve beard (stevendbeard@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pure Fun",
+      "score": 7,
+      "user": "Nicknielsen99",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Very dumb, but somewhat entertaining",
+      "score": 6,
+      "user": "Ryan Prince",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad",
+      "score": 7,
+      "user": "payten-dugger",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A really funny comedy for all ages to enjoy!",
+      "score": 8,
+      "user": "Samuel Gilbert",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 21,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "First time since Tootsie I've seen an audience give a clapping ovation.",
+      "score": 8,
+      "user": "tklingbeil",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a nice lean back and be entertained movie..",
+      "score": 9,
+      "user": "Thomas Blume",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 14,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A better entertaining sequel then Hot Tub Time Machine 2",
+      "score": 8,
+      "user": "DarkVulcan29 (DarkVulcan29@aol.com)",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Could have taken A Segway right to TV movie",
+      "score": 4,
+      "user": "rgkarim",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Worse than offensive, but unlikable",
+      "score": 3,
+      "user": "Steve Pulaski",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A misunderstood avant-garde masterpiece",
+      "score": 10,
+      "user": "altdylan",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Misunderstood Masterpiece",
+      "score": 8,
+      "user": "rroosegoose",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wow the Americans love  this movie",
+      "score": 9,
+      "user": "summerinertia",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Really great movie for kids",
+      "score": 10,
+      "user": "diego-902-552685",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 18,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not the movie critics say it is.  Better than Jack and Jill at least!",
+      "score": 10,
+      "user": "robhartjr",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Overly Harsh",
+      "score": 3,
+      "user": "Alanjackd",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Cast Correction",
+      "score": 1,
+      "user": "bari",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 94,
+  "votes_per_demo": {
+    "aged_45+": 2127,
+    "top_1000_voters": 230,
+    "males_under_18": 223,
+    "males_aged_18-29": 7085,
+    "imdb_users": 25289,
+    "males_aged_45+": 1820,
+    "aged_18-29": 8479,
+    "us_users": 4361,
+    "females_aged_30-44": 881,
+    "males": 17192,
+    "females": 2752,
+    "females_aged_45+": 277,
+    "non-us_users": 10011,
+    "females_aged_18-29": 1305,
+    "females_under_18": 48,
+    "aged_30-44": 7765,
+    "aged_under_18": 275,
+    "males_aged_30-44": 6796
+  },
   "genres": [
     "action",
     "comedy",
     "crime"
   ],
-  "release_month": "April",
-  "avg_rating_per_demo": {
-    "aged_45+": 4.3,
-    "aged_18-29": 4.4,
-    "aged_30-44": 4.3,
-    "females": 4.7,
-    "top_1000_voters": 3.8,
-    "non-us_users": 4.4,
-    "females_under_18": 4.5,
-    "males_aged_30-44": 4.3,
-    "us_users": 4.1,
-    "imdb_users": 4.4,
-    "males_under_18": 4.8,
-    "females_aged_18-29": 4.8,
-    "males_aged_45+": 4.3,
-    "females_aged_30-44": 4.5,
-    "males": 4.3,
-    "males_aged_18-29": 4.4,
-    "females_aged_45+": 4.9,
-    "aged_under_18": 4.8
-  },
   "opening_weekend_income_currency": "$",
-  "year": 2015,
-  "name": "Paul Blart: Mall Cop 2",
-  "gross_income": 71038190,
-  "user_review_count": 127,
-  "duration": 94,
-  "max_screens": 3633,
-  "votes_per_demo": {
-    "aged_45+": 2127,
-    "aged_18-29": 8475,
-    "aged_30-44": 7762,
-    "females": 2752,
-    "top_1000_voters": 230,
-    "non-us_users": 10004,
-    "females_under_18": 48,
-    "males_aged_30-44": 6794,
-    "us_users": 4361,
-    "imdb_users": 25271,
-    "males_under_18": 223,
-    "females_aged_18-29": 1306,
-    "males_aged_45+": 1820,
-    "females_aged_30-44": 880,
-    "males": 17183,
-    "males_aged_18-29": 7080,
-    "females_aged_45+": 277,
-    "aged_under_18": 275
+  "rating_freq": {
+    "1": 3346,
+    "2": 1952,
+    "3": 2547,
+    "4": 3836,
+    "5": 4872,
+    "6": 3744,
+    "7": 2019,
+    "8": 919,
+    "9": 401,
+    "10": 1653
   },
-  "rating_count": 25271,
+  "release_month": "April",
+  "budget": 30000000,
+  "budget_currency": "$",
+  "total_screens": 16173,
+  "year": 2015,
+  "rating": 4.4,
   "critic_review_count": 77,
-  "opening_weekend_income": 23762435
+  "opening_weekend_date": {
+    "month": 4,
+    "year": 2015,
+    "day": 17,
+    "__type__": "datetime.date"
+  },
+  "name": "Paul Blart: Mall Cop 2",
+  "user_review_count": 127,
+  "avg_screens": 2021.625
 }

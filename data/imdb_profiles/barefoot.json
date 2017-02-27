@@ -1,90 +1,603 @@
 {
-  "metascore": 22,
-  "closing_date": {
-    "year": 2014,
-    "day": 21,
-    "month": 2,
-    "__type__": "datetime.date"
-  },
-  "release_month": null,
-  "release_year": null,
-  "gross_income": 11766,
-  "duration": 90,
   "release_day": null,
-  "max_screens": 18,
-  "opening_weekend_date": {
+  "avg_rating_per_demo": {
+    "aged_45+": 6.4,
+    "top_1000_voters": 5.2,
+    "males_under_18": 6.3,
+    "males_aged_18-29": 6.8,
+    "imdb_users": 6.6,
+    "males_aged_45+": 6.4,
+    "aged_18-29": 6.8,
+    "us_users": 6.4,
+    "females_aged_30-44": 6.4,
+    "males": 6.5,
+    "females": 6.6,
+    "females_aged_45+": 6.5,
+    "non-us_users": 6.5,
+    "females_aged_18-29": 6.8,
+    "females_under_18": 7.0,
+    "aged_30-44": 6.3,
+    "aged_under_18": 6.8,
+    "males_aged_30-44": 6.3
+  },
+  "closing_date": {
+    "month": 2,
     "year": 2014,
     "day": 21,
-    "month": 2,
     "__type__": "datetime.date"
   },
-  "rating": 6.6,
+  "metascore": 22,
   "num_weekends": 1,
+  "rating_count": 18322,
+  "gross_income": 11766,
+  "max_screens": 18,
+  "opening_weekend_screens": 18,
+  "screens_by_weekend": [
+    18
+  ],
+  "opening_weekend_income": 11766,
+  "release_year": null,
+  "imdb_user_reviews": [
+    {
+      "contents": "A heartwarming & feel good movie",
+      "score": 9,
+      "user": "soundaryaona",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sweet remake with a lovely Evan Rachel Wood",
+      "score": 8,
+      "user": "tanjareen-1",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A rom-com with a difference",
+      "score": 9,
+      "user": "garychapman72",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Tender moments with a fantastic story will touch your heart.",
+      "score": 9,
+      "user": "Jesse Boland",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Feeling the touch",
+      "score": 7,
+      "user": "kosmasp",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 9,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A heartwarming and feel good movie",
+      "score": 9,
+      "user": "audrulyte",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 15,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Implausible and charming",
+      "score": 7,
+      "user": "stills-6",
+      "review_date": {
+        "month": 6,
+        "year": 2015,
+        "day": 2,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A remake of a German Film, has very original concept but the first half is more successful than the second",
+      "score": 7,
+      "user": "Amy Adler",
+      "review_date": {
+        "month": 8,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Missing pieces",
+      "score": 6,
+      "user": "katemiller-18083",
+      "review_date": {
+        "month": 8,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Harebrained nonsense",
+      "score": 2,
+      "user": "zif ofoz",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A simple but sweet movie not to be missed",
+      "score": 8,
+      "user": "Pooja DM",
+      "review_date": {
+        "month": 12,
+        "year": 2015,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Enjoyable, but flawed",
+      "score": 7,
+      "user": "seronjaa-797-313124",
+      "review_date": {
+        "month": 7,
+        "year": 2016,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great story, but needs to be told a bit better",
+      "score": 7,
+      "user": "bookme120",
+      "review_date": {
+        "month": 9,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A movie you'll love",
+      "score": 10,
+      "user": "shamanphenomenon",
+      "review_date": {
+        "month": 10,
+        "year": 2015,
+        "day": 28,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not Your Average Rom-Com",
+      "score": 5,
+      "user": "cuthbertjoel",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 8,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "a nice new Rom-Com to watch ... Not Hilarious but you'll still feel the story :)",
+      "score": 5,
+      "user": "Aktham Tashtush",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Sweet though Ridiculous",
+      "score": 7,
+      "user": "pc95",
+      "review_date": {
+        "month": 12,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wear Shoes",
+      "score": 3,
+      "user": "havp2",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 29,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Saved by Evan Rachel Wood",
+      "score": 7,
+      "user": "phd_travel",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 7,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It is a very good movie, This movie force me to create an account for IMDb",
+      "score": 9,
+      "user": "arfan-mirza",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 5,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "You could do a lot better than this one...",
+      "score": 3,
+      "user": "planktonrules",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 25,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Perfect Modern Day Fairytale",
+      "score": 10,
+      "user": "yossarian100",
+      "review_date": {
+        "month": 12,
+        "year": 2016,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Wonderful movie!",
+      "score": 9,
+      "user": "marshall-dan784",
+      "review_date": {
+        "month": 5,
+        "year": 2015,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "What a disappointment!!!",
+      "score": 1,
+      "user": "P B",
+      "review_date": {
+        "month": 4,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A beautiful movie",
+      "score": 7,
+      "user": "BkDc",
+      "review_date": {
+        "month": 3,
+        "year": 2015,
+        "day": 24,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Unordinary Love Story",
+      "score": 7,
+      "user": "Arjf0639617 T",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "sweet",
+      "score": 7,
+      "user": "Franco Donovan Marbun",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Routine stuff with some overly forced twists",
+      "score": 6,
+      "user": "secondtake",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 1,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Saccharinely unremarkable",
+      "score": 5,
+      "user": "Nicole of ArchonCinemaReviews.com",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 20,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Not bad but not good either",
+      "score": 6,
+      "user": "divefanatic",
+      "review_date": {
+        "month": 8,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Way worse than the source material, but still acceptable.",
+      "score": 5,
+      "user": "Ziu Stag",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 11,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Uhhh... Wha?",
+      "score": 3,
+      "user": "Whitney D",
+      "review_date": {
+        "month": 1,
+        "year": 2015,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "A Spirited Light and Charmingly Different Comedy",
+      "score": 9,
+      "user": "tabuno",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 4,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "This movie is not bad",
+      "score": 7,
+      "user": "Stansie Ric",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 31,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Best if you haven't seen the original German version first.",
+      "score": 7,
+      "user": "Frank Martin",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 3,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Imagine a Rapunzel inspired film in which there is only a wicked mother, and a prince who helps turn the would-be princess' life around.",
+      "score": 7,
+      "user": "Amari-Sali",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 27,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "An uneven, yet interesting to watch, film!",
+      "score": 6,
+      "user": "kkonialis",
+      "review_date": {
+        "month": 6,
+        "year": 2014,
+        "day": 12,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "I wanted more!",
+      "score": 10,
+      "user": "jarvis54",
+      "review_date": {
+        "month": 10,
+        "year": 2014,
+        "day": 17,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Loved it!",
+      "score": 10,
+      "user": "Katherine Kanczuga",
+      "review_date": {
+        "month": 7,
+        "year": 2014,
+        "day": 19,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Piece of garbage",
+      "score": 1,
+      "user": "Gajendra Bisht",
+      "review_date": {
+        "month": 2,
+        "year": 2015,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Funny, clever and charming enough to get past the cheesy rom-com elements",
+      "score": 7,
+      "user": "napierslogs",
+      "review_date": {
+        "month": 3,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Pretty enjoyable with a great performance from Evan Rachel Wood",
+      "score": 7,
+      "user": "yeltzmanmatt",
+      "review_date": {
+        "month": 11,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Nice little road picture",
+      "score": 8,
+      "user": "badland",
+      "review_date": {
+        "month": 9,
+        "year": 2014,
+        "day": 13,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "jay of all",
+      "score": 5,
+      "user": "bcr43",
+      "review_date": {
+        "month": 4,
+        "year": 2014,
+        "day": 26,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "It's like an anti-morality tale",
+      "score": 2,
+      "user": "Sam Quigley",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 23,
+        "__type__": "datetime.date"
+      }
+    },
+    {
+      "contents": "Great actors in a tragic mess",
+      "score": 2,
+      "user": "Felonious-Punk",
+      "review_date": {
+        "month": 2,
+        "year": 2014,
+        "day": 22,
+        "__type__": "datetime.date"
+      }
+    }
+  ],
+  "duration": 90,
+  "votes_per_demo": {
+    "aged_45+": 1474,
+    "top_1000_voters": 139,
+    "males_under_18": 9,
+    "males_aged_18-29": 3113,
+    "imdb_users": 18322,
+    "males_aged_45+": 1071,
+    "aged_18-29": 7572,
+    "us_users": 2098,
+    "females_aged_30-44": 2132,
+    "males": 7861,
+    "females": 7305,
+    "females_aged_45+": 378,
+    "non-us_users": 8946,
+    "females_aged_18-29": 4369,
+    "females_under_18": 43,
+    "aged_30-44": 5514,
+    "aged_under_18": 53,
+    "males_aged_30-44": 3310
+  },
   "genres": [
     "comedy",
     "drama",
     "romance"
   ],
-  "avg_screens": 18.0,
-  "opening_weekend_income": 11766,
-  "year": 2014,
   "opening_weekend_income_currency": "$",
-  "rating_count": 18316,
-  "votes_per_demo": {
-    "females": 7304,
-    "males_aged_30-44": 3307,
-    "aged_under_18": 53,
-    "females_aged_30-44": 2131,
-    "females_aged_45+": 378,
-    "us_users": 2098,
-    "aged_45+": 1474,
-    "aged_30-44": 5510,
-    "top_1000_voters": 139,
-    "males_aged_18-29": 3113,
-    "females_aged_18-29": 4368,
-    "imdb_users": 18316,
-    "males": 7858,
-    "non-us_users": 8941,
-    "males_under_18": 9,
-    "aged_18-29": 7571,
-    "males_aged_45+": 1071,
-    "females_under_18": 43
-  },
-  "avg_rating_per_demo": {
-    "females": 6.6,
-    "males_aged_30-44": 6.3,
-    "aged_under_18": 6.8,
-    "females_aged_30-44": 6.4,
-    "females_aged_45+": 6.5,
-    "us_users": 6.4,
-    "aged_45+": 6.4,
-    "aged_30-44": 6.3,
-    "top_1000_voters": 5.2,
-    "males_aged_18-29": 6.8,
-    "females_aged_18-29": 6.8,
-    "imdb_users": 6.6,
-    "males": 6.5,
-    "non-us_users": 6.5,
-    "males_under_18": 6.3,
-    "aged_18-29": 6.8,
-    "males_aged_45+": 6.4,
-    "females_under_18": 7.0
-  },
-  "critic_review_count": 26,
-  "user_review_count": 51,
   "rating_freq": {
     "1": 228,
     "2": 208,
     "3": 398,
     "4": 786,
-    "5": 1773,
-    "6": 3719,
-    "7": 5146,
-    "8": 2909,
-    "9": 1323,
-    "10": 1826
+    "5": 1774,
+    "6": 3718,
+    "7": 5148,
+    "8": 2910,
+    "9": 1324,
+    "10": 1828
+  },
+  "release_month": null,
+  "budget": 6000000,
+  "budget_currency": "$",
+  "total_screens": 18,
+  "year": 2014,
+  "rating": 6.6,
+  "critic_review_count": 26,
+  "opening_weekend_date": {
+    "month": 2,
+    "year": 2014,
+    "day": 21,
+    "__type__": "datetime.date"
   },
   "name": "Barefoot",
-  "budget_currency": "$",
-  "budget": 6000000
+  "user_review_count": 51,
+  "avg_screens": 18.0
 }
