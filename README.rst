@@ -10,7 +10,7 @@ A complementary code repository for the  *Online movie ratings and success in Ho
 
 The resulting paper, in PDF form, can be found in `the following link`_.
 
-.. _`the following link`: https://dl.dropboxusercontent.com/u/4070062/Papers/online_ratings_and_success_in_hollywood_movies.pdf
+.. _`the following link`: https://www.dropbox.com/s/dae517gugfk45zh/online_ratings_and_success_in_hollywood_movies.pdf?dl=0
 
 
 Credits
